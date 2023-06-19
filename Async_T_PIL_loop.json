@@ -51925,6 +51925,10 @@
       "detailed_rating": {
          "+": [
             [
+               "8613680",
+               1687194594
+            ],
+            [
                "5344757",
                1617120000
             ],
@@ -51972,7 +51976,7 @@
       },
       "fullname": "classification-committee-memo",
       "id": "1308425070",
-      "rating": "11",
+      "rating": "12",
       "tags": [
          "aktus主任",
          "en",
@@ -51980,7 +51984,7 @@
          "翻譯"
       ],
       "title": "分級委員會備忘錄",
-      "votes": "11"
+      "votes": "12"
    },
    "1616832515": {
       "comments": "1",
@@ -104007,10 +104011,17 @@
       "comments": "0",
       "created_at": "1687177689",
       "created_by": "7852233",
-      "detailed_rating": {},
+      "detailed_rating": {
+         "+": [
+            [
+               "5370805",
+               1687205996
+            ]
+         ]
+      },
       "fullname": "scp-553",
       "id": "1448533935",
-      "rating": "0",
+      "rating": "1",
       "tags": [
          "en",
          "safe",
@@ -104023,6 +104034,6 @@
          "鱗翅目"
       ],
       "title": "SCP-553 - 晶蝶",
-      "votes": "0"
+      "votes": "1"
    }
 }
