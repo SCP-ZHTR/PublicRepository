@@ -104011,10 +104011,17 @@
       "comments": "0",
       "created_at": "1687177689",
       "created_by": "7852233",
-      "detailed_rating": {},
+      "detailed_rating": {
+         "+": [
+            [
+               "5370805",
+               1687205996
+            ]
+         ]
+      },
       "fullname": "scp-553",
       "id": "1448533935",
-      "rating": "0",
+      "rating": "1",
       "tags": [
          "en",
          "safe",
@@ -104027,6 +104034,6 @@
          "鱗翅目"
       ],
       "title": "SCP-553 - 晶蝶",
-      "votes": "0"
+      "votes": "1"
    }
 }
