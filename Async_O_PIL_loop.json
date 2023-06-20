@@ -114031,10 +114031,21 @@
       "comments": "0",
       "created_at": "1687227321",
       "created_by": "5338547",
-      "detailed_rating": {},
+      "detailed_rating": {
+         "+": [
+            [
+               "8081917",
+               1687228084
+            ],
+            [
+               "7852233",
+               1687228084
+            ]
+         ]
+      },
       "fullname": "summer-clear-sky-contest",
       "id": "1448544850",
-      "rating": "0",
+      "rating": "2",
       "tags": [
          "中心",
          "原創",
@@ -114042,6 +114053,6 @@
          "競賽"
       ],
       "title": "夏日晴空競賽",
-      "votes": "0"
+      "votes": "2"
    }
 }
