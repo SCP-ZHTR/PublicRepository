@@ -93517,6 +93517,18 @@
       "detailed_rating": {
          "+": [
             [
+               "6503482",
+               1687228400
+            ],
+            [
+               "7073060",
+               1687228400
+            ],
+            [
+               "8480087",
+               1687228400
+            ],
+            [
                "8081917",
                1687228084
             ],
@@ -93526,8 +93538,8 @@
             ]
          ]
       },
-      "justified_rating": 2,
-      "justified_u_count": 2,
+      "justified_rating": 5,
+      "justified_u_count": 5,
       "justified_d_count": 0
    }
 }
