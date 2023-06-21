@@ -69951,9 +69951,16 @@
       "justified_d_count": 0
    },
    "1687359489": {
-      "detailed_rating": {},
-      "justified_rating": 0,
-      "justified_u_count": 0,
+      "detailed_rating": {
+         "+": [
+            [
+               "6217438",
+               1687361059
+            ]
+         ]
+      },
+      "justified_rating": 1,
+      "justified_u_count": 1,
       "justified_d_count": 0
    },
    "1687360483": {
@@ -69961,7 +69968,7 @@
          "+": [
             [
                "6217438",
-               1687360859
+               1687361059
             ]
          ]
       },
