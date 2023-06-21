@@ -104071,5 +104071,70 @@
       ],
       "title": "SCP-7757 - Steven Y. Hayes不存在。",
       "votes": "1"
+   },
+   "1687359489": {
+      "comments": "0",
+      "created_at": "1687359489",
+      "created_by": "5370805",
+      "detailed_rating": {},
+      "fullname": "scp-6269",
+      "id": "1448574182",
+      "rating": "0",
+      "tags": [
+         "en",
+         "mcdoctorate博士",
+         "scp",
+         "thaumiel",
+         "交換",
+         "反熵",
+         "合著",
+         "基金會製造",
+         "工具",
+         "機械",
+         "翻譯",
+         "貨幣",
+         "超維度",
+         "電子",
+         "電腦"
+      ],
+      "title": "SCP-6269 - 多重宇宙夾娃娃機",
+      "votes": "0"
+   },
+   "1687360483": {
+      "comments": "0",
+      "created_at": "1687360483",
+      "created_by": "6217438",
+      "detailed_rating": {
+         "+": [
+            [
+               "6217438",
+               1687360859
+            ]
+         ]
+      },
+      "fullname": "scp-6183",
+      "id": "1448574326",
+      "rating": "1",
+      "tags": [
+         "bold主任",
+         "en",
+         "goblincon2023",
+         "keter",
+         "meta",
+         "reynders博士",
+         "scp",
+         "simon-pietrykau",
+         "合著",
+         "廢除部",
+         "循環",
+         "時間影響",
+         "概念",
+         "深井目錄",
+         "相嘯魔",
+         "翻譯",
+         "電腦"
+      ],
+      "title": "SCP-6183 - 黑 條",
+      "votes": "1"
    }
 }
