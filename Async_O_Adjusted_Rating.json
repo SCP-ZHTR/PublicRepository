@@ -93638,5 +93638,18 @@
       "justified_rating": 4,
       "justified_u_count": 4,
       "justified_d_count": 0
+   },
+   "1687451560": {
+      "detailed_rating": {
+         "+": [
+            [
+               "6091157",
+               1687451956
+            ]
+         ]
+      },
+      "justified_rating": 1,
+      "justified_u_count": 1,
+      "justified_d_count": 0
    }
 }
