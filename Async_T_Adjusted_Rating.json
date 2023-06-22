@@ -70030,13 +70030,17 @@
       "detailed_rating": {
          "+": [
             [
+               "8033564",
+               1687415695
+            ],
+            [
                "6217438",
                1687412302
             ]
          ]
       },
-      "justified_rating": 1,
-      "justified_u_count": 1,
+      "justified_rating": 2,
+      "justified_u_count": 2,
       "justified_d_count": 0
    }
 }
