@@ -30485,6 +30485,10 @@
       "detailed_rating": {
          "+": [
             [
+               "8081917",
+               1687732633
+            ],
+            [
                "8033564",
                1687409846
             ],
@@ -30582,8 +30586,8 @@
             ]
          ]
       },
-      "justified_rating": 24,
-      "justified_u_count": 24,
+      "justified_rating": 25,
+      "justified_u_count": 25,
       "justified_d_count": 0
    },
    "1606142045": {
