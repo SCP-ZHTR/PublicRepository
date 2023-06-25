@@ -70142,13 +70142,17 @@
       "detailed_rating": {
          "+": [
             [
+               "5435485",
+               1687697366
+            ],
+            [
                "6217438",
                1687697071
             ]
          ]
       },
-      "justified_rating": 1,
-      "justified_u_count": 1,
+      "justified_rating": 2,
+      "justified_u_count": 2,
       "justified_d_count": 0
    }
 }
