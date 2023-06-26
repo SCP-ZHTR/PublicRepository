@@ -104482,5 +104482,30 @@
       ],
       "title": "SCP-3812 - 我身後的聲音",
       "votes": "5"
+   },
+   "1687782032": {
+      "comments": "1",
+      "created_at": "1687782032",
+      "created_by": "5370805",
+      "detailed_rating": {
+         "+": [
+            [
+               "7073060",
+               1687782462
+            ]
+         ]
+      },
+      "fullname": "placeholder",
+      "id": "1448636301",
+      "rating": "1",
+      "tags": [
+         "en",
+         "mcdoctorate博士",
+         "保衛43",
+         "故事",
+         "翻譯"
+      ],
+      "title": "佔位符",
+      "votes": "1"
    }
 }
