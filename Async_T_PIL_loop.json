@@ -104513,12 +104513,16 @@
       "created_at": "1687792254",
       "created_by": "5325850",
       "detailed_rating": {
-         "+": [],
-         "-": []
+         "+": [
+            [
+               "6217438",
+               1687793155
+            ]
+         ]
       },
       "fullname": "scp-7278",
       "id": "1448637823",
-      "rating": "0",
+      "rating": "1",
       "tags": [
          "homo-sapiens-sidhe",
          "safe",
@@ -104532,7 +104536,7 @@
          "誤傳部"
       ],
       "title": "SCP-7278 - 妖精之怒",
-      "votes": "0"
+      "votes": "1"
    },
    "1687792662": {
       "comments": "0",
