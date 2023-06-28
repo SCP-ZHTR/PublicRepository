@@ -70332,6 +70332,12 @@
    },
    "1687953888": {
       "detailed_rating": {
+         "-": [
+            [
+               "8452537",
+               1687955957
+            ]
+         ],
          "+": [
             [
                "6217438",
@@ -70339,8 +70345,8 @@
             ]
          ]
       },
-      "justified_rating": 1,
+      "justified_rating": 0,
       "justified_u_count": 1,
-      "justified_d_count": 0
+      "justified_d_count": 1
    }
 }
