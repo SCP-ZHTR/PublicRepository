@@ -104838,12 +104838,16 @@
       "created_at": "1688049098",
       "created_by": "5370805",
       "detailed_rating": {
-         "+": [],
-         "-": []
+         "+": [
+            [
+               "4990678",
+               1688049968
+            ]
+         ]
       },
       "fullname": "ai-classification-guide",
       "id": "1448684271",
-      "rating": "0",
+      "rating": "1",
       "tags": [
          "8號球",
          "aiad",
@@ -104853,6 +104857,6 @@
          "翻譯"
       ],
       "title": "人工智能分類指南",
-      "votes": "0"
+      "votes": "1"
    }
 }
