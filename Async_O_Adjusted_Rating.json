@@ -1023,10 +1023,6 @@
       "detailed_rating": {
          "+": [
             [
-               "7513990",
-               1688046558
-            ],
-            [
                "5484164",
                1644854400
             ],
@@ -1088,8 +1084,8 @@
             ]
          ]
       },
-      "justified_rating": 16,
-      "justified_u_count": 16,
+      "justified_rating": 15,
+      "justified_u_count": 15,
       "justified_d_count": 0
    },
    "1552209198": {
