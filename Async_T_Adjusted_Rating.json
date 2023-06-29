@@ -70364,5 +70364,18 @@
       "justified_rating": 0,
       "justified_u_count": 1,
       "justified_d_count": 1
+   },
+   "1688003924": {
+      "detailed_rating": {
+         "+": [
+            [
+               "6217438",
+               1688004237
+            ]
+         ]
+      },
+      "justified_rating": 1,
+      "justified_u_count": 1,
+      "justified_d_count": 0
    }
 }
