@@ -70373,22 +70373,22 @@
       "detailed_rating": {
          "+": [
             [
+               "5415046",
+               1688089228
+            ],
+            [
                "6217438",
                1688004237
             ]
          ]
       },
-      "justified_rating": 1,
-      "justified_u_count": 1,
+      "justified_rating": 2,
+      "justified_u_count": 2,
       "justified_d_count": 0
    },
    "1688049098": {
       "detailed_rating": {
          "+": [
-            [
-               "5415046",
-               1688088815
-            ],
             [
                "5435485",
                1688052920
@@ -70403,8 +70403,8 @@
             ]
          ]
       },
-      "justified_rating": 4,
-      "justified_u_count": 4,
+      "justified_rating": 3,
+      "justified_u_count": 3,
       "justified_d_count": 0
    }
 }
