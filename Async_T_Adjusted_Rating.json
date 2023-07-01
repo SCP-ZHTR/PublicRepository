@@ -70486,13 +70486,17 @@
       "detailed_rating": {
          "+": [
             [
+               "8546930",
+               1688206384
+            ],
+            [
                "8033564",
                1688202662
             ]
          ]
       },
-      "justified_rating": 1,
-      "justified_u_count": 1,
+      "justified_rating": 2,
+      "justified_u_count": 2,
       "justified_d_count": 0
    }
 }
