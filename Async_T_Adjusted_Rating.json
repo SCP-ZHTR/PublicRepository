@@ -70503,13 +70503,17 @@
       "detailed_rating": {
          "+": [
             [
+               "7504530",
+               1688410838
+            ],
+            [
                "5435485",
                1688139904
             ]
          ]
       },
-      "justified_rating": 1,
-      "justified_u_count": 1,
+      "justified_rating": 2,
+      "justified_u_count": 2,
       "justified_d_count": 0
    },
    "1688139627": {
