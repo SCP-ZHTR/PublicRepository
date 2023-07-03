@@ -1728,6 +1728,10 @@
       "detailed_rating": {
          "+": [
             [
+               "5251681",
+               1688428044
+            ],
+            [
                "5344757",
                1617120000
             ],
@@ -1777,8 +1781,8 @@
             ]
          ]
       },
-      "justified_rating": 12,
-      "justified_u_count": 12,
+      "justified_rating": 13,
+      "justified_u_count": 13,
       "justified_d_count": 0
    },
    "1552307647": {
