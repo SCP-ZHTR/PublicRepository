@@ -70085,6 +70085,10 @@
       "detailed_rating": {
          "+": [
             [
+               "6503482",
+               1688479893
+            ],
+            [
                "7073060",
                1687714179
             ],
@@ -70102,21 +70106,25 @@
             ]
          ]
       },
-      "justified_rating": 4,
-      "justified_u_count": 4,
+      "justified_rating": 5,
+      "justified_u_count": 5,
       "justified_d_count": 0
    },
    "1687390213": {
       "detailed_rating": {
          "+": [
             [
+               "6503482",
+               1688479893
+            ],
+            [
                "7504530",
                1687406851
             ]
          ]
       },
-      "justified_rating": 1,
-      "justified_u_count": 1,
+      "justified_rating": 2,
+      "justified_u_count": 2,
       "justified_d_count": 0
    },
    "1687396478": {
