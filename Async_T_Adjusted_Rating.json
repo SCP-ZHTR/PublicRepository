@@ -70277,6 +70277,10 @@
       "detailed_rating": {
          "+": [
             [
+               "6503482",
+               1688485854
+            ],
+            [
                "6217438",
                1687830384
             ],
@@ -70286,13 +70290,17 @@
             ]
          ]
       },
-      "justified_rating": 2,
-      "justified_u_count": 2,
+      "justified_rating": 3,
+      "justified_u_count": 3,
       "justified_d_count": 0
    },
    "1687792254": {
       "detailed_rating": {
          "+": [
+            [
+               "6503482",
+               1688485854
+            ],
             [
                "5013754",
                1687962381
@@ -70307,13 +70315,17 @@
             ]
          ]
       },
-      "justified_rating": 3,
-      "justified_u_count": 3,
+      "justified_rating": 4,
+      "justified_u_count": 4,
       "justified_d_count": 0
    },
    "1687792662": {
       "detailed_rating": {
          "+": [
+            [
+               "6503482",
+               1688485854
+            ],
             [
                "5013754",
                1687962381
@@ -70324,8 +70336,8 @@
             ]
          ]
       },
-      "justified_rating": 2,
-      "justified_u_count": 2,
+      "justified_rating": 3,
+      "justified_u_count": 3,
       "justified_d_count": 0
    },
    "1687826904": {
