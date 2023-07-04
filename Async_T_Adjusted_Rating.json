@@ -1929,6 +1929,12 @@
    },
    "1554617772": {
       "detailed_rating": {
+         "-": [
+            [
+               "8452537",
+               1688462392
+            ]
+         ],
          "+": [
             [
                "7558128",
@@ -1952,9 +1958,9 @@
             ]
          ]
       },
-      "justified_rating": 5,
+      "justified_rating": 4,
       "justified_u_count": 5,
-      "justified_d_count": 0
+      "justified_d_count": 1
    },
    "1554641115": {
       "detailed_rating": {
