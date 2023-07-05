@@ -70420,12 +70420,6 @@
       "justified_u_count": 1,
       "justified_d_count": 0
    },
-   "1687921000": {
-      "detailed_rating": {},
-      "justified_rating": 0,
-      "justified_u_count": 0,
-      "justified_d_count": 0
-   },
    "1687953888": {
       "detailed_rating": {
          "-": [
@@ -70653,6 +70647,10 @@
       "detailed_rating": {
          "+": [
             [
+               "6788064",
+               1688564631
+            ],
+            [
                "8033564",
                1688490270
             ],
@@ -70662,8 +70660,8 @@
             ]
          ]
       },
-      "justified_rating": 2,
-      "justified_u_count": 2,
+      "justified_rating": 3,
+      "justified_u_count": 3,
       "justified_d_count": 0
    }
 }
