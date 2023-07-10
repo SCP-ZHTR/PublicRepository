@@ -93991,13 +93991,21 @@
       "detailed_rating": {
          "+": [
             [
+               "8452537",
+               1688994540
+            ],
+            [
+               "4990678",
+               1688994540
+            ],
+            [
                "6217438",
                1688993881
             ]
          ]
       },
-      "justified_rating": 1,
-      "justified_u_count": 1,
+      "justified_rating": 3,
+      "justified_u_count": 3,
       "justified_d_count": 0
    }
 }
