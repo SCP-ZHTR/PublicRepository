@@ -117923,5 +117923,35 @@
       ],
       "title": "我走後",
       "votes": "8"
+   },
+   "1689019201": {
+      "comments": "0",
+      "created_at": "1689019201",
+      "created_by": "7605593",
+      "detailed_rating": {
+         "+": [],
+         "-": []
+      },
+      "fullname": "scp-zh-424",
+      "hidden_tags": [
+         "_禁黑"
+      ],
+      "id": "1448963855",
+      "rating": "0",
+      "tags": [
+         "ghost",
+         "int-lorecon2023",
+         "safe",
+         "scp",
+         "site-zh-11",
+         "光照影響",
+         "原創",
+         "植物",
+         "超維度",
+         "門徑",
+         "電力"
+      ],
+      "title": "SCP-ZH-424 - S.P.I.R.I.T.",
+      "votes": "0"
    }
 }
