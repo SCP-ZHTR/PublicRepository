@@ -118272,19 +118272,23 @@
       "created_at": "1688993490",
       "created_by": "4264056",
       "detailed_rating": {
-         "+": [],
-         "-": []
+         "+": [
+            [
+               "6217438",
+               1688993881
+            ]
+         ]
       },
       "fullname": "after-i-left",
       "hidden_tags": null,
       "id": "1448961234",
-      "rating": "0",
+      "rating": "1",
       "tags": [
          "site-zh-44",
          "原創",
          "故事"
       ],
       "title": "我走後",
-      "votes": "0"
+      "votes": "1"
    }
 }
