@@ -118222,6 +118222,10 @@
       "detailed_rating": {
          "+": [
             [
+               "5435485",
+               1688960936
+            ],
+            [
                "4239775",
                1688817654
             ]
@@ -118230,13 +118234,13 @@
       "fullname": "task-forces-zh-complete-list",
       "hidden_tags": null,
       "id": "1448831435",
-      "rating": "1",
+      "rating": "2",
       "tags": [
          "原創",
          "合作",
          "心得"
       ],
       "title": "機動特遣隊-ZH總表",
-      "votes": "1"
+      "votes": "2"
    }
 }
