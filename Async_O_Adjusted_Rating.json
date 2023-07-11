@@ -26993,10 +26993,39 @@
       "justified_d_count": 0
    },
    "1585676929": {
-      "detailed_rating": {},
-      "justified_rating": 0,
-      "justified_u_count": 0,
-      "justified_d_count": 0
+      "detailed_rating": {
+         "+": [
+            [
+               "6127045",
+               1689071918
+            ],
+            [
+               "4761754",
+               1689071918
+            ],
+            [
+               "7840542",
+               1689071918
+            ],
+            [
+               "6369875",
+               1689071918
+            ],
+            [
+               "5013754",
+               1689071918
+            ]
+         ],
+         "-": [
+            [
+               "6783502",
+               1689071918
+            ]
+         ]
+      },
+      "justified_rating": 4,
+      "justified_u_count": 5,
+      "justified_d_count": 1
    },
    "1585728369": {
       "detailed_rating": {
