@@ -300,7 +300,7 @@
          ]
       },
       "fullname": "security-clearance-levels",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "639380231",
       "rating": "3",
       "tags": [
@@ -709,7 +709,7 @@
          ]
       },
       "fullname": "spc-hub",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "639485400",
       "rating": "3",
       "tags": [
@@ -799,7 +799,7 @@
          ]
       },
       "fullname": "scp-int-translation-hub",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "639497334",
       "rating": "2",
       "tags": [
@@ -861,7 +861,7 @@
          ]
       },
       "fullname": "scp-008",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "639658287",
       "rating": "6",
       "tags": [
@@ -884,7 +884,7 @@
       "created_by": "4990678",
       "detailed_rating": {},
       "fullname": "image-use-policy",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "639661168",
       "rating": "0",
       "tags": [
@@ -1062,7 +1062,7 @@
          ]
       },
       "fullname": "site-rules",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "654604348",
       "rating": "1",
       "tags": [
@@ -1146,7 +1146,7 @@
          ]
       },
       "fullname": "scp-166-arc",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "656570480",
       "rating": "9",
       "tags": [
@@ -1328,7 +1328,7 @@
          ]
       },
       "fullname": "ethics-committee-orientation",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "666230821",
       "rating": "13",
       "tags": [
@@ -1518,7 +1518,7 @@
          ]
       },
       "fullname": "hk-016",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "672006770",
       "rating": "2",
       "tags": [
@@ -1535,7 +1535,7 @@
       "created_by": "4990678",
       "detailed_rating": {},
       "fullname": "authors-pages-en",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "672146647",
       "rating": "0",
       "tags": [
@@ -1625,7 +1625,7 @@
       "created_by": "4990678",
       "detailed_rating": {},
       "fullname": "translation-dictionary",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "673960381",
       "rating": "0",
       "tags": [
@@ -1657,7 +1657,7 @@
          ]
       },
       "fullname": "technical-words",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "674025313",
       "rating": "3",
       "tags": [
@@ -1889,7 +1889,7 @@
          ]
       },
       "fullname": "scp-524",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "674451005",
       "rating": "7",
       "tags": [
@@ -1957,7 +1957,7 @@
          ]
       },
       "fullname": "scp-304",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "674639882",
       "rating": "2",
       "tags": [
@@ -1993,7 +1993,7 @@
          ]
       },
       "fullname": "scp-149",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "674686503",
       "rating": "3",
       "tags": [
@@ -2103,7 +2103,7 @@
          ]
       },
       "fullname": "spc-1057-j",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "674688074",
       "rating": "8",
       "tags": [
@@ -2251,7 +2251,7 @@
       "created_by": "3979351",
       "detailed_rating": {},
       "fullname": "scp-380",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "674797492",
       "rating": "0",
       "tags": [
@@ -2284,7 +2284,7 @@
          ]
       },
       "fullname": "scp-322",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "674798841",
       "rating": "2",
       "tags": [
@@ -2494,7 +2494,7 @@
          ]
       },
       "fullname": "scp-181",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "674799444",
       "rating": "5",
       "tags": [
@@ -2795,7 +2795,7 @@
          ]
       },
       "fullname": "scp-395",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "675054148",
       "rating": "1",
       "tags": [
@@ -2976,7 +2976,7 @@
          ]
       },
       "fullname": "scp-790",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "675059222",
       "rating": "3",
       "tags": [
@@ -3134,7 +3134,7 @@
          ]
       },
       "fullname": "scp-312",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "676401455",
       "rating": "3",
       "tags": [
@@ -3169,7 +3169,7 @@
          ]
       },
       "fullname": "scp-133",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "679456735",
       "rating": "2",
       "tags": [
@@ -3217,7 +3217,7 @@
          ]
       },
       "fullname": "scp-063",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "679711605",
       "rating": "6",
       "tags": [
@@ -3265,7 +3265,7 @@
          ]
       },
       "fullname": "scp-390",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "691454229",
       "rating": "6",
       "tags": [
@@ -3298,7 +3298,7 @@
          ]
       },
       "fullname": "scp-283",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "692882654",
       "rating": "2",
       "tags": [
@@ -3333,7 +3333,7 @@
          ]
       },
       "fullname": "scp-284",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "693165950",
       "rating": "3",
       "tags": [
@@ -3653,7 +3653,7 @@
          ]
       },
       "fullname": "scp-343",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "701050073",
       "rating": "4",
       "tags": [
@@ -3772,7 +3772,7 @@
          ]
       },
       "fullname": "scp-073",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "704611333",
       "rating": "11",
       "tags": [
@@ -3823,7 +3823,7 @@
          ]
       },
       "fullname": "scp-280",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "721894200",
       "rating": "5",
       "tags": [
@@ -3883,7 +3883,7 @@
          ]
       },
       "fullname": "scp-2984",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "725607265",
       "rating": "6",
       "tags": [
@@ -3986,7 +3986,7 @@
          ]
       },
       "fullname": "scp-4148",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "746836753",
       "rating": "4",
       "tags": [
@@ -4203,7 +4203,7 @@
          ]
       },
       "fullname": "scp-707",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "756908724",
       "rating": "3",
       "tags": [
@@ -4316,7 +4316,7 @@
          ]
       },
       "fullname": "scp-116",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "757225669",
       "rating": "5",
       "tags": [
@@ -4532,7 +4532,7 @@
          ]
       },
       "fullname": "scp-408",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "757309522",
       "rating": "7",
       "tags": [
@@ -4634,7 +4634,7 @@
          ]
       },
       "fullname": "magnum-opus-or-a-diatribe-in-defence-of-cliche",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "760741985",
       "rating": "8",
       "tags": [
@@ -4814,7 +4814,7 @@
          ]
       },
       "fullname": "scp-076",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "760901262",
       "rating": "10",
       "tags": [
@@ -4926,7 +4926,7 @@
          ]
       },
       "fullname": "lust-in-the-time-of-anomalous-cholera",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "762484869",
       "rating": "8",
       "tags": [
@@ -5024,7 +5024,7 @@
          ]
       },
       "fullname": "the-lizard-in-the-mosaic",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "763123159",
       "rating": "5",
       "tags": [
@@ -5118,7 +5118,7 @@
          ]
       },
       "fullname": "dad-please-it-isnt-funny",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "763131908",
       "rating": "6",
       "tags": [
@@ -5211,7 +5211,7 @@
          ]
       },
       "fullname": "the-liars-confession",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "763147505",
       "rating": "5",
       "tags": [
@@ -5463,7 +5463,7 @@
          ]
       },
       "fullname": "updated-amnestics-guide",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "772067813",
       "rating": "17",
       "tags": [
@@ -5564,7 +5564,7 @@
          ]
       },
       "fullname": "nexus-series",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "784007254",
       "rating": "8",
       "tags": [
@@ -5709,7 +5709,7 @@
          ]
       },
       "fullname": "do-not-collect-200",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "786658800",
       "rating": "4",
       "tags": [
@@ -6924,7 +6924,7 @@
          ]
       },
       "fullname": "chapter-1-verse-1",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "790557247",
       "rating": "7",
       "tags": [
@@ -6985,7 +6985,7 @@
          ]
       },
       "fullname": "fifthbobpentapants",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "791023596",
       "rating": "10",
       "tags": [
@@ -7031,7 +7031,7 @@
          ]
       },
       "fullname": "the-moons-stellar-companion",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "791453735",
       "rating": "6",
       "tags": [
@@ -7077,7 +7077,7 @@
          ]
       },
       "fullname": "to-swear-an-oath",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "795158171",
       "rating": "6",
       "tags": [
@@ -7190,7 +7190,7 @@
          ]
       },
       "fullname": "secure",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "799162872",
       "rating": "2",
       "tags": [
@@ -7219,7 +7219,7 @@
          ]
       },
       "fullname": "contain",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "799556046",
       "rating": "2",
       "tags": [
@@ -7248,7 +7248,7 @@
          ]
       },
       "fullname": "protect2",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "799556182",
       "rating": "2",
       "tags": [
@@ -7293,7 +7293,7 @@
          ]
       },
       "fullname": "niveaux-de-menace-des-objets-scp",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "799574250",
       "rating": "6",
       "tags": [
@@ -7329,7 +7329,7 @@
          ]
       },
       "fullname": "theology-of-a-snake",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "799583127",
       "rating": "4",
       "tags": [
@@ -7367,7 +7367,7 @@
          ]
       },
       "fullname": "css-theme-preparation-tool",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "799593692",
       "rating": "4",
       "tags": [
@@ -7574,7 +7574,7 @@
          ]
       },
       "fullname": "oh-i-feel-it-i-feel-the-cosmos",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "800786247",
       "rating": "6",
       "tags": [
@@ -7742,7 +7742,7 @@
          ]
       },
       "fullname": "dr-gears-s-personnel-file",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "801596885",
       "rating": "4",
       "tags": [
@@ -7794,7 +7794,7 @@
          ]
       },
       "fullname": "impossible-to-destroy-reptile",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "801610648",
       "rating": "8",
       "tags": [
@@ -7844,7 +7844,7 @@
          ]
       },
       "fullname": "doctors-of-the-church-hub",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "801622744",
       "rating": "7",
       "tags": [
@@ -8199,7 +8199,7 @@
       "created_by": "4055881",
       "detailed_rating": {},
       "fullname": "2018-survey-results",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "801756228",
       "rating": "0",
       "tags": [
@@ -8255,7 +8255,7 @@
          ]
       },
       "fullname": "scp-745-jp",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "801759834",
       "rating": "9",
       "tags": [
@@ -8303,7 +8303,7 @@
          ]
       },
       "fullname": "yuletide-joy",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "801760719",
       "rating": "6",
       "tags": [
@@ -8441,7 +8441,7 @@
          ]
       },
       "fullname": "dk-class-donkey-kong-scenario",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "801774591",
       "rating": "3",
       "tags": [
@@ -8701,7 +8701,7 @@
          ]
       },
       "fullname": "scpoems",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "801787834",
       "rating": "5",
       "tags": [
@@ -8755,7 +8755,7 @@
          ]
       },
       "fullname": "my-beloved-gecko",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "801791741",
       "rating": "5",
       "tags": [
@@ -8878,7 +8878,7 @@
          ]
       },
       "fullname": "dr-gerald-s-personnel-file",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "801808892",
       "rating": "3",
       "tags": [
@@ -9063,7 +9063,7 @@
          ]
       },
       "fullname": "misconduct-on-the-magnificent-mile",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "801814852",
       "rating": "4",
       "tags": [
@@ -9100,7 +9100,7 @@
          ]
       },
       "fullname": "nobody-likes-having-enemies",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "801814893",
       "rating": "4",
       "tags": [
@@ -9183,7 +9183,7 @@
          ]
       },
       "fullname": "nobody-in-trouble",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "801815154",
       "rating": "5",
       "tags": [
@@ -9329,7 +9329,7 @@
          ]
       },
       "fullname": "coming-out-to-the-woods",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "801882222",
       "rating": "4",
       "tags": [
@@ -9520,7 +9520,7 @@
          ]
       },
       "fullname": "css-policy",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "802211567",
       "rating": "3",
       "tags": [
@@ -9604,7 +9604,7 @@
          ]
       },
       "fullname": "scp-1890",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "802218712",
       "rating": "4",
       "tags": [
@@ -9825,7 +9825,7 @@
          ]
       },
       "fullname": "exploration-log-a009-1",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "802226225",
       "rating": "4",
       "tags": [
@@ -9920,7 +9920,7 @@
          ]
       },
       "fullname": "talked-with-516",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "802226767",
       "rating": "3",
       "tags": [
@@ -10067,7 +10067,7 @@
          ]
       },
       "fullname": "scp-239",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "802243295",
       "rating": "6",
       "tags": [
@@ -10243,7 +10243,7 @@
          ]
       },
       "fullname": "home-is-a-place-with-mushrooms",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "802274649",
       "rating": "7",
       "tags": [
@@ -10444,7 +10444,7 @@
          ]
       },
       "fullname": "lake-ontario-array",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "802365311",
       "rating": "5",
       "tags": [
@@ -10491,7 +10491,7 @@
          ]
       },
       "fullname": "scp-4031",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "802376126",
       "rating": "6",
       "tags": [
@@ -10718,7 +10718,7 @@
          ]
       },
       "fullname": "wanderers:a-suicide-note",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "803083290",
       "rating": "5",
       "tags": [
@@ -11107,7 +11107,7 @@
          ]
       },
       "fullname": "so-you-want-to-write-a-humanoid-scp-object",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "806917228",
       "rating": "12",
       "tags": [
@@ -11143,7 +11143,7 @@
          ]
       },
       "fullname": "scp-4930",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "806920074",
       "rating": "4",
       "tags": [
@@ -11196,7 +11196,7 @@
          ]
       },
       "fullname": "dr-kondraki-s-personnel-file",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "807555217",
       "rating": "6",
       "tags": [
@@ -11224,7 +11224,7 @@
          ]
       },
       "fullname": "dr-kondraki-s-work-log",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "807566508",
       "rating": "2",
       "tags": [
@@ -11349,7 +11349,7 @@
          ]
       },
       "fullname": "database-error",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "807652586",
       "rating": "6",
       "tags": [
@@ -11394,7 +11394,7 @@
          ]
       },
       "fullname": "scp-50-ae-j",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "809302740",
       "rating": "6",
       "tags": [
@@ -11513,7 +11513,7 @@
          ]
       },
       "fullname": "scp-1322-j",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "810113349",
       "rating": "9",
       "tags": [
@@ -11632,7 +11632,7 @@
          ]
       },
       "fullname": "this-is-the-real-life",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "811717367",
       "rating": "8",
       "tags": [
@@ -11981,7 +11981,7 @@
          ]
       },
       "fullname": "russian-branch-sub-copyright-law",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "813872978",
       "rating": "10",
       "tags": [
@@ -12021,7 +12021,7 @@
          ]
       },
       "fullname": "tim-wilson-s-close-shave",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "817793265",
       "rating": "5",
       "tags": [
@@ -12141,7 +12141,7 @@
          ]
       },
       "fullname": "iteration-f",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "817809050",
       "rating": "9",
       "tags": [
@@ -12422,7 +12422,7 @@
          ]
       },
       "fullname": "scp-4311",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "819684511",
       "rating": "8",
       "tags": [
@@ -12461,7 +12461,7 @@
          ]
       },
       "fullname": "guia-licencias-de-archivos",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "819684567",
       "rating": "3",
       "tags": [
@@ -12748,7 +12748,7 @@
          ]
       },
       "fullname": "wanderers:cooking-with-zoogs",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "822916605",
       "rating": "4",
       "tags": [
@@ -12877,7 +12877,7 @@
          ]
       },
       "fullname": "scp-500",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "822931953",
       "rating": "12",
       "tags": [
@@ -12921,7 +12921,7 @@
          ]
       },
       "fullname": "scp-352",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "823848617",
       "rating": "5",
       "tags": [
@@ -12992,7 +12992,7 @@
          ]
       },
       "fullname": "scpdeclassified-pattern-screamers-declassified",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "827153464",
       "rating": "10",
       "tags": [
@@ -13037,7 +13037,7 @@
          ]
       },
       "fullname": "scp-4690",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "827153497",
       "rating": "6",
       "tags": [
@@ -13180,7 +13180,7 @@
          ]
       },
       "fullname": "scp-830",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "829712598",
       "rating": "6",
       "tags": [
@@ -13378,7 +13378,7 @@
          ]
       },
       "fullname": "scp-355",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "835220004",
       "rating": "6",
       "tags": [
@@ -13481,7 +13481,7 @@
          ]
       },
       "fullname": "scp-350",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "835226924",
       "rating": "4",
       "tags": [
@@ -13613,7 +13613,7 @@
          ]
       },
       "fullname": "scp-008-j",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "835242131",
       "rating": "11",
       "tags": [
@@ -13811,7 +13811,7 @@
          ]
       },
       "fullname": "the-cool-war-hub",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "841913322",
       "rating": "2",
       "tags": [
@@ -13842,7 +13842,7 @@
          ]
       },
       "fullname": "the-friday-exhibition",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "841913436",
       "rating": "2",
       "tags": [
@@ -13880,7 +13880,7 @@
          ]
       },
       "fullname": "insufficient-clearance",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "841913625",
       "rating": "4",
       "tags": [
@@ -13914,7 +13914,7 @@
          ]
       },
       "fullname": "drclef-member-page",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "842846744",
       "rating": "3",
       "tags": [
@@ -14037,7 +14037,7 @@
          ]
       },
       "fullname": "the-death-of-alto-clef-etc",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "842854987",
       "rating": "12",
       "tags": [
@@ -14066,7 +14066,7 @@
          ]
       },
       "fullname": "scp-1096",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "842855612",
       "rating": "2",
       "tags": [
@@ -14171,7 +14171,7 @@
          ]
       },
       "fullname": "party-of-gods",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "844295846",
       "rating": "20",
       "tags": [
@@ -14206,7 +14206,7 @@
          ]
       },
       "fullname": "wanderers:dustjacket-theme",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "845353268",
       "rating": "2",
       "tags": [
@@ -14239,7 +14239,7 @@
          ]
       },
       "fullname": "wonder-world-dossier",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "846655101",
       "rating": "3",
       "tags": [
@@ -14550,7 +14550,7 @@
          ]
       },
       "fullname": "wanderers:of-the-masters-of-books",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "847068890",
       "rating": "2",
       "tags": [
@@ -14730,7 +14730,7 @@
          ]
       },
       "fullname": "scp-404-j",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "847214355",
       "rating": "15",
       "tags": [
@@ -14981,7 +14981,7 @@
          ]
       },
       "fullname": "scp-447",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "852980755",
       "rating": "3",
       "tags": [
@@ -15075,7 +15075,7 @@
          ]
       },
       "fullname": "wanderers:for-foundation-writers",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "853017120",
       "rating": "4",
       "tags": [
@@ -15370,7 +15370,7 @@
          ]
       },
       "fullname": "nx-07",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "855423835",
       "rating": "5",
       "tags": [
@@ -15518,7 +15518,7 @@
          ]
       },
       "fullname": "wanderers:all-astronauts-go-to-heaven",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "857996847",
       "rating": "10",
       "tags": [
@@ -15573,7 +15573,7 @@
          ]
       },
       "fullname": "clef101",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "858214842",
       "rating": "8",
       "tags": [
@@ -15663,7 +15663,7 @@
          ]
       },
       "fullname": "wanderers:song-of-sugar",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "858347822",
       "rating": "3",
       "tags": [
@@ -15683,7 +15683,7 @@
       "created_by": "DELETED",
       "detailed_rating": {},
       "fullname": "scp-4323",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "858372688",
       "rating": "0",
       "tags": [
@@ -15985,7 +15985,7 @@
          ]
       },
       "fullname": "scp-093",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "858496265",
       "rating": "10",
       "tags": [
@@ -16030,7 +16030,7 @@
          ]
       },
       "fullname": "scared-stiff",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "858506043",
       "rating": "4",
       "tags": [
@@ -16064,7 +16064,7 @@
          ]
       },
       "fullname": "wanderers:turn-off-gravity",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "858998779",
       "rating": "3",
       "tags": [
@@ -16173,7 +16173,7 @@
          ]
       },
       "fullname": "gears-is-totally-not-a-robot-guys",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "860545035",
       "rating": "10",
       "tags": [
@@ -16206,7 +16206,7 @@
          ]
       },
       "fullname": "wanderers:the-study-of-ancient-spells",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "860548116",
       "rating": "3",
       "tags": [
@@ -16229,7 +16229,7 @@
       "created_by": "5415046",
       "detailed_rating": {},
       "fullname": "log-of-unexplained-locations",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "863118704",
       "rating": "0",
       "tags": [
@@ -16656,7 +16656,7 @@
          ]
       },
       "fullname": "poem-found-on-a-bronze-tablet",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "887673468",
       "rating": "2",
       "tags": [
@@ -16743,7 +16743,7 @@
          ]
       },
       "fullname": "donations-policy",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "898803147",
       "rating": "1",
       "tags": [
@@ -16770,7 +16770,7 @@
          ]
       },
       "fullname": "scp-1112-ru",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "902213745",
       "rating": "2",
       "tags": [
@@ -16819,7 +16819,7 @@
          ]
       },
       "fullname": "it-smells-cold",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "904776973",
       "rating": "6",
       "tags": [
@@ -16865,7 +16865,7 @@
          ]
       },
       "fullname": "flamingos",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "904858355",
       "rating": "6",
       "tags": [
@@ -17202,7 +17202,7 @@
          ]
       },
       "fullname": "atashi-merisa",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "919136887",
       "rating": "14",
       "tags": [
@@ -17261,7 +17261,7 @@
          ]
       },
       "fullname": "mother-mother-i-miss-you-so",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "923104036",
       "rating": "4",
       "tags": [
@@ -17592,7 +17592,7 @@
          ]
       },
       "fullname": "the-halloween-breach",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "924682153",
       "rating": "5",
       "tags": [
@@ -17638,7 +17638,7 @@
          ]
       },
       "fullname": "scp-105",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "933184690",
       "rating": "6",
       "tags": [
@@ -17929,7 +17929,7 @@
          ]
       },
       "fullname": "scp-321",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "941260874",
       "rating": "3",
       "tags": [
@@ -17958,7 +17958,7 @@
          ]
       },
       "fullname": "scp-590",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "941261055",
       "rating": "1",
       "tags": [
@@ -19052,7 +19052,7 @@
          ]
       },
       "fullname": "scp-055",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "986153734",
       "rating": "12",
       "tags": [
@@ -19405,7 +19405,7 @@
          ]
       },
       "fullname": "fondation-a-valnuit",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "986338840",
       "rating": "5",
       "tags": [
@@ -20483,7 +20483,7 @@
          ]
       },
       "fullname": "yesterday",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "986642625",
       "rating": "7",
       "tags": [
@@ -20520,7 +20520,7 @@
          ]
       },
       "fullname": "scp-4083",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "986650741",
       "rating": "2",
       "tags": [
@@ -20861,7 +20861,7 @@
          ]
       },
       "fullname": "scp-5040",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "987305640",
       "rating": "6",
       "tags": [
@@ -21665,7 +21665,7 @@
          ]
       },
       "fullname": "scp-014",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "997136466",
       "rating": "2",
       "tags": [
@@ -22027,7 +22027,7 @@
          ]
       },
       "fullname": "scp-093-red-test",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "998685569",
       "rating": "3",
       "tags": [
@@ -22373,7 +22373,7 @@
          ]
       },
       "fullname": "scp-729",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "999283347",
       "rating": "3",
       "tags": [
@@ -22438,7 +22438,7 @@
          ]
       },
       "fullname": "scp-326",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "999664744",
       "rating": "2",
       "tags": [
@@ -22670,7 +22670,7 @@
          ]
       },
       "fullname": "scp-1612",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "999696788",
       "rating": "3",
       "tags": [
@@ -22705,7 +22705,7 @@
          ]
       },
       "fullname": "scp-389",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "999732594",
       "rating": "2",
       "tags": [
@@ -22755,7 +22755,7 @@
          ]
       },
       "fullname": "scp-076-2",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "999740257",
       "rating": "6",
       "tags": [
@@ -22794,7 +22794,7 @@
          ]
       },
       "fullname": "scp-072",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "999752253",
       "rating": "4",
       "tags": [
@@ -22874,7 +22874,7 @@
          ]
       },
       "fullname": "scp-065",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "999753954",
       "rating": "2",
       "tags": [
@@ -22910,7 +22910,7 @@
          ]
       },
       "fullname": "scp-067",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "999762883",
       "rating": "2",
       "tags": [
@@ -22943,7 +22943,7 @@
          ]
       },
       "fullname": "scp-485",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "999763273",
       "rating": "2",
       "tags": [
@@ -23081,7 +23081,7 @@
          ]
       },
       "fullname": "scp-1057",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "999856191",
       "rating": "4",
       "tags": [
@@ -23126,7 +23126,7 @@
          ]
       },
       "fullname": "scp-2924",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "999857293",
       "rating": "4",
       "tags": [
@@ -23161,7 +23161,7 @@
          ]
       },
       "fullname": "scp-2032",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "999861875",
       "rating": "3",
       "tags": [
@@ -23205,7 +23205,7 @@
          ]
       },
       "fullname": "scp-099",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "999862440",
       "rating": "3",
       "tags": [
@@ -23259,7 +23259,7 @@
          ]
       },
       "fullname": "scp-2662",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "999870864",
       "rating": "7",
       "tags": [
@@ -23297,7 +23297,7 @@
          ]
       },
       "fullname": "scp-2043",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "999872065",
       "rating": "2",
       "tags": [
@@ -23390,7 +23390,7 @@
          ]
       },
       "fullname": "scp-091",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "999879926",
       "rating": "4",
       "tags": [
@@ -23437,7 +23437,7 @@
          ]
       },
       "fullname": "log-of-anomalous-items",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "999880302",
       "rating": "5",
       "tags": [
@@ -23479,7 +23479,7 @@
          ]
       },
       "fullname": "document-087-iii",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "999881139",
       "rating": "5",
       "tags": [
@@ -23516,7 +23516,7 @@
          ]
       },
       "fullname": "scp-037",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "999921923",
       "rating": "4",
       "tags": [
@@ -23675,7 +23675,7 @@
          ]
       },
       "fullname": "djkaktus-regarding-covid-19",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "999923091",
       "rating": "22",
       "tags": [
@@ -23708,7 +23708,7 @@
          ]
       },
       "fullname": "scp-2243",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "999929826",
       "rating": "3",
       "tags": [
@@ -23817,7 +23817,7 @@
          ]
       },
       "fullname": "interview-882-1",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "999949887",
       "rating": "3",
       "tags": [
@@ -23846,7 +23846,7 @@
          ]
       },
       "fullname": "scp-1033",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "999962155",
       "rating": "2",
       "tags": [
@@ -23925,7 +23925,7 @@
          ]
       },
       "fullname": "scp-096",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1002084087",
       "rating": "11",
       "tags": [
@@ -24012,7 +24012,7 @@
          ]
       },
       "fullname": "scp-1983",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1002084918",
       "rating": "15",
       "tags": [
@@ -24049,7 +24049,7 @@
          ]
       },
       "fullname": "scp-038",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1002100685",
       "rating": "2",
       "tags": [
@@ -24116,7 +24116,7 @@
          ]
       },
       "fullname": "scp-001-o5",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1002107453",
       "rating": "10",
       "tags": [
@@ -24187,7 +24187,7 @@
          ]
       },
       "fullname": "scp-2845",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1002112281",
       "rating": "12",
       "tags": [
@@ -24241,7 +24241,7 @@
          ]
       },
       "fullname": "scp-7000-j",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1002112756",
       "rating": "6",
       "tags": [
@@ -24286,7 +24286,7 @@
          ]
       },
       "fullname": "mr-parker",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1002114287",
       "rating": "5",
       "tags": [
@@ -24323,7 +24323,7 @@
          ]
       },
       "fullname": "scp-069",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1002130542",
       "rating": "4",
       "tags": [
@@ -24374,7 +24374,7 @@
          ]
       },
       "fullname": "scp-1007",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1002136797",
       "rating": "5",
       "tags": [
@@ -24441,7 +24441,7 @@
          ]
       },
       "fullname": "scp-426",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1002150758",
       "rating": "9",
       "tags": [
@@ -24520,7 +24520,7 @@
          ]
       },
       "fullname": "scp-662",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1002153337",
       "rating": "3",
       "tags": [
@@ -24718,7 +24718,7 @@
          ]
       },
       "fullname": "erics-journal",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1002160251",
       "rating": "6",
       "tags": [
@@ -24783,7 +24783,7 @@
          ]
       },
       "fullname": "black-white-black-white-black-white-black-white-black-white",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1002163861",
       "rating": "10",
       "tags": [
@@ -24819,7 +24819,7 @@
          ]
       },
       "fullname": "scp-261",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1002166302",
       "rating": "4",
       "tags": [
@@ -24962,7 +24962,7 @@
          ]
       },
       "fullname": "scp-3936",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1002179078",
       "rating": "16",
       "tags": [
@@ -25071,7 +25071,7 @@
       "created_by": "5601790",
       "detailed_rating": {},
       "fullname": "scp-2178",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1002183351",
       "rating": "0",
       "tags": [
@@ -25136,7 +25136,7 @@
          ]
       },
       "fullname": "scp-000",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1002183875",
       "rating": "8",
       "tags": [
@@ -25170,7 +25170,7 @@
          ]
       },
       "fullname": "scp-317",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1002186854",
       "rating": "3",
       "tags": [
@@ -25308,7 +25308,7 @@
          ]
       },
       "fullname": "scp-2874",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1002215148",
       "rating": "5",
       "tags": [
@@ -25356,7 +25356,7 @@
          ]
       },
       "fullname": "scp-3203",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1002222116",
       "rating": "5",
       "tags": [
@@ -25443,7 +25443,7 @@
          ]
       },
       "fullname": "scp-909",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1002225588",
       "rating": "3",
       "tags": [
@@ -25523,7 +25523,7 @@
          ]
       },
       "fullname": "scp-568",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1002236410",
       "rating": "2",
       "tags": [
@@ -25599,7 +25599,7 @@
          ]
       },
       "fullname": "scp-4046",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1002250743",
       "rating": "4",
       "tags": [
@@ -25770,7 +25770,7 @@
          ]
       },
       "fullname": "oh-i-wouldn-t-worry-about-flaky-os",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1002289999",
       "rating": "2",
       "tags": [
@@ -25801,7 +25801,7 @@
          ]
       },
       "fullname": "scp-168",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1002297932",
       "rating": "2",
       "tags": [
@@ -25839,7 +25839,7 @@
          ]
       },
       "fullname": "scp-807",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1002299142",
       "rating": "3",
       "tags": [
@@ -25880,7 +25880,7 @@
          ]
       },
       "fullname": "scp-093-recovered-materials",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1002301383",
       "rating": "4",
       "tags": [
@@ -25916,7 +25916,7 @@
          ]
       },
       "fullname": "the-thing-at-the-bottom-of-my-dreams",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1002316515",
       "rating": "4",
       "tags": [
@@ -25963,7 +25963,7 @@
          ]
       },
       "fullname": "branch-list",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1002316646",
       "rating": "1",
       "tags": [
@@ -26103,7 +26103,7 @@
          ]
       },
       "fullname": "scp-991",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1002340670",
       "rating": "2",
       "tags": [
@@ -26220,7 +26220,7 @@
          ]
       },
       "fullname": "long-live-the-king",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1002343600",
       "rating": "6",
       "tags": [
@@ -26284,7 +26284,7 @@
          ]
       },
       "fullname": "scp-2719",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1002356733",
       "rating": "8",
       "tags": [
@@ -26351,7 +26351,7 @@
          ]
       },
       "fullname": "dr-bright-is-no-longer-allowed-to-use-temporal-anomalies",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1002360052",
       "rating": "11",
       "tags": [
@@ -26427,7 +26427,7 @@
          ]
       },
       "fullname": "scp-2998",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1002405021",
       "rating": "13",
       "tags": [
@@ -26471,7 +26471,7 @@
          ]
       },
       "fullname": "scp-450",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1002408633",
       "rating": "4",
       "tags": [
@@ -26507,7 +26507,7 @@
          ]
       },
       "fullname": "scp-905",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1002409436",
       "rating": "3",
       "tags": [
@@ -26587,7 +26587,7 @@
          ]
       },
       "fullname": "scp-2158",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1007022084",
       "rating": "2",
       "tags": [
@@ -26621,7 +26621,7 @@
          ]
       },
       "fullname": "scp-1997",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1007158394",
       "rating": "2",
       "tags": [
@@ -26711,7 +26711,7 @@
          ]
       },
       "fullname": "keters-with-hats",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1011855654",
       "rating": "3",
       "tags": [
@@ -26745,7 +26745,7 @@
          ]
       },
       "fullname": "zen-and-the-art-of-data-expunged",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1011855947",
       "rating": "3",
       "tags": [
@@ -26818,7 +26818,7 @@
          ]
       },
       "fullname": "antimemetics-division-hub",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1014599013",
       "rating": "13",
       "tags": [
@@ -26894,7 +26894,7 @@
          ]
       },
       "fullname": "scp-3008",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1015491114",
       "rating": "14",
       "tags": [
@@ -26946,7 +26946,7 @@
          ]
       },
       "fullname": "scp-3671",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1015492807",
       "rating": "7",
       "tags": [
@@ -26978,7 +26978,7 @@
          ]
       },
       "fullname": "scp-1079",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1015494309",
       "rating": "1",
       "tags": [
@@ -27083,7 +27083,7 @@
          ]
       },
       "fullname": "scp-1092",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1015495208",
       "rating": "0",
       "tags": [
@@ -27157,7 +27157,7 @@
          ]
       },
       "fullname": "scp-1584",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1015496541",
       "rating": "3",
       "tags": [
@@ -27200,7 +27200,7 @@
          ]
       },
       "fullname": "scp-2915",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1015497888",
       "rating": "4",
       "tags": [
@@ -27250,7 +27250,7 @@
          ]
       },
       "fullname": "crunch",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1018102878",
       "rating": "6",
       "tags": [
@@ -27307,7 +27307,7 @@
          ]
       },
       "fullname": "we-need-to-talk-about-fifty-five",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1019312040",
       "rating": "9",
       "tags": [
@@ -27332,7 +27332,7 @@
          ]
       },
       "fullname": "scp-403",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1021572053",
       "rating": "1",
       "tags": [
@@ -27365,7 +27365,7 @@
          ]
       },
       "fullname": "audio-of-war",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1022607919",
       "rating": "2",
       "tags": [
@@ -27424,7 +27424,7 @@
          ]
       },
       "fullname": "10-30-a-m",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1023252731",
       "rating": "9",
       "tags": [
@@ -27470,7 +27470,7 @@
          ]
       },
       "fullname": "scp-458",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1024158859",
       "rating": "6",
       "tags": [
@@ -27560,7 +27560,7 @@
          ]
       },
       "fullname": "173",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1024174254",
       "rating": "6",
       "tags": [
@@ -27601,7 +27601,7 @@
          ]
       },
       "fullname": "don-t-forget",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1024174257",
       "rating": "5",
       "tags": [
@@ -27629,7 +27629,7 @@
          ]
       },
       "fullname": "scp-2486",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1024175304",
       "rating": "2",
       "tags": [
@@ -27878,7 +27878,7 @@
          ]
       },
       "fullname": "posology",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1024182189",
       "rating": "10",
       "tags": [
@@ -27931,7 +27931,7 @@
          ]
       },
       "fullname": "kill-682",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1024183398",
       "rating": "8",
       "tags": [
@@ -27974,7 +27974,7 @@
          ]
       },
       "fullname": "stand-off",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1024185645",
       "rating": "5",
       "tags": [
@@ -28051,7 +28051,7 @@
          ]
       },
       "fullname": "alone",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1024189313",
       "rating": "3",
       "tags": [
@@ -28099,7 +28099,7 @@
          ]
       },
       "fullname": "are-we-christmas-yet",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1024189618",
       "rating": "7",
       "tags": [
@@ -28234,7 +28234,7 @@
          ]
       },
       "fullname": "introductory-antimemetics",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1024197275",
       "rating": "5",
       "tags": [
@@ -28380,7 +28380,7 @@
          ]
       },
       "fullname": "scp-049",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1024208338",
       "rating": "21",
       "tags": [
@@ -28442,7 +28442,7 @@
          ]
       },
       "fullname": "scp-579",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1024215116",
       "rating": "5",
       "tags": [
@@ -28518,7 +28518,7 @@
          ]
       },
       "fullname": "scp-2416",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1024216358",
       "rating": "3",
       "tags": [
@@ -28601,7 +28601,7 @@
          ]
       },
       "fullname": "scp-613",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1024233914",
       "rating": "1",
       "tags": [
@@ -28715,7 +28715,7 @@
          ]
       },
       "fullname": "scp-2365",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1024241071",
       "rating": "3",
       "tags": [
@@ -28858,7 +28858,7 @@
          ]
       },
       "fullname": "remembrance",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1024259098",
       "rating": "5",
       "tags": [
@@ -28989,7 +28989,7 @@
          ]
       },
       "fullname": "scp-3183",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1024281559",
       "rating": "4",
       "tags": [
@@ -29027,7 +29027,7 @@
          ]
       },
       "fullname": "scp-834",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1024286257",
       "rating": "4",
       "tags": [
@@ -29063,7 +29063,7 @@
          ]
       },
       "fullname": "scp-079",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1024297349",
       "rating": "3",
       "tags": [
@@ -29254,7 +29254,7 @@
          ]
       },
       "fullname": "scp-023",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1024392515",
       "rating": "3",
       "tags": [
@@ -29344,7 +29344,7 @@
          ]
       },
       "fullname": "scp-585",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1024428163",
       "rating": "3",
       "tags": [
@@ -29383,7 +29383,7 @@
          ]
       },
       "fullname": "ballad-for-a-faraway-disaster",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1024428458",
       "rating": "4",
       "tags": [
@@ -29420,7 +29420,7 @@
          ]
       },
       "fullname": "scp-024",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1024494162",
       "rating": "4",
       "tags": [
@@ -29458,7 +29458,7 @@
          ]
       },
       "fullname": "scp-025",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1024508790",
       "rating": "3",
       "tags": [
@@ -29490,7 +29490,7 @@
          ]
       },
       "fullname": "scp-026",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1024513369",
       "rating": "2",
       "tags": [
@@ -29519,7 +29519,7 @@
          ]
       },
       "fullname": "scp-060",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1024514602",
       "rating": "1",
       "tags": [
@@ -29561,7 +29561,7 @@
          ]
       },
       "fullname": "scp-4756",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1024516092",
       "rating": "3",
       "tags": [
@@ -29593,7 +29593,7 @@
          ]
       },
       "fullname": "scp-027",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1024556670",
       "rating": "1",
       "tags": [
@@ -29653,7 +29653,7 @@
          ]
       },
       "fullname": "scp-4026",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1024613704",
       "rating": "8",
       "tags": [
@@ -29691,7 +29691,7 @@
          ]
       },
       "fullname": "scp-028",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1024691561",
       "rating": "3",
       "tags": [
@@ -29727,7 +29727,7 @@
          ]
       },
       "fullname": "scp-2351",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1024695630",
       "rating": "3",
       "tags": [
@@ -29769,7 +29769,7 @@
          ]
       },
       "fullname": "spc-hub-2",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1024828768",
       "rating": "4",
       "tags": [
@@ -29802,7 +29802,7 @@
          ]
       },
       "fullname": "scp-2268",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1024835709",
       "rating": "3",
       "tags": [
@@ -29838,7 +29838,7 @@
          ]
       },
       "fullname": "scp-913",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1024883834",
       "rating": "3",
       "tags": [
@@ -30002,7 +30002,7 @@
          ]
       },
       "fullname": "mr-fish",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1026117281",
       "rating": "3",
       "tags": [
@@ -30033,7 +30033,7 @@
          ]
       },
       "fullname": "scp-342",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1026130445",
       "rating": "2",
       "tags": [
@@ -30134,7 +30134,7 @@
          ]
       },
       "fullname": "1-mr-headless",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1026142913",
       "rating": "3",
       "tags": [
@@ -30169,7 +30169,7 @@
          ]
       },
       "fullname": "4-mr-lie",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1026142944",
       "rating": "3",
       "tags": [
@@ -30204,7 +30204,7 @@
          ]
       },
       "fullname": "interval-2",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1026142950",
       "rating": "3",
       "tags": [
@@ -30236,7 +30236,7 @@
          ]
       },
       "fullname": "interval-1",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1026142959",
       "rating": "2",
       "tags": [
@@ -30267,7 +30267,7 @@
          ]
       },
       "fullname": "scp-029",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1026146544",
       "rating": "2",
       "tags": [
@@ -30415,7 +30415,7 @@
          ]
       },
       "fullname": "unforgettable-that-s-what-you-are",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1026201444",
       "rating": "4",
       "tags": [
@@ -30448,7 +30448,7 @@
          ]
       },
       "fullname": "scp-5290",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1026202159",
       "rating": "3",
       "tags": [
@@ -30479,7 +30479,7 @@
          ]
       },
       "fullname": "scp-030",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1026203136",
       "rating": "2",
       "tags": [
@@ -30525,7 +30525,7 @@
          ]
       },
       "fullname": "9-mr-clumsy",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1026225553",
       "rating": "4",
       "tags": [
@@ -30556,7 +30556,7 @@
          ]
       },
       "fullname": "scp-032",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1026245217",
       "rating": "2",
       "tags": [
@@ -30643,7 +30643,7 @@
          ]
       },
       "fullname": "6-mr-stripes",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1026248149",
       "rating": "4",
       "tags": [
@@ -30698,7 +30698,7 @@
          ]
       },
       "fullname": "lockdown-procedures",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1026249220",
       "rating": "8",
       "tags": [
@@ -30785,7 +30785,7 @@
          ]
       },
       "fullname": "ohhello",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1031692842",
       "rating": "3",
       "tags": [
@@ -30898,7 +30898,7 @@
          ]
       },
       "fullname": "scp-917",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1034992118",
       "rating": "2",
       "tags": [
@@ -30943,7 +30943,7 @@
          ]
       },
       "fullname": "scp-1200-ru",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1034992375",
       "rating": "4",
       "tags": [
@@ -31009,7 +31009,7 @@
          ]
       },
       "fullname": "scp-la-002",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1034992774",
       "rating": "1",
       "tags": [
@@ -31101,7 +31101,7 @@
          ]
       },
       "fullname": "scp-1002-ru",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1034998937",
       "rating": "6",
       "tags": [
@@ -31222,7 +31222,7 @@
          ]
       },
       "fullname": "scp-1007-ru",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1035026401",
       "rating": "2",
       "tags": [
@@ -31257,7 +31257,7 @@
          ]
       },
       "fullname": "scp-2599",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1035075153",
       "rating": "3",
       "tags": [
@@ -31433,7 +31433,7 @@
          ]
       },
       "fullname": "scp-033",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1035140851",
       "rating": "8",
       "tags": [
@@ -31468,7 +31468,7 @@
          ]
       },
       "fullname": "scp-939",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1035142386",
       "rating": "3",
       "tags": [
@@ -31593,7 +31593,7 @@
          ]
       },
       "fullname": "rusted-nightmares",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1035147679",
       "rating": "3",
       "tags": [
@@ -31701,7 +31701,7 @@
          ]
       },
       "fullname": "scp-779-ko",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1035148750",
       "rating": "3",
       "tags": [
@@ -31734,7 +31734,7 @@
          ]
       },
       "fullname": "scp-2179",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1035215963",
       "rating": "2",
       "tags": [
@@ -31767,7 +31767,7 @@
          ]
       },
       "fullname": "3-mr-money",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1035223389",
       "rating": "2",
       "tags": [
@@ -31946,7 +31946,7 @@
          ]
       },
       "fullname": "scp-894",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1035247213",
       "rating": "2",
       "tags": [
@@ -32087,7 +32087,7 @@
          ]
       },
       "fullname": "scp-5149",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1035248260",
       "rating": "18",
       "tags": [
@@ -32136,7 +32136,7 @@
          ]
       },
       "fullname": "nothingtoseehere",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1035261737",
       "rating": "6",
       "tags": [
@@ -32228,7 +32228,7 @@
          ]
       },
       "fullname": "scp-3300",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1035272273",
       "rating": "7",
       "tags": [
@@ -32282,7 +32282,7 @@
          ]
       },
       "fullname": "whatislove",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1035531700",
       "rating": "7",
       "tags": [
@@ -32331,7 +32331,7 @@
          ]
       },
       "fullname": "the-sky-carries-the-brightness-of-your-smile",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1035531750",
       "rating": "7",
       "tags": [
@@ -32413,7 +32413,7 @@
          ]
       },
       "fullname": "heretherebe",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1035573068",
       "rating": "4",
       "tags": [
@@ -32504,7 +32504,7 @@
          ]
       },
       "fullname": "rip",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1035633328",
       "rating": "4",
       "tags": [
@@ -32556,7 +32556,7 @@
          ]
       },
       "fullname": "scp-4357-j",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1035634411",
       "rating": "8",
       "tags": [
@@ -32611,7 +32611,7 @@
          ]
       },
       "fullname": "an-evening-with-bright",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1036102203",
       "rating": "7",
       "tags": [
@@ -32673,7 +32673,7 @@
          ]
       },
       "fullname": "insertjokeinurlhere",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1039064714",
       "rating": "10",
       "tags": [
@@ -32794,7 +32794,7 @@
          ]
       },
       "fullname": "codebrown",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1040145077",
       "rating": "4",
       "tags": [
@@ -32832,7 +32832,7 @@
          ]
       },
       "fullname": "dandelions",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1040150222",
       "rating": "4",
       "tags": [
@@ -32936,7 +32936,7 @@
          ]
       },
       "fullname": "mackenzie-s-proposal",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1040164373",
       "rating": "2",
       "tags": [
@@ -33026,7 +33026,7 @@
          ]
       },
       "fullname": "scp-117",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1040165347",
       "rating": "4",
       "tags": [
@@ -33072,7 +33072,7 @@
          ]
       },
       "fullname": "scp-120",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1040165755",
       "rating": "5",
       "tags": [
@@ -33165,7 +33165,7 @@
          ]
       },
       "fullname": "blinddate",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1040166852",
       "rating": "7",
       "tags": [
@@ -33237,7 +33237,7 @@
          ]
       },
       "fullname": "siabhub",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1040176711",
       "rating": "13",
       "tags": [
@@ -33351,7 +33351,7 @@
          ]
       },
       "fullname": "every-day-of-my-life-you-test-me",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1040178047",
       "rating": "8",
       "tags": [
@@ -33403,7 +33403,7 @@
          ]
       },
       "fullname": "just-fuck-it-up-irl",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1040180668",
       "rating": "7",
       "tags": [
@@ -33475,7 +33475,7 @@
          ]
       },
       "fullname": "no-dating-at-work",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1040200072",
       "rating": "12",
       "tags": [
@@ -33560,7 +33560,7 @@
          ]
       },
       "fullname": "routine-psychological-evaluations-by-dr-glass",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1040372644",
       "rating": "15",
       "tags": [
@@ -33610,7 +33610,7 @@
          ]
       },
       "fullname": "coffee-date",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1043264251",
       "rating": "6",
       "tags": [
@@ -33652,7 +33652,7 @@
          ]
       },
       "fullname": "group-date",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1043589326",
       "rating": "5",
       "tags": [
@@ -33690,7 +33690,7 @@
          ]
       },
       "fullname": "i-want-to-dream",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1046119068",
       "rating": "4",
       "tags": [
@@ -33733,7 +33733,7 @@
          ]
       },
       "fullname": "waffle-date",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1046971427",
       "rating": "5",
       "tags": [
@@ -33760,7 +33760,7 @@
          ]
       },
       "fullname": "log-of-anomalous-items-eo",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1046972901",
       "rating": "1",
       "tags": [
@@ -33801,7 +33801,7 @@
          ]
       },
       "fullname": "scp-212",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1046974311",
       "rating": "5",
       "tags": [
@@ -33837,7 +33837,7 @@
          ]
       },
       "fullname": "no-spring-will-come",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1046991279",
       "rating": "3",
       "tags": [
@@ -34062,7 +34062,7 @@
          ]
       },
       "fullname": "case-colourless-green",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1068187726",
       "rating": "4",
       "tags": [
@@ -34222,7 +34222,7 @@
          ]
       },
       "fullname": "scp-784-arc",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1083519213",
       "rating": "5",
       "tags": [
@@ -34257,7 +34257,7 @@
          ]
       },
       "fullname": "dr-manns-proposal",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1084264585",
       "rating": "2",
       "tags": [
@@ -34301,7 +34301,7 @@
          ]
       },
       "fullname": "document-001-o5",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1084302904",
       "rating": "5",
       "tags": [
@@ -34339,7 +34339,7 @@
          ]
       },
       "fullname": "unfinished-business",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1088618146",
       "rating": "4",
       "tags": [
@@ -34394,7 +34394,7 @@
          ]
       },
       "fullname": "jet-black",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1090900120",
       "rating": "7",
       "tags": [
@@ -34434,7 +34434,7 @@
          ]
       },
       "fullname": "784incident1",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1099291778",
       "rating": "4",
       "tags": [
@@ -34532,7 +34532,7 @@
          ]
       },
       "fullname": "784incident2",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1107660521",
       "rating": "5",
       "tags": [
@@ -34654,7 +34654,7 @@
          ]
       },
       "fullname": "784incident3",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1120872562",
       "rating": "3",
       "tags": [
@@ -34684,7 +34684,7 @@
          ]
       },
       "fullname": "784incident4",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1126096688",
       "rating": "2",
       "tags": [
@@ -34811,7 +34811,7 @@
          ]
       },
       "fullname": "784incident5",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1133222313",
       "rating": "5",
       "tags": [
@@ -34929,7 +34929,7 @@
          ]
       },
       "fullname": "scp-1399-ru",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1133225188",
       "rating": "6",
       "tags": [
@@ -34960,7 +34960,7 @@
          ]
       },
       "fullname": "scp-034",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1133603360",
       "rating": "2",
       "tags": [
@@ -35023,7 +35023,7 @@
          ]
       },
       "fullname": "your-last-first-day",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1134607517",
       "rating": "9",
       "tags": [
@@ -35056,7 +35056,7 @@
          ]
       },
       "fullname": "qntm-s-author-page",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1135522398",
       "rating": "3",
       "tags": [
@@ -35096,7 +35096,7 @@
          ]
       },
       "fullname": "784incident6",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1135523037",
       "rating": "5",
       "tags": [
@@ -35141,7 +35141,7 @@
          ]
       },
       "fullname": "784incident7",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1136474613",
       "rating": "6",
       "tags": [
@@ -35255,7 +35255,7 @@
          ]
       },
       "fullname": "scp-856",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1137388508",
       "rating": "1",
       "tags": [
@@ -35296,7 +35296,7 @@
          ]
       },
       "fullname": "scp-1059",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1137424041",
       "rating": "4",
       "tags": [
@@ -35372,7 +35372,7 @@
          ]
       },
       "fullname": "scp-420-j",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1137458542",
       "rating": "13",
       "tags": [
@@ -35422,7 +35422,7 @@
          ]
       },
       "fullname": "scp-1638-j",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1137513826",
       "rating": "6",
       "tags": [
@@ -35504,7 +35504,7 @@
          ]
       },
       "fullname": "chowderclef",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1137905088",
       "rating": "14",
       "tags": [
@@ -35546,7 +35546,7 @@
          ]
       },
       "fullname": "my-dream-amadai-001",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1139550143",
       "rating": "5",
       "tags": [
@@ -35853,7 +35853,7 @@
          ]
       },
       "fullname": "uiu-orientation",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1147135953",
       "rating": "10",
       "tags": [
@@ -35887,7 +35887,7 @@
          ]
       },
       "fullname": "scp-212-upgrade-log",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1148392919",
       "rating": "3",
       "tags": [
@@ -35929,7 +35929,7 @@
          ]
       },
       "fullname": "scp-040",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1148396804",
       "rating": "5",
       "tags": [
@@ -36004,7 +36004,7 @@
          ]
       },
       "fullname": "scp-1290",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1165086143",
       "rating": "2",
       "tags": [
@@ -36049,7 +36049,7 @@
          ]
       },
       "fullname": "serrasbadday",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1165090415",
       "rating": "5",
       "tags": [
@@ -36079,7 +36079,7 @@
          ]
       },
       "fullname": "scp-2308",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1165091101",
       "rating": "2",
       "tags": [
@@ -36120,7 +36120,7 @@
          ]
       },
       "fullname": "scp-5430",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1165099827",
       "rating": "4",
       "tags": [
@@ -36164,7 +36164,7 @@
          ]
       },
       "fullname": "scp-pl-057",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1165106337",
       "rating": "4",
       "tags": [
@@ -36196,7 +36196,7 @@
          ]
       },
       "fullname": "scp-2214",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1165107828",
       "rating": "1",
       "tags": [
@@ -36273,7 +36273,7 @@
          ]
       },
       "fullname": "iquit",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1165125596",
       "rating": "13",
       "tags": [
@@ -36328,7 +36328,7 @@
          ]
       },
       "fullname": "scp-5706",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1165142420",
       "rating": "6",
       "tags": [
@@ -36379,7 +36379,7 @@
          ]
       },
       "fullname": "mackenzie-stereotypes",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1165143488",
       "rating": "6",
       "tags": [
@@ -36408,7 +36408,7 @@
          ]
       },
       "fullname": "scp-1187",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1165147948",
       "rating": "2",
       "tags": [
@@ -36481,7 +36481,7 @@
          ]
       },
       "fullname": "wanderers:schooling-on-earth",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1165153558",
       "rating": "12",
       "tags": [
@@ -36528,7 +36528,7 @@
          ]
       },
       "fullname": "scp-035",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1165156386",
       "rating": "6",
       "tags": [
@@ -36598,7 +36598,7 @@
          ]
       },
       "fullname": "wanderers:kicker-of-elves",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1165165039",
       "rating": "10",
       "tags": [
@@ -36668,7 +36668,7 @@
          ]
       },
       "fullname": "scp-022",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1165210713",
       "rating": "2",
       "tags": [
@@ -36702,7 +36702,7 @@
          ]
       },
       "fullname": "scp-041",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1165215211",
       "rating": "2",
       "tags": [
@@ -36791,7 +36791,7 @@
          ]
       },
       "fullname": "scp-042",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1165221392",
       "rating": "1",
       "tags": [
@@ -36842,7 +36842,7 @@
          ]
       },
       "fullname": "tictactoe",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1165228545",
       "rating": "6",
       "tags": [
@@ -36876,7 +36876,7 @@
          ]
       },
       "fullname": "where-have-you-been-all-my-life",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1167501630",
       "rating": "3",
       "tags": [
@@ -36913,7 +36913,7 @@
          ]
       },
       "fullname": "lie-dream-not-hero",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1167668154",
       "rating": "4",
       "tags": [
@@ -37032,7 +37032,7 @@
          ]
       },
       "fullname": "scp-2021",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1173989295",
       "rating": "5",
       "tags": [
@@ -37240,7 +37240,7 @@
          ]
       },
       "fullname": "scp-scp-033",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1174018727",
       "rating": "4",
       "tags": [
@@ -37327,7 +37327,7 @@
          ]
       },
       "fullname": "fresh-hell",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1184757997",
       "rating": "4",
       "tags": [
@@ -37384,7 +37384,7 @@
          ]
       },
       "fullname": "memetics-and-infohazards-division-orientation",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1194518597",
       "rating": "9",
       "tags": [
@@ -37483,7 +37483,7 @@
          ]
       },
       "fullname": "scp-953",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1210877385",
       "rating": "-5",
       "tags": [
@@ -37533,7 +37533,7 @@
          ]
       },
       "fullname": "the-king-is-dead",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1212720047",
       "rating": "6",
       "tags": [
@@ -37647,7 +37647,7 @@
          ]
       },
       "fullname": "white-space-hub",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1231366200",
       "rating": "7",
       "tags": [
@@ -37816,7 +37816,7 @@
          ]
       },
       "fullname": "scp-011-j",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1258441558",
       "rating": "8",
       "tags": [
@@ -37863,7 +37863,7 @@
          ]
       },
       "fullname": "scp-1800-ru-j",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1260598625",
       "rating": "5",
       "tags": [
@@ -38073,7 +38073,7 @@
          ]
       },
       "fullname": "history-of-the-universe-hub",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1260640956",
       "rating": "1",
       "tags": [
@@ -38134,7 +38134,7 @@
          ]
       },
       "fullname": "clef-and-dimitri-hit-the-road",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1260645594",
       "rating": "10",
       "tags": [
@@ -38509,7 +38509,7 @@
          ]
       },
       "fullname": "scp-1402",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1260779542",
       "rating": "1",
       "tags": [
@@ -38541,7 +38541,7 @@
          ]
       },
       "fullname": "scp-1685",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1260796097",
       "rating": "2",
       "tags": [
@@ -38615,7 +38615,7 @@
          ]
       },
       "fullname": "scp-063-j",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1260809989",
       "rating": "12",
       "tags": [
@@ -38803,7 +38803,7 @@
          ]
       },
       "fullname": "setting-the-stage",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1260817288",
       "rating": "4",
       "tags": [
@@ -38839,7 +38839,7 @@
          ]
       },
       "fullname": "ojai",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1260861619",
       "rating": "4",
       "tags": [
@@ -38867,7 +38867,7 @@
          ]
       },
       "fullname": "scp-4219",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1261318161",
       "rating": "2",
       "tags": [
@@ -38902,7 +38902,7 @@
          ]
       },
       "fullname": "scp-629",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1261318969",
       "rating": "2",
       "tags": [
@@ -39115,7 +39115,7 @@
          ]
       },
       "fullname": "the-f",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1266116557",
       "rating": "6",
       "tags": [
@@ -39169,7 +39169,7 @@
          ]
       },
       "fullname": "scp-hotline",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1266217005",
       "rating": "8",
       "tags": [
@@ -39346,7 +39346,7 @@
          ]
       },
       "fullname": "scp-1645-jp",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1267776352",
       "rating": "12",
       "tags": [
@@ -39505,7 +39505,7 @@
          ]
       },
       "fullname": "scp-5251",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1267786044",
       "rating": "10",
       "tags": [
@@ -39593,7 +39593,7 @@
          ]
       },
       "fullname": "scp-106",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1267789177",
       "rating": "15",
       "tags": [
@@ -39860,7 +39860,7 @@
          ]
       },
       "fullname": "date-night",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1267853885",
       "rating": "11",
       "tags": [
@@ -39896,7 +39896,7 @@
          ]
       },
       "fullname": "scp-3712",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1267854910",
       "rating": "3",
       "tags": [
@@ -39954,7 +39954,7 @@
          ]
       },
       "fullname": "scp-5000-declassification",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1267859172",
       "rating": "7",
       "tags": [
@@ -39998,7 +39998,7 @@
          ]
       },
       "fullname": "not-fade-away",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1267888589",
       "rating": "6",
       "tags": [
@@ -40023,7 +40023,7 @@
          ]
       },
       "fullname": "scp-1331",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1267889768",
       "rating": "1",
       "tags": [
@@ -40107,7 +40107,7 @@
          ]
       },
       "fullname": "scp-052",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1268250111",
       "rating": "3",
       "tags": [
@@ -40140,7 +40140,7 @@
          ]
       },
       "fullname": "scp-1117",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1268304755",
       "rating": "2",
       "tags": [
@@ -40188,7 +40188,7 @@
          ]
       },
       "fullname": "scp-795",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1268306072",
       "rating": "3",
       "tags": [
@@ -40243,7 +40243,7 @@
          ]
       },
       "fullname": "star-bound",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1268798983",
       "rating": "7",
       "tags": [
@@ -40412,7 +40412,7 @@
          ]
       },
       "fullname": "joseon",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1268959396",
       "rating": "8",
       "tags": [
@@ -40462,7 +40462,7 @@
          ]
       },
       "fullname": "ripped-from-the-headlines",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1268983186",
       "rating": "7",
       "tags": [
@@ -40496,7 +40496,7 @@
          ]
       },
       "fullname": "scp-1476",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1272472555",
       "rating": "3",
       "tags": [
@@ -40530,7 +40530,7 @@
          ]
       },
       "fullname": "scp-1365",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1285758595",
       "rating": "2",
       "tags": [
@@ -40577,7 +40577,7 @@
          ]
       },
       "fullname": "immemorial",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1290689709",
       "rating": "6",
       "tags": [
@@ -40626,7 +40626,7 @@
          ]
       },
       "fullname": "przyczajone-leczenie-hub",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1292337509",
       "rating": "7",
       "tags": [
@@ -40886,7 +40886,7 @@
          ]
       },
       "fullname": "tokyo-incidents",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1304867138",
       "rating": "13",
       "tags": [
@@ -40919,7 +40919,7 @@
          ]
       },
       "fullname": "interview-log-026-08",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1304867139",
       "rating": "3",
       "tags": [
@@ -40964,7 +40964,7 @@
          ]
       },
       "fullname": "djinn-tonic",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1304881707",
       "rating": "6",
       "tags": [
@@ -40994,7 +40994,7 @@
          ]
       },
       "fullname": "time-travel",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1304888837",
       "rating": "2",
       "tags": [
@@ -41081,7 +41081,7 @@
          ]
       },
       "fullname": "o-poczatkach-medycyny-altnormalnej",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1304894280",
       "rating": "6",
       "tags": [
@@ -41135,7 +41135,7 @@
          ]
       },
       "fullname": "mr-key-sighed",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1304902193",
       "rating": "8",
       "tags": [
@@ -41201,7 +41201,7 @@
          ]
       },
       "fullname": "scp-666-and-a-half-j",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1304914969",
       "rating": "11",
       "tags": [
@@ -41391,7 +41391,7 @@
          ]
       },
       "fullname": "scp-4000",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1304932944",
       "rating": "0",
       "tags": [
@@ -41440,7 +41440,7 @@
          ]
       },
       "fullname": "scp-4000-declassification",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1304973737",
       "rating": "7",
       "tags": [
@@ -41545,7 +41545,7 @@
          ]
       },
       "fullname": "scp-4953",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1304987463",
       "rating": "6",
       "tags": [
@@ -41736,7 +41736,7 @@
          ]
       },
       "fullname": "scp-1073-ru",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1304996258",
       "rating": "3",
       "tags": [
@@ -41848,7 +41848,7 @@
          ]
       },
       "fullname": "wanderers:citizen-report",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1305017613",
       "rating": "8",
       "tags": [
@@ -41897,7 +41897,7 @@
          ]
       },
       "fullname": "gentle-wings-flutter-quietly-in-the-dark",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1305032272",
       "rating": "7",
       "tags": [
@@ -41998,7 +41998,7 @@
          ]
       },
       "fullname": "a-fairy-tale",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1305043894",
       "rating": "6",
       "tags": [
@@ -42043,7 +42043,7 @@
          ]
       },
       "fullname": "gray-condolences",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1305053302",
       "rating": "6",
       "tags": [
@@ -42084,7 +42084,7 @@
          ]
       },
       "fullname": "nx-58",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1305080071",
       "rating": "5",
       "tags": [
@@ -42235,7 +42235,7 @@
          ]
       },
       "fullname": "scp-132-jp-animation",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1305142333",
       "rating": "15",
       "tags": [
@@ -42433,7 +42433,7 @@
          ]
       },
       "fullname": "grant-request-for-the-telekinetic-alloy",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1305310709",
       "rating": "6",
       "tags": [
@@ -42471,7 +42471,7 @@
          ]
       },
       "fullname": "scp-2096-jp",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1305313749",
       "rating": "4",
       "tags": [
@@ -42622,7 +42622,7 @@
          ]
       },
       "fullname": "big-fish-in-the-sky",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1305327660",
       "rating": "5",
       "tags": [
@@ -42841,7 +42841,7 @@
          ]
       },
       "fullname": "a-suicide-note",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1305348525",
       "rating": "9",
       "tags": [
@@ -42965,7 +42965,7 @@
          ]
       },
       "fullname": "scp-198",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1305377743",
       "rating": "4",
       "tags": [
@@ -43060,7 +43060,7 @@
          ]
       },
       "fullname": "scp-1425",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1305382368",
       "rating": "4",
       "tags": [
@@ -43201,7 +43201,7 @@
          ]
       },
       "fullname": "scp-1742",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1305385146",
       "rating": "2",
       "tags": [
@@ -43372,7 +43372,7 @@
          ]
       },
       "fullname": "scp-1609",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1305426505",
       "rating": "6",
       "tags": [
@@ -43423,7 +43423,7 @@
          ]
       },
       "fullname": "scp-3519",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1305487682",
       "rating": "6",
       "tags": [
@@ -43511,7 +43511,7 @@
          ]
       },
       "fullname": "unnamed-file",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1305506986",
       "rating": "15",
       "tags": [
@@ -43550,7 +43550,7 @@
          ]
       },
       "fullname": "scp-109",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1305507110",
       "rating": "4",
       "tags": [
@@ -43610,7 +43610,7 @@
          ]
       },
       "fullname": "metafiction",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1305507719",
       "rating": "9",
       "tags": [
@@ -43656,7 +43656,7 @@
          ]
       },
       "fullname": "scp-2828",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1305581840",
       "rating": "5",
       "tags": [
@@ -43744,7 +43744,7 @@
          ]
       },
       "fullname": "and-this-one-explains-humes",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1305584138",
       "rating": "7",
       "tags": [
@@ -43784,7 +43784,7 @@
          ]
       },
       "fullname": "scp-1740",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1305585056",
       "rating": "5",
       "tags": [
@@ -43979,7 +43979,7 @@
          ]
       },
       "fullname": "safe-dimension",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1305592034",
       "rating": "4",
       "tags": [
@@ -44276,7 +44276,7 @@
          ]
       },
       "fullname": "black-queen-hub",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1305611272",
       "rating": "6",
       "tags": [
@@ -44314,7 +44314,7 @@
          ]
       },
       "fullname": "an-faq-part-two-or-your-hume-questions-answered",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1305629615",
       "rating": "4",
       "tags": [
@@ -44347,7 +44347,7 @@
          ]
       },
       "fullname": "scp-101",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1305629996",
       "rating": "3",
       "tags": [
@@ -44466,7 +44466,7 @@
          ]
       },
       "fullname": "scp-2085-jp",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1305637534",
       "rating": "9",
       "tags": [
@@ -44710,7 +44710,7 @@
          ]
       },
       "fullname": "scp-series-jp",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1305654209",
       "rating": "1",
       "tags": [
@@ -44863,7 +44863,7 @@
          ]
       },
       "fullname": "fragmentos-traducidos-del-libro-de-la-vida",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1305693541",
       "rating": "4",
       "tags": [
@@ -44898,7 +44898,7 @@
          ]
       },
       "fullname": "scp-002-jp",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1305698557",
       "rating": "3",
       "tags": [
@@ -45129,7 +45129,7 @@
          ]
       },
       "fullname": "scp-166",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1305758145",
       "rating": "8",
       "tags": [
@@ -45219,7 +45219,7 @@
       "created_by": "5415046",
       "detailed_rating": {},
       "fullname": "canon-hub-jp",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1305762166",
       "rating": "0",
       "tags": [
@@ -45370,7 +45370,7 @@
          ]
       },
       "fullname": "abandoning-death",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1305776485",
       "rating": "10",
       "tags": [
@@ -45423,7 +45423,7 @@
          ]
       },
       "fullname": "scp-835-jp",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1305777081",
       "rating": "8",
       "tags": [
@@ -45533,7 +45533,7 @@
          ]
       },
       "fullname": "scp-1733",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1305793168",
       "rating": "9",
       "tags": [
@@ -45705,7 +45705,7 @@
          ]
       },
       "fullname": "the-tombstone-of-alto-clef",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1305797919",
       "rating": "6",
       "tags": [
@@ -45752,7 +45752,7 @@
          ]
       },
       "fullname": "the-flesh-that-mates",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1305797990",
       "rating": "6",
       "tags": [
@@ -45873,7 +45873,7 @@
          ]
       },
       "fullname": "scp-5240",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1305389287",
       "rating": "0",
       "tags": [
@@ -45976,7 +45976,7 @@
          ]
       },
       "fullname": "scp-5661",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1305828852",
       "rating": "5",
       "tags": [
@@ -46098,7 +46098,7 @@
          ]
       },
       "fullname": "scp-2740-jp",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1305829402",
       "rating": "10",
       "tags": [
@@ -46589,7 +46589,7 @@
          ]
       },
       "fullname": "tales-from-the-bright-side-chapter-one",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1305874095",
       "rating": "5",
       "tags": [
@@ -46850,7 +46850,7 @@
          ]
       },
       "fullname": "dream",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1305907123",
       "rating": "4",
       "tags": [
@@ -46945,7 +46945,7 @@
          ]
       },
       "fullname": "we-re-off-to-be-the-lizard",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1305964866",
       "rating": "5",
       "tags": [
@@ -46998,7 +46998,7 @@
          ]
       },
       "fullname": "scp-2788-jp",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1305966681",
       "rating": "8",
       "tags": [
@@ -47110,7 +47110,7 @@
          ]
       },
       "fullname": "scp-178",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1306002223",
       "rating": "5",
       "tags": [
@@ -47159,7 +47159,7 @@
          ]
       },
       "fullname": "scp-4576",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1306004837",
       "rating": "6",
       "tags": [
@@ -47542,7 +47542,7 @@
          ]
       },
       "fullname": "scp-003-j",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1306063084",
       "rating": "8",
       "tags": [
@@ -47580,7 +47580,7 @@
          ]
       },
       "fullname": "scp-828-ko",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1306087491",
       "rating": "3",
       "tags": [
@@ -47615,7 +47615,7 @@
          ]
       },
       "fullname": "scp-1370",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1306089317",
       "rating": "2",
       "tags": [
@@ -47648,7 +47648,7 @@
          ]
       },
       "fullname": "scp-226",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1306112377",
       "rating": "2",
       "tags": [
@@ -47893,7 +47893,7 @@
          ]
       },
       "fullname": "mackenzie-pitfalls",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1306177842",
       "rating": "4",
       "tags": [
@@ -47996,7 +47996,7 @@
          ]
       },
       "fullname": "case-hate-red",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1306196311",
       "rating": "8",
       "tags": [
@@ -48111,7 +48111,7 @@
          ]
       },
       "fullname": "immediate-actions",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1306228778",
       "rating": "7",
       "tags": [
@@ -48157,7 +48157,7 @@
          ]
       },
       "fullname": "the-seed-of-an-idea",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1306273985",
       "rating": "6",
       "tags": [
@@ -48220,7 +48220,7 @@
          ]
       },
       "fullname": "goc-supplemental-thaumatology",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1306279755",
       "rating": "8",
       "tags": [
@@ -48387,7 +48387,7 @@
          ]
       },
       "fullname": "maria-jones-this-is-your-life",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1306293138",
       "rating": "4",
       "tags": [
@@ -48435,7 +48435,7 @@
          ]
       },
       "fullname": "document-096-1",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1306302069",
       "rating": "6",
       "tags": [
@@ -48469,7 +48469,7 @@
          ]
       },
       "fullname": "quid-est-non-scitum",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1306302709",
       "rating": "3",
       "tags": [
@@ -48784,7 +48784,7 @@
          ]
       },
       "fullname": "scp-1739",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1306357558",
       "rating": "7",
       "tags": [
@@ -48829,7 +48829,7 @@
          ]
       },
       "fullname": "scp-2380",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1306363071",
       "rating": "5",
       "tags": [
@@ -49160,7 +49160,7 @@
          ]
       },
       "fullname": "scp-2061-jp",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1306429908",
       "rating": "9",
       "tags": [
@@ -49311,7 +49311,7 @@
          ]
       },
       "fullname": "scp-137-ko",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1306450685",
       "rating": "4",
       "tags": [
@@ -49647,7 +49647,7 @@
          ]
       },
       "fullname": "ad-absentia",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1306555302",
       "rating": "7",
       "tags": [
@@ -49869,7 +49869,7 @@
          ]
       },
       "fullname": "scp-5832",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1306655866",
       "rating": "5",
       "tags": [
@@ -49991,7 +49991,7 @@
          ]
       },
       "fullname": "scp-3001",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1306663313",
       "rating": "22",
       "tags": [
@@ -50040,7 +50040,7 @@
          ]
       },
       "fullname": "scp-j-id",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1306667032",
       "rating": "5",
       "tags": [
@@ -50513,7 +50513,7 @@
          ]
       },
       "fullname": "scp-8851-j",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1306756223",
       "rating": "6",
       "tags": [
@@ -50577,7 +50577,7 @@
          ]
       },
       "fullname": "das-taegliche-leben-mit-einer-ausserirdischen",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1306756593",
       "rating": "10",
       "tags": [
@@ -51319,7 +51319,7 @@
          ]
       },
       "fullname": "scp-711",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1306905260",
       "rating": "4",
       "tags": [
@@ -51681,7 +51681,7 @@
          ]
       },
       "fullname": "scp-5167",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1306982784",
       "rating": "10",
       "tags": [
@@ -51894,7 +51894,7 @@
          ]
       },
       "fullname": "countdown",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1306990879",
       "rating": "9",
       "tags": [
@@ -51936,7 +51936,7 @@
          ]
       },
       "fullname": "containment-hazard-control",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1306993777",
       "rating": "3",
       "tags": [
@@ -52020,7 +52020,7 @@
          ]
       },
       "fullname": "scp-2439",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1306997337",
       "rating": "16",
       "tags": [
@@ -52115,7 +52115,7 @@
          ]
       },
       "fullname": "scp-4319",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1307007295",
       "rating": "5",
       "tags": [
@@ -52225,7 +52225,7 @@
          ]
       },
       "fullname": "trafficresumes",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1307016044",
       "rating": "5",
       "tags": [
@@ -52294,7 +52294,7 @@
          ]
       },
       "fullname": "your-very-first-scp",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1307016731",
       "rating": "12",
       "tags": [
@@ -52343,7 +52343,7 @@
          ]
       },
       "fullname": "ara-orun",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1307017981",
       "rating": "7",
       "tags": [
@@ -52391,7 +52391,7 @@
          ]
       },
       "fullname": "in-the-world-where-the-fog-has-vanished",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1307019963",
       "rating": "7",
       "tags": [
@@ -52509,7 +52509,7 @@
          ]
       },
       "fullname": "ideals",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1307025975",
       "rating": "2",
       "tags": [
@@ -52549,7 +52549,7 @@
          ]
       },
       "fullname": "scp-pl-156",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1307031308",
       "rating": "5",
       "tags": [
@@ -52760,7 +52760,7 @@
          ]
       },
       "fullname": "scp-4182-declassification",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1307035708",
       "rating": "8",
       "tags": [
@@ -52808,7 +52808,7 @@
          ]
       },
       "fullname": "scp-4116",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1307036087",
       "rating": "7",
       "tags": [
@@ -52879,7 +52879,7 @@
          ]
       },
       "fullname": "scp-5034",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1307037521",
       "rating": "11",
       "tags": [
@@ -52934,7 +52934,7 @@
          ]
       },
       "fullname": "scp-4473",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1307040478",
       "rating": "6",
       "tags": [
@@ -52976,7 +52976,7 @@
          ]
       },
       "fullname": "scp-pl-167",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1307044851",
       "rating": "3",
       "tags": [
@@ -53026,7 +53026,7 @@
          ]
       },
       "fullname": "scp-2111",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1307049337",
       "rating": "6",
       "tags": [
@@ -53106,7 +53106,7 @@
          ]
       },
       "fullname": "scp-5404",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1307050063",
       "rating": "13",
       "tags": [
@@ -53149,7 +53149,7 @@
          ]
       },
       "fullname": "scp-1337",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1307056317",
       "rating": "4",
       "tags": [
@@ -53259,7 +53259,7 @@
          ]
       },
       "fullname": "scp-2358",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1307063675",
       "rating": "4",
       "tags": [
@@ -53359,7 +53359,7 @@
          ]
       },
       "fullname": "bad-end",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1307070126",
       "rating": "6",
       "tags": [
@@ -53462,7 +53462,7 @@
          ]
       },
       "fullname": "scp-2881",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1307188610",
       "rating": "6",
       "tags": [
@@ -53537,7 +53537,7 @@
          ]
       },
       "fullname": "interviews-with-prospective-groups-of-interest",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1307188878",
       "rating": "12",
       "tags": [
@@ -53647,7 +53647,7 @@
          ]
       },
       "fullname": "scp-1752",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1307198678",
       "rating": "4",
       "tags": [
@@ -53700,7 +53700,7 @@
          ]
       },
       "fullname": "scp-999-j",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1307244390",
       "rating": "6",
       "tags": [
@@ -53782,7 +53782,7 @@
          ]
       },
       "fullname": "clef-excerpts",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1307249460",
       "rating": "14",
       "tags": [
@@ -53824,7 +53824,7 @@
          ]
       },
       "fullname": "scp-2256",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1307460475",
       "rating": "5",
       "tags": [
@@ -53908,7 +53908,7 @@
          ]
       },
       "fullname": "scp-3002",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1307461566",
       "rating": "14",
       "tags": [
@@ -54076,7 +54076,7 @@
          ]
       },
       "fullname": "scp-5190",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1307885097",
       "rating": "10",
       "tags": [
@@ -54128,7 +54128,7 @@
          ]
       },
       "fullname": "user-curated-lists",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1308318991",
       "rating": "6",
       "tags": [
@@ -54269,7 +54269,7 @@
          ]
       },
       "fullname": "scp-045",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1308353801",
       "rating": "3",
       "tags": [
@@ -54479,7 +54479,7 @@
          ]
       },
       "fullname": "classification-committee-memo",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1308425070",
       "rating": "12",
       "tags": [
@@ -54596,7 +54596,7 @@
          ]
       },
       "fullname": "scp-5929",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1308436167",
       "rating": "11",
       "tags": [
@@ -54689,7 +54689,7 @@
          ]
       },
       "fullname": "the-wolves-at-the-door",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1308441277",
       "rating": "5",
       "tags": [
@@ -54894,7 +54894,7 @@
          ]
       },
       "fullname": "scp-3790-declassification",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1308449113",
       "rating": "8",
       "tags": [
@@ -54922,7 +54922,7 @@
          ]
       },
       "fullname": "author-page-tool",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1308450539",
       "rating": "2",
       "tags": [
@@ -55151,7 +55151,7 @@
          ]
       },
       "fullname": "scp-005-j-ex",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1308465736",
       "rating": "1",
       "tags": [
@@ -55289,7 +55289,7 @@
          ]
       },
       "fullname": "scp-558",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1308466142",
       "rating": "1",
       "tags": [
@@ -55493,7 +55493,7 @@
          ]
       },
       "fullname": "code-name-the-truth",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1308466859",
       "rating": "6",
       "tags": [
@@ -55708,7 +55708,7 @@
          ]
       },
       "fullname": "scp-929",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1308471678",
       "rating": "2",
       "tags": [
@@ -55743,7 +55743,7 @@
          ]
       },
       "fullname": "scp-936",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1308471690",
       "rating": "2",
       "tags": [
@@ -55871,7 +55871,7 @@
          ]
       },
       "fullname": "unthreaded",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1308472091",
       "rating": "3",
       "tags": [
@@ -56084,7 +56084,7 @@
          ]
       },
       "fullname": "scp-5002",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1308474305",
       "rating": "7",
       "tags": [
@@ -56461,7 +56461,7 @@
          ]
       },
       "fullname": "scp-970-ex",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1308491977",
       "rating": "8",
       "tags": [
@@ -56765,7 +56765,7 @@
          ]
       },
       "fullname": "scp-027-pt",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1308565513",
       "rating": "6",
       "tags": [
@@ -56825,7 +56825,7 @@
          ]
       },
       "fullname": "in-the-trenches-with-the-dead",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1308567657",
       "rating": "9",
       "tags": [
@@ -56871,7 +56871,7 @@
          ]
       },
       "fullname": "scp-4517-declassification",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1308612403",
       "rating": "6",
       "tags": [
@@ -57025,7 +57025,7 @@
          ]
       },
       "fullname": "scp-3133",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1308618213",
       "rating": "8",
       "tags": [
@@ -57128,7 +57128,7 @@
          ]
       },
       "fullname": "scp-5004",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1308618286",
       "rating": "19",
       "tags": [
@@ -57196,7 +57196,7 @@
          ]
       },
       "fullname": "scp-4646",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1309121557",
       "rating": "6",
       "tags": [
@@ -57242,7 +57242,7 @@
          ]
       },
       "fullname": "scp-5404-declassification",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1309841347",
       "rating": "5",
       "tags": [
@@ -57270,7 +57270,7 @@
          ]
       },
       "fullname": "scp-5383",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1310458729",
       "rating": "2",
       "tags": [
@@ -57343,7 +57343,7 @@
          ]
       },
       "fullname": "scp-001-ex-declassification",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1310880195",
       "rating": "2",
       "tags": [
@@ -57379,7 +57379,7 @@
          ]
       },
       "fullname": "shaggydredlocks-proposal-declassification",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1310882179",
       "rating": "4",
       "tags": [
@@ -57449,7 +57449,7 @@
          ]
       },
       "fullname": "scp-5764",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1310883771",
       "rating": "8",
       "tags": [
@@ -57499,7 +57499,7 @@
          ]
       },
       "fullname": "scp-4465",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1310886583",
       "rating": "6",
       "tags": [
@@ -57563,7 +57563,7 @@
          ]
       },
       "fullname": "scp-5690",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1310889744",
       "rating": "10",
       "tags": [
@@ -57634,7 +57634,7 @@
          ]
       },
       "fullname": "fortune-favors-hub",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1310898531",
       "rating": "4",
       "tags": [
@@ -57774,7 +57774,7 @@
          ]
       },
       "fullname": "nobody-dies",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1310918495",
       "rating": "4",
       "tags": [
@@ -57805,7 +57805,7 @@
          ]
       },
       "fullname": "no",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1310919818",
       "rating": "2",
       "tags": [
@@ -57939,7 +57939,7 @@
          ]
       },
       "fullname": "wowwee-go-kill-ursefl",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1310925705",
       "rating": "3",
       "tags": [
@@ -57965,7 +57965,7 @@
          ]
       },
       "fullname": "it-just-shattered",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1310925858",
       "rating": "1",
       "tags": [
@@ -58026,7 +58026,7 @@
          ]
       },
       "fullname": "a-cooler-manifesto",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1310928322",
       "rating": "2",
       "tags": [
@@ -58057,7 +58057,7 @@
          ]
       },
       "fullname": "snip-snip-snip",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1310928460",
       "rating": "2",
       "tags": [
@@ -58094,7 +58094,7 @@
          ]
       },
       "fullname": "scp-3309-declassification",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1310929506",
       "rating": "4",
       "tags": [
@@ -58130,7 +58130,7 @@
          ]
       },
       "fullname": "scp-4967",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1310930599",
       "rating": "4",
       "tags": [
@@ -58393,7 +58393,7 @@
          ]
       },
       "fullname": "dr-gears-s-proposal",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1310941819",
       "rating": "3",
       "tags": [
@@ -58446,7 +58446,7 @@
          ]
       },
       "fullname": "scp-3980",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1310947785",
       "rating": "6",
       "tags": [
@@ -58491,7 +58491,7 @@
          ]
       },
       "fullname": "scp-3980-declassification",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1310949113",
       "rating": "4",
       "tags": [
@@ -58527,7 +58527,7 @@
          ]
       },
       "fullname": "empty-unmarked-grave",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1310961702",
       "rating": "4",
       "tags": [
@@ -58563,7 +58563,7 @@
          ]
       },
       "fullname": "scp-046",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1310983301",
       "rating": "1",
       "tags": [
@@ -58789,7 +58789,7 @@
          ]
       },
       "fullname": "scp-054",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1311004811",
       "rating": "4",
       "tags": [
@@ -58943,7 +58943,7 @@
          ]
       },
       "fullname": "scp-3935-declassification",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1311008077",
       "rating": "2",
       "tags": [
@@ -59066,7 +59066,7 @@
          ]
       },
       "fullname": "scp-113",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1311016338",
       "rating": "6",
       "tags": [
@@ -59104,7 +59104,7 @@
          ]
       },
       "fullname": "scp-051",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1311016779",
       "rating": "3",
       "tags": [
@@ -59235,7 +59235,7 @@
          ]
       },
       "fullname": "flexibility",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1311018313",
       "rating": "1",
       "tags": [
@@ -59269,7 +59269,7 @@
          ]
       },
       "fullname": "novel-cultivars",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1311069609",
       "rating": "3",
       "tags": [
@@ -59342,7 +59342,7 @@
          ]
       },
       "fullname": "shady-meetings",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1311080223",
       "rating": "2",
       "tags": [
@@ -59432,7 +59432,7 @@
          ]
       },
       "fullname": "the-toyman-and-the-doctor",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1311084555",
       "rating": "1",
       "tags": [
@@ -59666,7 +59666,7 @@
          ]
       },
       "fullname": "quintessence-of-dust",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1311569148",
       "rating": "2",
       "tags": [
@@ -60228,7 +60228,7 @@
          ]
       },
       "fullname": "scp-5242-declassification",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1311647300",
       "rating": "7",
       "tags": [
@@ -60347,7 +60347,7 @@
          ]
       },
       "fullname": "scp-4923-declassification",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1311648980",
       "rating": "3",
       "tags": [
@@ -60383,7 +60383,7 @@
          ]
       },
       "fullname": "scp-2565-flash-briefing",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1311738596",
       "rating": "4",
       "tags": [
@@ -60419,7 +60419,7 @@
          ]
       },
       "fullname": "scp-2565",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1311738744",
       "rating": "4",
       "tags": [
@@ -60600,7 +60600,7 @@
          ]
       },
       "fullname": "scp-3005",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1311753311",
       "rating": "6",
       "tags": [
@@ -60687,7 +60687,7 @@
          ]
       },
       "fullname": "takeabathathalfpasteight",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1311754420",
       "rating": "15",
       "tags": [
@@ -60721,7 +60721,7 @@
          ]
       },
       "fullname": "scp-3005-declassification",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1311757078",
       "rating": "3",
       "tags": [
@@ -61020,7 +61020,7 @@
          ]
       },
       "fullname": "contingency",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1311872701",
       "rating": "3",
       "tags": [
@@ -61216,7 +61216,7 @@
          ]
       },
       "fullname": "scp-669",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1311884002",
       "rating": "2",
       "tags": [
@@ -61287,7 +61287,7 @@
          ]
       },
       "fullname": "scp-2430-jp",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1311885908",
       "rating": "11",
       "tags": [
@@ -61350,7 +61350,7 @@
          ]
       },
       "fullname": "your-circuits-dead-theres-something-wrong",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1311901317",
       "rating": "10",
       "tags": [
@@ -61540,7 +61540,7 @@
          ]
       },
       "fullname": "scp-5538",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1311906174",
       "rating": "3",
       "tags": [
@@ -61583,7 +61583,7 @@
          ]
       },
       "fullname": "scp-4050",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1311907542",
       "rating": "4",
       "tags": [
@@ -61623,7 +61623,7 @@
          ]
       },
       "fullname": "scp-1639",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1311909447",
       "rating": "4",
       "tags": [
@@ -61872,7 +61872,7 @@
          ]
       },
       "fullname": "and-then-what-happened",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1311995345",
       "rating": "1",
       "tags": [
@@ -62006,7 +62006,7 @@
          ]
       },
       "fullname": "scp-2023",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1312019255",
       "rating": "4",
       "tags": [
@@ -62192,7 +62192,7 @@
          ]
       },
       "fullname": "scp-345-ko",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1312028700",
       "rating": "4",
       "tags": [
@@ -62389,7 +62389,7 @@
          ]
       },
       "fullname": "scp-3984",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1312053671",
       "rating": "5",
       "tags": [
@@ -62437,7 +62437,7 @@
          ]
       },
       "fullname": "scp-3797",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1312059621",
       "rating": "5",
       "tags": [
@@ -62579,7 +62579,7 @@
          ]
       },
       "fullname": "scp-6969",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1312101157",
       "rating": "4",
       "tags": [
@@ -62755,7 +62755,7 @@
          ]
       },
       "fullname": "clinical-tone-declassified",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1312125621",
       "rating": "3",
       "tags": [
@@ -62894,7 +62894,7 @@
          ]
       },
       "fullname": "scp-713-ko",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1312148761",
       "rating": "5",
       "tags": [
@@ -63167,7 +63167,7 @@
          ]
       },
       "fullname": "scp-047",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1312241593",
       "rating": "2",
       "tags": [
@@ -63211,7 +63211,7 @@
          ]
       },
       "fullname": "broken-masquerade-hub",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1312241646",
       "rating": "5",
       "tags": [
@@ -63297,7 +63297,7 @@
          ]
       },
       "fullname": "site-17-hub",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1312248518",
       "rating": "8",
       "tags": [
@@ -63338,7 +63338,7 @@
          ]
       },
       "fullname": "scp-1245",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1312261659",
       "rating": "5",
       "tags": [
@@ -63443,7 +63443,7 @@
          ]
       },
       "fullname": "incident-log-1245-043",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1312263673",
       "rating": "3",
       "tags": [
@@ -63537,7 +63537,7 @@
          ]
       },
       "fullname": "scp-229-ko",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1312280620",
       "rating": "5",
       "tags": [
@@ -63902,7 +63902,7 @@
          ]
       },
       "fullname": "scp-2072-jp",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1312366552",
       "rating": "11",
       "tags": [
@@ -64007,7 +64007,7 @@
          ]
       },
       "fullname": "wanderers:sztuka-poza-logika",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1312379412",
       "rating": "7",
       "tags": [
@@ -64111,7 +64111,7 @@
          ]
       },
       "fullname": "scp-231-j",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1312397651",
       "rating": "6",
       "tags": [
@@ -64249,7 +64249,7 @@
          ]
       },
       "fullname": "scp-058",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1312407946",
       "rating": "3",
       "tags": [
@@ -64525,7 +64525,7 @@
          ]
       },
       "fullname": "scp-189-ko",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1312434093",
       "rating": "7",
       "tags": [
@@ -64569,7 +64569,7 @@
          ]
       },
       "fullname": "scp-6031",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1312438244",
       "rating": "0",
       "tags": [
@@ -64747,7 +64747,7 @@
          ]
       },
       "fullname": "scp-1175",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1312496820",
       "rating": "4",
       "tags": [
@@ -64793,7 +64793,7 @@
          ]
       },
       "fullname": "scp-6101",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1312502700",
       "rating": "5",
       "tags": [
@@ -64844,7 +64844,7 @@
          ]
       },
       "fullname": "goc-supplemental-equipment",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1312516314",
       "rating": "3",
       "tags": [
@@ -65008,7 +65008,7 @@
          ]
       },
       "fullname": "scp-4853",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1313003429",
       "rating": "3",
       "tags": [
@@ -65061,7 +65061,7 @@
          ]
       },
       "fullname": "asmr-by-dado",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1313003907",
       "rating": "7",
       "tags": [
@@ -65462,7 +65462,7 @@
          ]
       },
       "fullname": "skyisover-thiscruelmoon-weintertwined",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1317271132",
       "rating": "2",
       "tags": [
@@ -65562,7 +65562,7 @@
          ]
       },
       "fullname": "goc-supplemental-basic-guide",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1318243073",
       "rating": "2",
       "tags": [
@@ -65601,7 +65601,7 @@
          ]
       },
       "fullname": "strangers-of-site-17",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1318416184",
       "rating": "4",
       "tags": [
@@ -65768,7 +65768,7 @@
          ]
       },
       "fullname": "scp-6336",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1323759321",
       "rating": "7",
       "tags": [
@@ -65850,7 +65850,7 @@
          ]
       },
       "fullname": "scp-1250",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1323852346",
       "rating": "2",
       "tags": [
@@ -65890,7 +65890,7 @@
          ]
       },
       "fullname": "experiment-log-1250",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1323852349",
       "rating": "3",
       "tags": [
@@ -66034,7 +66034,7 @@
          ]
       },
       "fullname": "scp-3997",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1323862405",
       "rating": "7",
       "tags": [
@@ -66132,7 +66132,7 @@
          ]
       },
       "fullname": "scp-3644",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1323871308",
       "rating": "5",
       "tags": [
@@ -66171,7 +66171,7 @@
          ]
       },
       "fullname": "scp-4404",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1323881078",
       "rating": "4",
       "tags": [
@@ -66288,7 +66288,7 @@
          ]
       },
       "fullname": "scp-3-j",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1323967517",
       "rating": "7",
       "tags": [
@@ -66434,7 +66434,7 @@
          ]
       },
       "fullname": "goc-supplemental-arad",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1323988556",
       "rating": "5",
       "tags": [
@@ -66476,7 +66476,7 @@
          ]
       },
       "fullname": "blood-brain",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1323992484",
       "rating": "5",
       "tags": [
@@ -66548,7 +66548,7 @@
          ]
       },
       "fullname": "deathbygin",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1324042421",
       "rating": "2",
       "tags": [
@@ -66584,7 +66584,7 @@
          ]
       },
       "fullname": "goc-supplemental-threat-entities",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1324050639",
       "rating": "4",
       "tags": [
@@ -67009,7 +67009,7 @@
          ]
       },
       "fullname": "the-hunter-and-the-hunted",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1324089853",
       "rating": "2",
       "tags": [
@@ -67041,7 +67041,7 @@
          ]
       },
       "fullname": "scp-1207",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1324094767",
       "rating": "3",
       "tags": [
@@ -67186,7 +67186,7 @@
          ]
       },
       "fullname": "scp-4911-declassification",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1324112130",
       "rating": "6",
       "tags": [
@@ -67218,7 +67218,7 @@
          ]
       },
       "fullname": "thaumiel",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1324121528",
       "rating": "3",
       "tags": [
@@ -67582,7 +67582,7 @@
          ]
       },
       "fullname": "cck-class-copyright-infringement-lawsuit-scenario",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1324153548",
       "rating": "17",
       "tags": [
@@ -67976,7 +67976,7 @@
          ]
       },
       "fullname": "scp-5243-video-transcripts",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1324266193",
       "rating": "4",
       "tags": [
@@ -68344,7 +68344,7 @@
          ]
       },
       "fullname": "scp-6786",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1324413629",
       "rating": "5",
       "tags": [
@@ -68390,7 +68390,7 @@
          ]
       },
       "fullname": "scp-5646",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1324414850",
       "rating": "5",
       "tags": [
@@ -68429,7 +68429,7 @@
          ]
       },
       "fullname": "curated-tale-series",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1324415090",
       "rating": "3",
       "tags": [
@@ -68690,7 +68690,7 @@
          ]
       },
       "fullname": "scp-6402",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1329424522",
       "rating": "9",
       "tags": [
@@ -68804,7 +68804,7 @@
          ]
       },
       "fullname": "sell-clickbait-profit",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1329466763",
       "rating": "10",
       "tags": [
@@ -69221,7 +69221,7 @@
          ]
       },
       "fullname": "scp-5034-declassification",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1329678963",
       "rating": "6",
       "tags": [
@@ -69287,7 +69287,7 @@
          ]
       },
       "fullname": "deepsea-artwork-01",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1329830812",
       "rating": "4",
       "tags": [
@@ -69335,7 +69335,7 @@
          ]
       },
       "fullname": "scp-ducks-j",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1329831153",
       "rating": "7",
       "tags": [
@@ -69384,7 +69384,7 @@
          ]
       },
       "fullname": "to-my-companion-who-sleeps-eternally-beyond-reach",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1329867757",
       "rating": "6",
       "tags": [
@@ -69514,7 +69514,7 @@
          ]
       },
       "fullname": "scp-6892",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1329906926",
       "rating": "5",
       "tags": [
@@ -69566,7 +69566,7 @@
          ]
       },
       "fullname": "scp-5486",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1329907068",
       "rating": "6",
       "tags": [
@@ -69618,7 +69618,7 @@
          ]
       },
       "fullname": "log-of-non-anomalous-items",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1329909371",
       "rating": "6",
       "tags": [
@@ -69816,7 +69816,7 @@
          ]
       },
       "fullname": "strangers-of-site-17-part-two",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1329941343",
       "rating": "5",
       "tags": [
@@ -69908,7 +69908,7 @@
          ]
       },
       "fullname": "scp-6008",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1329994915",
       "rating": "7",
       "tags": [
@@ -70309,7 +70309,7 @@
          ]
       },
       "fullname": "scp-610-l1",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1330093808",
       "rating": "5",
       "tags": [
@@ -70350,7 +70350,7 @@
          ]
       },
       "fullname": "scp-100-vn-j",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1330111856",
       "rating": "5",
       "tags": [
@@ -70513,7 +70513,7 @@
          ]
       },
       "fullname": "scp-610-l2",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1330119193",
       "rating": "5",
       "tags": [
@@ -70546,7 +70546,7 @@
          ]
       },
       "fullname": "scp-900",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1330128112",
       "rating": "3",
       "tags": [
@@ -70722,7 +70722,7 @@
          ]
       },
       "fullname": "scp-302",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1330134969",
       "rating": "2",
       "tags": [
@@ -70810,7 +70810,7 @@
          ]
       },
       "fullname": "scp-313",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1330140096",
       "rating": "4",
       "tags": [
@@ -70895,7 +70895,7 @@
          ]
       },
       "fullname": "scp-320",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1330476460",
       "rating": "3",
       "tags": [
@@ -70936,7 +70936,7 @@
          ]
       },
       "fullname": "scp-324",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1330501480",
       "rating": "4",
       "tags": [
@@ -70974,7 +70974,7 @@
          ]
       },
       "fullname": "scp-1011",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1330503770",
       "rating": "3",
       "tags": [
@@ -71016,7 +71016,7 @@
          ]
       },
       "fullname": "goi-complete-list",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1330717579",
       "rating": "4",
       "tags": [
@@ -71050,7 +71050,7 @@
          ]
       },
       "fullname": "scp-200",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1330782788",
       "rating": "3",
       "tags": [
@@ -71226,7 +71226,7 @@
          ]
       },
       "fullname": "scp-202",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1330807071",
       "rating": "2",
       "tags": [
@@ -71849,7 +71849,7 @@
          ]
       },
       "fullname": "scp-2241-jp",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1330947187",
       "rating": "8",
       "tags": [
@@ -71983,7 +71983,7 @@
          ]
       },
       "fullname": "in-his-own-image",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1331029950",
       "rating": "2",
       "tags": [
@@ -72015,7 +72015,7 @@
          ]
       },
       "fullname": "the-drooling-path-part-1",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1331033619",
       "rating": "3",
       "tags": [
@@ -72060,7 +72060,7 @@
          ]
       },
       "fullname": "scp-blank-j",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1331069574",
       "rating": "6",
       "tags": [
@@ -72154,7 +72154,7 @@
          ]
       },
       "fullname": "scp-999-jp",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1331208900",
       "rating": "7",
       "tags": [
@@ -72546,7 +72546,7 @@
          ]
       },
       "fullname": "scp-143",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1331241273",
       "rating": "7",
       "tags": [
@@ -72821,7 +72821,7 @@
          ]
       },
       "fullname": "a-trip-down-memory-lane",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1331411831",
       "rating": "8",
       "tags": [
@@ -72852,7 +72852,7 @@
          ]
       },
       "fullname": "scp-1041",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1331425780",
       "rating": "2",
       "tags": [
@@ -73142,7 +73142,7 @@
          ]
       },
       "fullname": "scp-203",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1331474521",
       "rating": "5",
       "tags": [
@@ -73189,7 +73189,7 @@
          ]
       },
       "fullname": "facilities-complete-list",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1331479175",
       "rating": "5",
       "tags": [
@@ -73335,7 +73335,7 @@
          ]
       },
       "fullname": "scp-5790-declassification",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1331482953",
       "rating": "3",
       "tags": [
@@ -73599,7 +73599,7 @@
          ]
       },
       "fullname": "history-of-the-universe-part-one",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1331546999",
       "rating": "7",
       "tags": [
@@ -73652,7 +73652,7 @@
          ]
       },
       "fullname": "scp-152",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1331615795",
       "rating": "8",
       "tags": [
@@ -73698,7 +73698,7 @@
          ]
       },
       "fullname": "scp-204",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1331616182",
       "rating": "5",
       "tags": [
@@ -74022,7 +74022,7 @@
          ]
       },
       "fullname": "scp-6470",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1331636418",
       "rating": "7",
       "tags": [
@@ -74071,7 +74071,7 @@
          ]
       },
       "fullname": "what-s-in-a-name",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1331651150",
       "rating": "5",
       "tags": [
@@ -74109,7 +74109,7 @@
          ]
       },
       "fullname": "deals-with-the-devil",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1331661362",
       "rating": "4",
       "tags": [
@@ -74148,7 +74148,7 @@
          ]
       },
       "fullname": "scp-210",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1331665022",
       "rating": "4",
       "tags": [
@@ -74202,7 +74202,7 @@
          ]
       },
       "fullname": "scp-230",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1331691985",
       "rating": "5",
       "tags": [
@@ -74241,7 +74241,7 @@
          ]
       },
       "fullname": "just-a-formality",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1331714162",
       "rating": "3",
       "tags": [
@@ -74328,7 +74328,7 @@
          ]
       },
       "fullname": "o5-command-dossier",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1331721237",
       "rating": "6",
       "tags": [
@@ -74498,7 +74498,7 @@
          ]
       },
       "fullname": "weryllium-proposal",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1331730058",
       "rating": "9",
       "tags": [
@@ -74536,7 +74536,7 @@
          ]
       },
       "fullname": "integrity-project",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1331730157",
       "rating": "3",
       "tags": [
@@ -74586,7 +74586,7 @@
          ]
       },
       "fullname": "scp-2026",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1331740904",
       "rating": "7",
       "tags": [
@@ -74668,7 +74668,7 @@
          ]
       },
       "fullname": "scp-4999-flash-briefing",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1331744852",
       "rating": "4",
       "tags": [
@@ -74746,7 +74746,7 @@
          ]
       },
       "fullname": "scp-056",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1331750619",
       "rating": "2",
       "tags": [
@@ -74785,7 +74785,7 @@
          ]
       },
       "fullname": "scp-353",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1331751359",
       "rating": "3",
       "tags": [
@@ -75183,7 +75183,7 @@
          ]
       },
       "fullname": "scp-358",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1331761935",
       "rating": "3",
       "tags": [
@@ -75219,7 +75219,7 @@
          ]
       },
       "fullname": "scp-826",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1331764147",
       "rating": "3",
       "tags": [
@@ -75257,7 +75257,7 @@
          ]
       },
       "fullname": "scp-538",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1331770147",
       "rating": "3",
       "tags": [
@@ -75341,7 +75341,7 @@
          ]
       },
       "fullname": "scp-219",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1331777847",
       "rating": "3",
       "tags": [
@@ -75384,7 +75384,7 @@
          ]
       },
       "fullname": "scp-221",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1331780413",
       "rating": "2",
       "tags": [
@@ -75426,7 +75426,7 @@
          ]
       },
       "fullname": "scp-228",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1331782813",
       "rating": "2",
       "tags": [
@@ -75512,7 +75512,7 @@
          ]
       },
       "fullname": "scp-057",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1331784160",
       "rating": "4",
       "tags": [
@@ -75560,7 +75560,7 @@
          ]
       },
       "fullname": "scp-303",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1331784725",
       "rating": "3",
       "tags": [
@@ -75612,7 +75612,7 @@
          ]
       },
       "fullname": "scp-074",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1331785352",
       "rating": "4",
       "tags": [
@@ -75721,7 +75721,7 @@
          ]
       },
       "fullname": "scp-233",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1331789702",
       "rating": "6",
       "tags": [
@@ -75764,7 +75764,7 @@
          ]
       },
       "fullname": "goc-supplemental-humanoid-guide",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1331789777",
       "rating": "5",
       "tags": [
@@ -75799,7 +75799,7 @@
          ]
       },
       "fullname": "scp-248",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1331789949",
       "rating": "3",
       "tags": [
@@ -75839,7 +75839,7 @@
          ]
       },
       "fullname": "scp-059",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1331795480",
       "rating": "4",
       "tags": [
@@ -75937,7 +75937,7 @@
          ]
       },
       "fullname": "scp-070",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1331797052",
       "rating": "5",
       "tags": [
@@ -76074,7 +76074,7 @@
          ]
       },
       "fullname": "scp-180",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1331817666",
       "rating": "3",
       "tags": [
@@ -76108,7 +76108,7 @@
          ]
       },
       "fullname": "scp-177",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1331819390",
       "rating": "2",
       "tags": [
@@ -76141,7 +76141,7 @@
          ]
       },
       "fullname": "scp-110",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1331820774",
       "rating": "2",
       "tags": [
@@ -76239,7 +76239,7 @@
          ]
       },
       "fullname": "scp-172",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1332158561",
       "rating": "3",
       "tags": [
@@ -76376,7 +76376,7 @@
          ]
       },
       "fullname": "scp-5145",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1333032515",
       "rating": "9",
       "tags": [
@@ -76424,7 +76424,7 @@
          ]
       },
       "fullname": "scp-103",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1333200897",
       "rating": "5",
       "tags": [
@@ -76470,7 +76470,7 @@
          ]
       },
       "fullname": "scp-5145-declassification",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1333206552",
       "rating": "5",
       "tags": [
@@ -76557,7 +76557,7 @@
          ]
       },
       "fullname": "a-thin-dangerous-line",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1334655390",
       "rating": "4",
       "tags": [
@@ -76600,7 +76600,7 @@
          ]
       },
       "fullname": "scp-514",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1334657912",
       "rating": "5",
       "tags": [
@@ -76648,7 +76648,7 @@
          ]
       },
       "fullname": "scp-297",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1335745695",
       "rating": "3",
       "tags": [
@@ -76739,7 +76739,7 @@
          ]
       },
       "fullname": "scp-144",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1335749791",
       "rating": "6",
       "tags": [
@@ -76775,7 +76775,7 @@
          ]
       },
       "fullname": "scp-078",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1335974724",
       "rating": "3",
       "tags": [
@@ -76858,7 +76858,7 @@
          ]
       },
       "fullname": "scp-361",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1336452804",
       "rating": "3",
       "tags": [
@@ -76902,7 +76902,7 @@
          ]
       },
       "fullname": "scp-523",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1336844366",
       "rating": "4",
       "tags": [
@@ -76942,7 +76942,7 @@
          ]
       },
       "fullname": "scp-094",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1336943096",
       "rating": "4",
       "tags": [
@@ -76989,7 +76989,7 @@
          ]
       },
       "fullname": "scp-599",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1337113731",
       "rating": "3",
       "tags": [
@@ -77085,7 +77085,7 @@
          ]
       },
       "fullname": "scp-5310",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1337116471",
       "rating": "6",
       "tags": [
@@ -77167,7 +77167,7 @@
          ]
       },
       "fullname": "scp-336",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1338207905",
       "rating": "4",
       "tags": [
@@ -77214,7 +77214,7 @@
          ]
       },
       "fullname": "scp-080",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1338208718",
       "rating": "1",
       "tags": [
@@ -77349,7 +77349,7 @@
          ]
       },
       "fullname": "scp-392",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1345999637",
       "rating": "3",
       "tags": [
@@ -77385,7 +77385,7 @@
          ]
       },
       "fullname": "scp-258",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1363682302",
       "rating": "2",
       "tags": [
@@ -77420,7 +77420,7 @@
          ]
       },
       "fullname": "scp-077",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1363861829",
       "rating": "2",
       "tags": [
@@ -77457,7 +77457,7 @@
          ]
       },
       "fullname": "scp-275",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1364001464",
       "rating": "2",
       "tags": [
@@ -77551,7 +77551,7 @@
          ]
       },
       "fullname": "scp-263",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1369433516",
       "rating": "3",
       "tags": [
@@ -77635,7 +77635,7 @@
          ]
       },
       "fullname": "scp-095",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1376432977",
       "rating": "3",
       "tags": [
@@ -77667,7 +77667,7 @@
          ]
       },
       "fullname": "scp-071",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1376717277",
       "rating": "2",
       "tags": [
@@ -77701,7 +77701,7 @@
          ]
       },
       "fullname": "scp-267",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1378522025",
       "rating": "2",
       "tags": [
@@ -77771,7 +77771,7 @@
          ]
       },
       "fullname": "scp-843",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1378522755",
       "rating": "3",
       "tags": [
@@ -77805,7 +77805,7 @@
          ]
       },
       "fullname": "scp-251",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1378524603",
       "rating": "2",
       "tags": [
@@ -77883,7 +77883,7 @@
          ]
       },
       "fullname": "scp-090",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1378525040",
       "rating": "-2",
       "tags": [
@@ -77918,7 +77918,7 @@
          ]
       },
       "fullname": "scp-164",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1378525179",
       "rating": "2",
       "tags": [
@@ -77955,7 +77955,7 @@
          ]
       },
       "fullname": "scp-081",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1378527030",
       "rating": "2",
       "tags": [
@@ -77988,7 +77988,7 @@
          ]
       },
       "fullname": "scp-822",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1378527216",
       "rating": "2",
       "tags": [
@@ -78022,7 +78022,7 @@
          ]
       },
       "fullname": "scp-1132",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1378527256",
       "rating": "2",
       "tags": [
@@ -78062,7 +78062,7 @@
          ]
       },
       "fullname": "scp-5310-declassification",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1378732654",
       "rating": "4",
       "tags": [
@@ -78098,7 +78098,7 @@
          ]
       },
       "fullname": "scp-114",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1380447276",
       "rating": "4",
       "tags": [
@@ -78180,7 +78180,7 @@
          ]
       },
       "fullname": "scp-365",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1386121600",
       "rating": "3",
       "tags": [
@@ -78217,7 +78217,7 @@
          ]
       },
       "fullname": "scp-391",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1387892207",
       "rating": "3",
       "tags": [
@@ -78256,7 +78256,7 @@
          ]
       },
       "fullname": "scp-393",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1388433393",
       "rating": "3",
       "tags": [
@@ -78331,7 +78331,7 @@
          ]
       },
       "fullname": "scp-397",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1389711461",
       "rating": "2",
       "tags": [
@@ -78502,7 +78502,7 @@
          ]
       },
       "fullname": "scp-504",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1398171431",
       "rating": "8",
       "tags": [
@@ -78532,7 +78532,7 @@
          ]
       },
       "fullname": "scp-187",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1399069307",
       "rating": "1",
       "tags": [
@@ -78563,7 +78563,7 @@
          ]
       },
       "fullname": "scp-188",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1399823454",
       "rating": "1",
       "tags": [
@@ -78599,7 +78599,7 @@
          ]
       },
       "fullname": "scp-189",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1400331692",
       "rating": "0",
       "tags": [
@@ -78628,7 +78628,7 @@
          ]
       },
       "fullname": "scp-124",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1401913789",
       "rating": "1",
       "tags": [
@@ -78659,7 +78659,7 @@
          ]
       },
       "fullname": "scp-190",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1401914906",
       "rating": "2",
       "tags": [
@@ -78740,7 +78740,7 @@
          ]
       },
       "fullname": "scp-191",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1401928523",
       "rating": "3",
       "tags": [
@@ -78835,7 +78835,7 @@
          ]
       },
       "fullname": "scp-084",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1401956041",
       "rating": "2",
       "tags": [
@@ -78867,7 +78867,7 @@
          ]
       },
       "fullname": "084-a4",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1401956055",
       "rating": "2",
       "tags": [
@@ -78895,7 +78895,7 @@
          ]
       },
       "fullname": "scp-762",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1401957895",
       "rating": "2",
       "tags": [
@@ -78964,7 +78964,7 @@
          ]
       },
       "fullname": "scp-107",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1401958405",
       "rating": "3",
       "tags": [
@@ -78997,7 +78997,7 @@
          ]
       },
       "fullname": "scp-193",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1401958533",
       "rating": "2",
       "tags": [
@@ -79061,7 +79061,7 @@
          ]
       },
       "fullname": "avoid-the-blackbox",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1401961728",
       "rating": "10",
       "tags": [
@@ -79154,7 +79154,7 @@
          ]
       },
       "fullname": "scp-136",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1402022335",
       "rating": "4",
       "tags": [
@@ -79229,7 +79229,7 @@
          ]
       },
       "fullname": "scp-158",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1402036062",
       "rating": "2",
       "tags": [
@@ -79306,7 +79306,7 @@
          ]
       },
       "fullname": "scp-160",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1402040964",
       "rating": "2",
       "tags": [
@@ -79339,7 +79339,7 @@
          ]
       },
       "fullname": "scp-416",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1402042256",
       "rating": "2",
       "tags": [
@@ -79390,7 +79390,7 @@
          ]
       },
       "fullname": "glossary-of-terms",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1402044057",
       "rating": "7",
       "tags": [
@@ -79423,7 +79423,7 @@
          ]
       },
       "fullname": "scp-904",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1402044202",
       "rating": "3",
       "tags": [
@@ -79457,7 +79457,7 @@
          ]
       },
       "fullname": "scp-132",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1402044567",
       "rating": "2",
       "tags": [
@@ -79493,7 +79493,7 @@
          ]
       },
       "fullname": "scp-411",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1402045334",
       "rating": "3",
       "tags": [
@@ -79588,7 +79588,7 @@
          ]
       },
       "fullname": "i-a-polar-bear-covering-my-nose-in-a-snowstorm",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1402047194",
       "rating": "15",
       "tags": [
@@ -79617,7 +79617,7 @@
          ]
       },
       "fullname": "scp-427",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1402047452",
       "rating": "2",
       "tags": [
@@ -79662,7 +79662,7 @@
          ]
       },
       "fullname": "scp-428",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1402048140",
       "rating": "5",
       "tags": [
@@ -79762,7 +79762,7 @@
          ]
       },
       "fullname": "scp-429",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1402049444",
       "rating": "4",
       "tags": [
@@ -79888,7 +79888,7 @@
          ]
       },
       "fullname": "scp-431",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1402049616",
       "rating": "4",
       "tags": [
@@ -79930,7 +79930,7 @@
          ]
       },
       "fullname": "scp-436",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1402049990",
       "rating": "4",
       "tags": [
@@ -79977,7 +79977,7 @@
          ]
       },
       "fullname": "scp-918",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1402056560",
       "rating": "5",
       "tags": [
@@ -80018,7 +80018,7 @@
          ]
       },
       "fullname": "scp-327",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1402060557",
       "rating": "4",
       "tags": [
@@ -80101,7 +80101,7 @@
          ]
       },
       "fullname": "scp-370",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1402147297",
       "rating": "3",
       "tags": [
@@ -80233,7 +80233,7 @@
          ]
       },
       "fullname": "scp-104",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1402169545",
       "rating": "3",
       "tags": [
@@ -80356,7 +80356,7 @@
          ]
       },
       "fullname": "scp-115",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1402175769",
       "rating": "2",
       "tags": [
@@ -80396,7 +80396,7 @@
          ]
       },
       "fullname": "scp-718",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1402204012",
       "rating": "4",
       "tags": [
@@ -80495,7 +80495,7 @@
          ]
       },
       "fullname": "scp-129",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1402205936",
       "rating": "3",
       "tags": [
@@ -80622,7 +80622,7 @@
          ]
       },
       "fullname": "scp-119",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1402211774",
       "rating": "4",
       "tags": [
@@ -80675,7 +80675,7 @@
          ]
       },
       "fullname": "guide-for-newcomers",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1402219899",
       "rating": "7",
       "tags": [
@@ -80747,7 +80747,7 @@
          ]
       },
       "fullname": "guide-for-reading",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1402221817",
       "rating": "3",
       "tags": [
@@ -80783,7 +80783,7 @@
          ]
       },
       "fullname": "scp-331",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1402224296",
       "rating": "4",
       "tags": [
@@ -80827,7 +80827,7 @@
          ]
       },
       "fullname": "scp-329",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1402261102",
       "rating": "5",
       "tags": [
@@ -80860,7 +80860,7 @@
          ]
       },
       "fullname": "scp-346",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1402269645",
       "rating": "2",
       "tags": [
@@ -80904,7 +80904,7 @@
          ]
       },
       "fullname": "scp-339",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1402270177",
       "rating": "4",
       "tags": [
@@ -80937,7 +80937,7 @@
          ]
       },
       "fullname": "scp-598",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1402273315",
       "rating": "2",
       "tags": [
@@ -80975,7 +80975,7 @@
          ]
       },
       "fullname": "scp-619",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1402277767",
       "rating": "3",
       "tags": [
@@ -81043,7 +81043,7 @@
          ]
       },
       "fullname": "scp-620",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1402279727",
       "rating": "2",
       "tags": [
@@ -81085,7 +81085,7 @@
          ]
       },
       "fullname": "scp-637",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1402280143",
       "rating": "4",
       "tags": [
@@ -81127,7 +81127,7 @@
          ]
       },
       "fullname": "scp-462",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1402282398",
       "rating": "1",
       "tags": [
@@ -81202,7 +81202,7 @@
          ]
       },
       "fullname": "scp-885",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1402283191",
       "rating": "3",
       "tags": [
@@ -81238,7 +81238,7 @@
          ]
       },
       "fullname": "scp-644",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1402283492",
       "rating": "3",
       "tags": [
@@ -81279,7 +81279,7 @@
          ]
       },
       "fullname": "scp-499",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1402284419",
       "rating": "3",
       "tags": [
@@ -81314,7 +81314,7 @@
          ]
       },
       "fullname": "scp-401",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1402324308",
       "rating": "3",
       "tags": [
@@ -81365,7 +81365,7 @@
          ]
       },
       "fullname": "goc-supplemental-thaumworkings",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1402332498",
       "rating": "7",
       "tags": [
@@ -81444,7 +81444,7 @@
          ]
       },
       "fullname": "scp-256",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1402538401",
       "rating": "2",
       "tags": [
@@ -81479,7 +81479,7 @@
          ]
       },
       "fullname": "scp-539",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1402564923",
       "rating": "3",
       "tags": [
@@ -81523,7 +81523,7 @@
          ]
       },
       "fullname": "scp-517",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1402565564",
       "rating": "5",
       "tags": [
@@ -81553,7 +81553,7 @@
          ]
       },
       "fullname": "scp-851",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1402589487",
       "rating": "1",
       "tags": [
@@ -81587,7 +81587,7 @@
          ]
       },
       "fullname": "scp-860",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1402589533",
       "rating": "2",
       "tags": [
@@ -81627,7 +81627,7 @@
          ]
       },
       "fullname": "scp-536",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1402635991",
       "rating": "4",
       "tags": [
@@ -81673,7 +81673,7 @@
          ]
       },
       "fullname": "scp-559",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1402642764",
       "rating": "5",
       "tags": [
@@ -81761,7 +81761,7 @@
          ]
       },
       "fullname": "scp-525",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1402686011",
       "rating": "5",
       "tags": [
@@ -81794,7 +81794,7 @@
          ]
       },
       "fullname": "scp-449",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1402701404",
       "rating": "2",
       "tags": [
@@ -81842,7 +81842,7 @@
          ]
       },
       "fullname": "scp-347",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1402702687",
       "rating": "-2",
       "tags": [
@@ -81882,7 +81882,7 @@
          ]
       },
       "fullname": "scp-360",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1402704063",
       "rating": "3",
       "tags": [
@@ -81921,7 +81921,7 @@
          ]
       },
       "fullname": "scp-451",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1402705586",
       "rating": "3",
       "tags": [
@@ -81959,7 +81959,7 @@
          ]
       },
       "fullname": "scp-461",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1402706375",
       "rating": "3",
       "tags": [
@@ -81994,7 +81994,7 @@
          ]
       },
       "fullname": "scp-249",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1402712468",
       "rating": "3",
       "tags": [
@@ -82025,7 +82025,7 @@
          ]
       },
       "fullname": "scp-934",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1402713541",
       "rating": "2",
       "tags": [
@@ -82057,7 +82057,7 @@
          ]
       },
       "fullname": "scp-756",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1402715184",
       "rating": "2",
       "tags": [
@@ -82136,7 +82136,7 @@
          ]
       },
       "fullname": "scp-761",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1402716715",
       "rating": "5",
       "tags": [
@@ -82169,7 +82169,7 @@
          ]
       },
       "fullname": "scp-368",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1402722461",
       "rating": "2",
       "tags": [
@@ -82253,7 +82253,7 @@
          ]
       },
       "fullname": "scp-205",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1402749853",
       "rating": "4",
       "tags": [
@@ -82313,7 +82313,7 @@
          ]
       },
       "fullname": "guide-for-writing",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1402766501",
       "rating": "6",
       "tags": [
@@ -82390,7 +82390,7 @@
          ]
       },
       "fullname": "scp-506",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1402780632",
       "rating": "4",
       "tags": [
@@ -82423,7 +82423,7 @@
          ]
       },
       "fullname": "scp-634",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1402782262",
       "rating": "2",
       "tags": [
@@ -82571,7 +82571,7 @@
          ]
       },
       "fullname": "scp-931",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1402804513",
       "rating": "6",
       "tags": [
@@ -82702,7 +82702,7 @@
          ]
       },
       "fullname": "scp-738",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1402842904",
       "rating": "2",
       "tags": [
@@ -82925,7 +82925,7 @@
          ]
       },
       "fullname": "unreality-hub",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1402858792",
       "rating": "10",
       "tags": [
@@ -82954,7 +82954,7 @@
          ]
       },
       "fullname": "scp-147",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1402859990",
       "rating": "2",
       "tags": [
@@ -82993,7 +82993,7 @@
          ]
       },
       "fullname": "scp-526",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1402870988",
       "rating": "3",
       "tags": [
@@ -83043,7 +83043,7 @@
          ]
       },
       "fullname": "scp-618",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1402892574",
       "rating": "5",
       "tags": [
@@ -83093,7 +83093,7 @@
          ]
       },
       "fullname": "crosslinks-guide",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1402908270",
       "rating": "5",
       "tags": [
@@ -83165,7 +83165,7 @@
          ]
       },
       "fullname": "scp-082",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1402924777",
       "rating": "2",
       "tags": [
@@ -83635,7 +83635,7 @@
          ]
       },
       "fullname": "scp-914-experiment-log-guidelines",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1402992743",
       "rating": "4",
       "tags": [
@@ -83750,7 +83750,7 @@
          ]
       },
       "fullname": "scp-791",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1403006281",
       "rating": "2",
       "tags": [
@@ -83795,7 +83795,7 @@
          ]
       },
       "fullname": "scp-6802",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1403066197",
       "rating": "5",
       "tags": [
@@ -83868,7 +83868,7 @@
          ]
       },
       "fullname": "scp-407",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1403076172",
       "rating": "2",
       "tags": [
@@ -83929,7 +83929,7 @@
          ]
       },
       "fullname": "transparent",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1403078909",
       "rating": "8",
       "tags": [
@@ -84083,7 +84083,7 @@
          ]
       },
       "fullname": "ddd-2034",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1403125920",
       "rating": "13",
       "tags": [
@@ -84304,7 +84304,7 @@
          ]
       },
       "fullname": "rounderhouse-critique-guide",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1403146800",
       "rating": "21",
       "tags": [
@@ -84404,7 +84404,7 @@
          ]
       },
       "fullname": "glassautomaton-s-author-page",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1403274799",
       "rating": "4",
       "tags": [
@@ -84448,7 +84448,7 @@
          ]
       },
       "fullname": "scp-5861",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1403277993",
       "rating": "6",
       "tags": [
@@ -84486,7 +84486,7 @@
          ]
       },
       "fullname": "scp-2711",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1403295702",
       "rating": "3",
       "tags": [
@@ -84558,7 +84558,7 @@
          ]
       },
       "fullname": "standard-form-for-downvotes",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1403319592",
       "rating": "11",
       "tags": [
@@ -84647,7 +84647,7 @@
          ]
       },
       "fullname": "rounderhouse-100",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1403366764",
       "rating": "17",
       "tags": [
@@ -84714,7 +84714,7 @@
          ]
       },
       "fullname": "scp-6093",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1403422247",
       "rating": "3",
       "tags": [
@@ -84836,7 +84836,7 @@
          ]
       },
       "fullname": "scp-2481",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1403488730",
       "rating": "4",
       "tags": [
@@ -84880,7 +84880,7 @@
          ]
       },
       "fullname": "scp-3491",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1403502711",
       "rating": "2",
       "tags": [
@@ -84979,7 +84979,7 @@
          ]
       },
       "fullname": "scp-167",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1403527154",
       "rating": "6",
       "tags": [
@@ -85252,7 +85252,7 @@
          ]
       },
       "fullname": "unreality-orientation",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1403631344",
       "rating": "7",
       "tags": [
@@ -85382,7 +85382,7 @@
          ]
       },
       "fullname": "scp-6742",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1403640246",
       "rating": "3",
       "tags": [
@@ -85528,7 +85528,7 @@
          ]
       },
       "fullname": "something-glowing",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1403648452",
       "rating": "9",
       "tags": [
@@ -85853,7 +85853,7 @@
          ]
       },
       "fullname": "scp-6781",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1403677073",
       "rating": "10",
       "tags": [
@@ -85945,7 +85945,7 @@
          ]
       },
       "fullname": "its-not-real-it-never-was-you-pathetic-fools",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1403710362",
       "rating": "4",
       "tags": [
@@ -85990,7 +85990,7 @@
          ]
       },
       "fullname": "strangers-of-site-17-part-three",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1413263814",
       "rating": "5",
       "tags": [
@@ -86026,7 +86026,7 @@
          ]
       },
       "fullname": "scp-123",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1413677270",
       "rating": "4",
       "tags": [
@@ -86127,7 +86127,7 @@
          ]
       },
       "fullname": "scp-460",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1415196918",
       "rating": "7",
       "tags": [
@@ -86227,7 +86227,7 @@
          ]
       },
       "fullname": "scp-6630",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1417059388",
       "rating": "19",
       "tags": [
@@ -86420,7 +86420,7 @@
          ]
       },
       "fullname": "scp-6468",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1417544936",
       "rating": "6",
       "tags": [
@@ -86735,7 +86735,7 @@
          ]
       },
       "fullname": "scp-6377",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1420062007",
       "rating": "7",
       "tags": [
@@ -86775,7 +86775,7 @@
          ]
       },
       "fullname": "scp-6342",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1420070274",
       "rating": "3",
       "tags": [
@@ -86944,7 +86944,7 @@
          ]
       },
       "fullname": "scp-425",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1420092663",
       "rating": "5",
       "tags": [
@@ -87104,7 +87104,7 @@
          ]
       },
       "fullname": "acroamatic-abatement",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1420105743",
       "rating": "8",
       "tags": [
@@ -87324,7 +87324,7 @@
          ]
       },
       "fullname": "scp-440",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1420127709",
       "rating": "4",
       "tags": [
@@ -87358,7 +87358,7 @@
          ]
       },
       "fullname": "scp-333",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1420130023",
       "rating": "3",
       "tags": [
@@ -87523,7 +87523,7 @@
          ]
       },
       "fullname": "scp-570",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1420226832",
       "rating": "9",
       "tags": [
@@ -87568,7 +87568,7 @@
          ]
       },
       "fullname": "scp-377",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1420227385",
       "rating": "4",
       "tags": [
@@ -87747,7 +87747,7 @@
          ]
       },
       "fullname": "scp-5031",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1420230151",
       "rating": "5",
       "tags": [
@@ -87788,7 +87788,7 @@
          ]
       },
       "fullname": "scp-787",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1420232837",
       "rating": "3",
       "tags": [
@@ -87883,7 +87883,7 @@
          ]
       },
       "fullname": "scp-708",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1420237874",
       "rating": "5",
       "tags": [
@@ -87929,7 +87929,7 @@
          ]
       },
       "fullname": "scp-638",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1420273961",
       "rating": "5",
       "tags": [
@@ -87965,7 +87965,7 @@
          ]
       },
       "fullname": "scp-677",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1420274734",
       "rating": "2",
       "tags": [
@@ -88003,7 +88003,7 @@
          ]
       },
       "fullname": "scp-636",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1420275398",
       "rating": "3",
       "tags": [
@@ -88314,7 +88314,7 @@
          ]
       },
       "fullname": "scp-702",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1420312591",
       "rating": "6",
       "tags": [
@@ -88366,7 +88366,7 @@
          ]
       },
       "fullname": "scp-4666-declassification",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1420314320",
       "rating": "6",
       "tags": [
@@ -88800,7 +88800,7 @@
          ]
       },
       "fullname": "scp-6902",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1420444899",
       "rating": "5",
       "tags": [
@@ -89856,7 +89856,7 @@
          ]
       },
       "fullname": "scp-6238",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1420758587",
       "rating": "5",
       "tags": [
@@ -89944,7 +89944,7 @@
          ]
       },
       "fullname": "scp-7070",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1420806479",
       "rating": "16",
       "tags": [
@@ -90067,7 +90067,7 @@
          ]
       },
       "fullname": "scp-7009",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1420838746",
       "rating": "9",
       "tags": [
@@ -90127,7 +90127,7 @@
          ]
       },
       "fullname": "scp-7200",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1420851356",
       "rating": "8",
       "tags": [
@@ -90454,7 +90454,7 @@
          ]
       },
       "fullname": "scp-4231",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1422591434",
       "rating": "14",
       "tags": [
@@ -90703,7 +90703,7 @@
          ]
       },
       "fullname": "scp-067-ex",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1435443351",
       "rating": "4",
       "tags": [
@@ -90944,7 +90944,7 @@
          ]
       },
       "fullname": "new-tricks",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1435513260",
       "rating": "4",
       "tags": [
@@ -90980,7 +90980,7 @@
          ]
       },
       "fullname": "daveyoufool-proposal",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1435687112",
       "rating": "2",
       "tags": [
@@ -91023,7 +91023,7 @@
          ]
       },
       "fullname": "light-dependent-reactions",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1435737901",
       "rating": "4",
       "tags": [
@@ -91220,7 +91220,7 @@
          ]
       },
       "fullname": "scp-7025",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1435806994",
       "rating": "7",
       "tags": [
@@ -91264,7 +91264,7 @@
          ]
       },
       "fullname": "dressing-up",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1435844830",
       "rating": "5",
       "tags": [
@@ -91307,7 +91307,7 @@
          ]
       },
       "fullname": "getting-drunk",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1435844836",
       "rating": "5",
       "tags": [
@@ -91350,7 +91350,7 @@
          ]
       },
       "fullname": "raising-hell",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1435844897",
       "rating": "5",
       "tags": [
@@ -91422,7 +91422,7 @@
          ]
       },
       "fullname": "wanderers:a-wanderers-guide-to-first-aid-in-the-library",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1435929000",
       "rating": "12",
       "tags": [
@@ -91621,7 +91621,7 @@
          ]
       },
       "fullname": "jak-zburzylem-wieze-babel",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1436049809",
       "rating": "6",
       "tags": [
@@ -91659,7 +91659,7 @@
          ]
       },
       "fullname": "scp-ttku-j",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1436068543",
       "rating": "4",
       "tags": [
@@ -91776,7 +91776,7 @@
          ]
       },
       "fullname": "job-opportunities",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1436127361",
       "rating": "8",
       "tags": [
@@ -92028,7 +92028,7 @@
          ]
       },
       "fullname": "scp-850",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1436162366",
       "rating": "5",
       "tags": [
@@ -92188,7 +92188,7 @@
          ]
       },
       "fullname": "scp-7328",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1436170201",
       "rating": "8",
       "tags": [
@@ -92576,7 +92576,7 @@
          ]
       },
       "fullname": "scp-6215",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1436216513",
       "rating": "4",
       "tags": [
@@ -92766,7 +92766,7 @@
          ]
       },
       "fullname": "daybreak",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1436221519",
       "rating": "3",
       "tags": [
@@ -92851,7 +92851,7 @@
          ]
       },
       "fullname": "scp-488",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1436250731",
       "rating": "3",
       "tags": [
@@ -92886,7 +92886,7 @@
          ]
       },
       "fullname": "scp-884",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1436296296",
       "rating": "2",
       "tags": [
@@ -92920,7 +92920,7 @@
          ]
       },
       "fullname": "scp-884-original-collection",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1436296544",
       "rating": "1",
       "tags": [
@@ -93169,7 +93169,7 @@
          ]
       },
       "fullname": "scp-661-j",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1436321983",
       "rating": "7",
       "tags": [
@@ -93395,7 +93395,7 @@
          ]
       },
       "fullname": "personal-log-of-gordon-richards",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1436381346",
       "rating": "2",
       "tags": [
@@ -93624,7 +93624,7 @@
          ]
       },
       "fullname": "scp-1048",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1436572792",
       "rating": "5",
       "tags": [
@@ -93715,7 +93715,7 @@
          ]
       },
       "fullname": "scp-2741",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1436611335",
       "rating": "5",
       "tags": [
@@ -93788,7 +93788,7 @@
          ]
       },
       "fullname": "ethics-committee-class-d-housing-regulations",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1436654773",
       "rating": "12",
       "tags": [
@@ -93894,7 +93894,7 @@
          ]
       },
       "fullname": "wanderers:a-wanderers-guide-to-first-aid-in-the-library-aqua",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1436728863",
       "rating": "8",
       "tags": [
@@ -93931,7 +93931,7 @@
          ]
       },
       "fullname": "scp-4231-declassification-part-one",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1436729640",
       "rating": "4",
       "tags": [
@@ -94044,7 +94044,7 @@
          ]
       },
       "fullname": "scp-4231-declassification-part-two",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1436918706",
       "rating": "4",
       "tags": [
@@ -94175,7 +94175,7 @@
          ]
       },
       "fullname": "cliches-and-you-an-educational-film",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1436929247",
       "rating": "6",
       "tags": [
@@ -94212,7 +94212,7 @@
          ]
       },
       "fullname": "scp-1984-j",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1436937048",
       "rating": "4",
       "tags": [
@@ -94260,7 +94260,7 @@
          ]
       },
       "fullname": "a-faerie-tale-of-twin-queens",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1436939869",
       "rating": "6",
       "tags": [
@@ -94303,7 +94303,7 @@
          ]
       },
       "fullname": "scp-7348",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1436953547",
       "rating": "5",
       "tags": [
@@ -94555,7 +94555,7 @@
          ]
       },
       "fullname": "scp-2316-declassification",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1437006433",
       "rating": "6",
       "tags": [
@@ -94955,7 +94955,7 @@
          ]
       },
       "fullname": "scp-476",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1437053463",
       "rating": "5",
       "tags": [
@@ -95064,7 +95064,7 @@
          ]
       },
       "fullname": "scp-5558",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1437053506",
       "rating": "7",
       "tags": [
@@ -95124,7 +95124,7 @@
          ]
       },
       "fullname": "overview-of-mtf-psi-7-home-improvement",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1437053568",
       "rating": "7",
       "tags": [
@@ -95351,7 +95351,7 @@
          ]
       },
       "fullname": "qntm-s-proposal",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1437248371",
       "rating": "2",
       "tags": [
@@ -95461,7 +95461,7 @@
          ]
       },
       "fullname": "resurrection",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1437254754",
       "rating": "6",
       "tags": [
@@ -95741,7 +95741,7 @@
          ]
       },
       "fullname": "scp-4098-declassification",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1437288202",
       "rating": "3",
       "tags": [
@@ -96093,7 +96093,7 @@
          ]
       },
       "fullname": "scp-5956-declassification",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1437306801",
       "rating": "5",
       "tags": [
@@ -96214,7 +96214,7 @@
          ]
       },
       "fullname": "scp-2028",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1437395677",
       "rating": "8",
       "tags": [
@@ -96301,7 +96301,7 @@
          ]
       },
       "fullname": "scp-009-jp",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1437417080",
       "rating": "6",
       "tags": [
@@ -97397,7 +97397,7 @@
          ]
       },
       "fullname": "le-test-des-gdi",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1444610476",
       "rating": "15",
       "tags": [
@@ -97592,7 +97592,7 @@
          ]
       },
       "fullname": "scp-444-ko-warning",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1444616758",
       "rating": "5",
       "tags": [
@@ -97621,7 +97621,7 @@
          ]
       },
       "fullname": "scp-444-ko",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1444616760",
       "rating": "2",
       "tags": [
@@ -97998,7 +97998,7 @@
          ]
       },
       "fullname": "groups-of-interest-pl",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1444669654",
       "rating": "3",
       "tags": [
@@ -98036,7 +98036,7 @@
          ]
       },
       "fullname": "groupes-d-interet-fr",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1444678125",
       "rating": "4",
       "tags": [
@@ -98147,7 +98147,7 @@
          ]
       },
       "fullname": "essay-resource-hub",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1444681709",
       "rating": "2",
       "tags": [
@@ -98230,7 +98230,7 @@
          ]
       },
       "fullname": "groups-of-interest-ko",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1444716405",
       "rating": "2",
       "tags": [
@@ -98260,7 +98260,7 @@
          ]
       },
       "fullname": "instagram-fan-art-contest-spring-2022",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1444719474",
       "rating": "2",
       "tags": [
@@ -98296,7 +98296,7 @@
          ]
       },
       "fullname": "groups-of-interest-ua",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1444724085",
       "rating": "4",
       "tags": [
@@ -98354,7 +98354,7 @@
          ]
       },
       "fullname": "always-love-you-ben",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1444776361",
       "rating": "9",
       "tags": [
@@ -98440,7 +98440,7 @@
          ]
       },
       "fullname": "scp-1689",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1444778567",
       "rating": "3",
       "tags": [
@@ -98550,7 +98550,7 @@
          ]
       },
       "fullname": "scp-905-jp",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1444778817",
       "rating": "5",
       "tags": [
@@ -98607,7 +98607,7 @@
          ]
       },
       "fullname": "scp-503-ko",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1444781875",
       "rating": "8",
       "tags": [
@@ -98662,7 +98662,7 @@
          ]
       },
       "fullname": "scp-1875-declassification",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1445371227",
       "rating": "6",
       "tags": [
@@ -98846,7 +98846,7 @@
          ]
       },
       "fullname": "scp-7393",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1445383766",
       "rating": "4",
       "tags": [
@@ -98914,7 +98914,7 @@
          ]
       },
       "fullname": "scp-7339",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1445386307",
       "rating": "2",
       "tags": [
@@ -99156,7 +99156,7 @@
          ]
       },
       "fullname": "nobody-hub",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1445392870",
       "rating": "6",
       "tags": [
@@ -99202,7 +99202,7 @@
          ]
       },
       "fullname": "nobody-knows",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1445396904",
       "rating": "6",
       "tags": [
@@ -99352,7 +99352,7 @@
          ]
       },
       "fullname": "scp-262",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1445429056",
       "rating": "5",
       "tags": [
@@ -99611,7 +99611,7 @@
          ]
       },
       "fullname": "the-nuclear-option",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1445482114",
       "rating": "16",
       "tags": [
@@ -99768,7 +99768,7 @@
          ]
       },
       "fullname": "domc-hub",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1445498532",
       "rating": "7",
       "tags": [
@@ -99867,7 +99867,7 @@
          ]
       },
       "fullname": "me-oi",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1445501602",
       "rating": "3",
       "tags": [
@@ -100877,7 +100877,7 @@
          ]
       },
       "fullname": "scp-068-vn",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1445885530",
       "rating": "7",
       "tags": [
@@ -100927,7 +100927,7 @@
          ]
       },
       "fullname": "scp-7967",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1445895767",
       "rating": "6",
       "tags": [
@@ -101195,7 +101195,7 @@
          ]
       },
       "fullname": "scp-7795",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1446075364",
       "rating": "16",
       "tags": [
@@ -101234,7 +101234,7 @@
          ]
       },
       "fullname": "scp-7686",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1446075882",
       "rating": "3",
       "tags": [
@@ -101708,7 +101708,7 @@
          ]
       },
       "fullname": "scp-7759",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1446185939",
       "rating": "7",
       "tags": [
@@ -101755,7 +101755,7 @@
          ]
       },
       "fullname": "scp-7931",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1446193779",
       "rating": "4",
       "tags": [
@@ -101979,7 +101979,7 @@
          ]
       },
       "fullname": "scp-7234",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1446211757",
       "rating": "6",
       "tags": [
@@ -102273,7 +102273,7 @@
          ]
       },
       "fullname": "fsa-data",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1446306164",
       "rating": "6",
       "tags": [
@@ -103151,7 +103151,7 @@
          ]
       },
       "fullname": "scp-7660",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1446585974",
       "rating": "7",
       "tags": [
@@ -103241,7 +103241,7 @@
          ]
       },
       "fullname": "scp-7559",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1446588201",
       "rating": "5",
       "tags": [
@@ -103333,7 +103333,7 @@
          ]
       },
       "fullname": "scp-1523",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1446598640",
       "rating": "4",
       "tags": [
@@ -103382,7 +103382,7 @@
          ]
       },
       "fullname": "list-of-standard-cover-stories",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1446604858",
       "rating": "6",
       "tags": [
@@ -103501,7 +103501,7 @@
          ]
       },
       "fullname": "how-to-summon-a-god-safely",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1446606069",
       "rating": "13",
       "tags": [
@@ -103815,7 +103815,7 @@
          ]
       },
       "fullname": "scp-1958",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1446712800",
       "rating": "4",
       "tags": [
@@ -104211,7 +104211,7 @@
          ]
       },
       "fullname": "scp-2425",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1446759615",
       "rating": "6",
       "tags": [
@@ -104425,7 +104425,7 @@
          ]
       },
       "fullname": "scp-2155",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1446806394",
       "rating": "8",
       "tags": [
@@ -104690,7 +104690,7 @@
          ]
       },
       "fullname": "scp-2512",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1446972220",
       "rating": "6",
       "tags": [
@@ -104879,7 +104879,7 @@
          ]
       },
       "fullname": "scp-5218",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1447008051",
       "rating": "3",
       "tags": [
@@ -104952,7 +104952,7 @@
          ]
       },
       "fullname": "reviewing-7kcon-reflections-on-a-rubric",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1447023895",
       "rating": "3",
       "tags": [
@@ -104997,7 +104997,7 @@
          ]
       },
       "fullname": "holding-grails-hub",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1447024002",
       "rating": "6",
       "tags": [
@@ -105037,7 +105037,7 @@
          ]
       },
       "fullname": "scp-6970",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1447025696",
       "rating": "4",
       "tags": [
@@ -105076,7 +105076,7 @@
          ]
       },
       "fullname": "reimagined-hub",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1447025824",
       "rating": "3",
       "tags": [
@@ -105271,7 +105271,7 @@
          ]
       },
       "fullname": "scp-7510-declassification",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1447030691",
       "rating": "5",
       "tags": [
@@ -105341,7 +105341,7 @@
          ]
       },
       "fullname": "scp-112",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1447034614",
       "rating": "1",
       "tags": [
@@ -105590,7 +105590,7 @@
          ]
       },
       "fullname": "scp-3166",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1447171853",
       "rating": "4",
       "tags": [
@@ -105704,7 +105704,7 @@
          ]
       },
       "fullname": "scp-2858",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1447176722",
       "rating": "2",
       "tags": [
@@ -106006,7 +106006,7 @@
          ]
       },
       "fullname": "portraits-of-your-father",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1447230906",
       "rating": "9",
       "tags": [
@@ -106081,7 +106081,7 @@
          ]
       },
       "fullname": "locations-of-interest",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1447242221",
       "rating": "4",
       "tags": [
@@ -106145,7 +106145,7 @@
          ]
       },
       "fullname": "scp-544-jp",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1447243707",
       "rating": "8",
       "tags": [
@@ -106330,7 +106330,7 @@
          ]
       },
       "fullname": "scp-2517",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1447287511",
       "rating": "2",
       "tags": [
@@ -106459,7 +106459,7 @@
          ]
       },
       "fullname": "scp-4001-declassification",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1447419404",
       "rating": "3",
       "tags": [
@@ -106495,7 +106495,7 @@
          ]
       },
       "fullname": "scp-3004-declassification",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1447424737",
       "rating": "4",
       "tags": [
@@ -106523,7 +106523,7 @@
          ]
       },
       "fullname": "scp-6416-declassification",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1447426069",
       "rating": "2",
       "tags": [
@@ -106678,7 +106678,7 @@
          ]
       },
       "fullname": "duke-till-dawn",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1447442019",
       "rating": "6",
       "tags": [
@@ -106826,7 +106826,7 @@
          ]
       },
       "fullname": "what-not-to-do",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1447443769",
       "rating": "5",
       "tags": [
@@ -107301,7 +107301,7 @@
          ]
       },
       "fullname": "scp-6401",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1447574141",
       "rating": "3",
       "tags": [
@@ -107644,7 +107644,7 @@
          ]
       },
       "fullname": "scp-2456",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1447659784",
       "rating": "5",
       "tags": [
@@ -108275,7 +108275,7 @@
          ]
       },
       "fullname": "scp-6771-declassification",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1447756539",
       "rating": "3",
       "tags": [
@@ -108307,7 +108307,7 @@
          ]
       },
       "fullname": "scp-1425-declassification",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1447762518",
       "rating": "3",
       "tags": [
@@ -108670,7 +108670,7 @@
          ]
       },
       "fullname": "scp-4955",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1447965402",
       "rating": "7",
       "tags": [
@@ -108748,7 +108748,7 @@
          ]
       },
       "fullname": "scp-325-jp-j",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1447966741",
       "rating": "13",
       "tags": [
@@ -108877,7 +108877,7 @@
          ]
       },
       "fullname": "scp-4955-declassification",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1447975583",
       "rating": "2",
       "tags": [
@@ -108933,7 +108933,7 @@
          ]
       },
       "fullname": "abolish-the-no-vote-downvote-your-friends-and-other-scp-crit",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1447980687",
       "rating": "9",
       "tags": [
@@ -109028,7 +109028,7 @@
          ]
       },
       "fullname": "scp-5650",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1448199526",
       "rating": "6",
       "tags": [
@@ -109077,7 +109077,7 @@
          ]
       },
       "fullname": "wanderers:wayward-prayers",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1448201029",
       "rating": "5",
       "tags": [
@@ -109149,7 +109149,7 @@
          ]
       },
       "fullname": "bright-list-deletion-message",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1448324459",
       "rating": "1",
       "tags": [
@@ -109239,7 +109239,7 @@
          ]
       },
       "fullname": "scp-6599",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1448372226",
       "rating": "5",
       "tags": [
@@ -109711,7 +109711,7 @@
          ]
       },
       "fullname": "haunt-me",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1448577917",
       "rating": "2",
       "tags": [
@@ -109743,7 +109743,7 @@
          ]
       },
       "fullname": "scp-475",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1448578227",
       "rating": "2",
       "tags": [
@@ -110109,7 +110109,7 @@
          ]
       },
       "fullname": "scp-1299-jp",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1448637858",
       "rating": "3",
       "tags": [
@@ -110162,7 +110162,7 @@
          ]
       },
       "fullname": "scp-5555",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1448641561",
       "rating": "7",
       "tags": [
@@ -110496,7 +110496,7 @@
          ]
       },
       "fullname": "essay-on-common-newbie-ideas",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1448699420",
       "rating": "7",
       "tags": [
@@ -110787,7 +110787,7 @@
          "-": []
       },
       "fullname": "agent-calendars-hot-date-2",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1448855435",
       "rating": "0",
       "tags": [
@@ -110821,7 +110821,7 @@
          ]
       },
       "fullname": "testing-the-margins",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1448855903",
       "rating": "3",
       "tags": [
@@ -110847,7 +110847,7 @@
          ]
       },
       "fullname": "products",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1448892990",
       "rating": "2",
       "tags": [
@@ -110873,7 +110873,7 @@
          ]
       },
       "fullname": "scp-6121",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1448916298",
       "rating": "1",
       "tags": [

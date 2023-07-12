@@ -252,7 +252,7 @@
          ]
       },
       "fullname": "groups-of-interest-zh",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "633994759",
       "rating": "3",
       "tags": [
@@ -859,7 +859,7 @@
          ]
       },
       "fullname": "scp-zh-017",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "635005231",
       "rating": "21",
       "tags": [
@@ -2050,7 +2050,7 @@
          ]
       },
       "fullname": "scp-zh-977",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "637733537",
       "rating": "5",
       "tags": [
@@ -2537,7 +2537,7 @@
          ]
       },
       "fullname": "scp-zh-401",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "637939987",
       "rating": "9",
       "tags": [
@@ -4032,7 +4032,7 @@
          ]
       },
       "fullname": "scp-zh-372",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "639466444",
       "rating": "16",
       "tags": [
@@ -4501,7 +4501,7 @@
          ]
       },
       "fullname": "scp-zh-472-j",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "644745572",
       "rating": "4",
       "tags": [
@@ -6437,7 +6437,7 @@
          "-": []
       },
       "fullname": "secure-facilities-locations-zh",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "757227593",
       "rating": "0",
       "tags": [
@@ -8954,7 +8954,7 @@
          ]
       },
       "fullname": "scp-zh-972",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "816902216",
       "rating": "8",
       "tags": [
@@ -14980,7 +14980,7 @@
          ]
       },
       "fullname": "scp-zh-045",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "858040006",
       "rating": "22",
       "tags": [
@@ -20430,7 +20430,7 @@
          ]
       },
       "fullname": "scp-zh-564",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "934721072",
       "rating": "5",
       "tags": [
@@ -31453,7 +31453,7 @@
          ]
       },
       "fullname": "scp-zh-028",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "998752513",
       "rating": "7",
       "tags": [
@@ -31660,7 +31660,7 @@
          ]
       },
       "fullname": "wanderers:victory-day",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "998788616",
       "rating": "9",
       "tags": [
@@ -32113,7 +32113,7 @@
          ]
       },
       "fullname": "scp-zh-262",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "999245649",
       "rating": "13",
       "tags": [
@@ -32281,7 +32281,7 @@
          ]
       },
       "fullname": "scp-zh-747",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "999245676",
       "rating": "15",
       "tags": [
@@ -32347,7 +32347,7 @@
          ]
       },
       "fullname": "communication-log-zh-747-331",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "999245685",
       "rating": "9",
       "tags": [
@@ -32419,7 +32419,7 @@
          ]
       },
       "fullname": "wanderers:lycorisradiata",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "999246157",
       "rating": "13",
       "tags": [
@@ -32511,7 +32511,7 @@
          ]
       },
       "fullname": "wanderers:flowers-thus-have-i-heard",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "999246265",
       "rating": "18",
       "tags": [
@@ -32580,7 +32580,7 @@
          ]
       },
       "fullname": "orangetea-and-plum",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "999246279",
       "rating": "12",
       "tags": [
@@ -33255,7 +33255,7 @@
          ]
       },
       "fullname": "scp-zh-0404",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "999866585",
       "rating": "7",
       "tags": [
@@ -33776,7 +33776,7 @@
          ]
       },
       "fullname": "scp-zh-545",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1002128356",
       "rating": "19",
       "tags": [
@@ -34021,7 +34021,7 @@
          ]
       },
       "fullname": "scp-zh-019",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1002290485",
       "rating": "12",
       "tags": [
@@ -34276,7 +34276,7 @@
          ]
       },
       "fullname": "scp-2998-declassification-zh",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1002430711",
       "rating": "14",
       "tags": [
@@ -34695,7 +34695,7 @@
          ]
       },
       "fullname": "fools-wine",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1024158077",
       "rating": "11",
       "tags": [
@@ -34760,7 +34760,7 @@
          ]
       },
       "fullname": "they-throw-them-into-the-sea",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1024177077",
       "rating": "11",
       "tags": [
@@ -34905,7 +34905,7 @@
          ]
       },
       "fullname": "scp-zh-016",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1024196986",
       "rating": "8",
       "tags": [
@@ -34986,7 +34986,7 @@
          ]
       },
       "fullname": "1993-cobweb-international",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1024229544",
       "rating": "14",
       "tags": [
@@ -35223,7 +35223,7 @@
          ]
       },
       "fullname": "scp-zh-076",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1024272433",
       "rating": "3",
       "tags": [
@@ -35420,7 +35420,7 @@
          ]
       },
       "fullname": "ci-re-004",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1024277633",
       "rating": "6",
       "tags": [
@@ -35490,7 +35490,7 @@
          ]
       },
       "fullname": "part0-in-the-end",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1024279944",
       "rating": "12",
       "tags": [
@@ -35553,7 +35553,7 @@
          ]
       },
       "fullname": "i-hate-myself",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1024283473",
       "rating": "11",
       "tags": [
@@ -35619,7 +35619,7 @@
          ]
       },
       "fullname": "i-don-t-know-the-body-in-the-swim-pool",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1024291079",
       "rating": "11",
       "tags": [
@@ -35962,7 +35962,7 @@
          ]
       },
       "fullname": "my-grandpa",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1024424067",
       "rating": "10",
       "tags": [
@@ -36525,7 +36525,7 @@
          ]
       },
       "fullname": "scp-zh-247",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1024718222",
       "rating": "12",
       "tags": [
@@ -37270,7 +37270,7 @@
          ]
       },
       "fullname": "oh-no-body-is-running",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1026151170",
       "rating": "11",
       "tags": [
@@ -37331,7 +37331,7 @@
          ]
       },
       "fullname": "ci-04-arab-division-2014",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1026151287",
       "rating": "10",
       "tags": [
@@ -37903,7 +37903,7 @@
          ]
       },
       "fullname": "thedream",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1026199329",
       "rating": "3",
       "tags": [
@@ -38050,7 +38050,7 @@
          ]
       },
       "fullname": "dream-about-tomorrow",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1026219156",
       "rating": "18",
       "tags": [
@@ -38191,7 +38191,7 @@
          ]
       },
       "fullname": "blue-0428",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1026248482",
       "rating": "13",
       "tags": [
@@ -38363,7 +38363,7 @@
          ]
       },
       "fullname": "fall-stable",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1033937117",
       "rating": "7",
       "tags": [
@@ -38554,7 +38554,7 @@
          ]
       },
       "fullname": "borage",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1035037974",
       "rating": "11",
       "tags": [
@@ -38747,7 +38747,7 @@
          ]
       },
       "fullname": "report-of-hk-vn-history",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1035218356",
       "rating": "10",
       "tags": [
@@ -38927,7 +38927,7 @@
          ]
       },
       "fullname": "parawatch-shawarma",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1035246634",
       "rating": "22",
       "tags": [
@@ -38974,7 +38974,7 @@
          ]
       },
       "fullname": "task-forces-complete-list-zh",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1035246701",
       "rating": "6",
       "tags": [
@@ -39155,7 +39155,7 @@
          ]
       },
       "fullname": "practice",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1035266012",
       "rating": "17",
       "tags": [
@@ -39215,7 +39215,7 @@
          ]
       },
       "fullname": "i-am-very-confused",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1035633822",
       "rating": "7",
       "tags": [
@@ -39444,7 +39444,7 @@
          ]
       },
       "fullname": "operation-nucleon-bank-cobweb01",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1040472393",
       "rating": "10",
       "tags": [
@@ -39515,7 +39515,7 @@
          ]
       },
       "fullname": "yamizushi-file-053",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1046967894",
       "rating": "12",
       "tags": [
@@ -40215,7 +40215,7 @@
          ]
       },
       "fullname": "kacha",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1098359235",
       "rating": "11",
       "tags": [
@@ -40968,7 +40968,7 @@
          ]
       },
       "fullname": "0535-june-4th",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1137907358",
       "rating": "9",
       "tags": [
@@ -41134,7 +41134,7 @@
          ]
       },
       "fullname": "scp-zh-603",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1138803418",
       "rating": "32",
       "tags": [
@@ -41201,7 +41201,7 @@
          ]
       },
       "fullname": "the-foreman",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1138977697",
       "rating": "10",
       "tags": [
@@ -41271,7 +41271,7 @@
          ]
       },
       "fullname": "scp-zh-175",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1139377418",
       "rating": "12",
       "tags": [
@@ -41362,7 +41362,7 @@
          ]
       },
       "fullname": "scp-zh-103-experiment-log",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1142241494",
       "rating": "16",
       "tags": [
@@ -41437,7 +41437,7 @@
          ]
       },
       "fullname": "the-thing-you-can-see-is-not-always-authentic",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1142988169",
       "rating": "11",
       "tags": [
@@ -41728,7 +41728,7 @@
          ]
       },
       "fullname": "stream-of-memory",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1146670553",
       "rating": "13",
       "tags": [
@@ -41795,7 +41795,7 @@
          ]
       },
       "fullname": "personal-diary-of-iceberg-and-gears",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1147123263",
       "rating": "11",
       "tags": [
@@ -41872,7 +41872,7 @@
          ]
       },
       "fullname": "47",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1148377980",
       "rating": "14",
       "tags": [
@@ -42120,7 +42120,7 @@
          ]
       },
       "fullname": "complain-first-work-second",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1148650461",
       "rating": "6",
       "tags": [
@@ -42265,7 +42265,7 @@
          ]
       },
       "fullname": "scp-zh-324",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1150828168",
       "rating": "6",
       "tags": [
@@ -42314,7 +42314,7 @@
          ]
       },
       "fullname": "scp-zh-137",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1151792619",
       "rating": "6",
       "tags": [
@@ -42429,7 +42429,7 @@
          ]
       },
       "fullname": "scp-zh-407",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1162362501",
       "rating": "3",
       "tags": [
@@ -42479,7 +42479,7 @@
          ]
       },
       "fullname": "scp-zh-405",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1162362505",
       "rating": "6",
       "tags": [
@@ -42644,7 +42644,7 @@
          ]
       },
       "fullname": "the-hero-in-the-cage",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1165095650",
       "rating": "6",
       "tags": [
@@ -42701,7 +42701,7 @@
          ]
       },
       "fullname": "summersnow",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1165101968",
       "rating": "9",
       "tags": [
@@ -42984,7 +42984,7 @@
          ]
       },
       "fullname": "teeth-checked",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1165113158",
       "rating": "12",
       "tags": [
@@ -43094,7 +43094,7 @@
          ]
       },
       "fullname": "setsubun",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1165118930",
       "rating": "8",
       "tags": [
@@ -43434,7 +43434,7 @@
          ]
       },
       "fullname": "about-scranton-reality-anchors",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1165217017",
       "rating": "18",
       "tags": [
@@ -43487,7 +43487,7 @@
          ]
       },
       "fullname": "colmod-guide",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1165378510",
       "rating": "8",
       "tags": [
@@ -43594,7 +43594,7 @@
          ]
       },
       "fullname": "shopping-arcade",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1165968744",
       "rating": "22",
       "tags": [
@@ -43651,7 +43651,7 @@
          ]
       },
       "fullname": "he-hadnt-faded-away",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1168108890",
       "rating": "9",
       "tags": [
@@ -43700,7 +43700,7 @@
          ]
       },
       "fullname": "zeroth-impression",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1168803231",
       "rating": "7",
       "tags": [
@@ -43878,7 +43878,7 @@
          ]
       },
       "fullname": "at-that-day-you-still-wish-me-a-good-dream",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1174004927",
       "rating": "23",
       "tags": [
@@ -44184,7 +44184,7 @@
          ]
       },
       "fullname": "eclipse-absence",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1174014625",
       "rating": "8",
       "tags": [
@@ -44723,7 +44723,7 @@
          ]
       },
       "fullname": "scp-zh-011",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1174037636",
       "rating": "10",
       "tags": [
@@ -44783,7 +44783,7 @@
          ]
       },
       "fullname": "wanderers:jiang-yue-tour-mountain-36",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1174037749",
       "rating": "9",
       "tags": [
@@ -44902,7 +44902,7 @@
          ]
       },
       "fullname": "cigaret-and-thread",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1179784704",
       "rating": "6",
       "tags": [
@@ -45360,7 +45360,7 @@
          ]
       },
       "fullname": "scp-zh-292",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1185288565",
       "rating": "10",
       "tags": [
@@ -45435,7 +45435,7 @@
          ]
       },
       "fullname": "scp-zh-071",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1189453756",
       "rating": "12",
       "tags": [
@@ -45495,7 +45495,7 @@
          ]
       },
       "fullname": "the-cement",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1189454331",
       "rating": "9",
       "tags": [
@@ -45549,7 +45549,7 @@
          ]
       },
       "fullname": "maple-forest",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1190038741",
       "rating": "8",
       "tags": [
@@ -45602,7 +45602,7 @@
          ]
       },
       "fullname": "scp-zh-081",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1190387138",
       "rating": "5",
       "tags": [
@@ -45665,7 +45665,7 @@
          ]
       },
       "fullname": "under-the-mountain",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1190475663",
       "rating": "9",
       "tags": [
@@ -45787,7 +45787,7 @@
          ]
       },
       "fullname": "scp-zh-031",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1194520961",
       "rating": "8",
       "tags": [
@@ -45858,7 +45858,7 @@
          ]
       },
       "fullname": "scp-zh-141",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1194681860",
       "rating": "11",
       "tags": [
@@ -45991,7 +45991,7 @@
          ]
       },
       "fullname": "after-the-boom",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1219393109",
       "rating": "10",
       "tags": [
@@ -46742,7 +46742,7 @@
          ]
       },
       "fullname": "adult:scp-zh-333",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1258213882",
       "rating": "9",
       "tags": [
@@ -47768,7 +47768,7 @@
          ]
       },
       "fullname": "anti-dark",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1260657684",
       "rating": "7",
       "tags": [
@@ -48780,7 +48780,7 @@
          ]
       },
       "fullname": "work-as-a-syllogism-member",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1260796281",
       "rating": "13",
       "tags": [
@@ -48945,7 +48945,7 @@
          ]
       },
       "fullname": "scp-zh-042",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1260816484",
       "rating": "18",
       "tags": [
@@ -49421,7 +49421,7 @@
          ]
       },
       "fullname": "sb-the-road-of-revenge",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1261306291",
       "rating": "8",
       "tags": [
@@ -49925,7 +49925,7 @@
          ]
       },
       "fullname": "scp-zh-061",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1267731963",
       "rating": "12",
       "tags": [
@@ -50052,7 +50052,7 @@
          ]
       },
       "fullname": "the-pantry-in-the-props-department",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1267777808",
       "rating": "-1",
       "tags": [
@@ -50110,7 +50110,7 @@
          ]
       },
       "fullname": "scp-zh-170",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1267791669",
       "rating": "5",
       "tags": [
@@ -50536,7 +50536,7 @@
          ]
       },
       "fullname": "color-of-take-a-bow",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1267828012",
       "rating": "15",
       "tags": [
@@ -50603,7 +50603,7 @@
          ]
       },
       "fullname": "dead-fog",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1267834560",
       "rating": "11",
       "tags": [
@@ -51052,7 +51052,7 @@
          ]
       },
       "fullname": "backlit-maldives",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1275829196",
       "rating": "8",
       "tags": [
@@ -51524,7 +51524,7 @@
          ]
       },
       "fullname": "her-avatar",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1288468557",
       "rating": "12",
       "tags": [
@@ -51904,7 +51904,7 @@
          ]
       },
       "fullname": "disgusting-prank",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1299036121",
       "rating": "14",
       "tags": [
@@ -51965,7 +51965,7 @@
          ]
       },
       "fullname": "1935-overture-night-rain",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1304769916",
       "rating": "10",
       "tags": [
@@ -52060,7 +52060,7 @@
          ]
       },
       "fullname": "a-battlefield-without-gunpowder",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1304771086",
       "rating": "18",
       "tags": [
@@ -52105,7 +52105,7 @@
          ]
       },
       "fullname": "rot-vat",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1304872751",
       "rating": "4",
       "tags": [
@@ -52248,7 +52248,7 @@
          ]
       },
       "fullname": "cacobt",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1304876247",
       "rating": "6",
       "tags": [
@@ -52296,7 +52296,7 @@
          ]
       },
       "fullname": "terminal-and-initial",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1304889984",
       "rating": "7",
       "tags": [
@@ -52805,7 +52805,7 @@
          ]
       },
       "fullname": "scp-zh-617",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1305026724",
       "rating": "3",
       "tags": [
@@ -53057,7 +53057,7 @@
          ]
       },
       "fullname": "not-a-mooncake",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1305034925",
       "rating": "17",
       "tags": [
@@ -53205,7 +53205,7 @@
          ]
       },
       "fullname": "maybe-some-coffee-in-the-ocean-park",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1305054692",
       "rating": "12",
       "tags": [
@@ -53305,7 +53305,7 @@
          ]
       },
       "fullname": "how-to-survive-in-the-wild",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1305079640",
       "rating": "19",
       "tags": [
@@ -53548,7 +53548,7 @@
          ]
       },
       "fullname": "the-bottle-in-restroom",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1305118400",
       "rating": "32",
       "tags": [
@@ -53911,7 +53911,7 @@
          ]
       },
       "fullname": "operation-twin-cities-hub",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1305204835",
       "rating": "10",
       "tags": [
@@ -53963,7 +53963,7 @@
          ]
       },
       "fullname": "discipline",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1305259118",
       "rating": "8",
       "tags": [
@@ -54110,7 +54110,7 @@
          ]
       },
       "fullname": "scp-zh-164",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1305335597",
       "rating": "7",
       "tags": [
@@ -54429,7 +54429,7 @@
          ]
       },
       "fullname": "who-is-the-asian-orphan",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1305573220",
       "rating": "14",
       "tags": [
@@ -55040,7 +55040,7 @@
          ]
       },
       "fullname": "greetings-from-guningtou",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1305605231",
       "rating": "5",
       "tags": [
@@ -55305,7 +55305,7 @@
          ]
       },
       "fullname": "rocaf",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1305635091",
       "rating": "8",
       "tags": [
@@ -55567,7 +55567,7 @@
          ]
       },
       "fullname": "scp-835-jp-uncontained",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1305815823",
       "rating": "10",
       "tags": [
@@ -55792,7 +55792,7 @@
          ]
       },
       "fullname": "scp-zh-024",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1305843907",
       "rating": "38",
       "tags": [
@@ -55947,7 +55947,7 @@
          ]
       },
       "fullname": "grandfather-and-japanese-prisoners-of-war-in-the-soviet-unio",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1305861752",
       "rating": "6",
       "tags": [
@@ -56034,7 +56034,7 @@
          ]
       },
       "fullname": "zycie-zhizn-life",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1305867277",
       "rating": "16",
       "tags": [
@@ -56084,7 +56084,7 @@
          ]
       },
       "fullname": "daydream-walker",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1305885484",
       "rating": "7",
       "tags": [
@@ -56177,7 +56177,7 @@
          ]
       },
       "fullname": "ranunculus",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1305899481",
       "rating": "18",
       "tags": [
@@ -56571,7 +56571,7 @@
          ]
       },
       "fullname": "mtf15-14-td1",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1305988474",
       "rating": "13",
       "tags": [
@@ -56826,7 +56826,7 @@
          ]
       },
       "fullname": "raisa-lee-teng-hui",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1306057483",
       "rating": "15",
       "tags": [
@@ -56860,7 +56860,7 @@
          ]
       },
       "fullname": "christmas-event2",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1306060886",
       "rating": "3",
       "tags": [
@@ -56993,7 +56993,7 @@
          ]
       },
       "fullname": "scp-zh-446",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1306089618",
       "rating": "28",
       "tags": [
@@ -57234,7 +57234,7 @@
          ]
       },
       "fullname": "plz-fuck-off-mary-sue",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1306158680",
       "rating": "13",
       "tags": [
@@ -57301,7 +57301,7 @@
          ]
       },
       "fullname": "in-the-mirror",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1306159512",
       "rating": "12",
       "tags": [
@@ -57372,7 +57372,7 @@
          ]
       },
       "fullname": "cloud-well",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1306172419",
       "rating": "13",
       "tags": [
@@ -57553,7 +57553,7 @@
          ]
       },
       "fullname": "scp-zh-791",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1306202264",
       "rating": "9",
       "tags": [
@@ -57832,7 +57832,7 @@
          ]
       },
       "fullname": "scp-zh-088",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1306218365",
       "rating": "13",
       "tags": [
@@ -58052,7 +58052,7 @@
          ]
       },
       "fullname": "adult:unrelated-person-do-not-read",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1306280374",
       "rating": "17",
       "tags": [
@@ -58282,7 +58282,7 @@
          ]
       },
       "fullname": "xmas-dream",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1306315656",
       "rating": "10",
       "tags": [
@@ -58482,7 +58482,7 @@
          ]
       },
       "fullname": "zh-025-xmas",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1306320508",
       "rating": "18",
       "tags": [
@@ -58623,7 +58623,7 @@
          ]
       },
       "fullname": "crown",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1306325424",
       "rating": "11",
       "tags": [
@@ -58668,7 +58668,7 @@
          ]
       },
       "fullname": "bestcabin",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1306326649",
       "rating": "4",
       "tags": [
@@ -58720,7 +58720,7 @@
          ]
       },
       "fullname": "ftgg-a-chunibyo-story-p1",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1306329177",
       "rating": "8",
       "tags": [
@@ -58928,7 +58928,7 @@
          ]
       },
       "fullname": "lifting",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1306359435",
       "rating": "12",
       "tags": [
@@ -58984,7 +58984,7 @@
          ]
       },
       "fullname": "wanderers:that-is-a-cabin",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1306363173",
       "rating": "8",
       "tags": [
@@ -59204,7 +59204,7 @@
          ]
       },
       "fullname": "ftgg-a-chunibyo-story-p2",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1306372921",
       "rating": "5",
       "tags": [
@@ -59813,7 +59813,7 @@
          ]
       },
       "fullname": "in-the-maze-of-2020",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1306376407",
       "rating": "9",
       "tags": [
@@ -59920,7 +59920,7 @@
          ]
       },
       "fullname": "lifelove",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1306377761",
       "rating": "3",
       "tags": [
@@ -59995,7 +59995,7 @@
          ]
       },
       "fullname": "afterimage",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1306437978",
       "rating": "14",
       "tags": [
@@ -60420,7 +60420,7 @@
          ]
       },
       "fullname": "between-dream-and-sin",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1306590647",
       "rating": "13",
       "tags": [
@@ -60510,7 +60510,7 @@
          ]
       },
       "fullname": "wanderers:outer-space-marketing-articles-tyrosine",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1306663325",
       "rating": "16",
       "tags": [
@@ -60574,7 +60574,7 @@
          ]
       },
       "fullname": "candle-in-the-wind",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1306663682",
       "rating": "11",
       "tags": [
@@ -60617,7 +60617,7 @@
          ]
       },
       "fullname": "in-the-storm",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1306663830",
       "rating": "5",
       "tags": [
@@ -60755,7 +60755,7 @@
          ]
       },
       "fullname": "festive-colors",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1306676824",
       "rating": "16",
       "tags": [
@@ -60863,7 +60863,7 @@
          ]
       },
       "fullname": "scp-zh-526",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1306683892",
       "rating": "19",
       "tags": [
@@ -60916,7 +60916,7 @@
          ]
       },
       "fullname": "wanderers",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1306690967",
       "rating": "7",
       "tags": [
@@ -61090,7 +61090,7 @@
          ]
       },
       "fullname": "authentic",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1306695793",
       "rating": "11",
       "tags": [
@@ -61447,7 +61447,7 @@
          ]
       },
       "fullname": "st-christina-college",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1306752081",
       "rating": "6",
       "tags": [
@@ -61507,7 +61507,7 @@
          ]
       },
       "fullname": "behind-the-silver",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1306757408",
       "rating": "10",
       "tags": [
@@ -61588,7 +61588,7 @@
          ]
       },
       "fullname": "sushi-dragon-phoenix",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1306773403",
       "rating": "15",
       "tags": [
@@ -61731,7 +61731,7 @@
          ]
       },
       "fullname": "a-battlefield-without-emotion",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1306814254",
       "rating": "9",
       "tags": [
@@ -61840,7 +61840,7 @@
          ]
       },
       "fullname": "one-of-the-secrets",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1306898142",
       "rating": "19",
       "tags": [
@@ -61951,7 +61951,7 @@
          ]
       },
       "fullname": "scp-zh-248",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1306900574",
       "rating": "22",
       "tags": [
@@ -62231,7 +62231,7 @@
          ]
       },
       "fullname": "scp-zh-2005-ex",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1306901310",
       "rating": "60",
       "tags": [
@@ -62407,7 +62407,7 @@
          ]
       },
       "fullname": "zh-248-f004",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1306909266",
       "rating": "16",
       "tags": [
@@ -62484,7 +62484,7 @@
          ]
       },
       "fullname": "biomedical-sense-zh",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1306909685",
       "rating": "14",
       "tags": [
@@ -62733,7 +62733,7 @@
          ]
       },
       "fullname": "chronic-survival",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1306916285",
       "rating": "13",
       "tags": [
@@ -62782,7 +62782,7 @@
          ]
       },
       "fullname": "first-performance",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1306941889",
       "rating": "7",
       "tags": [
@@ -62919,7 +62919,7 @@
          ]
       },
       "fullname": "whatyousay",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1306942519",
       "rating": "9",
       "tags": [
@@ -63061,7 +63061,7 @@
          ]
       },
       "fullname": "red-red-string",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1306944379",
       "rating": "11",
       "tags": [
@@ -63151,7 +63151,7 @@
          ]
       },
       "fullname": "red-1354",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1306944852",
       "rating": "17",
       "tags": [
@@ -63208,7 +63208,7 @@
          ]
       },
       "fullname": "scp-zh-172",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1306944932",
       "rating": "6",
       "tags": [
@@ -63252,7 +63252,7 @@
          ]
       },
       "fullname": "backtohome",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1306945303",
       "rating": "5",
       "tags": [
@@ -63308,7 +63308,7 @@
          ]
       },
       "fullname": "trace-of-many-voices",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1306972628",
       "rating": "9",
       "tags": [
@@ -63385,7 +63385,7 @@
          ]
       },
       "fullname": "wanderers:instant-noodles-and-tea",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1306973232",
       "rating": "14",
       "tags": [
@@ -63527,7 +63527,7 @@
          ]
       },
       "fullname": "wanderers:don-t-sacrifice-to-deathweb",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1306977792",
       "rating": "8",
       "tags": [
@@ -63615,7 +63615,7 @@
          ]
       },
       "fullname": "bales-s-daily-2",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1306991568",
       "rating": "17",
       "tags": [
@@ -63675,7 +63675,7 @@
          ]
       },
       "fullname": "scp-zh-404",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1306996071",
       "rating": "8",
       "tags": [
@@ -64039,7 +64039,7 @@
          ]
       },
       "fullname": "scp-zh-980",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1307017170",
       "rating": "10",
       "tags": [
@@ -64399,7 +64399,7 @@
          ]
       },
       "fullname": "source-of-chaos",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1307043662",
       "rating": "18",
       "tags": [
@@ -64675,7 +64675,7 @@
          ]
       },
       "fullname": "operation-nucleon-bank-hg",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1307056607",
       "rating": "11",
       "tags": [
@@ -64769,7 +64769,7 @@
          ]
       },
       "fullname": "the-bottle-in-office",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1307056785",
       "rating": "18",
       "tags": [
@@ -65186,7 +65186,7 @@
          ]
       },
       "fullname": "minamata-disease",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1307189362",
       "rating": "6",
       "tags": [
@@ -65359,7 +65359,7 @@
          ]
       },
       "fullname": "milk-puzzle",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1307247385",
       "rating": "18",
       "tags": [
@@ -65530,7 +65530,7 @@
          ]
       },
       "fullname": "what-are-you-waiting-for-just-join-goc-dude",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1307408807",
       "rating": "37",
       "tags": [
@@ -65745,7 +65745,7 @@
          ]
       },
       "fullname": "scp-zh-146",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1307453805",
       "rating": "9",
       "tags": [
@@ -66358,7 +66358,7 @@
          ]
       },
       "fullname": "scp-zh-022",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1308339133",
       "rating": "6",
       "tags": [
@@ -66657,7 +66657,7 @@
          ]
       },
       "fullname": "frozencold",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1308451549",
       "rating": "11",
       "tags": [
@@ -66803,7 +66803,7 @@
          ]
       },
       "fullname": "scp-zh-323-text-b01",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1308457966",
       "rating": "7",
       "tags": [
@@ -67216,7 +67216,7 @@
          ]
       },
       "fullname": "scp-zh-00l",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1308459903",
       "rating": "14",
       "tags": [
@@ -67395,7 +67395,7 @@
          ]
       },
       "fullname": "the-plan-of-surprise-attack",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1308477490",
       "rating": "3",
       "tags": [
@@ -67518,7 +67518,7 @@
          ]
       },
       "fullname": "scp-zh-833",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1308491243",
       "rating": "11",
       "tags": [
@@ -67574,7 +67574,7 @@
          ]
       },
       "fullname": "the-plan-of-execution",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1308491245",
       "rating": "7",
       "tags": [
@@ -67650,7 +67650,7 @@
          ]
       },
       "fullname": "today-is-just-another-ordinary-day",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1308495554",
       "rating": "13",
       "tags": [
@@ -67696,7 +67696,7 @@
          ]
       },
       "fullname": "jie-men-convocation",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1308533498",
       "rating": "6",
       "tags": [
@@ -67759,7 +67759,7 @@
          ]
       },
       "fullname": "adult:reve02",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1308535703",
       "rating": "8",
       "tags": [
@@ -67814,7 +67814,7 @@
          ]
       },
       "fullname": "the-plan-before-defection",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1308535885",
       "rating": "8",
       "tags": [
@@ -67881,7 +67881,7 @@
          ]
       },
       "fullname": "scp-zh-855",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1308565690",
       "rating": "7",
       "tags": [
@@ -67929,7 +67929,7 @@
          ]
       },
       "fullname": "after-sigma",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1308567381",
       "rating": "4",
       "tags": [
@@ -68075,7 +68075,7 @@
          ]
       },
       "fullname": "the-plan-of-stonks",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1308599498",
       "rating": "10",
       "tags": [
@@ -68093,7 +68093,7 @@
       "created_by": "6104968",
       "detailed_rating": {},
       "fullname": "maimai-first-time",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1308600454",
       "rating": "11",
       "tags": [
@@ -68154,7 +68154,7 @@
          ]
       },
       "fullname": "scp-zh-975",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1308602997",
       "rating": "10",
       "tags": [
@@ -68251,7 +68251,7 @@
          ]
       },
       "fullname": "taraxacum",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1308603656",
       "rating": "18",
       "tags": [
@@ -68322,7 +68322,7 @@
          ]
       },
       "fullname": "scp-zh-440",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1308605664",
       "rating": "12",
       "tags": [
@@ -68470,7 +68470,7 @@
          ]
       },
       "fullname": "scp-zh-880",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1308613950",
       "rating": "31",
       "tags": [
@@ -68536,7 +68536,7 @@
          ]
       },
       "fullname": "scp-zh-162",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1308614104",
       "rating": "10",
       "tags": [
@@ -68599,7 +68599,7 @@
          ]
       },
       "fullname": "adult:v1l3-j-mercury-poisoning",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1308614286",
       "rating": "10",
       "tags": [
@@ -68788,7 +68788,7 @@
          ]
       },
       "fullname": "scp-zh-185",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1308645310",
       "rating": "21",
       "tags": [
@@ -69140,7 +69140,7 @@
          ]
       },
       "fullname": "scp-zh-488",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1309384547",
       "rating": "9",
       "tags": [
@@ -69213,7 +69213,7 @@
          ]
       },
       "fullname": "wanderers:after-cube-ch-01",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1309908700",
       "rating": "11",
       "tags": [
@@ -69491,7 +69491,7 @@
          ]
       },
       "fullname": "in-your-poisoning",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1310860498",
       "rating": "6",
       "tags": [
@@ -69549,7 +69549,7 @@
          ]
       },
       "fullname": "lxvi-cafe-park",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1310880915",
       "rating": "9",
       "tags": [
@@ -69860,7 +69860,7 @@
          ]
       },
       "fullname": "why-you-need-pataphysics",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1310909645",
       "rating": "29",
       "tags": [
@@ -70006,7 +70006,7 @@
          ]
       },
       "fullname": "scp-zh-297",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1310924923",
       "rating": "11",
       "tags": [
@@ -70090,7 +70090,7 @@
          ]
       },
       "fullname": "foxhunt",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1310945221",
       "rating": "13",
       "tags": [
@@ -70264,7 +70264,7 @@
          ]
       },
       "fullname": "scp-zh-736",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1310945225",
       "rating": "36",
       "tags": [
@@ -70491,7 +70491,7 @@
          ]
       },
       "fullname": "black-sheep-rite",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1310961864",
       "rating": "3",
       "tags": [
@@ -70528,7 +70528,7 @@
          ]
       },
       "fullname": "shakepinballmachine",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1310961911",
       "rating": "4",
       "tags": [
@@ -70573,7 +70573,7 @@
          ]
       },
       "fullname": "leavingcomet",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1310961959",
       "rating": "6",
       "tags": [
@@ -70646,7 +70646,7 @@
          ]
       },
       "fullname": "all-the-bridges-were-burned",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1310997592",
       "rating": "13",
       "tags": [
@@ -70711,7 +70711,7 @@
          ]
       },
       "fullname": "operation-nucleon-bank-semibreve",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1310999722",
       "rating": "10",
       "tags": [
@@ -70812,7 +70812,7 @@
          ]
       },
       "fullname": "scp-zh-903",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1311001581",
       "rating": "19",
       "tags": [
@@ -70906,7 +70906,7 @@
          ]
       },
       "fullname": "scp-zh-129",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1311002934",
       "rating": "13",
       "tags": [
@@ -70972,7 +70972,7 @@
          ]
       },
       "fullname": "scp-zh-509",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1311006312",
       "rating": "8",
       "tags": [
@@ -71172,7 +71172,7 @@
          ]
       },
       "fullname": "wanderers:letter-about-strange-serpents",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1311077608",
       "rating": "16",
       "tags": [
@@ -71250,7 +71250,7 @@
          ]
       },
       "fullname": "sigurros-and-taiwanese-unicorn",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1311084437",
       "rating": "14",
       "tags": [
@@ -71303,7 +71303,7 @@
          ]
       },
       "fullname": "true-real",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1311086381",
       "rating": "8",
       "tags": [
@@ -71810,7 +71810,7 @@
          ]
       },
       "fullname": "scp-zh-527",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1311593536",
       "rating": "15",
       "tags": [
@@ -72198,7 +72198,7 @@
          ]
       },
       "fullname": "to-the-doctor",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1311637886",
       "rating": "13",
       "tags": [
@@ -72284,7 +72284,7 @@
          ]
       },
       "fullname": "adult:scp-zh-338",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1311641178",
       "rating": "16",
       "tags": [
@@ -72461,7 +72461,7 @@
          ]
       },
       "fullname": "finger-test-warrior",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1311646070",
       "rating": "5",
       "tags": [
@@ -72514,7 +72514,7 @@
          ]
       },
       "fullname": "scp-zh-800",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1311756741",
       "rating": "8",
       "tags": [
@@ -72556,7 +72556,7 @@
          ]
       },
       "fullname": "the-plan-of-pacifist-route",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1311757167",
       "rating": "4",
       "tags": [
@@ -72640,7 +72640,7 @@
          ]
       },
       "fullname": "scp-zh-369",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1311995720",
       "rating": "5",
       "tags": [
@@ -72678,7 +72678,7 @@
          ]
       },
       "fullname": "arcadeinvestigative",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1311996007",
       "rating": "3",
       "tags": [
@@ -72709,7 +72709,7 @@
          ]
       },
       "fullname": "a-motley-crew",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1311997481",
       "rating": "3",
       "tags": [
@@ -72742,7 +72742,7 @@
          ]
       },
       "fullname": "behind-the-scenes-interview",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1311997676",
       "rating": "3",
       "tags": [
@@ -72775,7 +72775,7 @@
          ]
       },
       "fullname": "until-san-greal-are-needed-once-again",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1312003576",
       "rating": "3",
       "tags": [
@@ -72917,7 +72917,7 @@
          ]
       },
       "fullname": "scp-zh-327",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1312044643",
       "rating": "13",
       "tags": [
@@ -73280,7 +73280,7 @@
          ]
       },
       "fullname": "face-the-shadows-1",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1312089353",
       "rating": "7",
       "tags": [
@@ -73396,7 +73396,7 @@
          ]
       },
       "fullname": "scp-zh-988",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1312128455",
       "rating": "7",
       "tags": [
@@ -73666,7 +73666,7 @@
          ]
       },
       "fullname": "scp-zh-390",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1312152809",
       "rating": "9",
       "tags": [
@@ -73938,7 +73938,7 @@
          ]
       },
       "fullname": "scp-zh-576",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1312242118",
       "rating": "15",
       "tags": [
@@ -73992,7 +73992,7 @@
          ]
       },
       "fullname": "dr-willow",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1312271185",
       "rating": "7",
       "tags": [
@@ -74205,7 +74205,7 @@
          ]
       },
       "fullname": "flower-language-canna-indica",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1312276772",
       "rating": "8",
       "tags": [
@@ -74434,7 +74434,7 @@
          ]
       },
       "fullname": "wanderers:star-maker",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1312278424",
       "rating": "24",
       "tags": [
@@ -74604,7 +74604,7 @@
          ]
       },
       "fullname": "bt-fly",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1312292768",
       "rating": "13",
       "tags": [
@@ -74732,7 +74732,7 @@
          ]
       },
       "fullname": "scp-zh-034",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1312292800",
       "rating": "26",
       "tags": [
@@ -74798,7 +74798,7 @@
          ]
       },
       "fullname": "mild-people",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1312295580",
       "rating": "8",
       "tags": [
@@ -74856,7 +74856,7 @@
          ]
       },
       "fullname": "patient0226",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1312295654",
       "rating": "8",
       "tags": [
@@ -74965,7 +74965,7 @@
          ]
       },
       "fullname": "scp-zh-037",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1312316060",
       "rating": "22",
       "tags": [
@@ -75180,7 +75180,7 @@
          ]
       },
       "fullname": "scp-zh-0601-j",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1312323893",
       "rating": "17",
       "tags": [
@@ -75286,7 +75286,7 @@
          ]
       },
       "fullname": "taisho150-lovestorybeforedawn",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1312323978",
       "rating": "20",
       "tags": [
@@ -75583,7 +75583,7 @@
          ]
       },
       "fullname": "visit-eindeloze-lucht",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1312337167",
       "rating": "12",
       "tags": [
@@ -75782,7 +75782,7 @@
          ]
       },
       "fullname": "scp-zh-060-j",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1312337267",
       "rating": "23",
       "tags": [
@@ -75976,7 +75976,7 @@
          ]
       },
       "fullname": "scp-zh-339",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1312342473",
       "rating": "17",
       "tags": [
@@ -76036,7 +76036,7 @@
          ]
       },
       "fullname": "task-forces-zh-28-xiu",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1312344866",
       "rating": "8",
       "tags": [
@@ -76322,7 +76322,7 @@
          ]
       },
       "fullname": "wolf-125",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1312355525",
       "rating": "16",
       "tags": [
@@ -76471,7 +76471,7 @@
          ]
       },
       "fullname": "scp-zh-409",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1312360371",
       "rating": "12",
       "tags": [
@@ -76537,7 +76537,7 @@
          ]
       },
       "fullname": "scp-zh-635",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1312378829",
       "rating": "7",
       "tags": [
@@ -76680,7 +76680,7 @@
          ]
       },
       "fullname": "scp-zh-205",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1312380434",
       "rating": "6",
       "tags": [
@@ -76767,7 +76767,7 @@
          ]
       },
       "fullname": "scp-zh-114",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1312380550",
       "rating": "16",
       "tags": [
@@ -77067,7 +77067,7 @@
          ]
       },
       "fullname": "scp-zh-067",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1312394848",
       "rating": "11",
       "tags": [
@@ -77175,7 +77175,7 @@
          ]
       },
       "fullname": "scp-zh-128",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1312404273",
       "rating": "20",
       "tags": [
@@ -77240,7 +77240,7 @@
          ]
       },
       "fullname": "story-of-mirror",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1312407952",
       "rating": "7",
       "tags": [
@@ -77326,7 +77326,7 @@
          ]
       },
       "fullname": "scp-zh-377",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1312408444",
       "rating": "16",
       "tags": [
@@ -77405,7 +77405,7 @@
          ]
       },
       "fullname": "memory-of-light",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1312434451",
       "rating": "14",
       "tags": [
@@ -77554,7 +77554,7 @@
          ]
       },
       "fullname": "year-69-of-unbearable-memories",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1312460627",
       "rating": "9",
       "tags": [
@@ -77787,7 +77787,7 @@
          ]
       },
       "fullname": "parawatch-my-hometown-was-a-miracle",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1312501277",
       "rating": "12",
       "tags": [
@@ -77889,7 +77889,7 @@
          ]
       },
       "fullname": "scp-zh-243",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1312502974",
       "rating": "19",
       "tags": [
@@ -77943,7 +77943,7 @@
          ]
       },
       "fullname": "singlelinetrip",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1312504975",
       "rating": "7",
       "tags": [
@@ -77996,7 +77996,7 @@
          ]
       },
       "fullname": "resign-in-navigation",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1312507845",
       "rating": "8",
       "tags": [
@@ -78044,7 +78044,7 @@
          ]
       },
       "fullname": "skewer",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1312510055",
       "rating": "6",
       "tags": [
@@ -78213,7 +78213,7 @@
          ]
       },
       "fullname": "scp-zh-121",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1312530070",
       "rating": "2",
       "tags": [
@@ -78463,7 +78463,7 @@
          ]
       },
       "fullname": "old-cat-travel-1",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1312535405",
       "rating": "9",
       "tags": [
@@ -78501,7 +78501,7 @@
          ]
       },
       "fullname": "888father",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1312535693",
       "rating": "4",
       "tags": [
@@ -78653,7 +78653,7 @@
          ]
       },
       "fullname": "scp-zh-402",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1312577810",
       "rating": "17",
       "tags": [
@@ -78714,7 +78714,7 @@
          ]
       },
       "fullname": "scp-zh-197",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1313504404",
       "rating": "9",
       "tags": [
@@ -78851,7 +78851,7 @@
          ]
       },
       "fullname": "old-cat-travel-2",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1315112842",
       "rating": "7",
       "tags": [
@@ -79050,7 +79050,7 @@
          ]
       },
       "fullname": "scp-zh-220",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1316053301",
       "rating": "23",
       "tags": [
@@ -79109,7 +79109,7 @@
          ]
       },
       "fullname": "wanderers:o-my-god-plz-just-kill-me",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1316055304",
       "rating": "0",
       "tags": [
@@ -79190,7 +79190,7 @@
          ]
       },
       "fullname": "scp-zh-969",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1316058163",
       "rating": "15",
       "tags": [
@@ -79394,7 +79394,7 @@
          ]
       },
       "fullname": "wanderers:man-on-the-bench",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1316479894",
       "rating": "10",
       "tags": [
@@ -79456,7 +79456,7 @@
          ]
       },
       "fullname": "scp-zh-796",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1316496482",
       "rating": "10",
       "tags": [
@@ -79531,7 +79531,7 @@
          ]
       },
       "fullname": "adult:scp-zh-991",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1316511643",
       "rating": "12",
       "tags": [
@@ -79618,7 +79618,7 @@
          ]
       },
       "fullname": "in-the-quotation",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1316768144",
       "rating": "13",
       "tags": [
@@ -79687,7 +79687,7 @@
          ]
       },
       "fullname": "end-of-heavy-snow",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1316864562",
       "rating": "12",
       "tags": [
@@ -79737,7 +79737,7 @@
          ]
       },
       "fullname": "crimson-cherry",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1316869550",
       "rating": "4",
       "tags": [
@@ -80178,7 +80178,7 @@
          ]
       },
       "fullname": "the-green-tea-mirror-the-red-bamboo",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1316881915",
       "rating": "4",
       "tags": [
@@ -80226,7 +80226,7 @@
          ]
       },
       "fullname": "wanderers:the-fifth-poetry",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1316883659",
       "rating": "4",
       "tags": [
@@ -80350,7 +80350,7 @@
          ]
       },
       "fullname": "scp-zh-144",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1317395381",
       "rating": "26",
       "tags": [
@@ -80416,7 +80416,7 @@
          ]
       },
       "fullname": "wanderers:twatutia-high-school-song",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1320366129",
       "rating": "7",
       "tags": [
@@ -80467,7 +80467,7 @@
          ]
       },
       "fullname": "wanderers:arizas-class",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1323468143",
       "rating": "8",
       "tags": [
@@ -80619,7 +80619,7 @@
          ]
       },
       "fullname": "scp-zh-427",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1324076106",
       "rating": "9",
       "tags": [
@@ -80694,7 +80694,7 @@
          ]
       },
       "fullname": "scp-zh-829",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1324081516",
       "rating": "12",
       "tags": [
@@ -80789,7 +80789,7 @@
          ]
       },
       "fullname": "project-reincarnation",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1324116414",
       "rating": "17",
       "tags": [
@@ -80846,7 +80846,7 @@
          ]
       },
       "fullname": "perdu-by-the-daylight",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1324117472",
       "rating": "9",
       "tags": [
@@ -80936,7 +80936,7 @@
          ]
       },
       "fullname": "scp-zh-776",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1324124208",
       "rating": "9",
       "tags": [
@@ -81173,7 +81173,7 @@
          ]
       },
       "fullname": "wanderers:letter-ah-letter",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1324258676",
       "rating": "7",
       "tags": [
@@ -81235,7 +81235,7 @@
          ]
       },
       "fullname": "scp-zh-676",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1324293829",
       "rating": "8",
       "tags": [
@@ -81316,7 +81316,7 @@
       "created_by": "4990678",
       "detailed_rating": {},
       "fullname": "candy-pumpkin-2021-a",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1324408753",
       "rating": "0",
       "tags": [
@@ -81340,7 +81340,7 @@
          ]
       },
       "fullname": "candy-pumpkin-2021-b",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1324408999",
       "rating": "1",
       "tags": [
@@ -81404,7 +81404,7 @@
          ]
       },
       "fullname": "polish-dancing-cow",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1324413258",
       "rating": "11",
       "tags": [
@@ -81480,7 +81480,7 @@
          ]
       },
       "fullname": "running-shadow-of-the-opposite-train",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1324489145",
       "rating": "14",
       "tags": [
@@ -81557,7 +81557,7 @@
          ]
       },
       "fullname": "benitoite-little-pigeon-halloween",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1324507693",
       "rating": "14",
       "tags": [
@@ -81853,7 +81853,7 @@
          ]
       },
       "fullname": "17-th-october-a-letter-to-a-friend",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1329479150",
       "rating": "10",
       "tags": [
@@ -81925,7 +81925,7 @@
          ]
       },
       "fullname": "capitalism-attack",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1329479855",
       "rating": "13",
       "tags": [
@@ -82080,7 +82080,7 @@
          ]
       },
       "fullname": "scp-zh-052",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1329573089",
       "rating": "18",
       "tags": [
@@ -82136,7 +82136,7 @@
          ]
       },
       "fullname": "wanderers:cerulean-king",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1329573155",
       "rating": "8",
       "tags": [
@@ -82200,7 +82200,7 @@
          ]
       },
       "fullname": "scp-zh-280",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1329579895",
       "rating": "11",
       "tags": [
@@ -82344,7 +82344,7 @@
          ]
       },
       "fullname": "scp-zh-160",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1329650003",
       "rating": "11",
       "tags": [
@@ -82405,7 +82405,7 @@
          ]
       },
       "fullname": "how-did-we-catch-scp-zh-035",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1329655817",
       "rating": "7",
       "tags": [
@@ -82451,7 +82451,7 @@
          ]
       },
       "fullname": "graduation",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1329663441",
       "rating": "6",
       "tags": [
@@ -82792,7 +82792,7 @@
          ]
       },
       "fullname": "snedronningen",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1329832612",
       "rating": "14",
       "tags": [
@@ -82870,7 +82870,7 @@
          ]
       },
       "fullname": "zh-daedalus",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1329856406",
       "rating": "12",
       "tags": [
@@ -82922,7 +82922,7 @@
          ]
       },
       "fullname": "scp-zh-905",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1329894403",
       "rating": "7",
       "tags": [
@@ -83192,7 +83192,7 @@
          ]
       },
       "fullname": "scp-zh-228",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1329904199",
       "rating": "31",
       "tags": [
@@ -83264,7 +83264,7 @@
          ]
       },
       "fullname": "scp-zh-832",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1329914506",
       "rating": "10",
       "tags": [
@@ -83462,7 +83462,7 @@
          ]
       },
       "fullname": "remove-before-flight",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1329931195",
       "rating": "5",
       "tags": [
@@ -83682,7 +83682,7 @@
          ]
       },
       "fullname": "air-combat-of-vizmor",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1329987009",
       "rating": "6",
       "tags": [
@@ -83725,7 +83725,7 @@
          ]
       },
       "fullname": "shopping",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1330044848",
       "rating": "5",
       "tags": [
@@ -83813,7 +83813,7 @@
          ]
       },
       "fullname": "scp-zh-226",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1330055602",
       "rating": "16",
       "tags": [
@@ -83864,7 +83864,7 @@
          ]
       },
       "fullname": "red-cloud-strike",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1330066100",
       "rating": "7",
       "tags": [
@@ -83917,7 +83917,7 @@
          ]
       },
       "fullname": "quantum-suicide",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1330127597",
       "rating": "8",
       "tags": [
@@ -84061,7 +84061,7 @@
          ]
       },
       "fullname": "quantum-immortality",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1330141390",
       "rating": "9",
       "tags": [
@@ -84164,7 +84164,7 @@
          ]
       },
       "fullname": "scp-zh-110",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1330142834",
       "rating": "18",
       "tags": [
@@ -84830,7 +84830,7 @@
          ]
       },
       "fullname": "scp-zh-398",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1331024424",
       "rating": "16",
       "tags": [
@@ -85006,7 +85006,7 @@
          ]
       },
       "fullname": "what-the-fuck-is-this-pizza",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1331035683",
       "rating": "16",
       "tags": [
@@ -85080,7 +85080,7 @@
          ]
       },
       "fullname": "pelia-start",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1331065813",
       "rating": "13",
       "tags": [
@@ -85455,7 +85455,7 @@
          ]
       },
       "fullname": "scp-zh-364",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1331180479",
       "rating": "9",
       "tags": [
@@ -85689,7 +85689,7 @@
          ]
       },
       "fullname": "nice-to-see-you",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1331185528",
       "rating": "10",
       "tags": [
@@ -86007,7 +86007,7 @@
          ]
       },
       "fullname": "scp-999-jp-enneametric",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1331208901",
       "rating": "17",
       "tags": [
@@ -86151,7 +86151,7 @@
          ]
       },
       "fullname": "in-front-of-fate",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1331224779",
       "rating": "5",
       "tags": [
@@ -86313,7 +86313,7 @@
          ]
       },
       "fullname": "note-for-u-guys-2021",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1331226533",
       "rating": "35",
       "tags": [
@@ -86392,7 +86392,7 @@
          ]
       },
       "fullname": "quantum-suicide-art",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1331228040",
       "rating": "15",
       "tags": [
@@ -86699,7 +86699,7 @@
          ]
       },
       "fullname": "scp-zh-909",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1331241264",
       "rating": "8",
       "tags": [
@@ -86784,7 +86784,7 @@
          ]
       },
       "fullname": "scp-zh-560",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1331328053",
       "rating": "15",
       "tags": [
@@ -86836,7 +86836,7 @@
          ]
       },
       "fullname": "hahacloth",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1331333035",
       "rating": "7",
       "tags": [
@@ -86933,7 +86933,7 @@
          ]
       },
       "fullname": "scp-zh-916",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1331350351",
       "rating": "19",
       "tags": [
@@ -87003,7 +87003,7 @@
          ]
       },
       "fullname": "fan-made-zh12-fiction",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1331351281",
       "rating": "11",
       "tags": [
@@ -87174,7 +87174,7 @@
          ]
       },
       "fullname": "setu-plan",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1331352270",
       "rating": "8",
       "tags": [
@@ -87663,7 +87663,7 @@
          ]
       },
       "fullname": "pao-mian-s-retribution",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1331375584",
       "rating": "11",
       "tags": [
@@ -87733,7 +87733,7 @@
          ]
       },
       "fullname": "wanderers:who-am-i",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1331402049",
       "rating": "8",
       "tags": [
@@ -87877,7 +87877,7 @@
          ]
       },
       "fullname": "in-the-cold-and-rain-the-love-story",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1331410908",
       "rating": "15",
       "tags": [
@@ -88519,7 +88519,7 @@
          ]
       },
       "fullname": "retire-from-bistro",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1331491990",
       "rating": "17",
       "tags": [
@@ -88736,7 +88736,7 @@
          ]
       },
       "fullname": "scp-zh-062",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1331500129",
       "rating": "20",
       "tags": [
@@ -88792,7 +88792,7 @@
          ]
       },
       "fullname": "where-are-you-we-will-be-together-forever",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1331512326",
       "rating": "7",
       "tags": [
@@ -88896,7 +88896,7 @@
          ]
       },
       "fullname": "scp-zh-059",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1331546778",
       "rating": "21",
       "tags": [
@@ -88949,7 +88949,7 @@
          ]
       },
       "fullname": "poems-of-uneternal-death",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1331547755",
       "rating": "7",
       "tags": [
@@ -89125,7 +89125,7 @@
          ]
       },
       "fullname": "scp-zh-131",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1331651321",
       "rating": "9",
       "tags": [
@@ -89185,7 +89185,7 @@
          ]
       },
       "fullname": "scp-zh-534",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1331655305",
       "rating": "4",
       "tags": [
@@ -89261,7 +89261,7 @@
          ]
       },
       "fullname": "scp-zh-151",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1331660132",
       "rating": "12",
       "tags": [
@@ -89340,7 +89340,7 @@
          ]
       },
       "fullname": "scp-zh-104",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1331661573",
       "rating": "14",
       "tags": [
@@ -89648,7 +89648,7 @@
          ]
       },
       "fullname": "scp-zh-830",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1331683300",
       "rating": "9",
       "tags": [
@@ -89727,7 +89727,7 @@
          ]
       },
       "fullname": "neviim-aic-original-art",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1331683782",
       "rating": "13",
       "tags": [
@@ -89823,7 +89823,7 @@
          ]
       },
       "fullname": "scp-zh-094",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1331691294",
       "rating": "19",
       "tags": [
@@ -89873,7 +89873,7 @@
          ]
       },
       "fullname": "zh-bt-hand-mercy",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1331741562",
       "rating": "5",
       "tags": [
@@ -89931,7 +89931,7 @@
          ]
       },
       "fullname": "smuggling-target-kislorod-ponomarenko",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1331743924",
       "rating": "9",
       "tags": [
@@ -90013,7 +90013,7 @@
          ]
       },
       "fullname": "scp-zh-277",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1331745036",
       "rating": "13",
       "tags": [
@@ -90125,7 +90125,7 @@
          ]
       },
       "fullname": "scp-zh-517",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1331745624",
       "rating": "22",
       "tags": [
@@ -90535,7 +90535,7 @@
          ]
       },
       "fullname": "scp-zh-337",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1331746243",
       "rating": "29",
       "tags": [
@@ -90600,7 +90600,7 @@
          ]
       },
       "fullname": "another-damn-workday",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1331756959",
       "rating": "11",
       "tags": [
@@ -90651,7 +90651,7 @@
          ]
       },
       "fullname": "immolari-of-the-apocalypse",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1331761016",
       "rating": "8",
       "tags": [
@@ -91064,7 +91064,7 @@
          ]
       },
       "fullname": "scp-zh-540",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1331799996",
       "rating": "12",
       "tags": [
@@ -94716,7 +94716,7 @@
          ]
       },
       "fullname": "creator-part-zero",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1334656040",
       "rating": "6",
       "tags": [
@@ -94881,7 +94881,7 @@
          ]
       },
       "fullname": "kamen-rider-theseus-alone-in-the-dark",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1337117172",
       "rating": "13",
       "tags": [
@@ -95013,7 +95013,7 @@
          ]
       },
       "fullname": "scp-zh-106",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1340488357",
       "rating": "27",
       "tags": [
@@ -95070,7 +95070,7 @@
          ]
       },
       "fullname": "cool-spread-class-icons",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1341822173",
       "rating": "9",
       "tags": [
@@ -95130,7 +95130,7 @@
          ]
       },
       "fullname": "on-how-to-draw-dr-kris-boone",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1347751457",
       "rating": "10",
       "tags": [
@@ -95154,7 +95154,7 @@
          ]
       },
       "fullname": "scp-zh-956-text",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1382907149",
       "rating": "1",
       "tags": [
@@ -95366,7 +95366,7 @@
          ]
       },
       "fullname": "cidal-dongi-by-samscript",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1384787729",
       "rating": "12",
       "tags": [
@@ -95452,7 +95452,7 @@
          ]
       },
       "fullname": "cidal-dongi-by-k1s10r0d",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1388635295",
       "rating": "16",
       "tags": [
@@ -95530,7 +95530,7 @@
          ]
       },
       "fullname": "cidal-dongi-by-lulu-lucifelle",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1388835292",
       "rating": "14",
       "tags": [
@@ -95658,7 +95658,7 @@
          ]
       },
       "fullname": "scp-zh-116",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1401933490",
       "rating": "6",
       "tags": [
@@ -95757,7 +95757,7 @@
          ]
       },
       "fullname": "romiamiad-ni-cidal",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1401959907",
       "rating": "19",
       "tags": [
@@ -95863,7 +95863,7 @@
          ]
       },
       "fullname": "scp-zh-225",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1401991661",
       "rating": "21",
       "tags": [
@@ -95952,7 +95952,7 @@
          ]
       },
       "fullname": "we-are-no-more-than-mortal-souls",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1401999559",
       "rating": "17",
       "tags": [
@@ -95990,7 +95990,7 @@
          ]
       },
       "fullname": "creator-part-one",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1402018998",
       "rating": "4",
       "tags": [
@@ -96349,7 +96349,7 @@
          ]
       },
       "fullname": "adult:oyasumi-site-zh-12",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1402039272",
       "rating": "12",
       "tags": [
@@ -96504,7 +96504,7 @@
          ]
       },
       "fullname": "among-in-the-duck",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1402055480",
       "rating": "17",
       "tags": [
@@ -96634,7 +96634,7 @@
          ]
       },
       "fullname": "the-dream-of-immortality",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1402423221",
       "rating": "8",
       "tags": [
@@ -96705,7 +96705,7 @@
          ]
       },
       "fullname": "scp-zh-126",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1402544601",
       "rating": "12",
       "tags": [
@@ -96980,7 +96980,7 @@
          ]
       },
       "fullname": "project-mia-day-by-mimeow",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1402642850",
       "rating": "10",
       "tags": [
@@ -97045,7 +97045,7 @@
          ]
       },
       "fullname": "wanderers:they-me-you-stars",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1402669195",
       "rating": "11",
       "tags": [
@@ -97106,7 +97106,7 @@
          ]
       },
       "fullname": "i-mcrazy",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1402673160",
       "rating": "10",
       "tags": [
@@ -97289,7 +97289,7 @@
          ]
       },
       "fullname": "myosotis",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1402863215",
       "rating": "17",
       "tags": [
@@ -97379,7 +97379,7 @@
          ]
       },
       "fullname": "scp-zh-132",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1402867447",
       "rating": "14",
       "tags": [
@@ -97611,7 +97611,7 @@
          ]
       },
       "fullname": "wolf125again",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1402997103",
       "rating": "6",
       "tags": [
@@ -97686,7 +97686,7 @@
          ]
       },
       "fullname": "scp-zh-382",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1403005879",
       "rating": "14",
       "tags": [
@@ -97809,7 +97809,7 @@
          ]
       },
       "fullname": "the-time-foundation-disappeared",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1403077988",
       "rating": "25",
       "tags": [
@@ -97893,7 +97893,7 @@
          ]
       },
       "fullname": "pthahnil-s-social-media-user-icon",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1403116568",
       "rating": "16",
       "tags": [
@@ -98124,7 +98124,7 @@
          ]
       },
       "fullname": "hedgehog-note-site-zh-12",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1403263786",
       "rating": "15",
       "tags": [
@@ -98216,7 +98216,7 @@
          ]
       },
       "fullname": "do-you-know-i-love-you",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1403270426",
       "rating": "14",
       "tags": [
@@ -98454,7 +98454,7 @@
          ]
       },
       "fullname": "a-walk-in-the-fallout",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1403275135",
       "rating": "13",
       "tags": [
@@ -98514,7 +98514,7 @@
          ]
       },
       "fullname": "bell-frame",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1403386454",
       "rating": "10",
       "tags": [
@@ -98580,7 +98580,7 @@
          ]
       },
       "fullname": "don-t-tread-on-me",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1403486237",
       "rating": "11",
       "tags": [
@@ -98664,7 +98664,7 @@
          ]
       },
       "fullname": "sq-artwork-1a",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1403489455",
       "rating": "16",
       "tags": [
@@ -98871,7 +98871,7 @@
          ]
       },
       "fullname": "incident-zh-330-2",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1403494883",
       "rating": "11",
       "tags": [
@@ -98965,7 +98965,7 @@
          ]
       },
       "fullname": "lillianasoda-artworks1",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1403501466",
       "rating": "18",
       "tags": [
@@ -99886,7 +99886,7 @@
          ]
       },
       "fullname": "scp-zh-818",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1417048473",
       "rating": "10",
       "tags": [
@@ -100100,7 +100100,7 @@
          ]
       },
       "fullname": "sq-artwork-1b",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1417498345",
       "rating": "11",
       "tags": [
@@ -100311,7 +100311,7 @@
          ]
       },
       "fullname": "color-of-hope",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1420340191",
       "rating": "11",
       "tags": [
@@ -100585,7 +100585,7 @@
          ]
       },
       "fullname": "scp-zh-403",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1420385600",
       "rating": "21",
       "tags": [
@@ -100778,7 +100778,7 @@
          ]
       },
       "fullname": "is-it-watching",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1420385603",
       "rating": "9",
       "tags": [
@@ -100846,7 +100846,7 @@
          ]
       },
       "fullname": "scp-zh-304",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1420385685",
       "rating": "12",
       "tags": [
@@ -101011,7 +101011,7 @@
          ]
       },
       "fullname": "limit-scale",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1420444366",
       "rating": "8",
       "tags": [
@@ -101080,7 +101080,7 @@
          ]
       },
       "fullname": "interview-of-x",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1420456449",
       "rating": "12",
       "tags": [
@@ -101330,7 +101330,7 @@
          ]
       },
       "fullname": "go-to-sus-hi-po",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1420479550",
       "rating": "11",
       "tags": [
@@ -101378,7 +101378,7 @@
          ]
       },
       "fullname": "heartless-speaking",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1420479959",
       "rating": "7",
       "tags": [
@@ -101445,7 +101445,7 @@
          ]
       },
       "fullname": "love-is-sacrifice",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1420493057",
       "rating": "7",
       "tags": [
@@ -101569,7 +101569,7 @@
          ]
       },
       "fullname": "lucid-dreams",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1420528612",
       "rating": "26",
       "tags": [
@@ -101769,7 +101769,7 @@
          ]
       },
       "fullname": "scp-zh-119",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1420543236",
       "rating": "15",
       "tags": [
@@ -101866,7 +101866,7 @@
          ]
       },
       "fullname": "scp-zh-532",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1420543505",
       "rating": "18",
       "tags": [
@@ -102160,7 +102160,7 @@
          ]
       },
       "fullname": "scp-zh-941",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1420543591",
       "rating": "2",
       "tags": [
@@ -102237,7 +102237,7 @@
          ]
       },
       "fullname": "kamen-rider-theseus-double-tracks-problem",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1420693150",
       "rating": "14",
       "tags": [
@@ -102403,7 +102403,7 @@
          ]
       },
       "fullname": "dreams-always-dissolve",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1420865166",
       "rating": "18",
       "tags": [
@@ -102618,7 +102618,7 @@
          ]
       },
       "fullname": "ching-sus",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1429119165",
       "rating": "8",
       "tags": [
@@ -102703,7 +102703,7 @@
          ]
       },
       "fullname": "d-10201",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1429134826",
       "rating": "16",
       "tags": [
@@ -102855,7 +102855,7 @@
          ]
       },
       "fullname": "my-atonement",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1435441836",
       "rating": "8",
       "tags": [
@@ -102923,7 +102923,7 @@
          ]
       },
       "fullname": "scp-zh-188",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1435455595",
       "rating": "12",
       "tags": [
@@ -102988,7 +102988,7 @@
          ]
       },
       "fullname": "scp-zh-447",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1435457310",
       "rating": "11",
       "tags": [
@@ -103338,7 +103338,7 @@
          ]
       },
       "fullname": "extension-of-dream",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1435499286",
       "rating": "12",
       "tags": [
@@ -103407,7 +103407,7 @@
          ]
       },
       "fullname": "scp-zh-029",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1435499422",
       "rating": "12",
       "tags": [
@@ -103454,7 +103454,7 @@
          ]
       },
       "fullname": "scp-zh-820",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1435499596",
       "rating": "5",
       "tags": [
@@ -103700,7 +103700,7 @@
          ]
       },
       "fullname": "scp-zh-912-j",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1435499938",
       "rating": "24",
       "tags": [
@@ -104361,7 +104361,7 @@
          ]
       },
       "fullname": "negative",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1436005039",
       "rating": "6",
       "tags": [
@@ -104446,7 +104446,7 @@
          ]
       },
       "fullname": "lillianasoda-artworks3",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1436017117",
       "rating": "16",
       "tags": [
@@ -104509,7 +104509,7 @@
          ]
       },
       "fullname": "scp-zh-145",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1436060412",
       "rating": "11",
       "tags": [
@@ -104551,7 +104551,7 @@
          ]
       },
       "fullname": "lost-interval",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1436107170",
       "rating": "5",
       "tags": [
@@ -104694,7 +104694,7 @@
          ]
       },
       "fullname": "scp-zh-155",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1436129689",
       "rating": "13",
       "tags": [
@@ -104739,7 +104739,7 @@
          ]
       },
       "fullname": "scp-zh-387",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1436145429",
       "rating": "6",
       "tags": [
@@ -104918,7 +104918,7 @@
          ]
       },
       "fullname": "scp-zh-328",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1436214838",
       "rating": "22",
       "tags": [
@@ -105235,7 +105235,7 @@
          ]
       },
       "fullname": "scp-zh-176",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1436219911",
       "rating": "22",
       "tags": [
@@ -105368,7 +105368,7 @@
          ]
       },
       "fullname": "scp-zh-135",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1436220493",
       "rating": "26",
       "tags": [
@@ -105565,7 +105565,7 @@
          ]
       },
       "fullname": "wanderers:eos-and-sun",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1436229787",
       "rating": "20",
       "tags": [
@@ -105647,7 +105647,7 @@
          ]
       },
       "fullname": "scp-zh-767",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1436235569",
       "rating": "15",
       "tags": [
@@ -105709,7 +105709,7 @@
          ]
       },
       "fullname": "dream-duet",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1436240482",
       "rating": "10",
       "tags": [
@@ -106172,7 +106172,7 @@
          ]
       },
       "fullname": "scp-zh-300-j",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1436249822",
       "rating": "17",
       "tags": [
@@ -106244,7 +106244,7 @@
          ]
       },
       "fullname": "phantom-flowering",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1436250478",
       "rating": "9",
       "tags": [
@@ -106411,7 +106411,7 @@
          ]
       },
       "fullname": "scp-zh-646",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1436251271",
       "rating": "15",
       "tags": [
@@ -106500,7 +106500,7 @@
          ]
       },
       "fullname": "scp-zh-505",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1436251433",
       "rating": "15",
       "tags": [
@@ -106596,7 +106596,7 @@
          ]
       },
       "fullname": "toogoodtobetrue",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1436251674",
       "rating": "19",
       "tags": [
@@ -106644,7 +106644,7 @@
          ]
       },
       "fullname": "complication",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1436251924",
       "rating": "7",
       "tags": [
@@ -106743,7 +106743,7 @@
          ]
       },
       "fullname": "wanderers:homunculus",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1436251926",
       "rating": "20",
       "tags": [
@@ -106801,7 +106801,7 @@
          ]
       },
       "fullname": "bioelectricity",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1436252175",
       "rating": "9",
       "tags": [
@@ -106986,7 +106986,7 @@
          ]
       },
       "fullname": "reverberate",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1436293048",
       "rating": "17",
       "tags": [
@@ -107521,7 +107521,7 @@
          ]
       },
       "fullname": "nsb-8-euipment",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1436572679",
       "rating": "6",
       "tags": [
@@ -107762,7 +107762,7 @@
          ]
       },
       "fullname": "bales-s-daily-3",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1437049984",
       "rating": "6",
       "tags": [
@@ -107910,7 +107910,7 @@
          ]
       },
       "fullname": "scp-zh-149",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1437060765",
       "rating": "10",
       "tags": [
@@ -107998,7 +107998,7 @@
          ]
       },
       "fullname": "scp-zh-230",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1437075508",
       "rating": "14",
       "tags": [
@@ -108044,7 +108044,7 @@
          ]
       },
       "fullname": "scp-zh-547",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1437085133",
       "rating": "3",
       "tags": [
@@ -108127,7 +108127,7 @@
          ]
       },
       "fullname": "forever-heartfelt",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1437125395",
       "rating": "5",
       "tags": [
@@ -108317,7 +108317,7 @@
          ]
       },
       "fullname": "three-color-bean-war",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1437153066",
       "rating": "2",
       "tags": [
@@ -108463,7 +108463,7 @@
          ]
       },
       "fullname": "scp-zh-590",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1437210702",
       "rating": "6",
       "tags": [
@@ -108652,7 +108652,7 @@
          ]
       },
       "fullname": "flock-of-bloods",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1437223400",
       "rating": "13",
       "tags": [
@@ -108709,7 +108709,7 @@
          ]
       },
       "fullname": "scp-zh-214",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1437254216",
       "rating": "9",
       "tags": [
@@ -108807,7 +108807,7 @@
          ]
       },
       "fullname": "artworks",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1437254599",
       "rating": "18",
       "tags": [
@@ -108903,7 +108903,7 @@
          ]
       },
       "fullname": "fog-house",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1437306629",
       "rating": "19",
       "tags": [
@@ -108973,7 +108973,7 @@
          ]
       },
       "fullname": "pitch-dark-walts",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1437307954",
       "rating": "12",
       "tags": [
@@ -109045,7 +109045,7 @@
          ]
       },
       "fullname": "rain-and-tea",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1437308067",
       "rating": "13",
       "tags": [
@@ -109211,7 +109211,7 @@
          ]
       },
       "fullname": "tea-rain-halloween2022",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1437308141",
       "rating": "16",
       "tags": [
@@ -109271,7 +109271,7 @@
          ]
       },
       "fullname": "scp-zh-268",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1437308171",
       "rating": "7",
       "tags": [
@@ -109330,7 +109330,7 @@
          ]
       },
       "fullname": "scp-zh-210",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1437406602",
       "rating": "9",
       "tags": [
@@ -109452,7 +109452,7 @@
          ]
       },
       "fullname": "whiskey",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1437455820",
       "rating": "6",
       "tags": [
@@ -109526,7 +109526,7 @@
          ]
       },
       "fullname": "bourbon-whiskey",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1437461452",
       "rating": "11",
       "tags": [
@@ -109781,7 +109781,7 @@
          ]
       },
       "fullname": "site-zh-16-4th-staff-restaurant-hub",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1437472552",
       "rating": "7",
       "tags": [
@@ -109865,7 +109865,7 @@
          ]
       },
       "fullname": "scp-zh-699",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1437472553",
       "rating": "15",
       "tags": [
@@ -109925,7 +109925,7 @@
          ]
       },
       "fullname": "a-home-welcoming-story-rsr-lu",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1437482774",
       "rating": "10",
       "tags": [
@@ -109986,7 +109986,7 @@
          ]
       },
       "fullname": "first-but-last",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1437500226",
       "rating": "10",
       "tags": [
@@ -110019,7 +110019,7 @@
          ]
       },
       "fullname": "combat-record-rl1207",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1437504156",
       "rating": "3",
       "tags": [
@@ -110072,7 +110072,7 @@
          ]
       },
       "fullname": "scp-zh-765",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1437507675",
       "rating": "8",
       "tags": [
@@ -110110,7 +110110,7 @@
          ]
       },
       "fullname": "site-zh-50-gif",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1437508564",
       "rating": "4",
       "tags": [
@@ -110173,7 +110173,7 @@
          ]
       },
       "fullname": "editorial-case-echoed-nightmare",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1437508666",
       "rating": "11",
       "tags": [
@@ -110305,7 +110305,7 @@
          ]
       },
       "fullname": "wanderers:farewell",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1444297568",
       "rating": "15",
       "tags": [
@@ -110367,7 +110367,7 @@
          ]
       },
       "fullname": "scp-zh-246",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1444306659",
       "rating": "10",
       "tags": [
@@ -110487,7 +110487,7 @@
          ]
       },
       "fullname": "your-first-translation",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1444537305",
       "rating": "25",
       "tags": [
@@ -110620,7 +110620,7 @@
          ]
       },
       "fullname": "identification-card",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1444617452",
       "rating": "7",
       "tags": [
@@ -110706,7 +110706,7 @@
          ]
       },
       "fullname": "merry-christmas-mkm",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1444666596",
       "rating": "16",
       "tags": [
@@ -110857,7 +110857,7 @@
          ]
       },
       "fullname": "divina-commedia",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1444724727",
       "rating": "11",
       "tags": [
@@ -110914,7 +110914,7 @@
          ]
       },
       "fullname": "wanderers:pershana-s-diary",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1444777084",
       "rating": "9",
       "tags": [
@@ -110983,7 +110983,7 @@
          ]
       },
       "fullname": "scp-zh-848",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1444777720",
       "rating": "12",
       "tags": [
@@ -111062,7 +111062,7 @@
          ]
       },
       "fullname": "scp-zh-598",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1444777777",
       "rating": "14",
       "tags": [
@@ -111257,7 +111257,7 @@
          ]
       },
       "fullname": "are-you-still-in-that-ocean",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1444778806",
       "rating": "7",
       "tags": [
@@ -111396,7 +111396,7 @@
          ]
       },
       "fullname": "scp-zh-922-art",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1445374231",
       "rating": "11",
       "tags": [
@@ -111478,7 +111478,7 @@
          ]
       },
       "fullname": "cidal-dongi-by-controlz",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1445382658",
       "rating": "15",
       "tags": [
@@ -111602,7 +111602,7 @@
          ]
       },
       "fullname": "email-and-penalty",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1445430041",
       "rating": "19",
       "tags": [
@@ -111661,7 +111661,7 @@
          ]
       },
       "fullname": "scp-6777-art",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1445457833",
       "rating": "9",
       "tags": [
@@ -111688,7 +111688,7 @@
          ]
       },
       "fullname": "better-to-add-an-imaaage",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1445481601",
       "rating": "2",
       "tags": [
@@ -111741,7 +111741,7 @@
          ]
       },
       "fullname": "meta-the-rock",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1445551704",
       "rating": "8",
       "tags": [
@@ -111810,7 +111810,7 @@
          ]
       },
       "fullname": "002-by-controlz",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1445575640",
       "rating": "12",
       "tags": [
@@ -111937,7 +111937,7 @@
          ]
       },
       "fullname": "note-for-u-guys-2022",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1445618569",
       "rating": "27",
       "tags": [
@@ -112006,7 +112006,7 @@
          ]
       },
       "fullname": "scp-zh-152",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1445751877",
       "rating": "10",
       "tags": [
@@ -112303,7 +112303,7 @@
          ]
       },
       "fullname": "scp-zh-081-j",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1445831255",
       "rating": "12",
       "tags": [
@@ -112384,7 +112384,7 @@
          ]
       },
       "fullname": "scp-zh-305",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1445870096",
       "rating": "13",
       "tags": [
@@ -112650,7 +112650,7 @@
          ]
       },
       "fullname": "blue-eyes-white-dragon",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1445893294",
       "rating": "14",
       "tags": [
@@ -113198,7 +113198,7 @@
          ]
       },
       "fullname": "placeholder-fanart",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1446083908",
       "rating": "9",
       "tags": [
@@ -113282,7 +113282,7 @@
          ]
       },
       "fullname": "scp-zh-693",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1446139175",
       "rating": "16",
       "tags": [
@@ -113353,7 +113353,7 @@
          ]
       },
       "fullname": "self-art-amnesia",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1446142272",
       "rating": "11",
       "tags": [
@@ -113417,7 +113417,7 @@
          ]
       },
       "fullname": "flensed-and-flayed-how-does-it-feel",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1446184343",
       "rating": "10",
       "tags": [
@@ -113486,7 +113486,7 @@
          ]
       },
       "fullname": "randall-house-fanart",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1446185018",
       "rating": "12",
       "tags": [
@@ -113557,7 +113557,7 @@
          ]
       },
       "fullname": "methadone",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1446185776",
       "rating": "13",
       "tags": [
@@ -113717,7 +113717,7 @@
          ]
       },
       "fullname": "scp-zh-922-fanart",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1446350859",
       "rating": "20",
       "tags": [
@@ -113783,7 +113783,7 @@
          ]
       },
       "fullname": "adams-clothes",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1446381062",
       "rating": "11",
       "tags": [
@@ -113864,7 +113864,7 @@
          ]
       },
       "fullname": "hr-database",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1446416037",
       "rating": "15",
       "tags": [
@@ -113948,7 +113948,7 @@
          ]
       },
       "fullname": "site-zh-44-characters",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1446484343",
       "rating": "15",
       "tags": [
@@ -114156,7 +114156,7 @@
          ]
       },
       "fullname": "menu-cosmopolitan",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1446567166",
       "rating": "6",
       "tags": [
@@ -114197,7 +114197,7 @@
          ]
       },
       "fullname": "fate-and-resistance-artwork-1",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1446574387",
       "rating": "5",
       "tags": [
@@ -114243,7 +114243,7 @@
          ]
       },
       "fullname": "summer-metal-fire",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1446595581",
       "rating": "4",
       "tags": [
@@ -114302,7 +114302,7 @@
          ]
       },
       "fullname": "scp-6670-fanart",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1446599338",
       "rating": "10",
       "tags": [
@@ -114361,7 +114361,7 @@
          ]
       },
       "fullname": "because-i-am-lucky",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1446609037",
       "rating": "10",
       "tags": [
@@ -114436,7 +114436,7 @@
          ]
       },
       "fullname": "scp-zh-142",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1446688624",
       "rating": "14",
       "tags": [
@@ -114483,7 +114483,7 @@
          ]
       },
       "fullname": "azure-skydome-hub",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1446689738",
       "rating": "4",
       "tags": [
@@ -114661,7 +114661,7 @@
          ]
       },
       "fullname": "unidentified",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1446708595",
       "rating": "17",
       "tags": [
@@ -114733,7 +114733,7 @@
          ]
       },
       "fullname": "ancient-taiwan-chronicle",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1446713938",
       "rating": "13",
       "tags": [
@@ -114824,7 +114824,7 @@
          ]
       },
       "fullname": "ain-draw-something",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1446724000",
       "rating": "16",
       "tags": [
@@ -114867,7 +114867,7 @@
          ]
       },
       "fullname": "scp-zh-237",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1446728749",
       "rating": "5",
       "tags": [
@@ -114969,7 +114969,7 @@
          ]
       },
       "fullname": "radiw-na-cidal",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1446760211",
       "rating": "19",
       "tags": [
@@ -115068,7 +115068,7 @@
          ]
       },
       "fullname": "day-day-is-good-day",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1446778201",
       "rating": "19",
       "tags": [
@@ -115178,7 +115178,7 @@
          ]
       },
       "fullname": "skyblueceeb",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1446802263",
       "rating": "22",
       "tags": [
@@ -115233,7 +115233,7 @@
          ]
       },
       "fullname": "zh-photophobia",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1446864862",
       "rating": "6",
       "tags": [
@@ -115284,7 +115284,7 @@
          ]
       },
       "fullname": "kikunai-pseudo-vector-art",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1447040689",
       "rating": "8",
       "tags": [
@@ -115437,7 +115437,7 @@
          ]
       },
       "fullname": "scp-zh-922-j",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1447042244",
       "rating": "16",
       "tags": [
@@ -115482,7 +115482,7 @@
          ]
       },
       "fullname": "scp-zh-247-ending-is-beginning",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1447042275",
       "rating": "2",
       "tags": [
@@ -115748,7 +115748,7 @@
          ]
       },
       "fullname": "scp-zh-362",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1447216398",
       "rating": "6",
       "tags": [
@@ -115826,7 +115826,7 @@
          ]
       },
       "fullname": "merry-christmas",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1447216416",
       "rating": "11",
       "tags": [
@@ -116183,7 +116183,7 @@
          ]
       },
       "fullname": "scp-zh-403-art-therapy-product",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1447589392",
       "rating": "6",
       "tags": [
@@ -116426,7 +116426,7 @@
          ]
       },
       "fullname": "scp-zh-625",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1447821793",
       "rating": "10",
       "tags": [
@@ -116525,7 +116525,7 @@
          ]
       },
       "fullname": "love-letter-to-finite-beings",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1447824530",
       "rating": "18",
       "tags": [
@@ -116663,7 +116663,7 @@
          ]
       },
       "fullname": "agent-calendar-fanart",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1447936823",
       "rating": "13",
       "tags": [
@@ -116859,7 +116859,7 @@
          ]
       },
       "fullname": "so-we-won-lost-and-then-what",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1448285853",
       "rating": "9",
       "tags": [
@@ -117001,7 +117001,7 @@
          ]
       },
       "fullname": "scp-zh-212",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1448306404",
       "rating": "13",
       "tags": [
@@ -117274,7 +117274,7 @@
          ]
       },
       "fullname": "zh-characters-fanart-by-kikunai",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1448467907",
       "rating": "9",
       "tags": [
@@ -117336,7 +117336,7 @@
          ]
       },
       "fullname": "wanderers:full-of",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1448470808",
       "rating": "9",
       "tags": [
@@ -117404,7 +117404,7 @@
          ]
       },
       "fullname": "art-for-4955",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1448474339",
       "rating": "12",
       "tags": [
@@ -117459,7 +117459,7 @@
          ]
       },
       "fullname": "scp-zh-176-declassification",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1448474422",
       "rating": "9",
       "tags": [
@@ -117581,7 +117581,7 @@
          ]
       },
       "fullname": "summer-clear-sky-contest",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1448544850",
       "rating": "13",
       "tags": [
@@ -117634,7 +117634,7 @@
          ]
       },
       "fullname": "foundation-monthly-anthology",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1448579276",
       "rating": "8",
       "tags": [
@@ -117710,7 +117710,7 @@
          ]
       },
       "fullname": "tadakaciferangan",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1448585743",
       "rating": "14",
       "tags": [
@@ -117773,7 +117773,7 @@
          ]
       },
       "fullname": "scp-zh-307",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1448645615",
       "rating": "8",
       "tags": [
@@ -117840,7 +117840,7 @@
          ]
       },
       "fullname": "task-forces-zh-complete-list",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1448831435",
       "rating": "3",
       "tags": [
@@ -117896,7 +117896,7 @@
          ]
       },
       "fullname": "after-i-left",
-      "hidden_tags": null,
+      "hidden_tags": [],
       "id": "1448961234",
       "rating": "9",
       "tags": [
