@@ -10564,6 +10564,10 @@
       "detailed_rating": {
          "+": [
             [
+               "6709715",
+               1689125245
+            ],
+            [
                "6104968",
                1639584000
             ],
@@ -10617,8 +10621,8 @@
             ]
          ]
       },
-      "justified_rating": 13,
-      "justified_u_count": 13,
+      "justified_rating": 14,
+      "justified_u_count": 14,
       "justified_d_count": 0
    },
    "1564764937": {
