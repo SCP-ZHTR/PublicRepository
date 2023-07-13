@@ -5719,26 +5719,5 @@
       "justified_rating": 0,
       "justified_u_count": 0,
       "justified_d_count": 0
-   },
-   "1688591506": {
-      "detailed_rating": {
-         "+": [
-            [
-               "6217438",
-               1689208166
-            ],
-            [
-               "5370805",
-               1689208166
-            ],
-            [
-               "7504530",
-               1689208166
-            ]
-         ]
-      },
-      "justified_rating": 3,
-      "justified_u_count": 3,
-      "justified_d_count": 0
    }
 }
