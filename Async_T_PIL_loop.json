@@ -110850,7 +110850,10 @@
          ]
       },
       "fullname": "scp-6121",
-      "hidden_tags": [],
+      "hidden_tags": [
+         "_cc",
+         "_licensebox"
+      ],
       "id": "1448916298",
       "rating": "1",
       "tags": [
