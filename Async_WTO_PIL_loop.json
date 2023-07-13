@@ -9702,5 +9702,21 @@
       "tags": [],
       "title": "News",
       "votes": "0"
+   },
+   "1689262770": {
+      "comments": "0",
+      "created_at": "1689262770",
+      "created_by": "8033564",
+      "detailed_rating": {
+         "+": [],
+         "-": []
+      },
+      "fullname": "scp-3688",
+      "hidden_tags": [],
+      "id": "1449018190",
+      "rating": "0",
+      "tags": [],
+      "title": "SCP-3688 - 隨心起舞",
+      "votes": "0"
    }
 }
