@@ -9712,10 +9712,16 @@
          "-": []
       },
       "fullname": "foundation-monthly-89",
-      "hidden_tags": [],
+      "hidden_tags": [
+         "_cc",
+         "_禁黑"
+      ],
       "id": "1449048301",
       "rating": "0",
-      "tags": [],
+      "tags": [
+         "合著",
+         "新聞"
+      ],
       "title": "基金會月刊 第089期",
       "votes": "0"
    }
