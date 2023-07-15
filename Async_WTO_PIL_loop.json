@@ -9702,5 +9702,21 @@
       "tags": [],
       "title": "News",
       "votes": "0"
+   },
+   "1689424403": {
+      "comments": "0",
+      "created_at": "1689424403",
+      "created_by": "4357011",
+      "detailed_rating": {
+         "+": [],
+         "-": []
+      },
+      "fullname": "scp-6564",
+      "hidden_tags": [],
+      "id": "1449046625",
+      "rating": "0",
+      "tags": [],
+      "title": "SCP-6564 - 熱鬥寶寶!",
+      "votes": "0"
    }
 }
