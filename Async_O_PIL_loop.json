@@ -118115,13 +118115,17 @@
       "created_at": "1689606932",
       "created_by": "5334590",
       "detailed_rating": {
-         "+": [],
-         "-": []
+         "+": [
+            [
+               "6091157",
+               1689607293
+            ]
+         ]
       },
       "fullname": "scp-zh-275",
       "hidden_tags": [],
       "id": "1449063469",
-      "rating": "0",
+      "rating": "1",
       "tags": [
          "keter",
          "scp",
@@ -118134,6 +118138,6 @@
          "熱量影響"
       ],
       "title": "SCP-ZH-275 - 火珀",
-      "votes": "0"
+      "votes": "1"
    }
 }
