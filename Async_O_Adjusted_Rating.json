@@ -93869,13 +93869,17 @@
       "detailed_rating": {
          "+": [
             [
+               "8452537",
+               1689607954
+            ],
+            [
                "6091157",
                1689607293
             ]
          ]
       },
-      "justified_rating": 1,
-      "justified_u_count": 1,
+      "justified_rating": 2,
+      "justified_u_count": 2,
       "justified_d_count": 0
    }
 }
