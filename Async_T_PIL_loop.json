@@ -110812,8 +110812,12 @@
       "created_at": "1688589281",
       "created_by": "5370805",
       "detailed_rating": {
-         "+": [],
-         "-": []
+         "+": [
+            [
+               "8033564",
+               1689596761
+            ]
+         ]
       },
       "fullname": "agent-calendars-hot-date-2",
       "hidden_tags": [
@@ -110821,7 +110825,7 @@
          "_licensebox"
       ],
       "id": "1448855435",
-      "rating": "0",
+      "rating": "1",
       "tags": [
          "en",
          "romcon2023-unofficial",
@@ -110830,7 +110834,7 @@
          "翻譯"
       ],
       "title": "日曆特工的火辣約會2：狂舞之夜",
-      "votes": "0"
+      "votes": "1"
    },
    "1688591506": {
       "comments": "1",
