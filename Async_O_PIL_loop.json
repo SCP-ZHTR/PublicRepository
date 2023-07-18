@@ -118177,15 +118177,19 @@
       "created_at": "1689609601",
       "created_by": "7605593",
       "detailed_rating": {
-         "+": [],
-         "-": []
+         "+": [
+            [
+               "7499032",
+               1689668760
+            ]
+         ]
       },
       "fullname": "scp-zh-649",
       "hidden_tags": [
          "_licensebox"
       ],
       "id": "1449063860",
-      "rating": "0",
+      "rating": "1",
       "tags": [
          "2023夏季競賽",
          "safe",
@@ -118217,6 +118221,6 @@
          "音頻"
       ],
       "title": "SCP-ZH-649 - 補經",
-      "votes": "0"
+      "votes": "1"
    }
 }
