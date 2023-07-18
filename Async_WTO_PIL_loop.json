@@ -9734,10 +9734,16 @@
          "-": []
       },
       "fullname": "foundation-monthly-90",
-      "hidden_tags": [],
+      "hidden_tags": [
+         "_cc",
+         "_禁黑"
+      ],
       "id": "1449069555",
       "rating": "0",
-      "tags": [],
+      "tags": [
+         "合著",
+         "新聞"
+      ],
       "title": "基金會月刊 第090期",
       "votes": "0"
    }
