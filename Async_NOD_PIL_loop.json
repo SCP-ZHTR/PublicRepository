@@ -19636,20 +19636,24 @@
       "created_at": "1689170592",
       "created_by": "3981670",
       "detailed_rating": {
-         "+": [],
-         "-": []
+         "+": [
+            [
+               "5435485",
+               1689679917
+            ]
+         ]
       },
       "fullname": "theme:ad-abyssum",
       "hidden_tags": [],
       "id": "1449009290",
-      "rating": "0",
+      "rating": "1",
       "tags": [
          "en",
          "外觀主題",
          "翻譯"
       ],
       "title": "直至深淵 外觀主題",
-      "votes": "0"
+      "votes": "1"
    },
    "1689252680": {
       "comments": "0",
