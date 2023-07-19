@@ -111012,7 +111012,10 @@
          ]
       },
       "fullname": "scp-3688",
-      "hidden_tags": [],
+      "hidden_tags": [
+         "_cc",
+         "_licensebox"
+      ],
       "id": "1449018190",
       "rating": "4",
       "tags": [
