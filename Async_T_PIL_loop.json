@@ -111128,7 +111128,10 @@
          "-": []
       },
       "fullname": "scp-7727",
-      "hidden_tags": [],
+      "hidden_tags": [
+         "_cc",
+         "_licensebox"
+      ],
       "id": "1449048666",
       "rating": "0",
       "tags": [
