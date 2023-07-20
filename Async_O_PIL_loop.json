@@ -118309,5 +118309,30 @@
       ],
       "title": "SCP-ZH-649 - 補經",
       "votes": "4"
+   },
+   "1689861582": {
+      "comments": "0",
+      "created_at": "1689861582",
+      "created_by": "5415046",
+      "detailed_rating": {
+         "+": [],
+         "-": []
+      },
+      "fullname": "scp-zh-522",
+      "hidden_tags": [],
+      "id": "1449097561",
+      "rating": "0",
+      "tags": [
+         "safe",
+         "scp",
+         "人形",
+         "原創",
+         "屍體",
+         "擬態",
+         "精神影響",
+         "逆模因"
+      ],
+      "title": "SCP-ZH-522 - 腐爛的負擔",
+      "votes": "0"
    }
 }
