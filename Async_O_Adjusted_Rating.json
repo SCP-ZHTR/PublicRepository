@@ -93836,6 +93836,10 @@
       "detailed_rating": {
          "+": [
             [
+               "6503482",
+               1689953411
+            ],
+            [
                "7916187",
                1689836582
             ],
@@ -93929,13 +93933,17 @@
             ]
          ]
       },
-      "justified_rating": 23,
-      "justified_u_count": 23,
+      "justified_rating": 24,
+      "justified_u_count": 24,
       "justified_d_count": 0
    },
    "1689606932": {
       "detailed_rating": {
          "+": [
+            [
+               "6503482",
+               1689953411
+            ],
             [
                "4442284",
                1689925254
@@ -93990,8 +93998,8 @@
             ]
          ]
       },
-      "justified_rating": 13,
-      "justified_u_count": 13,
+      "justified_rating": 14,
+      "justified_u_count": 14,
       "justified_d_count": 0
    },
    "1689609601": {
