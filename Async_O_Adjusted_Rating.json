@@ -94031,13 +94031,11 @@
    },
    "1689861582": {
       "detailed_rating": {
-         "-": [
+         "+": [
             [
                "4442284",
-               1689924520
-            ]
-         ],
-         "+": [
+               1689926969
+            ],
             [
                "8033564",
                1689915376
@@ -94076,8 +94074,8 @@
             ]
          ]
       },
-      "justified_rating": 8,
-      "justified_u_count": 9,
-      "justified_d_count": 1
+      "justified_rating": 10,
+      "justified_u_count": 10,
+      "justified_d_count": 0
    }
 }
