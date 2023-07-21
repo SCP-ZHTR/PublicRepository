@@ -94023,6 +94023,12 @@
    },
    "1689861582": {
       "detailed_rating": {
+         "-": [
+            [
+               "4442284",
+               1689924520
+            ]
+         ],
          "+": [
             [
                "8033564",
@@ -94062,8 +94068,8 @@
             ]
          ]
       },
-      "justified_rating": 9,
+      "justified_rating": 8,
       "justified_u_count": 9,
-      "justified_d_count": 0
+      "justified_d_count": 1
    }
 }
