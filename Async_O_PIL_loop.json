@@ -118469,17 +118469,21 @@
       "created_at": "1690008231",
       "created_by": "8543386",
       "detailed_rating": {
-         "+": [],
-         "-": []
+         "-": [
+            [
+               "8543386",
+               1690009722
+            ]
+         ]
       },
       "fullname": "scp-zh-411",
       "hidden_tags": [],
       "id": "1449110589",
-      "rating": "0",
+      "rating": "-1",
       "tags": [
          "原創"
       ],
       "title": "SCP-ZH-411",
-      "votes": "0"
+      "votes": "1"
    }
 }
