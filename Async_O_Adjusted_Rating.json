@@ -94129,15 +94129,15 @@
    },
    "1690008231": {
       "detailed_rating": {
-         "-": [
+         "+": [
             [
                "8543386",
-               1690009722
+               1690009804
             ]
          ]
       },
-      "justified_rating": -1,
-      "justified_u_count": 0,
-      "justified_d_count": 1
+      "justified_rating": 1,
+      "justified_u_count": 1,
+      "justified_d_count": 0
    }
 }
