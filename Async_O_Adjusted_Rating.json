@@ -64185,6 +64185,10 @@
       "detailed_rating": {
          "+": [
             [
+               "8404617",
+               1690153164
+            ],
+            [
                "6376647",
                1633708800
             ],
@@ -64228,8 +64232,8 @@
             ]
          ]
       },
-      "justified_rating": 8,
-      "justified_u_count": 9,
+      "justified_rating": 9,
+      "justified_u_count": 10,
       "justified_d_count": 1
    },
    "1633360552": {
