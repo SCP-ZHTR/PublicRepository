@@ -111246,5 +111246,29 @@
       ],
       "title": "SCP-1659 - K理事會",
       "votes": "2"
+   },
+   "1690158648": {
+      "comments": "0",
+      "created_at": "1690158648",
+      "created_by": "8033564",
+      "detailed_rating": {
+         "+": [],
+         "-": []
+      },
+      "fullname": "scp-3794",
+      "hidden_tags": [],
+      "id": "1449125835",
+      "rating": "0",
+      "tags": [
+         "en",
+         "safe",
+         "scp",
+         "工具",
+         "翻譯",
+         "變形",
+         "食物"
+      ],
+      "title": "SCP-3794 - 莎莎錘",
+      "votes": "0"
    }
 }
