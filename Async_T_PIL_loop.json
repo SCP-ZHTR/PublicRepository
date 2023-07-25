@@ -111284,13 +111284,17 @@
       "created_at": "1690283095",
       "created_by": "5370805",
       "detailed_rating": {
-         "+": [],
-         "-": []
+         "+": [
+            [
+               "8033564",
+               1690299031
+            ]
+         ]
       },
       "fullname": "scp-7591",
       "hidden_tags": [],
       "id": "1449135942",
-      "rating": "0",
+      "rating": "1",
       "tags": [
          "alex-thorley",
          "en",
@@ -111303,6 +111307,6 @@
          "非現實部"
       ],
       "title": "SCP-7591 - Alex Thorley殺了一個人",
-      "votes": "0"
+      "votes": "1"
    }
 }
