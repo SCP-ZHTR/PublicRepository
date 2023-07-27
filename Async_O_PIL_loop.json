@@ -118542,22 +118542,26 @@
       "created_at": "1690426452",
       "created_by": "4990678",
       "detailed_rating": {
-         "+": [],
-         "-": []
+         "+": [
+            [
+               "4990678",
+               1690427998
+            ]
+         ]
       },
       "fullname": "time-thief-sticker",
       "hidden_tags": [
          "_awcy-goi格式"
       ],
       "id": "1449152924",
-      "rating": "0",
+      "rating": "1",
       "tags": [
          "awcy",
          "goi格式",
          "原創"
       ],
       "title": "項目企劃書 2023-175：《迷失的薪水小偷》",
-      "votes": "0"
+      "votes": "1"
    },
    "1690426752": {
       "comments": "0",
