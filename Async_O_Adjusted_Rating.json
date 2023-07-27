@@ -94184,6 +94184,10 @@
       "detailed_rating": {
          "+": [
             [
+               "5435485",
+               1690430287
+            ],
+            [
                "6104968",
                1690429845
             ],
@@ -94197,21 +94201,25 @@
             ]
          ]
       },
-      "justified_rating": 3,
-      "justified_u_count": 3,
+      "justified_rating": 4,
+      "justified_u_count": 4,
       "justified_d_count": 0
    },
    "1690426752": {
       "detailed_rating": {
          "+": [
             [
+               "5435485",
+               1690430287
+            ],
+            [
                "4990678",
                1690427210
             ]
          ]
       },
-      "justified_rating": 1,
-      "justified_u_count": 1,
+      "justified_rating": 2,
+      "justified_u_count": 2,
       "justified_d_count": 0
    }
 }
