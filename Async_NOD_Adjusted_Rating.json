@@ -1390,6 +1390,10 @@
       "detailed_rating": {
          "+": [
             [
+               "2960074",
+               1690597453
+            ],
+            [
                "6127045",
                1689145478
             ],
@@ -1415,8 +1419,8 @@
             ]
          ]
       },
-      "justified_rating": 6,
-      "justified_u_count": 6,
+      "justified_rating": 7,
+      "justified_u_count": 7,
       "justified_d_count": 0
    },
    "1571217636": {
@@ -5152,6 +5156,12 @@
       },
       "justified_rating": 11,
       "justified_u_count": 11,
+      "justified_d_count": 0
+   },
+   "1626251100": {
+      "detailed_rating": {},
+      "justified_rating": 0,
+      "justified_u_count": 0,
       "justified_d_count": 0
    },
    "1626337429": {
