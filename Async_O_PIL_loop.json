@@ -118874,19 +118874,23 @@
       "created_at": "1690732771",
       "created_by": "6787405",
       "detailed_rating": {
-         "+": [],
-         "-": []
+         "+": [
+            [
+               "5435485",
+               1690734603
+            ]
+         ]
       },
       "fullname": "wynn-village-reconnaissance-mission-description",
       "hidden_tags": [],
       "id": "1449214144",
-      "rating": "0",
+      "rating": "1",
       "tags": [
          "2023夏季競賽",
          "原創",
          "故事"
       ],
       "title": "懷恩村偵察任務說明",
-      "votes": "0"
+      "votes": "1"
    }
 }
