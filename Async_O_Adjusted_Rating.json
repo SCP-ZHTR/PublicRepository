@@ -94254,6 +94254,12 @@
    },
    "1690718766": {
       "detailed_rating": {
+         "+": [
+            [
+               "5237516",
+               1690723352
+            ]
+         ],
          "-": [
             [
                "4264056",
@@ -94261,8 +94267,8 @@
             ]
          ]
       },
-      "justified_rating": -1,
-      "justified_u_count": 0,
+      "justified_rating": 0,
+      "justified_u_count": 1,
       "justified_d_count": 1
    }
 }
