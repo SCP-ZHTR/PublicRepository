@@ -94268,6 +94268,10 @@
       "detailed_rating": {
          "-": [
             [
+               "8452537",
+               1690730884
+            ],
+            [
                "6952002",
                1690728649
             ],
@@ -94291,9 +94295,9 @@
             ]
          ]
       },
-      "justified_rating": -1,
+      "justified_rating": -2,
       "justified_u_count": 2,
-      "justified_d_count": 3
+      "justified_d_count": 4
    },
    "1690729287": {
       "detailed_rating": {
