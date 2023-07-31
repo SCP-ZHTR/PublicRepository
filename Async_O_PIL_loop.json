@@ -118940,6 +118940,10 @@
       "detailed_rating": {
          "+": [
             [
+               "6503482",
+               1690815044
+            ],
+            [
                "6217438",
                1690765505
             ],
@@ -118952,7 +118956,7 @@
       "fullname": "wynn-village-reconnaissance-mission-description",
       "hidden_tags": [],
       "id": "1449214144",
-      "rating": "2",
+      "rating": "3",
       "tags": [
          "2023夏季競賽",
          "int-lorecon2023",
@@ -118962,6 +118966,6 @@
          "瑪瑙盲者聯合"
       ],
       "title": "懷恩村偵察任務說明",
-      "votes": "2"
+      "votes": "3"
    }
 }
