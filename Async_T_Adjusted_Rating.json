@@ -70822,13 +70822,17 @@
       "detailed_rating": {
          "+": [
             [
+               "6503482",
+               1690880569
+            ],
+            [
                "8033564",
                1689596761
             ]
          ]
       },
-      "justified_rating": 1,
-      "justified_u_count": 1,
+      "justified_rating": 2,
+      "justified_u_count": 2,
       "justified_d_count": 0
    },
    "1688591506": {
