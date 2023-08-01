@@ -118804,7 +118804,9 @@
          ]
       },
       "fullname": "scp-zh-662",
-      "hidden_tags": [],
+      "hidden_tags": [
+         "_cc"
+      ],
       "id": "1449213719",
       "rating": "9",
       "tags": [
