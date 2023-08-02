@@ -9708,8 +9708,12 @@
       "created_at": "1689435438",
       "created_by": "4990678",
       "detailed_rating": {
-         "+": [],
-         "-": []
+         "+": [
+            [
+               "7605593",
+               1690957333
+            ]
+         ]
       },
       "fullname": "foundation-monthly-89",
       "hidden_tags": [
@@ -9717,21 +9721,25 @@
          "_禁黑"
       ],
       "id": "1449048301",
-      "rating": "0",
+      "rating": "1",
       "tags": [
          "合著",
          "新聞"
       ],
       "title": "基金會月刊 第089期",
-      "votes": "0"
+      "votes": "1"
    },
    "1689665129": {
       "comments": "0",
       "created_at": "1689665129",
       "created_by": "4990678",
       "detailed_rating": {
-         "+": [],
-         "-": []
+         "+": [
+            [
+               "7605593",
+               1690957333
+            ]
+         ]
       },
       "fullname": "foundation-monthly-90",
       "hidden_tags": [
@@ -9739,12 +9747,12 @@
          "_禁黑"
       ],
       "id": "1449069555",
-      "rating": "0",
+      "rating": "1",
       "tags": [
          "合著",
          "新聞"
       ],
       "title": "基金會月刊 第090期",
-      "votes": "0"
+      "votes": "1"
    }
 }
