@@ -71115,26 +71115,34 @@
       "detailed_rating": {
          "+": [
             [
+               "7504530",
+               1691039624
+            ],
+            [
                "5435485",
                1690733475
             ]
          ]
       },
-      "justified_rating": 1,
-      "justified_u_count": 1,
+      "justified_rating": 2,
+      "justified_u_count": 2,
       "justified_d_count": 0
    },
    "1690631801": {
       "detailed_rating": {
          "+": [
             [
+               "7504530",
+               1691039624
+            ],
+            [
                "5435485",
                1690733559
             ]
          ]
       },
-      "justified_rating": 1,
-      "justified_u_count": 1,
+      "justified_rating": 2,
+      "justified_u_count": 2,
       "justified_d_count": 0
    },
    "1690631893": {
