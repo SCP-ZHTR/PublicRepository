@@ -111565,7 +111565,9 @@
          "-": []
       },
       "fullname": "scp-650",
-      "hidden_tags": [],
+      "hidden_tags": [
+         "_licensebox"
+      ],
       "id": "1449255480",
       "rating": "0",
       "tags": [
