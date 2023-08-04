@@ -94559,6 +94559,10 @@
       "detailed_rating": {
          "+": [
             [
+               "3356098",
+               1691169890
+            ],
+            [
                "8452537",
                1691160437
             ],
@@ -94576,8 +94580,8 @@
             ]
          ]
       },
-      "justified_rating": 4,
-      "justified_u_count": 4,
+      "justified_rating": 5,
+      "justified_u_count": 5,
       "justified_d_count": 0
    }
 }
