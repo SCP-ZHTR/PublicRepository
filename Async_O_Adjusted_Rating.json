@@ -94555,13 +94555,17 @@
       "detailed_rating": {
          "+": [
             [
+               "5435485",
+               1691146261
+            ],
+            [
                "4442284",
                1691146092
             ]
          ]
       },
-      "justified_rating": 1,
-      "justified_u_count": 1,
+      "justified_rating": 2,
+      "justified_u_count": 2,
       "justified_d_count": 0
    }
 }
