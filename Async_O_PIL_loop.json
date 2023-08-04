@@ -119044,13 +119044,17 @@
       "created_at": "1691144591",
       "created_by": "8543386",
       "detailed_rating": {
-         "+": [],
-         "-": []
+         "+": [
+            [
+               "4442284",
+               1691146092
+            ]
+         ]
       },
       "fullname": "scp-zh-538",
       "hidden_tags": [],
       "id": "1449268421",
-      "rating": "0",
+      "rating": "1",
       "tags": [
          "safe",
          "scp",
@@ -119061,6 +119065,6 @@
          "變形"
       ],
       "title": "SCP-ZH-538",
-      "votes": "0"
+      "votes": "1"
    }
 }
