@@ -111561,15 +111561,19 @@
       "created_at": "1691042466",
       "created_by": "8543386",
       "detailed_rating": {
-         "+": [],
-         "-": []
+         "+": [
+            [
+               "8033564",
+               1691167970
+            ]
+         ]
       },
       "fullname": "scp-650",
       "hidden_tags": [
          "_licensebox"
       ],
       "id": "1449255480",
-      "rating": "0",
+      "rating": "1",
       "tags": [
          "en",
          "euclid",
@@ -111581,6 +111585,6 @@
          "雕像"
       ],
       "title": "SCP-650 - 嚇人雕像",
-      "votes": "0"
+      "votes": "1"
    }
 }
