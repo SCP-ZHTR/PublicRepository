@@ -94666,6 +94666,10 @@
       "detailed_rating": {
          "+": [
             [
+               "6503482",
+               1691361679
+            ],
+            [
                "5338547",
                1691352006
             ],
@@ -94707,8 +94711,8 @@
             ]
          ]
       },
-      "justified_rating": 10,
-      "justified_u_count": 10,
+      "justified_rating": 11,
+      "justified_u_count": 11,
       "justified_d_count": 0
    }
 }
