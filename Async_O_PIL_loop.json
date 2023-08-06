@@ -119166,5 +119166,35 @@
       ],
       "title": "SCP-ZH-538 - 歐里軋米",
       "votes": "6"
+   },
+   "1691343317": {
+      "comments": "0",
+      "created_at": "1691343317",
+      "created_by": "5435485",
+      "detailed_rating": {
+         "+": [],
+         "-": []
+      },
+      "fullname": "scp-zh-158",
+      "hidden_tags": [],
+      "id": "1449292820",
+      "rating": "0",
+      "tags": [
+         "safe",
+         "scp",
+         "site-zh-01",
+         "site-zh-13",
+         "site-zh-22",
+         "化學性",
+         "原創",
+         "基金會製造",
+         "毒性",
+         "物種",
+         "生物危害",
+         "神經性",
+         "醫學性"
+      ],
+      "title": "SCP-ZH-158 - 我不信賴普拿疼",
+      "votes": "0"
    }
 }
