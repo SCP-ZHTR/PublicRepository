@@ -93815,6 +93815,12 @@
    },
    "1689422756": {
       "detailed_rating": {
+         "-": [
+            [
+               "4990678",
+               1691384866
+            ]
+         ],
          "+": [
             [
                "8480087",
@@ -93918,9 +93924,9 @@
             ]
          ]
       },
-      "justified_rating": 25,
+      "justified_rating": 24,
       "justified_u_count": 25,
-      "justified_d_count": 0
+      "justified_d_count": 1
    },
    "1689606932": {
       "detailed_rating": {
