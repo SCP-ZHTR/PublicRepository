@@ -15635,6 +15635,22 @@
       "title": "Site-19 維安資料 19.2022.10.31",
       "votes": "6"
    },
+   "1667648846": {
+      "comments": "0",
+      "created_at": "1667648846",
+      "created_by": "7469850",
+      "detailed_rating": {
+         "+": [],
+         "-": []
+      },
+      "fullname": "deleted:bales-s-daily-3",
+      "hidden_tags": [],
+      "id": "1437049984",
+      "rating": "0",
+      "tags": [],
+      "title": "Bales s daily 3",
+      "votes": "0"
+   },
    "1667985008": {
       "comments": "0",
       "created_at": "1667985008",
@@ -15705,6 +15721,22 @@
          "組件"
       ],
       "title": "Tina Colend",
+      "votes": "0"
+   },
+   "1668287586": {
+      "comments": "0",
+      "created_at": "1668287586",
+      "created_by": "7469850",
+      "detailed_rating": {
+         "+": [],
+         "-": []
+      },
+      "fullname": "deleted:forever-heartfelt",
+      "hidden_tags": [],
+      "id": "1437125395",
+      "rating": "0",
+      "tags": [],
+      "title": "Forever heartfelt",
       "votes": "0"
    },
    "1668441237": {
@@ -16040,16 +16072,44 @@
       "created_at": "1672502341",
       "created_by": "7469850",
       "detailed_rating": {
-         "+": [],
-         "-": []
+         "+": [
+            [
+               "7605593",
+               1691422554
+            ],
+            [
+               "8404617",
+               1691422554
+            ],
+            [
+               "8177208",
+               1691422554
+            ],
+            [
+               "5701756",
+               1691422554
+            ],
+            [
+               "7064164",
+               1691422554
+            ],
+            [
+               "6788064",
+               1691422554
+            ],
+            [
+               "5255954",
+               1691422554
+            ]
+         ]
       },
       "fullname": "deleted:are-you-still-in-that-ocean",
       "hidden_tags": [],
       "id": "1444778806",
-      "rating": "0",
+      "rating": "7",
       "tags": [],
       "title": "Are you still in that ocean",
-      "votes": "0"
+      "votes": "7"
    },
    "1672897731": {
       "comments": "1",
@@ -19036,16 +19096,52 @@
       "created_at": "1675595931",
       "created_by": "7469850",
       "detailed_rating": {
-         "+": [],
-         "-": []
+         "+": [
+            [
+               "7605593",
+               1691422554
+            ],
+            [
+               "6503482",
+               1691422554
+            ],
+            [
+               "6217438",
+               1691422554
+            ],
+            [
+               "8177208",
+               1691422554
+            ],
+            [
+               "5701756",
+               1691422554
+            ],
+            [
+               "7064164",
+               1691422554
+            ],
+            [
+               "5415046",
+               1691422554
+            ],
+            [
+               "5338547",
+               1691422554
+            ],
+            [
+               "5454699",
+               1691422554
+            ]
+         ]
       },
       "fullname": "deleted:unfulfilled-invitation",
       "hidden_tags": [],
       "id": "1445894481",
-      "rating": "0",
+      "rating": "9",
       "tags": [],
       "title": "Unfulfilled invitation",
-      "votes": "0"
+      "votes": "9"
    },
    "1675600323": {
       "comments": "0",
