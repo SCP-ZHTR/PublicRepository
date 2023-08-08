@@ -13141,9 +13141,32 @@
       "justified_d_count": 0
    },
    "1567523442": {
-      "detailed_rating": {},
-      "justified_rating": 0,
-      "justified_u_count": 0,
+      "detailed_rating": {
+         "+": [
+            [
+               "5252281",
+               1691480472
+            ],
+            [
+               "5684299",
+               1691480472
+            ],
+            [
+               "5334590",
+               1691480472
+            ],
+            [
+               "4239775",
+               1691480472
+            ],
+            [
+               "4442284",
+               1691480472
+            ]
+         ]
+      },
+      "justified_rating": 5,
+      "justified_u_count": 5,
       "justified_d_count": 0
    },
    "1567761087": {
@@ -13784,9 +13807,36 @@
       "justified_d_count": 0
    },
    "1569424996": {
-      "detailed_rating": {},
-      "justified_rating": 0,
-      "justified_u_count": 0,
+      "detailed_rating": {
+         "+": [
+            [
+               "5956873",
+               1691480472
+            ],
+            [
+               "4990678",
+               1691480472
+            ],
+            [
+               "4128767",
+               1691480472
+            ],
+            [
+               "5435485",
+               1691480472
+            ],
+            [
+               "4239775",
+               1691480472
+            ],
+            [
+               "5415046",
+               1691480472
+            ]
+         ]
+      },
+      "justified_rating": 6,
+      "justified_u_count": 6,
       "justified_d_count": 0
    },
    "1569566763": {
@@ -14107,9 +14157,48 @@
       "justified_d_count": 0
    },
    "1569835990": {
-      "detailed_rating": {},
-      "justified_rating": 0,
-      "justified_u_count": 0,
+      "detailed_rating": {
+         "+": [
+            [
+               "4264056",
+               1691480472
+            ],
+            [
+               "4990678",
+               1691480472
+            ],
+            [
+               "5334590",
+               1691480472
+            ],
+            [
+               "4128767",
+               1691480472
+            ],
+            [
+               "5413616",
+               1691480472
+            ],
+            [
+               "4239775",
+               1691480472
+            ],
+            [
+               "4442284",
+               1691480472
+            ],
+            [
+               "5013754",
+               1691480472
+            ],
+            [
+               "5415046",
+               1691480472
+            ]
+         ]
+      },
+      "justified_rating": 9,
+      "justified_u_count": 9,
       "justified_d_count": 0
    },
    "1570287827": {
@@ -14527,6 +14616,12 @@
       },
       "justified_rating": 20,
       "justified_u_count": 20,
+      "justified_d_count": 0
+   },
+   "1571426629": {
+      "detailed_rating": {},
+      "justified_rating": 0,
+      "justified_u_count": 0,
       "justified_d_count": 0
    },
    "1571497411": {
@@ -15221,6 +15316,12 @@
       "justified_u_count": 0,
       "justified_d_count": 0
    },
+   "1573362747": {
+      "detailed_rating": {},
+      "justified_rating": 0,
+      "justified_u_count": 0,
+      "justified_d_count": 0
+   },
    "1573726338": {
       "detailed_rating": {
          "+": [
@@ -15308,6 +15409,12 @@
       },
       "justified_rating": 20,
       "justified_u_count": 20,
+      "justified_d_count": 0
+   },
+   "1573727797": {
+      "detailed_rating": {},
+      "justified_rating": 0,
+      "justified_u_count": 0,
       "justified_d_count": 0
    },
    "1573796575": {
