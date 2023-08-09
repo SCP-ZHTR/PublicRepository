@@ -111624,13 +111624,17 @@
       "created_at": "1691591911",
       "created_by": "5325850",
       "detailed_rating": {
-         "+": [],
-         "-": []
+         "+": [
+            [
+               "4990678",
+               1691592820
+            ]
+         ]
       },
       "fullname": "midnight-club-hub",
       "hidden_tags": [],
       "id": "1449324979",
-      "rating": "0",
+      "rating": "1",
       "tags": [
          "ko",
          "中心",
@@ -111639,6 +111643,6 @@
          "翻譯"
       ],
       "title": "午夜俱樂部 中心頁",
-      "votes": "0"
+      "votes": "1"
    }
 }
