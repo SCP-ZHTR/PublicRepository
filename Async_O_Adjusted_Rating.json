@@ -89953,6 +89953,10 @@
       "detailed_rating": {
          "+": [
             [
+               "8404617",
+               1691596081
+            ],
+            [
                "4990678",
                1691595675
             ],
@@ -89966,8 +89970,8 @@
             ]
          ]
       },
-      "justified_rating": 3,
-      "justified_u_count": 3,
+      "justified_rating": 4,
+      "justified_u_count": 4,
       "justified_d_count": 0
    }
 }
