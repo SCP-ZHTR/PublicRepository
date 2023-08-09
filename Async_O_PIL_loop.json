@@ -113071,13 +113071,17 @@
       "created_at": "1691593781",
       "created_by": "5435485",
       "detailed_rating": {
-         "+": [],
-         "-": []
+         "+": [
+            [
+               "4264056",
+               1691594688
+            ]
+         ]
       },
       "fullname": "scp-zh-772",
       "hidden_tags": [],
       "id": "1449325287",
-      "rating": "0",
+      "rating": "1",
       "tags": [
          "safe",
          "scp",
@@ -113094,6 +113098,6 @@
          "貓類"
       ],
       "title": "SCP-ZH-772 - 紙箱天使",
-      "votes": "0"
+      "votes": "1"
    }
 }
