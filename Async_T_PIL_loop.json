@@ -111654,15 +111654,19 @@
       "created_at": "1691693431",
       "created_by": "8480087",
       "detailed_rating": {
-         "+": [],
-         "-": []
+         "+": [
+            [
+               "5435485",
+               1691717111
+            ]
+         ]
       },
       "fullname": "scp-5789",
       "hidden_tags": [
          "_licensebox"
       ],
       "id": "1449353129",
-      "rating": "0",
+      "rating": "1",
       "tags": [
          "euclid",
          "meta",
@@ -111675,6 +111679,6 @@
          "電腦"
       ],
       "title": "SCP-𝕐",
-      "votes": "0"
+      "votes": "1"
    }
 }
