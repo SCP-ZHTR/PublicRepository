@@ -113153,18 +113153,22 @@
       "created_at": "1691751840",
       "created_by": "8727726",
       "detailed_rating": {
-         "+": [],
-         "-": []
+         "-": [
+            [
+               "4990678",
+               1691803660
+            ]
+         ]
       },
       "fullname": "scp-zh-020",
       "hidden_tags": [],
       "id": "1449360842",
-      "rating": "0",
+      "rating": "-1",
       "tags": [
          "scp",
          "原創"
       ],
       "title": "SCP-ZH-020",
-      "votes": "0"
+      "votes": "1"
    }
 }
