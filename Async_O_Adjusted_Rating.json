@@ -90018,6 +90018,10 @@
       "detailed_rating": {
          "-": [
             [
+               "5237516",
+               1691882343
+            ],
+            [
                "8452537",
                1691810045
             ],
@@ -90031,8 +90035,8 @@
             ]
          ]
       },
-      "justified_rating": -3,
+      "justified_rating": -4,
       "justified_u_count": 0,
-      "justified_d_count": 3
+      "justified_d_count": 4
    }
 }
