@@ -113157,7 +113157,7 @@
       "votes": "6"
    },
    "1691751840": {
-      "comments": "1",
+      "comments": "2",
       "created_at": "1691751840",
       "created_by": "8727726",
       "detailed_rating": {
@@ -113182,7 +113182,8 @@
       "rating": "-3",
       "tags": [
          "scp",
-         "原創"
+         "原創",
+         "待刪除"
       ],
       "title": "SCP-ZH-020",
       "votes": "3"
