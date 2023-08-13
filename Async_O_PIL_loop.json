@@ -113303,7 +113303,9 @@
          "-": []
       },
       "fullname": "scp-zh-075",
-      "hidden_tags": [],
+      "hidden_tags": [
+         "_禁黑"
+      ],
       "id": "1449383285",
       "rating": "0",
       "tags": [
