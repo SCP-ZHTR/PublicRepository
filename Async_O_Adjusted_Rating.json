@@ -90129,13 +90129,17 @@
       "detailed_rating": {
          "+": [
             [
+               "5435485",
+               1691938610
+            ],
+            [
                "4990678",
                1691937660
             ]
          ]
       },
-      "justified_rating": 1,
-      "justified_u_count": 1,
+      "justified_rating": 2,
+      "justified_u_count": 2,
       "justified_d_count": 0
    }
 }
