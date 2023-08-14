@@ -90190,6 +90190,10 @@
       "detailed_rating": {
          "-": [
             [
+               "6952002",
+               1692027588
+            ],
+            [
                "5251681",
                1692027428
             ],
@@ -90227,8 +90231,8 @@
             ]
          ]
       },
-      "justified_rating": -9,
+      "justified_rating": -10,
       "justified_u_count": 0,
-      "justified_d_count": 9
+      "justified_d_count": 10
    }
 }
