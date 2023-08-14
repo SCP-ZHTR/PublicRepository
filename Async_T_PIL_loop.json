@@ -111753,13 +111753,17 @@
       "created_at": "1691998641",
       "created_by": "7486905",
       "detailed_rating": {
-         "+": [],
-         "-": []
+         "+": [
+            [
+               "5251681",
+               1692013267
+            ]
+         ]
       },
       "fullname": "scp-800",
       "hidden_tags": [],
       "id": "1449387992",
-      "rating": "0",
+      "rating": "1",
       "tags": [
          "en",
          "euclid",
@@ -111770,6 +111774,6 @@
          "藝術性"
       ],
       "title": "SCP-800",
-      "votes": "0"
+      "votes": "1"
    }
 }
