@@ -9788,7 +9788,9 @@
       "hidden_tags": [],
       "id": "1449387992",
       "rating": "0",
-      "tags": [],
+      "tags": [
+         "en"
+      ],
       "title": "SCP-800",
       "votes": "0"
    }
