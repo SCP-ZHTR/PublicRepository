@@ -111743,5 +111743,29 @@
       ],
       "title": "SCP-7785 - 橫緯先生與縱維先生",
       "votes": "5"
+   },
+   "1691998641": {
+      "comments": "0",
+      "created_at": "1691998641",
+      "created_by": "7486905",
+      "detailed_rating": {
+         "+": [],
+         "-": []
+      },
+      "fullname": "scp-800",
+      "hidden_tags": [],
+      "id": "1449387992",
+      "rating": "0",
+      "tags": [
+         "en",
+         "euclid",
+         "scp",
+         "型態變化",
+         "翻譯",
+         "自我修復",
+         "藝術性"
+      ],
+      "title": "SCP-800",
+      "votes": "0"
    }
 }
