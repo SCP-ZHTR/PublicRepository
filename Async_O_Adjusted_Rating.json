@@ -90192,6 +90192,12 @@
    },
    "1692017212": {
       "detailed_rating": {
+         "+": [
+            [
+               "8715420",
+               1692054923
+            ]
+         ],
          "-": [
             [
                "8404617",
@@ -90239,8 +90245,8 @@
             ]
          ]
       },
-      "justified_rating": -11,
-      "justified_u_count": 0,
+      "justified_rating": -10,
+      "justified_u_count": 1,
       "justified_d_count": 11
    },
    "1692033938": {

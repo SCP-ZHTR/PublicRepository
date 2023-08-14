@@ -113380,6 +113380,12 @@
       "created_at": "1692017212",
       "created_by": "8715420",
       "detailed_rating": {
+         "+": [
+            [
+               "8715420",
+               1692054923
+            ]
+         ],
          "-": [
             [
                "5325850",
@@ -113430,13 +113436,13 @@
       "fullname": "scp-zh-1xx",
       "hidden_tags": [],
       "id": "1449389647",
-      "rating": "-11",
+      "rating": "-10",
       "tags": [
          "scp",
          "原創"
       ],
       "title": "Scp zh 1xx",
-      "votes": "11"
+      "votes": "12"
    },
    "1692033938": {
       "comments": "0",
