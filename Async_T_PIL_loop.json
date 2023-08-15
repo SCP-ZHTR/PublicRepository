@@ -111785,13 +111785,17 @@
       "created_at": "1692083747",
       "created_by": "5334590",
       "detailed_rating": {
-         "+": [],
-         "-": []
+         "+": [
+            [
+               "5334590",
+               1692083959
+            ]
+         ]
       },
       "fullname": "welcome-to-dreamland",
       "hidden_tags": [],
       "id": "1449396103",
-      "rating": "0",
+      "rating": "1",
       "tags": [
          "creepypasta",
          "故事",
@@ -111799,6 +111803,6 @@
          "翻譯"
       ],
       "title": "歡迎蒞臨夢幻島",
-      "votes": "0"
+      "votes": "1"
    }
 }
