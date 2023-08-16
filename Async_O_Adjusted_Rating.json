@@ -37546,6 +37546,10 @@
       "detailed_rating": {
          "-": [
             [
+               "5415046",
+               1692186507
+            ],
+            [
                "5325850",
                1692183986
             ],
@@ -37597,9 +37601,9 @@
             ]
          ]
       },
-      "justified_rating": -2,
+      "justified_rating": -3,
       "justified_u_count": 5,
-      "justified_d_count": 7
+      "justified_d_count": 8
    },
    "1598605149": {
       "detailed_rating": {
