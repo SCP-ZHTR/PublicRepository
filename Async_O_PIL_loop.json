@@ -113557,19 +113557,23 @@
       "created_at": "1692199929",
       "created_by": "4291435",
       "detailed_rating": {
-         "+": [],
-         "-": []
+         "+": [
+            [
+               "5435485",
+               1692201569
+            ]
+         ]
       },
       "fullname": "scp-zh-990",
       "hidden_tags": [],
       "id": "1449410166",
-      "rating": "0",
+      "rating": "1",
       "tags": [
          "keter",
          "scp",
          "原創"
       ],
-      "title": "SCP-ZH-990",
-      "votes": "0"
+      "title": "SCP-ZH-990 - 白色診療",
+      "votes": "1"
    }
 }
