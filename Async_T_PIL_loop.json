@@ -111826,13 +111826,17 @@
       "created_at": "1692288241",
       "created_by": "5370805",
       "detailed_rating": {
-         "+": [],
-         "-": []
+         "+": [
+            [
+               "4990678",
+               1692288991
+            ]
+         ]
       },
       "fullname": "fair-play",
       "hidden_tags": [],
       "id": "1449424072",
-      "rating": "0",
+      "rating": "1",
       "tags": [
          "doctor-elstrom",
          "en",
@@ -111842,6 +111846,6 @@
          "翻譯"
       ],
       "title": "公平的一局",
-      "votes": "0"
+      "votes": "1"
    }
 }
