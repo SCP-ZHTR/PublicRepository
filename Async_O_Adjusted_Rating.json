@@ -90324,13 +90324,17 @@
       "detailed_rating": {
          "+": [
             [
+               "8543386",
+               1692362916
+            ],
+            [
                "4990678",
                1692362560
             ]
          ]
       },
-      "justified_rating": 1,
-      "justified_u_count": 1,
+      "justified_rating": 2,
+      "justified_u_count": 2,
       "justified_d_count": 0
    }
 }
