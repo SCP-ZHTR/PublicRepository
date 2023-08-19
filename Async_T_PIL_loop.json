@@ -111905,7 +111905,9 @@
          ]
       },
       "fullname": "scp-045-int",
-      "hidden_tags": [],
+      "hidden_tags": [
+         "_禁黑"
+      ],
       "id": "1449424953",
       "rating": "7",
       "tags": [
