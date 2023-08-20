@@ -113611,13 +113611,17 @@
       "created_at": "1692538203",
       "created_by": "4264056",
       "detailed_rating": {
-         "+": [],
-         "-": []
+         "+": [
+            [
+               "5338547",
+               1692539224
+            ]
+         ]
       },
       "fullname": "fleeting",
       "hidden_tags": [],
       "id": "1449439935",
-      "rating": "0",
+      "rating": "1",
       "tags": [
          "wanderers",
          "原創",
@@ -113625,6 +113629,6 @@
          "故事"
       ],
       "title": "轉瞬即逝",
-      "votes": "0"
+      "votes": "1"
    }
 }
