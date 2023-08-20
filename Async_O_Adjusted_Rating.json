@@ -90340,6 +90340,10 @@
       "detailed_rating": {
          "+": [
             [
+               "7571354",
+               1692545708
+            ],
+            [
                "5435485",
                1692366830
             ],
@@ -90353,21 +90357,25 @@
             ]
          ]
       },
-      "justified_rating": 3,
-      "justified_u_count": 3,
+      "justified_rating": 4,
+      "justified_u_count": 4,
       "justified_d_count": 0
    },
    "1692538203": {
       "detailed_rating": {
          "+": [
             [
+               "7571354",
+               1692545708
+            ],
+            [
                "5338547",
                1692539224
             ]
          ]
       },
-      "justified_rating": 1,
-      "justified_u_count": 1,
+      "justified_rating": 2,
+      "justified_u_count": 2,
       "justified_d_count": 0
    }
 }
