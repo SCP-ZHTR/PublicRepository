@@ -5788,13 +5788,17 @@
       "detailed_rating": {
          "+": [
             [
+               "4990678",
+               1692626118
+            ],
+            [
                "8480087",
                1691778252
             ]
          ]
       },
-      "justified_rating": 1,
-      "justified_u_count": 1,
+      "justified_rating": 2,
+      "justified_u_count": 2,
       "justified_d_count": 0
    }
 }
