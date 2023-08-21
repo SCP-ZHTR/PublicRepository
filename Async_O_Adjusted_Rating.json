@@ -90234,6 +90234,12 @@
    },
    "1692619804": {
       "detailed_rating": {
+         "+": [
+            [
+               "7521095",
+               1692621295
+            ]
+         ],
          "-": [
             [
                "5237516",
@@ -90241,8 +90247,8 @@
             ]
          ]
       },
-      "justified_rating": -1,
-      "justified_u_count": 0,
+      "justified_rating": 0,
+      "justified_u_count": 1,
       "justified_d_count": 1
    }
 }
