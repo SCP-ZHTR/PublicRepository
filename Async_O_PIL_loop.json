@@ -113535,5 +113535,29 @@
       ],
       "title": "SCP-ZH-365 - 一艘飛船",
       "votes": "11"
+   },
+   "1692716469": {
+      "comments": "0",
+      "created_at": "1692716469",
+      "created_by": "5325850",
+      "detailed_rating": {
+         "+": [],
+         "-": []
+      },
+      "fullname": "scp-zh-923",
+      "hidden_tags": [],
+      "id": "1449482734",
+      "rating": "0",
+      "tags": [
+         "keter",
+         "meta",
+         "scp",
+         "原創",
+         "概念",
+         "蜂巢思維",
+         "認知危害"
+      ],
+      "title": "奇聞軼事：《只有你能看見的老鼠》",
+      "votes": "0"
    }
 }
