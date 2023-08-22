@@ -111785,7 +111785,9 @@
          ]
       },
       "fullname": "scp-800",
-      "hidden_tags": [],
+      "hidden_tags": [
+         "_image"
+      ],
       "id": "1449387992",
       "rating": "1",
       "tags": [
