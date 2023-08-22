@@ -111656,7 +111656,9 @@
          ]
       },
       "fullname": "midnight-club-hub",
-      "hidden_tags": [],
+      "hidden_tags": [
+         "_cc"
+      ],
       "id": "1449324979",
       "rating": "3",
       "tags": [
