@@ -113261,7 +113261,9 @@
          ]
       },
       "fullname": "underground-city-date",
-      "hidden_tags": [],
+      "hidden_tags": [
+         "_cc"
+      ],
       "id": "1449391715",
       "rating": "15",
       "tags": [
