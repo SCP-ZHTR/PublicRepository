@@ -113518,7 +113518,9 @@
          ]
       },
       "fullname": "scp-zh-365",
-      "hidden_tags": [],
+      "hidden_tags": [
+         "_cc"
+      ],
       "id": "1449447050",
       "rating": "9",
       "tags": [
@@ -113527,7 +113529,7 @@
          "site-zh-16",
          "原創"
       ],
-      "title": "SCP-ZH-365",
+      "title": "SCP-ZH-365 - 一艘飛船",
       "votes": "11"
    }
 }
