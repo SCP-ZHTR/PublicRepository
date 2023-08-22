@@ -111836,7 +111836,10 @@
          ]
       },
       "fullname": "welcome-to-dreamland",
-      "hidden_tags": [],
+      "hidden_tags": [
+         "_cc",
+         "_licensebox"
+      ],
       "id": "1449396103",
       "rating": "6",
       "tags": [
