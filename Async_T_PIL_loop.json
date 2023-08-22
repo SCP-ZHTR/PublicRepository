@@ -111872,7 +111872,10 @@
          ]
       },
       "fullname": "fair-play",
-      "hidden_tags": [],
+      "hidden_tags": [
+         "_cc",
+         "_licensebox"
+      ],
       "id": "1449424072",
       "rating": "3",
       "tags": [
@@ -111924,6 +111927,8 @@
       },
       "fullname": "scp-045-int",
       "hidden_tags": [
+         "_cc",
+         "_licensebox",
          "_禁黑"
       ],
       "id": "1449424953",
@@ -111962,7 +111967,9 @@
          "-": []
       },
       "fullname": "tearing-down",
-      "hidden_tags": [],
+      "hidden_tags": [
+         "_licensebox"
+      ],
       "id": "1449446589",
       "rating": "0",
       "tags": [
