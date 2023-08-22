@@ -113303,7 +113303,9 @@
          ]
       },
       "fullname": "scp-zh-990",
-      "hidden_tags": [],
+      "hidden_tags": [
+         "_cc"
+      ],
       "id": "1449410166",
       "rating": "4",
       "tags": [
