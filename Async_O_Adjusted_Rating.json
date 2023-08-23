@@ -90112,6 +90112,14 @@
       "detailed_rating": {
          "+": [
             [
+               "4264056",
+               1692802720
+            ],
+            [
+               "6503482",
+               1692802720
+            ],
+            [
                "6709715",
                1692261787
             ],
@@ -90129,8 +90137,8 @@
             ]
          ]
       },
-      "justified_rating": 4,
-      "justified_u_count": 4,
+      "justified_rating": 6,
+      "justified_u_count": 6,
       "justified_d_count": 0
    },
    "1692246209": {
