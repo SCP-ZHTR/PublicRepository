@@ -9787,15 +9787,21 @@
       "created_at": "1692770528",
       "created_by": "6709715",
       "detailed_rating": {
-         "+": [],
-         "-": []
+         "+": [
+            [
+               "7521095",
+               1692770954
+            ]
+         ]
       },
       "fullname": "adev-drafaski-lol",
       "hidden_tags": [],
       "id": "1449487566",
-      "rating": "0",
-      "tags": [],
+      "rating": "1",
+      "tags": [
+         "作者頁面"
+      ],
       "title": "這絕對是一個作者頁",
-      "votes": "0"
+      "votes": "1"
    }
 }
