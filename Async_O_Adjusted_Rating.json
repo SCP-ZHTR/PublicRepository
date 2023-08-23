@@ -90385,9 +90385,24 @@
       "justified_d_count": 0
    },
    "1692809229": {
-      "detailed_rating": {},
-      "justified_rating": 0,
-      "justified_u_count": 0,
+      "detailed_rating": {
+         "+": [
+            [
+               "5325850",
+               1692809603
+            ],
+            [
+               "6952002",
+               1692809603
+            ],
+            [
+               "8480087",
+               1692809603
+            ]
+         ]
+      },
+      "justified_rating": 3,
+      "justified_u_count": 3,
       "justified_d_count": 0
    }
 }
