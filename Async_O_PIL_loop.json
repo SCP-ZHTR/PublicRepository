@@ -113710,5 +113710,24 @@
       ],
       "title": "圖像記錄：《只有我能看見的老鼠》",
       "votes": "11"
+   },
+   "1692844778": {
+      "comments": "0",
+      "created_at": "1692844778",
+      "created_by": "5013754",
+      "detailed_rating": {
+         "+": [],
+         "-": []
+      },
+      "fullname": "scp-zh-923-declassification",
+      "hidden_tags": [],
+      "id": "1449534612",
+      "rating": "0",
+      "tags": [
+         "原創",
+         "用戶解密"
+      ],
+      "title": "外部解密：《只有你能看見的老鼠》",
+      "votes": "0"
    }
 }
