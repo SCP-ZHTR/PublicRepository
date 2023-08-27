@@ -90570,13 +90570,17 @@
       "detailed_rating": {
          "+": [
             [
+               "8452537",
+               1693113748
+            ],
+            [
                "5435485",
                1693109427
             ]
          ]
       },
-      "justified_rating": 1,
-      "justified_u_count": 1,
+      "justified_rating": 2,
+      "justified_u_count": 2,
       "justified_d_count": 0
    }
 }
