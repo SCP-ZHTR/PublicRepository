@@ -12363,6 +12363,12 @@
    },
    "1577717151": {
       "detailed_rating": {
+         "-": [
+            [
+               "5729454",
+               1693101920
+            ]
+         ],
          "+": [
             [
                "8640626",
@@ -12410,10 +12416,6 @@
             ],
             [
                "5344757",
-               1617120000
-            ],
-            [
-               "5729454",
                1617120000
             ],
             [
@@ -12498,9 +12500,9 @@
             ]
          ]
       },
-      "justified_rating": 33,
-      "justified_u_count": 33,
-      "justified_d_count": 0
+      "justified_rating": 31,
+      "justified_u_count": 32,
+      "justified_d_count": 1
    },
    "1577798761": {
       "detailed_rating": {
