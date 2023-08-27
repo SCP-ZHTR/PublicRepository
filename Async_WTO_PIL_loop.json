@@ -9813,17 +9813,25 @@
       "created_at": "1692977504",
       "created_by": "7655555",
       "detailed_rating": {
-         "+": [],
-         "-": []
+         "+": [
+            [
+               "7521095",
+               1693115354
+            ],
+            [
+               "8480087",
+               1693115354
+            ]
+         ]
       },
       "fullname": "fallen-truth",
       "hidden_tags": [],
       "id": "1449559842",
-      "rating": "0",
+      "rating": "2",
       "tags": [
          "作者頁面"
       ],
       "title": "憑虛地",
-      "votes": "0"
+      "votes": "2"
    }
 }
