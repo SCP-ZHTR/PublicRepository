@@ -9851,17 +9851,21 @@
       "created_at": "1693249769",
       "created_by": "8136462",
       "detailed_rating": {
-         "+": [],
-         "-": []
+         "+": [
+            [
+               "4990678",
+               1693251881
+            ]
+         ]
       },
       "fullname": "surprising-mars",
       "hidden_tags": [],
       "id": "1449604618",
-      "rating": "0",
+      "rating": "1",
       "tags": [
          "作者頁面"
       ],
       "title": "紙貓貓的火星基地",
-      "votes": "0"
+      "votes": "1"
    }
 }
