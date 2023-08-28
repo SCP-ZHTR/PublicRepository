@@ -9847,15 +9847,19 @@
       "created_at": "1693228852",
       "created_by": "4442284",
       "detailed_rating": {
-         "+": [],
-         "-": []
+         "+": [
+            [
+               "4442284",
+               1693229238
+            ]
+         ]
       },
       "fullname": "scp-zh-742",
       "hidden_tags": [],
       "id": "1449603229",
-      "rating": "0",
+      "rating": "1",
       "tags": [],
       "title": "SCP-ZH-742 - 我愛你們倆",
-      "votes": "0"
+      "votes": "1"
    }
 }

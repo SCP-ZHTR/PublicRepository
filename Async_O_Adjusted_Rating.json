@@ -90590,6 +90590,10 @@
       "detailed_rating": {
          "+": [
             [
+               "4442284",
+               1693229214
+            ],
+            [
                "7064164",
                1693148341
             ],
@@ -90603,13 +90607,17 @@
             ]
          ]
       },
-      "justified_rating": 3,
-      "justified_u_count": 3,
+      "justified_rating": 4,
+      "justified_u_count": 4,
       "justified_d_count": 0
    },
    "1693156286": {
       "detailed_rating": {
          "+": [
+            [
+               "4442284",
+               1693229214
+            ],
             [
                "5013754",
                1693224948
@@ -90648,8 +90656,8 @@
             ]
          ]
       },
-      "justified_rating": 9,
-      "justified_u_count": 9,
+      "justified_rating": 10,
+      "justified_u_count": 10,
       "justified_d_count": 0
    }
 }
