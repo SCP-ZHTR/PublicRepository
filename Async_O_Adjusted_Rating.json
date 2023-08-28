@@ -90615,6 +90615,10 @@
       "detailed_rating": {
          "+": [
             [
+               "8480087",
+               1693233787
+            ],
+            [
                "4442284",
                1693229214
             ],
@@ -90656,21 +90660,25 @@
             ]
          ]
       },
-      "justified_rating": 10,
-      "justified_u_count": 10,
+      "justified_rating": 11,
+      "justified_u_count": 11,
       "justified_d_count": 0
    },
    "1693228852": {
       "detailed_rating": {
          "+": [
             [
+               "5435485",
+               1693233787
+            ],
+            [
                "4442284",
                1693233214
             ]
          ]
       },
-      "justified_rating": 1,
-      "justified_u_count": 1,
+      "justified_rating": 2,
+      "justified_u_count": 2,
       "justified_d_count": 0
    }
 }
