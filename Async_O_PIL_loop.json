@@ -113967,7 +113967,9 @@
          ]
       },
       "fullname": "scp-zh-722",
-      "hidden_tags": [],
+      "hidden_tags": [
+         "_cc"
+      ],
       "id": "1449585840",
       "rating": "12",
       "tags": [
