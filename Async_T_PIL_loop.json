@@ -112026,10 +112026,13 @@
          "-": []
       },
       "fullname": "scp-3487",
-      "hidden_tags": [],
+      "hidden_tags": [
+         "_licensebox"
+      ],
       "id": "1449564790",
       "rating": "0",
       "tags": [
+         "en",
          "keter",
          "k級情景",
          "scp",
