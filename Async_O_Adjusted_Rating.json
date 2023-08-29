@@ -90812,6 +90812,10 @@
       "detailed_rating": {
          "+": [
             [
+               "4990678",
+               1693326601
+            ],
+            [
                "5370805",
                1693326241
             ],
@@ -90829,8 +90833,8 @@
             ]
          ]
       },
-      "justified_rating": 4,
-      "justified_u_count": 4,
+      "justified_rating": 5,
+      "justified_u_count": 5,
       "justified_d_count": 0
    }
 }

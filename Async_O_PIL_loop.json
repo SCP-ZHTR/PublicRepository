@@ -114180,11 +114180,15 @@
       "votes": "6"
    },
    "1693324216": {
-      "comments": "0",
+      "comments": "1",
       "created_at": "1693324216",
       "created_by": "5435485",
       "detailed_rating": {
          "+": [
+            [
+               "4990678",
+               1693326601
+            ],
             [
                "7605593",
                1693325176
@@ -114206,7 +114210,7 @@
       "fullname": "queen-of-farangaw",
       "hidden_tags": [],
       "id": "1449609135",
-      "rating": "4",
+      "rating": "5",
       "tags": [
          "cidal-dongi",
          "原創",
@@ -114215,6 +114219,6 @@
          "燦藍天穹"
       ],
       "title": "馬蘭女王",
-      "votes": "4"
+      "votes": "5"
    }
 }
