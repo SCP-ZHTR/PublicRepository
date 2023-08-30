@@ -71466,13 +71466,17 @@
       "detailed_rating": {
          "+": [
             [
+               "5435485",
+               1693372543
+            ],
+            [
                "7504530",
                1693333621
             ]
          ]
       },
-      "justified_rating": 1,
-      "justified_u_count": 1,
+      "justified_rating": 2,
+      "justified_u_count": 2,
       "justified_d_count": 0
    },
    "1693036134": {
@@ -71506,6 +71510,10 @@
       "detailed_rating": {
          "+": [
             [
+               "5435485",
+               1693372543
+            ],
+            [
                "3981670",
                1693314174
             ],
@@ -71527,8 +71535,8 @@
             ]
          ]
       },
-      "justified_rating": 5,
-      "justified_u_count": 5,
+      "justified_rating": 6,
+      "justified_u_count": 6,
       "justified_d_count": 0
    }
 }
