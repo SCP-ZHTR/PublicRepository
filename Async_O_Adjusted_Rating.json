@@ -90768,13 +90768,11 @@
    },
    "1693317600": {
       "detailed_rating": {
-         "-": [
-            [
-               "5435485",
-               1693326958
-            ]
-         ],
          "+": [
+            [
+               "4442284",
+               1693355060
+            ],
             [
                "7605593",
                1693322660
@@ -90783,15 +90781,25 @@
                "6503482",
                1693321941
             ]
+         ],
+         "-": [
+            [
+               "5435485",
+               1693326958
+            ]
          ]
       },
-      "justified_rating": 1,
-      "justified_u_count": 2,
+      "justified_rating": 2,
+      "justified_u_count": 3,
       "justified_d_count": 1
    },
    "1693319819": {
       "detailed_rating": {
          "+": [
+            [
+               "4442284",
+               1693355060
+            ],
             [
                "5338547",
                1693329087
@@ -90822,8 +90830,8 @@
             ]
          ]
       },
-      "justified_rating": 7,
-      "justified_u_count": 7,
+      "justified_rating": 8,
+      "justified_u_count": 8,
       "justified_d_count": 0
    },
    "1693324216": {
