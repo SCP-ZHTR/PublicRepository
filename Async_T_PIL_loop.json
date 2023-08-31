@@ -112200,13 +112200,17 @@
       "created_at": "1693508895",
       "created_by": "5334590",
       "detailed_rating": {
-         "+": [],
-         "-": []
+         "+": [
+            [
+               "5334590",
+               1693509184
+            ]
+         ]
       },
       "fullname": "sunday-dinner",
       "hidden_tags": [],
       "id": "1449734356",
-      "rating": "0",
+      "rating": "1",
       "tags": [
          "creepypasta",
          "故事",
@@ -112214,6 +112218,6 @@
          "翻譯"
       ],
       "title": "直面錄像：周末晚餐",
-      "votes": "0"
+      "votes": "1"
    }
 }
