@@ -91014,13 +91014,17 @@
       "detailed_rating": {
          "+": [
             [
+               "4990678",
+               1693526089
+            ],
+            [
                "8404617",
                1693525350
             ]
          ]
       },
-      "justified_rating": 1,
-      "justified_u_count": 1,
+      "justified_rating": 2,
+      "justified_u_count": 2,
       "justified_d_count": 0
    }
 }

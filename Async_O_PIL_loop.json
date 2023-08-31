@@ -114413,11 +114413,15 @@
       "votes": "9"
    },
    "1693497580": {
-      "comments": "0",
+      "comments": "1",
       "created_at": "1693497580",
       "created_by": "6693418",
       "detailed_rating": {
          "+": [
+            [
+               "4990678",
+               1693526089
+            ],
             [
                "8404617",
                1693525350
@@ -114427,13 +114431,13 @@
       "fullname": "scp-zh-660",
       "hidden_tags": [],
       "id": "1449653509",
-      "rating": "1",
+      "rating": "2",
       "tags": [
          "euclid",
          "scp",
          "原創"
       ],
       "title": "SCP-ZH-660",
-      "votes": "1"
+      "votes": "2"
    }
 }
