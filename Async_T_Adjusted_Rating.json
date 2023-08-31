@@ -71547,13 +71547,17 @@
       "detailed_rating": {
          "+": [
             [
+               "8033564",
+               1693501633
+            ],
+            [
                "7521095",
                1693495553
             ]
          ]
       },
-      "justified_rating": 1,
-      "justified_u_count": 1,
+      "justified_rating": 2,
+      "justified_u_count": 2,
       "justified_d_count": 0
    }
 }
