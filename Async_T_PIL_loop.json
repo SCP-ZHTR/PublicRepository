@@ -112158,17 +112158,21 @@
       "votes": "6"
    },
    "1693493009": {
-      "comments": "0",
+      "comments": "1",
       "created_at": "1693493009",
       "created_by": "6709715",
       "detailed_rating": {
-         "+": [],
-         "-": []
+         "+": [
+            [
+               "7521095",
+               1693495553
+            ]
+         ]
       },
       "fullname": "tanhony-s-proposal-ii",
       "hidden_tags": [],
       "id": "1449652626",
-      "rating": "0",
+      "rating": "1",
       "tags": [
          "001提案",
          "en",
@@ -112185,6 +112189,6 @@
          "變形"
       ],
       "title": "Tanhony的提案之二",
-      "votes": "0"
+      "votes": "1"
    }
 }
