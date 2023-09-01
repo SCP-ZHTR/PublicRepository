@@ -91020,6 +91020,12 @@
    },
    "1693497580": {
       "detailed_rating": {
+         "-": [
+            [
+               "7827462",
+               1693532873
+            ]
+         ],
          "+": [
             [
                "5435485",
@@ -91039,8 +91045,8 @@
             ]
          ]
       },
-      "justified_rating": 4,
+      "justified_rating": 3,
       "justified_u_count": 4,
-      "justified_d_count": 0
+      "justified_d_count": 1
    }
 }
