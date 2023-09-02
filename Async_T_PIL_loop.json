@@ -112254,6 +112254,7 @@
       },
       "fullname": "scp-7471",
       "hidden_tags": [
+         "_licensebox",
          "_禁黑"
       ],
       "id": "1449830106",
@@ -112266,6 +112267,7 @@
          "宗教",
          "強迫性",
          "性",
+         "成人內容",
          "敵意",
          "智能",
          "未收容",
@@ -112288,7 +112290,9 @@
          "-": []
       },
       "fullname": "scp-tintin-j",
-      "hidden_tags": [],
+      "hidden_tags": [
+         "_licensebox"
+      ],
       "id": "1449830108",
       "rating": "0",
       "tags": [
