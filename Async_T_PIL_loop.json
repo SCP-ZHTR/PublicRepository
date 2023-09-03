@@ -112366,5 +112366,30 @@
       ],
       "title": "SCP-966 - 弑眠人",
       "votes": "0"
+   },
+   "1693740660": {
+      "comments": "0",
+      "created_at": "1693740660",
+      "created_by": "8033564",
+      "detailed_rating": {
+         "+": [],
+         "-": []
+      },
+      "fullname": "scp-5195",
+      "hidden_tags": [],
+      "id": "1449842707",
+      "rating": "0",
+      "tags": [
+         "en",
+         "euclid",
+         "scp",
+         "人造物品",
+         "地質",
+         "球體",
+         "翻譯",
+         "銘文"
+      ],
+      "title": "SCP-5195 - 花式射擊",
+      "votes": "0"
    }
 }
