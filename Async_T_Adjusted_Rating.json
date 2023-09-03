@@ -63807,12 +63807,12 @@
       "detailed_rating": {
          "+": [
             [
-               "6503482",
-               1673971200
+               "7605593",
+               1693709719
             ],
             [
-               "7469850",
-               1673366400
+               "6503482",
+               1673971200
             ],
             [
                "6217438",
@@ -68734,6 +68734,10 @@
       "detailed_rating": {
          "+": [
             [
+               "7605593",
+               1693709719
+            ],
+            [
                "6503482",
                1682755770
             ],
@@ -68743,8 +68747,8 @@
             ]
          ]
       },
-      "justified_rating": 2,
-      "justified_u_count": 2,
+      "justified_rating": 3,
+      "justified_u_count": 3,
       "justified_d_count": 0
    },
    "1682516590": {
@@ -71488,9 +71492,16 @@
       "justified_d_count": 0
    },
    "1693036134": {
-      "detailed_rating": {},
-      "justified_rating": 0,
-      "justified_u_count": 0,
+      "detailed_rating": {
+         "+": [
+            [
+               "7605593",
+               1693709719
+            ]
+         ]
+      },
+      "justified_rating": 1,
+      "justified_u_count": 1,
       "justified_d_count": 0
    },
    "1693137460": {
@@ -71601,19 +71612,30 @@
       "detailed_rating": {
          "+": [
             [
+               "7605593",
+               1693709719
+            ],
+            [
                "7504530",
                1693641002
             ]
          ]
       },
-      "justified_rating": 1,
-      "justified_u_count": 1,
+      "justified_rating": 2,
+      "justified_u_count": 2,
       "justified_d_count": 0
    },
    "1693632308": {
-      "detailed_rating": {},
-      "justified_rating": 0,
-      "justified_u_count": 0,
+      "detailed_rating": {
+         "+": [
+            [
+               "7605593",
+               1693709719
+            ]
+         ]
+      },
+      "justified_rating": 1,
+      "justified_u_count": 1,
       "justified_d_count": 0
    },
    "1693659206": {
