@@ -112436,5 +112436,30 @@
       ],
       "title": "SCP-PL-380 - Be Nꙮt Afraid",
       "votes": "0"
+   },
+   "1693748014": {
+      "comments": "0",
+      "created_at": "1693748014",
+      "created_by": "7504530",
+      "detailed_rating": {
+         "+": [],
+         "-": []
+      },
+      "fullname": "scp-1984",
+      "hidden_tags": [],
+      "id": "1449843232",
+      "rating": "0",
+      "tags": [
+         "en",
+         "keter",
+         "scp",
+         "敵意",
+         "無定形",
+         "無形",
+         "神經性",
+         "翻譯"
+      ],
+      "title": "SCP-1984-死神之手",
+      "votes": "0"
    }
 }
