@@ -112461,5 +112461,23 @@
       ],
       "title": "SCP-1984 - 死神之手",
       "votes": "0"
+   },
+   "1693754009": {
+      "comments": "0",
+      "created_at": "1693754009",
+      "created_by": "7918431",
+      "detailed_rating": {
+         "+": [],
+         "-": []
+      },
+      "fullname": "scp-6017",
+      "hidden_tags": [],
+      "id": "1449843654",
+      "rating": "0",
+      "tags": [
+         "翻譯"
+      ],
+      "title": "SCP-6017 - 僅是小測驗？",
+      "votes": "0"
    }
 }
