@@ -71612,6 +71612,10 @@
       "detailed_rating": {
          "+": [
             [
+               "8033564",
+               1693722200
+            ],
+            [
                "7605593",
                1693709719
             ],
@@ -71621,8 +71625,8 @@
             ]
          ]
       },
-      "justified_rating": 2,
-      "justified_u_count": 2,
+      "justified_rating": 3,
+      "justified_u_count": 3,
       "justified_d_count": 0
    },
    "1693632308": {
