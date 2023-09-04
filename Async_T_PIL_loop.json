@@ -112413,13 +112413,17 @@
       "created_at": "1693743551",
       "created_by": "4357011",
       "detailed_rating": {
-         "+": [],
-         "-": []
+         "+": [
+            [
+               "5334590",
+               1693811677
+            ]
+         ]
       },
       "fullname": "scp-pl-380",
       "hidden_tags": [],
       "id": "1449842993",
-      "rating": "0",
+      "rating": "1",
       "tags": [
          "pl",
          "scp",
@@ -112439,7 +112443,7 @@
          "誤傳部"
       ],
       "title": "SCP-PL-380 - Be Nꙮt Afraid",
-      "votes": "0"
+      "votes": "1"
    },
    "1693748014": {
       "comments": "0",
