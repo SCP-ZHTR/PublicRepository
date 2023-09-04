@@ -112493,13 +112493,17 @@
       "created_at": "1693762070",
       "created_by": "8452537",
       "detailed_rating": {
-         "+": [],
-         "-": []
+         "+": [
+            [
+               "8033564",
+               1693791143
+            ]
+         ]
       },
       "fullname": "scp-372",
       "hidden_tags": [],
       "id": "1449844949",
-      "rating": "0",
+      "rating": "1",
       "tags": [
          "en",
          "euclid",
@@ -112510,6 +112514,6 @@
          "預測性"
       ],
       "title": "SCP-372",
-      "votes": "0"
+      "votes": "1"
    }
 }
