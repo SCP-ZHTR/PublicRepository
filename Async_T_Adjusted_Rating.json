@@ -71574,6 +71574,10 @@
       "detailed_rating": {
          "+": [
             [
+               "4442284",
+               1693822369
+            ],
+            [
                "1360122",
                1693558109
             ],
@@ -71587,13 +71591,17 @@
             ]
          ]
       },
-      "justified_rating": 3,
-      "justified_u_count": 3,
+      "justified_rating": 4,
+      "justified_u_count": 4,
       "justified_d_count": 0
    },
    "1693508895": {
       "detailed_rating": {
          "+": [
+            [
+               "4442284",
+               1693822369
+            ],
             [
                "5435485",
                1693528436
@@ -71612,8 +71620,8 @@
             ]
          ]
       },
-      "justified_rating": 4,
-      "justified_u_count": 4,
+      "justified_rating": 5,
+      "justified_u_count": 5,
       "justified_d_count": 0
    },
    "1693632303": {
@@ -71660,6 +71668,10 @@
       "detailed_rating": {
          "+": [
             [
+               "4442284",
+               1693822369
+            ],
+            [
                "8033564",
                1693742200
             ],
@@ -71669,21 +71681,25 @@
             ]
          ]
       },
-      "justified_rating": 2,
-      "justified_u_count": 2,
+      "justified_rating": 3,
+      "justified_u_count": 3,
       "justified_d_count": 0
    },
    "1693743551": {
       "detailed_rating": {
          "+": [
             [
+               "4442284",
+               1693822369
+            ],
+            [
                "5334590",
                1693811677
             ]
          ]
       },
-      "justified_rating": 1,
-      "justified_u_count": 1,
+      "justified_rating": 2,
+      "justified_u_count": 2,
       "justified_d_count": 0
    },
    "1693748014": {
@@ -71696,13 +71712,17 @@
       "detailed_rating": {
          "+": [
             [
+               "4442284",
+               1693822369
+            ],
+            [
                "7504530",
                1693756203
             ]
          ]
       },
-      "justified_rating": 1,
-      "justified_u_count": 1,
+      "justified_rating": 2,
+      "justified_u_count": 2,
       "justified_d_count": 0
    },
    "1693762070": {
