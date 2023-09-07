@@ -71663,9 +71663,16 @@
       "justified_d_count": 0
    },
    "1693659206": {
-      "detailed_rating": {},
-      "justified_rating": 0,
-      "justified_u_count": 0,
+      "detailed_rating": {
+         "+": [
+            [
+               "5484164",
+               1694047341
+            ]
+         ]
+      },
+      "justified_rating": 1,
+      "justified_u_count": 1,
       "justified_d_count": 0
    },
    "1693740660": {
