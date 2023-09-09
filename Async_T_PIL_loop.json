@@ -112678,13 +112678,17 @@
       "created_at": "1694278807",
       "created_by": "7605593",
       "detailed_rating": {
-         "+": [],
-         "-": []
+         "+": [
+            [
+               "8480087",
+               1694282755
+            ]
+         ]
       },
       "fullname": "scp-059-ua",
       "hidden_tags": [],
       "id": "1449930063",
-      "rating": "0",
+      "rating": "1",
       "tags": [
          "safe",
          "scp",
@@ -112706,6 +112710,6 @@
          "雕塑"
       ],
       "title": "SCP-059-UA - 紙貓咪",
-      "votes": "0"
+      "votes": "1"
    }
 }
