@@ -112719,5 +112719,27 @@
       ],
       "title": "SCP-059-UA - 紙貓咪",
       "votes": "1"
+   },
+   "1694358675": {
+      "comments": "0",
+      "created_at": "1694358675",
+      "created_by": "7605593",
+      "detailed_rating": {
+         "+": [],
+         "-": []
+      },
+      "fullname": "task-forces-ua",
+      "hidden_tags": [],
+      "id": "1449951140",
+      "rating": "0",
+      "tags": [
+         "ua",
+         "中心",
+         "二次翻譯",
+         "心得",
+         "翻譯"
+      ],
+      "title": "機動特遣隊-UA",
+      "votes": "0"
    }
 }
