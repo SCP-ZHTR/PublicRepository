@@ -71840,13 +71840,17 @@
       "detailed_rating": {
          "+": [
             [
+               "8452537",
+               1694526122
+            ],
+            [
                "7504530",
                1694525022
             ]
          ]
       },
-      "justified_rating": 1,
-      "justified_u_count": 1,
+      "justified_rating": 2,
+      "justified_u_count": 2,
       "justified_d_count": 0
    }
 }
