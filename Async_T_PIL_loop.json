@@ -112729,13 +112729,17 @@
       "created_at": "1694358675",
       "created_by": "7605593",
       "detailed_rating": {
-         "+": [],
-         "-": []
+         "+": [
+            [
+               "7504530",
+               1694525022
+            ]
+         ]
       },
       "fullname": "task-forces-ua",
       "hidden_tags": [],
       "id": "1449951140",
-      "rating": "0",
+      "rating": "1",
       "tags": [
          "ua",
          "中心",
@@ -112744,6 +112748,6 @@
          "翻譯"
       ],
       "title": "機動特遣隊-UA",
-      "votes": "0"
+      "votes": "1"
    }
 }
