@@ -114631,19 +114631,23 @@
       "created_at": "1694574379",
       "created_by": "6709715",
       "detailed_rating": {
-         "+": [],
-         "-": []
+         "+": [
+            [
+               "5435485",
+               1694616404
+            ]
+         ]
       },
       "fullname": "taiwan-history-and-stuff-idk",
       "hidden_tags": [],
       "id": "1449968094",
-      "rating": "0",
+      "rating": "1",
       "tags": [
          "原創",
          "故事",
          "燦藍天穹"
       ],
       "title": "《臺灣今代史——2022至今》",
-      "votes": "0"
+      "votes": "1"
    }
 }
