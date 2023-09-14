@@ -91209,13 +91209,21 @@
       "detailed_rating": {
          "+": [
             [
+               "4264056",
+               1694692791
+            ],
+            [
+               "4291435",
+               1694692791
+            ],
+            [
                "5435485",
                1694692425
             ]
          ]
       },
-      "justified_rating": 1,
-      "justified_u_count": 1,
+      "justified_rating": 3,
+      "justified_u_count": 3,
       "justified_d_count": 0
    }
 }
