@@ -91200,9 +91200,16 @@
       "justified_d_count": 0
    },
    "1694685612": {
-      "detailed_rating": {},
-      "justified_rating": 0,
-      "justified_u_count": 0,
+      "detailed_rating": {
+         "+": [
+            [
+               "6503482",
+               1694701584
+            ]
+         ]
+      },
+      "justified_rating": 1,
+      "justified_u_count": 1,
       "justified_d_count": 0
    },
    "1694691928": {
