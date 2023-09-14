@@ -114688,13 +114688,17 @@
       "created_at": "1694691928",
       "created_by": "7827462",
       "detailed_rating": {
-         "+": [],
-         "-": []
+         "+": [
+            [
+               "5435485",
+               1694692425
+            ]
+         ]
       },
       "fullname": "in-the-bamboo-forest",
       "hidden_tags": [],
       "id": "1449977615",
-      "rating": "0",
+      "rating": "1",
       "tags": [
          "cidal-dongi",
          "site-zh-44",
@@ -114703,6 +114707,6 @@
          "藝術作品"
       ],
       "title": "在竹林裡",
-      "votes": "0"
+      "votes": "1"
    }
 }
