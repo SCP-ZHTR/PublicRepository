@@ -114802,13 +114802,17 @@
       "created_at": "1694870281",
       "created_by": "5338547",
       "detailed_rating": {
-         "+": [],
-         "-": []
+         "+": [
+            [
+               "5435485",
+               1694870997
+            ]
+         ]
       },
       "fullname": "scp-zh-497",
       "hidden_tags": [],
       "id": "1449996786",
-      "rating": "0",
+      "rating": "1",
       "tags": [
          "keter",
          "scp",
@@ -114817,6 +114821,6 @@
          "原創"
       ],
       "title": "SCP-ZH-497 - 母親的稅金",
-      "votes": "0"
+      "votes": "1"
    }
 }
