@@ -114796,5 +114796,27 @@
       ],
       "title": "SCP-ZH-020 - 追逐往昔的潮汐",
       "votes": "3"
+   },
+   "1694870281": {
+      "comments": "0",
+      "created_at": "1694870281",
+      "created_by": "5338547",
+      "detailed_rating": {
+         "+": [],
+         "-": []
+      },
+      "fullname": "scp-zh-497",
+      "hidden_tags": [],
+      "id": "1449996786",
+      "rating": "0",
+      "tags": [
+         "keter",
+         "scp",
+         "site-zh-11",
+         "zh急迫競賽2023",
+         "原創"
+      ],
+      "title": "SCP-ZH-497 - 母親的稅金",
+      "votes": "0"
    }
 }
