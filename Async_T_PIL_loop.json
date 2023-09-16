@@ -112977,5 +112977,29 @@
       ],
       "title": "SCP-PL-260 - 我們知道你住哪",
       "votes": "0"
+   },
+   "1694868330": {
+      "comments": "0",
+      "created_at": "1694868330",
+      "created_by": "4357011",
+      "detailed_rating": {
+         "+": [],
+         "-": []
+      },
+      "fullname": "scp-6346",
+      "hidden_tags": [],
+      "id": "1449996455",
+      "rating": "0",
+      "tags": [
+         "en",
+         "meta",
+         "scp",
+         "概念",
+         "機密分級",
+         "翻譯",
+         "資訊危害"
+      ],
+      "title": "SCP-6346 - 不是來自內布拉斯加州林肯市的 Casey Herring",
+      "votes": "0"
    }
 }
