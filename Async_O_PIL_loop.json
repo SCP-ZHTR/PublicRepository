@@ -114942,7 +114942,9 @@
          "-": []
       },
       "fullname": "new-word",
-      "hidden_tags": [],
+      "hidden_tags": [
+         "_退"
+      ],
       "id": "1450012029",
       "rating": "0",
       "tags": [
