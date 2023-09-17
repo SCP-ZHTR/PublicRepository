@@ -91228,6 +91228,10 @@
       "detailed_rating": {
          "+": [
             [
+               "6503482",
+               1694939317
+            ],
+            [
                "8033564",
                1694793070
             ],
@@ -91269,8 +91273,8 @@
             ]
          ]
       },
-      "justified_rating": 10,
-      "justified_u_count": 10,
+      "justified_rating": 11,
+      "justified_u_count": 11,
       "justified_d_count": 0
    },
    "1694846027": {
