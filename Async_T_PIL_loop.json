@@ -113007,13 +113007,17 @@
       "created_at": "1694914558",
       "created_by": "6217438",
       "detailed_rating": {
-         "+": [],
-         "-": []
+         "+": [
+            [
+               "6217438",
+               1694937482
+            ]
+         ]
       },
       "fullname": "scp-7754",
       "hidden_tags": [],
       "id": "1450003669",
-      "rating": "0",
+      "rating": "1",
       "tags": [
          "en",
          "meta",
@@ -113026,20 +113030,24 @@
          "資訊危害"
       ],
       "title": "SCP-7754 - 而凱薩琳做了什麼",
-      "votes": "0"
+      "votes": "1"
    },
    "1694919199": {
       "comments": "0",
       "created_at": "1694919199",
       "created_by": "6217438",
       "detailed_rating": {
-         "+": [],
-         "-": []
+         "+": [
+            [
+               "6217438",
+               1694937482
+            ]
+         ]
       },
       "fullname": "scp-7365",
       "hidden_tags": [],
       "id": "1450004597",
-      "rating": "0",
+      "rating": "1",
       "tags": [
          "en",
          "meta",
@@ -113049,20 +113057,24 @@
          "非現實部"
       ],
       "title": "SCP-7365 - 起/飛/日",
-      "votes": "0"
+      "votes": "1"
    },
    "1694931622": {
       "comments": "0",
       "created_at": "1694931622",
       "created_by": "6217438",
       "detailed_rating": {
-         "+": [],
-         "-": []
+         "+": [
+            [
+               "6217438",
+               1694937482
+            ]
+         ]
       },
       "fullname": "scp-4885",
       "hidden_tags": [],
       "id": "1450006606",
-      "rating": "0",
+      "rating": "1",
       "tags": [
          "en",
          "keter",
@@ -113075,6 +113087,6 @@
          "資訊危害"
       ],
       "title": "SCP-4885 - 找到他",
-      "votes": "0"
+      "votes": "1"
    }
 }
