@@ -91348,6 +91348,10 @@
       "detailed_rating": {
          "+": [
             [
+               "4442284",
+               1694962455
+            ],
+            [
                "4990678",
                1694954801
             ],
@@ -91361,8 +91365,8 @@
             ]
          ]
       },
-      "justified_rating": 3,
-      "justified_u_count": 3,
+      "justified_rating": 4,
+      "justified_u_count": 4,
       "justified_d_count": 0
    }
 }
