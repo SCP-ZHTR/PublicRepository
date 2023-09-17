@@ -113098,13 +113098,17 @@
       "created_at": "1694949976",
       "created_by": "6217438",
       "detailed_rating": {
-         "+": [],
-         "-": []
+         "+": [
+            [
+               "6217438",
+               1694950337
+            ]
+         ]
       },
       "fullname": "scp-7403",
       "hidden_tags": [],
       "id": "1450009676",
-      "rating": "0",
+      "rating": "1",
       "tags": [
          "en",
          "legality",
@@ -113124,6 +113128,6 @@
          "食物"
       ],
       "title": "scp-7403.file",
-      "votes": "0"
+      "votes": "1"
    }
 }
