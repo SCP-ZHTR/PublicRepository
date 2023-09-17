@@ -114852,13 +114852,19 @@
       "created_at": "1694946281",
       "created_by": "5013754",
       "detailed_rating": {
-         "+": [],
-         "-": []
+         "+": [
+            [
+               "5435485",
+               1694947745
+            ]
+         ]
       },
       "fullname": "scp-zh-121",
-      "hidden_tags": [],
+      "hidden_tags": [
+         "_退"
+      ],
       "id": "1450009176",
-      "rating": "0",
+      "rating": "1",
       "tags": [
          "euclid",
          "scp",
@@ -114871,6 +114877,6 @@
          "氣象"
       ],
       "title": "SCP-ZH-121 - 合歡調查事件與野呂寧之謎",
-      "votes": "0"
+      "votes": "1"
    }
 }
