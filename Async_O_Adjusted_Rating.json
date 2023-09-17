@@ -91331,19 +91331,34 @@
       "detailed_rating": {
          "+": [
             [
+               "6503482",
+               1694954096
+            ],
+            [
                "5435485",
                1694947745
             ]
          ]
       },
-      "justified_rating": 1,
-      "justified_u_count": 1,
+      "justified_rating": 2,
+      "justified_u_count": 2,
       "justified_d_count": 0
    },
    "1694953499": {
-      "detailed_rating": {},
-      "justified_rating": 0,
-      "justified_u_count": 0,
+      "detailed_rating": {
+         "+": [
+            [
+               "7513990",
+               1694954096
+            ],
+            [
+               "5435485",
+               1694954096
+            ]
+         ]
+      },
+      "justified_rating": 2,
+      "justified_u_count": 2,
       "justified_d_count": 0
    }
 }
