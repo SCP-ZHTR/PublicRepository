@@ -113202,5 +113202,31 @@
       ],
       "title": "SCP-1486 - 「班尼」",
       "votes": "1"
+   },
+   "1695057087": {
+      "comments": "0",
+      "created_at": "1695057087",
+      "created_by": "8136462",
+      "detailed_rating": {
+         "+": [],
+         "-": []
+      },
+      "fullname": "scp-7409",
+      "hidden_tags": [],
+      "id": "1450028204",
+      "rating": "0",
+      "tags": [
+         "en",
+         "remixcon2023",
+         "safe",
+         "scp",
+         "不可移動",
+         "強迫性",
+         "星際",
+         "植物",
+         "翻譯"
+      ],
+      "title": "SCP-7409 - 世界已逝",
+      "votes": "0"
    }
 }
