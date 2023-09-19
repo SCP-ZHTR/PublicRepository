@@ -115550,13 +115550,17 @@
             [
                "5237516",
                1695137661
+            ],
+            [
+               "5338547",
+               1695138441
             ]
          ]
       },
       "fullname": "scp-zh-795",
       "hidden_tags": [],
       "id": "1450050231",
-      "rating": "2",
+      "rating": "3",
       "tags": [
          "scp",
          "site-zh-13",
@@ -115566,6 +115570,26 @@
          "精神影響"
       ],
       "title": "SCP-ZH-795",
-      "votes": "2"
+      "votes": "3"
+   },
+   "1695137639": {
+      "comments": "0",
+      "created_at": "1695137639",
+      "created_by": "4291435",
+      "detailed_rating": {
+         "+": [],
+         "-": []
+      },
+      "fullname": "scp-zh-129",
+      "hidden_tags": [],
+      "id": "1450050315",
+      "rating": "0",
+      "tags": [
+         "scp",
+         "zh急迫競賽2023",
+         "原創"
+      ],
+      "title": "SCP-ZH-129 - 惡靈退散",
+      "votes": "0"
    }
 }

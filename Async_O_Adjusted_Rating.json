@@ -91777,6 +91777,10 @@
       "detailed_rating": {
          "+": [
             [
+               "5338547",
+               1695138441
+            ],
+            [
                "8792088",
                1695137661
             ],
@@ -91786,8 +91790,14 @@
             ]
          ]
       },
-      "justified_rating": 2,
-      "justified_u_count": 2,
+      "justified_rating": 3,
+      "justified_u_count": 3,
+      "justified_d_count": 0
+   },
+   "1695137639": {
+      "detailed_rating": {},
+      "justified_rating": 0,
+      "justified_u_count": 0,
       "justified_d_count": 0
    }
 }
