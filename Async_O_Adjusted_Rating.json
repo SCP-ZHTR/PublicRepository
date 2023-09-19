@@ -91419,6 +91419,10 @@
       "detailed_rating": {
          "+": [
             [
+               "5370805",
+               1695136313
+            ],
+            [
                "6503482",
                1695089236
             ],
@@ -91436,8 +91440,8 @@
             ]
          ]
       },
-      "justified_rating": 4,
-      "justified_u_count": 4,
+      "justified_rating": 5,
+      "justified_u_count": 5,
       "justified_d_count": 0
    },
    "1695057396": {
@@ -91736,6 +91740,12 @@
    },
    "1695132639": {
       "detailed_rating": {
+         "-": [
+            [
+               "5370805",
+               1695136313
+            ]
+         ],
          "+": [
             [
                "8792088",
@@ -91743,8 +91753,8 @@
             ]
          ]
       },
-      "justified_rating": 1,
+      "justified_rating": 0,
       "justified_u_count": 1,
-      "justified_d_count": 0
+      "justified_d_count": 1
    }
 }
