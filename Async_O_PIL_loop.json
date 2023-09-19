@@ -115678,21 +115678,25 @@
       "created_at": "1695139197",
       "created_by": "6091157",
       "detailed_rating": {
-         "+": [],
-         "-": []
+         "+": [
+            [
+               "5435485",
+               1695146284
+            ]
+         ]
       },
       "fullname": "march-march",
       "hidden_tags": [
          "_核心"
       ],
       "id": "1450050545",
-      "rating": "0",
+      "rating": "1",
       "tags": [
          "zh急迫競賽2023",
          "原創",
          "故事"
       ],
       "title": "三月進行曲",
-      "votes": "0"
+      "votes": "1"
    }
 }
