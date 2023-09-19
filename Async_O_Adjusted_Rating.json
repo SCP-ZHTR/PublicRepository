@@ -91795,6 +91795,23 @@
       "justified_d_count": 0
    },
    "1695137639": {
+      "detailed_rating": {
+         "-": [
+            [
+               "8452537",
+               1695138789
+            ],
+            [
+               "8792088",
+               1695138789
+            ]
+         ]
+      },
+      "justified_rating": -2,
+      "justified_u_count": 0,
+      "justified_d_count": 2
+   },
+   "1695138299": {
       "detailed_rating": {},
       "justified_rating": 0,
       "justified_u_count": 0,
