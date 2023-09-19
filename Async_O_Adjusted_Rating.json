@@ -91700,6 +91700,10 @@
       "detailed_rating": {
          "+": [
             [
+               "8404617",
+               1695136674
+            ],
+            [
                "5370805",
                1695135964
             ],
@@ -91721,21 +91725,25 @@
             ]
          ]
       },
-      "justified_rating": 5,
-      "justified_u_count": 5,
+      "justified_rating": 6,
+      "justified_u_count": 6,
       "justified_d_count": 0
    },
    "1695132634": {
       "detailed_rating": {
          "+": [
             [
+               "8404617",
+               1695136674
+            ],
+            [
                "8792088",
                1695134125
             ]
          ]
       },
-      "justified_rating": 1,
-      "justified_u_count": 1,
+      "justified_rating": 2,
+      "justified_u_count": 2,
       "justified_d_count": 0
    },
    "1695132639": {
