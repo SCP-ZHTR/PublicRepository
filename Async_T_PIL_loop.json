@@ -113334,13 +113334,17 @@
       "created_at": "1695136934",
       "created_by": "6217438",
       "detailed_rating": {
-         "+": [],
-         "-": []
+         "+": [
+            [
+               "6217438",
+               1695137259
+            ]
+         ]
       },
       "fullname": "list-of-common-anomalous-misconceptions",
       "hidden_tags": [],
       "id": "1450050176",
-      "rating": "0",
+      "rating": "1",
       "tags": [
          "en",
          "不復返",
@@ -113350,6 +113354,6 @@
          "翻譯"
       ],
       "title": "常見錯誤異常觀念列表",
-      "votes": "0"
+      "votes": "1"
    }
 }
