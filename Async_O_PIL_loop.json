@@ -115382,5 +115382,51 @@
       ],
       "title": "SCP-ZH-154 - 成為了一顆彗星",
       "votes": "2"
+   },
+   "1695132634": {
+      "comments": "0",
+      "created_at": "1695132634",
+      "created_by": "7852233",
+      "detailed_rating": {
+         "+": [],
+         "-": []
+      },
+      "fullname": "scp-zh-785",
+      "hidden_tags": [],
+      "id": "1450049530",
+      "rating": "0",
+      "tags": [
+         "scp",
+         "zh急迫競賽2023",
+         "人造物品",
+         "原創",
+         "無效化"
+      ],
+      "title": "SCP-ZH-785 - 七天鑑賞期",
+      "votes": "0"
+   },
+   "1695132639": {
+      "comments": "0",
+      "created_at": "1695132639",
+      "created_by": "7852233",
+      "detailed_rating": {
+         "+": [],
+         "-": []
+      },
+      "fullname": "scp-zh-982",
+      "hidden_tags": [],
+      "id": "1450049531",
+      "rating": "0",
+      "tags": [
+         "safe",
+         "scp",
+         "zh急迫競賽2023",
+         "原創",
+         "水棲",
+         "無脊椎動物",
+         "生物性"
+      ],
+      "title": "SCP-ZH-982 - 核電廠珊瑚",
+      "votes": "0"
    }
 }
