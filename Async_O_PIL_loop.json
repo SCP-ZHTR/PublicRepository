@@ -115253,21 +115253,26 @@
       "created_at": "1695130146",
       "created_by": "5251681",
       "detailed_rating": {
-         "+": [],
-         "-": []
+         "+": [
+            [
+               "8404617",
+               1695130563
+            ]
+         ]
       },
       "fullname": "scp-zh-286",
       "hidden_tags": [],
       "id": "1450049140",
-      "rating": "0",
+      "rating": "1",
       "tags": [
          "safe",
          "scp",
          "site-zh-44",
          "zh急迫競賽2023",
-         "原創"
+         "原創",
+         "生物性"
       ],
       "title": "SCP-ZH-286 - 和馨雞群",
-      "votes": "0"
+      "votes": "1"
    }
 }
