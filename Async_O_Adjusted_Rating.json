@@ -91461,13 +91461,17 @@
       "detailed_rating": {
          "+": [
             [
+               "7073060",
+               1695119891
+            ],
+            [
                "5435485",
                1695119544
             ]
          ]
       },
-      "justified_rating": 1,
-      "justified_u_count": 1,
+      "justified_rating": 2,
+      "justified_u_count": 2,
       "justified_d_count": 0
    }
 }
