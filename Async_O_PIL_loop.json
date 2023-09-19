@@ -115605,15 +115605,19 @@
       "created_at": "1695138299",
       "created_by": "5435485",
       "detailed_rating": {
-         "+": [],
-         "-": []
+         "+": [
+            [
+               "5251681",
+               1695139099
+            ]
+         ]
       },
       "fullname": "scp-zh-343",
       "hidden_tags": [
          "_退"
       ],
       "id": "1450050416",
-      "rating": "0",
+      "rating": "1",
       "tags": [
          "euclid",
          "scp",
@@ -115629,6 +115633,6 @@
          "醫學性"
       ],
       "title": "SCP-ZH-343 - 胚神",
-      "votes": "0"
+      "votes": "1"
    }
 }
