@@ -115077,7 +115077,9 @@
          ]
       },
       "fullname": "scp-zh-723",
-      "hidden_tags": [],
+      "hidden_tags": [
+         "_退"
+      ],
       "id": "1450046707",
       "rating": "6",
       "tags": [
@@ -115104,13 +115106,19 @@
             [
                "4291435",
                1695128046
+            ],
+            [
+               "5435485",
+               1695128427
             ]
          ]
       },
       "fullname": "scp-zh-148",
-      "hidden_tags": [],
+      "hidden_tags": [
+         "_核心"
+      ],
       "id": "1450048377",
-      "rating": "1",
+      "rating": "2",
       "tags": [
          "safe",
          "scp",
@@ -115123,6 +115131,32 @@
          "自主"
       ],
       "title": "SCP-ZH-148 - 吃我，酪梨寶寶。",
-      "votes": "1"
+      "votes": "2"
+   },
+   "1695128052": {
+      "comments": "0",
+      "created_at": "1695128052",
+      "created_by": "5435485",
+      "detailed_rating": {
+         "+": [],
+         "-": []
+      },
+      "fullname": "scp-zh-710",
+      "hidden_tags": [
+         "_核心"
+      ],
+      "id": "1450048688",
+      "rating": "0",
+      "tags": [
+         "scp",
+         "site-zh-72",
+         "thaumiel",
+         "zh急迫競賽2023",
+         "人造物品",
+         "原創",
+         "基金會製造"
+      ],
+      "title": "SCP-ZH-710 - 玉山北峰引擎",
+      "votes": "0"
    }
 }
