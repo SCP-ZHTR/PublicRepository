@@ -115247,5 +115247,27 @@
       ],
       "title": "SCP-ZH-312 - 東南西北／仁義禮智",
       "votes": "1"
+   },
+   "1695130146": {
+      "comments": "0",
+      "created_at": "1695130146",
+      "created_by": "5251681",
+      "detailed_rating": {
+         "+": [],
+         "-": []
+      },
+      "fullname": "scp-zh-286",
+      "hidden_tags": [],
+      "id": "1450049140",
+      "rating": "0",
+      "tags": [
+         "safe",
+         "scp",
+         "site-zh-44",
+         "zh急迫競賽2023",
+         "原創"
+      ],
+      "title": "SCP-ZH-286 - 和馨雞群",
+      "votes": "0"
    }
 }
