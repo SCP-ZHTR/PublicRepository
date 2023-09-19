@@ -72121,13 +72121,17 @@
       "detailed_rating": {
          "+": [
             [
+               "7605593",
+               1695137812
+            ],
+            [
                "6217438",
                1695137259
             ]
          ]
       },
-      "justified_rating": 1,
-      "justified_u_count": 1,
+      "justified_rating": 2,
+      "justified_u_count": 2,
       "justified_d_count": 0
    }
 }
