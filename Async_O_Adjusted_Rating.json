@@ -91591,6 +91591,10 @@
       "detailed_rating": {
          "+": [
             [
+               "6503482",
+               1695132427
+            ],
+            [
                "4291435",
                1695132019
             ],
@@ -91620,14 +91624,25 @@
             ]
          ]
       },
-      "justified_rating": 7,
-      "justified_u_count": 7,
+      "justified_rating": 8,
+      "justified_u_count": 8,
       "justified_d_count": 0
    },
    "1695131698": {
-      "detailed_rating": {},
-      "justified_rating": 0,
-      "justified_u_count": 0,
+      "detailed_rating": {
+         "+": [
+            [
+               "5251681",
+               1695132427
+            ],
+            [
+               "5338547",
+               1695132427
+            ]
+         ]
+      },
+      "justified_rating": 2,
+      "justified_u_count": 2,
       "justified_d_count": 0
    }
 }
