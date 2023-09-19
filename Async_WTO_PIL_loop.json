@@ -9965,15 +9965,19 @@
       "created_at": "1695139199",
       "created_by": "8792088",
       "detailed_rating": {
-         "+": [],
-         "-": []
+         "+": [
+            [
+               "8792088",
+               1695139951
+            ]
+         ]
       },
       "fullname": "scp-zh-720",
       "hidden_tags": [],
       "id": "1450050546",
-      "rating": "0",
+      "rating": "1",
       "tags": [],
       "title": "SCP-ZH-720",
-      "votes": "0"
+      "votes": "1"
    }
 }
