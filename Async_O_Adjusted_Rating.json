@@ -91591,6 +91591,10 @@
       "detailed_rating": {
          "+": [
             [
+               "4239775",
+               1695131712
+            ],
+            [
                "5987568",
                1695131319
             ],
@@ -91612,8 +91616,8 @@
             ]
          ]
       },
-      "justified_rating": 5,
-      "justified_u_count": 5,
+      "justified_rating": 6,
+      "justified_u_count": 6,
       "justified_d_count": 0
    }
 }
