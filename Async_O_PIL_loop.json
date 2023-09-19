@@ -115562,7 +115562,9 @@
          ]
       },
       "fullname": "scp-zh-795",
-      "hidden_tags": [],
+      "hidden_tags": [
+         "_退"
+      ],
       "id": "1450050231",
       "rating": "3",
       "tags": [
@@ -115573,7 +115575,7 @@
          "強迫性",
          "精神影響"
       ],
-      "title": "SCP-ZH-795",
+      "title": "SCP-ZH-795 他山",
       "votes": "3"
    },
    "1695137639": {
@@ -115593,7 +115595,9 @@
          ]
       },
       "fullname": "scp-zh-129",
-      "hidden_tags": [],
+      "hidden_tags": [
+         "_退"
+      ],
       "id": "1450050315",
       "rating": "-2",
       "tags": [
@@ -115638,5 +115642,27 @@
       ],
       "title": "SCP-ZH-343 - 胚神",
       "votes": "1"
+   },
+   "1695139197": {
+      "comments": "0",
+      "created_at": "1695139197",
+      "created_by": "6091157",
+      "detailed_rating": {
+         "+": [],
+         "-": []
+      },
+      "fullname": "march-march",
+      "hidden_tags": [
+         "_核心"
+      ],
+      "id": "1450050545",
+      "rating": "0",
+      "tags": [
+         "zh急迫競賽2023",
+         "原創",
+         "故事"
+      ],
+      "title": "三月進行曲",
+      "votes": "0"
    }
 }
