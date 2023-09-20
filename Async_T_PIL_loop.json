@@ -113313,7 +113313,9 @@
          ]
       },
       "fullname": "scp-171",
-      "hidden_tags": [],
+      "hidden_tags": [
+         "_licensebox"
+      ],
       "id": "1450048741",
       "rating": "1",
       "tags": [
@@ -113337,7 +113339,9 @@
          "-": []
       },
       "fullname": "scp-597",
-      "hidden_tags": [],
+      "hidden_tags": [
+         "_licensebox"
+      ],
       "id": "1450048742",
       "rating": "0",
       "tags": [
