@@ -5913,6 +5913,12 @@
    },
    "1695139199": {
       "detailed_rating": {
+         "-": [
+            [
+               "4442284",
+               1695174531
+            ]
+         ],
          "+": [
             [
                "8792088",
@@ -5920,8 +5926,8 @@
             ]
          ]
       },
-      "justified_rating": 1,
+      "justified_rating": 0,
       "justified_u_count": 1,
-      "justified_d_count": 0
+      "justified_d_count": 1
    }
 }
