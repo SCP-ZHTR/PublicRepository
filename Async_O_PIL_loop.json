@@ -114547,7 +114547,9 @@
          ]
       },
       "fullname": "scp-zh-812",
-      "hidden_tags": [],
+      "hidden_tags": [
+         "_image"
+      ],
       "id": "1449614664",
       "rating": "9",
       "tags": [
