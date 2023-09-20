@@ -83011,10 +83011,6 @@
       "detailed_rating": {
          "+": [
             [
-               "4442284",
-               1673366400
-            ],
-            [
                "7605593",
                1672502400
             ],
@@ -83048,8 +83044,8 @@
             ]
          ]
       },
-      "justified_rating": 9,
-      "justified_u_count": 9,
+      "justified_rating": 8,
+      "justified_u_count": 8,
       "justified_d_count": 0
    },
    "1671965078": {
@@ -83113,10 +83109,6 @@
                1672156800
             ],
             [
-               "7469850",
-               1672156800
-            ],
-            [
                "4990678",
                1672156800
             ],
@@ -83149,17 +83141,13 @@
                1672156800
             ],
             [
-               "4442284",
-               1672156800
-            ],
-            [
                "5338547",
                1672156800
             ]
          ]
       },
-      "justified_rating": 16,
-      "justified_u_count": 16,
+      "justified_rating": 14,
+      "justified_u_count": 14,
       "justified_d_count": 0
    },
    "1672327587": {
@@ -83559,20 +83547,12 @@
       "detailed_rating": {
          "+": [
             [
-               "4442284",
-               1673366400
-            ],
-            [
                "6503482",
                1672761600
             ],
             [
                "5701756",
                1672761600
-            ],
-            [
-               "7469850",
-               1672588800
             ],
             [
                "3995762",
@@ -83596,8 +83576,8 @@
             ]
          ]
       },
-      "justified_rating": 9,
-      "justified_u_count": 9,
+      "justified_rating": 7,
+      "justified_u_count": 7,
       "justified_d_count": 0
    },
    "1672662877": {
@@ -91471,6 +91451,10 @@
       "detailed_rating": {
          "-": [
             [
+               "4990678",
+               1695207384
+            ],
+            [
                "8452537",
                1695194849
             ],
@@ -91498,8 +91482,8 @@
             ]
          ]
       },
-      "justified_rating": -4,
+      "justified_rating": -5,
       "justified_u_count": 1,
-      "justified_d_count": 5
+      "justified_d_count": 6
    }
 }
