@@ -91849,6 +91849,10 @@
       "detailed_rating": {
          "+": [
             [
+               "4291435",
+               1695179489
+            ],
+            [
                "4442284",
                1695174286
             ],
@@ -91866,8 +91870,8 @@
             ]
          ]
       },
-      "justified_rating": 4,
-      "justified_u_count": 4,
+      "justified_rating": 5,
+      "justified_u_count": 5,
       "justified_d_count": 0
    },
    "1695139197": {
@@ -91885,6 +91889,12 @@
       },
       "justified_rating": 2,
       "justified_u_count": 2,
+      "justified_d_count": 0
+   },
+   "1695139199": {
+      "detailed_rating": {},
+      "justified_rating": 0,
+      "justified_u_count": 0,
       "justified_d_count": 0
    }
 }
