@@ -112957,7 +112957,9 @@
          ]
       },
       "fullname": "scp-3323-jp",
-      "hidden_tags": [],
+      "hidden_tags": [
+         "_licensebox"
+      ],
       "id": "1449969283",
       "rating": "1",
       "tags": [
