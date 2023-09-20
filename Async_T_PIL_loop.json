@@ -113420,7 +113420,10 @@
          ]
       },
       "fullname": "list-of-common-anomalous-misconceptions",
-      "hidden_tags": [],
+      "hidden_tags": [
+         "_cc",
+         "_licensebox"
+      ],
       "id": "1450050176",
       "rating": "5",
       "tags": [
