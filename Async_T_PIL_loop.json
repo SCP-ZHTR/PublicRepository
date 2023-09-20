@@ -112628,7 +112628,9 @@
          ]
       },
       "fullname": "scp-6017",
-      "hidden_tags": [],
+      "hidden_tags": [
+         "_cc"
+      ],
       "id": "1449843654",
       "rating": "5",
       "tags": [
@@ -112666,7 +112668,10 @@
          ]
       },
       "fullname": "scp-372",
-      "hidden_tags": [],
+      "hidden_tags": [
+         "_cc",
+         "_licensebox"
+      ],
       "id": "1449844949",
       "rating": "2",
       "tags": [
