@@ -113156,7 +113156,10 @@
          ]
       },
       "fullname": "scp-4885",
-      "hidden_tags": [],
+      "hidden_tags": [
+         "_cc",
+         "_licensebox"
+      ],
       "id": "1450006606",
       "rating": "2",
       "tags": [
