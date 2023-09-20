@@ -112581,7 +112581,9 @@
          "-": []
       },
       "fullname": "scp-1984",
-      "hidden_tags": [],
+      "hidden_tags": [
+         "_licensebox"
+      ],
       "id": "1449843232",
       "rating": "0",
       "tags": [
