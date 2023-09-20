@@ -113195,10 +113195,6 @@
                1694955846
             ],
             [
-               "4442284",
-               1694962146
-            ],
-            [
                "5338547",
                1694951203
             ]
@@ -113207,7 +113203,7 @@
       "fullname": "scp-7403",
       "hidden_tags": [],
       "id": "1450009676",
-      "rating": "5",
+      "rating": "4",
       "tags": [
          "en",
          "legality",
@@ -113227,7 +113223,7 @@
          "食物"
       ],
       "title": "scp-7403.file",
-      "votes": "5"
+      "votes": "4"
    },
    "1694950149": {
       "comments": "0",
@@ -113304,20 +113300,13 @@
       "comments": "0",
       "created_at": "1695128404",
       "created_by": "7605593",
-      "detailed_rating": {
-         "+": [
-            [
-               "4442284",
-               1695133342
-            ]
-         ]
-      },
+      "detailed_rating": {},
       "fullname": "scp-171",
       "hidden_tags": [
          "_licensebox"
       ],
       "id": "1450048741",
-      "rating": "1",
+      "rating": "0",
       "tags": [
          "en",
          "euclid",
@@ -113328,7 +113317,7 @@
          "蜂巢思維"
       ],
       "title": "SCP-171 - 集體腦沫",
-      "votes": "1"
+      "votes": "0"
    },
    "1695128414": {
       "comments": "0",
