@@ -112546,7 +112546,9 @@
          ]
       },
       "fullname": "scp-pl-380",
-      "hidden_tags": [],
+      "hidden_tags": [
+         "_cc"
+      ],
       "id": "1449842993",
       "rating": "3",
       "tags": [
