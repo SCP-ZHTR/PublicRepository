@@ -112506,7 +112506,10 @@
          ]
       },
       "fullname": "scp-5195",
-      "hidden_tags": [],
+      "hidden_tags": [
+         "_cc",
+         "_licensebox"
+      ],
       "id": "1449842707",
       "rating": "4",
       "tags": [
