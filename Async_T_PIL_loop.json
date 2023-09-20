@@ -113090,6 +113090,8 @@
       },
       "fullname": "scp-7754",
       "hidden_tags": [
+         "_cc",
+         "_licensebox",
          "_禁黑"
       ],
       "id": "1450003669",
@@ -113121,7 +113123,9 @@
          ]
       },
       "fullname": "scp-7365",
-      "hidden_tags": [],
+      "hidden_tags": [
+         "_licensebox"
+      ],
       "id": "1450004597",
       "rating": "1",
       "tags": [
