@@ -112707,7 +112707,10 @@
          ]
       },
       "fullname": "scp-7769",
-      "hidden_tags": [],
+      "hidden_tags": [
+         "_cc",
+         "_licensebox"
+      ],
       "id": "1449851340",
       "rating": "3",
       "tags": [
