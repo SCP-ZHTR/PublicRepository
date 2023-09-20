@@ -112962,7 +112962,10 @@
          ]
       },
       "fullname": "scp-122",
-      "hidden_tags": [],
+      "hidden_tags": [
+         "_cc",
+         "_licensebox"
+      ],
       "id": "1449970816",
       "rating": "1",
       "tags": [
