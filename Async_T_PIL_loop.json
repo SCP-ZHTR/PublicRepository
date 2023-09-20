@@ -113246,7 +113246,9 @@
          ]
       },
       "fullname": "scp-1486",
-      "hidden_tags": [],
+      "hidden_tags": [
+         "_licensebox"
+      ],
       "id": "1450009687",
       "rating": "2",
       "tags": [
