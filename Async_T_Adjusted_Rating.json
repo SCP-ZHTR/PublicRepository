@@ -71651,10 +71651,6 @@
       "detailed_rating": {
          "+": [
             [
-               "4442284",
-               1693822369
-            ],
-            [
                "5435485",
                1693528436
             ],
@@ -71672,8 +71668,8 @@
             ]
          ]
       },
-      "justified_rating": 5,
-      "justified_u_count": 5,
+      "justified_rating": 4,
+      "justified_u_count": 4,
       "justified_d_count": 0
    },
    "1693632303": {
@@ -71803,17 +71799,13 @@
                1694612053
             ],
             [
-               "4442284",
-               1693822369
-            ],
-            [
                "7504530",
                1693756203
             ]
          ]
       },
-      "justified_rating": 5,
-      "justified_u_count": 5,
+      "justified_rating": 4,
+      "justified_u_count": 4,
       "justified_d_count": 0
    },
    "1693762070": {
