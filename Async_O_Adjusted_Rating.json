@@ -91907,6 +91907,10 @@
       "detailed_rating": {
          "-": [
             [
+               "8452537",
+               1695194849
+            ],
+            [
                "8480087",
                1695179935
             ],
@@ -91930,8 +91934,8 @@
             ]
          ]
       },
-      "justified_rating": -3,
+      "justified_rating": -4,
       "justified_u_count": 1,
-      "justified_d_count": 4
+      "justified_d_count": 5
    }
 }
