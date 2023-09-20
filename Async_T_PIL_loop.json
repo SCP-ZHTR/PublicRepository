@@ -112853,6 +112853,7 @@
       },
       "fullname": "corpse-corpus-hub",
       "hidden_tags": [
+         "_cc",
          "_禁黑"
       ],
       "id": "1449968384",
@@ -112883,7 +112884,9 @@
          ]
       },
       "fullname": "scp-3823-jp",
-      "hidden_tags": [],
+      "hidden_tags": [
+         "_licensebox"
+      ],
       "id": "1449968588",
       "rating": "2",
       "tags": [
@@ -112921,7 +112924,9 @@
          ]
       },
       "fullname": "scp-3324-jp",
-      "hidden_tags": [],
+      "hidden_tags": [
+         "_licensebox"
+      ],
       "id": "1449969066",
       "rating": "3",
       "tags": [
