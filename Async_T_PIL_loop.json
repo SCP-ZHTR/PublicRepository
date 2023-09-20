@@ -112774,7 +112774,9 @@
          ]
       },
       "fullname": "scp-059-ua",
-      "hidden_tags": [],
+      "hidden_tags": [
+         "_licensebox"
+      ],
       "id": "1449930063",
       "rating": "1",
       "tags": [
@@ -112817,7 +112819,10 @@
          ]
       },
       "fullname": "task-forces-ua",
-      "hidden_tags": [],
+      "hidden_tags": [
+         "_cc",
+         "_licensebox"
+      ],
       "id": "1449951140",
       "rating": "2",
       "tags": [
