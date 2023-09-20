@@ -114380,7 +114380,9 @@
          ]
       },
       "fullname": "scp-zh-303",
-      "hidden_tags": [],
+      "hidden_tags": [
+         "_cc"
+      ],
       "id": "1449608901",
       "rating": "14",
       "tags": [
