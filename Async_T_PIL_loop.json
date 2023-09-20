@@ -112740,7 +112740,10 @@
          ]
       },
       "fullname": "scp-870",
-      "hidden_tags": [],
+      "hidden_tags": [
+         "_cc",
+         "_licensebox"
+      ],
       "id": "1449858871",
       "rating": "1",
       "tags": [
