@@ -113027,7 +113027,9 @@
          "-": []
       },
       "fullname": "scp-pl-260",
-      "hidden_tags": [],
+      "hidden_tags": [
+         "_cc"
+      ],
       "id": "1449971034",
       "rating": "0",
       "tags": [
