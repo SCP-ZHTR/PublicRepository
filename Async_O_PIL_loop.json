@@ -114781,7 +114781,9 @@
          ]
       },
       "fullname": "in-the-bamboo-forest",
-      "hidden_tags": [],
+      "hidden_tags": [
+         "_cc"
+      ],
       "id": "1449977615",
       "rating": "12",
       "tags": [
@@ -114824,6 +114826,7 @@
       },
       "fullname": "scp-zh-020",
       "hidden_tags": [
+         "_cc",
          "_退"
       ],
       "id": "1449992462",
