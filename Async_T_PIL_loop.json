@@ -113296,15 +113296,19 @@
       "created_at": "1695128414",
       "created_by": "7605593",
       "detailed_rating": {
-         "+": [],
-         "-": []
+         "+": [
+            [
+               "1360122",
+               1695268805
+            ]
+         ]
       },
       "fullname": "scp-597",
       "hidden_tags": [
          "_licensebox"
       ],
       "id": "1450048742",
-      "rating": "0",
+      "rating": "1",
       "tags": [
          "en",
          "euclid",
@@ -113320,7 +113324,7 @@
          "認知危害"
       ],
       "title": "SCP-597 - 眾生之母",
-      "votes": "0"
+      "votes": "1"
    },
    "1695129081": {
       "comments": "0",
