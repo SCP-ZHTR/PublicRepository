@@ -87754,6 +87754,10 @@
       "detailed_rating": {
          "+": [
             [
+               "5338547",
+               1695320587
+            ],
+            [
                "6217438",
                1695315296
             ],
@@ -87763,8 +87767,8 @@
             ]
          ]
       },
-      "justified_rating": 2,
-      "justified_u_count": 2,
+      "justified_rating": 3,
+      "justified_u_count": 3,
       "justified_d_count": 0
    },
    "1695316785": {
@@ -87788,6 +87792,10 @@
       "detailed_rating": {
          "+": [
             [
+               "5338547",
+               1695320587
+            ],
+            [
                "5370805",
                1695319348
             ],
@@ -87801,8 +87809,8 @@
             ]
          ]
       },
-      "justified_rating": 3,
-      "justified_u_count": 3,
+      "justified_rating": 4,
+      "justified_u_count": 4,
       "justified_d_count": 0
    }
 }
