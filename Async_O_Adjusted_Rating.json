@@ -4000,6 +4000,12 @@
    },
    "1554456886": {
       "detailed_rating": {
+         "-": [
+            [
+               "5435485",
+               1695262682
+            ]
+         ],
          "+": [
             [
                "5344757",
@@ -4051,9 +4057,9 @@
             ]
          ]
       },
-      "justified_rating": 12,
+      "justified_rating": 11,
       "justified_u_count": 12,
-      "justified_d_count": 0
+      "justified_d_count": 1
    },
    "1554536990": {
       "detailed_rating": {
