@@ -113415,19 +113415,23 @@
       "created_at": "1695314997",
       "created_by": "6217438",
       "detailed_rating": {
-         "+": [],
-         "-": []
+         "+": [
+            [
+               "6217438",
+               1695315231
+            ]
+         ]
       },
       "fullname": "redtape",
       "hidden_tags": [],
       "id": "1450083656",
-      "rating": "0",
+      "rating": "1",
       "tags": [
          "en",
          "中心",
          "翻譯"
       ],
       "title": "紅褥帶中心頁",
-      "votes": "0"
+      "votes": "1"
    }
 }
