@@ -87767,13 +87767,23 @@
       "detailed_rating": {
          "+": [
             [
+               "5435485",
+               1695319035
+            ],
+            [
                "6091157",
                1695317485
             ]
          ]
       },
-      "justified_rating": 1,
-      "justified_u_count": 1,
+      "justified_rating": 2,
+      "justified_u_count": 2,
+      "justified_d_count": 0
+   },
+   "1695318868": {
+      "detailed_rating": {},
+      "justified_rating": 0,
+      "justified_u_count": 0,
       "justified_d_count": 0
    }
 }
