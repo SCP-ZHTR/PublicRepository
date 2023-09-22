@@ -113520,13 +113520,17 @@
       "created_at": "1695399323",
       "created_by": "4357011",
       "detailed_rating": {
-         "+": [],
-         "-": []
+         "+": [
+            [
+               "5370805",
+               1695400600
+            ]
+         ]
       },
       "fullname": "scp-622-fr",
       "hidden_tags": [],
       "id": "1450099408",
-      "rating": "0",
+      "rating": "1",
       "tags": [
          "fr",
          "int-lorecon2023",
@@ -113542,6 +113546,6 @@
          "黃"
       ],
       "title": "SCP-622-FR - 勝利的滋味",
-      "votes": "0"
+      "votes": "1"
    }
 }
