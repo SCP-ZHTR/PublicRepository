@@ -112938,13 +112938,17 @@
       "created_at": "1695392411",
       "created_by": "4264056",
       "detailed_rating": {
-         "+": [],
-         "-": []
+         "+": [
+            [
+               "4990678",
+               1695392770
+            ]
+         ]
       },
       "fullname": "ignore",
       "hidden_tags": [],
       "id": "1450098160",
-      "rating": "0",
+      "rating": "1",
       "tags": [
          "wanderers",
          "zh急迫競賽2023",
@@ -112952,6 +112956,6 @@
          "故事"
       ],
       "title": "視而不見",
-      "votes": "0"
+      "votes": "1"
    }
 }
