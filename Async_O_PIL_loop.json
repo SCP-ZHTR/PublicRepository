@@ -112857,7 +112857,9 @@
          "-": []
       },
       "fullname": "scp-zh-192",
-      "hidden_tags": [],
+      "hidden_tags": [
+         "_你感覺到了嗎"
+      ],
       "id": "1450097257",
       "rating": "0",
       "tags": [
