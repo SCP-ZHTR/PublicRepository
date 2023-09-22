@@ -112847,5 +112847,32 @@
       ],
       "title": "全家福",
       "votes": "7"
+   },
+   "1695387178": {
+      "comments": "0",
+      "created_at": "1695387178",
+      "created_by": "5013754",
+      "detailed_rating": {
+         "+": [],
+         "-": []
+      },
+      "fullname": "scp-zh-192",
+      "hidden_tags": [],
+      "id": "1450097257",
+      "rating": "0",
+      "tags": [
+         "keter",
+         "meta",
+         "scp",
+         "site-zh-72",
+         "zh急迫競賽2023",
+         "zite-zh-44",
+         "原創",
+         "幻覺",
+         "感知影響",
+         "無形"
+      ],
+      "title": "SCP-ZH-192 - 觸覺、聽覺、視覺、味覺、嗅覺、無覺",
+      "votes": "0"
    }
 }
