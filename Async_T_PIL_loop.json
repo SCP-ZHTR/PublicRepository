@@ -113561,13 +113561,17 @@
       "created_at": "1695473487",
       "created_by": "5325850",
       "detailed_rating": {
-         "+": [],
-         "-": []
+         "+": [
+            [
+               "8452537",
+               1695474794
+            ]
+         ]
       },
       "fullname": "scp-2051-jp",
       "hidden_tags": [],
       "id": "1450126207",
-      "rating": "0",
+      "rating": "1",
       "tags": [
          "euclid",
          "jp",
@@ -113583,6 +113587,6 @@
          "逆模因"
       ],
       "title": "SCP-2051-JP - 湖中新娘",
-      "votes": "0"
+      "votes": "1"
    }
 }
