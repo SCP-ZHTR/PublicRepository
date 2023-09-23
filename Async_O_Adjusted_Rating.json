@@ -87859,6 +87859,10 @@
       "detailed_rating": {
          "+": [
             [
+               "7073060",
+               1695458681
+            ],
+            [
                "5013754",
                1695448584
             ],
@@ -87876,13 +87880,17 @@
             ]
          ]
       },
-      "justified_rating": 4,
-      "justified_u_count": 4,
+      "justified_rating": 5,
+      "justified_u_count": 5,
       "justified_d_count": 0
    },
    "1695398206": {
       "detailed_rating": {
          "+": [
+            [
+               "7073060",
+               1695458681
+            ],
             [
                "5013754",
                1695447968
@@ -87913,8 +87921,8 @@
             ]
          ]
       },
-      "justified_rating": 7,
-      "justified_u_count": 7,
+      "justified_rating": 8,
+      "justified_u_count": 8,
       "justified_d_count": 0
    }
 }
