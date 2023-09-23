@@ -112955,19 +112955,23 @@
       "created_at": "1695472105",
       "created_by": "8794559",
       "detailed_rating": {
-         "+": [],
-         "-": []
+         "-": [
+            [
+               "4990678",
+               1695476074
+            ]
+         ]
       },
       "fullname": "scp-zh-414",
       "hidden_tags": [],
       "id": "1450125931",
-      "rating": "0",
+      "rating": "-1",
       "tags": [
          "euclid",
          "scp",
          "原創"
       ],
       "title": "SCP-ZH-414",
-      "votes": "0"
+      "votes": "1"
    }
 }
