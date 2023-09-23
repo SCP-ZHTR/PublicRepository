@@ -19089,6 +19089,25 @@
       "title": "巴巴隆巧克力片餅乾配方",
       "votes": "0"
    },
+   "1676385947": {
+      "comments": "1",
+      "created_at": "1676385947",
+      "created_by": "5370805",
+      "detailed_rating": {
+         "+": [],
+         "-": []
+      },
+      "fullname": "art:randall-house-fanart",
+      "hidden_tags": [],
+      "id": "1446185018",
+      "rating": "0",
+      "tags": [
+         "原創",
+         "藝術作品"
+      ],
+      "title": "豪斯主管",
+      "votes": "0"
+   },
    "1676888679": {
       "comments": "1",
       "created_at": "1676888679",
@@ -19255,6 +19274,25 @@
       ],
       "title": "SCP-7725 - S是「聖潔」（Saintly）",
       "votes": "3"
+   },
+   "1678289965": {
+      "comments": "0",
+      "created_at": "1678289965",
+      "created_by": "5370805",
+      "detailed_rating": {
+         "+": [],
+         "-": []
+      },
+      "fullname": "art:scp-6670-fanart",
+      "hidden_tags": [],
+      "id": "1446599338",
+      "rating": "0",
+      "tags": [
+         "原創",
+         "藝術作品"
+      ],
+      "title": "SCP-6670 藝作",
+      "votes": "0"
    },
    "1679229205": {
       "comments": "0",
@@ -19448,6 +19486,25 @@
       "rating": "0",
       "tags": [],
       "title": "lostwhat的個人化設定頁",
+      "votes": "0"
+   },
+   "1685290823": {
+      "comments": "0",
+      "created_at": "1685290823",
+      "created_by": "5370805",
+      "detailed_rating": {
+         "+": [],
+         "-": []
+      },
+      "fullname": "art:agent-calendar-fanart",
+      "hidden_tags": [],
+      "id": "1447936823",
+      "rating": "0",
+      "tags": [
+         "原創",
+         "藝術作品"
+      ],
+      "title": "日曆特工",
       "votes": "0"
    },
    "1685548670": {
@@ -19974,6 +20031,28 @@
       "rating": "0",
       "tags": [],
       "title": "scp-278",
+      "votes": "0"
+   },
+   "1695308857": {
+      "comments": "0",
+      "created_at": "1695308857",
+      "created_by": "5370805",
+      "detailed_rating": {
+         "+": [],
+         "-": []
+      },
+      "fullname": "art:alex-thorley-pressed-the-escape-key",
+      "hidden_tags": [
+         "_退"
+      ],
+      "id": "1450082533",
+      "rating": "0",
+      "tags": [
+         "zh急迫競賽2023",
+         "原創",
+         "藝術作品"
+      ],
+      "title": "Alex Thorley 按下了退出鍵",
       "votes": "0"
    }
 }
