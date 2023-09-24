@@ -113151,13 +113151,17 @@
       "created_at": "1695568216",
       "created_by": "7073060",
       "detailed_rating": {
-         "+": [],
-         "-": []
+         "+": [
+            [
+               "8452537",
+               1695568903
+            ]
+         ]
       },
       "fullname": "scp-zh-690",
       "hidden_tags": [],
       "id": "1450142114",
-      "rating": "0",
+      "rating": "1",
       "tags": [
          "scp",
          "傳染性",
@@ -113169,6 +113173,6 @@
          "機密分級"
       ],
       "title": "SCP-ZH-690 - Unwarranted",
-      "votes": "0"
+      "votes": "1"
    }
 }
