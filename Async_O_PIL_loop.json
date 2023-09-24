@@ -113145,5 +113145,30 @@
       ],
       "title": "SCP-ZH-414 - ████",
       "votes": "7"
+   },
+   "1695568216": {
+      "comments": "0",
+      "created_at": "1695568216",
+      "created_by": "7073060",
+      "detailed_rating": {
+         "+": [],
+         "-": []
+      },
+      "fullname": "scp-zh-690",
+      "hidden_tags": [],
+      "id": "1450142114",
+      "rating": "0",
+      "tags": [
+         "scp",
+         "傳染性",
+         "原創",
+         "建築物",
+         "敵意",
+         "本質促動",
+         "概念",
+         "機密分級"
+      ],
+      "title": "SCP-ZH-690 - Unwarranted",
+      "votes": "0"
    }
 }
