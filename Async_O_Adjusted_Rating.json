@@ -87743,6 +87743,10 @@
       "detailed_rating": {
          "+": [
             [
+               "7827462",
+               1695582164
+            ],
+            [
                "4990678",
                1695560490
             ],
@@ -87772,8 +87776,8 @@
             ]
          ]
       },
-      "justified_rating": 7,
-      "justified_u_count": 7,
+      "justified_rating": 8,
+      "justified_u_count": 8,
       "justified_d_count": 0
    },
    "1695318868": {
@@ -87825,6 +87829,10 @@
       "detailed_rating": {
          "+": [
             [
+               "7827462",
+               1695582164
+            ],
+            [
                "7571354",
                1695538553
             ],
@@ -87846,8 +87854,8 @@
             ]
          ]
       },
-      "justified_rating": 5,
-      "justified_u_count": 5,
+      "justified_rating": 6,
+      "justified_u_count": 6,
       "justified_d_count": 0
    },
    "1695390928": {
