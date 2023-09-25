@@ -20274,5 +20274,26 @@
       ],
       "title": "Alex Thorley 按下了退出鍵",
       "votes": "9"
+   },
+   "1695472105": {
+      "comments": "1",
+      "created_at": "1695472105",
+      "created_by": "8794559",
+      "detailed_rating": {
+         "+": [],
+         "-": []
+      },
+      "fullname": "deleted:scp-zh-414",
+      "hidden_tags": [],
+      "id": "1450125931",
+      "rating": "0",
+      "tags": [
+         "euclid",
+         "scp",
+         "原創",
+         "待刪除"
+      ],
+      "title": "SCP-ZH-414",
+      "votes": "0"
    }
 }
