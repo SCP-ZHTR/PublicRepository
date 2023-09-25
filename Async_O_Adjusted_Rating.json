@@ -87144,6 +87144,12 @@
    },
    "1695126380": {
       "detailed_rating": {
+         "-": [
+            [
+               "7827462",
+               1695623982
+            ]
+         ],
          "+": [
             [
                "7605593",
@@ -87203,9 +87209,9 @@
             ]
          ]
       },
-      "justified_rating": 14,
+      "justified_rating": 13,
       "justified_u_count": 14,
-      "justified_d_count": 0
+      "justified_d_count": 1
    },
    "1695128052": {
       "detailed_rating": {
@@ -87656,6 +87662,10 @@
       "detailed_rating": {
          "+": [
             [
+               "7827462",
+               1695623982
+            ],
+            [
                "7605593",
                1695608609
             ],
@@ -87717,8 +87727,8 @@
             ]
          ]
       },
-      "justified_rating": 15,
-      "justified_u_count": 15,
+      "justified_rating": 16,
+      "justified_u_count": 16,
       "justified_d_count": 0
    },
    "1695139197": {
