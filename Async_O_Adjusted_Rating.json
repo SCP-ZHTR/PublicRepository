@@ -7738,6 +7738,12 @@
    },
    "1562073797": {
       "detailed_rating": {
+         "-": [
+            [
+               "8792088",
+               1695627805
+            ]
+         ],
          "+": [
             [
                "4352548",
@@ -8025,9 +8031,9 @@
             ]
          ]
       },
-      "justified_rating": 71,
+      "justified_rating": 70,
       "justified_u_count": 71,
-      "justified_d_count": 0
+      "justified_d_count": 1
    },
    "1562467167": {
       "detailed_rating": {
