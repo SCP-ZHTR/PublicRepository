@@ -113493,5 +113493,29 @@
       ],
       "title": "SCP-ZH-690 - Unwarranted",
       "votes": "10"
+   },
+   "1695742571": {
+      "comments": "0",
+      "created_at": "1695742571",
+      "created_by": "5325850",
+      "detailed_rating": {
+         "+": [],
+         "-": []
+      },
+      "fullname": "scp-zh-981",
+      "hidden_tags": [],
+      "id": "1450186455",
+      "rating": "0",
+      "tags": [
+         "keter",
+         "scp",
+         "不可摧毀",
+         "傳送",
+         "原創",
+         "屍體",
+         "屍體史體"
+      ],
+      "title": "SCP-ZH-981 - 好媳婦",
+      "votes": "0"
    }
 }
