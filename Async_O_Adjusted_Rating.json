@@ -37673,6 +37673,12 @@
    },
    "1600439100": {
       "detailed_rating": {
+         "-": [
+            [
+               "8394471",
+               1695704573
+            ]
+         ],
          "+": [
             [
                "5344757",
@@ -37740,9 +37746,9 @@
             ]
          ]
       },
-      "justified_rating": 16,
+      "justified_rating": 15,
       "justified_u_count": 16,
-      "justified_d_count": 0
+      "justified_d_count": 1
    },
    "1600450332": {
       "detailed_rating": {
