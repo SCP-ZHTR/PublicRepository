@@ -113616,5 +113616,31 @@
       ],
       "title": "SCP-2051-JP - 湖中新娘",
       "votes": "3"
+   },
+   "1695715201": {
+      "comments": "0",
+      "created_at": "1695715201",
+      "created_by": "7605593",
+      "detailed_rating": {
+         "+": [],
+         "-": []
+      },
+      "fullname": "scp-2528",
+      "hidden_tags": [],
+      "id": "1450182256",
+      "rating": "0",
+      "tags": [
+         "en",
+         "euclid",
+         "scp",
+         "植物",
+         "熊類",
+         "生物性",
+         "相嘯魔",
+         "翻譯",
+         "電腦"
+      ],
+      "title": "SCP-2528 - 貓熊處理器",
+      "votes": "0"
    }
 }
