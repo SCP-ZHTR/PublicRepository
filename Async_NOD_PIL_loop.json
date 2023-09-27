@@ -20097,7 +20097,7 @@
          "+": [],
          "-": []
       },
-      "fullname": "reserve:scp-2051-jp",
+      "fullname": "deleted:reserve:scp-2051-jp",
       "hidden_tags": [],
       "id": "1449851949",
       "rating": "0",
@@ -20327,5 +20327,21 @@
       ],
       "title": "SCP-ZH-414",
       "votes": "8"
+   },
+   "1695831785": {
+      "comments": "0",
+      "created_at": "1695831785",
+      "created_by": "5325850",
+      "detailed_rating": {
+         "+": [],
+         "-": []
+      },
+      "fullname": "reserve:scp-3309-jp",
+      "hidden_tags": [],
+      "id": "1450201492",
+      "rating": "0",
+      "tags": [],
+      "title": "scp-3309-jp",
+      "votes": "0"
    }
 }
