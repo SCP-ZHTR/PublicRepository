@@ -88491,6 +88491,10 @@
       "detailed_rating": {
          "+": [
             [
+               "5338547",
+               1695813525
+            ],
+            [
                "7946145",
                1695810950
             ],
@@ -88550,8 +88554,8 @@
             ]
          ]
       },
-      "justified_rating": 12,
-      "justified_u_count": 13,
+      "justified_rating": 13,
+      "justified_u_count": 14,
       "justified_d_count": 1
    },
    "1695789050": {
