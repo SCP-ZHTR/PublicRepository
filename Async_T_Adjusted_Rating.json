@@ -72144,6 +72144,12 @@
    },
    "1695128414": {
       "detailed_rating": {
+         "-": [
+            [
+               "8221044",
+               1695911348
+            ]
+         ],
          "+": [
             [
                "1360122",
@@ -72151,9 +72157,9 @@
             ]
          ]
       },
-      "justified_rating": 1,
+      "justified_rating": 0,
       "justified_u_count": 1,
-      "justified_d_count": 0
+      "justified_d_count": 1
    },
    "1695129081": {
       "detailed_rating": {},
