@@ -65691,6 +65691,12 @@
    },
    "1646369246": {
       "detailed_rating": {
+         "-": [
+            [
+               "8221044",
+               1695910003
+            ]
+         ],
          "+": [
             [
                "7946145",
@@ -65754,9 +65760,9 @@
             ]
          ]
       },
-      "justified_rating": 15,
+      "justified_rating": 14,
       "justified_u_count": 15,
-      "justified_d_count": 0
+      "justified_d_count": 1
    },
    "1646372229": {
       "detailed_rating": {
