@@ -88608,6 +88608,10 @@
       "detailed_rating": {
          "+": [
             [
+               "6503482",
+               1695957724
+            ],
+            [
                "7995025",
                1695892003
             ],
@@ -88617,8 +88621,8 @@
             ]
          ]
       },
-      "justified_rating": 2,
-      "justified_u_count": 2,
+      "justified_rating": 3,
+      "justified_u_count": 3,
       "justified_d_count": 0
    }
 }
