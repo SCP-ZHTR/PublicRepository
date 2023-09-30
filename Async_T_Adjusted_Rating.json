@@ -72341,13 +72341,21 @@
       "detailed_rating": {
          "+": [
             [
+               "6709715",
+               1696085676
+            ],
+            [
+               "4291435",
+               1696085676
+            ],
+            [
                "6217438",
                1696085359
             ]
          ]
       },
-      "justified_rating": 1,
-      "justified_u_count": 1,
+      "justified_rating": 3,
+      "justified_u_count": 3,
       "justified_d_count": 0
    }
 }
