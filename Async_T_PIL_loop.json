@@ -113766,5 +113766,26 @@
       ],
       "title": "布蘭克",
       "votes": "1"
+   },
+   "1696084740": {
+      "comments": "0",
+      "created_at": "1696084740",
+      "created_by": "4357011",
+      "detailed_rating": {
+         "+": [],
+         "-": []
+      },
+      "fullname": "scp-7621",
+      "hidden_tags": [],
+      "id": "1450242777",
+      "rating": "0",
+      "tags": [
+         "eculid",
+         "en",
+         "scp",
+         "翻譯"
+      ],
+      "title": "SCP-7621 - 壞骰子和頑皮的骰子會被關進骰子監獄",
+      "votes": "0"
    }
 }
