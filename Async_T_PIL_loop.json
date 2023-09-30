@@ -113772,20 +113772,24 @@
       "created_at": "1696084740",
       "created_by": "4357011",
       "detailed_rating": {
-         "+": [],
-         "-": []
+         "+": [
+            [
+               "6217438",
+               1696085359
+            ]
+         ]
       },
       "fullname": "scp-7621",
       "hidden_tags": [],
       "id": "1450242777",
-      "rating": "0",
+      "rating": "1",
       "tags": [
-         "eculid",
          "en",
+         "euclid",
          "scp",
          "翻譯"
       ],
       "title": "SCP-7621 - 壞骰子和頑皮的骰子會被關進骰子監獄",
-      "votes": "0"
+      "votes": "1"
    }
 }
