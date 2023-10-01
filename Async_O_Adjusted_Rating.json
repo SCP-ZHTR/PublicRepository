@@ -88541,6 +88541,10 @@
       "detailed_rating": {
          "+": [
             [
+               "6952002",
+               1696177459
+            ],
+            [
                "7513990",
                1696089161
             ],
@@ -88620,8 +88624,8 @@
             ]
          ]
       },
-      "justified_rating": 17,
-      "justified_u_count": 18,
+      "justified_rating": 18,
+      "justified_u_count": 19,
       "justified_d_count": 1
    },
    "1695789050": {
