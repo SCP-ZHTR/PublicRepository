@@ -113721,13 +113721,17 @@
       "created_at": "1696162317",
       "created_by": "5370805",
       "detailed_rating": {
-         "+": [],
-         "-": []
+         "+": [
+            [
+               "4990678",
+               1696163010
+            ]
+         ]
       },
       "fullname": "scp-zh-739",
       "hidden_tags": [],
       "id": "1450253025",
-      "rating": "0",
+      "rating": "1",
       "tags": [
          "scp",
          "thaumiel",
@@ -113739,6 +113743,6 @@
          "資訊危害"
       ],
       "title": "SCP-ZH-739 - 《地氈法》",
-      "votes": "0"
+      "votes": "1"
    }
 }
