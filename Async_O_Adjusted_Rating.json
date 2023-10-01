@@ -88653,6 +88653,14 @@
       "detailed_rating": {
          "+": [
             [
+               "4291435",
+               1696166437
+            ],
+            [
+               "5435485",
+               1696166437
+            ],
+            [
                "7073060",
                1696164880
             ],
@@ -88662,8 +88670,8 @@
             ]
          ]
       },
-      "justified_rating": 2,
-      "justified_u_count": 2,
+      "justified_rating": 4,
+      "justified_u_count": 4,
       "justified_d_count": 0
    }
 }
