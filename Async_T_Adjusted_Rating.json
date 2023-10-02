@@ -72425,6 +72425,10 @@
       "detailed_rating": {
          "+": [
             [
+               "7073060",
+               1696244224
+            ],
+            [
                "5370805",
                1696232008
             ],
@@ -72450,8 +72454,8 @@
             ]
          ]
       },
-      "justified_rating": 6,
-      "justified_u_count": 6,
+      "justified_rating": 7,
+      "justified_u_count": 7,
       "justified_d_count": 0
    }
 }
