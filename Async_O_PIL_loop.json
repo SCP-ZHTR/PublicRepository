@@ -113858,19 +113858,27 @@
       "created_at": "1696262605",
       "created_by": "4264056",
       "detailed_rating": {
-         "+": [],
-         "-": []
+         "+": [
+            [
+               "7073060",
+               1696263170
+            ],
+            [
+               "5435485",
+               1696263170
+            ]
+         ]
       },
       "fullname": "wanderers:bar-story",
       "hidden_tags": [],
       "id": "1450266843",
-      "rating": "0",
+      "rating": "2",
       "tags": [
          "wanderers",
          "原創",
          "故事"
       ],
       "title": "人類、空賊和治安官走進酒吧",
-      "votes": "0"
+      "votes": "2"
    }
 }
