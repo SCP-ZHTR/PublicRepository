@@ -5920,9 +5920,16 @@
       "justified_d_count": 0
    },
    "1696205826": {
-      "detailed_rating": {},
-      "justified_rating": 0,
-      "justified_u_count": 0,
+      "detailed_rating": {
+         "+": [
+            [
+               "6217438",
+               1696207538
+            ]
+         ]
+      },
+      "justified_rating": 1,
+      "justified_u_count": 1,
       "justified_d_count": 0
    }
 }
