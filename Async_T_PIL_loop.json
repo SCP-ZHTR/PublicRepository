@@ -113372,13 +113372,20 @@
       "comments": "0",
       "created_at": "1695128404",
       "created_by": "7605593",
-      "detailed_rating": {},
+      "detailed_rating": {
+         "+": [
+            [
+               "6503482",
+               1696215751
+            ]
+         ]
+      },
       "fullname": "scp-171",
       "hidden_tags": [
          "_licensebox"
       ],
       "id": "1450048741",
-      "rating": "0",
+      "rating": "1",
       "tags": [
          "en",
          "euclid",
@@ -113389,7 +113396,7 @@
          "蜂巢思維"
       ],
       "title": "SCP-171 - 集體腦沫",
-      "votes": "0"
+      "votes": "1"
    },
    "1695128414": {
       "comments": "0",
