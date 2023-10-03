@@ -113944,6 +113944,10 @@
       "detailed_rating": {
          "+": [
             [
+               "5370805",
+               1696322680
+            ],
+            [
                "7073060",
                1696263170
             ],
@@ -113956,13 +113960,13 @@
       "fullname": "wanderers:bar-story",
       "hidden_tags": [],
       "id": "1450266843",
-      "rating": "2",
+      "rating": "3",
       "tags": [
          "wanderers",
          "原創",
          "故事"
       ],
       "title": "人類、空賊和治安官走進酒吧",
-      "votes": "2"
+      "votes": "3"
    }
 }
