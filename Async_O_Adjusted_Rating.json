@@ -84433,6 +84433,10 @@
       "detailed_rating": {
          "+": [
             [
+               "5701756",
+               1696300404
+            ],
+            [
                "7995025",
                1688192102
             ],
@@ -84476,8 +84480,8 @@
             ]
          ]
       },
-      "justified_rating": 8,
-      "justified_u_count": 9,
+      "justified_rating": 9,
+      "justified_u_count": 10,
       "justified_d_count": 1
    },
    "1688189217": {
