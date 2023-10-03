@@ -112900,7 +112900,7 @@
       "votes": "2"
    },
    "1694581690": {
-      "comments": "1",
+      "comments": "2",
       "created_at": "1694581690",
       "created_by": "7605593",
       "detailed_rating": {
@@ -113953,5 +113953,58 @@
       ],
       "title": "SCP-7528 - 縮影媒介：投影",
       "votes": "9"
+   },
+   "1696348800": {
+      "comments": "0",
+      "created_at": "1696348800",
+      "created_by": "7605593",
+      "detailed_rating": {
+         "+": [],
+         "-": []
+      },
+      "fullname": "scp-3326-jp",
+      "hidden_tags": [],
+      "id": "1450299054",
+      "rating": "0",
+      "tags": [
+         "jp",
+         "safe",
+         "scp",
+         "屍體",
+         "屍體史體",
+         "精神影響",
+         "翻譯",
+         "資訊危害"
+      ],
+      "title": "SCP-3326-JP - 所期望的結局",
+      "votes": "0"
+   },
+   "1696348802": {
+      "comments": "0",
+      "created_at": "1696348802",
+      "created_by": "7605593",
+      "detailed_rating": {
+         "+": [],
+         "-": []
+      },
+      "fullname": "scp-3423-jp",
+      "hidden_tags": [],
+      "id": "1450299055",
+      "rating": "0",
+      "tags": [
+         "jp",
+         "scp",
+         "屍體",
+         "屍體史體",
+         "強迫性",
+         "本質促動",
+         "無效化",
+         "生物性",
+         "翻譯",
+         "誤傳部",
+         "資訊危害"
+      ],
+      "title": "SCP-3423-JP - 無端自殺",
+      "votes": "0"
    }
 }
