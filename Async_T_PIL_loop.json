@@ -114006,5 +114006,30 @@
       ],
       "title": "SCP-3423-JP - 無端自殺",
       "votes": "0"
+   },
+   "1696389070": {
+      "comments": "0",
+      "created_at": "1696389070",
+      "created_by": "7605593",
+      "detailed_rating": {
+         "+": [],
+         "-": []
+      },
+      "fullname": "scp-325-jp",
+      "hidden_tags": [],
+      "id": "1450305318",
+      "rating": "0",
+      "tags": [
+         "euclid",
+         "jp",
+         "scp",
+         "人形",
+         "全球超自然聯盟",
+         "展出",
+         "活物",
+         "翻譯"
+      ],
+      "title": "SCP-325-JP - 四散飛人",
+      "votes": "0"
    }
 }
