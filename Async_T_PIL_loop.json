@@ -114039,5 +114039,47 @@
       ],
       "title": "SCP-325-JP - 四散飛人",
       "votes": "0"
+   },
+   "1696515255": {
+      "comments": "0",
+      "created_at": "1696515255",
+      "created_by": "7504530",
+      "detailed_rating": {
+         "+": [],
+         "-": []
+      },
+      "fullname": "matryoshka",
+      "hidden_tags": [],
+      "id": "1450375140",
+      "rating": "0",
+      "tags": [
+         "en",
+         "故事",
+         "極冷戰",
+         "翻譯"
+      ],
+      "title": "俄羅斯套娃",
+      "votes": "0"
+   },
+   "1696515383": {
+      "comments": "0",
+      "created_at": "1696515383",
+      "created_by": "7504530",
+      "detailed_rating": {
+         "+": [],
+         "-": []
+      },
+      "fullname": "matryoshka-prologue",
+      "hidden_tags": [],
+      "id": "1450375147",
+      "rating": "0",
+      "tags": [
+         "en",
+         "故事",
+         "極冷戰",
+         "翻譯"
+      ],
+      "title": "俄羅斯套娃：序曲 - 紐約，1950",
+      "votes": "0"
    }
 }
