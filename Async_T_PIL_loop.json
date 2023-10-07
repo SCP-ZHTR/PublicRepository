@@ -114394,19 +114394,23 @@
       "created_at": "1696700365",
       "created_by": "5415046",
       "detailed_rating": {
-         "+": [],
-         "-": []
+         "+": [
+            [
+               "4990678",
+               1696713846
+            ]
+         ]
       },
       "fullname": "history-of-the-universe-part-four",
       "hidden_tags": [],
       "id": "1450413315",
-      "rating": "0",
+      "rating": "1",
       "tags": [
          "en",
          "心得",
          "翻譯"
       ],
       "title": "萬象之源（宇宙史）：第四章",
-      "votes": "0"
+      "votes": "1"
    }
 }
