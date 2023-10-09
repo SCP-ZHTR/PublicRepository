@@ -114444,6 +114444,10 @@
       "detailed_rating": {
          "+": [
             [
+               "8452537",
+               1696836275
+            ],
+            [
                "6217438",
                1696820859
             ]
@@ -114452,13 +114456,13 @@
       "fullname": "secure-facility-dossier-area-12",
       "hidden_tags": [],
       "id": "1450454290",
-      "rating": "1",
+      "rating": "2",
       "tags": [
          "en",
          "站點",
          "翻譯"
       ],
       "title": "維安設施檔案：Area-12",
-      "votes": "1"
+      "votes": "2"
    }
 }
