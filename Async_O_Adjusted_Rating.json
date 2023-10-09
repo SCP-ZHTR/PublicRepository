@@ -88929,13 +88929,21 @@
       "detailed_rating": {
          "+": [
             [
+               "6217438",
+               1696854687
+            ],
+            [
+               "5435485",
+               1696854687
+            ],
+            [
                "6503482",
                1696854023
             ]
          ]
       },
-      "justified_rating": 1,
-      "justified_u_count": 1,
+      "justified_rating": 3,
+      "justified_u_count": 3,
       "justified_d_count": 0
    }
 }
