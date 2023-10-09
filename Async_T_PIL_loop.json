@@ -114498,19 +114498,23 @@
       "created_at": "1696869219",
       "created_by": "6217438",
       "detailed_rating": {
-         "+": [],
-         "-": []
+         "+": [
+            [
+               "6217438",
+               1696869335
+            ]
+         ]
       },
       "fullname": "it-will-all-be-okay",
       "hidden_tags": [],
       "id": "1450501693",
-      "rating": "0",
+      "rating": "1",
       "tags": [
          "en",
          "故事",
          "翻譯"
       ],
       "title": "都會好起來的",
-      "votes": "0"
+      "votes": "1"
    }
 }
