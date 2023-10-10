@@ -42327,26 +42327,26 @@
    },
    "1627374787": {
       "detailed_rating": {
-         "+": [
-            [
-               "7469850",
-               1628956800
-            ],
-            [
-               "6736293",
-               1627747200
-            ]
-         ],
          "-": [
+            [
+               "8221044",
+               1696928650
+            ],
             [
                "5565302",
                1627401600
             ]
+         ],
+         "+": [
+            [
+               "6736293",
+               1627747200
+            ]
          ]
       },
-      "justified_rating": 1,
-      "justified_u_count": 2,
-      "justified_d_count": 1
+      "justified_rating": -1,
+      "justified_u_count": 1,
+      "justified_d_count": 2
    },
    "1627472812": {
       "detailed_rating": {
