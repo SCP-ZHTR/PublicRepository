@@ -20748,5 +20748,37 @@
       "tags": [],
       "title": "Dir Chrome",
       "votes": "0"
+   },
+   "1696940479": {
+      "comments": "0",
+      "created_at": "1696940479",
+      "created_by": "4990678",
+      "detailed_rating": {
+         "+": [],
+         "-": []
+      },
+      "fullname": "character:dir-jasmine-metha",
+      "hidden_tags": [],
+      "id": "1450531095",
+      "rating": "0",
+      "tags": [],
+      "title": "Dir Jasmine Metha",
+      "votes": "0"
+   },
+   "1696940595": {
+      "comments": "0",
+      "created_at": "1696940595",
+      "created_by": "4990678",
+      "detailed_rating": {
+         "+": [],
+         "-": []
+      },
+      "fullname": "character:dir-reverberate",
+      "hidden_tags": [],
+      "id": "1450531100",
+      "rating": "0",
+      "tags": [],
+      "title": "Dir Reverberate",
+      "votes": "0"
    }
 }
