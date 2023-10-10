@@ -20524,5 +20524,53 @@
       "tags": [],
       "title": "Dr Kris Boone",
       "votes": "0"
+   },
+   "1696935988": {
+      "comments": "0",
+      "created_at": "1696935988",
+      "created_by": "5415046",
+      "detailed_rating": {
+         "+": [],
+         "-": []
+      },
+      "fullname": "character:dr-liesbeth",
+      "hidden_tags": [],
+      "id": "1450530116",
+      "rating": "0",
+      "tags": [],
+      "title": "Dr Liesbeth",
+      "votes": "0"
+   },
+   "1696936218": {
+      "comments": "0",
+      "created_at": "1696936218",
+      "created_by": "5415046",
+      "detailed_rating": {
+         "+": [],
+         "-": []
+      },
+      "fullname": "character:res-lucifelle",
+      "hidden_tags": [],
+      "id": "1450530331",
+      "rating": "0",
+      "tags": [],
+      "title": "Res Lucifelle",
+      "votes": "0"
+   },
+   "1696936285": {
+      "comments": "0",
+      "created_at": "1696936285",
+      "created_by": "5415046",
+      "detailed_rating": {
+         "+": [],
+         "-": []
+      },
+      "fullname": "character:dr-semibreve",
+      "hidden_tags": [],
+      "id": "1450530394",
+      "rating": "0",
+      "tags": [],
+      "title": "Dr Semibreve",
+      "votes": "0"
    }
 }
