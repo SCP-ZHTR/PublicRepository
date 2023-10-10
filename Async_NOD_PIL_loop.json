@@ -20828,5 +20828,53 @@
       "tags": [],
       "title": "Dir Makoto",
       "votes": "0"
+   },
+   "1696941353": {
+      "comments": "0",
+      "created_at": "1696941353",
+      "created_by": "4990678",
+      "detailed_rating": {
+         "+": [],
+         "-": []
+      },
+      "fullname": "character:contract-cidal-dongi",
+      "hidden_tags": [],
+      "id": "1450531194",
+      "rating": "0",
+      "tags": [],
+      "title": "Contract Cidal Dongi",
+      "votes": "0"
+   },
+   "1696941464": {
+      "comments": "0",
+      "created_at": "1696941464",
+      "created_by": "4990678",
+      "detailed_rating": {
+         "+": [],
+         "-": []
+      },
+      "fullname": "character:aic-koschei",
+      "hidden_tags": [],
+      "id": "1450531197",
+      "rating": "0",
+      "tags": [],
+      "title": "Aic Koschei",
+      "votes": "0"
+   },
+   "1696941520": {
+      "comments": "0",
+      "created_at": "1696941520",
+      "created_by": "4990678",
+      "detailed_rating": {
+         "+": [],
+         "-": []
+      },
+      "fullname": "character:aic-kyo",
+      "hidden_tags": [],
+      "id": "1450531201",
+      "rating": "0",
+      "tags": [],
+      "title": "Aic Kyo",
+      "votes": "0"
    }
 }
