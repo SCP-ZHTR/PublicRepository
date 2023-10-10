@@ -20780,5 +20780,37 @@
       "tags": [],
       "title": "Dir Reverberate",
       "votes": "0"
+   },
+   "1696940743": {
+      "comments": "0",
+      "created_at": "1696940743",
+      "created_by": "4990678",
+      "detailed_rating": {
+         "+": [],
+         "-": []
+      },
+      "fullname": "character:dir-shaman-surge",
+      "hidden_tags": [],
+      "id": "1450531106",
+      "rating": "0",
+      "tags": [],
+      "title": "Dir Shaman Surge",
+      "votes": "0"
+   },
+   "1696940863": {
+      "comments": "0",
+      "created_at": "1696940863",
+      "created_by": "4990678",
+      "detailed_rating": {
+         "+": [],
+         "-": []
+      },
+      "fullname": "character:dir-u-n-owen",
+      "hidden_tags": [],
+      "id": "1450531115",
+      "rating": "0",
+      "tags": [],
+      "title": "Dir U N Owen",
+      "votes": "0"
    }
 }
