@@ -72720,6 +72720,10 @@
       "detailed_rating": {
          "+": [
             [
+               "7513990",
+               1696921075
+            ],
+            [
                "8792088",
                1696870500
             ],
@@ -72729,8 +72733,8 @@
             ]
          ]
       },
-      "justified_rating": 2,
-      "justified_u_count": 2,
+      "justified_rating": 3,
+      "justified_u_count": 3,
       "justified_d_count": 0
    }
 }
