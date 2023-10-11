@@ -114799,13 +114799,17 @@
       "created_at": "1697036948",
       "created_by": "6503482",
       "detailed_rating": {
-         "+": [],
-         "-": []
+         "+": [
+            [
+               "6217438",
+               1697038905
+            ]
+         ]
       },
       "fullname": "history-of-the-universe-part-five",
       "hidden_tags": [],
       "id": "1450587485",
-      "rating": "0",
+      "rating": "1",
       "tags": [
          "en",
          "心得",
@@ -114813,7 +114817,7 @@
          "重寫"
       ],
       "title": "萬象之源（宇宙史）：第五章",
-      "votes": "0"
+      "votes": "1"
    },
    "1697038507": {
       "comments": "0",
