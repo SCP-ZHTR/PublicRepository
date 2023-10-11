@@ -114644,5 +114644,29 @@
       ],
       "title": "SCP-7506 - 熨平褶痕",
       "votes": "1"
+   },
+   "1697020932": {
+      "comments": "0",
+      "created_at": "1697020932",
+      "created_by": "6217438",
+      "detailed_rating": {
+         "+": [],
+         "-": []
+      },
+      "fullname": "scp-7615",
+      "hidden_tags": [],
+      "id": "1450575277",
+      "rating": "0",
+      "tags": [
+         "en",
+         "safe",
+         "scp",
+         "反常部",
+         "結構物",
+         "翻譯",
+         "超維度"
+      ],
+      "title": "SCP-7615 - 避難所",
+      "votes": "0"
    }
 }
