@@ -88977,13 +88977,17 @@
       "detailed_rating": {
          "-": [
             [
+               "4990678",
+               1697112998
+            ],
+            [
                "5435485",
                1697112626
             ]
          ]
       },
-      "justified_rating": -1,
+      "justified_rating": -2,
       "justified_u_count": 0,
-      "justified_d_count": 1
+      "justified_d_count": 2
    }
 }
