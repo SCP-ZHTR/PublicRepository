@@ -88977,6 +88977,10 @@
       "detailed_rating": {
          "-": [
             [
+               "8792088",
+               1697118326
+            ],
+            [
                "4990678",
                1697112998
             ],
@@ -88986,8 +88990,8 @@
             ]
          ]
       },
-      "justified_rating": -2,
+      "justified_rating": -3,
       "justified_u_count": 0,
-      "justified_d_count": 2
+      "justified_d_count": 3
    }
 }
