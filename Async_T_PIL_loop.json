@@ -114939,13 +114939,17 @@
       "created_at": "1697117756",
       "created_by": "6217438",
       "detailed_rating": {
-         "+": [],
-         "-": []
+         "+": [
+            [
+               "6217438",
+               1697117953
+            ]
+         ]
       },
       "fullname": "scp-5349",
       "hidden_tags": [],
       "id": "1450609790",
-      "rating": "0",
+      "rating": "1",
       "tags": [
          "cousin-johnny",
          "en",
@@ -114961,6 +114965,6 @@
          "翻譯"
       ],
       "title": "SCP-5349 - 谷騰堡蟲聖經",
-      "votes": "0"
+      "votes": "1"
    }
 }
