@@ -72832,13 +72832,21 @@
       "detailed_rating": {
          "+": [
             [
+               "6091157",
+               1697121077
+            ],
+            [
+               "5251681",
+               1697121077
+            ],
+            [
                "6217438",
                1697024856
             ]
          ]
       },
-      "justified_rating": 1,
-      "justified_u_count": 1,
+      "justified_rating": 3,
+      "justified_u_count": 3,
       "justified_d_count": 0
    },
    "1697030050": {
