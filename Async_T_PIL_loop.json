@@ -115144,13 +115144,17 @@
       "created_at": "1697185481",
       "created_by": "6217438",
       "detailed_rating": {
-         "+": [],
-         "-": []
+         "+": [
+            [
+               "6217438",
+               1697185924
+            ]
+         ]
       },
       "fullname": "when-day-broke-the-unbreakable-reptile",
       "hidden_tags": [],
       "id": "1450622115",
-      "rating": "0",
+      "rating": "1",
       "tags": [
          "en",
          "不滅孽蜥",
@@ -115160,6 +115164,6 @@
          "翻譯"
       ],
       "title": "破曉時分的不滅孽蜥",
-      "votes": "0"
+      "votes": "1"
    }
 }
