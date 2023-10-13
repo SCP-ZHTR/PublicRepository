@@ -73064,13 +73064,17 @@
       "detailed_rating": {
          "+": [
             [
+               "6091157",
+               1697186480
+            ],
+            [
                "6217438",
                1697185924
             ]
          ]
       },
-      "justified_rating": 1,
-      "justified_u_count": 1,
+      "justified_rating": 2,
+      "justified_u_count": 2,
       "justified_d_count": 0
    }
 }
