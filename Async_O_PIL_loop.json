@@ -14158,7 +14158,7 @@
          "合作",
          "指導"
       ],
-      "title": "工作人員及角色檔案-ZH",
+      "title": "工作人員及角色檔案-ZH （已歸檔）",
       "votes": "22"
    },
    "1565877688": {
@@ -114157,5 +114157,25 @@
       ],
       "title": "SCP-ZH-022 - 迷霧中的孤島",
       "votes": "5"
+   },
+   "1697208830": {
+      "comments": "0",
+      "created_at": "1697208830",
+      "created_by": "5415046",
+      "detailed_rating": {
+         "+": [],
+         "-": []
+      },
+      "fullname": "personnel-and-character-dossier-zh",
+      "hidden_tags": [],
+      "id": "1450631958",
+      "rating": "0",
+      "tags": [
+         "原創",
+         "合作",
+         "資源"
+      ],
+      "title": "人物檔案 - ZH",
+      "votes": "0"
    }
 }
