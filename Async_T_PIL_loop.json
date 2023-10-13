@@ -115072,13 +115072,17 @@
       "created_at": "1697170805",
       "created_by": "6217438",
       "detailed_rating": {
-         "+": [],
-         "-": []
+         "+": [
+            [
+               "6217438",
+               1697171049
+            ]
+         ]
       },
       "fullname": "scp-5925",
       "hidden_tags": [],
       "id": "1450617549",
-      "rating": "0",
+      "rating": "1",
       "tags": [
          "en",
          "homo-sapiens-sidhe",
@@ -115097,6 +115101,6 @@
          "適應性"
       ],
       "title": "SCP-5925 - 冬青王",
-      "votes": "0"
+      "votes": "1"
    }
 }
