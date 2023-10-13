@@ -73047,13 +73047,17 @@
       "detailed_rating": {
          "+": [
             [
+               "8404617",
+               1697176887
+            ],
+            [
                "6217438",
                1697176647
             ]
          ]
       },
-      "justified_rating": 1,
-      "justified_u_count": 1,
+      "justified_rating": 2,
+      "justified_u_count": 2,
       "justified_d_count": 0
    }
 }
