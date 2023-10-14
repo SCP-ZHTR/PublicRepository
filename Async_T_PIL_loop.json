@@ -115363,13 +115363,17 @@
       "created_at": "1697285052",
       "created_by": "6217438",
       "detailed_rating": {
-         "+": [],
-         "-": []
+         "+": [
+            [
+               "6217438",
+               1697288373
+            ]
+         ]
       },
       "fullname": "djkaktus-s-proposal-iii",
       "hidden_tags": [],
       "id": "1450664903",
-      "rating": "0",
+      "rating": "1",
       "tags": [
          "001提案",
          "aaron-siegel",
@@ -115390,6 +115394,6 @@
          "黑皇后"
       ],
       "title": "djkaktus的提案III",
-      "votes": "0"
+      "votes": "1"
    }
 }
