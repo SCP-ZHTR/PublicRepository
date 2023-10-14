@@ -114175,7 +114175,9 @@
          "-": []
       },
       "fullname": "personnel-and-character-dossier-zh",
-      "hidden_tags": [],
+      "hidden_tags": [
+         "_禁黑"
+      ],
       "id": "1450631958",
       "rating": "0",
       "tags": [
