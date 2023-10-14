@@ -21193,5 +21193,59 @@
       ],
       "title": "十二",
       "votes": "0"
+   },
+   "1697285857": {
+      "comments": "0",
+      "created_at": "1697285857",
+      "created_by": "6217438",
+      "detailed_rating": {
+         "+": [],
+         "-": []
+      },
+      "fullname": "fragment:djkaktus-s-proposal-iii-5",
+      "hidden_tags": [],
+      "id": "1450666059",
+      "rating": "0",
+      "tags": [
+         "段落",
+         "翻譯"
+      ],
+      "title": "日誌 2",
+      "votes": "0"
+   },
+   "1697285983": {
+      "comments": "0",
+      "created_at": "1697285983",
+      "created_by": "6217438",
+      "detailed_rating": {
+         "+": [],
+         "-": []
+      },
+      "fullname": "fragment:djkaktus-s-proposal-iii-6",
+      "hidden_tags": [],
+      "id": "1450666558",
+      "rating": "0",
+      "tags": [
+         "段落",
+         "翻譯"
+      ],
+      "title": "十一",
+      "votes": "0"
+   },
+   "1697286121": {
+      "comments": "0",
+      "created_at": "1697286121",
+      "created_by": "6217438",
+      "detailed_rating": {
+         "+": [],
+         "-": []
+      },
+      "fullname": "fragment:djkaktus-s-proposal-iii-7",
+      "hidden_tags": [],
+      "id": "1450666592",
+      "rating": "0",
+      "tags": [],
+      "title": "日誌 3",
+      "votes": "0"
    }
 }
