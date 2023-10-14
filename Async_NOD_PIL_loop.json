@@ -21307,5 +21307,81 @@
       ],
       "title": "九",
       "votes": "0"
+   },
+   "1697286441": {
+      "comments": "0",
+      "created_at": "1697286441",
+      "created_by": "6217438",
+      "detailed_rating": {
+         "+": [],
+         "-": []
+      },
+      "fullname": "fragment:djkaktus-s-proposal-iii-11",
+      "hidden_tags": [],
+      "id": "1450667140",
+      "rating": "0",
+      "tags": [
+         "段落",
+         "翻譯"
+      ],
+      "title": "日誌 5",
+      "votes": "0"
+   },
+   "1697286559": {
+      "comments": "0",
+      "created_at": "1697286559",
+      "created_by": "6217438",
+      "detailed_rating": {
+         "+": [],
+         "-": []
+      },
+      "fullname": "fragment:djkaktus-s-proposal-iii-12",
+      "hidden_tags": [],
+      "id": "1450667148",
+      "rating": "0",
+      "tags": [
+         "段落",
+         "翻譯"
+      ],
+      "title": "八",
+      "votes": "0"
+   },
+   "1697286609": {
+      "comments": "0",
+      "created_at": "1697286609",
+      "created_by": "6217438",
+      "detailed_rating": {
+         "+": [],
+         "-": []
+      },
+      "fullname": "fragment:djkaktus-s-proposal-iii-13",
+      "hidden_tags": [],
+      "id": "1450667154",
+      "rating": "0",
+      "tags": [
+         "段落",
+         "翻譯"
+      ],
+      "title": "日誌 6",
+      "votes": "0"
+   },
+   "1697286722": {
+      "comments": "0",
+      "created_at": "1697286722",
+      "created_by": "6217438",
+      "detailed_rating": {
+         "+": [],
+         "-": []
+      },
+      "fullname": "fragment:djkaktus-s-proposal-iii-14",
+      "hidden_tags": [],
+      "id": "1450667652",
+      "rating": "0",
+      "tags": [
+         "段落",
+         "翻譯"
+      ],
+      "title": "七",
+      "votes": "0"
    }
 }
