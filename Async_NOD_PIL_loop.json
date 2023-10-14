@@ -21573,5 +21573,62 @@
       ],
       "title": "二",
       "votes": "0"
+   },
+   "1697287701": {
+      "comments": "0",
+      "created_at": "1697287701",
+      "created_by": "6217438",
+      "detailed_rating": {
+         "+": [],
+         "-": []
+      },
+      "fullname": "fragment:djkaktus-s-proposal-iii-25",
+      "hidden_tags": [],
+      "id": "1450668755",
+      "rating": "0",
+      "tags": [
+         "段落",
+         "翻譯"
+      ],
+      "title": "一",
+      "votes": "0"
+   },
+   "1697287792": {
+      "comments": "0",
+      "created_at": "1697287792",
+      "created_by": "6217438",
+      "detailed_rating": {
+         "+": [],
+         "-": []
+      },
+      "fullname": "fragment:djkaktus-s-proposal-iii-26",
+      "hidden_tags": [],
+      "id": "1450668757",
+      "rating": "0",
+      "tags": [
+         "段落",
+         "翻譯"
+      ],
+      "title": "終章",
+      "votes": "0"
+   },
+   "1697287854": {
+      "comments": "0",
+      "created_at": "1697287854",
+      "created_by": "6217438",
+      "detailed_rating": {
+         "+": [],
+         "-": []
+      },
+      "fullname": "fragment:djkaktus-s-proposal-iii-27",
+      "hidden_tags": [],
+      "id": "1450668765",
+      "rating": "0",
+      "tags": [
+         "段落",
+         "翻譯"
+      ],
+      "title": "銜尾蛇",
+      "votes": "0"
    }
 }
