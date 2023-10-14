@@ -21149,8 +21149,49 @@
       "hidden_tags": [],
       "id": "1450665564",
       "rating": "0",
-      "tags": [],
+      "tags": [
+         "段落",
+         "翻譯"
+      ],
       "title": "十三",
+      "votes": "0"
+   },
+   "1697285648": {
+      "comments": "0",
+      "created_at": "1697285648",
+      "created_by": "6217438",
+      "detailed_rating": {
+         "+": [],
+         "-": []
+      },
+      "fullname": "fragment:djkaktus-s-proposal-iii-3",
+      "hidden_tags": [],
+      "id": "1450665969",
+      "rating": "0",
+      "tags": [
+         "段落",
+         "翻譯"
+      ],
+      "title": "日誌 1",
+      "votes": "0"
+   },
+   "1697285762": {
+      "comments": "0",
+      "created_at": "1697285762",
+      "created_by": "6217438",
+      "detailed_rating": {
+         "+": [],
+         "-": []
+      },
+      "fullname": "fragment:djkaktus-s-proposal-iii-4",
+      "hidden_tags": [],
+      "id": "1450666023",
+      "rating": "0",
+      "tags": [
+         "段落",
+         "翻譯"
+      ],
+      "title": "十二",
       "votes": "0"
    }
 }
