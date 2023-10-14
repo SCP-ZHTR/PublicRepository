@@ -21244,8 +21244,68 @@
       "hidden_tags": [],
       "id": "1450666592",
       "rating": "0",
-      "tags": [],
+      "tags": [
+         "段落",
+         "翻譯"
+      ],
       "title": "日誌 3",
+      "votes": "0"
+   },
+   "1697286231": {
+      "comments": "0",
+      "created_at": "1697286231",
+      "created_by": "6217438",
+      "detailed_rating": {
+         "+": [],
+         "-": []
+      },
+      "fullname": "fragment:djkaktus-s-proposal-iii-8",
+      "hidden_tags": [],
+      "id": "1450666629",
+      "rating": "0",
+      "tags": [
+         "段落",
+         "翻譯"
+      ],
+      "title": "十",
+      "votes": "0"
+   },
+   "1697286292": {
+      "comments": "0",
+      "created_at": "1697286292",
+      "created_by": "6217438",
+      "detailed_rating": {
+         "+": [],
+         "-": []
+      },
+      "fullname": "fragment:djkaktus-s-proposal-iii-9",
+      "hidden_tags": [],
+      "id": "1450666934",
+      "rating": "0",
+      "tags": [
+         "段落",
+         "翻譯"
+      ],
+      "title": "日誌 4",
+      "votes": "0"
+   },
+   "1697286384": {
+      "comments": "0",
+      "created_at": "1697286384",
+      "created_by": "6217438",
+      "detailed_rating": {
+         "+": [],
+         "-": []
+      },
+      "fullname": "fragment:djkaktus-s-proposal-iii-10",
+      "hidden_tags": [],
+      "id": "1450667136",
+      "rating": "0",
+      "tags": [
+         "段落",
+         "翻譯"
+      ],
+      "title": "九",
       "votes": "0"
    }
 }
