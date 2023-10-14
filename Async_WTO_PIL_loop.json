@@ -9954,15 +9954,19 @@
       "created_at": "1697294845",
       "created_by": "6217438",
       "detailed_rating": {
-         "+": [],
-         "-": []
+         "+": [
+            [
+               "6217438",
+               1697295008
+            ]
+         ]
       },
       "fullname": "scp-6427",
       "hidden_tags": [],
       "id": "1450675375",
-      "rating": "0",
+      "rating": "1",
       "tags": [],
       "title": "SCP-6427 - 夜間蒙難",
-      "votes": "0"
+      "votes": "1"
    }
 }
