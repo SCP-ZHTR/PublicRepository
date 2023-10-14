@@ -9954,15 +9954,19 @@
       "created_at": "1697282473",
       "created_by": "6217438",
       "detailed_rating": {
-         "+": [],
-         "-": []
+         "+": [
+            [
+               "6217438",
+               1697282669
+            ]
+         ]
       },
       "fullname": "scp-5403",
       "hidden_tags": [],
       "id": "1450662595",
-      "rating": "0",
+      "rating": "1",
       "tags": [],
       "title": "Scp 5403",
-      "votes": "0"
+      "votes": "1"
    }
 }
