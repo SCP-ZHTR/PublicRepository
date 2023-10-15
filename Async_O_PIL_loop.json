@@ -114205,19 +114205,24 @@
       "created_at": "1697390213",
       "created_by": "5565302",
       "detailed_rating": {
-         "+": [],
-         "-": []
+         "+": [
+            [
+               "6091157",
+               1697391336
+            ]
+         ]
       },
       "fullname": "scp-zh-129",
       "hidden_tags": [],
       "id": "1450766552",
-      "rating": "0",
+      "rating": "1",
       "tags": [
          "2023紅藍爭霸賽",
          "neutralized",
+         "scp",
          "原創"
       ],
       "title": "SCP-ZH-129 - 給愛麗絲",
-      "votes": "0"
+      "votes": "1"
    }
 }
