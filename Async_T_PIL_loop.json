@@ -115489,5 +115489,29 @@
       ],
       "title": "此頁面尚不存在！",
       "votes": "1"
+   },
+   "1697355001": {
+      "comments": "0",
+      "created_at": "1697355001",
+      "created_by": "4357011",
+      "detailed_rating": {
+         "+": [],
+         "-": []
+      },
+      "fullname": "scp-6985",
+      "hidden_tags": [],
+      "id": "1450708102",
+      "rating": "0",
+      "tags": [
+         "en",
+         "euclid",
+         "scp",
+         "不可摧毀",
+         "球體",
+         "翻譯",
+         "蜘蛛"
+      ],
+      "title": "SCP-6985 - 反蜘蛛！",
+      "votes": "0"
    }
 }
