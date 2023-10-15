@@ -114199,5 +114199,25 @@
       ],
       "title": "人物檔案 - ZH",
       "votes": "1"
+   },
+   "1697390213": {
+      "comments": "0",
+      "created_at": "1697390213",
+      "created_by": "5565302",
+      "detailed_rating": {
+         "+": [],
+         "-": []
+      },
+      "fullname": "scp-zh-129",
+      "hidden_tags": [],
+      "id": "1450766552",
+      "rating": "0",
+      "tags": [
+         "2023紅藍爭霸賽",
+         "neutralized",
+         "原創"
+      ],
+      "title": "SCP-ZH-129",
+      "votes": "0"
    }
 }
