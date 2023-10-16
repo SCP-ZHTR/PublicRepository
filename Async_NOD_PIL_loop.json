@@ -2101,19 +2101,23 @@
       "created_at": "1563260542",
       "created_by": "4990678",
       "detailed_rating": {
-         "+": [],
-         "-": []
+         "+": [
+            [
+               "6690335",
+               1697465719
+            ]
+         ]
       },
       "fullname": "theme:dustjacket",
       "hidden_tags": [],
       "id": "846573233",
-      "rating": "0",
+      "rating": "1",
       "tags": [
          "外觀主題",
          "翻譯"
       ],
       "title": "流浪者的護封 主題 css",
-      "votes": "0"
+      "votes": "1"
    },
    "1563558023": {
       "comments": "1",
