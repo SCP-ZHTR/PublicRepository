@@ -114314,13 +114314,17 @@
       "created_at": "1697472129",
       "created_by": "6690335",
       "detailed_rating": {
-         "+": [],
-         "-": []
+         "+": [
+            [
+               "4990678",
+               1697489644
+            ]
+         ]
       },
       "fullname": "flash-fiction-collection-one",
       "hidden_tags": [],
       "id": "1450782754",
-      "rating": "0",
+      "rating": "1",
       "tags": [
          "2023紅藍爭霸賽",
          "wanderers",
@@ -114329,6 +114333,6 @@
          "散文"
       ],
       "title": "《極短篇合集》節錄之一",
-      "votes": "0"
+      "votes": "1"
    }
 }
