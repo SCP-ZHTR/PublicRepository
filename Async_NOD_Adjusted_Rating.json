@@ -9937,10 +9937,35 @@
       "justified_d_count": 0
    },
    "1697635111": {
-      "detailed_rating": {},
-      "justified_rating": 0,
-      "justified_u_count": 0,
-      "justified_d_count": 0
+      "detailed_rating": {
+         "+": [
+            [
+               "8794559",
+               1697640867
+            ]
+         ],
+         "-": [
+            [
+               "8452537",
+               1697640867
+            ],
+            [
+               "6217438",
+               1697640867
+            ],
+            [
+               "4239775",
+               1697640867
+            ],
+            [
+               "8543386",
+               1697640867
+            ]
+         ]
+      },
+      "justified_rating": -3,
+      "justified_u_count": 1,
+      "justified_d_count": 4
    },
    "1697639236": {
       "detailed_rating": {},
