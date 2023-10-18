@@ -89166,7 +89166,17 @@
    },
    "1697635111": {
       "detailed_rating": {
+         "+": [
+            [
+               "8794559",
+               1697640505
+            ]
+         ],
          "-": [
+            [
+               "8452537",
+               1697640505
+            ],
             [
                "6217438",
                1697640127
@@ -89182,7 +89192,7 @@
          ]
       },
       "justified_rating": -3,
-      "justified_u_count": 0,
-      "justified_d_count": 3
+      "justified_u_count": 1,
+      "justified_d_count": 4
    }
 }
