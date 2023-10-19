@@ -115727,13 +115727,17 @@
       "created_at": "1697678406",
       "created_by": "5370805",
       "detailed_rating": {
-         "+": [],
-         "-": []
+         "+": [
+            [
+               "5435485",
+               1697678883
+            ]
+         ]
       },
       "fullname": "sigma-9-themes",
       "hidden_tags": [],
       "id": "1450825358",
-      "rating": "0",
+      "rating": "1",
       "tags": [
          "en",
          "中心",
@@ -115742,6 +115746,6 @@
          "翻譯"
       ],
       "title": "Sigma-9 主題中心",
-      "votes": "0"
+      "votes": "1"
    }
 }
