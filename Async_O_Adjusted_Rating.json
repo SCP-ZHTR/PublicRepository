@@ -89172,13 +89172,17 @@
       "detailed_rating": {
          "+": [
             [
+               "5435485",
+               1697894699
+            ],
+            [
                "5565302",
                1697888712
             ]
          ]
       },
-      "justified_rating": 1,
-      "justified_u_count": 1,
+      "justified_rating": 2,
+      "justified_u_count": 2,
       "justified_d_count": 0
    }
 }
