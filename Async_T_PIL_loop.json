@@ -115877,13 +115877,17 @@
       "created_at": "1697889064",
       "created_by": "6217438",
       "detailed_rating": {
-         "+": [],
-         "-": []
+         "+": [
+            [
+               "6217438",
+               1697889434
+            ]
+         ]
       },
       "fullname": "secure-facility-dossier-lunar-area-32",
       "hidden_tags": [],
       "id": "1450862489",
-      "rating": "0",
+      "rating": "1",
       "tags": [
          "en",
          "中心",
@@ -115891,6 +115895,6 @@
          "翻譯"
       ],
       "title": "維安設施檔案：月球無人區Area-32",
-      "votes": "0"
+      "votes": "1"
    }
 }
