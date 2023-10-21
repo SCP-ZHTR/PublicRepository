@@ -73404,26 +73404,34 @@
       "detailed_rating": {
          "+": [
             [
+               "6217438",
+               1697889661
+            ],
+            [
                "5370805",
                1697819752
             ]
          ]
       },
-      "justified_rating": 1,
-      "justified_u_count": 1,
+      "justified_rating": 2,
+      "justified_u_count": 2,
       "justified_d_count": 0
    },
    "1697889064": {
       "detailed_rating": {
          "+": [
             [
+               "5370805",
+               1697889661
+            ],
+            [
                "6217438",
                1697889434
             ]
          ]
       },
-      "justified_rating": 1,
-      "justified_u_count": 1,
+      "justified_rating": 2,
+      "justified_u_count": 2,
       "justified_d_count": 0
    }
 }
