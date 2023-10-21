@@ -114392,13 +114392,17 @@
       "created_at": "1697900053",
       "created_by": "4990678",
       "detailed_rating": {
-         "+": [],
-         "-": []
+         "+": [
+            [
+               "6091157",
+               1697900713
+            ]
+         ]
       },
       "fullname": "wanderers:wanderers:lonely-planet22",
       "hidden_tags": [],
       "id": "1450864432",
-      "rating": "0",
+      "rating": "1",
       "tags": [
          "2023紅藍爭霸賽",
          "wanderers",
@@ -114406,6 +114410,6 @@
          "故事"
       ],
       "title": "箱子裡的希望",
-      "votes": "0"
+      "votes": "1"
    }
 }
