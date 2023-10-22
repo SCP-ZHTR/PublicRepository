@@ -114518,19 +114518,23 @@
       "created_at": "1697990899",
       "created_by": "4264056",
       "detailed_rating": {
-         "+": [],
-         "-": []
+         "+": [
+            [
+               "6217438",
+               1697993691
+            ]
+         ]
       },
       "fullname": "anthurium",
       "hidden_tags": [],
       "id": "1450878327",
-      "rating": "0",
+      "rating": "1",
       "tags": [
          "site-zh-44",
          "原創",
          "故事"
       ],
       "title": "火鶴花",
-      "votes": "0"
+      "votes": "1"
    }
 }
