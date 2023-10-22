@@ -89242,6 +89242,10 @@
       "detailed_rating": {
          "-": [
             [
+               "8480087",
+               1697977205
+            ],
+            [
                "4990678",
                1697972732
             ],
@@ -89259,8 +89263,8 @@
             ]
          ]
       },
-      "justified_rating": -4,
+      "justified_rating": -5,
       "justified_u_count": 0,
-      "justified_d_count": 4
+      "justified_d_count": 5
    }
 }
