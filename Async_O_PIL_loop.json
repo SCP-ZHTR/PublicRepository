@@ -114454,19 +114454,23 @@
       "created_at": "1697960385",
       "created_by": "7586696",
       "detailed_rating": {
-         "+": [],
-         "-": []
+         "-": [
+            [
+               "8543386",
+               1697968351
+            ]
+         ]
       },
       "fullname": "scp-zh-156",
       "hidden_tags": [],
       "id": "1450872693",
-      "rating": "0",
+      "rating": "-1",
       "tags": [
          "keter",
          "scp",
          "原創"
       ],
       "title": "SCP-ZH-156 - 阿特林",
-      "votes": "0"
+      "votes": "1"
    }
 }
