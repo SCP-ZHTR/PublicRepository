@@ -116047,13 +116047,17 @@
       "created_at": "1697987086",
       "created_by": "5370805",
       "detailed_rating": {
-         "+": [],
-         "-": []
+         "+": [
+            [
+               "6217438",
+               1697987478
+            ]
+         ]
       },
       "fullname": "lolfoundation-hub-page",
       "hidden_tags": [],
       "id": "1450877773",
-      "rating": "0",
+      "rating": "1",
       "tags": [
          "en",
          "中心",
@@ -116062,6 +116066,6 @@
          "翻譯"
       ],
       "title": "歡樂基金會 中心頁",
-      "votes": "0"
+      "votes": "1"
    }
 }
