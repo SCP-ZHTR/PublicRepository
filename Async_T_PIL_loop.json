@@ -115997,13 +115997,17 @@
       "created_at": "1697986488",
       "created_by": "6217438",
       "detailed_rating": {
-         "+": [],
-         "-": []
+         "+": [
+            [
+               "6217438",
+               1697986775
+            ]
+         ]
       },
       "fullname": "scp-4498",
       "hidden_tags": [],
       "id": "1450877737",
-      "rating": "0",
+      "rating": "1",
       "tags": [
          "cack-hard",
          "clef博士",
@@ -116028,6 +116032,6 @@
          "記憶影響"
       ],
       "title": "SCP-4498 - Elias Shaw的多元宇宙",
-      "votes": "0"
+      "votes": "1"
    }
 }
