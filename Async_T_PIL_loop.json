@@ -116001,13 +116001,21 @@
             [
                "6217438",
                1697986775
+            ],
+            [
+               "5370805",
+               1697987387
+            ],
+            [
+               "5435485",
+               1697987387
             ]
          ]
       },
       "fullname": "scp-4498",
       "hidden_tags": [],
       "id": "1450877737",
-      "rating": "1",
+      "rating": "3",
       "tags": [
          "cack-hard",
          "clef博士",
@@ -116032,6 +116040,28 @@
          "記憶影響"
       ],
       "title": "SCP-4498 - Elias Shaw的多元宇宙",
-      "votes": "1"
+      "votes": "3"
+   },
+   "1697987086": {
+      "comments": "0",
+      "created_at": "1697987086",
+      "created_by": "5370805",
+      "detailed_rating": {
+         "+": [],
+         "-": []
+      },
+      "fullname": "lolfoundation-hub-page",
+      "hidden_tags": [],
+      "id": "1450877773",
+      "rating": "0",
+      "tags": [
+         "en",
+         "中心",
+         "合作",
+         "歡樂基金會",
+         "翻譯"
+      ],
+      "title": "歡樂基金會 中心頁",
+      "votes": "0"
    }
 }
