@@ -89200,6 +89200,10 @@
       "detailed_rating": {
          "+": [
             [
+               "4291435",
+               1698021056
+            ],
+            [
                "5415046",
                1697989005
             ],
@@ -89225,8 +89229,8 @@
             ]
          ]
       },
-      "justified_rating": 6,
-      "justified_u_count": 6,
+      "justified_rating": 7,
+      "justified_u_count": 7,
       "justified_d_count": 0
    },
    "1697900053": {
@@ -89303,6 +89307,10 @@
       "detailed_rating": {
          "+": [
             [
+               "6091157",
+               1698021056
+            ],
+            [
                "4990678",
                1698010007
             ],
@@ -89328,8 +89336,8 @@
             ]
          ]
       },
-      "justified_rating": 6,
-      "justified_u_count": 6,
+      "justified_rating": 7,
+      "justified_u_count": 7,
       "justified_d_count": 0
    }
 }
