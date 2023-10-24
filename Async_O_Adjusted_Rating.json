@@ -89366,6 +89366,18 @@
       "detailed_rating": {
          "+": [
             [
+               "8177208",
+               1698152034
+            ],
+            [
+               "5237516",
+               1698152034
+            ],
+            [
+               "7064164",
+               1698152034
+            ],
+            [
                "6141493",
                1698151031
             ],
@@ -89399,8 +89411,8 @@
             ]
          ]
       },
-      "justified_rating": 8,
-      "justified_u_count": 8,
+      "justified_rating": 11,
+      "justified_u_count": 11,
       "justified_d_count": 0
    }
 }
