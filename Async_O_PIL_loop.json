@@ -114605,7 +114605,7 @@
       "votes": "9"
    },
    "1698148083": {
-      "comments": "0",
+      "comments": "1",
       "created_at": "1698148083",
       "created_by": "5325850",
       "detailed_rating": {
@@ -114637,13 +114637,17 @@
             [
                "5013754",
                1698149359
+            ],
+            [
+               "6141493",
+               1698151031
             ]
          ]
       },
       "fullname": "abyssdream-s-proposal-1",
       "hidden_tags": [],
       "id": "1450927014",
-      "rating": "7",
+      "rating": "8",
       "tags": [
          "001提案",
          "2023紅藍爭霸賽",
@@ -114654,6 +114658,6 @@
          "機密分級"
       ],
       "title": "AbyssDream的提案一",
-      "votes": "7"
+      "votes": "8"
    }
 }
