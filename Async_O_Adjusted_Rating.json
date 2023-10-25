@@ -89465,6 +89465,14 @@
       "detailed_rating": {
          "+": [
             [
+               "4264056",
+               1698208373
+            ],
+            [
+               "5413616",
+               1698208373
+            ],
+            [
                "8854072",
                1698207455
             ],
@@ -89486,8 +89494,8 @@
             ]
          ]
       },
-      "justified_rating": 5,
-      "justified_u_count": 5,
+      "justified_rating": 7,
+      "justified_u_count": 7,
       "justified_d_count": 0
    }
 }
