@@ -116242,13 +116242,17 @@
       "created_at": "1698238876",
       "created_by": "6217438",
       "detailed_rating": {
-         "+": [],
-         "-": []
+         "+": [
+            [
+               "6217438",
+               1698239252
+            ]
+         ]
       },
       "fullname": "tanhony-s-proposal",
       "hidden_tags": [],
       "id": "1450941181",
-      "rating": "0",
+      "rating": "1",
       "tags": [
          "001提案",
          "en",
@@ -116266,6 +116270,6 @@
          "翻譯"
       ],
       "title": "Tanhony的提案",
-      "votes": "0"
+      "votes": "1"
    }
 }
