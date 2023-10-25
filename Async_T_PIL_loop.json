@@ -116193,5 +116193,28 @@
       ],
       "title": "SCP-5727 - 瑞奇一切安好",
       "votes": "2"
+   },
+   "1698196581": {
+      "comments": "0",
+      "created_at": "1698196581",
+      "created_by": "6217438",
+      "detailed_rating": {
+         "+": [],
+         "-": []
+      },
+      "fullname": "scp-1665",
+      "hidden_tags": [],
+      "id": "1450934192",
+      "rating": "0",
+      "tags": [
+         "en",
+         "meta",
+         "safe",
+         "scp",
+         "文獻",
+         "翻譯"
+      ],
+      "title": "SCP-1665 - 8列，18列",
+      "votes": "0"
    }
 }
