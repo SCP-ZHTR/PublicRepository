@@ -852,12 +852,18 @@
                "DELETED",
                "[UNKNOWN]"
             ]
+         ],
+         "-": [
+            [
+               "5565302",
+               1698192584
+            ]
          ]
       },
       "fullname": "scp-zh-017",
       "hidden_tags": [],
       "id": "635005231",
-      "rating": "21",
+      "rating": "20",
       "tags": [
          "safe",
          "scp",
@@ -868,7 +874,7 @@
          "無效化"
       ],
       "title": "SCP-ZH-017 - 永衡國入境申請表",
-      "votes": "21"
+      "votes": "22"
    },
    "1552139969": {
       "comments": "3",
