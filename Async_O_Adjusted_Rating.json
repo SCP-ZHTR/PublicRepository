@@ -89384,6 +89384,10 @@
       "detailed_rating": {
          "+": [
             [
+               "6690335",
+               1698244939
+            ],
+            [
                "6091157",
                1698205224
             ],
@@ -89457,13 +89461,17 @@
             ]
          ]
       },
-      "justified_rating": 18,
-      "justified_u_count": 18,
+      "justified_rating": 19,
+      "justified_u_count": 19,
       "justified_d_count": 0
    },
    "1698203871": {
       "detailed_rating": {
          "+": [
+            [
+               "6690335",
+               1698244939
+            ],
             [
                "4990678",
                1698244622
@@ -89502,8 +89510,8 @@
             ]
          ]
       },
-      "justified_rating": 9,
-      "justified_u_count": 9,
+      "justified_rating": 10,
+      "justified_u_count": 10,
       "justified_d_count": 0
    }
 }
