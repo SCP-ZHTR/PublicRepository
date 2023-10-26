@@ -58365,6 +58365,10 @@
       "detailed_rating": {
          "-": [
             [
+               "5565302",
+               1698284842
+            ],
+            [
                "3356098",
                1682508138
             ],
@@ -58388,9 +58392,9 @@
             ]
          ]
       },
-      "justified_rating": 1,
+      "justified_rating": 0,
       "justified_u_count": 3,
-      "justified_d_count": 2
+      "justified_d_count": 3
    },
    "1634542002": {
       "detailed_rating": {
