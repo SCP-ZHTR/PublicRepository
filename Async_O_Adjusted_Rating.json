@@ -89743,13 +89743,17 @@
       "detailed_rating": {
          "+": [
             [
+               "6217438",
+               1698451107
+            ],
+            [
                "4990678",
                1698444219
             ]
          ]
       },
-      "justified_rating": 1,
-      "justified_u_count": 1,
+      "justified_rating": 2,
+      "justified_u_count": 2,
       "justified_d_count": 0
    }
 }
