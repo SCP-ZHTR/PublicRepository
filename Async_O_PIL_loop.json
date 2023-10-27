@@ -115074,13 +115074,17 @@
       "created_at": "1698442686",
       "created_by": "5334590",
       "detailed_rating": {
-         "+": [],
-         "-": []
+         "+": [
+            [
+               "4990678",
+               1698444219
+            ]
+         ]
       },
       "fullname": "lostwhat-s-proposal-ii",
       "hidden_tags": [],
       "id": "1451109539",
-      "rating": "0",
+      "rating": "1",
       "tags": [
          "001提案",
          "2023紅藍爭霸賽",
@@ -115091,6 +115095,6 @@
          "原創"
       ],
       "title": "Lostwhat的提案貳",
-      "votes": "0"
+      "votes": "1"
    }
 }
