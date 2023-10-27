@@ -9954,17 +9954,21 @@
       "created_at": "1697877315",
       "created_by": "8543386",
       "detailed_rating": {
-         "+": [],
-         "-": []
+         "+": [
+            [
+               "8452537",
+               1698418091
+            ]
+         ]
       },
       "fullname": "tostren",
       "hidden_tags": [],
       "id": "1450860497",
-      "rating": "0",
+      "rating": "1",
       "tags": [
          "作者頁面"
       ],
       "title": "吐司的烘焙坊（超級讚）",
-      "votes": "0"
+      "votes": "1"
    }
 }
