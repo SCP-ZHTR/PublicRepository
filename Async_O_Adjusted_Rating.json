@@ -89330,6 +89330,10 @@
       "detailed_rating": {
          "-": [
             [
+               "7913186",
+               1698388809
+            ],
+            [
                "7840542",
                1698379821
             ],
@@ -89359,9 +89363,9 @@
             ]
          ]
       },
-      "justified_rating": -7,
+      "justified_rating": -8,
       "justified_u_count": 0,
-      "justified_d_count": 7
+      "justified_d_count": 8
    },
    "1697990899": {
       "detailed_rating": {
