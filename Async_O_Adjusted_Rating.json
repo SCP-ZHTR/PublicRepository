@@ -89187,6 +89187,10 @@
       "detailed_rating": {
          "+": [
             [
+               "5338547",
+               1698377312
+            ],
+            [
                "6503482",
                1698280702
             ],
@@ -89232,8 +89236,8 @@
             ]
          ]
       },
-      "justified_rating": 11,
-      "justified_u_count": 11,
+      "justified_rating": 12,
+      "justified_u_count": 12,
       "justified_d_count": 0
    },
    "1697885799": {
@@ -89277,6 +89281,10 @@
       "detailed_rating": {
          "+": [
             [
+               "5338547",
+               1698377312
+            ],
+            [
                "6503482",
                1698280702
             ],
@@ -89314,8 +89322,8 @@
             ]
          ]
       },
-      "justified_rating": 9,
-      "justified_u_count": 9,
+      "justified_rating": 10,
+      "justified_u_count": 10,
       "justified_d_count": 0
    },
    "1697960385": {
@@ -89354,6 +89362,10 @@
    "1697990899": {
       "detailed_rating": {
          "+": [
+            [
+               "5338547",
+               1698377312
+            ],
             [
                "6503482",
                1698284137
@@ -89400,13 +89412,17 @@
             ]
          ]
       },
-      "justified_rating": 11,
-      "justified_u_count": 11,
+      "justified_rating": 12,
+      "justified_u_count": 12,
       "justified_d_count": 0
    },
    "1698148083": {
       "detailed_rating": {
          "+": [
+            [
+               "5338547",
+               1698377312
+            ],
             [
                "7840542",
                1698368461
@@ -89493,13 +89509,17 @@
             ]
          ]
       },
-      "justified_rating": 21,
-      "justified_u_count": 21,
+      "justified_rating": 22,
+      "justified_u_count": 22,
       "justified_d_count": 0
    },
    "1698203871": {
       "detailed_rating": {
          "+": [
+            [
+               "5338547",
+               1698377312
+            ],
             [
                "6217438",
                1698331463
@@ -89554,13 +89574,17 @@
             ]
          ]
       },
-      "justified_rating": 13,
-      "justified_u_count": 13,
+      "justified_rating": 14,
+      "justified_u_count": 14,
       "justified_d_count": 0
    },
    "1698320758": {
       "detailed_rating": {
          "+": [
+            [
+               "5338547",
+               1698377312
+            ],
             [
                "6690335",
                1698331463
@@ -89587,13 +89611,17 @@
             ]
          ]
       },
-      "justified_rating": 6,
-      "justified_u_count": 6,
+      "justified_rating": 7,
+      "justified_u_count": 7,
       "justified_d_count": 0
    },
    "1698326836": {
       "detailed_rating": {
          "+": [
+            [
+               "5338547",
+               1698377312
+            ],
             [
                "7840542",
                1698369696
@@ -89636,21 +89664,25 @@
             ]
          ]
       },
-      "justified_rating": 10,
-      "justified_u_count": 10,
+      "justified_rating": 11,
+      "justified_u_count": 11,
       "justified_d_count": 0
    },
    "1698333844": {
       "detailed_rating": {
          "+": [
             [
+               "5338547",
+               1698377312
+            ],
+            [
                "5237516",
                1698334949
             ]
          ]
       },
-      "justified_rating": 1,
-      "justified_u_count": 1,
+      "justified_rating": 2,
+      "justified_u_count": 2,
       "justified_d_count": 0
    }
 }
