@@ -89126,6 +89126,10 @@
       "detailed_rating": {
          "+": [
             [
+               "5413616",
+               1698499217
+            ],
+            [
                "7521095",
                1698480994
             ],
@@ -89203,8 +89207,8 @@
             ]
          ]
       },
-      "justified_rating": 19,
-      "justified_u_count": 19,
+      "justified_rating": 20,
+      "justified_u_count": 20,
       "justified_d_count": 0
    },
    "1697472129": {
@@ -89948,6 +89952,12 @@
       },
       "justified_rating": 1,
       "justified_u_count": 1,
+      "justified_d_count": 0
+   },
+   "1698498969": {
+      "detailed_rating": {},
+      "justified_rating": 0,
+      "justified_u_count": 0,
       "justified_d_count": 0
    }
 }
