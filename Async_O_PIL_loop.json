@@ -115341,7 +115341,7 @@
       "votes": "2"
    },
    "1698498550": {
-      "comments": "0",
+      "comments": "1",
       "created_at": "1698498550",
       "created_by": "7605593",
       "detailed_rating": {
@@ -115425,5 +115425,34 @@
       ],
       "title": "SCP-ZH-931 - 我司雇我在",
       "votes": "8"
+   },
+   "1698501386": {
+      "comments": "1",
+      "created_at": "1698501386",
+      "created_by": "7852233",
+      "detailed_rating": {
+         "+": [],
+         "-": []
+      },
+      "fullname": "scp-zh-806",
+      "hidden_tags": [],
+      "id": "1451118567",
+      "rating": "0",
+      "tags": [
+         "2023紅藍爭霸賽",
+         "keter",
+         "scp",
+         "site-zh-22",
+         "原創",
+         "基因",
+         "感知影響",
+         "未收容",
+         "模因效應",
+         "生物危害",
+         "精神影響",
+         "認知危害"
+      ],
+      "title": "SCP-ZH-806 - 我是為了你好",
+      "votes": "0"
    }
 }
