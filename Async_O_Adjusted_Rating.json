@@ -89920,17 +89920,13 @@
       "detailed_rating": {
          "-": [
             [
-               "5237516",
-               1698496906
-            ],
-            [
                "6091157",
                1698492997
             ]
          ]
       },
-      "justified_rating": -2,
+      "justified_rating": -1,
       "justified_u_count": 0,
-      "justified_d_count": 2
+      "justified_d_count": 1
    }
 }
