@@ -21871,5 +21871,37 @@
       "tags": [],
       "title": "fragment:rinko-s-proposal-1-02",
       "votes": "0"
+   },
+   "1698498817": {
+      "comments": "0",
+      "created_at": "1698498817",
+      "created_by": "5956873",
+      "detailed_rating": {
+         "+": [],
+         "-": []
+      },
+      "fullname": "fragment:rinko-s-proposal-1-03",
+      "hidden_tags": [],
+      "id": "1451118089",
+      "rating": "0",
+      "tags": [],
+      "title": "fragment:rinko-s-proposal-1-03",
+      "votes": "0"
+   },
+   "1698498870": {
+      "comments": "0",
+      "created_at": "1698498870",
+      "created_by": "5956873",
+      "detailed_rating": {
+         "+": [],
+         "-": []
+      },
+      "fullname": "fragment:rinko-s-proposal-1-04",
+      "hidden_tags": [],
+      "id": "1451118092",
+      "rating": "0",
+      "tags": [],
+      "title": "fragment:rinko-s-proposal-1-04",
+      "votes": "0"
    }
 }
