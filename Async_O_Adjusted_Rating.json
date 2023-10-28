@@ -89790,6 +89790,10 @@
       "detailed_rating": {
          "+": [
             [
+               "7064164",
+               1698484374
+            ],
+            [
                "5325850",
                1698477568
             ],
@@ -89831,13 +89835,17 @@
             ]
          ]
       },
-      "justified_rating": 10,
-      "justified_u_count": 10,
+      "justified_rating": 11,
+      "justified_u_count": 11,
       "justified_d_count": 0
    },
    "1698471756": {
       "detailed_rating": {
          "+": [
+            [
+               "4990678",
+               1698484374
+            ],
             [
                "5565302",
                1698478604
@@ -89880,8 +89888,8 @@
             ]
          ]
       },
-      "justified_rating": 10,
-      "justified_u_count": 10,
+      "justified_rating": 11,
+      "justified_u_count": 11,
       "justified_d_count": 0
    }
 }
