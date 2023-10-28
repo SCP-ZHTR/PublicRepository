@@ -89919,6 +89919,10 @@
       "detailed_rating": {
          "+": [
             [
+               "6690335",
+               1698508120
+            ],
+            [
                "5370805",
                1698501405
             ],
@@ -89980,8 +89984,8 @@
             ]
          ]
       },
-      "justified_rating": 15,
-      "justified_u_count": 15,
+      "justified_rating": 16,
+      "justified_u_count": 16,
       "justified_d_count": 0
    },
    "1698492251": {
@@ -90007,6 +90011,10 @@
       "detailed_rating": {
          "+": [
             [
+               "7605593",
+               1698508120
+            ],
+            [
                "7852233",
                1698502038
             ],
@@ -90020,13 +90028,17 @@
             ]
          ]
       },
-      "justified_rating": 3,
-      "justified_u_count": 3,
+      "justified_rating": 4,
+      "justified_u_count": 4,
       "justified_d_count": 0
    },
    "1698498580": {
       "detailed_rating": {
          "+": [
+            [
+               "7605593",
+               1698508120
+            ],
             [
                "7064164",
                1698505341
@@ -90037,8 +90049,8 @@
             ]
          ]
       },
-      "justified_rating": 2,
-      "justified_u_count": 2,
+      "justified_rating": 3,
+      "justified_u_count": 3,
       "justified_d_count": 0
    },
    "1698498969": {
@@ -90090,6 +90102,10 @@
       "detailed_rating": {
          "+": [
             [
+               "7605593",
+               1698508120
+            ],
+            [
                "7521095",
                1698501798
             ],
@@ -90099,8 +90115,8 @@
             ]
          ]
       },
-      "justified_rating": 2,
-      "justified_u_count": 2,
+      "justified_rating": 3,
+      "justified_u_count": 3,
       "justified_d_count": 0
    },
    "1698504350": {
@@ -90114,6 +90130,12 @@
       },
       "justified_rating": 1,
       "justified_u_count": 1,
+      "justified_d_count": 0
+   },
+   "1698507569": {
+      "detailed_rating": {},
+      "justified_rating": 0,
+      "justified_u_count": 0,
       "justified_d_count": 0
    }
 }
