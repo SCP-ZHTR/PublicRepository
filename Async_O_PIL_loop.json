@@ -115323,13 +115323,17 @@
       "created_at": "1698498550",
       "created_by": "7605593",
       "detailed_rating": {
-         "+": [],
-         "-": []
+         "+": [
+            [
+               "6217438",
+               1698498949
+            ]
+         ]
       },
       "fullname": "scorch-correspondence-pattern",
       "hidden_tags": [],
       "id": "1451118047",
-      "rating": "0",
+      "rating": "1",
       "tags": [
          "2023紅藍爭霸賽",
          "site-zh-11",
@@ -115340,6 +115344,6 @@
          "研究員knave"
       ],
       "title": "焦灼、書信、形相",
-      "votes": "0"
+      "votes": "1"
    }
 }
