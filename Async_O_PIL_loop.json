@@ -115653,5 +115653,48 @@
       ],
       "title": "SCP-ZH-423 - 長滿毒瘡的小鳥",
       "votes": "0"
+   },
+   "1698508719": {
+      "comments": "0",
+      "created_at": "1698508719",
+      "created_by": "5987568",
+      "detailed_rating": {
+         "+": [],
+         "-": []
+      },
+      "fullname": "faked-consciousness",
+      "hidden_tags": [],
+      "id": "1451120187",
+      "rating": "0",
+      "tags": [
+         "2023紅藍爭霸戰",
+         "原創",
+         "故事"
+      ],
+      "title": "仿造的意識",
+      "votes": "0"
+   },
+   "1698508811": {
+      "comments": "0",
+      "created_at": "1698508811",
+      "created_by": "5062193",
+      "detailed_rating": {
+         "+": [],
+         "-": []
+      },
+      "fullname": "scp-zh-512",
+      "hidden_tags": [],
+      "id": "1451120232",
+      "rating": "0",
+      "tags": [
+         "2023紅藍爭霸賽",
+         "scp",
+         "thaumiel",
+         "原創",
+         "基金會製造",
+         "熵"
+      ],
+      "title": "SCP-ZH-512",
+      "votes": "0"
    }
 }
