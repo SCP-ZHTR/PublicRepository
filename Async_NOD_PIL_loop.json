@@ -21926,7 +21926,9 @@
       "hidden_tags": [],
       "id": "1451120193",
       "rating": "0",
-      "tags": [],
+      "tags": [
+         "段落"
+      ],
       "title": "fragmemt:replicated_memories-01",
       "votes": "0"
    },
@@ -21942,7 +21944,9 @@
       "hidden_tags": [],
       "id": "1451120267",
       "rating": "0",
-      "tags": [],
+      "tags": [
+         "段落"
+      ],
       "title": "fragmemt:replicated_memories-02",
       "votes": "0"
    }
