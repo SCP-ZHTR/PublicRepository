@@ -89812,9 +89812,36 @@
       "justified_d_count": 0
    },
    "1698471756": {
-      "detailed_rating": {},
-      "justified_rating": 0,
-      "justified_u_count": 0,
+      "detailed_rating": {
+         "+": [
+            [
+               "6709715",
+               1698472474
+            ],
+            [
+               "8452537",
+               1698472474
+            ],
+            [
+               "7521095",
+               1698472474
+            ],
+            [
+               "8177208",
+               1698472474
+            ],
+            [
+               "8854072",
+               1698472474
+            ],
+            [
+               "5237516",
+               1698472474
+            ]
+         ]
+      },
+      "justified_rating": 6,
+      "justified_u_count": 6,
       "justified_d_count": 0
    }
 }
