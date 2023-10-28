@@ -115634,13 +115634,17 @@
       "created_at": "1698508383",
       "created_by": "8792088",
       "detailed_rating": {
-         "+": [],
-         "-": []
+         "+": [
+            [
+               "8854072",
+               1698509513
+            ]
+         ]
       },
       "fullname": "scp-zh-423",
       "hidden_tags": [],
       "id": "1451120156",
-      "rating": "0",
+      "rating": "1",
       "tags": [
          "2023紅藍爭霸賽",
          "euclid",
@@ -115652,6 +115656,25 @@
          "認知危害"
       ],
       "title": "SCP-ZH-423 - 長滿毒瘡的小鳥",
+      "votes": "1"
+   },
+   "1698508591": {
+      "comments": "0",
+      "created_at": "1698508591",
+      "created_by": "5251681",
+      "detailed_rating": {
+         "+": [],
+         "-": []
+      },
+      "fullname": "replicated-memories",
+      "hidden_tags": [],
+      "id": "1451120178",
+      "rating": "0",
+      "tags": [
+         "原創",
+         "故事"
+      ],
+      "title": "replicated_memories",
       "votes": "0"
    },
    "1698508719": {
