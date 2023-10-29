@@ -89833,6 +89833,10 @@
       "detailed_rating": {
          "+": [
             [
+               "8854072",
+               1698607261
+            ],
+            [
                "8177208",
                1698570994
             ],
@@ -89878,8 +89882,8 @@
             ]
          ]
       },
-      "justified_rating": 11,
-      "justified_u_count": 11,
+      "justified_rating": 12,
+      "justified_u_count": 12,
       "justified_d_count": 0
    },
    "1698442686": {
@@ -90048,6 +90052,10 @@
       "detailed_rating": {
          "+": [
             [
+               "8854072",
+               1698607261
+            ],
+            [
                "6503482",
                1698591680
             ],
@@ -90071,8 +90079,8 @@
             ]
          ]
       },
-      "justified_rating": 3,
-      "justified_u_count": 4,
+      "justified_rating": 4,
+      "justified_u_count": 5,
       "justified_d_count": 1
    },
    "1698498550": {
@@ -90206,6 +90214,10 @@
       "detailed_rating": {
          "+": [
             [
+               "8854072",
+               1698607261
+            ],
+            [
                "6690335",
                1698510535
             ],
@@ -90227,8 +90239,8 @@
             ]
          ]
       },
-      "justified_rating": 5,
-      "justified_u_count": 5,
+      "justified_rating": 6,
+      "justified_u_count": 6,
       "justified_d_count": 0
    },
    "1698504350": {
