@@ -115473,7 +115473,9 @@
          ]
       },
       "fullname": "lostwhat-s-proposal-ii",
-      "hidden_tags": [],
+      "hidden_tags": [
+         "_cc"
+      ],
       "id": "1451109539",
       "rating": "20",
       "tags": [
@@ -115650,7 +115652,9 @@
          ]
       },
       "fullname": "scp-zh-641",
-      "hidden_tags": [],
+      "hidden_tags": [
+         "_image"
+      ],
       "id": "1451117067",
       "rating": "6",
       "tags": [
@@ -115704,7 +115708,10 @@
          ]
       },
       "fullname": "scorch-correspondence-pattern",
-      "hidden_tags": [],
+      "hidden_tags": [
+         "_cc",
+         "_licensebox"
+      ],
       "id": "1451118047",
       "rating": "8",
       "tags": [
