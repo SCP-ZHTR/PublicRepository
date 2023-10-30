@@ -114229,7 +114229,9 @@
          ]
       },
       "fullname": "honglam-battle-2-0",
-      "hidden_tags": [],
+      "hidden_tags": [
+         "_cc"
+      ],
       "id": "1450386080",
       "rating": "8",
       "tags": [
@@ -114302,7 +114304,9 @@
          ]
       },
       "fullname": "recover-data-goi-2018-r0320",
-      "hidden_tags": [],
+      "hidden_tags": [
+         "_cc"
+      ],
       "id": "1450496596",
       "rating": "13",
       "tags": [
