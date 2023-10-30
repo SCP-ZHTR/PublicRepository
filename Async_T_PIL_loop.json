@@ -114859,7 +114859,10 @@
          ]
       },
       "fullname": "secure-facility-dossier-site-387",
-      "hidden_tags": [],
+      "hidden_tags": [
+         "_cc",
+         "_licensebox"
+      ],
       "id": "1450532291",
       "rating": "2",
       "tags": [
@@ -114888,7 +114891,9 @@
          ]
       },
       "fullname": "scp-pl-393",
-      "hidden_tags": [],
+      "hidden_tags": [
+         "_cc"
+      ],
       "id": "1450541332",
       "rating": "1",
       "tags": [
