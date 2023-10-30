@@ -115763,7 +115763,9 @@
          ]
       },
       "fullname": "rinko-s-proposal-1",
-      "hidden_tags": [],
+      "hidden_tags": [
+         "_cc"
+      ],
       "id": "1451118051",
       "rating": "7",
       "tags": [
@@ -115865,7 +115867,9 @@
          ]
       },
       "fullname": "scp-zh-931",
-      "hidden_tags": [],
+      "hidden_tags": [
+         "_cc"
+      ],
       "id": "1451118135",
       "rating": "20",
       "tags": [
@@ -116100,7 +116104,9 @@
          ]
       },
       "fullname": "scp-zh-423",
-      "hidden_tags": [],
+      "hidden_tags": [
+         "_cc"
+      ],
       "id": "1451120156",
       "rating": "15",
       "tags": [
@@ -116186,7 +116192,9 @@
          ]
       },
       "fullname": "replicated-memories",
-      "hidden_tags": [],
+      "hidden_tags": [
+         "_cc"
+      ],
       "id": "1451120178",
       "rating": "15",
       "tags": [
