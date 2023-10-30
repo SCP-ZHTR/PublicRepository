@@ -113898,7 +113898,10 @@
          ]
       },
       "fullname": "scp-220",
-      "hidden_tags": [],
+      "hidden_tags": [
+         "_cc",
+         "_licensebox"
+      ],
       "id": "1450098588",
       "rating": "3",
       "tags": [
@@ -113932,7 +113935,9 @@
          ]
       },
       "fullname": "scp-622-fr",
-      "hidden_tags": [],
+      "hidden_tags": [
+         "_cc"
+      ],
       "id": "1450099408",
       "rating": "2",
       "tags": [
@@ -113981,7 +113986,9 @@
          ]
       },
       "fullname": "scp-2051-jp",
-      "hidden_tags": [],
+      "hidden_tags": [
+         "_cc"
+      ],
       "id": "1450126207",
       "rating": "5",
       "tags": [
@@ -114014,7 +114021,9 @@
          ]
       },
       "fullname": "scp-2528",
-      "hidden_tags": [],
+      "hidden_tags": [
+         "_licensebox"
+      ],
       "id": "1450182256",
       "rating": "1",
       "tags": [
