@@ -114053,7 +114053,9 @@
          ]
       },
       "fullname": "scp-6586",
-      "hidden_tags": [],
+      "hidden_tags": [
+         "_licensebox"
+      ],
       "id": "1450217943",
       "rating": "1",
       "tags": [
@@ -114088,7 +114090,10 @@
          ]
       },
       "fullname": "blank",
-      "hidden_tags": [],
+      "hidden_tags": [
+         "_cc",
+         "_licensebox"
+      ],
       "id": "1450230706",
       "rating": "2",
       "tags": [
@@ -114128,6 +114133,7 @@
       },
       "fullname": "scp-7621",
       "hidden_tags": [
+         "_licensebox",
          "_禁黑"
       ],
       "id": "1450242777",
@@ -114193,7 +114199,10 @@
          ]
       },
       "fullname": "scp-7528",
-      "hidden_tags": [],
+      "hidden_tags": [
+         "_cc",
+         "_licensebox"
+      ],
       "id": "1450258894",
       "rating": "10",
       "tags": [
@@ -114223,7 +114232,9 @@
          "-": []
       },
       "fullname": "scp-3326-jp",
-      "hidden_tags": [],
+      "hidden_tags": [
+         "_licensebox"
+      ],
       "id": "1450299054",
       "rating": "0",
       "tags": [
@@ -114256,7 +114267,9 @@
          ]
       },
       "fullname": "scp-3423-jp",
-      "hidden_tags": [],
+      "hidden_tags": [
+         "_licensebox"
+      ],
       "id": "1450299055",
       "rating": "2",
       "tags": [
@@ -114284,7 +114297,10 @@
          "-": []
       },
       "fullname": "scp-325-jp",
-      "hidden_tags": [],
+      "hidden_tags": [
+         "_cc",
+         "_licensebox"
+      ],
       "id": "1450305318",
       "rating": "0",
       "tags": [
