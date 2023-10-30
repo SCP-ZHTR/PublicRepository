@@ -116414,7 +116414,10 @@
          ]
       },
       "fullname": "scp-1665",
-      "hidden_tags": [],
+      "hidden_tags": [
+         "_cc",
+         "_licensebox"
+      ],
       "id": "1450934192",
       "rating": "1",
       "tags": [
@@ -116480,13 +116483,17 @@
       "created_at": "1698444093",
       "created_by": "5370805",
       "detailed_rating": {
-         "+": [],
-         "-": []
+         "+": [
+            [
+               "6217438",
+               1698672336
+            ]
+         ]
       },
       "fullname": "disintegration",
       "hidden_tags": [],
       "id": "1451109875",
-      "rating": "0",
+      "rating": "1",
       "tags": [
          "alex-thorley",
          "en",
@@ -116496,7 +116503,7 @@
          "非現實部"
       ],
       "title": "湮滅",
-      "votes": "0"
+      "votes": "1"
    },
    "1698483442": {
       "comments": "0",
