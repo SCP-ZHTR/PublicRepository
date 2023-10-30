@@ -9994,17 +9994,21 @@
       "created_at": "1698648883",
       "created_by": "7852233",
       "detailed_rating": {
-         "+": [],
-         "-": []
+         "+": [
+            [
+               "4990678",
+               1698664603
+            ]
+         ]
       },
       "fullname": "merak",
       "hidden_tags": [],
       "id": "1451155299",
-      "rating": "0",
+      "rating": "1",
       "tags": [
          "作者頁面"
       ],
       "title": "林中小屋",
-      "votes": "0"
+      "votes": "1"
    }
 }
