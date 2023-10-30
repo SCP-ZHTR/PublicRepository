@@ -21581,22 +21581,6 @@
       "title": "銜尾蛇",
       "votes": "0"
    },
-   "1697540540": {
-      "comments": "0",
-      "created_at": "1697540540",
-      "created_by": "8452537",
-      "detailed_rating": {
-         "+": [],
-         "-": []
-      },
-      "fullname": "reserve:scp-040",
-      "hidden_tags": [],
-      "id": "1450793042",
-      "rating": "0",
-      "tags": [],
-      "title": "scp-040",
-      "votes": "0"
-   },
    "1697639236": {
       "comments": "0",
       "created_at": "1697639236",
@@ -21935,7 +21919,9 @@
          ]
       },
       "fullname": "theme:ad-abyssum-penumbra",
-      "hidden_tags": [],
+      "hidden_tags": [
+         "_cc"
+      ],
       "id": "1451139556",
       "rating": "1",
       "tags": [
