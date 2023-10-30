@@ -116563,7 +116563,10 @@
          ]
       },
       "fullname": "scp-1565",
-      "hidden_tags": [],
+      "hidden_tags": [
+         "_cc",
+         "_licensebox"
+      ],
       "id": "1451119695",
       "rating": "1",
       "tags": [
