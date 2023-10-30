@@ -113810,7 +113810,9 @@
          ]
       },
       "fullname": "scp-zh-690",
-      "hidden_tags": [],
+      "hidden_tags": [
+         "_cc"
+      ],
       "id": "1450142114",
       "rating": "16",
       "tags": [
@@ -113925,7 +113927,9 @@
          ]
       },
       "fullname": "scp-zh-981",
-      "hidden_tags": [],
+      "hidden_tags": [
+         "_cc"
+      ],
       "id": "1450186455",
       "rating": "20",
       "tags": [
