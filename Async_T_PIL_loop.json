@@ -115033,7 +115033,10 @@
          ]
       },
       "fullname": "scp-7169",
-      "hidden_tags": [],
+      "hidden_tags": [
+         "_cc",
+         "_licensebox"
+      ],
       "id": "1450586543",
       "rating": "2",
       "tags": [
@@ -115063,7 +115066,10 @@
          ]
       },
       "fullname": "scp-7055",
-      "hidden_tags": [],
+      "hidden_tags": [
+         "_cc",
+         "_licensebox"
+      ],
       "id": "1450586923",
       "rating": "1",
       "tags": [
@@ -115108,7 +115114,10 @@
          ]
       },
       "fullname": "scp-5258",
-      "hidden_tags": [],
+      "hidden_tags": [
+         "_cc",
+         "_licensebox"
+      ],
       "id": "1450587187",
       "rating": "5",
       "tags": [
@@ -115179,6 +115188,7 @@
       },
       "fullname": "scp-6578",
       "hidden_tags": [
+         "_cc",
          "_禁黑"
       ],
       "id": "1450587682",
@@ -115314,7 +115324,9 @@
          ]
       },
       "fullname": "scp-5980",
-      "hidden_tags": [],
+      "hidden_tags": [
+         "_cc"
+      ],
       "id": "1450615999",
       "rating": "2",
       "tags": [
@@ -115344,7 +115356,10 @@
          ]
       },
       "fullname": "scp-5925",
-      "hidden_tags": [],
+      "hidden_tags": [
+         "_cc",
+         "_licensebox"
+      ],
       "id": "1450617549",
       "rating": "1",
       "tags": [
