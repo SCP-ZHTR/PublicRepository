@@ -114743,7 +114743,8 @@
       "tags": [
          "keter",
          "scp",
-         "原創"
+         "原創",
+         "待刪除"
       ],
       "title": "SCP-ZH-156 - 阿特林",
       "votes": "11"
@@ -114963,7 +114964,10 @@
          ]
       },
       "fullname": "abyssdream-s-proposal-1",
-      "hidden_tags": [],
+      "hidden_tags": [
+         "_cc",
+         "_licensebox"
+      ],
       "id": "1450927014",
       "rating": "29",
       "tags": [
