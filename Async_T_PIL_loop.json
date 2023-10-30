@@ -114621,7 +114621,10 @@
          ]
       },
       "fullname": "scp-7427",
-      "hidden_tags": [],
+      "hidden_tags": [
+         "_cc",
+         "_licensebox"
+      ],
       "id": "1450405565",
       "rating": "4",
       "tags": [
@@ -114669,7 +114672,10 @@
          ]
       },
       "fullname": "scp-001-and-a-half-j",
-      "hidden_tags": [],
+      "hidden_tags": [
+         "_cc",
+         "_licensebox"
+      ],
       "id": "1450409948",
       "rating": "5",
       "tags": [
@@ -114711,7 +114717,9 @@
          ]
       },
       "fullname": "history-of-the-universe-part-four",
-      "hidden_tags": [],
+      "hidden_tags": [
+         "_licensebox"
+      ],
       "id": "1450413315",
       "rating": "4",
       "tags": [
@@ -114751,7 +114759,10 @@
          ]
       },
       "fullname": "secure-facility-dossier-area-12",
-      "hidden_tags": [],
+      "hidden_tags": [
+         "_cc",
+         "_licensebox"
+      ],
       "id": "1450454290",
       "rating": "5",
       "tags": [
