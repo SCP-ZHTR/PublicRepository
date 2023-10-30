@@ -114038,7 +114038,9 @@
          ]
       },
       "fullname": "scp-zh-739",
-      "hidden_tags": [],
+      "hidden_tags": [
+         "_cc"
+      ],
       "id": "1450253025",
       "rating": "10",
       "tags": [
