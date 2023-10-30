@@ -115812,7 +115812,10 @@
          ]
       },
       "fullname": "the-appliance-war-hub",
-      "hidden_tags": [],
+      "hidden_tags": [
+         "_cc",
+         "_licensebox"
+      ],
       "id": "1450747311",
       "rating": "2",
       "tags": [
@@ -115886,7 +115889,10 @@
          ]
       },
       "fullname": "scp-3790-j",
-      "hidden_tags": [],
+      "hidden_tags": [
+         "_cc",
+         "_licensebox"
+      ],
       "id": "1450782345",
       "rating": "2",
       "tags": [
@@ -115931,7 +115937,10 @@
          ]
       },
       "fullname": "scp-5109",
-      "hidden_tags": [],
+      "hidden_tags": [
+         "_cc",
+         "_licensebox"
+      ],
       "id": "1450812806",
       "rating": "3",
       "tags": [
@@ -115974,7 +115983,10 @@
          ]
       },
       "fullname": "sigma-9-themes",
-      "hidden_tags": [],
+      "hidden_tags": [
+         "_cc",
+         "_licensebox"
+      ],
       "id": "1450825358",
       "rating": "1",
       "tags": [
@@ -116004,7 +116016,10 @@
          ]
       },
       "fullname": "scp-5751",
-      "hidden_tags": [],
+      "hidden_tags": [
+         "_cc",
+         "_licensebox"
+      ],
       "id": "1450850346",
       "rating": "2",
       "tags": [
@@ -116041,7 +116056,9 @@
          ]
       },
       "fullname": "jim-north-s-proposal",
-      "hidden_tags": [],
+      "hidden_tags": [
+         "_licensebox"
+      ],
       "id": "1450851459",
       "rating": "1",
       "tags": [
@@ -116078,7 +116095,10 @@
          ]
       },
       "fullname": "scp-7481",
-      "hidden_tags": [],
+      "hidden_tags": [
+         "_cc",
+         "_licensebox"
+      ],
       "id": "1450851971",
       "rating": "2",
       "tags": [
@@ -116119,7 +116139,10 @@
          ]
       },
       "fullname": "scp-7495",
-      "hidden_tags": [],
+      "hidden_tags": [
+         "_cc",
+         "_licensebox"
+      ],
       "id": "1450858607",
       "rating": "3",
       "tags": [
@@ -116154,7 +116177,9 @@
          ]
       },
       "fullname": "secure-facility-dossier-lunar-area-32",
-      "hidden_tags": [],
+      "hidden_tags": [
+         "_cc"
+      ],
       "id": "1450862489",
       "rating": "3",
       "tags": [
