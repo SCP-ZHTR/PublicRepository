@@ -877,7 +877,7 @@
       "votes": "22"
    },
    "1552139969": {
-      "comments": "3",
+      "comments": "4",
       "created_at": "1552139969",
       "created_by": "4990678",
       "detailed_rating": {
@@ -979,16 +979,15 @@
          ]
       },
       "fullname": "scp-zh-919",
-      "hidden_tags": [
-         "_info"
-      ],
+      "hidden_tags": [],
       "id": "635309273",
       "rating": "-3",
       "tags": [
          "euclid",
          "scp",
          "人形",
-         "原創"
+         "原創",
+         "待刪除"
       ],
       "title": "SCP-ZH-919 - 守門員",
       "votes": "23"
