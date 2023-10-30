@@ -116204,7 +116204,9 @@
          ]
       },
       "fullname": "scp-2559-j",
-      "hidden_tags": [],
+      "hidden_tags": [
+         "_licensebox"
+      ],
       "id": "1450873617",
       "rating": "1",
       "tags": [
@@ -116251,7 +116253,10 @@
          ]
       },
       "fullname": "scp-4498",
-      "hidden_tags": [],
+      "hidden_tags": [
+         "_cc",
+         "_licensebox"
+      ],
       "id": "1450877737",
       "rating": "5",
       "tags": [
@@ -116301,7 +116306,10 @@
          ]
       },
       "fullname": "lolfoundation-hub-page",
-      "hidden_tags": [],
+      "hidden_tags": [
+         "_cc",
+         "_licensebox"
+      ],
       "id": "1450877773",
       "rating": "3",
       "tags": [
@@ -116335,7 +116343,9 @@
          ]
       },
       "fullname": "scp-7575",
-      "hidden_tags": [],
+      "hidden_tags": [
+         "_licensebox"
+      ],
       "id": "1450890466",
       "rating": "3",
       "tags": [
@@ -116370,7 +116380,10 @@
          ]
       },
       "fullname": "scp-5727",
-      "hidden_tags": [],
+      "hidden_tags": [
+         "_cc",
+         "_licensebox"
+      ],
       "id": "1450928206",
       "rating": "2",
       "tags": [
