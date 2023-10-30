@@ -116530,7 +116530,9 @@
          ]
       },
       "fullname": "scp-3209",
-      "hidden_tags": [],
+      "hidden_tags": [
+         "_cc"
+      ],
       "id": "1451115549",
       "rating": "4",
       "tags": [
