@@ -250,6 +250,7 @@
       "fullname": "groups-of-interest-zh",
       "hidden_tags": [],
       "id": "633994759",
+      "parent": "guide-hub",
       "rating": "3",
       "tags": [
          "中心",
@@ -3753,6 +3754,7 @@
          "_info"
       ],
       "id": "639415592",
+      "parent": "scp-zh-666",
       "rating": "5",
       "tags": [
          "原創",
@@ -5692,6 +5694,7 @@
          "_info"
       ],
       "id": "699736986",
+      "parent": "scp-zh-009",
       "rating": "8",
       "tags": [
          "goi格式",
@@ -6473,6 +6476,7 @@
          "_info"
       ],
       "id": "757283166",
+      "parent": "guide-hub",
       "rating": "6",
       "tags": [
          "原創",
@@ -6538,6 +6542,7 @@
          "_info"
       ],
       "id": "757295846",
+      "parent": "guide-hub",
       "rating": "11",
       "tags": [
          "原創",
@@ -7816,6 +7821,7 @@
          "_info"
       ],
       "id": "801203635",
+      "parent": "scp-zh-888",
       "rating": "9",
       "tags": [
          "site-zh-02",
@@ -7906,6 +7912,7 @@
          "_info"
       ],
       "id": "801371705",
+      "parent": "nexus-series",
       "rating": "12",
       "tags": [
          "ijamea",
@@ -8025,6 +8032,7 @@
          "_info"
       ],
       "id": "801775422",
+      "parent": "guide-hub",
       "rating": "24",
       "tags": [
          "原創",
@@ -8074,6 +8082,7 @@
          "_info"
       ],
       "id": "801814767",
+      "parent": "guide-hub",
       "rating": "7",
       "tags": [
          "原創",
@@ -8217,6 +8226,7 @@
          "_第八處-goi格式"
       ],
       "id": "802299791",
+      "parent": "thinking-and-write",
       "rating": "13",
       "tags": [
          "原創",
@@ -11648,6 +11658,7 @@
          "_第八處-goi格式"
       ],
       "id": "846718537",
+      "parent": "no-moon-night",
       "rating": "9",
       "tags": [
          "goi格式",
@@ -12451,6 +12462,7 @@
          "_info"
       ],
       "id": "847275934",
+      "parent": "guide-hub",
       "rating": "13",
       "tags": [
          "原創",
@@ -12769,6 +12781,7 @@
          "_info"
       ],
       "id": "853016738",
+      "parent": "scp-zh-372",
       "rating": "5",
       "tags": [
          "原創",
@@ -15949,6 +15962,7 @@
          "_info"
       ],
       "id": "897291301",
+      "parent": "guide-hub",
       "rating": "5",
       "tags": [
          "原創",
@@ -27166,6 +27180,7 @@
          "_info"
       ],
       "id": "986543920",
+      "parent": "component:anomaly-class-bar",
       "rating": "8",
       "tags": [
          "原創",
@@ -28089,6 +28104,7 @@
          "_info"
       ],
       "id": "986639926",
+      "parent": "scp-zh-202",
       "rating": "3",
       "tags": [
          "原創",
@@ -28855,6 +28871,7 @@
          "_普羅米修斯實驗室-goi格式"
       ],
       "id": "987087215",
+      "parent": "prometheus-labs-hub",
       "rating": "17",
       "tags": [
          "goi格式",
@@ -30331,6 +30348,7 @@
       "fullname": "communication-log-zh-747-331",
       "hidden_tags": [],
       "id": "999245685",
+      "parent": "scp-zh-747",
       "rating": "8",
       "tags": [
          "原創",
@@ -32208,6 +32226,7 @@
       "fullname": "scp-2998-declassification-zh",
       "hidden_tags": [],
       "id": "1002430711",
+      "parent": "scpdeclassified",
       "rating": "14",
       "tags": [
          "原創",
@@ -33324,6 +33343,7 @@
       "fullname": "ci-re-004",
       "hidden_tags": [],
       "id": "1024277633",
+      "parent": "1993-cobweb-international",
       "rating": "5",
       "tags": [
          "全球超自然聯盟",
@@ -33511,6 +33531,7 @@
       "fullname": "i-don-t-know-the-body-in-the-swim-pool",
       "hidden_tags": [],
       "id": "1024291079",
+      "parent": "scp-zh-976",
       "rating": "10",
       "tags": [
          "apoyn博士",
@@ -33996,6 +34017,7 @@
          "_cc"
       ],
       "id": "1024560697",
+      "parent": "scp-zh-012",
       "rating": "7",
       "tags": [
          "原創",
@@ -37006,6 +37028,7 @@
       "fullname": "operation-nucleon-bank-cobweb01",
       "hidden_tags": [],
       "id": "1040472393",
+      "parent": "operation-nucleon-bank",
       "rating": "9",
       "tags": [
          "原創",
@@ -38869,6 +38892,7 @@
       "fullname": "scp-zh-103-experiment-log",
       "hidden_tags": [],
       "id": "1142241494",
+      "parent": "scp-zh-103",
       "rating": "15",
       "tags": [
          "原創",
@@ -40883,6 +40907,7 @@
       "fullname": "he-hadnt-faded-away",
       "hidden_tags": [],
       "id": "1168108890",
+      "parent": "scp-zh-9288-ex",
       "rating": "8",
       "tags": [
          "ad博士",
@@ -41098,6 +41123,7 @@
       "fullname": "at-that-day-you-still-wish-me-a-good-dream",
       "hidden_tags": [],
       "id": "1174004927",
+      "parent": "scp-zh-774",
       "rating": "22",
       "tags": [
          "原創",
@@ -45898,6 +45924,7 @@
          "_cc"
       ],
       "id": "1260831267",
+      "parent": "scp-zh-9288-ex",
       "rating": "21",
       "tags": [
          "原創",
@@ -45947,6 +45974,7 @@
          "_禁黑"
       ],
       "id": "1261305994",
+      "parent": "guide-hub",
       "rating": "7",
       "tags": [
          "中心",
@@ -46730,6 +46758,7 @@
          "_蒐集院-goi格式"
       ],
       "id": "1267774216",
+      "parent": "thinking-and-write",
       "rating": "7",
       "tags": [
          "goi格式",
@@ -48648,6 +48677,7 @@
       "fullname": "terminal-and-initial",
       "hidden_tags": [],
       "id": "1304889984",
+      "parent": "thinking-and-write",
       "rating": "6",
       "tags": [
          "metha博士",
@@ -51129,6 +51159,7 @@
          "_cc"
       ],
       "id": "1305598540",
+      "parent": "canon-hub-zh",
       "rating": "22",
       "tags": [
          "中心",
@@ -53794,6 +53825,7 @@
          "_cc"
       ],
       "id": "1306217110",
+      "parent": "scp-zh-236",
       "rating": "15",
       "tags": [
          "1998年",
@@ -62366,6 +62398,7 @@
       "fullname": "the-plan-of-execution",
       "hidden_tags": [],
       "id": "1308491245",
+      "parent": "scp-zh-833",
       "rating": "6",
       "tags": [
          "site-zh-13",
@@ -64194,6 +64227,7 @@
          "_禁黑"
       ],
       "id": "1310899851",
+      "parent": "scp-zh-001",
       "rating": "32",
       "tags": [
          "001提案",
@@ -65487,6 +65521,7 @@
       "fullname": "sigurros-and-taiwanese-unicorn",
       "hidden_tags": [],
       "id": "1311084437",
+      "parent": "keter-duty",
       "rating": "13",
       "tags": [
          "三垣",
@@ -65536,6 +65571,7 @@
       "fullname": "true-real",
       "hidden_tags": [],
       "id": "1311086381",
+      "parent": "scp-zh-231",
       "rating": "7",
       "tags": [
          "site-zh-50",
@@ -75298,6 +75334,7 @@
       "fullname": "wanderers:cerulean-king",
       "hidden_tags": [],
       "id": "1329573155",
+      "parent": "scp-zh-298",
       "rating": "8",
       "tags": [
          "wanderers",
@@ -82066,6 +82103,7 @@
          "_image"
       ],
       "id": "1331683018",
+      "parent": "scp-zh-001",
       "rating": "40",
       "tags": [
          "001提案",
@@ -83889,6 +83927,7 @@
          "_image"
       ],
       "id": "1331813050",
+      "parent": "snowcatflyhighhigh",
       "rating": "15",
       "tags": [
          "ctrl-z博士",
@@ -85472,6 +85511,7 @@
          "_飛"
       ],
       "id": "1331826788",
+      "parent": "scp-zh-385",
       "rating": "11",
       "tags": [
          "wanderers",
@@ -86130,6 +86170,7 @@
          "_假的"
       ],
       "id": "1333201688",
+      "parent": "scp-zh-609",
       "rating": "13",
       "tags": [
          "site-zh-22",
@@ -86287,6 +86328,7 @@
          "_假的"
       ],
       "id": "1333202578",
+      "parent": "scp-zh-086",
       "rating": "15",
       "tags": [
          "zh急迫競賽2022",
@@ -87425,6 +87467,7 @@
       "fullname": "cidal-dongi-by-samscript",
       "hidden_tags": [],
       "id": "1384787729",
+      "parent": "scp-zh-922",
       "rating": "12",
       "tags": [
          "cidal-dongi",
@@ -87820,6 +87863,7 @@
       "fullname": "romiamiad-ni-cidal",
       "hidden_tags": [],
       "id": "1401959907",
+      "parent": "scp-zh-922",
       "rating": "20",
       "tags": [
          "cidal-dongi",
@@ -88011,6 +88055,7 @@
       "fullname": "we-are-no-more-than-mortal-souls",
       "hidden_tags": [],
       "id": "1401999559",
+      "parent": "scp-zh-922",
       "rating": "17",
       "tags": [
          "cidal-dongi",
@@ -89595,6 +89640,7 @@
       "fullname": "wolf125again",
       "hidden_tags": [],
       "id": "1402997103",
+      "parent": "wolf-125",
       "rating": "6",
       "tags": [
          "原創",
@@ -90264,6 +90310,7 @@
          "_禁黑"
       ],
       "id": "1403274265",
+      "parent": "urban-legend-department",
       "rating": "13",
       "tags": [
          "原創",
@@ -90337,6 +90384,7 @@
       "fullname": "a-walk-in-the-fallout",
       "hidden_tags": [],
       "id": "1403275135",
+      "parent": "k1s10r0d-s-proposal",
       "rating": "13",
       "tags": [
          "原創",
@@ -90738,6 +90786,7 @@
       "fullname": "incident-zh-330-2",
       "hidden_tags": [],
       "id": "1403494883",
+      "parent": "scp-zh-330",
       "rating": "10",
       "tags": [
          "ain博士",
@@ -91184,6 +91233,7 @@
          "_licensebox"
       ],
       "id": "1410187517",
+      "parent": "unreality-hub",
       "rating": "16",
       "tags": [
          "2022虹光之間",
@@ -97194,6 +97244,7 @@
          "_禁黑"
       ],
       "id": "1436245968",
+      "parent": "k1s10r0d-s-proposal",
       "rating": "25",
       "tags": [
          "2022紅藍爭霸賽",
@@ -98183,6 +98234,7 @@
          "_licensebox"
       ],
       "id": "1436271281",
+      "parent": "scp-zh-649",
       "rating": "17",
       "tags": [
          "2022紅藍爭霸賽",
@@ -100804,6 +100856,7 @@
          "_cc"
       ],
       "id": "1437472323",
+      "parent": "scp-zh-244",
       "rating": "13",
       "tags": [
          "原創",
@@ -101003,6 +101056,7 @@
       "fullname": "a-home-welcoming-story-rsr-lu",
       "hidden_tags": [],
       "id": "1437482774",
+      "parent": "scp-zh-244",
       "rating": "11",
       "tags": [
          "2022萬聖事件",
@@ -104440,6 +104494,7 @@
          "_licensebox"
       ],
       "id": "1446265440",
+      "parent": "scp-zh-993",
       "rating": "8",
       "tags": [
          "原創",
@@ -105288,6 +105343,7 @@
          "_cc"
       ],
       "id": "1446695490",
+      "parent": "scp-zh-835",
       "rating": "13",
       "tags": [
          "keter",
@@ -105708,6 +105764,7 @@
       "fullname": "radiw-na-cidal",
       "hidden_tags": [],
       "id": "1446760211",
+      "parent": "scp-zh-922",
       "rating": "19",
       "tags": [
          "cidal-dongi",
@@ -108497,6 +108554,7 @@
       "fullname": "task-forces-zh-complete-list",
       "hidden_tags": [],
       "id": "1448831435",
+      "parent": "task-forces-zh",
       "rating": "4",
       "tags": [
          "原創",
@@ -110352,6 +110410,7 @@
       "fullname": "your-last-working-day",
       "hidden_tags": [],
       "id": "1449418032",
+      "parent": "azure-skydome-hub",
       "rating": "11",
       "tags": [
          "ad博士",
@@ -110771,6 +110830,7 @@
       "fullname": "the-rat-that-only-i-can-see",
       "hidden_tags": [],
       "id": "1449525947",
+      "parent": "scp-zh-923",
       "rating": "16",
       "tags": [
          "原創",
@@ -111281,6 +111341,7 @@
          "_cc"
       ],
       "id": "1449609135",
+      "parent": "azure-skydome-hub",
       "rating": "17",
       "tags": [
          "cidal-dongi",
@@ -114344,6 +114405,7 @@
          "_禁黑"
       ],
       "id": "1450631958",
+      "parent": "essay-resource-hub",
       "rating": "1",
       "tags": [
          "原創",

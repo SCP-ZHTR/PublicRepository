@@ -302,6 +302,7 @@
       "fullname": "security-clearance-levels",
       "hidden_tags": [],
       "id": "639380231",
+      "parent": "guide-hub",
       "rating": "3",
       "tags": [
          "en",
@@ -898,6 +899,7 @@
       "fullname": "image-use-policy",
       "hidden_tags": [],
       "id": "639661168",
+      "parent": "guide-hub",
       "rating": "0",
       "tags": [
          "指導",
@@ -1076,6 +1078,7 @@
       "fullname": "site-rules",
       "hidden_tags": [],
       "id": "654604348",
+      "parent": "guide-hub",
       "rating": "1",
       "tags": [
          "必讀",
@@ -1095,6 +1098,7 @@
          "_cc"
       ],
       "id": "656513983",
+      "parent": "guide-hub",
       "rating": "0",
       "tags": [
          "指導",
@@ -1419,6 +1423,7 @@
          "_licensebox"
       ],
       "id": "666326128",
+      "parent": "guide-hub",
       "rating": "12",
       "tags": [
          "en",
@@ -1643,6 +1648,7 @@
       "fullname": "translation-dictionary",
       "hidden_tags": [],
       "id": "673960381",
+      "parent": "guide-hub",
       "rating": "0",
       "tags": [
          "en",
@@ -1675,6 +1681,7 @@
       "fullname": "technical-words",
       "hidden_tags": [],
       "id": "674025313",
+      "parent": "guide-hub",
       "rating": "3",
       "tags": [
          "en",
@@ -2247,6 +2254,7 @@
          "_info"
       ],
       "id": "674718494",
+      "parent": "scp-001",
       "rating": "17",
       "tags": [
          "001提案",
@@ -2965,6 +2973,7 @@
          "_licensebox"
       ],
       "id": "675055942",
+      "parent": "scp-001",
       "rating": "4",
       "tags": [
          "001提案",
@@ -3263,6 +3272,7 @@
       "fullname": "personnel-and-character-dossier",
       "hidden_tags": [],
       "id": "683449281",
+      "parent": "essay-resource-hub",
       "rating": "0",
       "tags": [
          "合作",
@@ -3989,6 +3999,7 @@
          "_cc"
       ],
       "id": "728740954",
+      "parent": "scp-682-j",
       "rating": "9",
       "tags": [
          "en",
@@ -4306,6 +4317,7 @@
          "_cc"
       ],
       "id": "756973906",
+      "parent": "ouroboros",
       "rating": "9",
       "tags": [
          "001提案",
@@ -4719,6 +4731,7 @@
          "_licensebox"
       ],
       "id": "760742065",
+      "parent": "deer-college-hub",
       "rating": "5",
       "tags": [
          "en",
@@ -5702,6 +5715,7 @@
          "_cc"
       ],
       "id": "786276784",
+      "parent": "scp-001",
       "rating": "18",
       "tags": [
          "001提案",
@@ -7339,6 +7353,7 @@
       "fullname": "niveaux-de-menace-des-objets-scp",
       "hidden_tags": [],
       "id": "799574250",
+      "parent": "guide-hub",
       "rating": "6",
       "tags": [
          "fr",
@@ -7413,6 +7428,7 @@
       "fullname": "css-theme-preparation-tool",
       "hidden_tags": [],
       "id": "799593692",
+      "parent": "guide-hub",
       "rating": "4",
       "tags": [
          "en",
@@ -7532,6 +7548,7 @@
          "_saphir-goi格式"
       ],
       "id": "799608567",
+      "parent": "non-prophet-organization-hub",
       "rating": "3",
       "tags": [
          "blackwood",
@@ -8456,6 +8473,7 @@
          "_瑪納慈善基金會-goi格式"
       ],
       "id": "801761669",
+      "parent": "end-of-death-hub",
       "rating": "6",
       "tags": [
          "dado",
@@ -9537,6 +9555,7 @@
          "_image"
       ],
       "id": "802208260",
+      "parent": "th-canon-hub",
       "rating": "1",
       "tags": [
          "th",
@@ -9570,6 +9589,7 @@
       "fullname": "css-policy",
       "hidden_tags": [],
       "id": "802211567",
+      "parent": "guide-hub",
       "rating": "3",
       "tags": [
          "待更新",
@@ -9875,6 +9895,7 @@
       "fullname": "exploration-log-a009-1",
       "hidden_tags": [],
       "id": "802226225",
+      "parent": "scp-009",
       "rating": "4",
       "tags": [
          "en",
@@ -10923,6 +10944,7 @@
          "_info"
       ],
       "id": "805066306",
+      "parent": "guide-hub",
       "rating": "8",
       "tags": [
          "en",
@@ -11005,6 +11027,7 @@
          "_info"
       ],
       "id": "805998574",
+      "parent": "guide-hub",
       "rating": "15",
       "tags": [
          "en",
@@ -11086,6 +11109,7 @@
          "_info"
       ],
       "id": "806120241",
+      "parent": "scp-001",
       "rating": "12",
       "tags": [
          "001提案",
@@ -11157,6 +11181,7 @@
       "fullname": "so-you-want-to-write-a-humanoid-scp-object",
       "hidden_tags": [],
       "id": "806917228",
+      "parent": "guide-hub",
       "rating": "12",
       "tags": [
          "en",
@@ -12519,6 +12544,7 @@
       "fullname": "guia-licencias-de-archivos",
       "hidden_tags": [],
       "id": "819684567",
+      "parent": "guide-hub",
       "rating": "3",
       "tags": [
          "指導",
@@ -13050,6 +13076,7 @@
       "fullname": "scpdeclassified-pattern-screamers-declassified",
       "hidden_tags": [],
       "id": "827153464",
+      "parent": "scpdeclassified",
       "rating": "10",
       "tags": [
          "en",
@@ -13393,6 +13420,7 @@
          "_info"
       ],
       "id": "834608956",
+      "parent": "guide-hub",
       "rating": "9",
       "tags": [
          "指導",
@@ -13607,6 +13635,7 @@
          "_info"
       ],
       "id": "835229564",
+      "parent": "guide-hub",
       "rating": "10",
       "tags": [
          "en",
@@ -13789,6 +13818,7 @@
          "_cc"
       ],
       "id": "835252438",
+      "parent": "theme:black-highlighter-theme",
       "rating": "4",
       "tags": [
          "en",
@@ -13841,6 +13871,7 @@
          "_info"
       ],
       "id": "835289805",
+      "parent": "guide-hub",
       "rating": "7",
       "tags": [
          "en",
@@ -14416,6 +14447,7 @@
          "_cc"
       ],
       "id": "846701265",
+      "parent": "guide-hub",
       "rating": "6",
       "tags": [
          "管理",
@@ -14529,6 +14561,7 @@
          "_info"
       ],
       "id": "846820347",
+      "parent": "guide-hub",
       "rating": "8",
       "tags": [
          "en",
@@ -14706,6 +14739,7 @@
          "_cc_info"
       ],
       "id": "847078337",
+      "parent": "groups-of-interest",
       "rating": "8",
       "tags": [
          "en",
@@ -15328,6 +15362,7 @@
          "_info"
       ],
       "id": "854798407",
+      "parent": "scp-137",
       "rating": "4",
       "tags": [
          "en",
@@ -15428,6 +15463,7 @@
       "fullname": "nx-07",
       "hidden_tags": [],
       "id": "855423835",
+      "parent": "nexus-series",
       "rating": "5",
       "tags": [
          "en",
@@ -16805,6 +16841,7 @@
       "fullname": "donations-policy",
       "hidden_tags": [],
       "id": "898803147",
+      "parent": "guide-hub",
       "rating": "1",
       "tags": [
          "指導",
@@ -16966,6 +17003,7 @@
          "_普羅米修斯實驗室-goi格式"
       ],
       "id": "907762476",
+      "parent": "prometheus-labs-hub",
       "rating": "4",
       "tags": [
          "en",
@@ -17744,6 +17782,7 @@
          "_禁黑"
       ],
       "id": "933986518",
+      "parent": "tongwen-guan",
       "rating": "3",
       "tags": [
          "管理",
@@ -18358,6 +18397,7 @@
          "_cc"
       ],
       "id": "962201526",
+      "parent": "groups-of-interest",
       "rating": "8",
       "tags": [
          "en",
@@ -18672,6 +18712,7 @@
          "_info"
       ],
       "id": "985902356",
+      "parent": "guide-hub",
       "rating": "11",
       "tags": [
          "指導",
@@ -19124,6 +19165,7 @@
       "fullname": "scp-055",
       "hidden_tags": [],
       "id": "986153734",
+      "parent": "antimemetics-division-hub",
       "rating": "12",
       "tags": [
          "en",
@@ -20220,6 +20262,7 @@
          "_licensebox"
       ],
       "id": "986559382",
+      "parent": "guide-hub",
       "rating": "5",
       "tags": [
          "en",
@@ -20334,6 +20377,7 @@
          "_licensebox"
       ],
       "id": "986561708",
+      "parent": "scp-001",
       "rating": "14",
       "tags": [
          "001提案",
@@ -20791,6 +20835,7 @@
          "_info"
       ],
       "id": "987062274",
+      "parent": "antimemetics-division-hub",
       "rating": "11",
       "tags": [
          "en",
@@ -21387,6 +21432,7 @@
          "_licensebox"
       ],
       "id": "993174632",
+      "parent": "scp-914",
       "rating": "4",
       "tags": [
          "en",
@@ -21620,6 +21666,7 @@
          "_info"
       ],
       "id": "995156387",
+      "parent": "scp-093",
       "rating": "3",
       "tags": [
          "en",
@@ -21694,6 +21741,7 @@
          "_info"
       ],
       "id": "996823099",
+      "parent": "scp-093",
       "rating": "3",
       "tags": [
          "en",
@@ -21863,6 +21911,7 @@
          "_info"
       ],
       "id": "998670904",
+      "parent": "scp-093",
       "rating": "2",
       "tags": [
          "en",
@@ -21930,6 +21979,7 @@
          "_info"
       ],
       "id": "998680415",
+      "parent": "scp-093",
       "rating": "2",
       "tags": [
          "en",
@@ -22124,6 +22174,7 @@
       "fullname": "scp-093-red-test",
       "hidden_tags": [],
       "id": "998685569",
+      "parent": "scp-093",
       "rating": "3",
       "tags": [
          "en",
@@ -22167,6 +22218,7 @@
          "_info"
       ],
       "id": "998686017",
+      "parent": "scp-087",
       "rating": "5",
       "tags": [
          "en",
@@ -22286,6 +22338,7 @@
          "_info"
       ],
       "id": "998698866",
+      "parent": "scp-087",
       "rating": "3",
       "tags": [
          "en",
@@ -22864,6 +22917,7 @@
       "fullname": "scp-076-2",
       "hidden_tags": [],
       "id": "999740257",
+      "parent": "scp-076",
       "rating": "6",
       "tags": [
          "bowe上將",
@@ -22954,6 +23008,7 @@
          "_licensebox"
       ],
       "id": "999753802",
+      "parent": "guide-hub",
       "rating": "5",
       "tags": [
          "en",
@@ -23592,6 +23647,7 @@
       "fullname": "document-087-iii",
       "hidden_tags": [],
       "id": "999881139",
+      "parent": "scp-087",
       "rating": "5",
       "tags": [
          "en",
@@ -24241,6 +24297,7 @@
       "fullname": "scp-001-o5",
       "hidden_tags": [],
       "id": "1002107453",
+      "parent": "scp-001",
       "rating": "10",
       "tags": [
          "001提案",
@@ -24614,6 +24671,7 @@
          "_info"
       ],
       "id": "1002151638",
+      "parent": "guide-hub",
       "rating": "5",
       "tags": [
          "指導",
@@ -26013,6 +26071,7 @@
       "fullname": "scp-093-recovered-materials",
       "hidden_tags": [],
       "id": "1002301383",
+      "parent": "scp-093",
       "rating": "4",
       "tags": [
          "en",
@@ -26878,6 +26937,7 @@
       "fullname": "zen-and-the-art-of-data-expunged",
       "hidden_tags": [],
       "id": "1011855947",
+      "parent": "guide-hub",
       "rating": "3",
       "tags": [
          "en",
@@ -26951,6 +27011,7 @@
       "fullname": "antimemetics-division-hub",
       "hidden_tags": [],
       "id": "1014599013",
+      "parent": "series-archive",
       "rating": "13",
       "tags": [
          "en",
@@ -27440,6 +27501,7 @@
       "fullname": "we-need-to-talk-about-fifty-five",
       "hidden_tags": [],
       "id": "1019312040",
+      "parent": "antimemetics-division-hub",
       "rating": "9",
       "tags": [
          "en",
@@ -28367,6 +28429,7 @@
       "fullname": "introductory-antimemetics",
       "hidden_tags": [],
       "id": "1024197275",
+      "parent": "antimemetics-division-hub",
       "rating": "5",
       "tags": [
          "en",
@@ -29918,6 +29981,7 @@
       "fullname": "spc-hub-2",
       "hidden_tags": [],
       "id": "1024828768",
+      "parent": "spc-hub",
       "rating": "4",
       "tags": [
          "en",
@@ -30564,6 +30628,7 @@
       "fullname": "unforgettable-that-s-what-you-are",
       "hidden_tags": [],
       "id": "1026201444",
+      "parent": "antimemetics-division-hub",
       "rating": "4",
       "tags": [
          "en",
@@ -31746,6 +31811,7 @@
       "fullname": "rusted-nightmares",
       "hidden_tags": [],
       "id": "1035147679",
+      "parent": "scp-455",
       "rating": "3",
       "tags": [
          "en",
@@ -33089,6 +33155,7 @@
       "fullname": "mackenzie-s-proposal",
       "hidden_tags": [],
       "id": "1040164373",
+      "parent": "scp-001",
       "rating": "2",
       "tags": [
          "001提案",
@@ -33134,6 +33201,7 @@
          "_licensebox"
       ],
       "id": "1040164981",
+      "parent": "scp-001",
       "rating": "4",
       "tags": [
          "001提案",
@@ -33390,6 +33458,7 @@
       "fullname": "siabhub",
       "hidden_tags": [],
       "id": "1040176711",
+      "parent": "canon-hub",
       "rating": "13",
       "tags": [
          "en",
@@ -34215,6 +34284,7 @@
       "fullname": "case-colourless-green",
       "hidden_tags": [],
       "id": "1068187726",
+      "parent": "antimemetics-division-hub",
       "rating": "4",
       "tags": [
          "en",
@@ -34410,6 +34480,7 @@
       "fullname": "dr-manns-proposal",
       "hidden_tags": [],
       "id": "1084264585",
+      "parent": "scp-001",
       "rating": "2",
       "tags": [
          "001提案",
@@ -34458,6 +34529,7 @@
       "fullname": "document-001-o5",
       "hidden_tags": [],
       "id": "1084302904",
+      "parent": "dr-manns-proposal",
       "rating": "6",
       "tags": [
          "aaron-siegel",
@@ -35184,6 +35256,7 @@
       "fullname": "your-last-first-day",
       "hidden_tags": [],
       "id": "1134607517",
+      "parent": "antimemetics-division-hub",
       "rating": "9",
       "tags": [
          "en",
@@ -35757,6 +35830,7 @@
          "_芝加哥鬼靈-goi格式"
       ],
       "id": "1140209382",
+      "parent": "black-as-night",
       "rating": "6",
       "tags": [
          "en",
@@ -37046,6 +37120,7 @@
       "fullname": "where-have-you-been-all-my-life",
       "hidden_tags": [],
       "id": "1167501630",
+      "parent": "antimemetics-division-hub",
       "rating": "3",
       "tags": [
          "en",
@@ -37458,6 +37533,7 @@
          "_毆打鯊魚中心-goi格式"
       ],
       "id": "1184041237",
+      "parent": "k-o-failure-scenario-hub",
       "rating": "6",
       "tags": [
          "en-末日2018",
@@ -37497,6 +37573,7 @@
       "fullname": "fresh-hell",
       "hidden_tags": [],
       "id": "1184757997",
+      "parent": "antimemetics-division-hub",
       "rating": "4",
       "tags": [
          "en",
@@ -37768,6 +37845,7 @@
          "_cc"
       ],
       "id": "1219397722",
+      "parent": "guide-hub",
       "rating": "10",
       "tags": [
          "en",
@@ -37817,6 +37895,7 @@
       "fullname": "white-space-hub",
       "hidden_tags": [],
       "id": "1231366200",
+      "parent": "site-17-hub",
       "rating": "7",
       "tags": [
          "en",
@@ -38243,6 +38322,7 @@
       "fullname": "history-of-the-universe-hub",
       "hidden_tags": [],
       "id": "1260640956",
+      "parent": "guide-hub",
       "rating": "1",
       "tags": [
          "en",
@@ -39029,6 +39109,7 @@
       "fullname": "ojai",
       "hidden_tags": [],
       "id": "1260861619",
+      "parent": "antimemetics-division-hub",
       "rating": "4",
       "tags": [
          "en",
@@ -40767,6 +40848,7 @@
       "fullname": "immemorial",
       "hidden_tags": [],
       "id": "1290689709",
+      "parent": "antimemetics-division-hub",
       "rating": "6",
       "tags": [
          "en",
@@ -41109,6 +41191,7 @@
       "fullname": "interview-log-026-08",
       "hidden_tags": [],
       "id": "1304867139",
+      "parent": "scp-026",
       "rating": "3",
       "tags": [
          "en",
@@ -41589,6 +41672,7 @@
       "fullname": "scp-4000",
       "hidden_tags": [],
       "id": "1304932944",
+      "parent": "taboo",
       "rating": "0",
       "tags": [
          "en",
@@ -42286,6 +42370,7 @@
       "fullname": "nx-58",
       "hidden_tags": [],
       "id": "1305080071",
+      "parent": "nexus-series",
       "rating": "5",
       "tags": [
          "en",
@@ -46919,6 +47004,7 @@
          "_licensebox"
       ],
       "id": "1305874329",
+      "parent": "scp-001",
       "rating": "26",
       "tags": [
          "001提案",
@@ -47952,6 +48038,7 @@
          "_cc"
       ],
       "id": "1306128860",
+      "parent": "grupos-de-interes-hispanoparlantes",
       "rating": "6",
       "tags": [
          "es",
@@ -48202,6 +48289,7 @@
       "fullname": "case-hate-red",
       "hidden_tags": [],
       "id": "1306196311",
+      "parent": "antimemetics-division-hub",
       "rating": "8",
       "tags": [
          "en",
@@ -48317,6 +48405,7 @@
       "fullname": "immediate-actions",
       "hidden_tags": [],
       "id": "1306228778",
+      "parent": "resurrection",
       "rating": "7",
       "tags": [
          "en",
@@ -48363,6 +48452,7 @@
       "fullname": "the-seed-of-an-idea",
       "hidden_tags": [],
       "id": "1306273985",
+      "parent": "resurrection",
       "rating": "6",
       "tags": [
          "en",
@@ -48593,6 +48683,7 @@
       "fullname": "maria-jones-this-is-your-life",
       "hidden_tags": [],
       "id": "1306293138",
+      "parent": "resurrection",
       "rating": "4",
       "tags": [
          "bright博士",
@@ -48641,6 +48732,7 @@
       "fullname": "document-096-1",
       "hidden_tags": [],
       "id": "1306302069",
+      "parent": "scp-096",
       "rating": "6",
       "tags": [
          "en",
@@ -52354,6 +52446,7 @@
          "_cc"
       ],
       "id": "1307011429",
+      "parent": "scp-3000",
       "rating": "0",
       "tags": [
          "en",
@@ -52561,6 +52654,7 @@
       "fullname": "ara-orun",
       "hidden_tags": [],
       "id": "1307017981",
+      "parent": "antimemetics-division-hub",
       "rating": "7",
       "tags": [
          "en",
@@ -53244,6 +53338,7 @@
       "fullname": "scp-2111",
       "hidden_tags": [],
       "id": "1307049337",
+      "parent": "antimemetics-division-hub",
       "rating": "6",
       "tags": [
          "en",
@@ -54050,6 +54145,7 @@
       "fullname": "scp-2256",
       "hidden_tags": [],
       "id": "1307460475",
+      "parent": "antimemetics-division-hub",
       "rating": "5",
       "tags": [
          "en",
@@ -54206,6 +54302,7 @@
          "_cc"
       ],
       "id": "1307465269",
+      "parent": "canon-hub",
       "rating": "8",
       "tags": [
          "en",
@@ -54717,6 +54814,7 @@
       "fullname": "classification-committee-memo",
       "hidden_tags": [],
       "id": "1308425070",
+      "parent": "anomaly-classification-system-guide",
       "rating": "13",
       "tags": [
          "aktus主任",
@@ -54927,6 +55025,7 @@
       "fullname": "the-wolves-at-the-door",
       "hidden_tags": [],
       "id": "1308441277",
+      "parent": "resurrection",
       "rating": "5",
       "tags": [
          "en",
@@ -55590,6 +55689,7 @@
          "_licensebox"
       ],
       "id": "1308466178",
+      "parent": "scp-1146",
       "rating": "1",
       "tags": [
          "en",
@@ -55656,6 +55756,7 @@
          "_licensebox"
       ],
       "id": "1308466319",
+      "parent": "scp-1258",
       "rating": "1",
       "tags": [
          "en",
@@ -56113,6 +56214,7 @@
       "fullname": "unthreaded",
       "hidden_tags": [],
       "id": "1308472091",
+      "parent": "antimemetics-division-hub",
       "rating": "3",
       "tags": [
          "en",
@@ -56176,6 +56278,7 @@
          "_licensebox"
       ],
       "id": "1308473302",
+      "parent": "scp-1420",
       "rating": "1",
       "tags": [
          "en",
@@ -56436,6 +56539,7 @@
          "_licensebox"
       ],
       "id": "1308477823",
+      "parent": "scp-1825",
       "rating": "1",
       "tags": [
          "en",
@@ -56534,6 +56638,7 @@
          "_licensebox"
       ],
       "id": "1308485075",
+      "parent": "scp-2284",
       "rating": "1",
       "tags": [
          "en",
@@ -56801,6 +56906,7 @@
          "_cc"
       ],
       "id": "1308525266",
+      "parent": "groups-of-interest-of-the-russian-branch",
       "rating": "11",
       "tags": [
          "ru",
@@ -57075,6 +57181,7 @@
       "fullname": "in-the-trenches-with-the-dead",
       "hidden_tags": [],
       "id": "1308567657",
+      "parent": "antimemetics-division-hub",
       "rating": "9",
       "tags": [
          "en",
@@ -57852,6 +57959,7 @@
          "_licensebox"
       ],
       "id": "1310896392",
+      "parent": "contest-archive",
       "rating": "1",
       "tags": [
          "en",
@@ -57917,6 +58025,7 @@
          "_cc"
       ],
       "id": "1310902472",
+      "parent": "contest-archive",
       "rating": "1",
       "tags": [
          "en",
@@ -58480,6 +58589,7 @@
          "_cc"
       ],
       "id": "1310932777",
+      "parent": "contest-archive",
       "rating": "2",
       "tags": [
          "en",
@@ -58617,6 +58727,7 @@
          "_cc"
       ],
       "id": "1310941739",
+      "parent": "contest-archive",
       "rating": "4",
       "tags": [
          "en",
@@ -60386,6 +60497,7 @@
          "_禁黑"
       ],
       "id": "1311641199",
+      "parent": "scp-001",
       "rating": "8",
       "tags": [
          "001提案",
@@ -61290,6 +61402,7 @@
       "fullname": "contingency",
       "hidden_tags": [],
       "id": "1311872701",
+      "parent": "resurrection",
       "rating": "3",
       "tags": [
          "clef博士",
@@ -61654,6 +61767,7 @@
          "_cc"
       ],
       "id": "1311901322",
+      "parent": "your-circuits-dead-theres-something-wrong",
       "rating": "2",
       "tags": [
          "en",
@@ -61684,6 +61798,7 @@
          "_cc"
       ],
       "id": "1311901331",
+      "parent": "your-circuits-dead-theres-something-wrong",
       "rating": "2",
       "tags": [
          "en",
@@ -61714,6 +61829,7 @@
          "_cc"
       ],
       "id": "1311901335",
+      "parent": "your-circuits-dead-theres-something-wrong",
       "rating": "2",
       "tags": [
          "en",
@@ -61744,6 +61860,7 @@
          "_cc"
       ],
       "id": "1311901337",
+      "parent": "your-circuits-dead-theres-something-wrong",
       "rating": "2",
       "tags": [
          "en",
@@ -61778,6 +61895,7 @@
          "_cc"
       ],
       "id": "1311901368",
+      "parent": "your-circuits-dead-theres-something-wrong",
       "rating": "3",
       "tags": [
          "en",
@@ -63571,6 +63689,7 @@
       "fullname": "site-17-hub",
       "hidden_tags": [],
       "id": "1312248518",
+      "parent": "canon-hub",
       "rating": "8",
       "tags": [
          "en",
@@ -63717,6 +63836,7 @@
       "fullname": "incident-log-1245-043",
       "hidden_tags": [],
       "id": "1312263673",
+      "parent": "scp-1245",
       "rating": "3",
       "tags": [
          "en",
@@ -65189,6 +65309,7 @@
          "_licensebox"
       ],
       "id": "1312571762",
+      "parent": "antimemetics-division-hub",
       "rating": "3",
       "tags": [
          "en",
@@ -65700,6 +65821,7 @@
          "_licensebox"
       ],
       "id": "1317010035",
+      "parent": "canon-hub",
       "rating": "4",
       "tags": [
          "en",
@@ -66766,6 +66888,7 @@
       "fullname": "blood-brain",
       "hidden_tags": [],
       "id": "1323992484",
+      "parent": "antimemetics-division-hub",
       "rating": "5",
       "tags": [
          "en",
@@ -66874,6 +66997,7 @@
       "fullname": "goc-supplemental-threat-entities",
       "hidden_tags": [],
       "id": "1324050639",
+      "parent": "goc-hub-page",
       "rating": "4",
       "tags": [
          "en",
@@ -70562,6 +70686,7 @@
          "_licensebox"
       ],
       "id": "1330084278",
+      "parent": "scp-207-jp",
       "rating": "3",
       "tags": [
          "jp",
@@ -70604,6 +70729,7 @@
       "fullname": "scp-610-l1",
       "hidden_tags": [],
       "id": "1330093808",
+      "parent": "scp-610",
       "rating": "5",
       "tags": [
          "en",
@@ -70808,6 +70934,7 @@
       "fullname": "scp-610-l2",
       "hidden_tags": [],
       "id": "1330119193",
+      "parent": "scp-610",
       "rating": "5",
       "tags": [
          "en",
@@ -72093,6 +72220,7 @@
          "_licensebox"
       ],
       "id": "1330921928",
+      "parent": "no-return-hub",
       "rating": "4",
       "tags": [
          "en",
@@ -72405,6 +72533,7 @@
          "_licensebox"
       ],
       "id": "1331203045",
+      "parent": "antimemetics-division-hub",
       "rating": "5",
       "tags": [
          "en",
@@ -72510,6 +72639,7 @@
          "_licensebox"
       ],
       "id": "1331213438",
+      "parent": "antimemetics-division-hub",
       "rating": "7",
       "tags": [
          "en",
@@ -72548,6 +72678,7 @@
          "_licensebox"
       ],
       "id": "1331218023",
+      "parent": "antimemetics-division-hub",
       "rating": "4",
       "tags": [
          "en",
@@ -73120,6 +73251,7 @@
       "fullname": "a-trip-down-memory-lane",
       "hidden_tags": [],
       "id": "1331411831",
+      "parent": "no-return-hub",
       "rating": "8",
       "tags": [
          "en",
@@ -73488,6 +73620,7 @@
       "fullname": "facilities-complete-list",
       "hidden_tags": [],
       "id": "1331479175",
+      "parent": "secure-facilities-locations",
       "rating": "5",
       "tags": [
          "en",
@@ -74270,6 +74403,7 @@
          "_licensebox"
       ],
       "id": "1331630802",
+      "parent": "scp-001",
       "rating": "4",
       "tags": [
          "001提案",
@@ -74382,6 +74516,7 @@
       "fullname": "what-s-in-a-name",
       "hidden_tags": [],
       "id": "1331651150",
+      "parent": "contingency",
       "rating": "5",
       "tags": [
          "clef博士",
@@ -74420,6 +74555,7 @@
       "fullname": "deals-with-the-devil",
       "hidden_tags": [],
       "id": "1331661362",
+      "parent": "resurrection",
       "rating": "4",
       "tags": [
          "en",
@@ -74552,6 +74688,7 @@
       "fullname": "just-a-formality",
       "hidden_tags": [],
       "id": "1331714162",
+      "parent": "resurrection",
       "rating": "3",
       "tags": [
          "en",
@@ -74847,6 +74984,7 @@
       "fullname": "integrity-project",
       "hidden_tags": [],
       "id": "1331730157",
+      "parent": "resurrection",
       "rating": "3",
       "tags": [
          "aktus主任",
@@ -76872,6 +77010,7 @@
       "fullname": "a-thin-dangerous-line",
       "hidden_tags": [],
       "id": "1334655390",
+      "parent": "antimemetics-division-hub",
       "rating": "4",
       "tags": [
          "en",
@@ -77920,6 +78059,7 @@
          "_image"
       ],
       "id": "1370796070",
+      "parent": "canon-hub",
       "rating": "5",
       "tags": [
          "en",
@@ -79186,6 +79326,7 @@
       "fullname": "084-a4",
       "hidden_tags": [],
       "id": "1401956055",
+      "parent": "scp-084",
       "rating": "2",
       "tags": [
          "en",
@@ -80998,6 +81139,7 @@
       "fullname": "guide-for-newcomers",
       "hidden_tags": [],
       "id": "1402219899",
+      "parent": "required-reading-hub",
       "rating": "7",
       "tags": [
          "en",
@@ -81070,6 +81212,7 @@
       "fullname": "guide-for-reading",
       "hidden_tags": [],
       "id": "1402221817",
+      "parent": "guide-for-newcomers",
       "rating": "3",
       "tags": [
          "en",
@@ -82636,6 +82779,7 @@
       "fullname": "guide-for-writing",
       "hidden_tags": [],
       "id": "1402766501",
+      "parent": "guide-for-newcomers",
       "rating": "6",
       "tags": [
          "en",
@@ -83962,6 +84106,7 @@
       "fullname": "scp-914-experiment-log-guidelines",
       "hidden_tags": [],
       "id": "1402992743",
+      "parent": "scp-914",
       "rating": "4",
       "tags": [
          "en",
@@ -84338,6 +84483,7 @@
          "_licensebox"
       ],
       "id": "1403108176",
+      "parent": "scp-407",
       "rating": "3",
       "tags": [
          "en",
@@ -86869,6 +87015,7 @@
          "_禁黑"
       ],
       "id": "1420014791",
+      "parent": "admonition",
       "rating": "15",
       "tags": [
          "en",
@@ -87653,6 +87800,7 @@
          "_禁黑"
       ],
       "id": "1420123715",
+      "parent": "contest-archive",
       "rating": "5",
       "tags": [
          "en",
@@ -88799,6 +88947,7 @@
          "_禁黑"
       ],
       "id": "1420364001",
+      "parent": "site-17-hub",
       "rating": "9",
       "tags": [
          "en",
@@ -89540,6 +89689,7 @@
          "_licensebox"
       ],
       "id": "1420478746",
+      "parent": "scp-097",
       "rating": "3",
       "tags": [
          "en",
@@ -89915,6 +90065,7 @@
          "_禁黑"
       ],
       "id": "1420560399",
+      "parent": "cack-hub",
       "rating": "13",
       "tags": [
          "en",
@@ -90910,6 +91061,7 @@
          "_licensebox"
       ],
       "id": "1424785568",
+      "parent": "unreality-hub",
       "rating": "6",
       "tags": [
          "alex-thorley",
@@ -91345,6 +91497,7 @@
       "fullname": "new-tricks",
       "hidden_tags": [],
       "id": "1435513260",
+      "parent": "resurrection",
       "rating": "4",
       "tags": [
          "bowe上將",
@@ -91424,6 +91577,7 @@
       "fullname": "light-dependent-reactions",
       "hidden_tags": [],
       "id": "1435737901",
+      "parent": "resurrection",
       "rating": "4",
       "tags": [
          "elliott博士",
@@ -91669,6 +91823,7 @@
       "fullname": "dressing-up",
       "hidden_tags": [],
       "id": "1435844830",
+      "parent": "resurrection",
       "rating": "5",
       "tags": [
          "elliott博士",
@@ -91712,6 +91867,7 @@
       "fullname": "getting-drunk",
       "hidden_tags": [],
       "id": "1435844836",
+      "parent": "resurrection",
       "rating": "5",
       "tags": [
          "elliott博士",
@@ -91755,6 +91911,7 @@
       "fullname": "raising-hell",
       "hidden_tags": [],
       "id": "1435844897",
+      "parent": "resurrection",
       "rating": "5",
       "tags": [
          "elliott博士",
@@ -91977,6 +92134,7 @@
          "_cc"
       ],
       "id": "1436022092",
+      "parent": "resurrection",
       "rating": "5",
       "tags": [
          "aktus主任",
@@ -92181,6 +92339,7 @@
       "fullname": "job-opportunities",
       "hidden_tags": [],
       "id": "1436127361",
+      "parent": "resurrection",
       "rating": "8",
       "tags": [
          "en",
@@ -93142,6 +93301,7 @@
          "_licensebox"
       ],
       "id": "1436219662",
+      "parent": "resurrection",
       "rating": "6",
       "tags": [
          "en",
@@ -93175,6 +93335,7 @@
       "fullname": "daybreak",
       "hidden_tags": [],
       "id": "1436221519",
+      "parent": "canon-hub",
       "rating": "3",
       "tags": [
          "en",
@@ -93615,6 +93776,7 @@
          "_licensebox"
       ],
       "id": "1436322936",
+      "parent": "resurrection",
       "rating": "3",
       "tags": [
          "bowe上將",
@@ -93804,6 +93966,7 @@
       "fullname": "personal-log-of-gordon-richards",
       "hidden_tags": [],
       "id": "1436381346",
+      "parent": "scp-184",
       "rating": "2",
       "tags": [
          "en",
@@ -93988,6 +94151,7 @@
          "_licensebox"
       ],
       "id": "1436572662",
+      "parent": "resurrection",
       "rating": "3",
       "tags": [
          "cimmerian博士",
@@ -95118,6 +95282,7 @@
          "_licensebox"
       ],
       "id": "1437047672",
+      "parent": "resurrection",
       "rating": "4",
       "tags": [
          "en",
@@ -95742,6 +95907,7 @@
          "_licensebox"
       ],
       "id": "1437129317",
+      "parent": "resurrection",
       "rating": "4",
       "tags": [
          "bowe上將",
@@ -95890,6 +96056,7 @@
       "fullname": "resurrection",
       "hidden_tags": [],
       "id": "1437254754",
+      "parent": "canon-hub",
       "rating": "6",
       "tags": [
          "en",
@@ -96137,6 +96304,7 @@
          "_licensebox"
       ],
       "id": "1437283650",
+      "parent": "scp-481",
       "rating": "2",
       "tags": [
          "en",
@@ -96848,6 +97016,7 @@
          "_licensebox"
       ],
       "id": "1437455882",
+      "parent": "atzak-hub",
       "rating": "-1",
       "tags": [
          "en",
@@ -98062,6 +98231,7 @@
       "fullname": "scp-444-ko",
       "hidden_tags": [],
       "id": "1444616760",
+      "parent": "scp-444-ko-warning",
       "rating": "2",
       "tags": [
          "keter",
@@ -98101,6 +98271,7 @@
          "_cc"
       ],
       "id": "1444616765",
+      "parent": "scp-444-ko",
       "rating": "2",
       "tags": [
          "ko",
@@ -98635,6 +98806,7 @@
          "_licensebox"
       ],
       "id": "1444684780",
+      "parent": "site-17-hub",
       "rating": "6",
       "tags": [
          "en",
@@ -98843,6 +99015,7 @@
          "_licensebox"
       ],
       "id": "1444778402",
+      "parent": "scp-anthology-hub",
       "rating": "5",
       "tags": [
          "en",
@@ -99553,6 +99726,7 @@
          "_licensebox"
       ],
       "id": "1445390000",
+      "parent": "scp-anthology-hub",
       "rating": "5",
       "tags": [
          "en",
@@ -100172,6 +100346,7 @@
          "_licensebox"
       ],
       "id": "1445489826",
+      "parent": "scp-anthology-hub",
       "rating": "9",
       "tags": [
          "en",
@@ -100876,6 +101051,7 @@
          "_licensebox"
       ],
       "id": "1445629452",
+      "parent": "scp-anthology-hub",
       "rating": "5",
       "tags": [
          "en",
@@ -100929,6 +101105,7 @@
          "_cc"
       ],
       "id": "1445635659",
+      "parent": "scp-anthology-hub",
       "rating": "6",
       "tags": [
          "en",
@@ -101125,6 +101302,7 @@
          "_licensebox"
       ],
       "id": "1445797756",
+      "parent": "scp-anthology-hub",
       "rating": "7",
       "tags": [
          "en",
@@ -101176,6 +101354,7 @@
          "_全球超自然聯盟-goi格式"
       ],
       "id": "1445812017",
+      "parent": "goc-supplemental-threat-entities",
       "rating": "5",
       "tags": [
          "en",
@@ -101569,6 +101748,7 @@
          "_licensebox"
       ],
       "id": "1446046886",
+      "parent": "scp-anthology-hub",
       "rating": "7",
       "tags": [
          "en",
@@ -101664,6 +101844,7 @@
       "fullname": "scp-7795",
       "hidden_tags": [],
       "id": "1446075364",
+      "parent": "scp-anthology-hub",
       "rating": "17",
       "tags": [
          "en",
@@ -101703,6 +101884,7 @@
       "fullname": "scp-7686",
       "hidden_tags": [],
       "id": "1446075882",
+      "parent": "scp-anthology-hub",
       "rating": "3",
       "tags": [
          "en",
@@ -102125,6 +102307,7 @@
          "_licensebox"
       ],
       "id": "1446182389",
+      "parent": "scp-anthology-hub",
       "rating": "7",
       "tags": [
          "en",
@@ -102181,6 +102364,7 @@
       "fullname": "scp-7759",
       "hidden_tags": [],
       "id": "1446185939",
+      "parent": "scp-anthology-hub",
       "rating": "7",
       "tags": [
          "en",
@@ -102232,6 +102416,7 @@
       "fullname": "scp-7931",
       "hidden_tags": [],
       "id": "1446193779",
+      "parent": "scp-anthology-hub",
       "rating": "5",
       "tags": [
          "en",
@@ -102297,6 +102482,7 @@
          "_licensebox"
       ],
       "id": "1446194763",
+      "parent": "scp-anthology-hub",
       "rating": "8",
       "tags": [
          "en",
@@ -102361,6 +102547,7 @@
          "_licensebox"
       ],
       "id": "1446201345",
+      "parent": "scp-anthology-hub",
       "rating": "8",
       "tags": [
          "en",
@@ -102985,6 +103172,7 @@
          "_licensebox"
       ],
       "id": "1446427212",
+      "parent": "scp-anthology-hub",
       "rating": "8",
       "tags": [
          "en",
@@ -103038,6 +103226,7 @@
          "_禁黑"
       ],
       "id": "1446470327",
+      "parent": "scp-anthology-hub",
       "rating": "5",
       "tags": [
          "en",
@@ -103085,6 +103274,7 @@
          "_cc"
       ],
       "id": "1446475413",
+      "parent": "scp-anthology-hub",
       "rating": "4",
       "tags": [
          "en",
@@ -103191,6 +103381,7 @@
          "_licensebox"
       ],
       "id": "1446477184",
+      "parent": "scp-anthology-hub",
       "rating": "3",
       "tags": [
          "en",
@@ -103540,6 +103731,7 @@
          "_licensebox"
       ],
       "id": "1446583943",
+      "parent": "scp-anthology-hub",
       "rating": "7",
       "tags": [
          "en",
@@ -106753,6 +106945,7 @@
          "_licensebox"
       ],
       "id": "1447245244",
+      "parent": "unreality-hub",
       "rating": "5",
       "tags": [
          "alex-thorley",
@@ -107113,6 +107306,7 @@
          "_cc"
       ],
       "id": "1447429891",
+      "parent": "scp-2602",
       "rating": "2",
       "tags": [
          "en",
@@ -108837,6 +109031,7 @@
       "fullname": "scp-1425-declassification",
       "hidden_tags": [],
       "id": "1447762518",
+      "parent": "scpdeclassified",
       "rating": "3",
       "tags": [
          "en",
@@ -109012,6 +109207,7 @@
          "_licensebox"
       ],
       "id": "1447901867",
+      "parent": "scp-2970",
       "rating": "4",
       "tags": [
          "en",
@@ -109471,6 +109667,7 @@
       "fullname": "abolish-the-no-vote-downvote-your-friends-and-other-scp-crit",
       "hidden_tags": [],
       "id": "1447980687",
+      "parent": "essay-resource-hub",
       "rating": "9",
       "tags": [
          "en",
@@ -111918,6 +112115,7 @@
          "_licensebox"
       ],
       "id": "1449200341",
+      "parent": "resurrection",
       "rating": "3",
       "tags": [
          "en",
@@ -111950,6 +112148,7 @@
          "_licensebox"
       ],
       "id": "1449200347",
+      "parent": "resurrection",
       "rating": "2",
       "tags": [
          "en",
@@ -111983,6 +112182,7 @@
          "_licensebox"
       ],
       "id": "1449200354",
+      "parent": "resurrection",
       "rating": "2",
       "tags": [
          "bowe上將",
@@ -112016,6 +112216,7 @@
          "_licensebox"
       ],
       "id": "1449200359",
+      "parent": "resurrection",
       "rating": "2",
       "tags": [
          "en",
@@ -112049,6 +112250,7 @@
          "_licensebox"
       ],
       "id": "1449200364",
+      "parent": "resurrection",
       "rating": "2",
       "tags": [
          "en",

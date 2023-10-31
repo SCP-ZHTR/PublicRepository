@@ -809,6 +809,7 @@
       "fullname": "theme:the-way-out",
       "hidden_tags": [],
       "id": "755520788",
+      "parent": "black-highlighter-themes",
       "rating": "0",
       "tags": [
          "外觀主題",
@@ -1331,6 +1332,7 @@
       "fullname": "fragment:sky-sermon-hub-1",
       "hidden_tags": [],
       "id": "790271400",
+      "parent": "sky-sermon-hub",
       "rating": "0",
       "tags": [],
       "title": "銀河接引中心頁-1",
@@ -1347,6 +1349,7 @@
       "fullname": "fragment:sky-sermon-hub-2",
       "hidden_tags": [],
       "id": "790273686",
+      "parent": "sky-sermon-hub",
       "rating": "0",
       "tags": [],
       "title": "銀河接引中心頁-2",
@@ -1445,6 +1448,7 @@
       "fullname": "fragment:woedenaz-moon-0",
       "hidden_tags": [],
       "id": "791379630",
+      "parent": "the-moons-stellar-companion",
       "rating": "3",
       "tags": [],
       "title": "Woedenaz Moon 0-繁",
@@ -1461,6 +1465,7 @@
       "fullname": "fragment:woedenaz-moon-1",
       "hidden_tags": [],
       "id": "791425430",
+      "parent": "the-moons-stellar-companion",
       "rating": "0",
       "tags": [],
       "title": "Woedenaz-Moon-1-繁",
@@ -1594,6 +1599,7 @@
       "fullname": "ratemod:sentimentbar",
       "hidden_tags": [],
       "id": "801774997",
+      "parent": "rating-against-traditions",
       "rating": "0",
       "tags": [
          "組件"
@@ -1616,6 +1622,7 @@
       "fullname": "ratemod:sentimentbar-info:start",
       "hidden_tags": [],
       "id": "801775234",
+      "parent": "rating-against-traditions",
       "rating": "1",
       "tags": [
          "組件"
@@ -1638,6 +1645,7 @@
       "fullname": "ratemod:spinout-info:start",
       "hidden_tags": [],
       "id": "801775302",
+      "parent": "rating-against-traditions",
       "rating": "1",
       "tags": [
          "組件"
@@ -1666,6 +1674,7 @@
       "fullname": "ratemod:spinout",
       "hidden_tags": [],
       "id": "801775304",
+      "parent": "rating-against-traditions",
       "rating": "0",
       "tags": [
          "組件"
@@ -1708,6 +1717,7 @@
       "fullname": "ratemod:ytp-like",
       "hidden_tags": [],
       "id": "801775341",
+      "parent": "rating-against-traditions",
       "rating": "6",
       "tags": [
          "組件"
@@ -1751,6 +1761,7 @@
       "fullname": "fragment:scp-4127-1",
       "hidden_tags": [],
       "id": "802376244",
+      "parent": "scp-4127",
       "rating": "0",
       "tags": [],
       "title": "SCP-4127-1",
@@ -1767,6 +1778,7 @@
       "fullname": "fragment:scp-4127-2",
       "hidden_tags": [],
       "id": "802376248",
+      "parent": "scp-4127",
       "rating": "0",
       "tags": [],
       "title": "SCP-4127-2",
@@ -1859,6 +1871,7 @@
       "fullname": "vote:summer-contest-2019",
       "hidden_tags": [],
       "id": "806916378",
+      "parent": "summer-contest-2019",
       "rating": "0",
       "tags": [
          "2019暑期比賽"
@@ -1877,6 +1890,7 @@
       "fullname": "fragment:scp-4930-1",
       "hidden_tags": [],
       "id": "806919910",
+      "parent": "scp-4930",
       "rating": "0",
       "tags": [],
       "title": "Scp 4930 1",
@@ -1893,6 +1907,7 @@
       "fullname": "fragment:scp-4930-2",
       "hidden_tags": [],
       "id": "806919980",
+      "parent": "scp-4930",
       "rating": "0",
       "tags": [],
       "title": "Scp 4930 2",
@@ -1957,6 +1972,7 @@
       "fullname": "fragment:scp-2-1",
       "hidden_tags": [],
       "id": "819805889",
+      "parent": "scp-2",
       "rating": "0",
       "tags": [],
       "title": "SCP-2",
@@ -1973,6 +1989,7 @@
       "fullname": "fragment:scp-2-2",
       "hidden_tags": [],
       "id": "819807752",
+      "parent": "scp-2",
       "rating": "0",
       "tags": [],
       "title": "SCP-2",
@@ -1989,6 +2006,7 @@
       "fullname": "fragment:scp-2-3",
       "hidden_tags": [],
       "id": "819809891",
+      "parent": "scp-2",
       "rating": "0",
       "tags": [],
       "title": "SCP-2",
@@ -2005,6 +2023,7 @@
       "fullname": "fragment:scp-2-4",
       "hidden_tags": [],
       "id": "819811201",
+      "parent": "scp-2",
       "rating": "0",
       "tags": [],
       "title": "SCP-2",
@@ -2111,6 +2130,7 @@
       "fullname": "theme:dustjacket",
       "hidden_tags": [],
       "id": "846573233",
+      "parent": "black-highlighter-themes",
       "rating": "1",
       "tags": [
          "外觀主題",
@@ -2160,6 +2180,7 @@
       "fullname": "fragment:you-need-icecream-in-summer-1",
       "hidden_tags": [],
       "id": "853571974",
+      "parent": "you-need-icecream-in-summer",
       "rating": "0",
       "tags": [
          "原創",
@@ -2179,6 +2200,7 @@
       "fullname": "fragment:you-need-icecream-in-summer-2",
       "hidden_tags": [],
       "id": "853572028",
+      "parent": "you-need-icecream-in-summer",
       "rating": "0",
       "tags": [
          "原創",
@@ -2198,6 +2220,7 @@
       "fullname": "fragment:you-need-icecream-in-summer-offset-2",
       "hidden_tags": [],
       "id": "853590758",
+      "parent": "you-need-icecream-in-summer",
       "rating": "0",
       "tags": [],
       "title": "fragment:you-need-icecream-in-summer/offset/2",
@@ -2214,6 +2237,7 @@
       "fullname": "fragment:lostwhat-01",
       "hidden_tags": [],
       "id": "855630402",
+      "parent": "lostwhat",
       "rating": "0",
       "tags": [
          "段落"
@@ -2313,6 +2337,7 @@
          "_cc"
       ],
       "id": "858263579",
+      "parent": "black-highlighter-themes",
       "rating": "0",
       "tags": [
          "外觀主題",
@@ -2363,6 +2388,7 @@
       "fullname": "component:anomaly-class-bar-source",
       "hidden_tags": [],
       "id": "860198964",
+      "parent": "component:anomaly-class-bar",
       "rating": "0",
       "tags": [
          "組件後端"
@@ -2445,6 +2471,7 @@
       "fullname": "fragment:scp-es-138-1",
       "hidden_tags": [],
       "id": "867671421",
+      "parent": "scp-es-138",
       "rating": "0",
       "tags": [],
       "title": "Scp Es 138 1",
@@ -2461,6 +2488,7 @@
       "fullname": "secret:scp-es-138-1",
       "hidden_tags": [],
       "id": "867672283",
+      "parent": "scp-es-138",
       "rating": "0",
       "tags": [],
       "title": "Scp Es 138 1",
@@ -2477,6 +2505,7 @@
       "fullname": "fragment:scp-es-138-2",
       "hidden_tags": [],
       "id": "867679947",
+      "parent": "scp-es-138",
       "rating": "0",
       "tags": [],
       "title": "Scp Es 138 2",
@@ -2493,6 +2522,7 @@
       "fullname": "fragment:scp-es-138-3",
       "hidden_tags": [],
       "id": "867689894",
+      "parent": "scp-es-138",
       "rating": "0",
       "tags": [],
       "title": "Scp Es 138 3",
@@ -2509,6 +2539,7 @@
       "fullname": "fragment:scp-es-138-4",
       "hidden_tags": [],
       "id": "867695364",
+      "parent": "scp-es-138",
       "rating": "0",
       "tags": [],
       "title": "Scp Es 138 4",
@@ -2525,6 +2556,7 @@
       "fullname": "fragment:scp-es-138-5",
       "hidden_tags": [],
       "id": "867699864",
+      "parent": "scp-es-138",
       "rating": "0",
       "tags": [],
       "title": "Scp Es 138 5",
@@ -2541,6 +2573,7 @@
       "fullname": "fragment:scp-es-138-6",
       "hidden_tags": [],
       "id": "867716740",
+      "parent": "scp-es-138",
       "rating": "0",
       "tags": [],
       "title": "SCP-ES-138",
@@ -2711,6 +2744,7 @@
          "_cc"
       ],
       "id": "903961296",
+      "parent": "black-highlighter-themes",
       "rating": "2",
       "tags": [
          "外觀主題",
@@ -2877,6 +2911,7 @@
       "fullname": "fragment:scp-zh-0100-01",
       "hidden_tags": [],
       "id": "924617968",
+      "parent": "scp-zh-0100",
       "rating": "1",
       "tags": [
          "段落"
@@ -2895,6 +2930,7 @@
       "fullname": "fragment:scp-zh-0100-02",
       "hidden_tags": [],
       "id": "924617979",
+      "parent": "scp-zh-0100",
       "rating": "0",
       "tags": [
          "段落"
@@ -2913,6 +2949,7 @@
       "fullname": "fragment:scp-zh-0100-03",
       "hidden_tags": [],
       "id": "924617981",
+      "parent": "scp-zh-0100",
       "rating": "0",
       "tags": [
          "段落"
@@ -3148,6 +3185,7 @@
       "fullname": "deleted:incident-zh-330-2",
       "hidden_tags": [],
       "id": "956205062",
+      "parent": "deleted:scp-zh-330",
       "rating": "14",
       "tags": [],
       "title": "安保事故ZH-330-2與後續",
@@ -3472,6 +3510,7 @@
       "fullname": "fragment:scp-zh-099-1",
       "hidden_tags": [],
       "id": "986291594",
+      "parent": "scp-zh-099",
       "rating": "0",
       "tags": [],
       "title": "SCP-ZH-099",
@@ -3488,6 +3527,7 @@
       "fullname": "fragment:scp-zh-099-2",
       "hidden_tags": [],
       "id": "986291693",
+      "parent": "scp-zh-099",
       "rating": "0",
       "tags": [],
       "title": "SCP-ZH-099",
@@ -3504,6 +3544,7 @@
       "fullname": "fragment:scp-zh-098-01",
       "hidden_tags": [],
       "id": "986293881",
+      "parent": "scp-zh-098",
       "rating": "0",
       "tags": [
          "段落"
@@ -3522,6 +3563,7 @@
       "fullname": "fragment:scp-zh-098-02",
       "hidden_tags": [],
       "id": "986293884",
+      "parent": "scp-zh-098",
       "rating": "0",
       "tags": [
          "段落"
@@ -3574,6 +3616,7 @@
          "_cc"
       ],
       "id": "986344663",
+      "parent": "anomaly-classification-system-guide",
       "rating": "8",
       "tags": [
          "en",
@@ -3594,6 +3637,7 @@
       "fullname": "component:anomaly-class-bar-source-alt",
       "hidden_tags": [],
       "id": "986344693",
+      "parent": "component:anomaly-class-bar",
       "rating": "0",
       "tags": [
          "組件"
@@ -3612,6 +3656,7 @@
       "fullname": "component:anomaly-class-bar-source-alt-back-end",
       "hidden_tags": [],
       "id": "986344699",
+      "parent": "component:anomaly-class-bar-source-alt",
       "rating": "0",
       "tags": [
          "組件後端"
@@ -3630,6 +3675,7 @@
       "fullname": "component:anomaly-class-bar-source-css",
       "hidden_tags": [],
       "id": "986350178",
+      "parent": "component:anomaly-class-bar-source-alt",
       "rating": "0",
       "tags": [],
       "title": "Anomaly Class Bar Source Css",
@@ -3667,6 +3713,7 @@
       "fullname": "fragment:how-to-use-acs-alt-1",
       "hidden_tags": [],
       "id": "986543873",
+      "parent": "how-to-use-acs-alt",
       "rating": "0",
       "tags": [],
       "title": "How To Use Acs Alt 1",
@@ -3683,6 +3730,7 @@
       "fullname": "fragment:how-to-use-acs-alt-2",
       "hidden_tags": [],
       "id": "986543908",
+      "parent": "how-to-use-acs-alt",
       "rating": "0",
       "tags": [],
       "title": "How To Use Acs Alt 2",
@@ -3926,6 +3974,7 @@
       "fullname": "fragment:she-lives-in-my-heart-1",
       "hidden_tags": [],
       "id": "999245341",
+      "parent": "she-lives-in-my-heart",
       "rating": "0",
       "tags": [],
       "title": "從今以後，她將永生-1",
@@ -3942,6 +3991,7 @@
       "fullname": "fragment:she-lives-in-my-heart-2",
       "hidden_tags": [],
       "id": "999245346",
+      "parent": "she-lives-in-my-heart",
       "rating": "0",
       "tags": [],
       "title": "從今以後，她將永生-2",
@@ -3958,6 +4008,7 @@
       "fullname": "fragment:she-lives-in-my-heart-3",
       "hidden_tags": [],
       "id": "999245353",
+      "parent": "she-lives-in-my-heart",
       "rating": "0",
       "tags": [],
       "title": "從今以後，她將永生-3",
@@ -3974,6 +4025,7 @@
       "fullname": "fragment:scp-zh-747-1",
       "hidden_tags": [],
       "id": "999245670",
+      "parent": "scp-zh-747",
       "rating": "0",
       "tags": [
          "段落"
@@ -3992,6 +4044,7 @@
       "fullname": "fragment:scp-zh-747-2",
       "hidden_tags": [],
       "id": "999245674",
+      "parent": "scp-zh-747",
       "rating": "0",
       "tags": [
          "段落"
@@ -4010,6 +4063,7 @@
       "fullname": "fragment:danza-1",
       "hidden_tags": [],
       "id": "1002165287",
+      "parent": "danza",
       "rating": "0",
       "tags": [],
       "title": "fragment:danza-1",
@@ -4026,6 +4080,7 @@
       "fullname": "fragment:danza-2",
       "hidden_tags": [],
       "id": "1002165303",
+      "parent": "danza",
       "rating": "0",
       "tags": [],
       "title": "fragment:danza-2",
@@ -4066,6 +4121,7 @@
       "fullname": "component:object-warning-box-source",
       "hidden_tags": [],
       "id": "1002313908",
+      "parent": "component:object-warning-box",
       "rating": "0",
       "tags": [
          "組件後端"
@@ -4119,6 +4175,7 @@
       "fullname": "fragment:scp-2998-1",
       "hidden_tags": [],
       "id": "1002404648",
+      "parent": "scp-2998",
       "rating": "0",
       "tags": [
          "段落"
@@ -4137,6 +4194,7 @@
       "fullname": "fragment:scp-2998-2",
       "hidden_tags": [],
       "id": "1002404679",
+      "parent": "scp-2998",
       "rating": "0",
       "tags": [
          "段落"
@@ -4155,6 +4213,7 @@
       "fullname": "fragment:scp-2998-3",
       "hidden_tags": [],
       "id": "1002404692",
+      "parent": "scp-2998",
       "rating": "0",
       "tags": [
          "段落"
@@ -4173,6 +4232,7 @@
       "fullname": "fragment:scp-2998-4",
       "hidden_tags": [],
       "id": "1002404756",
+      "parent": "scp-2998",
       "rating": "0",
       "tags": [
          "段落"
@@ -4191,6 +4251,7 @@
       "fullname": "fragment:scp-2998-5",
       "hidden_tags": [],
       "id": "1002404788",
+      "parent": "scp-2998",
       "rating": "0",
       "tags": [
          "段落"
@@ -4209,6 +4270,7 @@
       "fullname": "fragment:scp-2998-6",
       "hidden_tags": [],
       "id": "1002404803",
+      "parent": "scp-2998",
       "rating": "0",
       "tags": [
          "段落"
@@ -4227,6 +4289,7 @@
       "fullname": "fragment:scp-2998-7",
       "hidden_tags": [],
       "id": "1002404816",
+      "parent": "scp-2998",
       "rating": "0",
       "tags": [
          "段落"
@@ -4245,6 +4308,7 @@
       "fullname": "fragment:scp-2998-8",
       "hidden_tags": [],
       "id": "1002404885",
+      "parent": "scp-2998",
       "rating": "0",
       "tags": [
          "段落"
@@ -4263,6 +4327,7 @@
       "fullname": "fragment:scp-2998-9",
       "hidden_tags": [],
       "id": "1002404899",
+      "parent": "scp-2998",
       "rating": "0",
       "tags": [
          "段落"
@@ -4281,6 +4346,7 @@
       "fullname": "fragment:scp-2998-10",
       "hidden_tags": [],
       "id": "1002404911",
+      "parent": "scp-2998",
       "rating": "0",
       "tags": [
          "段落"
@@ -4338,6 +4404,7 @@
       "fullname": "fragment:antimemetics-division-hub-main",
       "hidden_tags": [],
       "id": "1014602590",
+      "parent": "antimemetics-division-hub",
       "rating": "0",
       "tags": [
          "段落"
@@ -4356,6 +4423,7 @@
       "fullname": "fragment:antimemetics-division-hub-marion",
       "hidden_tags": [],
       "id": "1014607646",
+      "parent": "antimemetics-division-hub",
       "rating": "0",
       "tags": [
          "段落"
@@ -4374,6 +4442,7 @@
       "fullname": "fragment:antimemetics-division-hub-adam",
       "hidden_tags": [],
       "id": "1014613788",
+      "parent": "antimemetics-division-hub",
       "rating": "0",
       "tags": [
          "段落"
@@ -4541,6 +4610,7 @@
       "fullname": "fragment:scp-zh-480-1",
       "hidden_tags": [],
       "id": "1026130487",
+      "parent": "scp-zh-480",
       "rating": "0",
       "tags": [],
       "title": "fragment:scp-zh-480-1",
@@ -4557,6 +4627,7 @@
       "fullname": "fragment:scp-zh-480-2",
       "hidden_tags": [],
       "id": "1026130492",
+      "parent": "scp-zh-480",
       "rating": "0",
       "tags": [],
       "title": "fragment:scp-zh-480-2",
@@ -4573,6 +4644,7 @@
       "fullname": "fragment:scp-zh-480-3",
       "hidden_tags": [],
       "id": "1026130530",
+      "parent": "scp-zh-480",
       "rating": "0",
       "tags": [],
       "title": "fragment:scp-zh-480-3",
@@ -4589,6 +4661,7 @@
       "fullname": "fragment:scp-zh-480-4",
       "hidden_tags": [],
       "id": "1026130531",
+      "parent": "scp-zh-480",
       "rating": "0",
       "tags": [],
       "title": "fragment:scp-zh-480-4",
@@ -4605,6 +4678,7 @@
       "fullname": "fragment:scp-zh-480-5",
       "hidden_tags": [],
       "id": "1026130533",
+      "parent": "scp-zh-480",
       "rating": "0",
       "tags": [],
       "title": "fragment:scp-zh-480-5",
@@ -4694,6 +4768,7 @@
          "_cc"
       ],
       "id": "1035141141",
+      "parent": "black-highlighter-themes",
       "rating": "1",
       "tags": [
          "外觀主題",
@@ -4766,6 +4841,7 @@
       "fullname": "theme:disrememberment-theme",
       "hidden_tags": [],
       "id": "1040167709",
+      "parent": "black-highlighter-themes",
       "rating": "2",
       "tags": [
          "外觀主題",
@@ -5154,6 +5230,7 @@
          "_cc"
       ],
       "id": "1206583672",
+      "parent": "black-highlighter-themes",
       "rating": "0",
       "tags": [
          "en",
@@ -5215,6 +5292,7 @@
       "fullname": "fragment:ting129-s-ko-proposal-1",
       "hidden_tags": [],
       "id": "1242048986",
+      "parent": "ting129-s-ko-proposal",
       "rating": "0",
       "tags": [],
       "title": "fragment:ting129-s-ko-proposal-1",
@@ -5231,6 +5309,7 @@
       "fullname": "fragment:ting129-s-ko-proposal-2",
       "hidden_tags": [],
       "id": "1242059748",
+      "parent": "ting129-s-ko-proposal",
       "rating": "0",
       "tags": [],
       "title": "fragment:ting129-s-ko-proposal-2",
@@ -5247,6 +5326,7 @@
       "fullname": "fragment:ting129-s-ko-proposal-3",
       "hidden_tags": [],
       "id": "1242064403",
+      "parent": "ting129-s-ko-proposal",
       "rating": "0",
       "tags": [],
       "title": "fragment:ting129-s-ko-proposal-3",
@@ -5263,6 +5343,7 @@
       "fullname": "fragment:scp-zh-014-1",
       "hidden_tags": [],
       "id": "1260738312",
+      "parent": "scp-zh-014",
       "rating": "0",
       "tags": [
          "段落"
@@ -5281,6 +5362,7 @@
       "fullname": "fragment:scp-zh-014-2",
       "hidden_tags": [],
       "id": "1260738317",
+      "parent": "scp-zh-014",
       "rating": "0",
       "tags": [
          "段落"
@@ -5299,6 +5381,7 @@
       "fullname": "fragment:scp-zh-014-3",
       "hidden_tags": [],
       "id": "1260738319",
+      "parent": "scp-zh-014",
       "rating": "0",
       "tags": [
          "段落"
@@ -5317,6 +5400,7 @@
       "fullname": "fragment:scp-zh-014-4",
       "hidden_tags": [],
       "id": "1260738356",
+      "parent": "scp-zh-014",
       "rating": "0",
       "tags": [
          "段落"
@@ -5569,6 +5653,7 @@
       "fullname": "fragment:taboo-1",
       "hidden_tags": [],
       "id": "1304932893",
+      "parent": "taboo",
       "rating": "0",
       "tags": [
          "段落"
@@ -5587,6 +5672,7 @@
       "fullname": "fragment:taboo-2",
       "hidden_tags": [],
       "id": "1304932896",
+      "parent": "taboo",
       "rating": "0",
       "tags": [
          "段落"
@@ -5605,6 +5691,7 @@
       "fullname": "fragment:taboo-3",
       "hidden_tags": [],
       "id": "1304932940",
+      "parent": "taboo",
       "rating": "0",
       "tags": [
          "段落"
@@ -5623,6 +5710,7 @@
       "fullname": "fragment:scp-4000-to-name-a-baby",
       "hidden_tags": [],
       "id": "1304933778",
+      "parent": "scp-4000",
       "rating": "0",
       "tags": [
          "段落",
@@ -5695,6 +5783,7 @@
       "fullname": "fragment:collapsible-sidebar-bhl",
       "hidden_tags": [],
       "id": "1305387390",
+      "parent": "component:collapsible-sidebar",
       "rating": "0",
       "tags": [
          "段落"
@@ -5751,6 +5840,7 @@
       "fullname": "fragment:taboo-4",
       "hidden_tags": [],
       "id": "1305759634",
+      "parent": "taboo",
       "rating": "1",
       "tags": [
          "段落"
@@ -5821,6 +5911,7 @@
       "fullname": "fragment:tales-by-author-1",
       "hidden_tags": [],
       "id": "1305860724",
+      "parent": "tales-by-author",
       "rating": "0",
       "tags": [
          "段落"
@@ -5839,6 +5930,7 @@
       "fullname": "fragment:tales-by-author-2",
       "hidden_tags": [],
       "id": "1305860728",
+      "parent": "tales-by-author",
       "rating": "0",
       "tags": [
          "段落"
@@ -5857,6 +5949,7 @@
       "fullname": "fragment:tales-by-author-3",
       "hidden_tags": [],
       "id": "1305860738",
+      "parent": "tales-by-author",
       "rating": "0",
       "tags": [
          "段落"
@@ -5875,6 +5968,7 @@
       "fullname": "fragment:tales-by-author-4",
       "hidden_tags": [],
       "id": "1305860748",
+      "parent": "tales-by-author",
       "rating": "0",
       "tags": [
          "段落"
@@ -5893,6 +5987,7 @@
       "fullname": "fragment:tales-by-author-5",
       "hidden_tags": [],
       "id": "1305860842",
+      "parent": "tales-by-author",
       "rating": "0",
       "tags": [
          "段落"
@@ -5911,6 +6006,7 @@
       "fullname": "fragment:tales-by-author-6",
       "hidden_tags": [],
       "id": "1305860848",
+      "parent": "tales-by-author",
       "rating": "0",
       "tags": [
          "段落"
@@ -5953,6 +6049,7 @@
       "fullname": "component:license-box-backend",
       "hidden_tags": [],
       "id": "1305865093",
+      "parent": "component:license-box",
       "rating": "0",
       "tags": [
          "組件後端"
@@ -5971,6 +6068,7 @@
       "fullname": "component:license-box-end",
       "hidden_tags": [],
       "id": "1305865186",
+      "parent": "component:license-box",
       "rating": "0",
       "tags": [
          "組件"
@@ -5989,6 +6087,7 @@
       "fullname": "fragment:scp-5618-offset-0",
       "hidden_tags": [],
       "id": "1306015857",
+      "parent": "scp-5618",
       "rating": "0",
       "tags": [],
       "title": "SCP-5618",
@@ -6005,6 +6104,7 @@
       "fullname": "fragment:scp-5618-offset-1",
       "hidden_tags": [],
       "id": "1306015858",
+      "parent": "scp-5618",
       "rating": "0",
       "tags": [],
       "title": "SCP-5618",
@@ -6021,6 +6121,7 @@
       "fullname": "fragment:scp-zh-500-1",
       "hidden_tags": [],
       "id": "1306020907",
+      "parent": "scp-zh-500",
       "rating": "0",
       "tags": [],
       "title": "fragment:scp-zh-500-1",
@@ -6037,6 +6138,7 @@
       "fullname": "fragment:scp-zh-500-2",
       "hidden_tags": [],
       "id": "1306020910",
+      "parent": "scp-zh-500",
       "rating": "0",
       "tags": [],
       "title": "fragment:scp-zh-500-2",
@@ -6053,6 +6155,7 @@
       "fullname": "fragment:scp-zh-500-3",
       "hidden_tags": [],
       "id": "1306020912",
+      "parent": "scp-zh-500",
       "rating": "0",
       "tags": [],
       "title": "fragment:scp-zh-500-3",
@@ -6069,6 +6172,7 @@
       "fullname": "fragment:raisa-lee-teng-hui-1",
       "hidden_tags": [],
       "id": "1306057416",
+      "parent": "raisa-lee-teng-hui",
       "rating": "0",
       "tags": [
          "原創",
@@ -6088,6 +6192,7 @@
       "fullname": "fragment:raisa-lee-teng-hui-2",
       "hidden_tags": [],
       "id": "1306057421",
+      "parent": "raisa-lee-teng-hui",
       "rating": "0",
       "tags": [
          "原創",
@@ -6248,6 +6353,7 @@
       "fullname": "component:acs-peppo-split",
       "hidden_tags": [],
       "id": "1306531431",
+      "parent": "component:anomaly-class-bar",
       "rating": "0",
       "tags": [
          "組件",
@@ -6457,6 +6563,7 @@
       "fullname": "fragment:scp-4182-1",
       "hidden_tags": [],
       "id": "1307035585",
+      "parent": "scp-4182",
       "rating": "0",
       "tags": [
          "附加資料"
@@ -6475,6 +6582,7 @@
       "fullname": "fragment:scp-4182-2",
       "hidden_tags": [],
       "id": "1307035617",
+      "parent": "scp-4182",
       "rating": "0",
       "tags": [
          "附加資料"
@@ -6493,6 +6601,7 @@
       "fullname": "fragment:scp-4182-3",
       "hidden_tags": [],
       "id": "1307035621",
+      "parent": "scp-4182",
       "rating": "0",
       "tags": [
          "附加資料"
@@ -6511,6 +6620,7 @@
       "fullname": "fragment:scp-4182-4",
       "hidden_tags": [],
       "id": "1307035673",
+      "parent": "scp-4182",
       "rating": "0",
       "tags": [
          "附加資料"
@@ -6529,6 +6639,7 @@
       "fullname": "fragment:scp-4182-5",
       "hidden_tags": [],
       "id": "1307035676",
+      "parent": "scp-4182",
       "rating": "0",
       "tags": [
          "附加資料"
@@ -6559,6 +6670,7 @@
       "fullname": "component:acs-animation",
       "hidden_tags": [],
       "id": "1307041733",
+      "parent": "component:anomaly-class-bar",
       "rating": "3",
       "tags": [
          "組件",
@@ -6578,6 +6690,7 @@
       "fullname": "fragment:scp-2111-1",
       "hidden_tags": [],
       "id": "1307049339",
+      "parent": "scp-2111",
       "rating": "0",
       "tags": [
          "段落"
@@ -6596,6 +6709,7 @@
       "fullname": "fragment:scp-2111-2",
       "hidden_tags": [],
       "id": "1307049342",
+      "parent": "scp-2111",
       "rating": "0",
       "tags": [
          "段落"
@@ -6614,6 +6728,7 @@
       "fullname": "fragment:scp-2111-3",
       "hidden_tags": [],
       "id": "1307049344",
+      "parent": "scp-2111",
       "rating": "0",
       "tags": [
          "段落"
@@ -6632,6 +6747,7 @@
       "fullname": "fragment:scp-2111-4",
       "hidden_tags": [],
       "id": "1307049345",
+      "parent": "scp-2111",
       "rating": "0",
       "tags": [
          "段落"
@@ -6650,6 +6766,7 @@
       "fullname": "fragment:scp-2111-5",
       "hidden_tags": [],
       "id": "1307049346",
+      "parent": "scp-2111",
       "rating": "0",
       "tags": [
          "段落"
@@ -6668,6 +6785,7 @@
       "fullname": "fragment:thunderstorm-0",
       "hidden_tags": [],
       "id": "1307069430",
+      "parent": "thunderstorm",
       "rating": "0",
       "tags": [
          "段落"
@@ -6686,6 +6804,7 @@
       "fullname": "fragment:thunderstorm-1",
       "hidden_tags": [],
       "id": "1307069433",
+      "parent": "thunderstorm",
       "rating": "0",
       "tags": [
          "段落"
@@ -6714,6 +6833,7 @@
          "_cc"
       ],
       "id": "1307195220",
+      "parent": "black-highlighter-themes",
       "rating": "2",
       "tags": [
          "外觀主題",
@@ -6768,6 +6888,7 @@
          "_cc"
       ],
       "id": "1307195309",
+      "parent": "black-highlighter-themes",
       "rating": "1",
       "tags": [
          "外觀主題",
@@ -6858,6 +6979,7 @@
       "fullname": "fragment:scp-zh-496-1",
       "hidden_tags": [],
       "id": "1307453441",
+      "parent": "scp-zh-496",
       "rating": "0",
       "tags": [
          "段落"
@@ -6876,6 +6998,7 @@
       "fullname": "fragment:scp-zh-496-2",
       "hidden_tags": [],
       "id": "1307453443",
+      "parent": "scp-zh-496",
       "rating": "0",
       "tags": [
          "段落"
@@ -6894,6 +7017,7 @@
       "fullname": "fragment:scp-zh-496-3",
       "hidden_tags": [],
       "id": "1307453445",
+      "parent": "scp-zh-496",
       "rating": "0",
       "tags": [
          "段落"
@@ -6912,6 +7036,7 @@
       "fullname": "fragment:scp-zh-496-4",
       "hidden_tags": [],
       "id": "1307453447",
+      "parent": "scp-zh-496",
       "rating": "0",
       "tags": [
          "段落"
@@ -6930,6 +7055,7 @@
       "fullname": "fragment:scp-zh-496-5",
       "hidden_tags": [],
       "id": "1307453450",
+      "parent": "scp-zh-496",
       "rating": "0",
       "tags": [
          "段落"
@@ -6948,6 +7074,7 @@
       "fullname": "fragment:scp-zh-496-6",
       "hidden_tags": [],
       "id": "1307453451",
+      "parent": "scp-zh-496",
       "rating": "0",
       "tags": [
          "段落"
@@ -6966,6 +7093,7 @@
       "fullname": "fragment:scp-3002-1",
       "hidden_tags": [],
       "id": "1307461578",
+      "parent": "scp-3002",
       "rating": "0",
       "tags": [
          "段落"
@@ -6984,6 +7112,7 @@
       "fullname": "fragment:scp-3002-2",
       "hidden_tags": [],
       "id": "1307461579",
+      "parent": "scp-3002",
       "rating": "0",
       "tags": [
          "段落"
@@ -7002,6 +7131,7 @@
       "fullname": "fragment:scp-3002-3",
       "hidden_tags": [],
       "id": "1307461580",
+      "parent": "scp-3002",
       "rating": "0",
       "tags": [
          "段落"
@@ -7020,6 +7150,7 @@
       "fullname": "fragment:scp-3002-4",
       "hidden_tags": [],
       "id": "1307461582",
+      "parent": "scp-3002",
       "rating": "0",
       "tags": [
          "段落"
@@ -7154,6 +7285,7 @@
       "fullname": "fragment:scp-3939-0",
       "hidden_tags": [],
       "id": "1308442417",
+      "parent": "scp-3939",
       "rating": "0",
       "tags": [
          "段落"
@@ -7172,6 +7304,7 @@
       "fullname": "fragment:scp-3939-1",
       "hidden_tags": [],
       "id": "1308442419",
+      "parent": "scp-3939",
       "rating": "0",
       "tags": [
          "段落"
@@ -7190,6 +7323,7 @@
       "fullname": "fragment:scp-3939-2",
       "hidden_tags": [],
       "id": "1308442420",
+      "parent": "scp-3939",
       "rating": "0",
       "tags": [
          "段落"
@@ -7208,6 +7342,7 @@
       "fullname": "fragment:scp-3939-3",
       "hidden_tags": [],
       "id": "1308442423",
+      "parent": "scp-3939",
       "rating": "0",
       "tags": [
          "段落"
@@ -7226,6 +7361,7 @@
       "fullname": "fragment:scp-3939-4",
       "hidden_tags": [],
       "id": "1308442483",
+      "parent": "scp-3939",
       "rating": "0",
       "tags": [
          "段落"
@@ -7244,6 +7380,7 @@
       "fullname": "fragment:scp-3939-5",
       "hidden_tags": [],
       "id": "1308442486",
+      "parent": "scp-3939",
       "rating": "0",
       "tags": [
          "段落"
@@ -7262,6 +7399,7 @@
       "fullname": "fragment:scp-3939-6",
       "hidden_tags": [],
       "id": "1308442488",
+      "parent": "scp-3939",
       "rating": "0",
       "tags": [
          "段落"
@@ -7280,6 +7418,7 @@
       "fullname": "fragment:scp-3939-7",
       "hidden_tags": [],
       "id": "1308442491",
+      "parent": "scp-3939",
       "rating": "0",
       "tags": [
          "段落"
@@ -7298,6 +7437,7 @@
       "fullname": "fragment:scp-3939-8",
       "hidden_tags": [],
       "id": "1308442494",
+      "parent": "scp-3939",
       "rating": "0",
       "tags": [
          "段落"
@@ -7316,6 +7456,7 @@
       "fullname": "fragment:scp-3939-9",
       "hidden_tags": [],
       "id": "1308442497",
+      "parent": "scp-3939",
       "rating": "0",
       "tags": [
          "段落"
@@ -7334,6 +7475,7 @@
       "fullname": "fragment:scp-3939-10",
       "hidden_tags": [],
       "id": "1308442504",
+      "parent": "scp-3939",
       "rating": "0",
       "tags": [
          "段落"
@@ -7352,6 +7494,7 @@
       "fullname": "fragment:scp-3939-11",
       "hidden_tags": [],
       "id": "1308442507",
+      "parent": "scp-3939",
       "rating": "0",
       "tags": [
          "段落"
@@ -7370,6 +7513,7 @@
       "fullname": "fragment:scp-3939-12",
       "hidden_tags": [],
       "id": "1308442512",
+      "parent": "scp-3939",
       "rating": "0",
       "tags": [
          "段落"
@@ -7388,6 +7532,7 @@
       "fullname": "fragment:scp-3939-13",
       "hidden_tags": [],
       "id": "1308442520",
+      "parent": "scp-3939",
       "rating": "0",
       "tags": [
          "段落"
@@ -7406,6 +7551,7 @@
       "fullname": "fragment:scp-3939-14",
       "hidden_tags": [],
       "id": "1308442523",
+      "parent": "scp-3939",
       "rating": "0",
       "tags": [
          "段落"
@@ -7424,6 +7570,7 @@
       "fullname": "fragment:scp-3939-15",
       "hidden_tags": [],
       "id": "1308442530",
+      "parent": "scp-3939",
       "rating": "0",
       "tags": [
          "段落"
@@ -7442,6 +7589,7 @@
       "fullname": "fragment:scp-3939-16",
       "hidden_tags": [],
       "id": "1308442565",
+      "parent": "scp-3939",
       "rating": "0",
       "tags": [
          "段落"
@@ -7460,6 +7608,7 @@
       "fullname": "fragment:scp-3939-17",
       "hidden_tags": [],
       "id": "1308442598",
+      "parent": "scp-3939",
       "rating": "0",
       "tags": [
          "段落"
@@ -7478,6 +7627,7 @@
       "fullname": "fragment:scp-3939-18",
       "hidden_tags": [],
       "id": "1308442607",
+      "parent": "scp-3939",
       "rating": "0",
       "tags": [
          "段落"
@@ -7496,6 +7646,7 @@
       "fullname": "fragment:scp-3939-19",
       "hidden_tags": [],
       "id": "1308442610",
+      "parent": "scp-3939",
       "rating": "0",
       "tags": [
          "段落"
@@ -7514,6 +7665,7 @@
       "fullname": "fragment:scp-3939-20",
       "hidden_tags": [],
       "id": "1308442652",
+      "parent": "scp-3939",
       "rating": "0",
       "tags": [
          "段落"
@@ -7532,6 +7684,7 @@
       "fullname": "fragment:scp-3939-21",
       "hidden_tags": [],
       "id": "1308442686",
+      "parent": "scp-3939",
       "rating": "0",
       "tags": [
          "段落"
@@ -7550,6 +7703,7 @@
       "fullname": "fragment:scp-3939-22",
       "hidden_tags": [],
       "id": "1308442691",
+      "parent": "scp-3939",
       "rating": "0",
       "tags": [
          "段落"
@@ -7568,6 +7722,7 @@
       "fullname": "fragment:scp-3939-23",
       "hidden_tags": [],
       "id": "1308442732",
+      "parent": "scp-3939",
       "rating": "0",
       "tags": [
          "段落"
@@ -7586,6 +7741,7 @@
       "fullname": "fragment:scp-3939-24",
       "hidden_tags": [],
       "id": "1308442736",
+      "parent": "scp-3939",
       "rating": "0",
       "tags": [
          "段落"
@@ -7604,6 +7760,7 @@
       "fullname": "fragment:scp-3939-25",
       "hidden_tags": [],
       "id": "1308442743",
+      "parent": "scp-3939",
       "rating": "0",
       "tags": [
          "段落"
@@ -7622,6 +7779,7 @@
       "fullname": "fragment:scp-3939-26",
       "hidden_tags": [],
       "id": "1308442774",
+      "parent": "scp-3939",
       "rating": "0",
       "tags": [
          "段落"
@@ -7640,6 +7798,7 @@
       "fullname": "fragment:scp-3939-27",
       "hidden_tags": [],
       "id": "1308442780",
+      "parent": "scp-3939",
       "rating": "0",
       "tags": [
          "段落"
@@ -7658,6 +7817,7 @@
       "fullname": "fragment:scp-3939-28",
       "hidden_tags": [],
       "id": "1308442788",
+      "parent": "scp-3939",
       "rating": "0",
       "tags": [
          "段落"
@@ -7676,6 +7836,7 @@
       "fullname": "fragment:scp-3939-29",
       "hidden_tags": [],
       "id": "1308442793",
+      "parent": "scp-3939",
       "rating": "0",
       "tags": [
          "段落"
@@ -7694,6 +7855,7 @@
       "fullname": "fragment:scp-3939-30",
       "hidden_tags": [],
       "id": "1308442795",
+      "parent": "scp-3939",
       "rating": "0",
       "tags": [
          "段落"
@@ -7712,6 +7874,7 @@
       "fullname": "fragment:scp-3939-31",
       "hidden_tags": [],
       "id": "1308442796",
+      "parent": "scp-3939",
       "rating": "0",
       "tags": [
          "段落"
@@ -7730,6 +7893,7 @@
       "fullname": "fragment:scp-3939-32",
       "hidden_tags": [],
       "id": "1308442800",
+      "parent": "scp-3939",
       "rating": "0",
       "tags": [
          "段落"
@@ -7748,6 +7912,7 @@
       "fullname": "fragment:scp-3939-33",
       "hidden_tags": [],
       "id": "1308442803",
+      "parent": "scp-3939",
       "rating": "0",
       "tags": [
          "段落"
@@ -7766,6 +7931,7 @@
       "fullname": "fragment:scp-3939-34",
       "hidden_tags": [],
       "id": "1308442804",
+      "parent": "scp-3939",
       "rating": "0",
       "tags": [
          "段落"
@@ -7784,6 +7950,7 @@
       "fullname": "fragment:scp-3939-35",
       "hidden_tags": [],
       "id": "1308442807",
+      "parent": "scp-3939",
       "rating": "0",
       "tags": [
          "段落"
@@ -7802,6 +7969,7 @@
       "fullname": "fragment:scp-3939-36",
       "hidden_tags": [],
       "id": "1308442898",
+      "parent": "scp-3939",
       "rating": "0",
       "tags": [
          "段落"
@@ -7820,6 +7988,7 @@
       "fullname": "fragment:scp-3939-37",
       "hidden_tags": [],
       "id": "1308442899",
+      "parent": "scp-3939",
       "rating": "0",
       "tags": [
          "段落"
@@ -7838,6 +8007,7 @@
       "fullname": "fragment:scp-3939-38",
       "hidden_tags": [],
       "id": "1308442906",
+      "parent": "scp-3939",
       "rating": "0",
       "tags": [
          "段落"
@@ -7856,6 +8026,7 @@
       "fullname": "fragment:scp-3939-39",
       "hidden_tags": [],
       "id": "1308442907",
+      "parent": "scp-3939",
       "rating": "0",
       "tags": [
          "段落"
@@ -7874,6 +8045,7 @@
       "fullname": "fragment:scp-3939-40",
       "hidden_tags": [],
       "id": "1308442914",
+      "parent": "scp-3939",
       "rating": "0",
       "tags": [
          "段落"
@@ -7892,6 +8064,7 @@
       "fullname": "fragment:scp-3939-41",
       "hidden_tags": [],
       "id": "1308442916",
+      "parent": "scp-3939",
       "rating": "0",
       "tags": [
          "段落"
@@ -7910,6 +8083,7 @@
       "fullname": "fragment:scp-3939-42",
       "hidden_tags": [],
       "id": "1308442917",
+      "parent": "scp-3939",
       "rating": "0",
       "tags": [
          "段落"
@@ -7928,6 +8102,7 @@
       "fullname": "fragment:scp-3939-43",
       "hidden_tags": [],
       "id": "1308442920",
+      "parent": "scp-3939",
       "rating": "0",
       "tags": [
          "段落"
@@ -7946,6 +8121,7 @@
       "fullname": "fragment:scp-3939-44",
       "hidden_tags": [],
       "id": "1308442922",
+      "parent": "scp-3939",
       "rating": "0",
       "tags": [
          "段落"
@@ -7964,6 +8140,7 @@
       "fullname": "fragment:scp-3939-45",
       "hidden_tags": [],
       "id": "1308442925",
+      "parent": "scp-3939",
       "rating": "0",
       "tags": [
          "段落"
@@ -7982,6 +8159,7 @@
       "fullname": "fragment:scp-3939-46",
       "hidden_tags": [],
       "id": "1308442927",
+      "parent": "scp-3939",
       "rating": "0",
       "tags": [
          "段落"
@@ -8000,6 +8178,7 @@
       "fullname": "fragment:scp-3939-47",
       "hidden_tags": [],
       "id": "1308442930",
+      "parent": "scp-3939",
       "rating": "0",
       "tags": [
          "段落"
@@ -8018,6 +8197,7 @@
       "fullname": "fragment:scp-3939-48",
       "hidden_tags": [],
       "id": "1308442937",
+      "parent": "scp-3939",
       "rating": "0",
       "tags": [
          "段落"
@@ -8036,6 +8216,7 @@
       "fullname": "fragment:scp-3939-49",
       "hidden_tags": [],
       "id": "1308442941",
+      "parent": "scp-3939",
       "rating": "0",
       "tags": [
          "段落"
@@ -8054,6 +8235,7 @@
       "fullname": "fragment:scp-3939-50",
       "hidden_tags": [],
       "id": "1308442947",
+      "parent": "scp-3939",
       "rating": "0",
       "tags": [
          "段落"
@@ -8072,6 +8254,7 @@
       "fullname": "fragment:scp-3939-51",
       "hidden_tags": [],
       "id": "1308442951",
+      "parent": "scp-3939",
       "rating": "0",
       "tags": [
          "段落"
@@ -8090,6 +8273,7 @@
       "fullname": "fragment:scp-3939-52",
       "hidden_tags": [],
       "id": "1308442953",
+      "parent": "scp-3939",
       "rating": "0",
       "tags": [
          "段落"
@@ -8108,6 +8292,7 @@
       "fullname": "fragment:scp-3939-53",
       "hidden_tags": [],
       "id": "1308442954",
+      "parent": "scp-3939",
       "rating": "0",
       "tags": [
          "段落"
@@ -8126,6 +8311,7 @@
       "fullname": "fragment:scp-3939-54",
       "hidden_tags": [],
       "id": "1308442956",
+      "parent": "scp-3939",
       "rating": "0",
       "tags": [
          "段落"
@@ -8144,6 +8330,7 @@
       "fullname": "fragment:scp-3939-55",
       "hidden_tags": [],
       "id": "1308443021",
+      "parent": "scp-3939",
       "rating": "0",
       "tags": [
          "段落"
@@ -8162,6 +8349,7 @@
       "fullname": "fragment:scp-3939-56",
       "hidden_tags": [],
       "id": "1308443023",
+      "parent": "scp-3939",
       "rating": "0",
       "tags": [
          "段落"
@@ -8180,6 +8368,7 @@
       "fullname": "fragment:scp-3939-57",
       "hidden_tags": [],
       "id": "1308443027",
+      "parent": "scp-3939",
       "rating": "0",
       "tags": [
          "段落"
@@ -8198,6 +8387,7 @@
       "fullname": "fragment:scp-3939-58",
       "hidden_tags": [],
       "id": "1308443031",
+      "parent": "scp-3939",
       "rating": "0",
       "tags": [
          "段落"
@@ -8216,6 +8406,7 @@
       "fullname": "fragment:scp-3939-59",
       "hidden_tags": [],
       "id": "1308443046",
+      "parent": "scp-3939",
       "rating": "0",
       "tags": [
          "段落"
@@ -8234,6 +8425,7 @@
       "fullname": "fragment:scp-3939-60",
       "hidden_tags": [],
       "id": "1308443047",
+      "parent": "scp-3939",
       "rating": "0",
       "tags": [
          "段落"
@@ -8252,6 +8444,7 @@
       "fullname": "fragment:scp-3939-61",
       "hidden_tags": [],
       "id": "1308443050",
+      "parent": "scp-3939",
       "rating": "0",
       "tags": [
          "段落"
@@ -8270,6 +8463,7 @@
       "fullname": "fragment:scp-3939-62",
       "hidden_tags": [],
       "id": "1308443053",
+      "parent": "scp-3939",
       "rating": "0",
       "tags": [
          "段落"
@@ -8288,6 +8482,7 @@
       "fullname": "fragment:scp-3939-63",
       "hidden_tags": [],
       "id": "1308443054",
+      "parent": "scp-3939",
       "rating": "0",
       "tags": [
          "段落"
@@ -8306,6 +8501,7 @@
       "fullname": "fragment:scp-3939-64",
       "hidden_tags": [],
       "id": "1308443058",
+      "parent": "scp-3939",
       "rating": "0",
       "tags": [
          "段落"
@@ -8324,6 +8520,7 @@
       "fullname": "fragment:scp-3939-65",
       "hidden_tags": [],
       "id": "1308443062",
+      "parent": "scp-3939",
       "rating": "0",
       "tags": [
          "段落"
@@ -8342,6 +8539,7 @@
       "fullname": "fragment:scp-3939-66",
       "hidden_tags": [],
       "id": "1308443066",
+      "parent": "scp-3939",
       "rating": "0",
       "tags": [
          "段落"
@@ -8439,6 +8637,7 @@
       "fullname": "component:centered-header-bhl",
       "hidden_tags": [],
       "id": "1308449198",
+      "parent": "theme:black-highlighter-theme",
       "rating": "0",
       "tags": [
          "組件",
@@ -8458,6 +8657,7 @@
       "fullname": "component:toggle-sidebar-bhl",
       "hidden_tags": [],
       "id": "1308450241",
+      "parent": "theme:black-highlighter-theme",
       "rating": "0",
       "tags": [
          "組件",
@@ -8481,6 +8681,7 @@
       "fullname": "component:author-page",
       "hidden_tags": [],
       "id": "1308450494",
+      "parent": "author-page-tool",
       "rating": "1",
       "tags": [
          "組件",
@@ -8564,6 +8765,7 @@
       "fullname": "component:customizable-acs",
       "hidden_tags": [],
       "id": "1308461055",
+      "parent": "component:anomaly-class-bar",
       "rating": "3",
       "tags": [
          "組件後端",
@@ -8629,6 +8831,7 @@
       "fullname": "component:flops-header-source",
       "hidden_tags": [],
       "id": "1308462817",
+      "parent": "component:flops-header",
       "rating": "0",
       "tags": [
          "組件後端"
@@ -8685,6 +8888,7 @@
       "fullname": "component:acs-hybrid-text-bar",
       "hidden_tags": [],
       "id": "1308467214",
+      "parent": "component:anomaly-class-bar",
       "rating": "0",
       "tags": [
          "組件",
@@ -8751,6 +8955,7 @@
       "fullname": "component:acs-hybrid-text-bar-source",
       "hidden_tags": [],
       "id": "1308473520",
+      "parent": "component:acs-hybrid-text-bar",
       "rating": "0",
       "tags": [
          "組件後端",
@@ -8770,6 +8975,7 @@
       "fullname": "fragment:today-is-just-another-ordinary-day-0",
       "hidden_tags": [],
       "id": "1308495557",
+      "parent": "today-is-just-another-ordinary-day",
       "rating": "0",
       "tags": [
          "段落"
@@ -8788,6 +8994,7 @@
       "fullname": "fragment:today-is-just-another-ordinary-day-1",
       "hidden_tags": [],
       "id": "1308495560",
+      "parent": "today-is-just-another-ordinary-day",
       "rating": "0",
       "tags": [
          "段落"
@@ -8806,6 +9013,7 @@
       "fullname": "fragment:today-is-just-another-ordinary-day-2",
       "hidden_tags": [],
       "id": "1308495561",
+      "parent": "today-is-just-another-ordinary-day",
       "rating": "0",
       "tags": [
          "段落"
@@ -8824,6 +9032,7 @@
       "fullname": "fragment:today-is-just-another-ordinary-day-3",
       "hidden_tags": [],
       "id": "1308495562",
+      "parent": "today-is-just-another-ordinary-day",
       "rating": "0",
       "tags": [
          "段落"
@@ -8842,6 +9051,7 @@
       "fullname": "fragment:scp-zh-998-1",
       "hidden_tags": [],
       "id": "1308498896",
+      "parent": "scp-zh-998",
       "rating": "0",
       "tags": [
          "段落"
@@ -8860,6 +9070,7 @@
       "fullname": "fragment:scp-zh-998-2",
       "hidden_tags": [],
       "id": "1308498897",
+      "parent": "scp-zh-998",
       "rating": "0",
       "tags": [
          "段落"
@@ -8878,6 +9089,7 @@
       "fullname": "fragment:scp-zh-998-3",
       "hidden_tags": [],
       "id": "1308498898",
+      "parent": "scp-zh-998",
       "rating": "0",
       "tags": [
          "段落"
@@ -8896,6 +9108,7 @@
       "fullname": "fragment:scp-zh-998-4",
       "hidden_tags": [],
       "id": "1308498900",
+      "parent": "scp-zh-998",
       "rating": "0",
       "tags": [
          "段落"
@@ -8914,6 +9127,7 @@
       "fullname": "fragment:scp-zh-998-5",
       "hidden_tags": [],
       "id": "1308498901",
+      "parent": "scp-zh-998",
       "rating": "0",
       "tags": [
          "段落"
@@ -8932,6 +9146,7 @@
       "fullname": "fragment:scp-zh-998-6",
       "hidden_tags": [],
       "id": "1308498906",
+      "parent": "scp-zh-998",
       "rating": "0",
       "tags": [
          "段落"
@@ -8950,6 +9165,7 @@
       "fullname": "fragment:scp-zh-998-7",
       "hidden_tags": [],
       "id": "1308498909",
+      "parent": "scp-zh-998",
       "rating": "0",
       "tags": [
          "段落"
@@ -8968,6 +9184,7 @@
       "fullname": "fragment:scp-zh-998-8",
       "hidden_tags": [],
       "id": "1308498911",
+      "parent": "scp-zh-998",
       "rating": "0",
       "tags": [
          "段落"
@@ -8986,6 +9203,7 @@
       "fullname": "fragment:scp-zh-998-9",
       "hidden_tags": [],
       "id": "1308498913",
+      "parent": "scp-zh-998",
       "rating": "0",
       "tags": [
          "段落"
@@ -9004,6 +9222,7 @@
       "fullname": "fragment:scp-zh-998-10",
       "hidden_tags": [],
       "id": "1308498917",
+      "parent": "scp-zh-998",
       "rating": "0",
       "tags": [
          "段落"
@@ -9060,6 +9279,7 @@
       "fullname": "fragment:scp-5764-1",
       "hidden_tags": [],
       "id": "1310883730",
+      "parent": "scp-5764",
       "rating": "0",
       "tags": [],
       "title": "這裏什麼都沒有。",
@@ -9076,6 +9296,7 @@
       "fullname": "fragment:scp-5764-2",
       "hidden_tags": [],
       "id": "1310883797",
+      "parent": "scp-5764",
       "rating": "0",
       "tags": [],
       "title": "SCP-5764",
@@ -9184,6 +9405,7 @@
       "fullname": "fragment:20210428-01",
       "hidden_tags": [],
       "id": "1310919651",
+      "parent": "20210428",
       "rating": "0",
       "tags": [],
       "title": "fragment:20210428-01",
@@ -9200,6 +9422,7 @@
       "fullname": "fragment:20210428-02",
       "hidden_tags": [],
       "id": "1310919729",
+      "parent": "20210428",
       "rating": "0",
       "tags": [],
       "title": "fragment:20210428-02",
@@ -9216,6 +9439,7 @@
       "fullname": "fragment:20210428-03",
       "hidden_tags": [],
       "id": "1310919744",
+      "parent": "20210428",
       "rating": "0",
       "tags": [],
       "title": "fragment:20210428-03",
@@ -9232,6 +9456,7 @@
       "fullname": "fragment:20210428-04",
       "hidden_tags": [],
       "id": "1310919755",
+      "parent": "20210428",
       "rating": "0",
       "tags": [],
       "title": "fragment:20210428-04",
@@ -9248,6 +9473,7 @@
       "fullname": "fragment:20210428-05",
       "hidden_tags": [],
       "id": "1310919778",
+      "parent": "20210428",
       "rating": "0",
       "tags": [],
       "title": "fragment:20210428-05",
@@ -9264,6 +9490,7 @@
       "fullname": "fragment:20210428-06",
       "hidden_tags": [],
       "id": "1310919786",
+      "parent": "20210428",
       "rating": "0",
       "tags": [],
       "title": "fragment:20210428-06",
@@ -9280,6 +9507,7 @@
       "fullname": "fragment:20210428-07",
       "hidden_tags": [],
       "id": "1310919794",
+      "parent": "20210428",
       "rating": "0",
       "tags": [],
       "title": "fragment:20210428-07",
@@ -9296,6 +9524,7 @@
       "fullname": "fragment:20210428-08",
       "hidden_tags": [],
       "id": "1310919809",
+      "parent": "20210428",
       "rating": "0",
       "tags": [],
       "title": "fragment:20210428-08",
@@ -9312,6 +9541,7 @@
       "fullname": "fragment:20210428-09",
       "hidden_tags": [],
       "id": "1310919824",
+      "parent": "20210428",
       "rating": "0",
       "tags": [],
       "title": "fragment:20210428-09",
@@ -9328,6 +9558,7 @@
       "fullname": "fragment:20210428-10",
       "hidden_tags": [],
       "id": "1310919872",
+      "parent": "20210428",
       "rating": "0",
       "tags": [],
       "title": "fragment:20210428-10",
@@ -9344,6 +9575,7 @@
       "fullname": "fragment:20210428-11",
       "hidden_tags": [],
       "id": "1310919875",
+      "parent": "20210428",
       "rating": "0",
       "tags": [],
       "title": "fragment:20210428-11",
@@ -9422,6 +9654,7 @@
       "fullname": "fragment:all-the-bridges-were-burned-1",
       "hidden_tags": [],
       "id": "1310997600",
+      "parent": "all-the-bridges-were-burned",
       "rating": "0",
       "tags": [
          "段落"
@@ -9440,6 +9673,7 @@
       "fullname": "fragment:all-the-bridges-were-burned-2",
       "hidden_tags": [],
       "id": "1310997606",
+      "parent": "all-the-bridges-were-burned",
       "rating": "0",
       "tags": [
          "段落"
@@ -9590,6 +9824,7 @@
       "fullname": "component:listusers-2",
       "hidden_tags": [],
       "id": "1311640535",
+      "parent": "component:listusers-1",
       "rating": "0",
       "tags": [
          "組件",
@@ -9609,6 +9844,7 @@
       "fullname": "component:listusers-3",
       "hidden_tags": [],
       "id": "1311640537",
+      "parent": "component:listusers-1",
       "rating": "0",
       "tags": [
          "組件",
@@ -9628,6 +9864,7 @@
       "fullname": "fragment:keter-duty-1",
       "hidden_tags": [],
       "id": "1311641200",
+      "parent": "keter-duty",
       "rating": "0",
       "tags": [
          "段落"
@@ -9646,6 +9883,7 @@
       "fullname": "fragment:keter-duty-2",
       "hidden_tags": [],
       "id": "1311641202",
+      "parent": "keter-duty",
       "rating": "0",
       "tags": [
          "段落"
@@ -9664,6 +9902,7 @@
       "fullname": "fragment:scp-zh-231-1",
       "hidden_tags": [],
       "id": "1311645343",
+      "parent": "scp-zh-231",
       "rating": "0",
       "tags": [],
       "title": "SCP-ZH-231-1",
@@ -9680,6 +9919,7 @@
       "fullname": "fragment:scp-zh-231-2",
       "hidden_tags": [],
       "id": "1311645345",
+      "parent": "scp-zh-231",
       "rating": "0",
       "tags": [],
       "title": "SCP-ZH-231-2",
@@ -9696,6 +9936,7 @@
       "fullname": "fragment:scp-zh-231-3",
       "hidden_tags": [],
       "id": "1311645346",
+      "parent": "scp-zh-231",
       "rating": "0",
       "tags": [],
       "title": "SCP-ZH-231-3",
@@ -9712,6 +9953,7 @@
       "fullname": "fragment:scp-zh-231-4",
       "hidden_tags": [],
       "id": "1311645347",
+      "parent": "scp-zh-231",
       "rating": "0",
       "tags": [],
       "title": "SCP-ZH-231-4",
@@ -9728,6 +9970,7 @@
       "fullname": "fragment:scp-zh-231-5",
       "hidden_tags": [],
       "id": "1311645348",
+      "parent": "scp-zh-231",
       "rating": "0",
       "tags": [],
       "title": "SCP-ZH-231-5",
@@ -9869,6 +10112,7 @@
       "fullname": "fragment:scp-6000-1",
       "hidden_tags": [],
       "id": "1311875723",
+      "parent": "scp-6000",
       "rating": "0",
       "tags": [],
       "title": "6000contestyurt-1 -- \"FLASHES\"",
@@ -9885,6 +10129,7 @@
       "fullname": "fragment:scp-6000-2",
       "hidden_tags": [],
       "id": "1311875730",
+      "parent": "scp-6000",
       "rating": "0",
       "tags": [],
       "title": "6000contestyurt-2 -- \"RISING ACTION\"",
@@ -9901,6 +10146,7 @@
       "fullname": "fragment:scp-6000-3",
       "hidden_tags": [],
       "id": "1311875759",
+      "parent": "scp-6000",
       "rating": "0",
       "tags": [],
       "title": "6000contestyurt-3 -- \"AS WE KNOW IT\"",
@@ -9917,6 +10163,7 @@
       "fullname": "fragment:scp-6000-4",
       "hidden_tags": [],
       "id": "1311875802",
+      "parent": "scp-6000",
       "rating": "0",
       "tags": [],
       "title": "6000contestyurt 4 -- \"HAPPY ENDING\"",
@@ -9933,6 +10180,7 @@
       "fullname": "fragment:scp-6000-5",
       "hidden_tags": [],
       "id": "1311875805",
+      "parent": "scp-6000",
       "rating": "0",
       "tags": [],
       "title": "6000contestyurt-5 - \"REDUX\"",
@@ -10728,6 +10976,7 @@
       "fullname": "fragment:125-1",
       "hidden_tags": [],
       "id": "1312355597",
+      "parent": "wolf-125",
       "rating": "0",
       "tags": [],
       "title": "中港路上沒有人只有野狼",
@@ -10744,6 +10993,7 @@
       "fullname": "fragment:125-2",
       "hidden_tags": [],
       "id": "1312355730",
+      "parent": "wolf-125",
       "rating": "0",
       "tags": [],
       "title": "中港路上沒有人只有機車",
@@ -11016,6 +11266,7 @@
       "fullname": "fragment:scp-zh-804-1",
       "hidden_tags": [],
       "id": "1312552446",
+      "parent": "scp-zh-804",
       "rating": "0",
       "tags": [
          "段落"
@@ -11034,6 +11285,7 @@
       "fullname": "fragment:scp-zh-804-2",
       "hidden_tags": [],
       "id": "1312552449",
+      "parent": "scp-zh-804",
       "rating": "0",
       "tags": [
          "段落"
@@ -11052,6 +11304,7 @@
       "fullname": "fragment:scp-zh-804-3",
       "hidden_tags": [],
       "id": "1312552452",
+      "parent": "scp-zh-804",
       "rating": "0",
       "tags": [
          "段落"
@@ -11070,6 +11323,7 @@
       "fullname": "fragment:scp-zh-804-4",
       "hidden_tags": [],
       "id": "1312552453",
+      "parent": "scp-zh-804",
       "rating": "0",
       "tags": [
          "段落"
@@ -11088,6 +11342,7 @@
       "fullname": "fragment:scp-zh-804-5",
       "hidden_tags": [],
       "id": "1312552457",
+      "parent": "scp-zh-804",
       "rating": "0",
       "tags": [
          "段落"
@@ -11106,6 +11361,7 @@
       "fullname": "fragment:scp-zh-804-6",
       "hidden_tags": [],
       "id": "1312552459",
+      "parent": "scp-zh-804",
       "rating": "0",
       "tags": [
          "段落"
@@ -11142,6 +11398,7 @@
       "fullname": "component:author-label-source",
       "hidden_tags": [],
       "id": "1316495627",
+      "parent": "component:author-label",
       "rating": "0",
       "tags": [
          "組件後端"
@@ -11250,6 +11507,7 @@
       "fullname": "component:bhl-style-collapse-source",
       "hidden_tags": [],
       "id": "1316871173",
+      "parent": "component:bhl-style-collapse",
       "rating": "0",
       "tags": [
          "組件後端"
@@ -11280,6 +11538,7 @@
       "fullname": "component:bhl-style-collapse",
       "hidden_tags": [],
       "id": "1316871175",
+      "parent": "theme:black-highlighter-theme",
       "rating": "3",
       "tags": [
          "組件",
@@ -11436,6 +11695,7 @@
       "fullname": "fragment:scp-6500-1",
       "hidden_tags": [],
       "id": "1324053581",
+      "parent": "scp-6500",
       "rating": "0",
       "tags": [
          "段落",
@@ -11455,6 +11715,7 @@
       "fullname": "fragment:scp-6500-2",
       "hidden_tags": [],
       "id": "1324053582",
+      "parent": "scp-6500",
       "rating": "0",
       "tags": [
          "段落",
@@ -11474,6 +11735,7 @@
       "fullname": "fragment:scp-6500-3",
       "hidden_tags": [],
       "id": "1324053584",
+      "parent": "scp-6500",
       "rating": "0",
       "tags": [
          "段落",
@@ -11493,6 +11755,7 @@
       "fullname": "fragment:scp-6500-4",
       "hidden_tags": [],
       "id": "1324053587",
+      "parent": "scp-6500",
       "rating": "0",
       "tags": [
          "段落",
@@ -11512,6 +11775,7 @@
       "fullname": "fragment:scp-6500-5",
       "hidden_tags": [],
       "id": "1324053588",
+      "parent": "scp-6500",
       "rating": "0",
       "tags": [
          "段落",
@@ -11531,6 +11795,7 @@
       "fullname": "fragment:scp-6500-6",
       "hidden_tags": [],
       "id": "1324053589",
+      "parent": "scp-6500",
       "rating": "0",
       "tags": [
          "段落",
@@ -11550,6 +11815,7 @@
       "fullname": "fragment:scp-6500-7",
       "hidden_tags": [],
       "id": "1324053590",
+      "parent": "scp-6500",
       "rating": "0",
       "tags": [
          "段落",
@@ -11569,6 +11835,7 @@
       "fullname": "fragment:scp-6500-8",
       "hidden_tags": [],
       "id": "1324053629",
+      "parent": "scp-6500",
       "rating": "0",
       "tags": [
          "段落",
@@ -11588,6 +11855,7 @@
       "fullname": "fragment:scp-6500-9",
       "hidden_tags": [],
       "id": "1324053632",
+      "parent": "scp-6500",
       "rating": "0",
       "tags": [
          "段落",
@@ -11607,6 +11875,7 @@
       "fullname": "fragment:scp-6500-10",
       "hidden_tags": [],
       "id": "1324053634",
+      "parent": "scp-6500",
       "rating": "0",
       "tags": [
          "段落",
@@ -11626,6 +11895,7 @@
       "fullname": "fragment:scp-6500-11",
       "hidden_tags": [],
       "id": "1324053636",
+      "parent": "scp-6500",
       "rating": "0",
       "tags": [
          "段落",
@@ -11645,6 +11915,7 @@
       "fullname": "fragment:scp-6500-12",
       "hidden_tags": [],
       "id": "1324053640",
+      "parent": "scp-6500",
       "rating": "0",
       "tags": [
          "段落",
@@ -11664,6 +11935,7 @@
       "fullname": "fragment:scp-6500-13",
       "hidden_tags": [],
       "id": "1324053643",
+      "parent": "scp-6500",
       "rating": "0",
       "tags": [
          "段落",
@@ -11683,6 +11955,7 @@
       "fullname": "fragment:scp-6500-14",
       "hidden_tags": [],
       "id": "1324053690",
+      "parent": "scp-6500",
       "rating": "0",
       "tags": [
          "段落",
@@ -11702,6 +11975,7 @@
       "fullname": "fragment:scp-6500-15",
       "hidden_tags": [],
       "id": "1324053728",
+      "parent": "scp-6500",
       "rating": "0",
       "tags": [
          "段落",
@@ -11721,6 +11995,7 @@
       "fullname": "fragment:scp-6500-16",
       "hidden_tags": [],
       "id": "1324053729",
+      "parent": "scp-6500",
       "rating": "0",
       "tags": [
          "段落",
@@ -11740,6 +12015,7 @@
       "fullname": "fragment:scp-6500-17",
       "hidden_tags": [],
       "id": "1324053730",
+      "parent": "scp-6500",
       "rating": "0",
       "tags": [
          "段落",
@@ -11759,6 +12035,7 @@
       "fullname": "fragment:scp-6500-18",
       "hidden_tags": [],
       "id": "1324053734",
+      "parent": "scp-6500",
       "rating": "0",
       "tags": [
          "段落",
@@ -11925,6 +12202,7 @@
       "fullname": "fragment:scp-5956-1",
       "hidden_tags": [],
       "id": "1324372609",
+      "parent": "scp-5956",
       "rating": "0",
       "tags": [
          "段落",
@@ -11944,6 +12222,7 @@
       "fullname": "fragment:scp-5956-2",
       "hidden_tags": [],
       "id": "1324372616",
+      "parent": "scp-5956",
       "rating": "0",
       "tags": [
          "段落",
@@ -11963,6 +12242,7 @@
       "fullname": "fragment:scp-5956-3",
       "hidden_tags": [],
       "id": "1324372623",
+      "parent": "scp-5956",
       "rating": "0",
       "tags": [
          "段落",
@@ -12084,6 +12364,7 @@
          "_cc"
       ],
       "id": "1324414482",
+      "parent": "component:image-block",
       "rating": "4",
       "tags": [
          "en",
@@ -12104,6 +12385,7 @@
       "fullname": "fragment:scp-5056-offset-0",
       "hidden_tags": [],
       "id": "1327561011",
+      "parent": "scp-5056",
       "rating": "0",
       "tags": [
          "段落",
@@ -12123,6 +12405,7 @@
       "fullname": "fragment:scp-5056-offset-1",
       "hidden_tags": [],
       "id": "1327571778",
+      "parent": "scp-5056",
       "rating": "0",
       "tags": [
          "段落",
@@ -12142,6 +12425,7 @@
       "fullname": "fragment:wl-front-page-box",
       "hidden_tags": [],
       "id": "1329424763",
+      "parent": "main",
       "rating": "0",
       "tags": [
          "en",
@@ -12161,6 +12445,7 @@
       "fullname": "fragment:front-page-header",
       "hidden_tags": [],
       "id": "1329424919",
+      "parent": "main",
       "rating": "0",
       "tags": [
          "en",
@@ -12184,6 +12469,7 @@
       "fullname": "fragment:front-page-top-announcement",
       "hidden_tags": [],
       "id": "1329424950",
+      "parent": "main",
       "rating": "1",
       "tags": [
          "段落"
@@ -12204,6 +12490,7 @@
          "_修復"
       ],
       "id": "1329424954",
+      "parent": "main",
       "rating": "0",
       "tags": [
          "段落"
@@ -12222,6 +12509,7 @@
       "fullname": "fragment:front-page-news-bulletin",
       "hidden_tags": [],
       "id": "1329424957",
+      "parent": "main",
       "rating": "0",
       "tags": [
          "段落"
@@ -12240,6 +12528,7 @@
       "fullname": "fragment:front-page-international-branches",
       "hidden_tags": [],
       "id": "1329424964",
+      "parent": "main",
       "rating": "0",
       "tags": [
          "段落"
@@ -12258,6 +12547,7 @@
       "fullname": "fragment:front-page-welcome-box",
       "hidden_tags": [],
       "id": "1329424979",
+      "parent": "main",
       "rating": "0",
       "tags": [
          "段落"
@@ -12276,6 +12566,7 @@
       "fullname": "fragment:scp-6668-1",
       "hidden_tags": [],
       "id": "1329605030",
+      "parent": "scp-6668",
       "rating": "0",
       "tags": [],
       "title": "Scp 6668 1",
@@ -12292,6 +12583,7 @@
       "fullname": "fragment:scp-6668-2",
       "hidden_tags": [],
       "id": "1329605037",
+      "parent": "scp-6668",
       "rating": "0",
       "tags": [],
       "title": "Scp 6668 2",
@@ -12308,6 +12600,7 @@
       "fullname": "fragment:scp-6668-3",
       "hidden_tags": [],
       "id": "1329605041",
+      "parent": "scp-6668",
       "rating": "0",
       "tags": [],
       "title": "Scp 6668 3",
@@ -12324,6 +12617,7 @@
       "fullname": "fragment:scp-6668-4",
       "hidden_tags": [],
       "id": "1329605044",
+      "parent": "scp-6668",
       "rating": "0",
       "tags": [],
       "title": "Scp 6668 4",
@@ -12340,6 +12634,7 @@
       "fullname": "fragment:scp-6668-5",
       "hidden_tags": [],
       "id": "1329605054",
+      "parent": "scp-6668",
       "rating": "0",
       "tags": [],
       "title": "Scp 6668 5",
@@ -12356,6 +12651,7 @@
       "fullname": "fragment:scp-6668-6",
       "hidden_tags": [],
       "id": "1329605056",
+      "parent": "scp-6668",
       "rating": "0",
       "tags": [],
       "title": "Scp 6668 6",
@@ -12715,6 +13011,7 @@
       "fullname": "fragment:the-death-of-sam-etc",
       "hidden_tags": [],
       "id": "1330502400",
+      "parent": "the-death-of-sam-or-semibreve-etc",
       "rating": "0",
       "tags": [
          "段落"
@@ -12733,6 +13030,7 @@
       "fullname": "fragment:the-death-of-semibreve-etc",
       "hidden_tags": [],
       "id": "1330502410",
+      "parent": "the-death-of-sam-or-semibreve-etc",
       "rating": "0",
       "tags": [
          "段落"
@@ -12978,6 +13276,7 @@
       "fullname": "fragment:wanderers-tag",
       "hidden_tags": [],
       "id": "1331409547",
+      "parent": "tag-guide",
       "rating": "0",
       "tags": [
          "段落"
@@ -12996,6 +13295,7 @@
       "fullname": "fragment:internationality-tag",
       "hidden_tags": [],
       "id": "1331409630",
+      "parent": "tag-guide",
       "rating": "0",
       "tags": [
          "段落"
@@ -13016,6 +13316,7 @@
          "_修復"
       ],
       "id": "1331409743",
+      "parent": "tag-guide",
       "rating": "0",
       "tags": [
          "段落"
@@ -13034,6 +13335,7 @@
       "fullname": "fragment:other-tag",
       "hidden_tags": [],
       "id": "1331409823",
+      "parent": "tag-guide",
       "rating": "0",
       "tags": [
          "段落"
@@ -13052,6 +13354,7 @@
       "fullname": "fragment:characteristic-tag",
       "hidden_tags": [],
       "id": "1331409866",
+      "parent": "tag-guide",
       "rating": "0",
       "tags": [
          "段落"
@@ -13070,6 +13373,7 @@
       "fullname": "fragment:base-tag",
       "hidden_tags": [],
       "id": "1331410036",
+      "parent": "tag-guide",
       "rating": "0",
       "tags": [
          "段落"
@@ -13090,6 +13394,7 @@
          "_禁黑"
       ],
       "id": "1331410387",
+      "parent": "tag-guide",
       "rating": "0",
       "tags": [
          "段落"
@@ -13108,6 +13413,7 @@
       "fullname": "fragment:label-introduction",
       "hidden_tags": [],
       "id": "1331410433",
+      "parent": "tag-guide",
       "rating": "0",
       "tags": [],
       "title": "標籤介紹",
@@ -13376,6 +13682,7 @@
       "fullname": "fragment:scp-6445-1",
       "hidden_tags": [],
       "id": "1332824919",
+      "parent": "scp-6445",
       "rating": "0",
       "tags": [
          "段落",
@@ -13395,6 +13702,7 @@
       "fullname": "fragment:scp-6445-2",
       "hidden_tags": [],
       "id": "1332841845",
+      "parent": "scp-6445",
       "rating": "0",
       "tags": [
          "段落",
@@ -13414,6 +13722,7 @@
       "fullname": "fragment:post-trauma-1",
       "hidden_tags": [],
       "id": "1333201685",
+      "parent": "post-trauma",
       "rating": "0",
       "tags": [
          "段落"
@@ -13432,6 +13741,7 @@
       "fullname": "fragment:post-trauma-2",
       "hidden_tags": [],
       "id": "1333201687",
+      "parent": "post-trauma",
       "rating": "0",
       "tags": [
          "段落"
@@ -13634,6 +13944,7 @@
       "fullname": "fragment:site-snippets-source",
       "hidden_tags": [],
       "id": "1401929861",
+      "parent": "secure-facilities-locations",
       "rating": "0",
       "tags": [
          "en",
@@ -13654,6 +13965,7 @@
       "fullname": "fragment:site-snippets",
       "hidden_tags": [],
       "id": "1401929862",
+      "parent": "secure-facilities-locations",
       "rating": "0",
       "tags": [
          "en",
@@ -13788,6 +14100,7 @@
       "fullname": "fragment:romiamiad-ni-cidal",
       "hidden_tags": [],
       "id": "1401959913",
+      "parent": "romiamiad-ni-cidal",
       "rating": "0",
       "tags": [],
       "title": "山本研究員的ZH-922觀察日誌",
@@ -13804,6 +14117,7 @@
       "fullname": "fragment:romiamiad-ni-cidal-1",
       "hidden_tags": [],
       "id": "1401959923",
+      "parent": "romiamiad-ni-cidal",
       "rating": "0",
       "tags": [],
       "title": "煮飯 Micacak",
@@ -13820,6 +14134,7 @@
       "fullname": "fragment:romiamiad-ni-cidal-2",
       "hidden_tags": [],
       "id": "1401959926",
+      "parent": "romiamiad-ni-cidal",
       "rating": "0",
       "tags": [],
       "title": "海邊 Lawac no Riyar",
@@ -13836,6 +14151,7 @@
       "fullname": "fragment:romiamiad-ni-cidal-3",
       "hidden_tags": [],
       "id": "1401959929",
+      "parent": "romiamiad-ni-cidal",
       "rating": "0",
       "tags": [],
       "title": "飲料店 Tiyam no Ocya",
@@ -13852,6 +14168,7 @@
       "fullname": "fragment:romiamiad-ni-cidal-4",
       "hidden_tags": [],
       "id": "1401959937",
+      "parent": "romiamiad-ni-cidal",
       "rating": "0",
       "tags": [],
       "title": "家人 O Laloma'an",
@@ -13868,6 +14185,7 @@
       "fullname": "fragment:romiamiad-ni-cidal-5",
       "hidden_tags": [],
       "id": "1401959943",
+      "parent": "romiamiad-ni-cidal",
       "rating": "0",
       "tags": [],
       "title": "盆栽 Pongsay",
@@ -13884,6 +14202,7 @@
       "fullname": "fragment:romiamiad-ni-cidal-6",
       "hidden_tags": [],
       "id": "1401959944",
+      "parent": "romiamiad-ni-cidal",
       "rating": "0",
       "tags": [],
       "title": "日本人 O Ripongay",
@@ -13936,6 +14255,7 @@
       "fullname": "theme:hansarp",
       "hidden_tags": [],
       "id": "1402261405",
+      "parent": "black-highlighter-themes",
       "rating": "2",
       "tags": [
          "en",
@@ -13956,6 +14276,7 @@
       "fullname": "component:svgheader-backend",
       "hidden_tags": [],
       "id": "1402263689",
+      "parent": "component:svgheader",
       "rating": "0",
       "tags": [
          "en",
@@ -13996,6 +14317,7 @@
       "fullname": "fragment:multiversal-valentine-0",
       "hidden_tags": [],
       "id": "1402639165",
+      "parent": "multiversal-valentine",
       "rating": "0",
       "tags": [],
       "title": "Multiversal Valentine 0",
@@ -14012,6 +14334,7 @@
       "fullname": "fragment:multiversal-valentine-1",
       "hidden_tags": [],
       "id": "1402639167",
+      "parent": "multiversal-valentine",
       "rating": "0",
       "tags": [],
       "title": "Multiversal Valentine 1",
@@ -14028,6 +14351,7 @@
       "fullname": "fragment:multiversal-valentine-2",
       "hidden_tags": [],
       "id": "1402639168",
+      "parent": "multiversal-valentine",
       "rating": "0",
       "tags": [],
       "title": "Multiversal Valentine 2",
@@ -14044,6 +14368,7 @@
       "fullname": "fragment:multiversal-valentine-3",
       "hidden_tags": [],
       "id": "1402639170",
+      "parent": "multiversal-valentine",
       "rating": "0",
       "tags": [],
       "title": "Multiversal Valentine 3",
@@ -14060,6 +14385,7 @@
       "fullname": "fragment:multiversal-valentine-4",
       "hidden_tags": [],
       "id": "1402639182",
+      "parent": "multiversal-valentine",
       "rating": "0",
       "tags": [],
       "title": "Multiversal Valentine 4",
@@ -14076,6 +14402,7 @@
       "fullname": "fragment:multiversal-valentine-5",
       "hidden_tags": [],
       "id": "1402639184",
+      "parent": "multiversal-valentine",
       "rating": "0",
       "tags": [],
       "title": "Multiversal Valentine 5",
@@ -14092,6 +14419,7 @@
       "fullname": "fragment:multiversal-valentine-6",
       "hidden_tags": [],
       "id": "1402639186",
+      "parent": "multiversal-valentine",
       "rating": "0",
       "tags": [],
       "title": "Multiversal Valentine 6",
@@ -14360,6 +14688,7 @@
       "fullname": "fragment:scp-5763-1",
       "hidden_tags": [],
       "id": "1402955799",
+      "parent": "scp-5763",
       "rating": "0",
       "tags": [
          "段落",
@@ -14379,6 +14708,7 @@
       "fullname": "fragment:scp-5763-2",
       "hidden_tags": [],
       "id": "1402955808",
+      "parent": "scp-5763",
       "rating": "0",
       "tags": [
          "段落",
@@ -14398,6 +14728,7 @@
       "fullname": "component:interwiki-style",
       "hidden_tags": [],
       "id": "1403009497",
+      "parent": "nav:interwiki",
       "rating": "0",
       "tags": [
          "管理",
@@ -14417,6 +14748,7 @@
       "fullname": "component:new-work-list-fixing",
       "hidden_tags": [],
       "id": "1403068083",
+      "parent": "nav:side",
       "rating": "0",
       "tags": [
          "組件"
@@ -15101,6 +15433,7 @@
       "fullname": "fragment:scp-6630-1",
       "hidden_tags": [],
       "id": "1417059428",
+      "parent": "scp-6630",
       "rating": "0",
       "tags": [
          "段落",
@@ -15120,6 +15453,7 @@
       "fullname": "fragment:scp-6630-2",
       "hidden_tags": [],
       "id": "1417059545",
+      "parent": "scp-6630",
       "rating": "0",
       "tags": [
          "段落",
@@ -15139,6 +15473,7 @@
       "fullname": "fragment:scp-6820-0",
       "hidden_tags": [],
       "id": "1420014834",
+      "parent": "scp-6820",
       "rating": "0",
       "tags": [
          "段落",
@@ -15158,6 +15493,7 @@
       "fullname": "fragment:scp-6820-1",
       "hidden_tags": [],
       "id": "1420014845",
+      "parent": "scp-6820",
       "rating": "0",
       "tags": [
          "段落",
@@ -15249,6 +15585,7 @@
       "fullname": "fragment:redtape-light",
       "hidden_tags": [],
       "id": "1420693145",
+      "parent": "theme:redtape",
       "rating": "0",
       "tags": [],
       "title": "Fragment REDTAPE Light",
@@ -15265,6 +15602,7 @@
       "fullname": "fragment:redtape-dark",
       "hidden_tags": [],
       "id": "1420693146",
+      "parent": "theme:redtape",
       "rating": "0",
       "tags": [],
       "title": "Fragment: REDTAPE Dark",
@@ -15297,6 +15635,7 @@
       "fullname": "fragment:scp-7070-1",
       "hidden_tags": [],
       "id": "1420806481",
+      "parent": "scp-7070",
       "rating": "0",
       "tags": [
          "段落",
@@ -15316,6 +15655,7 @@
       "fullname": "fragment:scp-7070-2",
       "hidden_tags": [],
       "id": "1420806513",
+      "parent": "scp-7070",
       "rating": "0",
       "tags": [
          "段落",
@@ -15335,6 +15675,7 @@
       "fullname": "fragment:scp-7070-3",
       "hidden_tags": [],
       "id": "1420806516",
+      "parent": "scp-7070",
       "rating": "0",
       "tags": [
          "段落",
@@ -15438,6 +15779,7 @@
       "fullname": "fragment:scp-series-links",
       "hidden_tags": [],
       "id": "1434949870",
+      "parent": "scp-series",
       "rating": "0",
       "tags": [
          "段落"
@@ -15719,6 +16061,7 @@
       "fullname": "fragment:scp-zh-027-1",
       "hidden_tags": [],
       "id": "1437153360",
+      "parent": "scp-zh-027",
       "rating": "0",
       "tags": [],
       "title": "SCP-ZH-027",
@@ -15735,6 +16078,7 @@
       "fullname": "fragment:scp-zh-027-2",
       "hidden_tags": [],
       "id": "1437153361",
+      "parent": "scp-zh-027",
       "rating": "0",
       "tags": [],
       "title": "SCP-ZH-027",
@@ -15751,6 +16095,7 @@
       "fullname": "fragment:scp-zh-114-1",
       "hidden_tags": [],
       "id": "1437153914",
+      "parent": "scp-zh-114",
       "rating": "0",
       "tags": [],
       "title": "SCP-ZH-114",
@@ -15767,6 +16112,7 @@
       "fullname": "fragment:scp-zh-114-2",
       "hidden_tags": [],
       "id": "1437153915",
+      "parent": "scp-zh-114",
       "rating": "0",
       "tags": [],
       "title": "SCP-ZH-114",
@@ -15815,6 +16161,7 @@
       "fullname": "fragment:scp-zh-962-1",
       "hidden_tags": [],
       "id": "1437223368",
+      "parent": "scp-zh-962",
       "rating": "0",
       "tags": [
          "scp",
@@ -15835,6 +16182,7 @@
       "fullname": "fragment:scp-zh-962-2",
       "hidden_tags": [],
       "id": "1437223369",
+      "parent": "scp-zh-962",
       "rating": "0",
       "tags": [],
       "title": "fragment：SCP-ZH-962 第二迭代",
@@ -15851,6 +16199,7 @@
       "fullname": "fragment:scp-zh-962-3",
       "hidden_tags": [],
       "id": "1437223371",
+      "parent": "scp-zh-962",
       "rating": "0",
       "tags": [],
       "title": "fragment：SCP-ZH-962 第三迭代",
@@ -15867,6 +16216,7 @@
       "fullname": "fragment:bell-tosser-1",
       "hidden_tags": [],
       "id": "1437248415",
+      "parent": "bell-tosser",
       "rating": "0",
       "tags": [],
       "title": "擲鈴手生創 中心頁",
@@ -15883,6 +16233,7 @@
       "fullname": "fragment:bell-tosser-2",
       "hidden_tags": [],
       "id": "1437248416",
+      "parent": "bell-tosser",
       "rating": "0",
       "tags": [],
       "title": "擲鈴手生創 中心頁",
@@ -15967,6 +16318,7 @@
       "fullname": "fragment:scp-4028-1",
       "hidden_tags": [],
       "id": "1444616920",
+      "parent": "scp-4028",
       "rating": "0",
       "tags": [],
       "title": "SCP-4028-1",
@@ -15983,6 +16335,7 @@
       "fullname": "fragment:scp-4028-2",
       "hidden_tags": [],
       "id": "1444616923",
+      "parent": "scp-4028",
       "rating": "0",
       "tags": [],
       "title": "SCP-4028-2",
@@ -15999,6 +16352,7 @@
       "fullname": "fragment:scp-4028-3",
       "hidden_tags": [],
       "id": "1444616925",
+      "parent": "scp-4028",
       "rating": "0",
       "tags": [],
       "title": "SCP-4028-3",
@@ -16015,6 +16369,7 @@
       "fullname": "fragment:scp-7579-0",
       "hidden_tags": [],
       "id": "1444680774",
+      "parent": "scp-7579",
       "rating": "0",
       "tags": [],
       "title": "SCP-7579-0",
@@ -16031,6 +16386,7 @@
       "fullname": "fragment:scp-7579-1",
       "hidden_tags": [],
       "id": "1444680777",
+      "parent": "scp-7579",
       "rating": "0",
       "tags": [],
       "title": "SCP-7579-1",
@@ -17177,6 +17533,7 @@
       "fullname": "fragment:scp-7432-1",
       "hidden_tags": [],
       "id": "1445797745",
+      "parent": "scp-7432",
       "rating": "0",
       "tags": [
          "段落"
@@ -17195,6 +17552,7 @@
       "fullname": "fragment:scp-7432-3",
       "hidden_tags": [],
       "id": "1445797746",
+      "parent": "scp-7432",
       "rating": "0",
       "tags": [
          "段落"
@@ -17213,6 +17571,7 @@
       "fullname": "fragment:scp-7432-2",
       "hidden_tags": [],
       "id": "1445797747",
+      "parent": "scp-7432",
       "rating": "0",
       "tags": [
          "段落"
@@ -17231,6 +17590,7 @@
       "fullname": "fragment:scp-7432-4",
       "hidden_tags": [],
       "id": "1445797748",
+      "parent": "scp-7432",
       "rating": "0",
       "tags": [
          "段落"
@@ -18975,6 +19335,7 @@
       "fullname": "fragment:scp-7603-0",
       "hidden_tags": [],
       "id": "1446046387",
+      "parent": "scp-7603",
       "rating": "0",
       "tags": [
          "段落",
@@ -18994,6 +19355,7 @@
       "fullname": "fragment:scp-7603-1",
       "hidden_tags": [],
       "id": "1446046391",
+      "parent": "scp-7603",
       "rating": "0",
       "tags": [
          "段落",
@@ -19013,6 +19375,7 @@
       "fullname": "fragment:scp-7603-2",
       "hidden_tags": [],
       "id": "1446046398",
+      "parent": "scp-7603",
       "rating": "0",
       "tags": [
          "段落",
@@ -19032,6 +19395,7 @@
       "fullname": "fragment:scp-7603-3",
       "hidden_tags": [],
       "id": "1446046405",
+      "parent": "scp-7603",
       "rating": "0",
       "tags": [
          "段落",
@@ -19051,6 +19415,7 @@
       "fullname": "fragment:scp-7603-4",
       "hidden_tags": [],
       "id": "1446046412",
+      "parent": "scp-7603",
       "rating": "0",
       "tags": [
          "段落",
@@ -19070,6 +19435,7 @@
       "fullname": "fragment:scp-7603-5",
       "hidden_tags": [],
       "id": "1446046419",
+      "parent": "scp-7603",
       "rating": "0",
       "tags": [
          "段落",
@@ -19089,6 +19455,7 @@
       "fullname": "fragment:scp-7603-6",
       "hidden_tags": [],
       "id": "1446046430",
+      "parent": "scp-7603",
       "rating": "0",
       "tags": [
          "段落",
@@ -19263,6 +19630,7 @@
       "fullname": "fragment:hr-database-0",
       "hidden_tags": [],
       "id": "1446415997",
+      "parent": "hr-database",
       "rating": "0",
       "tags": [],
       "title": "fragment：編輯：人事資料庫〔已鎖定〕00",
@@ -19279,6 +19647,7 @@
       "fullname": "fragment:hr-database-1",
       "hidden_tags": [],
       "id": "1446416042",
+      "parent": "hr-database",
       "rating": "0",
       "tags": [],
       "title": "fragment：編輯：人事資料庫〔已鎖定〕01",
@@ -19295,6 +19664,7 @@
       "fullname": "fragment:hr-database-2",
       "hidden_tags": [],
       "id": "1446416230",
+      "parent": "hr-database",
       "rating": "0",
       "tags": [],
       "title": "fragment：編輯：人事資料庫〔已鎖定〕02",
@@ -19311,6 +19681,7 @@
       "fullname": "fragment:hr-database-3",
       "hidden_tags": [],
       "id": "1446416232",
+      "parent": "hr-database",
       "rating": "0",
       "tags": [],
       "title": "fragment：編輯：人事資料庫〔已鎖定〕03",
@@ -19327,6 +19698,7 @@
       "fullname": "fragment:hr-database-4",
       "hidden_tags": [],
       "id": "1446416234",
+      "parent": "hr-database",
       "rating": "0",
       "tags": [],
       "title": "fragment：編輯：人事資料庫〔已鎖定〕04",
@@ -19453,6 +19825,7 @@
       "fullname": "component:license-box-theme",
       "hidden_tags": [],
       "id": "1446775571",
+      "parent": "component:license-box",
       "rating": "0",
       "tags": [
          "組件"
@@ -19545,6 +19918,7 @@
       "fullname": "fragment:scp-2343-1",
       "hidden_tags": [],
       "id": "1446971232",
+      "parent": "scp-2343",
       "rating": "0",
       "tags": [],
       "title": "fragment:scp-2343-1",
@@ -19561,6 +19935,7 @@
       "fullname": "fragment:scp-2343-2",
       "hidden_tags": [],
       "id": "1446971236",
+      "parent": "scp-2343",
       "rating": "0",
       "tags": [],
       "title": "fragment:scp-2343-2",
@@ -19577,6 +19952,7 @@
       "fullname": "fragment:scp-2343-3",
       "hidden_tags": [],
       "id": "1446971273",
+      "parent": "scp-2343",
       "rating": "0",
       "tags": [],
       "title": "fragment:scp-2343-3",
@@ -19593,6 +19969,7 @@
       "fullname": "fragment:scp-332-0",
       "hidden_tags": [],
       "id": "1447584063",
+      "parent": "scp-332",
       "rating": "0",
       "tags": [
          "段落",
@@ -19612,6 +19989,7 @@
       "fullname": "fragment:scp-332-1",
       "hidden_tags": [],
       "id": "1447584068",
+      "parent": "scp-332",
       "rating": "0",
       "tags": [
          "段落",
@@ -19714,6 +20092,7 @@
       "fullname": "fragment:scp-zh-295-1",
       "hidden_tags": [],
       "id": "1447976343",
+      "parent": "scp-zh-295",
       "rating": "0",
       "tags": [],
       "title": "SCP-ZH-295-1",
@@ -19730,6 +20109,7 @@
       "fullname": "fragment:scp-zh-295-3",
       "hidden_tags": [],
       "id": "1447976344",
+      "parent": "scp-zh-295",
       "rating": "0",
       "tags": [],
       "title": "SCP-ZH-295-3",
@@ -19746,6 +20126,7 @@
       "fullname": "fragment:scp-zh-295-2",
       "hidden_tags": [],
       "id": "1447976345",
+      "parent": "scp-zh-295",
       "rating": "0",
       "tags": [],
       "title": "SCP-ZH-295-2",
@@ -19778,6 +20159,7 @@
       "fullname": "system:join-1",
       "hidden_tags": [],
       "id": "1448598843",
+      "parent": "system:join",
       "rating": "0",
       "tags": [],
       "title": "Join 1",
@@ -19794,6 +20176,7 @@
       "fullname": "system:join-2",
       "hidden_tags": [],
       "id": "1448599195",
+      "parent": "system:join",
       "rating": "0",
       "tags": [],
       "title": "Join 2",
@@ -19810,6 +20193,7 @@
       "fullname": "system:join-3",
       "hidden_tags": [],
       "id": "1448599322",
+      "parent": "system:join",
       "rating": "0",
       "tags": [],
       "title": "Join 3",
@@ -19826,6 +20210,7 @@
       "fullname": "fragment:scp-6121-0",
       "hidden_tags": [],
       "id": "1448916287",
+      "parent": "scp-6121",
       "rating": "0",
       "tags": [
          "段落",
@@ -19845,6 +20230,7 @@
       "fullname": "fragment:scp-6121-1",
       "hidden_tags": [],
       "id": "1448916292",
+      "parent": "scp-6121",
       "rating": "0",
       "tags": [
          "段落",
@@ -19984,6 +20370,7 @@
       "fullname": "fragment:tanhony-s-proposal-ii-1",
       "hidden_tags": [],
       "id": "1449652295",
+      "parent": "tanhony-s-proposal-ii",
       "rating": "0",
       "tags": [],
       "title": "fragment:tanhony-s-proposal-ii-2",
@@ -20000,6 +20387,7 @@
       "fullname": "fragment:tanhony-s-proposal-ii-2",
       "hidden_tags": [],
       "id": "1449652310",
+      "parent": "tanhony-s-proposal-ii",
       "rating": "0",
       "tags": [],
       "title": "Tanhony的提案之二",
@@ -20016,6 +20404,7 @@
       "fullname": "fragment:tanhony-s-proposal-ii-3",
       "hidden_tags": [],
       "id": "1449652325",
+      "parent": "tanhony-s-proposal-ii",
       "rating": "0",
       "tags": [],
       "title": "Tanhony的提案之二",
@@ -20032,6 +20421,7 @@
       "fullname": "fragment:tanhony-s-proposal-ii-4",
       "hidden_tags": [],
       "id": "1449652337",
+      "parent": "tanhony-s-proposal-ii",
       "rating": "0",
       "tags": [],
       "title": "Tanhony的提案之二",
@@ -20048,6 +20438,7 @@
       "fullname": "fragment:tanhony-s-proposal-ii-5",
       "hidden_tags": [],
       "id": "1449652386",
+      "parent": "tanhony-s-proposal-ii",
       "rating": "0",
       "tags": [],
       "title": "Tanhony的提案之二",
@@ -20064,6 +20455,7 @@
       "fullname": "fragment:tanhony-s-proposal-ii-6",
       "hidden_tags": [],
       "id": "1449652397",
+      "parent": "tanhony-s-proposal-ii",
       "rating": "0",
       "tags": [],
       "title": "Tanhony的提案之二",
@@ -20080,6 +20472,7 @@
       "fullname": "fragment:tanhony-s-proposal-ii-7",
       "hidden_tags": [],
       "id": "1449652436",
+      "parent": "tanhony-s-proposal-ii",
       "rating": "0",
       "tags": [],
       "title": "Tanhony的提案之二",
@@ -20210,6 +20603,7 @@
       "fullname": "fragment:scp-7528-offset-0",
       "hidden_tags": [],
       "id": "1450258926",
+      "parent": "scp-7528",
       "rating": "0",
       "tags": [
          "段落",
@@ -20229,6 +20623,7 @@
       "fullname": "fragment:scp-7528-offset-1",
       "hidden_tags": [],
       "id": "1450258928",
+      "parent": "scp-7528",
       "rating": "0",
       "tags": [],
       "title": "SCP-7528 - 縮影媒介：投影",
@@ -20856,6 +21251,7 @@
       "fullname": "fragment:scp-6013-1",
       "hidden_tags": [],
       "id": "1450633592",
+      "parent": "scp-6013",
       "rating": "0",
       "tags": [
          "段落"
@@ -20874,6 +21270,7 @@
       "fullname": "fragment:scp-6013-2",
       "hidden_tags": [],
       "id": "1450633593",
+      "parent": "scp-6013",
       "rating": "0",
       "tags": [
          "段落"
@@ -20892,6 +21289,7 @@
       "fullname": "fragment:scp-6013-3",
       "hidden_tags": [],
       "id": "1450633603",
+      "parent": "scp-6013",
       "rating": "0",
       "tags": [
          "段落"
@@ -20910,6 +21308,7 @@
       "fullname": "fragment:scp-6013-4",
       "hidden_tags": [],
       "id": "1450633604",
+      "parent": "scp-6013",
       "rating": "0",
       "tags": [
          "段落"
@@ -20928,6 +21327,7 @@
       "fullname": "fragment:scp-6013-5",
       "hidden_tags": [],
       "id": "1450633606",
+      "parent": "scp-6013",
       "rating": "0",
       "tags": [
          "段落"
@@ -20946,6 +21346,7 @@
       "fullname": "fragment:scp-6013-0",
       "hidden_tags": [],
       "id": "1450633756",
+      "parent": "scp-6013",
       "rating": "0",
       "tags": [
          "段落"
@@ -20964,6 +21365,7 @@
       "fullname": "fragment:djkaktus-s-proposal-iii-0",
       "hidden_tags": [],
       "id": "1450664907",
+      "parent": "djkaktus-s-proposal-iii",
       "rating": "0",
       "tags": [
          "段落",
@@ -20983,6 +21385,7 @@
       "fullname": "fragment:djkaktus-s-proposal-iii-1",
       "hidden_tags": [],
       "id": "1450665456",
+      "parent": "djkaktus-s-proposal-iii",
       "rating": "0",
       "tags": [
          "段落",
@@ -21002,6 +21405,7 @@
       "fullname": "fragment:djkaktus-s-proposal-iii-2",
       "hidden_tags": [],
       "id": "1450665564",
+      "parent": "djkaktus-s-proposal-iii",
       "rating": "0",
       "tags": [
          "段落",
@@ -21021,6 +21425,7 @@
       "fullname": "fragment:djkaktus-s-proposal-iii-3",
       "hidden_tags": [],
       "id": "1450665969",
+      "parent": "djkaktus-s-proposal-iii",
       "rating": "0",
       "tags": [
          "段落",
@@ -21040,6 +21445,7 @@
       "fullname": "fragment:djkaktus-s-proposal-iii-4",
       "hidden_tags": [],
       "id": "1450666023",
+      "parent": "djkaktus-s-proposal-iii",
       "rating": "0",
       "tags": [
          "段落",
@@ -21059,6 +21465,7 @@
       "fullname": "fragment:djkaktus-s-proposal-iii-5",
       "hidden_tags": [],
       "id": "1450666059",
+      "parent": "djkaktus-s-proposal-iii",
       "rating": "0",
       "tags": [
          "段落",
@@ -21078,6 +21485,7 @@
       "fullname": "fragment:djkaktus-s-proposal-iii-6",
       "hidden_tags": [],
       "id": "1450666558",
+      "parent": "djkaktus-s-proposal-iii",
       "rating": "0",
       "tags": [
          "段落",
@@ -21097,6 +21505,7 @@
       "fullname": "fragment:djkaktus-s-proposal-iii-7",
       "hidden_tags": [],
       "id": "1450666592",
+      "parent": "djkaktus-s-proposal-iii",
       "rating": "0",
       "tags": [
          "段落",
@@ -21116,6 +21525,7 @@
       "fullname": "fragment:djkaktus-s-proposal-iii-8",
       "hidden_tags": [],
       "id": "1450666629",
+      "parent": "djkaktus-s-proposal-iii",
       "rating": "0",
       "tags": [
          "段落",
@@ -21135,6 +21545,7 @@
       "fullname": "fragment:djkaktus-s-proposal-iii-9",
       "hidden_tags": [],
       "id": "1450666934",
+      "parent": "djkaktus-s-proposal-iii",
       "rating": "0",
       "tags": [
          "段落",
@@ -21154,6 +21565,7 @@
       "fullname": "fragment:djkaktus-s-proposal-iii-10",
       "hidden_tags": [],
       "id": "1450667136",
+      "parent": "djkaktus-s-proposal-iii",
       "rating": "0",
       "tags": [
          "段落",
@@ -21173,6 +21585,7 @@
       "fullname": "fragment:djkaktus-s-proposal-iii-11",
       "hidden_tags": [],
       "id": "1450667140",
+      "parent": "djkaktus-s-proposal-iii",
       "rating": "0",
       "tags": [
          "段落",
@@ -21192,6 +21605,7 @@
       "fullname": "fragment:djkaktus-s-proposal-iii-12",
       "hidden_tags": [],
       "id": "1450667148",
+      "parent": "djkaktus-s-proposal-iii",
       "rating": "0",
       "tags": [
          "段落",
@@ -21211,6 +21625,7 @@
       "fullname": "fragment:djkaktus-s-proposal-iii-13",
       "hidden_tags": [],
       "id": "1450667154",
+      "parent": "djkaktus-s-proposal-iii",
       "rating": "0",
       "tags": [
          "段落",
@@ -21230,6 +21645,7 @@
       "fullname": "fragment:djkaktus-s-proposal-iii-14",
       "hidden_tags": [],
       "id": "1450667652",
+      "parent": "djkaktus-s-proposal-iii",
       "rating": "0",
       "tags": [
          "段落",
@@ -21249,6 +21665,7 @@
       "fullname": "fragment:djkaktus-s-proposal-iii-15",
       "hidden_tags": [],
       "id": "1450667655",
+      "parent": "djkaktus-s-proposal-iii",
       "rating": "0",
       "tags": [
          "段落",
@@ -21268,6 +21685,7 @@
       "fullname": "fragment:djkaktus-s-proposal-iii-16",
       "hidden_tags": [],
       "id": "1450667659",
+      "parent": "djkaktus-s-proposal-iii",
       "rating": "0",
       "tags": [
          "段落",
@@ -21287,6 +21705,7 @@
       "fullname": "fragment:djkaktus-s-proposal-iii-17",
       "hidden_tags": [],
       "id": "1450667669",
+      "parent": "djkaktus-s-proposal-iii",
       "rating": "0",
       "tags": [
          "段落",
@@ -21306,6 +21725,7 @@
       "fullname": "fragment:djkaktus-s-proposal-iii-18",
       "hidden_tags": [],
       "id": "1450668165",
+      "parent": "djkaktus-s-proposal-iii",
       "rating": "0",
       "tags": [
          "段落",
@@ -21325,6 +21745,7 @@
       "fullname": "fragment:djkaktus-s-proposal-iii-19",
       "hidden_tags": [],
       "id": "1450668168",
+      "parent": "djkaktus-s-proposal-iii",
       "rating": "0",
       "tags": [
          "段落",
@@ -21344,6 +21765,7 @@
       "fullname": "fragment:djkaktus-s-proposal-iii-20",
       "hidden_tags": [],
       "id": "1450668177",
+      "parent": "djkaktus-s-proposal-iii",
       "rating": "0",
       "tags": [
          "段落",
@@ -21363,6 +21785,7 @@
       "fullname": "fragment:djkaktus-s-proposal-iii-21",
       "hidden_tags": [],
       "id": "1450668181",
+      "parent": "djkaktus-s-proposal-iii",
       "rating": "0",
       "tags": [
          "段落",
@@ -21382,6 +21805,7 @@
       "fullname": "fragment:djkaktus-s-proposal-iii-22",
       "hidden_tags": [],
       "id": "1450668220",
+      "parent": "djkaktus-s-proposal-iii",
       "rating": "0",
       "tags": [
          "段落",
@@ -21401,6 +21825,7 @@
       "fullname": "fragment:djkaktus-s-proposal-iii-23",
       "hidden_tags": [],
       "id": "1450668228",
+      "parent": "djkaktus-s-proposal-iii",
       "rating": "0",
       "tags": [
          "段落",
@@ -21420,6 +21845,7 @@
       "fullname": "fragment:djkaktus-s-proposal-iii-24",
       "hidden_tags": [],
       "id": "1450668332",
+      "parent": "djkaktus-s-proposal-iii",
       "rating": "0",
       "tags": [
          "段落",
@@ -21439,6 +21865,7 @@
       "fullname": "fragment:djkaktus-s-proposal-iii-25",
       "hidden_tags": [],
       "id": "1450668755",
+      "parent": "djkaktus-s-proposal-iii",
       "rating": "0",
       "tags": [
          "段落",
@@ -21458,6 +21885,7 @@
       "fullname": "fragment:djkaktus-s-proposal-iii-26",
       "hidden_tags": [],
       "id": "1450668757",
+      "parent": "djkaktus-s-proposal-iii",
       "rating": "0",
       "tags": [
          "段落",
@@ -21477,6 +21905,7 @@
       "fullname": "fragment:djkaktus-s-proposal-iii-27",
       "hidden_tags": [],
       "id": "1450668765",
+      "parent": "djkaktus-s-proposal-iii",
       "rating": "0",
       "tags": [
          "段落",
@@ -21496,6 +21925,7 @@
       "fullname": "fragment:jim-scp-001-1",
       "hidden_tags": [],
       "id": "1450850990",
+      "parent": "jim-north-s-proposal",
       "rating": "0",
       "tags": [
          "段落"
@@ -21514,6 +21944,7 @@
       "fullname": "fragment:jim-scp-001-2",
       "hidden_tags": [],
       "id": "1450851075",
+      "parent": "jim-north-s-proposal",
       "rating": "0",
       "tags": [
          "段落"
@@ -21532,6 +21963,7 @@
       "fullname": "fragment:jim-scp-001-3",
       "hidden_tags": [],
       "id": "1450851159",
+      "parent": "jim-north-s-proposal",
       "rating": "0",
       "tags": [
          "段落"
@@ -21550,6 +21982,7 @@
       "fullname": "fragment:jim-scp-001-4",
       "hidden_tags": [],
       "id": "1450851208",
+      "parent": "jim-north-s-proposal",
       "rating": "0",
       "tags": [
          "段落"
@@ -21568,6 +22001,7 @@
       "fullname": "fragment:jim-scp-001-5",
       "hidden_tags": [],
       "id": "1450851284",
+      "parent": "jim-north-s-proposal",
       "rating": "0",
       "tags": [
          "段落"
@@ -21586,6 +22020,7 @@
       "fullname": "fragment:jim-scp-001-6",
       "hidden_tags": [],
       "id": "1450851383",
+      "parent": "jim-north-s-proposal",
       "rating": "0",
       "tags": [
          "段落"
@@ -21604,6 +22039,7 @@
       "fullname": "fragment:anthurium-1",
       "hidden_tags": [],
       "id": "1450878331",
+      "parent": "anthurium",
       "rating": "0",
       "tags": [
          "原創",
@@ -21623,6 +22059,7 @@
       "fullname": "fragment:anthurium-2",
       "hidden_tags": [],
       "id": "1450878481",
+      "parent": "anthurium",
       "rating": "0",
       "tags": [
          "原創",
@@ -21642,6 +22079,7 @@
       "fullname": "fragment:anthurium-3",
       "hidden_tags": [],
       "id": "1450878579",
+      "parent": "anthurium",
       "rating": "0",
       "tags": [
          "原創",
@@ -21661,6 +22099,7 @@
       "fullname": "fragment:rinko-s-proposal-1-01",
       "hidden_tags": [],
       "id": "1451118083",
+      "parent": "rinko-s-proposal-1",
       "rating": "0",
       "tags": [
          "段落"
@@ -21679,6 +22118,7 @@
       "fullname": "fragment:rinko-s-proposal-1-02",
       "hidden_tags": [],
       "id": "1451118087",
+      "parent": "rinko-s-proposal-1",
       "rating": "0",
       "tags": [
          "段落"
@@ -21697,6 +22137,7 @@
       "fullname": "fragment:rinko-s-proposal-1-03",
       "hidden_tags": [],
       "id": "1451118089",
+      "parent": "rinko-s-proposal-1",
       "rating": "0",
       "tags": [
          "段落"
@@ -21715,6 +22156,7 @@
       "fullname": "fragment:rinko-s-proposal-1-04",
       "hidden_tags": [],
       "id": "1451118092",
+      "parent": "rinko-s-proposal-1",
       "rating": "0",
       "tags": [
          "段落"
@@ -21733,6 +22175,7 @@
       "fullname": "fragment:rinko-s-proposal-1-05",
       "hidden_tags": [],
       "id": "1451118131",
+      "parent": "rinko-s-proposal-1",
       "rating": "0",
       "tags": [
          "段落"
@@ -21751,6 +22194,7 @@
       "fullname": "fragment:replicated-memories-01",
       "hidden_tags": [],
       "id": "1451120193",
+      "parent": "replicated-memories",
       "rating": "0",
       "tags": [
          "段落"
@@ -21769,6 +22213,7 @@
       "fullname": "fragment:replicated-memories-02",
       "hidden_tags": [],
       "id": "1451120267",
+      "parent": "replicated-memories",
       "rating": "0",
       "tags": [
          "段落"
@@ -21787,6 +22232,7 @@
       "fullname": "fragment:replicated-memories-03",
       "hidden_tags": [],
       "id": "1451121352",
+      "parent": "replicated-memories",
       "rating": "0",
       "tags": [
          "段落"

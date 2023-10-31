@@ -10,6 +10,7 @@
       "fullname": "start",
       "hidden_tags": [],
       "id": "630642444",
+      "parent": "admin:manage",
       "rating": "0",
       "tags": [
          "沙盒"
@@ -38,6 +39,7 @@
       "fullname": "how-to-write-an-scp-arc",
       "hidden_tags": [],
       "id": "633993650",
+      "parent": "guide-hub",
       "rating": "0",
       "tags": [
          "必讀",
@@ -361,6 +363,7 @@
       "fullname": "object-classes",
       "hidden_tags": [],
       "id": "637405780",
+      "parent": "guide-hub",
       "rating": "1",
       "tags": [
          "指導",
@@ -683,6 +686,7 @@
       "fullname": "about-the-scp-foundation",
       "hidden_tags": [],
       "id": "639485644",
+      "parent": "guide-hub",
       "rating": "16",
       "tags": [
          "the-administrator",
@@ -702,6 +706,7 @@
       "fullname": "faq",
       "hidden_tags": [],
       "id": "639659841",
+      "parent": "guide-hub",
       "rating": "0",
       "tags": [
          "必讀",
@@ -764,6 +769,7 @@
       "fullname": "criticism-policy",
       "hidden_tags": [],
       "id": "639676222",
+      "parent": "guide-hub",
       "rating": "0",
       "tags": [
          "指導"
@@ -830,6 +836,7 @@
          "_licensebox"
       ],
       "id": "646233743",
+      "parent": "guide-hub",
       "rating": "2",
       "tags": [
          "en",
@@ -850,6 +857,7 @@
       "fullname": "licensing-guide",
       "hidden_tags": [],
       "id": "652514183",
+      "parent": "guide-hub",
       "rating": "0",
       "tags": [
          "指導"
@@ -904,6 +912,7 @@
       "fullname": "chat-guide",
       "hidden_tags": [],
       "id": "655525664",
+      "parent": "guide-hub",
       "rating": "9",
       "tags": [
          "必讀",
@@ -923,6 +932,7 @@
       "fullname": "deletions-guide",
       "hidden_tags": [],
       "id": "655525762",
+      "parent": "guide-hub",
       "rating": "0",
       "tags": [
          "必讀",
@@ -965,6 +975,7 @@
       "fullname": "tag-guide",
       "hidden_tags": [],
       "id": "656513996",
+      "parent": "guide-hub",
       "rating": "1",
       "tags": [
          "待更新",
@@ -1157,6 +1168,7 @@
       "fullname": "contribute",
       "hidden_tags": [],
       "id": "675056724",
+      "parent": "guide-hub",
       "rating": "1",
       "tags": [
          "指導"
@@ -1183,6 +1195,7 @@
       "fullname": "task-forces",
       "hidden_tags": [],
       "id": "675056916",
+      "parent": "guide-hub",
       "rating": "2",
       "tags": [
          "en",
@@ -1511,6 +1524,7 @@
          "_cc"
       ],
       "id": "746855819",
+      "parent": "valentine-02",
       "rating": "12",
       "tags": [
          "作者頁面"
@@ -1537,6 +1551,7 @@
       "fullname": "comprehensive-guide-hub",
       "hidden_tags": [],
       "id": "756475950",
+      "parent": "guide-hub",
       "rating": "2",
       "tags": [
          "中心",
@@ -1994,6 +2009,7 @@
       "fullname": "wiki-syntax",
       "hidden_tags": [],
       "id": "802243262",
+      "parent": "guide-hub",
       "rating": "5",
       "tags": [
          "心得"
@@ -2284,6 +2300,7 @@
          "_禁黑"
       ],
       "id": "835208332",
+      "parent": "foundation-tales",
       "rating": "0",
       "tags": [
          "中心",
@@ -2304,6 +2321,7 @@
       "fullname": "series-archive",
       "hidden_tags": [],
       "id": "835208647",
+      "parent": "foundation-tales",
       "rating": "0",
       "tags": [
          "中心"
@@ -2418,6 +2436,7 @@
       "fullname": "incident-reports-eye-witness-interviews-and-personal-logs",
       "hidden_tags": [],
       "id": "835218112",
+      "parent": "foundation-tales",
       "rating": "0",
       "tags": [
          "中心"
@@ -2455,6 +2474,7 @@
       "fullname": "groups-of-interest-zh-2",
       "hidden_tags": [],
       "id": "835243317",
+      "parent": "guide-hub",
       "rating": "0",
       "tags": [
          "中心",
@@ -2478,6 +2498,7 @@
       "fullname": "wanderers:start",
       "hidden_tags": [],
       "id": "842744979",
+      "parent": "wanderers:start-zh",
       "rating": "1",
       "tags": [
          "待翻譯"
@@ -2547,6 +2568,7 @@
       "fullname": "series-archive-zh",
       "hidden_tags": [],
       "id": "851030599",
+      "parent": "tale-zh",
       "rating": "0",
       "tags": [
          "中心"
@@ -2565,6 +2587,7 @@
       "fullname": "experiment-log-447-a",
       "hidden_tags": [],
       "id": "852981007",
+      "parent": "scp-447",
       "rating": "0",
       "tags": [
          "合作",
@@ -2593,6 +2616,7 @@
       "fullname": "wanderers:start-zh",
       "hidden_tags": [],
       "id": "853016399",
+      "parent": "wanderers:start",
       "rating": "2",
       "tags": [
          "wanderers"
@@ -2766,6 +2790,7 @@
       "fullname": "experiment-log-4035",
       "hidden_tags": [],
       "id": "858372789",
+      "parent": "scp-4035",
       "rating": "0",
       "tags": [
          "合作",
@@ -2786,6 +2811,7 @@
       "fullname": "zh-task",
       "hidden_tags": [],
       "id": "858397333",
+      "parent": "tongwen-guan",
       "rating": "0",
       "tags": [
          "沙盒",
@@ -2940,6 +2966,7 @@
       "fullname": "amendment-to-css-policy",
       "hidden_tags": [],
       "id": "860789705",
+      "parent": "css-policy",
       "rating": "0",
       "tags": [
          "管理"
@@ -3050,6 +3077,7 @@
          "_禁黑"
       ],
       "id": "900940150",
+      "parent": "tale-zh",
       "rating": "0",
       "tags": [
          "中心",
@@ -3377,6 +3405,7 @@
          "_info"
       ],
       "id": "933986525",
+      "parent": "tongwen-guan",
       "rating": "3",
       "tags": [
          "必讀",
@@ -3648,6 +3677,7 @@
          "_禁黑"
       ],
       "id": "970551972",
+      "parent": "comprehensive-guide-hub",
       "rating": "0",
       "tags": [
          "指導",
@@ -3703,6 +3733,7 @@
       "fullname": "szb-changelogs",
       "hidden_tags": [],
       "id": "985777166",
+      "parent": "scp-zh-tr-discord-bot-hub",
       "rating": "0",
       "tags": [
          "管理"
@@ -4165,6 +4196,7 @@
       "fullname": "experiment-log-261-ad-de",
       "hidden_tags": [],
       "id": "1002303807",
+      "parent": "scp-261",
       "rating": "3",
       "tags": [
          "合作",
@@ -5165,6 +5197,7 @@
       "fullname": "harassment-policy",
       "hidden_tags": [],
       "id": "1304901920",
+      "parent": "guide-hub",
       "rating": "1",
       "tags": [
          "指導"
@@ -5260,6 +5293,7 @@
          "_禁黑"
       ],
       "id": "1305038983",
+      "parent": "guide-hub",
       "rating": "0",
       "tags": [
          "指導"
@@ -5688,6 +5722,7 @@
       "fullname": "tales-by-author",
       "hidden_tags": [],
       "id": "1305860721",
+      "parent": "foundation-tales",
       "rating": "0",
       "tags": [
          "待翻譯"
@@ -8411,6 +8446,7 @@
          "_下沉"
       ],
       "id": "1331475117",
+      "parent": "valentine-00",
       "rating": "2",
       "tags": [
          "沙盒"
@@ -8953,6 +8989,7 @@
          "_禁黑"
       ],
       "id": "1420311470",
+      "parent": "guide-hub",
       "rating": "0",
       "tags": [
          "中心"
@@ -9279,6 +9316,7 @@
       "fullname": "magazine-sorted",
       "hidden_tags": [],
       "id": "1437046234",
+      "parent": "magazine-week-0",
       "rating": "1",
       "tags": [],
       "title": "基金會週刊分類頁",
@@ -9471,6 +9509,7 @@
       "fullname": "there-is-the-image",
       "hidden_tags": [],
       "id": "1445481631",
+      "parent": "better-to-add-an-imaaage",
       "rating": "1",
       "tags": [],
       "title": "「此風可長」圖片來源頁",
