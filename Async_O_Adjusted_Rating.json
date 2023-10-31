@@ -89608,6 +89608,10 @@
       "detailed_rating": {
          "+": [
             [
+               "6503482",
+               1698758778
+            ],
+            [
                "5701756",
                1698719772
             ],
@@ -89729,13 +89733,17 @@
             ]
          ]
       },
-      "justified_rating": 30,
-      "justified_u_count": 30,
+      "justified_rating": 31,
+      "justified_u_count": 31,
       "justified_d_count": 0
    },
    "1698203871": {
       "detailed_rating": {
          "+": [
+            [
+               "6503482",
+               1698758778
+            ],
             [
                "5013754",
                1698675681
@@ -89822,8 +89830,8 @@
             ]
          ]
       },
-      "justified_rating": 21,
-      "justified_u_count": 21,
+      "justified_rating": 22,
+      "justified_u_count": 22,
       "justified_d_count": 0
    },
    "1698320758": {
@@ -90086,6 +90094,10 @@
       "detailed_rating": {
          "+": [
             [
+               "6503482",
+               1698758778
+            ],
+            [
                "5252281",
                1698667231
             ],
@@ -90167,8 +90179,8 @@
             ]
          ]
       },
-      "justified_rating": 20,
-      "justified_u_count": 20,
+      "justified_rating": 21,
+      "justified_u_count": 21,
       "justified_d_count": 0
    },
    "1698471756": {
@@ -90364,6 +90376,10 @@
       "detailed_rating": {
          "+": [
             [
+               "6503482",
+               1698758778
+            ],
+            [
                "5252281",
                1698667560
             ],
@@ -90393,8 +90409,8 @@
             ]
          ]
       },
-      "justified_rating": 7,
-      "justified_u_count": 7,
+      "justified_rating": 8,
+      "justified_u_count": 8,
       "justified_d_count": 0
    },
    "1698498969": {
@@ -90763,6 +90779,10 @@
       "detailed_rating": {
          "+": [
             [
+               "4990678",
+               1698758778
+            ],
+            [
                "7605593",
                1698719772
             ],
@@ -90816,8 +90836,8 @@
             ]
          ]
       },
-      "justified_rating": 13,
-      "justified_u_count": 13,
+      "justified_rating": 14,
+      "justified_u_count": 14,
       "justified_d_count": 0
    },
    "1698508811": {
