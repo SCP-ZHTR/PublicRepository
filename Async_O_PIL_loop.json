@@ -116525,6 +116525,10 @@
       "detailed_rating": {
          "+": [
             [
+               "6217438",
+               1698759702
+            ],
+            [
                "5252281",
                1698679870
             ],
@@ -116549,6 +116553,7 @@
       "fullname": "and-then-there-were-you",
       "hidden_tags": [],
       "id": "1451161199",
+      "parent": null,
       "rating": "5",
       "tags": [
          "owen",
@@ -116556,6 +116561,6 @@
          "故事"
       ],
       "title": "僅我生還",
-      "votes": "5"
+      "votes": "6"
    }
 }
