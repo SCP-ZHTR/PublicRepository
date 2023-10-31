@@ -116606,20 +116606,28 @@
       "created_at": "1698791318",
       "created_by": "5370805",
       "detailed_rating": {
-         "+": [],
-         "-": []
+         "+": [
+            [
+               "8854072",
+               1698791895
+            ],
+            [
+               "5338547",
+               1698791895
+            ]
+         ]
       },
       "fullname": "question-one-ship-of-theseus",
       "hidden_tags": [],
       "id": "1451178807",
       "parent": null,
-      "rating": "0",
+      "rating": "2",
       "tags": [
          "owen",
          "原創",
          "藝術作品"
       ],
       "title": "問題一：忒修斯之船",
-      "votes": "0"
+      "votes": "2"
    }
 }
