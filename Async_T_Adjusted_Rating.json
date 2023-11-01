@@ -73808,6 +73808,10 @@
       "detailed_rating": {
          "+": [
             [
+               "5252281",
+               1698851322
+            ],
+            [
                "8452537",
                1698849864
             ],
@@ -73821,8 +73825,8 @@
             ]
          ]
       },
-      "justified_rating": 3,
-      "justified_u_count": 3,
+      "justified_rating": 4,
+      "justified_u_count": 4,
       "justified_d_count": 0
    }
 }
