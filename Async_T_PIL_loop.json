@@ -116827,20 +116827,24 @@
       "created_at": "1698840227",
       "created_by": "6217438",
       "detailed_rating": {
-         "+": [],
-         "-": []
+         "+": [
+            [
+               "6217438",
+               1698840783
+            ]
+         ]
       },
       "fullname": "anthology-2023-hub",
       "hidden_tags": [],
       "id": "1451185784",
       "parent": null,
-      "rating": "0",
+      "rating": "1",
       "tags": [
          "en",
          "中心",
          "翻譯"
       ],
       "title": "驚選集2023中心頁",
-      "votes": "0"
+      "votes": "1"
    }
 }
