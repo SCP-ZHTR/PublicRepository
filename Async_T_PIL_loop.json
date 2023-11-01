@@ -114462,15 +114462,20 @@
       "created_at": "1696348800",
       "created_by": "7605593",
       "detailed_rating": {
-         "+": [],
-         "-": []
+         "+": [
+            [
+               "8792088",
+               1698848932
+            ]
+         ]
       },
       "fullname": "scp-3326-jp",
       "hidden_tags": [
          "_licensebox"
       ],
       "id": "1450299054",
-      "rating": "0",
+      "parent": null,
+      "rating": "1",
       "tags": [
          "jp",
          "safe",
@@ -114482,7 +114487,7 @@
          "資訊危害"
       ],
       "title": "SCP-3326-JP - 所期望的結局",
-      "votes": "0"
+      "votes": "1"
    },
    "1696348802": {
       "comments": "0",
