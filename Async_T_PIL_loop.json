@@ -3279,6 +3279,7 @@
       "parent": "essay-resource-hub",
       "rating": "0",
       "tags": [
+         "en",
          "合作",
          "翻譯",
          "資源"
@@ -116348,9 +116349,11 @@
          "_licensebox"
       ],
       "id": "1450851459",
+      "parent": null,
       "rating": "1",
       "tags": [
          "001提案",
+         "en",
          "isabel五世",
          "scp",
          "wondertainment博士",
@@ -116432,8 +116435,10 @@
          "_licensebox"
       ],
       "id": "1450858607",
+      "parent": null,
       "rating": "3",
       "tags": [
+         "en",
          "euclid",
          "scp",
          "動物",
@@ -116496,8 +116501,10 @@
          "_licensebox"
       ],
       "id": "1450873617",
+      "parent": null,
       "rating": "1",
       "tags": [
+         "en",
          "keter",
          "k級情景",
          "rights博士",
