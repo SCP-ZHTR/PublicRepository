@@ -110970,7 +110970,7 @@
       "votes": "3"
    },
    "1687826904": {
-      "comments": "0",
+      "comments": "1",
       "created_at": "1687826904",
       "created_by": "6217438",
       "detailed_rating": {
@@ -111008,6 +111008,7 @@
       "fullname": "scp-5555",
       "hidden_tags": [],
       "id": "1448641561",
+      "parent": null,
       "rating": "7",
       "tags": [
          "awcy",
