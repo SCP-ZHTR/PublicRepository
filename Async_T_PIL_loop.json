@@ -116978,14 +116978,18 @@
       "created_at": "1699003171",
       "created_by": "6217438",
       "detailed_rating": {
-         "+": [],
-         "-": []
+         "+": [
+            [
+               "6217438",
+               1699003523
+            ]
+         ]
       },
       "fullname": "scp-7819",
       "hidden_tags": [],
       "id": "1451265571",
       "parent": null,
-      "rating": "0",
+      "rating": "1",
       "tags": [
          "en",
          "keter",
@@ -116998,6 +117002,6 @@
          "翻譯"
       ],
       "title": "SCP-7819 - 無空",
-      "votes": "0"
+      "votes": "1"
    }
 }
