@@ -117027,19 +117027,23 @@
       "created_at": "1699013419",
       "created_by": "6217438",
       "detailed_rating": {
-         "+": [],
-         "-": []
+         "+": [
+            [
+               "6217438",
+               1699013657
+            ]
+         ]
       },
       "fullname": "scp-7719-ex",
       "hidden_tags": [],
       "id": "1451267306",
       "parent": null,
-      "rating": "0",
+      "rating": "1",
       "tags": [
          "en",
          "翻譯"
       ],
       "title": "SCP-7719-EX",
-      "votes": "0"
+      "votes": "1"
    }
 }
