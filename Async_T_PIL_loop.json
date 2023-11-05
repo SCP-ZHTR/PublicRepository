@@ -117176,14 +117176,18 @@
       "created_at": "1699197852",
       "created_by": "6217438",
       "detailed_rating": {
-         "+": [],
-         "-": []
+         "+": [
+            [
+               "6217438",
+               1699198163
+            ]
+         ]
       },
       "fullname": "scp-4972",
       "hidden_tags": [],
       "id": "1451310044",
       "parent": null,
-      "rating": "0",
+      "rating": "1",
       "tags": [
          "en",
          "scp",
@@ -117193,6 +117197,6 @@
          "翻譯"
       ],
       "title": "SCP-4972 - 有什麼不對勁",
-      "votes": "0"
+      "votes": "1"
    }
 }
