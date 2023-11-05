@@ -117146,20 +117146,24 @@
       "created_at": "1699183056",
       "created_by": "6217438",
       "detailed_rating": {
-         "+": [],
-         "-": []
+         "+": [
+            [
+               "6217438",
+               1699183406
+            ]
+         ]
       },
       "fullname": "deleted",
       "hidden_tags": [],
       "id": "1451307460",
       "parent": null,
-      "rating": "0",
+      "rating": "1",
       "tags": [
          "en",
          "中心",
          "翻譯"
       ],
       "title": "刪 除",
-      "votes": "0"
+      "votes": "1"
    }
 }
