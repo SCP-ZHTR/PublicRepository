@@ -57914,6 +57914,10 @@
       "detailed_rating": {
          "+": [
             [
+               "5252281",
+               1699181766
+            ],
+            [
                "6348157",
                1633017600
             ],
@@ -57949,8 +57953,8 @@
             ]
          ]
       },
-      "justified_rating": 6,
-      "justified_u_count": 7,
+      "justified_rating": 7,
+      "justified_u_count": 8,
       "justified_d_count": 1
    },
    "1632571612": {
