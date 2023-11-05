@@ -57048,13 +57048,18 @@
             [
                "5013754",
                1617120000
+            ],
+            [
+               "8418020",
+               1699146177
             ]
          ]
       },
       "fullname": "a-battlefield-without-emotion",
       "hidden_tags": [],
       "id": "1306814254",
-      "rating": "8",
+      "parent": null,
+      "rating": "9",
       "tags": [
          "2021冬季競賽",
          "semibreve博士",
@@ -57074,7 +57079,7 @@
          "雙城作戰"
       ],
       "title": "無面的沙場",
-      "votes": "8"
+      "votes": "9"
    },
    "1613241025": {
       "comments": "2",
