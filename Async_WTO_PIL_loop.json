@@ -10058,5 +10058,22 @@
       ],
       "title": "林中小屋",
       "votes": "1"
+   },
+   "1699249885": {
+      "comments": "0",
+      "created_at": "1699249885",
+      "created_by": "5325850",
+      "detailed_rating": {
+         "+": [],
+         "-": []
+      },
+      "fullname": "flash-fiction-collection-two",
+      "hidden_tags": [],
+      "id": "1451317757",
+      "parent": null,
+      "rating": "0",
+      "tags": [],
+      "title": "《極短篇合集》節錄之二",
+      "votes": "0"
    }
 }
