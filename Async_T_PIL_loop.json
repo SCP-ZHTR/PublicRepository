@@ -117291,14 +117291,22 @@
       "created_at": "1699283773",
       "created_by": "6217438",
       "detailed_rating": {
-         "+": [],
-         "-": []
+         "+": [
+            [
+               "6217438",
+               1699284238
+            ],
+            [
+               "6091157",
+               1699284238
+            ]
+         ]
       },
       "fullname": "scp-big-egg-j",
       "hidden_tags": [],
       "id": "1451323627",
       "parent": null,
-      "rating": "0",
+      "rating": "2",
       "tags": [
          "en",
          "keter",
@@ -117312,6 +117320,6 @@
          "食物"
       ],
       "title": "SCP-大 蛋",
-      "votes": "0"
+      "votes": "2"
    }
 }
