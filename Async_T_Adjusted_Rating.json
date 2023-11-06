@@ -18999,6 +18999,10 @@
       "detailed_rating": {
          "+": [
             [
+               "6217438",
+               1699279159
+            ],
+            [
                "4000297",
                1626019200
             ],
@@ -19016,8 +19020,8 @@
             ]
          ]
       },
-      "justified_rating": 4,
-      "justified_u_count": 4,
+      "justified_rating": 5,
+      "justified_u_count": 5,
       "justified_d_count": 0
    },
    "1586630731": {
@@ -74024,9 +74028,16 @@
       "justified_d_count": 0
    },
    "1699278699": {
-      "detailed_rating": {},
-      "justified_rating": 0,
-      "justified_u_count": 0,
+      "detailed_rating": {
+         "+": [
+            [
+               "6217438",
+               1699279159
+            ]
+         ]
+      },
+      "justified_rating": 1,
+      "justified_u_count": 1,
       "justified_d_count": 0
    }
 }
