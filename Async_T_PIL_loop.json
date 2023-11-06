@@ -117243,5 +117243,34 @@
       ],
       "title": "SCP-4972 - 有什麼不對勁",
       "votes": "6"
+   },
+   "1699278699": {
+      "comments": "0",
+      "created_at": "1699278699",
+      "created_by": "6217438",
+      "detailed_rating": {
+         "+": [],
+         "-": []
+      },
+      "fullname": "scp-5919",
+      "hidden_tags": [],
+      "id": "1451322795",
+      "parent": null,
+      "rating": "0",
+      "tags": [
+         "awcy",
+         "en",
+         "en-急迫競賽2020",
+         "mc&d",
+         "meta",
+         "scp",
+         "建築物",
+         "機密分級",
+         "翻譯",
+         "藝術性",
+         "資訊危害"
+      ],
+      "title": "5919號公寓",
+      "votes": "0"
    }
 }
