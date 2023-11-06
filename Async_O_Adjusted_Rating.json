@@ -91131,6 +91131,10 @@
       "detailed_rating": {
          "+": [
             [
+               "6690335",
+               1699279578
+            ],
+            [
                "6709715",
                1699271913
             ],
@@ -91148,8 +91152,8 @@
             ]
          ]
       },
-      "justified_rating": 4,
-      "justified_u_count": 4,
+      "justified_rating": 5,
+      "justified_u_count": 5,
       "justified_d_count": 0
    }
 }
