@@ -10064,16 +10064,20 @@
       "created_at": "1699283773",
       "created_by": "6217438",
       "detailed_rating": {
-         "+": [],
-         "-": []
+         "+": [
+            [
+               "6217438",
+               1699283926
+            ]
+         ]
       },
       "fullname": "scp-big-egg-j",
       "hidden_tags": [],
       "id": "1451323627",
       "parent": null,
-      "rating": "0",
+      "rating": "1",
       "tags": [],
       "title": "SCP-大 蛋",
-      "votes": "0"
+      "votes": "1"
    }
 }
