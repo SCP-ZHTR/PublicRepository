@@ -48383,6 +48383,10 @@
       "detailed_rating": {
          "+": [
             [
+               "8854072",
+               1699280147
+            ],
+            [
                "4264056",
                1617292800
             ],
@@ -48480,8 +48484,8 @@
             ]
          ]
       },
-      "justified_rating": 24,
-      "justified_u_count": 24,
+      "justified_rating": 25,
+      "justified_u_count": 25,
       "justified_d_count": 0
    },
    "1617253256": {
