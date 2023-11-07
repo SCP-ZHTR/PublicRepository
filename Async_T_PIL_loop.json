@@ -126638,8 +126638,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "5",
-      "votes": "5",
+      "rating": "6",
+      "votes": "6",
       "parent": null,
       "id": "1451307460",
       "detailed_rating": {
@@ -126663,12 +126663,16 @@
             [
                "5415046",
                1699352518
+            ],
+            [
+               "7504530",
+               1699353204
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 5,
-      "justified_votes": 5
+      "justified_rating": 6,
+      "justified_votes": 6
    },
    "1699197852": {
       "title": "SCP-4972 - 有什麼不對勁",
