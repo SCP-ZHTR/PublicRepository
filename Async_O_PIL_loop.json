@@ -121260,8 +121260,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "18",
-      "votes": "18",
+      "rating": "19",
+      "votes": "19",
       "parent": null,
       "id": "1451108834",
       "detailed_rating": {
@@ -121337,12 +121337,16 @@
             [
                "7852233",
                1698496818
+            ],
+            [
+               "5435485",
+               1699373118
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 18,
-      "justified_votes": 18
+      "justified_rating": 19,
+      "justified_votes": 19
    },
    "1698442686": {
       "title": "Lostwhat的提案貳",
@@ -122056,8 +122060,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "9",
-      "votes": "9",
+      "rating": "10",
+      "votes": "10",
       "parent": null,
       "id": "1451119436",
       "detailed_rating": {
@@ -122097,12 +122101,16 @@
             [
                "5338547",
                1698510194
+            ],
+            [
+               "5435485",
+               1699373118
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 9,
-      "justified_votes": 9
+      "justified_rating": 10,
+      "justified_votes": 10
    },
    "1698507569": {
       "title": "SCP-ZH-336 - 小撇步",
