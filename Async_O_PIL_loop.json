@@ -121706,8 +121706,8 @@
          "_licensebox"
       ],
       "comments": "1",
-      "rating": "10",
-      "votes": "10",
+      "rating": "11",
+      "votes": "11",
       "parent": null,
       "id": "1451118047",
       "detailed_rating": {
@@ -121751,12 +121751,16 @@
             [
                "5338547",
                1698510194
+            ],
+            [
+               "5435485",
+               1699373501
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 10,
-      "justified_votes": 10
+      "justified_rating": 11,
+      "justified_votes": 11
    },
    "1698498580": {
       "title": "永炎燐子研究員的提案一",
