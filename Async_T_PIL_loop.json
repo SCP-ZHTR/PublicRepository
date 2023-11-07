@@ -19,8 +19,8 @@
          "_禁黑"
       ],
       "comments": "2",
-      "rating": "13",
-      "votes": "15",
+      "rating": "12",
+      "votes": "14",
       "parent": null,
       "id": "638681548",
       "detailed_rating": {
@@ -74,10 +74,6 @@
                1617120000
             ],
             [
-               "5415046",
-               1699063995
-            ],
-            [
                "5225164",
                1617120000
             ]
@@ -90,8 +86,8 @@
          ]
       },
       "deleted": false,
-      "justified_rating": 14,
-      "justified_votes": 14
+      "justified_rating": 13,
+      "justified_votes": 13
    },
    "1552559904": {
       "title": "SCP-005 - 解構鑰匙",
@@ -126685,8 +126681,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "8",
-      "votes": "8",
+      "rating": "9",
+      "votes": "9",
       "parent": null,
       "id": "1451310044",
       "detailed_rating": {
@@ -126722,12 +126718,16 @@
             [
                "5415046",
                1699346440
+            ],
+            [
+               "7504530",
+               1699352173
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 8,
-      "justified_votes": 8
+      "justified_rating": 9,
+      "justified_votes": 9
    },
    "1699278699": {
       "title": "5919號公寓",
