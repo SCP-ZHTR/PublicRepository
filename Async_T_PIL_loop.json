@@ -126749,8 +126749,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "3",
-      "votes": "3",
+      "rating": "2",
+      "votes": "2",
       "parent": null,
       "id": "1451322795",
       "detailed_rating": {
@@ -126762,16 +126762,12 @@
             [
                "6217438",
                1699279159
-            ],
-            [
-               "5415046",
-               1699331705
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 3,
-      "justified_votes": 3
+      "justified_rating": 2,
+      "justified_votes": 2
    },
    "1699283773": {
       "title": "SCP-大 蛋",
