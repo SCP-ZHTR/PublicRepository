@@ -117808,8 +117808,8 @@
          "_禁黑"
       ],
       "comments": "1",
-      "rating": "15",
-      "votes": "17",
+      "rating": "16",
+      "votes": "18",
       "parent": null,
       "id": "1450048377",
       "detailed_rating": {
@@ -117877,6 +117877,10 @@
             [
                "5338547",
                1695624308
+            ],
+            [
+               "8543386",
+               1699359686
             ]
          ],
          "-": [
@@ -117887,8 +117891,8 @@
          ]
       },
       "deleted": false,
-      "justified_rating": 15,
-      "justified_votes": 17
+      "justified_rating": 16,
+      "justified_votes": 18
    },
    "1695128052": {
       "title": "SCP-ZH-710 - 玉山北峰引擎",
