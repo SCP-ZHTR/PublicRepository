@@ -121979,8 +121979,8 @@
       ],
       "hidden_tags": [],
       "comments": "3",
-      "rating": "11",
-      "votes": "11",
+      "rating": "10",
+      "votes": "12",
       "parent": null,
       "id": "1451118567",
       "detailed_rating": {
@@ -122029,11 +122029,17 @@
                "5338547",
                1698510194
             ]
+         ],
+         "-": [
+            [
+               "5435485",
+               1699373040
+            ]
          ]
       },
       "deleted": false,
-      "justified_rating": 11,
-      "justified_votes": 11
+      "justified_rating": 10,
+      "justified_votes": 12
    },
    "1698504350": {
       "title": "SCP-ZH-324 - 轉移裝置",
@@ -122111,8 +122117,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "6",
-      "votes": "6",
+      "rating": "5",
+      "votes": "7",
       "parent": null,
       "id": "1451120000",
       "detailed_rating": {
@@ -122141,11 +122147,17 @@
                "5338547",
                1698510194
             ]
+         ],
+         "-": [
+            [
+               "5435485",
+               1699373040
+            ]
          ]
       },
       "deleted": false,
-      "justified_rating": 6,
-      "justified_votes": 6
+      "justified_rating": 5,
+      "justified_votes": 7
    },
    "1698508383": {
       "title": "SCP-ZH-423 - 長滿毒瘡的小鳥",
@@ -122167,8 +122179,8 @@
          "_cc"
       ],
       "comments": "4",
-      "rating": "22",
-      "votes": "22",
+      "rating": "23",
+      "votes": "23",
       "parent": null,
       "id": "1451120156",
       "detailed_rating": {
@@ -122260,12 +122272,16 @@
             [
                "5338547",
                1698510194
+            ],
+            [
+               "5435485",
+               1699373040
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 22,
-      "justified_votes": 22
+      "justified_rating": 23,
+      "justified_votes": 23
    },
    "1698508591": {
       "title": "偽造的記憶",
