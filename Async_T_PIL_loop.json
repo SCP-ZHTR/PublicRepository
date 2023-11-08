@@ -90811,8 +90811,8 @@
          "_禁黑"
       ],
       "comments": "0",
-      "rating": "12",
-      "votes": "12",
+      "rating": "13",
+      "votes": "13",
       "parent": null,
       "id": "1402964688",
       "detailed_rating": {
@@ -90864,12 +90864,16 @@
             [
                "DELETED",
                1699423349
+            ],
+            [
+               "5415046",
+               1699433574
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 11,
-      "justified_votes": 11
+      "justified_rating": 12,
+      "justified_votes": 12
    },
    "1652945275": {
       "title": "SCP-5863 - 樸素神話",
