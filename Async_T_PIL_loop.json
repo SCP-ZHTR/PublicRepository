@@ -126892,20 +126892,13 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "1",
-      "votes": "1",
+      "rating": "0",
+      "votes": "0",
       "parent": null,
       "id": "1451348116",
-      "detailed_rating": {
-         "+": [
-            [
-               "5415046",
-               1699457003
-            ]
-         ]
-      },
+      "detailed_rating": {},
       "deleted": false,
-      "justified_rating": 1,
-      "justified_votes": 1
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
