@@ -11811,8 +11811,8 @@
          "_info"
       ],
       "comments": "0",
-      "rating": "12",
-      "votes": "12",
+      "rating": "13",
+      "votes": "13",
       "parent": null,
       "id": "846693861",
       "detailed_rating": {
@@ -11864,12 +11864,16 @@
             [
                "DELETED",
                "[UNKNOWN]"
+            ],
+            [
+               "6952002",
+               1699524490
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 11,
-      "justified_votes": 11
+      "justified_rating": 12,
+      "justified_votes": 12
    },
    "1563533879": {
       "title": "SCP-ZH-257 - 青花鼻煙壺",
