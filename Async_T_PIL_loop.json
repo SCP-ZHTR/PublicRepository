@@ -126940,14 +126940,29 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "0",
-      "votes": "0",
+      "rating": "3",
+      "votes": "3",
       "parent": null,
       "id": "1451355305",
-      "detailed_rating": {},
+      "detailed_rating": {
+         "+": [
+            [
+               "8404617",
+               1699548135
+            ],
+            [
+               "6217438",
+               1699548135
+            ],
+            [
+               "8177208",
+               1699548135
+            ]
+         ]
+      },
       "deleted": false,
-      "justified_rating": 0,
-      "justified_votes": 0
+      "justified_rating": 3,
+      "justified_votes": 3
    },
    "1699544811": {
       "title": "SCP-6272 - \u5148\u5146 II\uff1a\u5225\u7684\u6771\u897f",
@@ -126970,13 +126985,28 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "0",
-      "votes": "0",
+      "rating": "3",
+      "votes": "3",
       "parent": null,
       "id": "1451357246",
-      "detailed_rating": {},
+      "detailed_rating": {
+         "+": [
+            [
+               "6217438",
+               1699548135
+            ],
+            [
+               "6952002",
+               1699548135
+            ],
+            [
+               "5435485",
+               1699548135
+            ]
+         ]
+      },
       "deleted": false,
-      "justified_rating": 0,
-      "justified_votes": 0
+      "justified_rating": 3,
+      "justified_votes": 3
    }
 }
