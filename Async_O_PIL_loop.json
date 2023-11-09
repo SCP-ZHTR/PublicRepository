@@ -71696,8 +71696,8 @@
       ],
       "hidden_tags": [],
       "comments": "4",
-      "rating": "24",
-      "votes": "24",
+      "rating": "25",
+      "votes": "25",
       "parent": null,
       "id": "1312278424",
       "detailed_rating": {
@@ -71797,12 +71797,16 @@
             [
                "DELETED",
                "[UNKNOWN]"
+            ],
+            [
+               "8404617",
+               1699508732
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 22,
-      "justified_votes": 22
+      "justified_rating": 23,
+      "justified_votes": 23
    },
    "1625478522": {
       "title": "SCP-ZH-198 - 囚蜂",
