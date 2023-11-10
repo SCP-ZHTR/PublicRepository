@@ -115982,8 +115982,8 @@
          "_licensebox"
       ],
       "comments": "1",
-      "rating": "3",
-      "votes": "3",
+      "rating": "4",
+      "votes": "4",
       "parent": null,
       "id": "1447429778",
       "detailed_rating": {
@@ -115999,12 +115999,16 @@
             [
                "8033564",
                1681994995
+            ],
+            [
+               "6952002",
+               1699615382
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 3,
-      "justified_votes": 3
+      "justified_rating": 4,
+      "justified_votes": 4
    },
    "1681966230": {
       "title": "SCP-2602影像證據",
