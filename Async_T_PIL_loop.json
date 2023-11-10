@@ -10539,8 +10539,8 @@
          "_pulp-fiction"
       ],
       "comments": "0",
-      "rating": "11",
-      "votes": "11",
+      "rating": "12",
+      "votes": "12",
       "parent": null,
       "id": "802225723",
       "detailed_rating": {
@@ -10588,12 +10588,16 @@
             [
                "DELETED",
                "[UNKNOWN]"
+            ],
+            [
+               "8306051",
+               1699599732
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 10,
-      "justified_votes": 10
+      "justified_rating": 11,
+      "justified_votes": 11
    },
    "1559470314": {
       "title": "SCP-009 - 赤冰",
