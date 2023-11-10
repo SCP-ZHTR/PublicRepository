@@ -70331,8 +70331,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "5",
-      "votes": "5",
+      "rating": "6",
+      "votes": "6",
       "parent": null,
       "id": "1312502700",
       "detailed_rating": {
@@ -70356,12 +70356,16 @@
             [
                "5415046",
                1628006400
+            ],
+            [
+               "8306051",
+               1699601520
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 5,
-      "justified_votes": 5
+      "justified_rating": 6,
+      "justified_votes": 6
    },
    "1628173973": {
       "title": "物理部門外勤手冊摘錄第二部分：裝備與用具",
