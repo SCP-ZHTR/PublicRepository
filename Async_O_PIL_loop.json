@@ -120887,8 +120887,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "25",
-      "votes": "25",
+      "rating": "26",
+      "votes": "26",
       "parent": null,
       "id": "1450935260",
       "detailed_rating": {
@@ -120992,12 +120992,16 @@
             [
                "5338547",
                1698377312
+            ],
+            [
+               "8306051",
+               1699678465
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 25,
-      "justified_votes": 25
+      "justified_rating": 26,
+      "justified_votes": 26
    },
    "1698320758": {
       "title": "SCP-ZH-367 - 神聖干預讓你大豐收",
@@ -121392,8 +121396,8 @@
          "_cc"
       ],
       "comments": "3",
-      "rating": "26",
-      "votes": "26",
+      "rating": "27",
+      "votes": "27",
       "parent": null,
       "id": "1451109539",
       "detailed_rating": {
@@ -121501,12 +121505,16 @@
             [
                "6141493",
                1698853164
+            ],
+            [
+               "8306051",
+               1699678465
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 26,
-      "justified_votes": 26
+      "justified_rating": 27,
+      "justified_votes": 27
    },
    "1698471756": {
       "title": "SCP-ZH-146 - 春日",
@@ -122727,5 +122735,27 @@
       "deleted": false,
       "justified_rating": 5,
       "justified_votes": 5
+   },
+   "1699672272": {
+      "title": "維安設施檔案：Site-ZH-11",
+      "fullname": "site-zh-11",
+      "created_at": "1699672272",
+      "created_by": "7605593",
+      "tags": [
+         "site-zh-11",
+         "中心",
+         "原創",
+         "站點"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1451365239",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
