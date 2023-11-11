@@ -127140,7 +127140,7 @@
       "justified_votes": 1
    },
    "1699674495": {
-      "title": "SCP-3071 - 一根超香蕉",
+      "title": "SCP-3071 - EX香蕉",
       "fullname": "scp-3071",
       "created_at": "1699674495",
       "created_by": "6217438",
@@ -127219,13 +127219,24 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "0",
-      "votes": "0",
+      "rating": "2",
+      "votes": "2",
       "parent": null,
       "id": "1451366936",
-      "detailed_rating": {},
+      "detailed_rating": {
+         "+": [
+            [
+               "6217438",
+               1699695930
+            ],
+            [
+               "8543386",
+               1699695930
+            ]
+         ]
+      },
       "deleted": false,
-      "justified_rating": 0,
-      "justified_votes": 0
+      "justified_rating": 2,
+      "justified_votes": 2
    }
 }
