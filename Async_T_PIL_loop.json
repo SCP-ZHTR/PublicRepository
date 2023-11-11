@@ -127173,5 +127173,28 @@
       "deleted": false,
       "justified_rating": 3,
       "justified_votes": 3
+   },
+   "1699686042": {
+      "title": "暴雪東境",
+      "fullname": "wanderers:a-blizzard-winterland",
+      "created_at": "1699686042",
+      "created_by": "4357011",
+      "tags": [
+         "en",
+         "entry",
+         "wanderers",
+         "yuletide",
+         "翻譯"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1451366439",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
