@@ -127067,5 +127067,82 @@
       "deleted": false,
       "justified_rating": 2,
       "justified_votes": 2
+   },
+   "1699624284": {
+      "title": "SCP-3393 - 僅供汝閱",
+      "fullname": "scp-3393",
+      "created_at": "1699624284",
+      "created_by": "6217438",
+      "tags": [
+         "en",
+         "euclid",
+         "marion-wheeler",
+         "meta",
+         "scp",
+         "翻譯",
+         "逆模因"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1451362643",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
+   },
+   "1699668883": {
+      "title": "SCP-5871 - 因果逆行之刀",
+      "fullname": "scp-5871",
+      "created_at": "1699668883",
+      "created_by": "6217438",
+      "tags": [
+         "en",
+         "en-急迫競賽2021",
+         "scp",
+         "thaumiel",
+         "儀式性",
+         "基金會製造",
+         "悖論",
+         "時間影響",
+         "武器",
+         "翻譯"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1451365074",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
+   },
+   "1699674495": {
+      "title": "SCP-3071 - 一根超香蕉",
+      "fullname": "scp-3071",
+      "created_at": "1699674495",
+      "created_by": "6217438",
+      "tags": [
+         "en",
+         "scp",
+         "無效化",
+         "翻譯",
+         "變形",
+         "食物"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1451365388",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
