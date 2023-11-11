@@ -68100,8 +68100,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "4",
-      "votes": "4",
+      "rating": "5",
+      "votes": "5",
       "parent": null,
       "id": "1312125621",
       "detailed_rating": {
@@ -68121,12 +68121,16 @@
             [
                "DELETED",
                1692799965
+            ],
+            [
+               "8854072",
+               1699692140
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 3,
-      "justified_votes": 3
+      "justified_rating": 4,
+      "justified_votes": 4
    },
    "1624172149": {
       "title": "SCP-5721 - 信仰在數字時代",
