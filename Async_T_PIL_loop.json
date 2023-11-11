@@ -127242,5 +127242,31 @@
       "deleted": false,
       "justified_rating": 3,
       "justified_votes": 3
+   },
+   "1699713006": {
+      "title": "SCP-549 - 小熊",
+      "fullname": "scp-549",
+      "created_at": "1699713006",
+      "created_by": "6503482",
+      "tags": [
+         "en",
+         "euclid",
+         "scp",
+         "wondertainment博士",
+         "動物",
+         "活物",
+         "熊類",
+         "翻譯"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1451367812",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
