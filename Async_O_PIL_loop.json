@@ -111750,8 +111750,8 @@
          "_cc"
       ],
       "comments": "2",
-      "rating": "6",
-      "votes": "8",
+      "rating": "7",
+      "votes": "7",
       "parent": null,
       "id": "1447213786",
       "detailed_rating": {
@@ -111784,17 +111784,11 @@
                "DELETED",
                1695206965
             ]
-         ],
-         "-": [
-            [
-               "6981058",
-               1681112854
-            ]
          ]
       },
       "deleted": false,
-      "justified_rating": 5,
-      "justified_votes": 7
+      "justified_rating": 6,
+      "justified_votes": 6
    },
    "1681014194": {
       "title": "SCP-ZH-362 - 物理實驗教具第二版",
@@ -112380,8 +112374,8 @@
          "_禁黑"
       ],
       "comments": "7",
-      "rating": "19",
-      "votes": "21",
+      "rating": "20",
+      "votes": "20",
       "parent": null,
       "id": "1447746472",
       "detailed_rating": {
@@ -112466,17 +112460,11 @@
                "DELETED",
                1685979115
             ]
-         ],
-         "-": [
-            [
-               "6981058",
-               1684211371
-            ]
          ]
       },
       "deleted": false,
-      "justified_rating": 18,
-      "justified_votes": 20
+      "justified_rating": 19,
+      "justified_votes": 19
    },
    "1684837513": {
       "title": "SCP-ZH-625 - 鬱藍逆夢",
