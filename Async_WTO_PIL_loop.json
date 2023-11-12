@@ -11022,5 +11022,25 @@
       "deleted": true,
       "justified_rating": 0,
       "justified_votes": 0
+   },
+   "1699804332": {
+      "title": "《極短篇合集》節錄之三",
+      "fullname": "flash-fiction-collection-three",
+      "created_at": "1699804332",
+      "created_by": "6709715",
+      "tags": [
+         "wanderers",
+         "故事"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1451381298",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
