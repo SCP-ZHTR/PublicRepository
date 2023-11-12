@@ -11034,13 +11034,24 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "0",
-      "votes": "0",
+      "rating": "2",
+      "votes": "2",
       "parent": null,
       "id": "1451381298",
-      "detailed_rating": {},
+      "detailed_rating": {
+         "+": [
+            [
+               "8404617",
+               1699804829
+            ],
+            [
+               "7521095",
+               1699804829
+            ]
+         ]
+      },
       "deleted": false,
-      "justified_rating": 0,
-      "justified_votes": 0
+      "justified_rating": 2,
+      "justified_votes": 2
    }
 }
