@@ -127227,8 +127227,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "5",
-      "votes": "5",
+      "rating": "6",
+      "votes": "6",
       "parent": null,
       "id": "1451366936",
       "detailed_rating": {
@@ -127252,12 +127252,16 @@
             [
                "5956873",
                1699777351
+            ],
+            [
+               "4990678",
+               1699789226
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 5,
-      "justified_votes": 5
+      "justified_rating": 6,
+      "justified_votes": 6
    },
    "1699713006": {
       "title": "SCP-549 - 小熊",
