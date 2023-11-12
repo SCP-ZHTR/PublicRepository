@@ -127284,5 +127284,31 @@
       "deleted": false,
       "justified_rating": 0,
       "justified_votes": 0
+   },
+   "1699785937": {
+      "title": "SCP-6511 - 遺忘存取",
+      "fullname": "scp-6511",
+      "created_at": "1699785937",
+      "created_by": "6217438",
+      "tags": [
+         "departmentcon2022 en",
+         "k級情景",
+         "scp",
+         "thaumiel",
+         "合著",
+         "文獻",
+         "概念",
+         "翻譯"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1451376795",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
