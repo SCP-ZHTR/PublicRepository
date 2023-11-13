@@ -127060,8 +127060,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "2",
-      "votes": "2",
+      "rating": "3",
+      "votes": "3",
       "parent": null,
       "id": "1451362191",
       "detailed_rating": {
@@ -127073,12 +127073,16 @@
             [
                "6952002",
                1699618604
+            ],
+            [
+               "5415046",
+               1699853622
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 2,
-      "justified_votes": 2
+      "justified_rating": 3,
+      "justified_votes": 3
    },
    "1699624284": {
       "title": "SCP-3393 - 僅供汝閱",
