@@ -127344,5 +127344,31 @@
       "deleted": false,
       "justified_rating": 3,
       "justified_votes": 3
+   },
+   "1699868255": {
+      "title": "SCP-5894 - 亞拉之光",
+      "fullname": "scp-5894",
+      "created_at": "1699868255",
+      "created_by": "6217438",
+      "tags": [
+         "en",
+         "safe",
+         "scp",
+         "光照影響",
+         "屍體",
+         "歷史性",
+         "翻譯",
+         "聲音"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1451389650",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
