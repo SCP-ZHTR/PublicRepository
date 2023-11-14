@@ -122892,5 +122892,25 @@
       "deleted": false,
       "justified_rating": 7,
       "justified_votes": 7
+   },
+   "1699962061": {
+      "title": "藝術創作：SCP-ZH-086-1",
+      "fullname": "art-of-scp-zh-086-1",
+      "created_at": "1699962061",
+      "created_by": "5013754",
+      "tags": [
+         "原創",
+         "藝術作品"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1451398384",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
