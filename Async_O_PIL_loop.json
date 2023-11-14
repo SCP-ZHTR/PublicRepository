@@ -88180,8 +88180,8 @@
          "_檢查"
       ],
       "comments": "2",
-      "rating": "21",
-      "votes": "25",
+      "rating": "22",
+      "votes": "26",
       "parent": null,
       "id": "1331815734",
       "detailed_rating": {
@@ -88277,6 +88277,10 @@
             [
                "DELETED",
                1695270056
+            ],
+            [
+               "8854072",
+               1699964687
             ]
          ],
          "-": [
@@ -88291,8 +88295,8 @@
          ]
       },
       "deleted": false,
-      "justified_rating": 21,
-      "justified_votes": 23
+      "justified_rating": 22,
+      "justified_votes": 24
    },
    "1646312012": {
       "title": "墮天使的祈願",
