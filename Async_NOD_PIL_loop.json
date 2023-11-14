@@ -23535,8 +23535,8 @@
       "justified_votes": 0
    },
    "1699968074": {
-      "title": "類型與主題",
-      "fullname": "fragment:genre-and-theme",
+      "title": "類型與主題標籤",
+      "fullname": "fragment:genre-and-theme-tag",
       "created_at": "1699968074",
       "created_by": "5415046",
       "tags": [],
