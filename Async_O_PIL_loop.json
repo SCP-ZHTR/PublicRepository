@@ -49785,8 +49785,8 @@
          "_威爾遜生物應對組-goi格式"
       ],
       "comments": "2",
-      "rating": "25",
-      "votes": "25",
+      "rating": "26",
+      "votes": "26",
       "parent": null,
       "id": "1267859415",
       "detailed_rating": {
@@ -49890,12 +49890,16 @@
             [
                "4351112",
                1617120000
+            ],
+            [
+               "8404617",
+               1699921889
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 25,
-      "justified_votes": 25
+      "justified_rating": 26,
+      "justified_votes": 26
    },
    "1599546675": {
       "title": "台灣鐵道飯店的安布羅斯餐廳",
