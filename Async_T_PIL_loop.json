@@ -127412,5 +127412,34 @@
       "deleted": false,
       "justified_rating": 3,
       "justified_votes": 3
+   },
+   "1700065452": {
+      "title": "SCP-040 - 異變之子",
+      "fullname": "scp-040",
+      "created_at": "1700065452",
+      "created_by": "8452537",
+      "tags": [
+         "en",
+         "euclid",
+         "scp",
+         "人形",
+         "反熵",
+         "感知力",
+         "智能",
+         "活物",
+         "翻譯",
+         "變形",
+         "重寫"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1451405145",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
