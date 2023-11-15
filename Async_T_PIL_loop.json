@@ -122508,8 +122508,8 @@
          "_licensebox"
       ],
       "comments": "0",
-      "rating": "3",
-      "votes": "3",
+      "rating": "4",
+      "votes": "4",
       "parent": null,
       "id": "1449851340",
       "detailed_rating": {
@@ -122525,12 +122525,16 @@
             [
                "5435485",
                1693834934
+            ],
+            [
+               "8854072",
+               1700045672
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 3,
-      "justified_votes": 3
+      "justified_rating": 4,
+      "justified_votes": 4
    },
    "1693901556": {
       "title": "SCP-870 - 莫須有怪",
