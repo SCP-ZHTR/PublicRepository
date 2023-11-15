@@ -122939,5 +122939,33 @@
       "deleted": false,
       "justified_rating": 4,
       "justified_votes": 4
+   },
+   "1700060641": {
+      "title": "SCP-ZH-206 - 非旅行者",
+      "fullname": "scp-zh-206",
+      "created_at": "1700060641",
+      "created_by": "5415046",
+      "tags": [
+         "euclid",
+         "scp",
+         "人形",
+         "原創",
+         "感知力",
+         "智能",
+         "機器人",
+         "活物",
+         "精神影響",
+         "逆模因"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1451404798",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
