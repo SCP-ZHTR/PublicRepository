@@ -117895,8 +117895,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "3",
-      "votes": "3",
+      "rating": "4",
+      "votes": "4",
       "parent": null,
       "id": "1447756539",
       "detailed_rating": {
@@ -117912,12 +117912,16 @@
             [
                "2960074",
                1684414837
+            ],
+            [
+               "8854072",
+               1700140177
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 3,
-      "justified_votes": 3
+      "justified_rating": 4,
+      "justified_votes": 4
    },
    "1684414500": {
       "title": "SCP-1425解密",
