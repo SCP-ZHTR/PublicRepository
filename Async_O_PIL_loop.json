@@ -120039,8 +120039,8 @@
          "_cc"
       ],
       "comments": "1",
-      "rating": "10",
-      "votes": "10",
+      "rating": "11",
+      "votes": "11",
       "parent": null,
       "id": "1450386080",
       "detailed_rating": {
@@ -120084,12 +120084,16 @@
             [
                "7852233",
                1696574982
+            ],
+            [
+               "5987568",
+               1700147941
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 10,
-      "justified_votes": 10
+      "justified_rating": 11,
+      "justified_votes": 11
    },
    "1696852992": {
       "title": "回收資料：GoI-2018-R0320「芬羅西亞島」",
