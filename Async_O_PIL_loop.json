@@ -122912,8 +122912,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "4",
-      "votes": "4",
+      "rating": "5",
+      "votes": "5",
       "parent": "scp-zh-086",
       "id": "1451398384",
       "detailed_rating": {
@@ -122933,12 +122933,16 @@
             [
                "5251681",
                1699990807
+            ],
+            [
+               "7513990",
+               1700126809
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 4,
-      "justified_votes": 4
+      "justified_rating": 5,
+      "justified_votes": 5
    },
    "1700060641": {
       "title": "SCP-ZH-206 - 非旅行者",
