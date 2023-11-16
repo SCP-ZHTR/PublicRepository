@@ -17463,8 +17463,8 @@
          "_info"
       ],
       "comments": "0",
-      "rating": "2",
-      "votes": "4",
+      "rating": "3",
+      "votes": "5",
       "parent": null,
       "id": "859912890",
       "detailed_rating": {
@@ -17480,6 +17480,10 @@
             [
                "DELETED",
                "[UNKNOWN]"
+            ],
+            [
+               "8849988",
+               1700130353
             ]
          ],
          "-": [
@@ -17490,8 +17494,8 @@
          ]
       },
       "deleted": false,
-      "justified_rating": 1,
-      "justified_votes": 3
+      "justified_rating": 2,
+      "justified_votes": 4
    },
    "1566878349": {
       "title": "各位！Gears絕對不是一個機器人",
