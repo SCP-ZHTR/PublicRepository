@@ -127452,5 +127452,28 @@
       "deleted": false,
       "justified_rating": 0,
       "justified_votes": 0
+   },
+   "1700133211": {
+      "title": "SCP-173 但是是告誡中心頁",
+      "fullname": "scp-173-but-it-s-the-admonition-hub",
+      "created_at": "1700133211",
+      "created_by": "6217438",
+      "tags": [
+         "en",
+         "塑像173",
+         "搞笑",
+         "故事",
+         "翻譯"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1451409983",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
