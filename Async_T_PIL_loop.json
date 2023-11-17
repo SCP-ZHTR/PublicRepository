@@ -122692,8 +122692,8 @@
          "_禁黑"
       ],
       "comments": "7",
-      "rating": "5",
-      "votes": "5",
+      "rating": "6",
+      "votes": "6",
       "parent": null,
       "id": "1449968384",
       "detailed_rating": {
@@ -122717,12 +122717,16 @@
             [
                "5013754",
                1695774325
+            ],
+            [
+               "6217438",
+               1700218149
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 5,
-      "justified_votes": 5
+      "justified_rating": 6,
+      "justified_votes": 6
    },
    "1694584286": {
       "title": "SCP-3823-JP - 蝸角至孝",
@@ -127368,8 +127372,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "3",
-      "votes": "3",
+      "rating": "4",
+      "votes": "4",
       "parent": null,
       "id": "1451376795",
       "detailed_rating": {
@@ -127385,12 +127389,16 @@
             [
                "6981058",
                1699805087
+            ],
+            [
+               "4990678",
+               1700218149
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 3,
-      "justified_votes": 3
+      "justified_rating": 4,
+      "justified_votes": 4
    },
    "1699868255": {
       "title": "SCP-5894 - 亞拉之光",
