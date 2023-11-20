@@ -122193,8 +122193,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "5",
-      "votes": "7",
+      "rating": "4",
+      "votes": "8",
       "parent": null,
       "id": "1451120000",
       "detailed_rating": {
@@ -122228,12 +122228,16 @@
             [
                "5435485",
                1699373040
+            ],
+            [
+               "8792088",
+               1700467906
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 5,
-      "justified_votes": 7
+      "justified_rating": 4,
+      "justified_votes": 8
    },
    "1698508383": {
       "title": "SCP-ZH-423 - 長滿毒瘡的小鳥",
