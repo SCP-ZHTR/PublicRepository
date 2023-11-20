@@ -90452,8 +90452,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "3",
-      "votes": "3",
+      "rating": "4",
+      "votes": "4",
       "parent": null,
       "id": "1402924777",
       "detailed_rating": {
@@ -90469,12 +90469,16 @@
             [
                "DELETED",
                1693902904
+            ],
+            [
+               "8792088",
+               1700465333
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 2,
-      "justified_votes": 2
+      "justified_rating": 3,
+      "justified_votes": 3
    },
    "1652665751": {
       "title": "SCP-3373 - 我們所處的整個宇宙都處於熱稠密狀態",
