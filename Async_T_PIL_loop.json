@@ -127514,8 +127514,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "5",
-      "votes": "5",
+      "rating": "6",
+      "votes": "6",
       "parent": null,
       "id": "1451409983",
       "detailed_rating": {
@@ -127539,12 +127539,16 @@
             [
                "6952002",
                1700135118
+            ],
+            [
+               "7504530",
+               1700543890
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 5,
-      "justified_votes": 5
+      "justified_rating": 6,
+      "justified_votes": 6
    },
    "1700223229": {
       "title": "SCP-6874 - 墮落偶像",
