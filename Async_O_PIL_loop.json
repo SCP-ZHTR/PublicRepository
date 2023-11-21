@@ -15348,8 +15348,8 @@
          "_info"
       ],
       "comments": "0",
-      "rating": "7",
-      "votes": "7",
+      "rating": "8",
+      "votes": "8",
       "parent": null,
       "id": "858351417",
       "detailed_rating": {
@@ -15381,12 +15381,16 @@
             [
                "DELETED",
                "[UNKNOWN]"
+            ],
+            [
+               "8792088",
+               1700553761
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 6,
-      "justified_votes": 6
+      "justified_rating": 7,
+      "justified_votes": 7
    },
    "1566307632": {
       "title": "SCP-ZH-139 - 造物巨人",
