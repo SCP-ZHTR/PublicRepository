@@ -54765,8 +54765,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "6",
-      "votes": "6",
+      "rating": "7",
+      "votes": "7",
       "parent": null,
       "id": "1306756223",
       "detailed_rating": {
@@ -54794,12 +54794,16 @@
             [
                "7226401",
                1617120000
+            ],
+            [
+               "8543386",
+               1700562464
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 6,
-      "justified_votes": 6
+      "justified_rating": 7,
+      "justified_votes": 7
    },
    "1612407782": {
       "title": "外星娘的同居日常",
