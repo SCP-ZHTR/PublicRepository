@@ -104835,8 +104835,8 @@
          "_licensebox"
       ],
       "comments": "0",
-      "rating": "12",
-      "votes": "12",
+      "rating": "13",
+      "votes": "13",
       "parent": null,
       "id": "1437454195",
       "detailed_rating": {
@@ -104888,12 +104888,16 @@
             [
                "DELETED",
                1697685495
+            ],
+            [
+               "7840542",
+               1700529500
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 11,
-      "justified_votes": 11
+      "justified_rating": 12,
+      "justified_votes": 12
    },
    "1669564143": {
       "title": "Atzak I",
