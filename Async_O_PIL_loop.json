@@ -49124,8 +49124,8 @@
          "_cc"
       ],
       "comments": "3",
-      "rating": "20",
-      "votes": "22",
+      "rating": "21",
+      "votes": "23",
       "parent": null,
       "id": "1267810071",
       "detailed_rating": {
@@ -49213,6 +49213,10 @@
             [
                "8792088",
                1700548329
+            ],
+            [
+               "8452537",
+               1700566584
             ]
          ],
          "-": [
@@ -49223,8 +49227,8 @@
          ]
       },
       "deleted": false,
-      "justified_rating": 20,
-      "justified_votes": 22
+      "justified_rating": 21,
+      "justified_votes": 23
    },
    "1598782713": {
       "title": "穹頂之下的那人",
