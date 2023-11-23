@@ -122067,8 +122067,8 @@
       ],
       "hidden_tags": [],
       "comments": "3",
-      "rating": "10",
-      "votes": "12",
+      "rating": "11",
+      "votes": "13",
       "parent": null,
       "id": "1451118567",
       "detailed_rating": {
@@ -122116,6 +122116,10 @@
             [
                "5338547",
                1698510194
+            ],
+            [
+               "7840542",
+               1700705646
             ]
          ],
          "-": [
@@ -122126,8 +122130,8 @@
          ]
       },
       "deleted": false,
-      "justified_rating": 10,
-      "justified_votes": 12
+      "justified_rating": 11,
+      "justified_votes": 13
    },
    "1698504350": {
       "title": "SCP-ZH-324 - 轉移裝置",
