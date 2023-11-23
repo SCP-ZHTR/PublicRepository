@@ -126570,8 +126570,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "8",
-      "votes": "8",
+      "rating": "9",
+      "votes": "9",
       "parent": null,
       "id": "1451186895",
       "detailed_rating": {
@@ -126607,12 +126607,16 @@
             [
                "5435485",
                1698849864
+            ],
+            [
+               "8543386",
+               1700704196
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 8,
-      "justified_votes": 8
+      "justified_rating": 9,
+      "justified_votes": 9
    },
    "1699003171": {
       "title": "SCP-7819 - 無空",
