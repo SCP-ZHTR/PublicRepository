@@ -116747,8 +116747,8 @@
          "_licensebox"
       ],
       "comments": "1",
-      "rating": "0",
-      "votes": "6",
+      "rating": "1",
+      "votes": "7",
       "parent": null,
       "id": "1449608829",
       "detailed_rating": {
@@ -116764,6 +116764,10 @@
             [
                "6503482",
                1693321941
+            ],
+            [
+               "7840542",
+               1700789291
             ]
          ],
          "-": [
@@ -116782,8 +116786,8 @@
          ]
       },
       "deleted": false,
-      "justified_rating": 0,
-      "justified_votes": 6
+      "justified_rating": 1,
+      "justified_votes": 7
    },
    "1693319819": {
       "title": "SCP-ZH-303 - 炙熱",
