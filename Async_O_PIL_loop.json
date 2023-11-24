@@ -115506,8 +115506,8 @@
       ],
       "hidden_tags": [],
       "comments": "2",
-      "rating": "7",
-      "votes": "7",
+      "rating": "8",
+      "votes": "8",
       "parent": null,
       "id": "1449268421",
       "detailed_rating": {
@@ -115539,12 +115539,16 @@
             [
                "8543386",
                1691200378
+            ],
+            [
+               "5701756",
+               1700797473
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 7,
-      "justified_votes": 7
+      "justified_rating": 8,
+      "justified_votes": 8
    },
    "1691343317": {
       "title": "SCP-ZH-158 - 我不信賴普拿疼",
