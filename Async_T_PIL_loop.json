@@ -127743,5 +127743,33 @@
       "deleted": false,
       "justified_rating": 2,
       "justified_votes": 2
+   },
+   "1700829591": {
+      "title": "SCP-7108 - 冒泡與搖晃",
+      "fullname": "scp-7108",
+      "created_at": "1700829591",
+      "created_by": "4357011",
+      "tags": [
+         "en",
+         "euclid",
+         "scp",
+         "人形",
+         "化學性",
+         "智能",
+         "氣體",
+         "活物",
+         "液體",
+         "翻譯"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1451521719",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
