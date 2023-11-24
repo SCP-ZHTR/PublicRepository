@@ -11176,5 +11176,22 @@
       "deleted": true,
       "justified_rating": 0,
       "justified_votes": 0
+   },
+   "1700829591": {
+      "title": "SCP-7108 - 冒泡與搖晃",
+      "fullname": "scp-7108",
+      "created_at": "1700829591",
+      "created_by": "4357011",
+      "tags": [],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1451521719",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
