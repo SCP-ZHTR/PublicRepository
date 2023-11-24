@@ -121660,8 +121660,8 @@
          "_禁黑"
       ],
       "comments": "1",
-      "rating": "5",
-      "votes": "5",
+      "rating": "6",
+      "votes": "6",
       "parent": null,
       "id": "1449383939",
       "detailed_rating": {
@@ -121685,12 +121685,16 @@
             [
                "8480087",
                1691943910
+            ],
+            [
+               "8854072",
+               1700838418
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 5,
-      "justified_votes": 5
+      "justified_rating": 6,
+      "justified_votes": 6
    },
    "1691998641": {
       "title": "SCP-800 - 一段東方歷史",
