@@ -70376,8 +70376,8 @@
       ],
       "hidden_tags": [],
       "comments": "3",
-      "rating": "12",
-      "votes": "12",
+      "rating": "13",
+      "votes": "13",
       "parent": null,
       "id": "1312044643",
       "detailed_rating": {
@@ -70429,12 +70429,16 @@
             [
                "DELETED",
                1695271138
+            ],
+            [
+               "8854072",
+               1700901987
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 11,
-      "justified_votes": 11
+      "justified_rating": 12,
+      "justified_votes": 12
    },
    "1623500429": {
       "title": "中華民國國家安全局第八處 中心頁",
