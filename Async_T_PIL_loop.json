@@ -127736,8 +127736,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "4",
-      "votes": "4",
+      "rating": "5",
+      "votes": "5",
       "parent": null,
       "id": "1451488456",
       "detailed_rating": {
@@ -127757,12 +127757,16 @@
             [
                "7504530",
                1700902497
+            ],
+            [
+               "6091157",
+               1700909539
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 4,
-      "justified_votes": 4
+      "justified_rating": 5,
+      "justified_votes": 5
    },
    "1700829591": {
       "title": "SCP-7108 - 冒泡與搖晃",
@@ -127783,13 +127787,20 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "0",
-      "votes": "0",
+      "rating": "1",
+      "votes": "1",
       "parent": null,
       "id": "1451521719",
-      "detailed_rating": {},
+      "detailed_rating": {
+         "+": [
+            [
+               "6217438",
+               1700909539
+            ]
+         ]
+      },
       "deleted": false,
-      "justified_rating": 0,
-      "justified_votes": 0
+      "justified_rating": 1,
+      "justified_votes": 1
    }
 }
