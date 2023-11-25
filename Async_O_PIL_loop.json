@@ -63358,8 +63358,8 @@
       ],
       "hidden_tags": [],
       "comments": "5",
-      "rating": "36",
-      "votes": "36",
+      "rating": "37",
+      "votes": "37",
       "parent": null,
       "id": "1307408807",
       "detailed_rating": {
@@ -63507,12 +63507,16 @@
             [
                "6678442",
                1617120000
+            ],
+            [
+               "8418020",
+               1700931780
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 36,
-      "justified_votes": 36
+      "justified_rating": 37,
+      "justified_votes": 37
    },
    "1615980834": {
       "title": "SCP-ZH-496 - 安全極限距離",
