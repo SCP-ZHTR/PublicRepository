@@ -61852,8 +61852,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "8",
-      "votes": "8",
+      "rating": "9",
+      "votes": "9",
       "parent": null,
       "id": "1308618213",
       "detailed_rating": {
@@ -61889,12 +61889,16 @@
             [
                "5435485",
                1618675200
+            ],
+            [
+               "8854072",
+               1700902120
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 8,
-      "justified_votes": 8
+      "justified_rating": 9,
+      "justified_votes": 9
    },
    "1618654821": {
       "title": "SCP-5004 - 狂妄之徒",
