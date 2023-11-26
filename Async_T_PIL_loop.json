@@ -120663,8 +120663,8 @@
          "_licensebox"
       ],
       "comments": "0",
-      "rating": "8",
-      "votes": "8",
+      "rating": "9",
+      "votes": "9",
       "parent": null,
       "id": "1448713055",
       "detailed_rating": {
@@ -120700,12 +120700,16 @@
             [
                "5415046",
                1688226991
+            ],
+            [
+               "5338547",
+               1701000836
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 8,
-      "justified_votes": 8
+      "justified_rating": 9,
+      "justified_votes": 9
    },
    "1688439460": {
       "title": "呂墨菲之……呂墨菲中心頁！",
