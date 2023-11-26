@@ -95287,7 +95287,7 @@
             ]
          ]
       },
-      "deleted": false,
+      "deleted": true,
       "justified_rating": 9,
       "justified_votes": 9
    },
@@ -95307,7 +95307,7 @@
       "comments": "0",
       "rating": "10",
       "votes": "10",
-      "parent": "scp-zh-330",
+      "parent": "deleted:scp-zh-330-rewrite",
       "id": "1403494883",
       "detailed_rating": {
          "+": [
