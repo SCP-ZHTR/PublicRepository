@@ -127806,5 +127806,31 @@
       "deleted": false,
       "justified_rating": 1,
       "justified_votes": 1
+   },
+   "1700986152": {
+      "title": "SCP-021-J - 邪惡 :(",
+      "fullname": "scp-021-j",
+      "created_at": "1700986152",
+      "created_by": "8543386",
+      "tags": [
+         "en",
+         "scp",
+         "人造物品",
+         "搞笑",
+         "未收容",
+         "機密分級",
+         "液體",
+         "翻譯"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1451544916",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
