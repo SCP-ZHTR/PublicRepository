@@ -23817,8 +23817,8 @@
          "_禁黑"
       ],
       "comments": "1",
-      "rating": "9",
-      "votes": "9",
+      "rating": "10",
+      "votes": "10",
       "parent": null,
       "id": "1403494880",
       "detailed_rating": {
@@ -23858,12 +23858,16 @@
             [
                "5338547",
                1700996794
+            ],
+            [
+               "4291435",
+               1701004932
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 9,
-      "justified_votes": 9
+      "justified_rating": 10,
+      "justified_votes": 10
    },
    "1655138022": {
       "title": "維安事故ZH-330-2",
