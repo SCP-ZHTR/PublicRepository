@@ -23802,5 +23802,64 @@
       "deleted": false,
       "justified_rating": 0,
       "justified_votes": 0
+   },
+   "1655137992": {
+      "title": "SCP-ZH-330 - 舊日的記憶樂章",
+      "fullname": "deleted:scp-zh-330-rewrite",
+      "created_at": "1655137992",
+      "created_by": "5435485",
+      "tags": [
+         "euclid",
+         "scp",
+         "site-zh-44",
+         "surge博士",
+         "人造物品",
+         "共感",
+         "原創",
+         "幻覺",
+         "心靈感應",
+         "感知影響",
+         "本質促動",
+         "聽覺影響",
+         "記憶影響",
+         "音樂性"
+      ],
+      "hidden_tags": [
+         "_cc",
+         "_info",
+         "_禁黑"
+      ],
+      "comments": "1",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1403494880",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
+   },
+   "1655138022": {
+      "title": "維安事故ZH-330-2",
+      "fullname": "deleted:incident-zh-330-2-rewrite",
+      "created_at": "1655138022",
+      "created_by": "5435485",
+      "tags": [
+         "ain博士",
+         "site-zh-44",
+         "surge博士",
+         "原創",
+         "故事"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": "deleted:scp-zh-330-rewrite",
+      "id": "1403494883",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
