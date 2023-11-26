@@ -123112,8 +123112,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "10",
-      "votes": "10",
+      "rating": "11",
+      "votes": "11",
       "parent": null,
       "id": "1451545379",
       "detailed_rating": {
@@ -123157,11 +123157,15 @@
             [
                "5370805",
                1701007195
+            ],
+            [
+               "6503482",
+               1701008087
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 10,
-      "justified_votes": 10
+      "justified_rating": 11,
+      "justified_votes": 11
    }
 }
