@@ -120569,8 +120569,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "23",
-      "votes": "23",
+      "rating": "24",
+      "votes": "24",
       "parent": null,
       "id": "1450864432",
       "detailed_rating": {
@@ -120666,12 +120666,16 @@
             [
                "5338547",
                1698377312
+            ],
+            [
+               "6381244",
+               1701073423
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 23,
-      "justified_votes": 23
+      "justified_rating": 24,
+      "justified_votes": 24
    },
    "1697990899": {
       "title": "火鶴花",
@@ -122800,8 +122804,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "6",
-      "votes": "6",
+      "rating": "7",
+      "votes": "7",
       "parent": null,
       "id": "1451317757",
       "detailed_rating": {
@@ -122829,12 +122833,16 @@
             [
                "8404617",
                1699804958
+            ],
+            [
+               "6381244",
+               1701073423
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 6,
-      "justified_votes": 6
+      "justified_rating": 7,
+      "justified_votes": 7
    },
    "1699672272": {
       "title": "維安設施檔案：Site-ZH-11",
