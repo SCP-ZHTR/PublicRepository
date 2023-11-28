@@ -115929,8 +115929,8 @@
          "_cc"
       ],
       "comments": "3",
-      "rating": "7",
-      "votes": "7",
+      "rating": "8",
+      "votes": "8",
       "parent": null,
       "id": "1449410166",
       "detailed_rating": {
@@ -115962,12 +115962,16 @@
             [
                "5338547",
                1692247700
+            ],
+            [
+               "5701756",
+               1701155810
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 7,
-      "justified_votes": 7
+      "justified_rating": 8,
+      "justified_votes": 8
    },
    "1692246209": {
       "title": "你的最後一個工作日",
