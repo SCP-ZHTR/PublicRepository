@@ -117094,8 +117094,8 @@
          "_image"
       ],
       "comments": "3",
-      "rating": "10",
-      "votes": "12",
+      "rating": "11",
+      "votes": "13",
       "parent": null,
       "id": "1449614664",
       "detailed_rating": {
@@ -117143,6 +117143,10 @@
             [
                "5338547",
                1693406932
+            ],
+            [
+               "5701756",
+               1701163163
             ]
          ],
          "-": [
@@ -117153,8 +117157,8 @@
          ]
       },
       "deleted": false,
-      "justified_rating": 10,
-      "justified_votes": 12
+      "justified_rating": 11,
+      "justified_votes": 13
    },
    "1693497580": {
       "title": "SCP-ZH-660 - 高速公鹿",
