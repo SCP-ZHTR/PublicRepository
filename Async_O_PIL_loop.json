@@ -116510,8 +116510,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "10",
-      "votes": "10",
+      "rating": "11",
+      "votes": "11",
       "parent": null,
       "id": "1449534612",
       "detailed_rating": {
@@ -116555,12 +116555,16 @@
             [
                "5338547",
                1692855329
+            ],
+            [
+               "5701756",
+               1701159240
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 10,
-      "justified_votes": 10
+      "justified_rating": 11,
+      "justified_votes": 11
    },
    "1693099772": {
       "title": "歡迎來到溜溜溜水上樂園",
