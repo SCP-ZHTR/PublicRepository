@@ -115990,8 +115990,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "11",
-      "votes": "11",
+      "rating": "12",
+      "votes": "12",
       "parent": "azure-skydome-hub",
       "id": "1449418032",
       "detailed_rating": {
@@ -116039,12 +116039,16 @@
             [
                "5338547",
                1692247700
+            ],
+            [
+               "5701756",
+               1701156060
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 11,
-      "justified_votes": 11
+      "justified_rating": 12,
+      "justified_votes": 12
    },
    "1692361944": {
       "title": "陳年舊灰",
