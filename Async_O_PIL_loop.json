@@ -116993,8 +116993,8 @@
          "_cc"
       ],
       "comments": "1",
-      "rating": "17",
-      "votes": "17",
+      "rating": "18",
+      "votes": "18",
       "parent": "azure-skydome-hub",
       "id": "1449609135",
       "detailed_rating": {
@@ -117066,12 +117066,16 @@
             [
                "5338547",
                1693329087
+            ],
+            [
+               "5701756",
+               1701162675
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 17,
-      "justified_votes": 17
+      "justified_rating": 18,
+      "justified_votes": 18
    },
    "1693405120": {
       "title": "SCP-ZH-812 - 等待你的歸來",
