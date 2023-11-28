@@ -127956,5 +127956,25 @@
       "deleted": false,
       "justified_rating": 1,
       "justified_votes": 1
+   },
+   "1701212341": {
+      "title": "SCP-6584 - 此乃拖延症的教訓",
+      "fullname": "scp-6584",
+      "created_at": "1701212341",
+      "created_by": "5370805",
+      "tags": [
+         "en",
+         "翻譯"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1451597294",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
