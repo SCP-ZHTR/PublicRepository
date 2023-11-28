@@ -116638,8 +116638,8 @@
          "_cc"
       ],
       "comments": "1",
-      "rating": "14",
-      "votes": "16",
+      "rating": "15",
+      "votes": "17",
       "parent": null,
       "id": "1449585840",
       "detailed_rating": {
@@ -116703,6 +116703,10 @@
             [
                "5338547",
                1693289334
+            ],
+            [
+               "5701756",
+               1701160475
             ]
          ],
          "-": [
@@ -116713,8 +116717,8 @@
          ]
       },
       "deleted": false,
-      "justified_rating": 14,
-      "justified_votes": 16
+      "justified_rating": 15,
+      "justified_votes": 17
    },
    "1693228852": {
       "title": "SCP-ZH-742 - 我愛你們倆",
