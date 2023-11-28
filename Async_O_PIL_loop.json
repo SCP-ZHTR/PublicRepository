@@ -116202,8 +116202,8 @@
          "_cc"
       ],
       "comments": "0",
-      "rating": "11",
-      "votes": "13",
+      "rating": "12",
+      "votes": "14",
       "parent": null,
       "id": "1449447050",
       "detailed_rating": {
@@ -116255,6 +116255,10 @@
             [
                "5338547",
                1692621653
+            ],
+            [
+               "5701756",
+               1701158138
             ]
          ],
          "-": [
@@ -116265,8 +116269,8 @@
          ]
       },
       "deleted": false,
-      "justified_rating": 11,
-      "justified_votes": 13
+      "justified_rating": 12,
+      "justified_votes": 14
    },
    "1692716469": {
       "title": "奇聞軼事：《只有你能看見的老鼠》",
