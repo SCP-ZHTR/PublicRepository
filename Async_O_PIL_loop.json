@@ -116578,8 +116578,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "6",
-      "votes": "6",
+      "rating": "7",
+      "votes": "7",
       "parent": null,
       "id": "1449571227",
       "detailed_rating": {
@@ -116607,12 +116607,16 @@
             [
                "5338547",
                1693289334
+            ],
+            [
+               "5701756",
+               1701160344
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 6,
-      "justified_votes": 6
+      "justified_rating": 7,
+      "justified_votes": 7
    },
    "1693156286": {
       "title": "SCP-ZH-722 - 致薰風仍未曾到訪的時節",
