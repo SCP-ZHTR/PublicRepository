@@ -116775,8 +116775,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "6",
-      "votes": "6",
+      "rating": "7",
+      "votes": "7",
       "parent": null,
       "id": "1449607386",
       "detailed_rating": {
@@ -116804,12 +116804,16 @@
             [
                "5338547",
                1693322660
+            ],
+            [
+               "5701756",
+               1701161454
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 6,
-      "justified_votes": 6
+      "justified_rating": 7,
+      "justified_votes": 7
    },
    "1693317600": {
       "title": "SCP-ZH-674-J - 海外驗傷",
