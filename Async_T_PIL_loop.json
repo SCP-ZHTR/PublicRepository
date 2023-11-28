@@ -121984,8 +121984,8 @@
          "_licensebox"
       ],
       "comments": "0",
-      "rating": "1",
-      "votes": "1",
+      "rating": "2",
+      "votes": "2",
       "parent": null,
       "id": "1449564790",
       "detailed_rating": {
@@ -121993,12 +121993,16 @@
             [
                "7605593",
                1693709719
+            ],
+            [
+               "5701756",
+               1701159370
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 1,
-      "justified_votes": 1
+      "justified_rating": 2,
+      "justified_votes": 2
    },
    "1693137460": {
       "title": "雜草 中心頁",
