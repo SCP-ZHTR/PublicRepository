@@ -115690,8 +115690,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "6",
-      "votes": "6",
+      "rating": "7",
+      "votes": "7",
       "parent": null,
       "id": "1449325287",
       "detailed_rating": {
@@ -115719,12 +115719,16 @@
             [
                "5435485",
                1691594771
+            ],
+            [
+               "5701756",
+               1701152175
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 6,
-      "justified_votes": 6
+      "justified_rating": 7,
+      "justified_votes": 7
    },
    "1691937332": {
       "title": "SCP-ZH-075 - 海面之月無足輕重",
