@@ -122543,8 +122543,8 @@
          "_licensebox"
       ],
       "comments": "0",
-      "rating": "3",
-      "votes": "3",
+      "rating": "4",
+      "votes": "4",
       "parent": null,
       "id": "1449844949",
       "detailed_rating": {
@@ -122560,12 +122560,16 @@
             [
                "8792088",
                1700553764
+            ],
+            [
+               "8452537",
+               1701274035
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 3,
-      "justified_votes": 3
+      "justified_rating": 4,
+      "justified_votes": 4
    },
    "1693834261": {
       "title": "SCP-7769 - 你第一頭殺掉的怪物",
