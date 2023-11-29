@@ -121834,8 +121834,8 @@
          "_licensebox"
       ],
       "comments": "1",
-      "rating": "4",
-      "votes": "4",
+      "rating": "3",
+      "votes": "3",
       "parent": null,
       "id": "1449424072",
       "detailed_rating": {
@@ -121843,10 +121843,6 @@
             [
                "4990678",
                1692288991
-            ],
-            [
-               "5370805",
-               1695661086
             ],
             [
                "5435485",
@@ -121859,8 +121855,8 @@
          ]
       },
       "deleted": false,
-      "justified_rating": 4,
-      "justified_votes": 4
+      "justified_rating": 3,
+      "justified_votes": 3
    },
    "1692295345": {
       "title": "SCP-045-INT - 丁級戰犯",
@@ -127980,6 +127976,7 @@
       "created_by": "5370805",
       "tags": [
          "en",
+         "scp",
          "翻譯"
       ],
       "hidden_tags": [],
