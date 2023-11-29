@@ -80355,16 +80355,12 @@
          "_licensebox"
       ],
       "comments": "0",
-      "rating": "4",
-      "votes": "4",
+      "rating": "5",
+      "votes": "5",
       "parent": "scp-001",
       "id": "1331630802",
       "detailed_rating": {
          "+": [
-            [
-               "7469850",
-               1645113600
-            ],
             [
                "4990678",
                1644336000
@@ -80376,6 +80372,14 @@
             [
                "3981670",
                1644681600
+            ],
+            [
+               "7840542",
+               1701222539
+            ],
+            [
+               "DELETED",
+               1701222539
             ]
          ]
       },
@@ -127972,13 +127976,20 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "0",
-      "votes": "0",
+      "rating": "1",
+      "votes": "1",
       "parent": null,
       "id": "1451597294",
-      "detailed_rating": {},
+      "detailed_rating": {
+         "+": [
+            [
+               "7840542",
+               1701222539
+            ]
+         ]
+      },
       "deleted": false,
-      "justified_rating": 0,
-      "justified_votes": 0
+      "justified_rating": 1,
+      "justified_votes": 1
    }
 }
