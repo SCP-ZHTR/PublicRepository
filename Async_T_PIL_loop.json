@@ -77147,8 +77147,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "4",
-      "votes": "4",
+      "rating": "5",
+      "votes": "5",
       "parent": null,
       "id": "1330717579",
       "detailed_rating": {
@@ -77168,12 +77168,16 @@
             [
                "4239775",
                1638288000
+            ],
+            [
+               "8418020",
+               1701364764
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 4,
-      "justified_votes": 4
+      "justified_rating": 5,
+      "justified_votes": 5
    },
    "1638347103": {
       "title": "SCP-200 - 繭",
