@@ -122699,8 +122699,8 @@
          "_licensebox"
       ],
       "comments": "1",
-      "rating": "1",
-      "votes": "1",
+      "rating": "2",
+      "votes": "2",
       "parent": null,
       "id": "1449930063",
       "detailed_rating": {
@@ -122708,12 +122708,16 @@
             [
                "8480087",
                1694282755
+            ],
+            [
+               "5701756",
+               1701397351
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 1,
-      "justified_votes": 1
+      "justified_rating": 2,
+      "justified_votes": 2
    },
    "1694358675": {
       "title": "機動特遣隊-UA",
