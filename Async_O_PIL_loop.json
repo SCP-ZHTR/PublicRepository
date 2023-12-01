@@ -117591,8 +117591,8 @@
          "_退"
       ],
       "comments": "0",
-      "rating": "10",
-      "votes": "10",
+      "rating": "11",
+      "votes": "11",
       "parent": null,
       "id": "1450009176",
       "detailed_rating": {
@@ -117636,12 +117636,16 @@
             [
                "5338547",
                1695624308
+            ],
+            [
+               "5701756",
+               1701398890
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 10,
-      "justified_votes": 10
+      "justified_rating": 11,
+      "justified_votes": 11
    },
    "1694953499": {
       "title": "SCP-ZH-137 - 絕不後退",
