@@ -119299,8 +119299,8 @@
          "_你感覺到了嗎"
       ],
       "comments": "0",
-      "rating": "8",
-      "votes": "8",
+      "rating": "9",
+      "votes": "9",
       "parent": null,
       "id": "1450097942",
       "detailed_rating": {
@@ -119336,12 +119336,16 @@
             [
                "7571354",
                1695538553
+            ],
+            [
+               "5701756",
+               1701413650
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 8,
-      "justified_votes": 8
+      "justified_rating": 9,
+      "justified_votes": 9
    },
    "1695392411": {
       "title": "視而不見",
