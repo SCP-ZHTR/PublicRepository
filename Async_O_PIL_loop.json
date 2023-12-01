@@ -117664,8 +117664,8 @@
          "_退"
       ],
       "comments": "0",
-      "rating": "11",
-      "votes": "11",
+      "rating": "12",
+      "votes": "12",
       "parent": null,
       "id": "1450010226",
       "detailed_rating": {
@@ -117713,12 +117713,16 @@
             [
                "5338547",
                1695624308
+            ],
+            [
+               "5701756",
+               1701399275
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 11,
-      "justified_votes": 11
+      "justified_rating": 12,
+      "justified_votes": 12
    },
    "1694966671": {
       "title": "生字詞彙表",
