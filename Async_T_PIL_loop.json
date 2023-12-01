@@ -71083,8 +71083,8 @@
       ],
       "hidden_tags": [],
       "comments": "3",
-      "rating": "3",
-      "votes": "5",
+      "rating": "4",
+      "votes": "6",
       "parent": null,
       "id": "1317271132",
       "detailed_rating": {
@@ -71104,6 +71104,10 @@
             [
                "DELETED",
                1701393828
+            ],
+            [
+               "5435485",
+               1701394844
             ]
          ],
          "-": [
@@ -71114,8 +71118,8 @@
          ]
       },
       "deleted": false,
-      "justified_rating": 2,
-      "justified_votes": 4
+      "justified_rating": 3,
+      "justified_votes": 5
    },
    "1629903914": {
       "title": "夜競賽聲援圖",
