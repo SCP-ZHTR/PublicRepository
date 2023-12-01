@@ -118814,8 +118814,8 @@
          "_退"
       ],
       "comments": "0",
-      "rating": "17",
-      "votes": "17",
+      "rating": "18",
+      "votes": "18",
       "parent": null,
       "id": "1450050416",
       "detailed_rating": {
@@ -118887,12 +118887,16 @@
             [
                "5338547",
                1695624308
+            ],
+            [
+               "5701756",
+               1701401953
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 17,
-      "justified_votes": 17
+      "justified_rating": 18,
+      "justified_votes": 18
    },
    "1695139197": {
       "title": "三月進行曲",
