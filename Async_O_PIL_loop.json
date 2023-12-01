@@ -118734,8 +118734,8 @@
          "_退"
       ],
       "comments": "1",
-      "rating": "10",
-      "votes": "10",
+      "rating": "11",
+      "votes": "11",
       "parent": null,
       "id": "1450050231",
       "detailed_rating": {
@@ -118779,12 +118779,16 @@
             [
                "5338547",
                1695138441
+            ],
+            [
+               "5701756",
+               1701401693
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 10,
-      "justified_votes": 10
+      "justified_rating": 11,
+      "justified_votes": 11
    },
    "1695138299": {
       "title": "SCP-ZH-343 - 胚神",
