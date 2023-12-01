@@ -118610,8 +118610,8 @@
          "_退"
       ],
       "comments": "1",
-      "rating": "6",
-      "votes": "8",
+      "rating": "7",
+      "votes": "9",
       "parent": null,
       "id": "1450049530",
       "detailed_rating": {
@@ -118643,6 +118643,10 @@
             [
                "5013754",
                1695448584
+            ],
+            [
+               "5701756",
+               1701400796
             ]
          ],
          "-": [
@@ -118653,8 +118657,8 @@
          ]
       },
       "deleted": false,
-      "justified_rating": 6,
-      "justified_votes": 8
+      "justified_rating": 7,
+      "justified_votes": 9
    },
    "1695132639": {
       "title": "SCP-ZH-982 - 核電廠珊瑚",
