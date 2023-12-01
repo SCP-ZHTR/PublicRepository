@@ -117504,8 +117504,8 @@
          "_退"
       ],
       "comments": "0",
-      "rating": "10",
-      "votes": "12",
+      "rating": "11",
+      "votes": "13",
       "parent": null,
       "id": "1449996786",
       "detailed_rating": {
@@ -117553,6 +117553,10 @@
             [
                "8543386",
                1694937381
+            ],
+            [
+               "5701756",
+               1701398379
             ]
          ],
          "-": [
@@ -117563,8 +117567,8 @@
          ]
       },
       "deleted": false,
-      "justified_rating": 10,
-      "justified_votes": 12
+      "justified_rating": 11,
+      "justified_votes": 13
    },
    "1694946281": {
       "title": "SCP-ZH-121 - 合歡調查事件與野呂寧之謎",
