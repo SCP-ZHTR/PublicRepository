@@ -128023,7 +128023,7 @@
       "hidden_tags": [],
       "comments": "0",
       "rating": "2",
-      "votes": "2",
+      "votes": "3",
       "parent": null,
       "id": "1451597294",
       "detailed_rating": {
@@ -128035,12 +128035,16 @@
             [
                "5415046",
                1701444609
+            ],
+            [
+               "8033564",
+               1701499407
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 2,
-      "justified_votes": 2
+      "justified_rating": 3,
+      "justified_votes": 3
    },
    "1701361472": {
       "title": "Abraka David的提案",
