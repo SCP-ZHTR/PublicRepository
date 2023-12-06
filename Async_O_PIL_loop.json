@@ -123287,8 +123287,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "15",
-      "votes": "15",
+      "rating": "16",
+      "votes": "16",
       "parent": null,
       "id": "1451545379",
       "detailed_rating": {
@@ -123352,12 +123352,16 @@
             [
                "4291435",
                1701135797
+            ],
+            [
+               "6141493",
+               1701876272
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 15,
-      "justified_votes": 15
+      "justified_rating": 16,
+      "justified_votes": 16
    },
    "1701302408": {
       "title": "SCP-ZH-019-J - 神造之地",
