@@ -20383,8 +20383,8 @@
          "_cc"
       ],
       "comments": "6",
-      "rating": "32",
-      "votes": "34",
+      "rating": "33",
+      "votes": "35",
       "parent": null,
       "id": "985985356",
       "detailed_rating": {
@@ -20520,6 +20520,10 @@
             [
                "5454699",
                1624896000
+            ],
+            [
+               "8910058",
+               1701964767
             ]
          ],
          "-": [
@@ -20530,8 +20534,8 @@
          ]
       },
       "deleted": false,
-      "justified_rating": 32,
-      "justified_votes": 34
+      "justified_rating": 33,
+      "justified_votes": 35
    },
    "1577798761": {
       "title": "SCP-3965 - 燭龍",
