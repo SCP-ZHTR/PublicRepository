@@ -119537,8 +119537,8 @@
          "_你感覺到了嗎"
       ],
       "comments": "0",
-      "rating": "3",
-      "votes": "11",
+      "rating": "4",
+      "votes": "12",
       "parent": null,
       "id": "1450098511",
       "detailed_rating": {
@@ -119570,6 +119570,10 @@
             [
                "5013754",
                1695448584
+            ],
+            [
+               "5701756",
+               1702005588
             ]
          ],
          "-": [
@@ -119592,8 +119596,8 @@
          ]
       },
       "deleted": false,
-      "justified_rating": 3,
-      "justified_votes": 11
+      "justified_rating": 4,
+      "justified_votes": 12
    },
    "1695394801": {
       "title": "SCP-ZH-996 - 見不善如襲隱以避難靜居／仲尼曰以同異難以異易易",
