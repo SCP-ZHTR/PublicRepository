@@ -121823,8 +121823,8 @@
       ],
       "hidden_tags": [],
       "comments": "3",
-      "rating": "25",
-      "votes": "25",
+      "rating": "26",
+      "votes": "26",
       "parent": null,
       "id": "1451113709",
       "detailed_rating": {
@@ -121928,12 +121928,16 @@
             [
                "5338547",
                1698473405
+            ],
+            [
+               "8792088",
+               1702059621
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 25,
-      "justified_votes": 25
+      "justified_rating": 26,
+      "justified_votes": 26
    },
    "1698492251": {
       "title": "SCP-ZH-641 - 超視覺",
