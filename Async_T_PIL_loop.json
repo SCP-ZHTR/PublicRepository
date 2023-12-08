@@ -125327,8 +125327,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "3",
-      "votes": "3",
+      "rating": "4",
+      "votes": "4",
       "parent": null,
       "id": "1450622115",
       "detailed_rating": {
@@ -125344,12 +125344,16 @@
             [
                "6091157",
                1697186480
+            ],
+            [
+               "5701756",
+               1702015445
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 3,
-      "justified_votes": 3
+      "justified_rating": 4,
+      "justified_votes": 4
    },
    "1697191591": {
       "title": "SCP-6452 - 開箱",
