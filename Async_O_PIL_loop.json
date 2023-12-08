@@ -100346,8 +100346,8 @@
          "_禁黑"
       ],
       "comments": "2",
-      "rating": "24",
-      "votes": "24",
+      "rating": "25",
+      "votes": "25",
       "parent": null,
       "id": "1435809034",
       "detailed_rating": {
@@ -100447,12 +100447,16 @@
             [
                "DELETED",
                1692374325
+            ],
+            [
+               "8854072",
+               1702042709
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 23,
-      "justified_votes": 23
+      "justified_rating": 24,
+      "justified_votes": 24
    },
    "1663245858": {
       "title": "SCP-ZH-583-J - 哪來的猴子.SCiP",
