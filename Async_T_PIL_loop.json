@@ -126751,8 +126751,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "8",
-      "votes": "8",
+      "rating": "9",
+      "votes": "9",
       "parent": null,
       "id": "1451265571",
       "detailed_rating": {
@@ -126788,12 +126788,16 @@
             [
                "6381244",
                1702086463
+            ],
+            [
+               "5370805",
+               1702164570
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 8,
-      "justified_votes": 8
+      "justified_rating": 9,
+      "justified_votes": 9
    },
    "1699013419": {
       "title": "SCP-7719-EX",
