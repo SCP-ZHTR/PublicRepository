@@ -128152,5 +128152,31 @@
       "deleted": false,
       "justified_rating": 3,
       "justified_votes": 3
+   },
+   "1702091919": {
+      "title": "SCP-8472-EX - 喔，老鼠！",
+      "fullname": "scp-8472-ex",
+      "created_at": "1702091919",
+      "created_by": "5370805",
+      "tags": [
+         "en",
+         "scp",
+         "動物",
+         "屍體",
+         "已解明",
+         "松鼠",
+         "熱力學",
+         "翻譯"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": "scp-ex",
+      "id": "1451722246",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
