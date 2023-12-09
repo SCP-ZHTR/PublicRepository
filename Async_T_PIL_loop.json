@@ -79912,8 +79912,8 @@
          "_cc"
       ],
       "comments": "0",
-      "rating": "9",
-      "votes": "9",
+      "rating": "10",
+      "votes": "10",
       "parent": null,
       "id": "1331507299",
       "detailed_rating": {
@@ -79953,12 +79953,16 @@
             [
                "DELETED",
                1699029019
+            ],
+            [
+               "6381244",
+               1702087347
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 8,
-      "justified_votes": 8
+      "justified_rating": 9,
+      "justified_votes": 9
    },
    "1643990385": {
       "title": "萬象之源（宇宙史）：第一章",
@@ -126743,8 +126747,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "7",
-      "votes": "7",
+      "rating": "8",
+      "votes": "8",
       "parent": null,
       "id": "1451265571",
       "detailed_rating": {
@@ -126776,12 +126780,16 @@
             [
                "6503482",
                1699547996
+            ],
+            [
+               "6381244",
+               1702086463
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 7,
-      "justified_votes": 7
+      "justified_rating": 8,
+      "justified_votes": 8
    },
    "1699013419": {
       "title": "SCP-7719-EX",
