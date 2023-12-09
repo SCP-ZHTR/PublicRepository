@@ -84849,8 +84849,8 @@
          "_image"
       ],
       "comments": "13",
-      "rating": "62",
-      "votes": "62",
+      "rating": "63",
+      "votes": "63",
       "parent": null,
       "id": "1331487477",
       "detailed_rating": {
@@ -85102,12 +85102,16 @@
             [
                "8910058",
                1701619923
+            ],
+            [
+               "8792088",
+               1702130766
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 61,
-      "justified_votes": 61
+      "justified_rating": 62,
+      "justified_votes": 62
    },
    "1643391751": {
       "title": "退休生活",
