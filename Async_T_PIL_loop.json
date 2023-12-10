@@ -47496,8 +47496,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "7",
-      "votes": "7",
+      "rating": "8",
+      "votes": "8",
       "parent": null,
       "id": "1305584138",
       "detailed_rating": {
@@ -47529,12 +47529,16 @@
             [
                "6082642",
                1626451200
+            ],
+            [
+               "8854072",
+               1702227902
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 7,
-      "justified_votes": 7
+      "justified_rating": 8,
+      "justified_votes": 8
    },
    "1603524126": {
       "title": "SCP-1740 - 樂園門禁",
