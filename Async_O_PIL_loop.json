@@ -96484,8 +96484,8 @@
       ],
       "hidden_tags": [],
       "comments": "3",
-      "rating": "10",
-      "votes": "10",
+      "rating": "11",
+      "votes": "11",
       "parent": null,
       "id": "1417498345",
       "detailed_rating": {
@@ -96529,12 +96529,16 @@
             [
                "DELETED",
                1695208325
+            ],
+            [
+               "8854072",
+               1702305793
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 9,
-      "justified_votes": 9
+      "justified_rating": 10,
+      "justified_votes": 10
    },
    "1657790323": {
       "title": "2022夏季競賽 主題《X》",
