@@ -128246,5 +128246,33 @@
       "deleted": false,
       "justified_rating": 1,
       "justified_votes": 1
+   },
+   "1702355475": {
+      "title": "SCP-3434 - ……而我們寧可留在黑暗之中",
+      "fullname": "scp-3434",
+      "created_at": "1702355475",
+      "created_by": "8452537",
+      "tags": [
+         "3000",
+         "alleged-god",
+         "en",
+         "keter",
+         "scp",
+         "循環",
+         "破碎之神教會",
+         "精神影響",
+         "翻譯",
+         "記憶影響"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1451758619",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
