@@ -128198,5 +128198,46 @@
       "deleted": false,
       "justified_rating": 0,
       "justified_votes": 0
+   },
+   "1702354332": {
+      "title": "SCP-6559 - 超然上智",
+      "fullname": "scp-6659",
+      "created_at": "1702354332",
+      "created_by": "7605593",
+      "tags": [
+         "en",
+         "mcdoctorate博士",
+         "scp",
+         "合著",
+         "告誡",
+         "基金會製造",
+         "宗教",
+         "戰術神學部",
+         "概念",
+         "機密分級",
+         "武器",
+         "深井目錄",
+         "猩紅之王",
+         "生物性",
+         "神經性",
+         "第五教會",
+         "精神影響",
+         "翻譯",
+         "電腦"
+      ],
+      "hidden_tags": [
+         "_cc",
+         "_licensebox",
+         "_listpages"
+      ],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": "admonition",
+      "id": "1451758500",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
