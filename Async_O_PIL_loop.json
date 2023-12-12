@@ -121533,8 +121533,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "10",
-      "votes": "10",
+      "rating": "11",
+      "votes": "11",
       "parent": null,
       "id": "1450993835",
       "detailed_rating": {
@@ -121578,12 +121578,16 @@
             [
                "5338547",
                1698377312
+            ],
+            [
+               "7064164",
+               1702387933
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 10,
-      "justified_votes": 10
+      "justified_rating": 11,
+      "justified_votes": 11
    },
    "1698437720": {
       "title": "SCP-ZH-577 - 季度結算",
