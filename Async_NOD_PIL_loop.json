@@ -24010,5 +24010,39 @@
       "deleted": false,
       "justified_rating": 0,
       "justified_votes": 0
+   },
+   "1702354344": {
+      "title": "Scp 6659 0",
+      "fullname": "fragment:scp-6659-0",
+      "created_at": "1702354344",
+      "created_by": "7605593",
+      "tags": [],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": "scp-6659",
+      "id": "1451758501",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
+   },
+   "1702354365": {
+      "title": "Scp 6659 1",
+      "fullname": "fragment:scp-6659-1",
+      "created_at": "1702354365",
+      "created_by": "7605593",
+      "tags": [],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": "scp-6659",
+      "id": "1451758502",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
