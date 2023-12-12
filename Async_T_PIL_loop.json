@@ -126952,8 +126952,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "9",
-      "votes": "9",
+      "rating": "10",
+      "votes": "10",
       "parent": null,
       "id": "1451310044",
       "detailed_rating": {
@@ -126993,12 +126993,16 @@
             [
                "7504530",
                1699352173
+            ],
+            [
+               "6981058",
+               1702340663
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 9,
-      "justified_votes": 9
+      "justified_rating": 10,
+      "justified_votes": 10
    },
    "1699278699": {
       "title": "5919號公寓",
