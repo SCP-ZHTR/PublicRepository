@@ -128274,8 +128274,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "3",
-      "votes": "3",
+      "rating": "4",
+      "votes": "4",
       "parent": null,
       "id": "1451758619",
       "detailed_rating": {
@@ -128291,12 +128291,16 @@
             [
                "7605593",
                1702366614
+            ],
+            [
+               "7840542",
+               1702427264
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 3,
-      "justified_votes": 3
+      "justified_rating": 4,
+      "justified_votes": 4
    },
    "1702358190": {
       "title": "SCP-3215 - 美味的海葵",
