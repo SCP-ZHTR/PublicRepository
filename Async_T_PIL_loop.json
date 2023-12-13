@@ -128335,5 +128335,31 @@
       "deleted": false,
       "justified_rating": 1,
       "justified_votes": 1
+   },
+   "1702451903": {
+      "title": "SCP-9000-J - ⠑⠡⠄⠸⠐⠝⠡⠈⠇⠧⠐⠙⠮⠂⠙⠯⠈⠙⠞⠈⠓⠱⠐",
+      "fullname": "scp-9000-j",
+      "created_at": "1702451903",
+      "created_by": "7605593",
+      "tags": [
+         "en",
+         "meta",
+         "safe",
+         "scp",
+         "基金會製造",
+         "搞笑",
+         "翻譯",
+         "電腦"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1451785738",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
