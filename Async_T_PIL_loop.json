@@ -128320,8 +128320,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "1",
-      "votes": "1",
+      "rating": "0",
+      "votes": "2",
       "parent": null,
       "id": "1451759000",
       "detailed_rating": {
@@ -128330,11 +128330,17 @@
                "7605593",
                1702366614
             ]
+         ],
+         "-": [
+            [
+               "8221044",
+               1702513594
+            ]
          ]
       },
       "deleted": false,
-      "justified_rating": 1,
-      "justified_votes": 1
+      "justified_rating": 0,
+      "justified_votes": 2
    },
    "1702451903": {
       "title": "SCP-9000-J - ⠑⠡⠄⠸⠐⠝⠡⠈⠇⠧⠐⠙⠮⠂⠙⠯⠈⠙⠞⠈⠓⠱⠐",
