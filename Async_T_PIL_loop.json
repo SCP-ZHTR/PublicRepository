@@ -128363,8 +128363,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "3",
-      "votes": "3",
+      "rating": "4",
+      "votes": "4",
       "parent": null,
       "id": "1451785738",
       "detailed_rating": {
@@ -128380,12 +128380,16 @@
             [
                "7840542",
                1702512842
+            ],
+            [
+               "8480087",
+               1702626316
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 3,
-      "justified_votes": 3
+      "justified_rating": 4,
+      "justified_votes": 4
    },
    "1702545011": {
       "title": "SCP-013-VN - 毒奶",
