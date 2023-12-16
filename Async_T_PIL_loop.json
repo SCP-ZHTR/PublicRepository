@@ -128493,8 +128493,8 @@
          "_禁黑"
       ],
       "comments": "0",
-      "rating": "1",
-      "votes": "1",
+      "rating": "2",
+      "votes": "2",
       "parent": null,
       "id": "1451837515",
       "detailed_rating": {
@@ -128502,12 +128502,16 @@
             [
                "8480087",
                1702730452
+            ],
+            [
+               "8792088",
+               1702731700
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 1,
-      "justified_votes": 1
+      "justified_rating": 2,
+      "justified_votes": 2
    },
    "1702729468": {
       "title": "SCP-3018-JP - 不昧之靈",
@@ -128634,8 +128638,8 @@
          "_licensebox"
       ],
       "comments": "0",
-      "rating": "1",
-      "votes": "1",
+      "rating": "2",
+      "votes": "2",
       "parent": null,
       "id": "1451837521",
       "detailed_rating": {
@@ -128643,12 +128647,16 @@
             [
                "8480087",
                1702730452
+            ],
+            [
+               "8792088",
+               1702731700
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 1,
-      "justified_votes": 1
+      "justified_rating": 2,
+      "justified_votes": 2
    },
    "1702729483": {
       "title": "SCP-3127-JP - 褻瀆的、而更為理想的",
@@ -128669,8 +128677,8 @@
          "_licensebox"
       ],
       "comments": "0",
-      "rating": "1",
-      "votes": "1",
+      "rating": "2",
+      "votes": "2",
       "parent": null,
       "id": "1451837523",
       "detailed_rating": {
@@ -128678,11 +128686,15 @@
             [
                "8480087",
                1702730452
+            ],
+            [
+               "8792088",
+               1702731700
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 1,
-      "justified_votes": 1
+      "justified_rating": 2,
+      "justified_votes": 2
    }
 }
