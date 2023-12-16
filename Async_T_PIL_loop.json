@@ -128429,5 +128429,36 @@
       "deleted": false,
       "justified_rating": 0,
       "justified_votes": 0
+   },
+   "1702727289": {
+      "title": "SCP-5075 - 一切受絞之王、真實關懷、真理招來",
+      "fullname": "scp-5075",
+      "created_at": "1702727289",
+      "created_by": "6217438",
+      "tags": [
+         "1976年班",
+         "en",
+         "gillespie主任",
+         "scp",
+         "人形",
+         "受絞之王",
+         "合著",
+         "智能",
+         "未收容",
+         "模因效應",
+         "無效化",
+         "翻譯",
+         "阿拉加達"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1451837212",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
