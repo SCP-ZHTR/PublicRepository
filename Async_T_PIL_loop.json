@@ -128493,14 +128493,21 @@
          "_禁黑"
       ],
       "comments": "0",
-      "rating": "0",
-      "votes": "0",
+      "rating": "1",
+      "votes": "1",
       "parent": null,
       "id": "1451837515",
-      "detailed_rating": {},
+      "detailed_rating": {
+         "+": [
+            [
+               "8480087",
+               1702730452
+            ]
+         ]
+      },
       "deleted": false,
-      "justified_rating": 0,
-      "justified_votes": 0
+      "justified_rating": 1,
+      "justified_votes": 1
    },
    "1702729468": {
       "title": "SCP-3018-JP - 不昧之靈",
@@ -128520,14 +128527,21 @@
          "_licensebox"
       ],
       "comments": "0",
-      "rating": "0",
-      "votes": "0",
+      "rating": "1",
+      "votes": "1",
       "parent": null,
       "id": "1451837517",
-      "detailed_rating": {},
+      "detailed_rating": {
+         "+": [
+            [
+               "8480087",
+               1702730452
+            ]
+         ]
+      },
       "deleted": false,
-      "justified_rating": 0,
-      "justified_votes": 0
+      "justified_rating": 1,
+      "justified_votes": 1
    },
    "1702729472": {
       "title": "SCP-3113-JP - 創作成癮",
@@ -128546,14 +128560,21 @@
          "_禁黑"
       ],
       "comments": "0",
-      "rating": "0",
-      "votes": "0",
+      "rating": "1",
+      "votes": "1",
       "parent": null,
       "id": "1451837518",
-      "detailed_rating": {},
+      "detailed_rating": {
+         "+": [
+            [
+               "8480087",
+               1702730452
+            ]
+         ]
+      },
       "deleted": false,
-      "justified_rating": 0,
-      "justified_votes": 0
+      "justified_rating": 1,
+      "justified_votes": 1
    },
    "1702729475": {
       "title": "SCP-3170-JP - 藏葉當在大密林／藏屍當在萬人塚",
@@ -128576,14 +128597,21 @@
          "_禁黑"
       ],
       "comments": "0",
-      "rating": "0",
-      "votes": "0",
+      "rating": "1",
+      "votes": "1",
       "parent": null,
       "id": "1451837519",
-      "detailed_rating": {},
+      "detailed_rating": {
+         "+": [
+            [
+               "8480087",
+               1702730452
+            ]
+         ]
+      },
       "deleted": false,
-      "justified_rating": 0,
-      "justified_votes": 0
+      "justified_rating": 1,
+      "justified_votes": 1
    },
    "1702729480": {
       "title": "SCP-3104-JP - 植薇異客成幻獸",
@@ -128606,14 +128634,21 @@
          "_licensebox"
       ],
       "comments": "0",
-      "rating": "0",
-      "votes": "0",
+      "rating": "1",
+      "votes": "1",
       "parent": null,
       "id": "1451837521",
-      "detailed_rating": {},
+      "detailed_rating": {
+         "+": [
+            [
+               "8480087",
+               1702730452
+            ]
+         ]
+      },
       "deleted": false,
-      "justified_rating": 0,
-      "justified_votes": 0
+      "justified_rating": 1,
+      "justified_votes": 1
    },
    "1702729483": {
       "title": "SCP-3127-JP - 褻瀆的、而更為理想的",
@@ -128634,13 +128669,20 @@
          "_licensebox"
       ],
       "comments": "0",
-      "rating": "0",
-      "votes": "0",
+      "rating": "1",
+      "votes": "1",
       "parent": null,
       "id": "1451837523",
-      "detailed_rating": {},
+      "detailed_rating": {
+         "+": [
+            [
+               "8480087",
+               1702730452
+            ]
+         ]
+      },
       "deleted": false,
-      "justified_rating": 0,
-      "justified_votes": 0
+      "justified_rating": 1,
+      "justified_votes": 1
    }
 }
