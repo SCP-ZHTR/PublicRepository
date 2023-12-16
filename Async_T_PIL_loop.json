@@ -128471,5 +128471,176 @@
       "deleted": false,
       "justified_rating": 2,
       "justified_votes": 2
+   },
+   "1702729465": {
+      "title": "SCP-2182-JP - 透明",
+      "fullname": "scp-2182-jp",
+      "created_at": "1702729465",
+      "created_by": "7605593",
+      "tags": [
+         "jp",
+         "safe",
+         "scp",
+         "屍體",
+         "屍體史體",
+         "樹木",
+         "異常移動",
+         "翻譯",
+         "自主"
+      ],
+      "hidden_tags": [
+         "_licensebox",
+         "_禁黑"
+      ],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1451837515",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
+   },
+   "1702729468": {
+      "title": "SCP-3018-JP - 不昧之靈",
+      "fullname": "scp-3018-jp",
+      "created_at": "1702729468",
+      "created_by": "7605593",
+      "tags": [
+         "jp",
+         "scp",
+         "宗教",
+         "屍體",
+         "屍體史體",
+         "機密分級",
+         "翻譯"
+      ],
+      "hidden_tags": [
+         "_licensebox"
+      ],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1451837517",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
+   },
+   "1702729472": {
+      "title": "SCP-3113-JP - 創作成癮",
+      "fullname": "scp-3113-jp",
+      "created_at": "1702729472",
+      "created_by": "7605593",
+      "tags": [
+         "euclid",
+         "jp",
+         "scp",
+         "屍體史體",
+         "翻譯"
+      ],
+      "hidden_tags": [
+         "_licensebox",
+         "_禁黑"
+      ],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1451837518",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
+   },
+   "1702729475": {
+      "title": "SCP-3170-JP - 藏葉當在大密林／藏屍當在萬人塚",
+      "fullname": "scp-3170-jp",
+      "created_at": "1702729475",
+      "created_by": "7605593",
+      "tags": [
+         "euclid",
+         "jp",
+         "scp",
+         "チームコン23",
+         "人形",
+         "屍體",
+         "屍體史體",
+         "翻譯",
+         "記憶影響"
+      ],
+      "hidden_tags": [
+         "_licensebox",
+         "_禁黑"
+      ],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1451837519",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
+   },
+   "1702729480": {
+      "title": "SCP-3104-JP - 植薇異客成幻獸",
+      "fullname": "scp-3104-jp",
+      "created_at": "1702729480",
+      "created_by": "7605593",
+      "tags": [
+         "jp",
+         "safe",
+         "scp",
+         "屍體",
+         "屍體史體",
+         "幻覺",
+         "植物",
+         "無形",
+         "翻譯",
+         "認知危害"
+      ],
+      "hidden_tags": [
+         "_licensebox"
+      ],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1451837521",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
+   },
+   "1702729483": {
+      "title": "SCP-3127-JP - 褻瀆的、而更為理想的",
+      "fullname": "scp-3127-jp",
+      "created_at": "1702729483",
+      "created_by": "7605593",
+      "tags": [
+         "jp",
+         "keter",
+         "scp",
+         "屍體",
+         "屍體史體",
+         "感知力",
+         "翻譯",
+         "變形"
+      ],
+      "hidden_tags": [
+         "_licensebox"
+      ],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1451837523",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
