@@ -13529,8 +13529,8 @@
          "_info"
       ],
       "comments": "0",
-      "rating": "10",
-      "votes": "12",
+      "rating": "11",
+      "votes": "13",
       "parent": null,
       "id": "854102626",
       "detailed_rating": {
@@ -13578,6 +13578,10 @@
             [
                "DELETED",
                "[UNKNOWN]"
+            ],
+            [
+               "8883612",
+               1702776772
             ]
          ],
          "-": [
@@ -13588,8 +13592,8 @@
          ]
       },
       "deleted": false,
-      "justified_rating": 9,
-      "justified_votes": 11
+      "justified_rating": 10,
+      "justified_votes": 12
    },
    "1565102111": {
       "title": "Ctrl Z博士的SCP記錄：SCP-076 亞伯",
@@ -16515,8 +16519,8 @@
          "_info"
       ],
       "comments": "0",
-      "rating": "8",
-      "votes": "8",
+      "rating": "9",
+      "votes": "9",
       "parent": null,
       "id": "885131243",
       "detailed_rating": {
@@ -16552,12 +16556,16 @@
             [
                "5454699",
                1661097600
+            ],
+            [
+               "8883612",
+               1702776772
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 8,
-      "justified_votes": 8
+      "justified_rating": 9,
+      "justified_votes": 9
    },
    "1567761087": {
       "title": "一如往常",
