@@ -11497,5 +11497,39 @@
       "deleted": true,
       "justified_rating": 0,
       "justified_votes": 0
+   },
+   "1702812193": {
+      "title": "SCP-1871-JP - 質數蟬",
+      "fullname": "scp-1871-jp",
+      "created_at": "1702812193",
+      "created_by": "7605593",
+      "tags": [],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1451852354",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
+   },
+   "1702812209": {
+      "title": "SCP-410-JP - 浮動小數點",
+      "fullname": "scp-410-jp",
+      "created_at": "1702812209",
+      "created_by": "7605593",
+      "tags": [],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1451852355",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
