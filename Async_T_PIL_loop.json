@@ -124588,8 +124588,8 @@
          "_licensebox"
       ],
       "comments": "0",
-      "rating": "5",
-      "votes": "5",
+      "rating": "6",
+      "votes": "6",
       "parent": null,
       "id": "1450454290",
       "detailed_rating": {
@@ -124613,12 +124613,16 @@
             [
                "7504530",
                1697015561
+            ],
+            [
+               "5370805",
+               1702940657
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 5,
-      "justified_votes": 5
+      "justified_rating": 6,
+      "justified_votes": 6
    },
    "1696868108": {
       "title": "S. Yvonne初級設計師的辦公桌",
