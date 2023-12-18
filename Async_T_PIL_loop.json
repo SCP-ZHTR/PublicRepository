@@ -128831,8 +128831,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "2",
-      "votes": "2",
+      "rating": "3",
+      "votes": "3",
       "parent": null,
       "id": "1451879210",
       "detailed_rating": {
@@ -128844,12 +128844,16 @@
             [
                "5701756",
                1702897500
+            ],
+            [
+               "5956873",
+               1702902624
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 2,
-      "justified_votes": 2
+      "justified_rating": 3,
+      "justified_votes": 3
    },
    "1702901091": {
       "title": "SCP-3001-J",
