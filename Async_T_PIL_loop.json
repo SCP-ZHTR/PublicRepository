@@ -128781,5 +128781,33 @@
       "deleted": false,
       "justified_rating": 1,
       "justified_votes": 1
+   },
+   "1702869071": {
+      "title": "SCP-111-KO - 極為微細的誤差",
+      "fullname": "scp-111-ko",
+      "created_at": "1702869071",
+      "created_by": "7605593",
+      "tags": [
+         "euclid",
+         "ko",
+         "meta",
+         "scp",
+         "二次翻譯",
+         "多面體",
+         "展出",
+         "數學性",
+         "精神影響",
+         "翻譯"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1451874850",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
