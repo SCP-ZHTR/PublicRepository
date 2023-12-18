@@ -128850,5 +128850,28 @@
       "deleted": false,
       "justified_rating": 2,
       "justified_votes": 2
+   },
+   "1702901091": {
+      "title": "SCP-3001-J",
+      "fullname": "scp-3001-j",
+      "created_at": "1702901091",
+      "created_by": "6217438",
+      "tags": [
+         "en",
+         "safe",
+         "scp",
+         "搞笑",
+         "翻譯"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1451880311",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
