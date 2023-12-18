@@ -112435,8 +112435,8 @@
          "_禁黑"
       ],
       "comments": "0",
-      "rating": "9",
-      "votes": "9",
+      "rating": "10",
+      "votes": "10",
       "parent": null,
       "id": "1447704601",
       "detailed_rating": {
@@ -112476,12 +112476,16 @@
             [
                "5338547",
                1683803409
+            ],
+            [
+               "8418020",
+               1702890026
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 9,
-      "justified_votes": 9
+      "justified_rating": 10,
+      "justified_votes": 10
    },
    "1684153380": {
       "title": "SCP-ZH-344 - 岸間安寧病房",
