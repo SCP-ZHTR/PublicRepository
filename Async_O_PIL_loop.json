@@ -123395,8 +123395,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "18",
-      "votes": "18",
+      "rating": "19",
+      "votes": "19",
       "parent": null,
       "id": "1451545379",
       "detailed_rating": {
@@ -123472,12 +123472,16 @@
             [
                "5701756",
                1702964302
+            ],
+            [
+               "7073060",
+               1703058378
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 18,
-      "justified_votes": 18
+      "justified_rating": 19,
+      "justified_votes": 19
    },
    "1701302408": {
       "title": "SCP-ZH-019-J - 神造之地",
@@ -123494,8 +123498,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "8",
-      "votes": "8",
+      "rating": "9",
+      "votes": "9",
       "parent": null,
       "id": "1451612153",
       "detailed_rating": {
@@ -123531,12 +123535,16 @@
             [
                "6381244",
                1701410464
+            ],
+            [
+               "7073060",
+               1703058378
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 8,
-      "justified_votes": 8
+      "justified_rating": 9,
+      "justified_votes": 9
    },
    "1701606583": {
       "title": "聖夜相守這一夜",
