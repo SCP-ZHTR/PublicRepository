@@ -128251,8 +128251,8 @@
          "_listpages"
       ],
       "comments": "0",
-      "rating": "3",
-      "votes": "3",
+      "rating": "4",
+      "votes": "4",
       "parent": "admonition",
       "id": "1451758500",
       "detailed_rating": {
@@ -128268,12 +128268,16 @@
             [
                "5370805",
                1702368988
+            ],
+            [
+               "7073060",
+               1703058244
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 3,
-      "justified_votes": 3
+      "justified_rating": 4,
+      "justified_votes": 4
    },
    "1702355475": {
       "title": "SCP-3434 - ……而我們寧可留在黑暗之中",
