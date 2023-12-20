@@ -128991,5 +128991,30 @@
       "deleted": false,
       "justified_rating": 1,
       "justified_votes": 1
+   },
+   "1703070149": {
+      "title": "SCP-1551-EX - 豬先生",
+      "fullname": "scp-1551-ex",
+      "created_at": "1703070149",
+      "created_by": "8543386",
+      "tags": [
+         "en",
+         "scp",
+         "動物",
+         "小小先生",
+         "已解明",
+         "活物",
+         "翻譯"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1451926902",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
