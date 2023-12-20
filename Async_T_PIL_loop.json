@@ -128964,5 +128964,25 @@
       "deleted": false,
       "justified_rating": 0,
       "justified_votes": 0
+   },
+   "1703070004": {
+      "title": "SCP-7855 - 伯哈特煮了⠀⠀⠀⠀⠀⠀",
+      "fullname": "scp-7855",
+      "created_at": "1703070004",
+      "created_by": "6217438",
+      "tags": [
+         "en",
+         "翻譯"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1451926898",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
