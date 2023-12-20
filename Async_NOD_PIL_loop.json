@@ -24048,5 +24048,39 @@
       "deleted": false,
       "justified_rating": 0,
       "justified_votes": 0
+   },
+   "1703026728": {
+      "title": "fragment:scp-6969-j-1",
+      "fullname": "fragment:scp-6969-j-1",
+      "created_at": "1703026728",
+      "created_by": "5370805",
+      "tags": [],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": "scp-6969-j",
+      "id": "1451898795",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
+   },
+   "1703026764": {
+      "title": "fragment:scp-6969-j-2",
+      "fullname": "fragment:scp-6969-j-2",
+      "created_at": "1703026764",
+      "created_by": "5370805",
+      "tags": [],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": "scp-6969-j",
+      "id": "1451898796",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
