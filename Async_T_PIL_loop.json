@@ -129054,5 +129054,30 @@
       "deleted": false,
       "justified_rating": 1,
       "justified_votes": 1
+   },
+   "1703098977": {
+      "title": "SCP-7783 - 今天溶解你的身體吧！",
+      "fullname": "scp-7783",
+      "created_at": "1703098977",
+      "created_by": "5370805",
+      "tags": [
+         "en",
+         "euclid",
+         "scp",
+         "多面體",
+         "本質促動",
+         "概念",
+         "翻譯"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1451930377",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
