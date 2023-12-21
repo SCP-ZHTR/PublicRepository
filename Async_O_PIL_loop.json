@@ -37825,8 +37825,8 @@
          "_零號專隊-goi格式"
       ],
       "comments": "0",
-      "rating": "6",
-      "votes": "6",
+      "rating": "7",
+      "votes": "7",
       "parent": null,
       "id": "1034993910",
       "detailed_rating": {
@@ -37854,12 +37854,16 @@
             [
                "5454699",
                1617120000
+            ],
+            [
+               "8418020",
+               1703140319
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 6,
-      "justified_votes": 6
+      "justified_rating": 7,
+      "justified_votes": 7
    },
    "1588481764": {
       "title": "引血香：我等需給予罪人懲罰",
