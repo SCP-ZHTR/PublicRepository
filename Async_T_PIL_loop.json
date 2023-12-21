@@ -128995,8 +128995,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "4",
-      "votes": "4",
+      "rating": "5",
+      "votes": "5",
       "parent": null,
       "id": "1451926898",
       "detailed_rating": {
@@ -129016,12 +129016,16 @@
             [
                "5251681",
                1703082829
+            ],
+            [
+               "8854072",
+               1703167486
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 4,
-      "justified_votes": 4
+      "justified_rating": 5,
+      "justified_votes": 5
    },
    "1703070149": {
       "title": "SCP-1551-EX - 豬先生",
