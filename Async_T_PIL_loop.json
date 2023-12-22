@@ -57218,7 +57218,7 @@
       "comments": "0",
       "rating": "8",
       "votes": "8",
-      "parent": null,
+      "parent": "scpdeclassified",
       "id": "1307035708",
       "detailed_rating": {
          "+": [
@@ -63075,7 +63075,7 @@
       "comments": "0",
       "rating": "4",
       "votes": "4",
-      "parent": null,
+      "parent": "scpdeclassified",
       "id": "1310929506",
       "detailed_rating": {
          "+": [
@@ -116005,7 +116005,7 @@
       "comments": "0",
       "rating": "3",
       "votes": "3",
-      "parent": null,
+      "parent": "scpdeclassified",
       "id": "1447419404",
       "detailed_rating": {
          "+": [
