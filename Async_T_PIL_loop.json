@@ -81179,7 +81179,7 @@
       "comments": "0",
       "rating": "4",
       "votes": "4",
-      "parent": null,
+      "parent": "scpdeclassified",
       "id": "1331744852",
       "detailed_rating": {
          "+": [
@@ -118005,7 +118005,7 @@
       "comments": "0",
       "rating": "5",
       "votes": "5",
-      "parent": null,
+      "parent": "scpdeclassified",
       "id": "1447756539",
       "detailed_rating": {
          "+": [
@@ -118703,7 +118703,7 @@
       "comments": "0",
       "rating": "2",
       "votes": "2",
-      "parent": null,
+      "parent": "scpdeclassified",
       "id": "1447975583",
       "detailed_rating": {
          "+": [
