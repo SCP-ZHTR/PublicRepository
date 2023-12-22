@@ -107443,7 +107443,7 @@
       "comments": "2",
       "rating": "6",
       "votes": "6",
-      "parent": null,
+      "parent": "scpdeclassified",
       "id": "1445371227",
       "detailed_rating": {
          "+": [
@@ -116041,7 +116041,7 @@
       "comments": "0",
       "rating": "4",
       "votes": "4",
-      "parent": null,
+      "parent": "scpdeclassified",
       "id": "1447424737",
       "detailed_rating": {
          "+": [
