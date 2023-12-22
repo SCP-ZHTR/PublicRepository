@@ -62254,7 +62254,7 @@
       "comments": "1",
       "rating": "2",
       "votes": "2",
-      "parent": null,
+      "parent": "scpdeclassified",
       "id": "1310880195",
       "detailed_rating": {
          "+": [
@@ -62286,7 +62286,7 @@
       "comments": "0",
       "rating": "5",
       "votes": "5",
-      "parent": null,
+      "parent": "scpdeclassified",
       "id": "1310882179",
       "detailed_rating": {
          "+": [
