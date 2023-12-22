@@ -73228,7 +73228,7 @@
       "comments": "4",
       "rating": "17",
       "votes": "17",
-      "parent": null,
+      "parent": "scpdeclassified",
       "id": "1312339925",
       "detailed_rating": {
          "+": [
@@ -116597,7 +116597,7 @@
       "comments": "0",
       "rating": "11",
       "votes": "11",
-      "parent": null,
+      "parent": "scpdeclassified",
       "id": "1449534612",
       "detailed_rating": {
          "+": [
