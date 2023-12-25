@@ -123635,32 +123635,13 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "4",
-      "votes": "4",
+      "rating": "0",
+      "votes": "0",
       "parent": null,
       "id": "1451971243",
-      "detailed_rating": {
-         "+": [
-            [
-               "6709715",
-               1703513727
-            ],
-            [
-               "8792088",
-               1703513727
-            ],
-            [
-               "8854072",
-               1703513727
-            ],
-            [
-               "5251681",
-               1703513727
-            ]
-         ]
-      },
+      "detailed_rating": {},
       "deleted": false,
-      "justified_rating": 4,
-      "justified_votes": 4
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
