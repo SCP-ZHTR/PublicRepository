@@ -123635,8 +123635,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "4",
-      "votes": "4",
+      "rating": "5",
+      "votes": "5",
       "parent": null,
       "id": "1451971243",
       "detailed_rating": {
@@ -123656,12 +123656,16 @@
             [
                "5251681",
                1703514397
+            ],
+            [
+               "8404617",
+               1703519051
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 4,
-      "justified_votes": 4
+      "justified_rating": 5,
+      "justified_votes": 5
    },
    "1703518146": {
       "title": "SCP-ZH-我恨我的腳踏車-J",
