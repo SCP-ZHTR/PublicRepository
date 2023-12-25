@@ -54326,8 +54326,8 @@
          "_cc"
       ],
       "comments": "2",
-      "rating": "20",
-      "votes": "20",
+      "rating": "21",
+      "votes": "21",
       "parent": null,
       "id": "1305759672",
       "detailed_rating": {
@@ -54411,12 +54411,16 @@
             [
                "5013754",
                1617120000
+            ],
+            [
+               "8854072",
+               1703513560
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 20,
-      "justified_votes": 20
+      "justified_rating": 21,
+      "justified_votes": 21
    },
    "1605465941": {
       "title": "被抹去的血痕",
@@ -108173,16 +108177,12 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "27",
-      "votes": "27",
+      "rating": "28",
+      "votes": "28",
       "parent": null,
       "id": "1445618569",
       "detailed_rating": {
          "+": [
-            [
-               "7469850",
-               1674576000
-            ],
             [
                "7995025",
                1680184464
@@ -108286,6 +108286,14 @@
             [
                "5415046",
                1674316800
+            ],
+            [
+               "8854072",
+               1703513560
+            ],
+            [
+               "DELETED",
+               1703513560
             ]
          ]
       },
@@ -123627,13 +123635,32 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "0",
-      "votes": "0",
+      "rating": "4",
+      "votes": "4",
       "parent": null,
       "id": "1451971243",
-      "detailed_rating": {},
+      "detailed_rating": {
+         "+": [
+            [
+               "6709715",
+               1703513727
+            ],
+            [
+               "8792088",
+               1703513727
+            ],
+            [
+               "8854072",
+               1703513727
+            ],
+            [
+               "5251681",
+               1703513727
+            ]
+         ]
+      },
       "deleted": false,
-      "justified_rating": 0,
-      "justified_votes": 0
+      "justified_rating": 4,
+      "justified_votes": 4
    }
 }
