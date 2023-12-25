@@ -128862,8 +128862,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "3",
-      "votes": "3",
+      "rating": "4",
+      "votes": "4",
       "parent": null,
       "id": "1451879210",
       "detailed_rating": {
@@ -128879,12 +128879,16 @@
             [
                "5956873",
                1702902624
+            ],
+            [
+               "8883612",
+               1703514234
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 3,
-      "justified_votes": 3
+      "justified_rating": 4,
+      "justified_votes": 4
    },
    "1702901091": {
       "title": "SCP-3001-J - 褐現實",
@@ -128900,8 +128904,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "8",
-      "votes": "8",
+      "rating": "9",
+      "votes": "9",
       "parent": null,
       "id": "1451880311",
       "detailed_rating": {
@@ -128937,12 +128941,16 @@
             [
                "4990678",
                1703082081
+            ],
+            [
+               "6981058",
+               1703514234
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 8,
-      "justified_votes": 8
+      "justified_rating": 9,
+      "justified_votes": 9
    },
    "1703026896": {
       "title": "SCP-6969-J - 性愛梗新劇場版：終",
@@ -129079,10 +129087,208 @@
       ],
       "hidden_tags": [],
       "comments": "0",
+      "rating": "1",
+      "votes": "1",
+      "parent": null,
+      "id": "1451930377",
+      "detailed_rating": {
+         "+": [
+            [
+               "6981058",
+               1703514234
+            ]
+         ]
+      },
+      "deleted": false,
+      "justified_rating": 1,
+      "justified_votes": 1
+   },
+   "1703280738": {
+      "title": "SCP-5492解密",
+      "fullname": "scp-5492-declassified",
+      "created_at": "1703280738",
+      "created_by": "5370805",
+      "tags": [
+         "用戶解密",
+         "翻譯"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": "scpdeclassified",
+      "id": "1451954480",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
+   },
+   "1703423036": {
+      "title": "SCP-013-J - 究極智慧之烏賊",
+      "fullname": "scp-013-j",
+      "created_at": "1703423036",
+      "created_by": "8543386",
+      "tags": [
+         "en",
+         "euclid",
+         "scp",
+         "動物",
+         "搞笑",
+         "智能",
+         "活物",
+         "空中",
+         "翻譯",
+         "預測性",
+         "頭足類動物"
+      ],
+      "hidden_tags": [],
+      "comments": "3",
       "rating": "0",
       "votes": "0",
       "parent": null,
-      "id": "1451930377",
+      "id": "1451970903",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
+   },
+   "1703439605": {
+      "title": "SCP-004-JP - 不存矛盾的計算機",
+      "fullname": "scp-004-jp",
+      "created_at": "1703439605",
+      "created_by": "7605593",
+      "tags": [
+         "jp",
+         "safe",
+         "scp",
+         "工具",
+         "數學性",
+         "翻譯",
+         "電子",
+         "預測性"
+      ],
+      "hidden_tags": [
+         "_licensebox"
+      ],
+      "comments": "1",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1451971729",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
+   },
+   "1703439609": {
+      "title": "SCP-413-JP - 13級樓梯",
+      "fullname": "scp-413-jp",
+      "created_at": "1703439609",
+      "created_by": "7605593",
+      "tags": [
+         "jp",
+         "safe",
+         "scp",
+         "展出",
+         "建築物",
+         "數學性",
+         "精神影響",
+         "翻譯"
+      ],
+      "hidden_tags": [
+         "_licensebox"
+      ],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1451971730",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
+   },
+   "1703439611": {
+      "title": "SCP-329-JP - 圖形蟲",
+      "fullname": "scp-329-jp",
+      "created_at": "1703439611",
+      "created_by": "7605593",
+      "tags": [
+         "euclid",
+         "jp",
+         "scp",
+         "動物",
+         "寄生性",
+         "數學性",
+         "日本生類創研",
+         "生物性",
+         "精神影響",
+         "翻譯",
+         "蠕蟲"
+      ],
+      "hidden_tags": [
+         "_licensebox"
+      ],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1451971731",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
+   },
+   "1703439615": {
+      "title": "SCP-593-JP - n號表述",
+      "fullname": "scp-593-jp",
+      "created_at": "1703439615",
+      "created_by": "7605593",
+      "tags": [
+         "euclid",
+         "jp",
+         "scp",
+         "城市",
+         "數學性",
+         "本質促動",
+         "翻譯"
+      ],
+      "hidden_tags": [
+         "_licensebox"
+      ],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1451971732",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
+   },
+   "1703495225": {
+      "title": "SCP-6057 - 砰先生",
+      "fullname": "scp-6057",
+      "created_at": "1703495225",
+      "created_by": "8543386",
+      "tags": [
+         "en",
+         "keter",
+         "scp",
+         "人形",
+         "小小先生",
+         "智能",
+         "機器人",
+         "翻譯",
+         "聽覺影響",
+         "自我修復"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1451974788",
       "detailed_rating": {},
       "deleted": false,
       "justified_rating": 0,
