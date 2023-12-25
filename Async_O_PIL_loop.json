@@ -54326,8 +54326,8 @@
          "_cc"
       ],
       "comments": "2",
-      "rating": "20",
-      "votes": "20",
+      "rating": "21",
+      "votes": "21",
       "parent": null,
       "id": "1305759672",
       "detailed_rating": {
@@ -54411,12 +54411,16 @@
             [
                "5013754",
                1617120000
+            ],
+            [
+               "8854072",
+               1703514230
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 20,
-      "justified_votes": 20
+      "justified_rating": 21,
+      "justified_votes": 21
    },
    "1605465941": {
       "title": "被抹去的血痕",
@@ -108173,16 +108177,12 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "27",
-      "votes": "27",
+      "rating": "28",
+      "votes": "28",
       "parent": null,
       "id": "1445618569",
       "detailed_rating": {
          "+": [
-            [
-               "7469850",
-               1674576000
-            ],
             [
                "7995025",
                1680184464
@@ -108286,6 +108286,14 @@
             [
                "5415046",
                1674316800
+            ],
+            [
+               "8854072",
+               1703514230
+            ],
+            [
+               "DELETED",
+               1703514230
             ]
          ]
       },
@@ -123614,5 +123622,26 @@
       "deleted": false,
       "justified_rating": 8,
       "justified_votes": 8
+   },
+   "1703429935": {
+      "title": "聖誕樹下的一堆紙箱",
+      "fullname": "boxes-under-tree",
+      "created_at": "1703429935",
+      "created_by": "5348516",
+      "tags": [
+         "2023聖夜相守",
+         "原創",
+         "藝術作品"
+      ],
+      "hidden_tags": [],
+      "comments": "1",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1451971243",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
