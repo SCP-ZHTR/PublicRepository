@@ -123662,5 +123662,28 @@
       "deleted": false,
       "justified_rating": 4,
       "justified_votes": 4
+   },
+   "1703518146": {
+      "title": "SCP-ZH-我恨我的腳踏車-J",
+      "fullname": "scp-zh-i-hate-my-bike-j",
+      "created_at": "1703518146",
+      "created_by": "6709715",
+      "tags": [
+         "2023聖夜相守",
+         "scp",
+         "site-zh-11",
+         "原創",
+         "搞笑"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1451976109",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
