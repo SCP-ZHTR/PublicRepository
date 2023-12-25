@@ -8320,7 +8320,7 @@
             ]
          ]
       },
-      "deleted": true,
+      "deleted": false,
       "justified_rating": 2,
       "justified_votes": 2
    },
@@ -8349,7 +8349,7 @@
             ]
          ]
       },
-      "deleted": true,
+      "deleted": false,
       "justified_rating": 1,
       "justified_votes": 1
    },
@@ -8369,7 +8369,7 @@
       "parent": null,
       "id": "1316511700",
       "detailed_rating": {},
-      "deleted": true,
+      "deleted": false,
       "justified_rating": 0,
       "justified_votes": 0
    },
@@ -8406,7 +8406,7 @@
             ]
          ]
       },
-      "deleted": true,
+      "deleted": false,
       "justified_rating": 3,
       "justified_votes": 3
    },
@@ -8426,7 +8426,7 @@
       "parent": null,
       "id": "1316881514",
       "detailed_rating": {},
-      "deleted": true,
+      "deleted": false,
       "justified_rating": 0,
       "justified_votes": 0
    },
@@ -8459,7 +8459,7 @@
             ]
          ]
       },
-      "deleted": true,
+      "deleted": false,
       "justified_rating": 2,
       "justified_votes": 2
    },
@@ -8500,7 +8500,7 @@
             ]
          ]
       },
-      "deleted": true,
+      "deleted": false,
       "justified_rating": 4,
       "justified_votes": 4
    },
@@ -8537,7 +8537,7 @@
             ]
          ]
       },
-      "deleted": true,
+      "deleted": false,
       "justified_rating": 3,
       "justified_votes": 3
    },
@@ -8574,7 +8574,7 @@
             ]
          ]
       },
-      "deleted": true,
+      "deleted": false,
       "justified_rating": 3,
       "justified_votes": 3
    },
@@ -8596,7 +8596,7 @@
       "parent": null,
       "id": "1324078667",
       "detailed_rating": {},
-      "deleted": true,
+      "deleted": false,
       "justified_rating": 0,
       "justified_votes": 0
    },
@@ -8645,7 +8645,7 @@
             ]
          ]
       },
-      "deleted": true,
+      "deleted": false,
       "justified_rating": 6,
       "justified_votes": 6
    },
@@ -8667,7 +8667,7 @@
       "parent": null,
       "id": "1324148787",
       "detailed_rating": {},
-      "deleted": true,
+      "deleted": false,
       "justified_rating": 0,
       "justified_votes": 0
    },
@@ -8704,7 +8704,7 @@
             ]
          ]
       },
-      "deleted": true,
+      "deleted": false,
       "justified_rating": 3,
       "justified_votes": 3
    },
@@ -8733,7 +8733,7 @@
             ]
          ]
       },
-      "deleted": true,
+      "deleted": false,
       "justified_rating": 1,
       "justified_votes": 1
    },
@@ -8766,7 +8766,7 @@
             ]
          ]
       },
-      "deleted": true,
+      "deleted": false,
       "justified_rating": 2,
       "justified_votes": 2
    },
@@ -8795,7 +8795,7 @@
             ]
          ]
       },
-      "deleted": true,
+      "deleted": false,
       "justified_rating": 1,
       "justified_votes": 1
    },
@@ -8832,7 +8832,7 @@
             ]
          ]
       },
-      "deleted": true,
+      "deleted": false,
       "justified_rating": 3,
       "justified_votes": 3
    },
@@ -8861,7 +8861,7 @@
             ]
          ]
       },
-      "deleted": true,
+      "deleted": false,
       "justified_rating": 1,
       "justified_votes": 1
    },
@@ -8890,7 +8890,7 @@
             ]
          ]
       },
-      "deleted": true,
+      "deleted": false,
       "justified_rating": 1,
       "justified_votes": 1
    },
@@ -8919,7 +8919,7 @@
             ]
          ]
       },
-      "deleted": true,
+      "deleted": false,
       "justified_rating": 1,
       "justified_votes": 1
    },
@@ -8941,7 +8941,7 @@
       "parent": null,
       "id": "1330472936",
       "detailed_rating": {},
-      "deleted": true,
+      "deleted": false,
       "justified_rating": 0,
       "justified_votes": 0
    },
@@ -8974,7 +8974,7 @@
             ]
          ]
       },
-      "deleted": true,
+      "deleted": false,
       "justified_rating": 2,
       "justified_votes": 2
    },
@@ -9007,7 +9007,7 @@
             ]
          ]
       },
-      "deleted": true,
+      "deleted": false,
       "justified_rating": 2,
       "justified_votes": 2
    },
@@ -9040,7 +9040,7 @@
             ]
          ]
       },
-      "deleted": true,
+      "deleted": false,
       "justified_rating": 2,
       "justified_votes": 2
    },
@@ -9069,7 +9069,7 @@
             ]
          ]
       },
-      "deleted": true,
+      "deleted": false,
       "justified_rating": 1,
       "justified_votes": 1
    },
@@ -9088,7 +9088,7 @@
       "parent": null,
       "id": "1331193318",
       "detailed_rating": {},
-      "deleted": true,
+      "deleted": false,
       "justified_rating": 0,
       "justified_votes": 0
    },
@@ -9130,7 +9130,7 @@
             ]
          ]
       },
-      "deleted": true,
+      "deleted": false,
       "justified_rating": 5,
       "justified_votes": 5
    },
@@ -9167,7 +9167,7 @@
             ]
          ]
       },
-      "deleted": true,
+      "deleted": false,
       "justified_rating": 3,
       "justified_votes": 3
    },
@@ -9199,7 +9199,7 @@
             ]
          ]
       },
-      "deleted": true,
+      "deleted": false,
       "justified_rating": 2,
       "justified_votes": 2
    },
@@ -9236,7 +9236,7 @@
             ]
          ]
       },
-      "deleted": true,
+      "deleted": false,
       "justified_rating": 3,
       "justified_votes": 3
    },
@@ -9269,7 +9269,7 @@
             ]
          ]
       },
-      "deleted": true,
+      "deleted": false,
       "justified_rating": 2,
       "justified_votes": 2
    },
@@ -9292,7 +9292,7 @@
       "parent": null,
       "id": "1348138348",
       "detailed_rating": {},
-      "deleted": true,
+      "deleted": false,
       "justified_rating": 0,
       "justified_votes": 0
    },
@@ -9315,7 +9315,7 @@
       "parent": null,
       "id": "1348152820",
       "detailed_rating": {},
-      "deleted": true,
+      "deleted": false,
       "justified_rating": 0,
       "justified_votes": 0
    },
@@ -9334,7 +9334,7 @@
       "parent": null,
       "id": "1358023143",
       "detailed_rating": {},
-      "deleted": true,
+      "deleted": false,
       "justified_rating": 0,
       "justified_votes": 0
    },
@@ -9366,7 +9366,7 @@
             ]
          ]
       },
-      "deleted": true,
+      "deleted": false,
       "justified_rating": 2,
       "justified_votes": 2
    },
@@ -9400,7 +9400,7 @@
             ]
          ]
       },
-      "deleted": true,
+      "deleted": false,
       "justified_rating": 3,
       "justified_votes": 3
    },
@@ -9437,7 +9437,7 @@
             ]
          ]
       },
-      "deleted": true,
+      "deleted": false,
       "justified_rating": 3,
       "justified_votes": 3
    },
@@ -9457,7 +9457,7 @@
       "parent": null,
       "id": "1402039269",
       "detailed_rating": {},
-      "deleted": true,
+      "deleted": false,
       "justified_rating": 0,
       "justified_votes": 0
    },
@@ -9491,7 +9491,7 @@
             ]
          ]
       },
-      "deleted": true,
+      "deleted": false,
       "justified_rating": 2,
       "justified_votes": 2
    },
@@ -9533,7 +9533,7 @@
             ]
          ]
       },
-      "deleted": true,
+      "deleted": false,
       "justified_rating": 5,
       "justified_votes": 5
    },
@@ -9566,7 +9566,7 @@
             ]
          ]
       },
-      "deleted": true,
+      "deleted": false,
       "justified_rating": 2,
       "justified_votes": 2
    },
@@ -9595,7 +9595,7 @@
             ]
          ]
       },
-      "deleted": true,
+      "deleted": false,
       "justified_rating": 1,
       "justified_votes": 1
    },
@@ -9621,7 +9621,7 @@
             ]
          ]
       },
-      "deleted": true,
+      "deleted": false,
       "justified_rating": 1,
       "justified_votes": 1
    },
@@ -9663,7 +9663,7 @@
             ]
          ]
       },
-      "deleted": true,
+      "deleted": false,
       "justified_rating": 4,
       "justified_votes": 4
    },
@@ -9708,7 +9708,7 @@
             ]
          ]
       },
-      "deleted": true,
+      "deleted": false,
       "justified_rating": 3,
       "justified_votes": 3
    },
@@ -9757,7 +9757,7 @@
             ]
          ]
       },
-      "deleted": true,
+      "deleted": false,
       "justified_rating": 6,
       "justified_votes": 6
    },
@@ -9778,7 +9778,7 @@
       "parent": null,
       "id": "1420059281",
       "detailed_rating": {},
-      "deleted": true,
+      "deleted": false,
       "justified_rating": 0,
       "justified_votes": 0
    },
@@ -9799,7 +9799,7 @@
       "parent": "guide-hub",
       "id": "1420311470",
       "detailed_rating": {},
-      "deleted": true,
+      "deleted": false,
       "justified_rating": 0,
       "justified_votes": 0
    },
@@ -9845,7 +9845,7 @@
             ]
          ]
       },
-      "deleted": true,
+      "deleted": false,
       "justified_rating": 5,
       "justified_votes": 5
    },
@@ -9866,7 +9866,7 @@
       "parent": null,
       "id": "1420878082",
       "detailed_rating": {},
-      "deleted": true,
+      "deleted": false,
       "justified_rating": 0,
       "justified_votes": 0
    },
@@ -9888,7 +9888,7 @@
       "parent": null,
       "id": "1429940298",
       "detailed_rating": {},
-      "deleted": true,
+      "deleted": false,
       "justified_rating": 0,
       "justified_votes": 0
    },
@@ -9908,7 +9908,7 @@
       "parent": null,
       "id": "1434949879",
       "detailed_rating": {},
-      "deleted": true,
+      "deleted": false,
       "justified_rating": 0,
       "justified_votes": 0
    },
@@ -9941,7 +9941,7 @@
             ]
          ]
       },
-      "deleted": true,
+      "deleted": false,
       "justified_rating": 2,
       "justified_votes": 2
    },
@@ -9981,7 +9981,7 @@
             ]
          ]
       },
-      "deleted": true,
+      "deleted": false,
       "justified_rating": 4,
       "justified_votes": 4
    },
@@ -10027,7 +10027,7 @@
             ]
          ]
       },
-      "deleted": true,
+      "deleted": false,
       "justified_rating": 6,
       "justified_votes": 6
    },
@@ -10051,7 +10051,7 @@
             ]
          ]
       },
-      "deleted": true,
+      "deleted": false,
       "justified_rating": 1,
       "justified_votes": 1
    },
@@ -10097,7 +10097,7 @@
             ]
          ]
       },
-      "deleted": true,
+      "deleted": false,
       "justified_rating": 5,
       "justified_votes": 5
    },
@@ -10134,7 +10134,7 @@
             ]
          ]
       },
-      "deleted": true,
+      "deleted": false,
       "justified_rating": 3,
       "justified_votes": 3
    },
@@ -10158,7 +10158,7 @@
             ]
          ]
       },
-      "deleted": true,
+      "deleted": false,
       "justified_rating": 1,
       "justified_votes": 1
    },
@@ -10208,7 +10208,7 @@
             ]
          ]
       },
-      "deleted": true,
+      "deleted": false,
       "justified_rating": 7,
       "justified_votes": 7
    },
@@ -10249,7 +10249,7 @@
             ]
          ]
       },
-      "deleted": true,
+      "deleted": false,
       "justified_rating": 4,
       "justified_votes": 4
    },
@@ -10272,7 +10272,7 @@
       "parent": null,
       "id": "1444678185",
       "detailed_rating": {},
-      "deleted": true,
+      "deleted": false,
       "justified_rating": 0,
       "justified_votes": 0
    },
@@ -10313,7 +10313,7 @@
             ]
          ]
       },
-      "deleted": true,
+      "deleted": false,
       "justified_rating": 4,
       "justified_votes": 4
    },
@@ -10347,7 +10347,7 @@
             ]
          ]
       },
-      "deleted": true,
+      "deleted": false,
       "justified_rating": 3,
       "justified_votes": 3
    },
@@ -10371,7 +10371,7 @@
             ]
          ]
       },
-      "deleted": true,
+      "deleted": false,
       "justified_rating": 1,
       "justified_votes": 1
    },
@@ -10409,7 +10409,7 @@
             ]
          ]
       },
-      "deleted": true,
+      "deleted": false,
       "justified_rating": 3,
       "justified_votes": 3
    },
@@ -10428,7 +10428,7 @@
       "parent": null,
       "id": "1446473165",
       "detailed_rating": {},
-      "deleted": true,
+      "deleted": false,
       "justified_rating": 0,
       "justified_votes": 0
    },
@@ -10447,7 +10447,7 @@
       "parent": null,
       "id": "1446473792",
       "detailed_rating": {},
-      "deleted": true,
+      "deleted": false,
       "justified_rating": 0,
       "justified_votes": 0
    },
@@ -10466,7 +10466,7 @@
       "parent": null,
       "id": "1446562165",
       "detailed_rating": {},
-      "deleted": true,
+      "deleted": false,
       "justified_rating": 0,
       "justified_votes": 0
    },
@@ -10495,7 +10495,7 @@
             ]
          ]
       },
-      "deleted": true,
+      "deleted": false,
       "justified_rating": 1,
       "justified_votes": 1
    },
@@ -10541,7 +10541,7 @@
             ]
          ]
       },
-      "deleted": true,
+      "deleted": false,
       "justified_rating": 6,
       "justified_votes": 6
    },
@@ -10576,7 +10576,7 @@
             ]
          ]
       },
-      "deleted": true,
+      "deleted": false,
       "justified_rating": 3,
       "justified_votes": 3
    },
@@ -10595,7 +10595,7 @@
       "parent": null,
       "id": "1448388448",
       "detailed_rating": {},
-      "deleted": true,
+      "deleted": false,
       "justified_rating": 0,
       "justified_votes": 0
    },
@@ -10612,7 +10612,7 @@
       "parent": null,
       "id": "1449012593",
       "detailed_rating": {},
-      "deleted": true,
+      "deleted": false,
       "justified_rating": 0,
       "justified_votes": 0
    },
@@ -10642,7 +10642,7 @@
             ]
          ]
       },
-      "deleted": true,
+      "deleted": false,
       "justified_rating": 1,
       "justified_votes": 1
    },
@@ -10672,7 +10672,7 @@
             ]
          ]
       },
-      "deleted": true,
+      "deleted": false,
       "justified_rating": 1,
       "justified_votes": 1
    },
@@ -10705,7 +10705,7 @@
             ]
          ]
       },
-      "deleted": true,
+      "deleted": false,
       "justified_rating": 2,
       "justified_votes": 2
    },
@@ -10735,7 +10735,7 @@
             ]
          ]
       },
-      "deleted": true,
+      "deleted": false,
       "justified_rating": 2,
       "justified_votes": 2
    },
@@ -10777,7 +10777,7 @@
             ]
          ]
       },
-      "deleted": true,
+      "deleted": false,
       "justified_rating": 5,
       "justified_votes": 5
    },
@@ -10815,7 +10815,7 @@
             ]
          ]
       },
-      "deleted": true,
+      "deleted": false,
       "justified_rating": 4,
       "justified_votes": 4
    },
@@ -10845,7 +10845,7 @@
             ]
          ]
       },
-      "deleted": true,
+      "deleted": false,
       "justified_rating": 1,
       "justified_votes": 1
    },
@@ -10875,7 +10875,7 @@
             ]
          ]
       },
-      "deleted": true,
+      "deleted": false,
       "justified_rating": 1,
       "justified_votes": 1
    },
@@ -10905,7 +10905,7 @@
             ]
          ]
       },
-      "deleted": true,
+      "deleted": false,
       "justified_rating": 1,
       "justified_votes": 1
    },
@@ -10935,7 +10935,7 @@
             ]
          ]
       },
-      "deleted": true,
+      "deleted": false,
       "justified_rating": 2,
       "justified_votes": 2
    },
@@ -10954,7 +10954,7 @@
       "parent": null,
       "id": "1451132936",
       "detailed_rating": {},
-      "deleted": true,
+      "deleted": false,
       "justified_rating": 0,
       "justified_votes": 0
    },
@@ -10980,7 +10980,7 @@
             ]
          ]
       },
-      "deleted": true,
+      "deleted": false,
       "justified_rating": 1,
       "justified_votes": 1
    },
