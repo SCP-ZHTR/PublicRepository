@@ -129206,14 +129206,21 @@
          "_licensebox"
       ],
       "comments": "0",
-      "rating": "0",
-      "votes": "0",
+      "rating": "1",
+      "votes": "1",
       "parent": null,
       "id": "1451971730",
-      "detailed_rating": {},
+      "detailed_rating": {
+         "+": [
+            [
+               "8543386",
+               1703585417
+            ]
+         ]
+      },
       "deleted": false,
-      "justified_rating": 0,
-      "justified_votes": 0
+      "justified_rating": 1,
+      "justified_votes": 1
    },
    "1703439611": {
       "title": "SCP-329-JP - 圖形蟲",
