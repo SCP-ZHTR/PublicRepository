@@ -120839,8 +120839,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "24",
-      "votes": "24",
+      "rating": "25",
+      "votes": "25",
       "parent": null,
       "id": "1450864432",
       "detailed_rating": {
@@ -120940,12 +120940,16 @@
             [
                "6381244",
                1701073423
+            ],
+            [
+               "8854072",
+               1703615430
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 24,
-      "justified_votes": 24
+      "justified_rating": 25,
+      "justified_votes": 25
    },
    "1697990899": {
       "title": "火鶴花",
@@ -123518,8 +123522,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "9",
-      "votes": "9",
+      "rating": "10",
+      "votes": "10",
       "parent": null,
       "id": "1451612153",
       "detailed_rating": {
@@ -123559,12 +123563,16 @@
             [
                "7073060",
                1703058378
+            ],
+            [
+               "8854072",
+               1703615430
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 9,
-      "justified_votes": 9
+      "justified_rating": 10,
+      "justified_votes": 10
    },
    "1701606583": {
       "title": "聖夜相守這一夜",
@@ -123726,8 +123734,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "4",
-      "votes": "4",
+      "rating": "5",
+      "votes": "5",
       "parent": null,
       "id": "1451979719",
       "detailed_rating": {
@@ -123747,11 +123755,15 @@
             [
                "8883612",
                1703608401
+            ],
+            [
+               "8854072",
+               1703615430
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 4,
-      "justified_votes": 4
+      "justified_rating": 5,
+      "justified_votes": 5
    }
 }
