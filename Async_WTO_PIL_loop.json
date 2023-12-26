@@ -11582,5 +11582,22 @@
       "deleted": true,
       "justified_rating": 0,
       "justified_votes": 0
+   },
+   "1703567730": {
+      "title": "SCP-1050 - 黑曜石警世碑",
+      "fullname": "scp-1050",
+      "created_at": "1703567730",
+      "created_by": "7605593",
+      "tags": [],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1451978082",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
