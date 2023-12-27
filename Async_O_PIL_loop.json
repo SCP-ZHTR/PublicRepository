@@ -108055,8 +108055,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "7",
-      "votes": "7",
+      "rating": "8",
+      "votes": "8",
       "parent": null,
       "id": "1445551704",
       "detailed_rating": {
@@ -108088,12 +108088,16 @@
             [
                "DELETED",
                1695207224
+            ],
+            [
+               "5013754",
+               1703657607
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 6,
-      "justified_votes": 6
+      "justified_rating": 7,
+      "justified_votes": 7
    },
    "1674350774": {
       "title": "藝術作品：SCP-ZH-002（Control Z版）",
