@@ -123789,8 +123789,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "3",
-      "votes": "3",
+      "rating": "4",
+      "votes": "4",
       "parent": "scp-zh-148",
       "id": "1451983031",
       "detailed_rating": {
@@ -123806,12 +123806,16 @@
             [
                "5435485",
                1703659608
+            ],
+            [
+               "5370805",
+               1703678294
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 3,
-      "justified_votes": 3
+      "justified_rating": 4,
+      "justified_votes": 4
    },
    "1703677343": {
       "title": "Site-ZH-11通用aic mars.aic的虛擬形象",
@@ -123826,8 +123830,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "3",
-      "votes": "3",
+      "rating": "6",
+      "votes": "6",
       "parent": null,
       "id": "1451984304",
       "detailed_rating": {
@@ -123843,11 +123847,23 @@
             [
                "8177208",
                1703678162
+            ],
+            [
+               "6503482",
+               1703678294
+            ],
+            [
+               "6217438",
+               1703678294
+            ],
+            [
+               "5370805",
+               1703678294
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 3,
-      "justified_votes": 3
+      "justified_rating": 6,
+      "justified_votes": 6
    }
 }
