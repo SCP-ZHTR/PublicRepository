@@ -123777,5 +123777,25 @@
       "deleted": false,
       "justified_rating": 6,
       "justified_votes": 6
+   },
+   "1703658855": {
+      "title": "酪梨：紅色的灌溉",
+      "fullname": "art-of-scp-zh-148",
+      "created_at": "1703658855",
+      "created_by": "5013754",
+      "tags": [
+         "原創",
+         "藝術作品"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": "scp-zh-148",
+      "id": "1451983031",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
