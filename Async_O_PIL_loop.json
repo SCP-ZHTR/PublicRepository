@@ -123812,5 +123812,27 @@
       "deleted": false,
       "justified_rating": 3,
       "justified_votes": 3
+   },
+   "1703677343": {
+      "title": "Site-ZH-11通用aic mars.aic的虛擬形象",
+      "fullname": "i-do-not-want-to-translate-art",
+      "created_at": "1703677343",
+      "created_by": "8177208",
+      "tags": [
+         "2023聖夜相守",
+         "site-zh-11",
+         "原創",
+         "藝術作品"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1451984304",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
