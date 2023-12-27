@@ -123891,8 +123891,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "5",
-      "votes": "5",
+      "rating": "4",
+      "votes": "4",
       "parent": null,
       "id": "1451984434",
       "detailed_rating": {
@@ -123910,17 +123910,13 @@
                1703680250
             ],
             [
-               "8883612",
-               1703680250
-            ],
-            [
                "5701756",
                1703680872
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 5,
-      "justified_votes": 5
+      "justified_rating": 4,
+      "justified_votes": 4
    }
 }
