@@ -123690,8 +123690,8 @@
       ],
       "hidden_tags": [],
       "comments": "2",
-      "rating": "5",
-      "votes": "5",
+      "rating": "6",
+      "votes": "6",
       "parent": null,
       "id": "1451976109",
       "detailed_rating": {
@@ -123715,12 +123715,16 @@
             [
                "5370805",
                1703614561
+            ],
+            [
+               "7571354",
+               1703651970
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 5,
-      "justified_votes": 5
+      "justified_rating": 6,
+      "justified_votes": 6
    },
    "1703588289": {
       "title": "scp-zh-750 油漬天使，但是藝作",
