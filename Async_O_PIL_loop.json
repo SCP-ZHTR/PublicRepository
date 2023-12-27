@@ -123648,8 +123648,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "5",
-      "votes": "5",
+      "rating": "6",
+      "votes": "6",
       "parent": null,
       "id": "1451971243",
       "detailed_rating": {
@@ -123673,12 +123673,16 @@
             [
                "8404617",
                1703519051
+            ],
+            [
+               "6503482",
+               1703689043
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 5,
-      "justified_votes": 5
+      "justified_rating": 6,
+      "justified_votes": 6
    },
    "1703518146": {
       "title": "SCP-ZH-我恨我的腳踏車-J",
@@ -123789,8 +123793,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "4",
-      "votes": "4",
+      "rating": "5",
+      "votes": "5",
       "parent": "scp-zh-148",
       "id": "1451983031",
       "detailed_rating": {
@@ -123810,12 +123814,16 @@
             [
                "5370805",
                1703678294
+            ],
+            [
+               "6503482",
+               1703689043
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 4,
-      "justified_votes": 4
+      "justified_rating": 5,
+      "justified_votes": 5
    },
    "1703677343": {
       "title": "Site-ZH-11通用aic mars.aic的虛擬形象",
