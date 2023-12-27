@@ -123869,5 +123869,27 @@
       "deleted": false,
       "justified_rating": 7,
       "justified_votes": 7
+   },
+   "1703678970": {
+      "title": "事件代號：核裂擠兌-誓言",
+      "fullname": "the-declaration",
+      "created_at": "1703678970",
+      "created_by": "8883612",
+      "tags": [
+         "2023聖夜相守",
+         "原創",
+         "故事",
+         "核裂擠兌"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1451984434",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
