@@ -123830,8 +123830,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "8",
-      "votes": "8",
+      "rating": "9",
+      "votes": "9",
       "parent": null,
       "id": "1451984304",
       "detailed_rating": {
@@ -123867,12 +123867,16 @@
             [
                "5454699",
                1703679752
+            ],
+            [
+               "8404617",
+               1703680872
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 8,
-      "justified_votes": 8
+      "justified_rating": 9,
+      "justified_votes": 9
    },
    "1703678970": {
       "title": "事件代號：核裂擠兌-誓言",
@@ -123887,8 +123891,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "4",
-      "votes": "4",
+      "rating": "5",
+      "votes": "5",
       "parent": null,
       "id": "1451984434",
       "detailed_rating": {
@@ -123908,11 +123912,15 @@
             [
                "8883612",
                1703680250
+            ],
+            [
+               "5701756",
+               1703680872
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 4,
-      "justified_votes": 4
+      "justified_rating": 5,
+      "justified_votes": 5
    }
 }
