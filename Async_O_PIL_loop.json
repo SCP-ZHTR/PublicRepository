@@ -123919,8 +123919,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "5",
-      "votes": "5",
+      "rating": "6",
+      "votes": "6",
       "parent": null,
       "id": "1451984434",
       "detailed_rating": {
@@ -123944,12 +123944,16 @@
             [
                "8883612",
                1703684197
+            ],
+            [
+               "8854072",
+               1703752657
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 5,
-      "justified_votes": 5
+      "justified_rating": 6,
+      "justified_votes": 6
    },
    "1703688093": {
       "title": "SCP-ZH-945",
