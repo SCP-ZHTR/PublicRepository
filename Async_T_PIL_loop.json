@@ -128461,14 +128461,21 @@
          "_licensebox"
       ],
       "comments": "0",
-      "rating": "0",
-      "votes": "0",
+      "rating": "1",
+      "votes": "1",
       "parent": null,
       "id": "1451800807",
-      "detailed_rating": {},
+      "detailed_rating": {
+         "+": [
+            [
+               "8177208",
+               1703751529
+            ]
+         ]
+      },
       "deleted": false,
-      "justified_rating": 0,
-      "justified_votes": 0
+      "justified_rating": 1,
+      "justified_votes": 1
    },
    "1702727289": {
       "title": "SCP-5075 - 一切受絞之王、真實關懷、真理招來",
