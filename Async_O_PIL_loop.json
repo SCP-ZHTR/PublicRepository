@@ -123956,7 +123956,7 @@
       "justified_votes": 6
    },
    "1703688093": {
-      "title": "SCP-ZH-945",
+      "title": "SCP-ZH-945 - 聖誕小紅帽繪本",
       "fullname": "scp-zh-945",
       "created_at": "1703688093",
       "created_by": "8846720",
@@ -123966,9 +123966,9 @@
          "原創"
       ],
       "hidden_tags": [],
-      "comments": "1",
-      "rating": "3",
-      "votes": "3",
+      "comments": "2",
+      "rating": "4",
+      "votes": "4",
       "parent": null,
       "id": "1451984932",
       "detailed_rating": {
@@ -123984,11 +123984,15 @@
             [
                "5252281",
                1703757206
+            ],
+            [
+               "5370805",
+               1703764102
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 3,
-      "justified_votes": 3
+      "justified_rating": 4,
+      "justified_votes": 4
    }
 }
