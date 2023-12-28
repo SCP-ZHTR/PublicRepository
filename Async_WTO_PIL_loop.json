@@ -11701,7 +11701,7 @@
       "parent": null,
       "id": "1451988424",
       "detailed_rating": {},
-      "deleted": false,
+      "deleted": true,
       "justified_rating": 0,
       "justified_votes": 0
    },
@@ -11718,7 +11718,7 @@
       "parent": null,
       "id": "1451988425",
       "detailed_rating": {},
-      "deleted": false,
+      "deleted": true,
       "justified_rating": 0,
       "justified_votes": 0
    },
@@ -11735,7 +11735,7 @@
       "parent": null,
       "id": "1451988426",
       "detailed_rating": {},
-      "deleted": false,
+      "deleted": true,
       "justified_rating": 0,
       "justified_votes": 0
    },
@@ -11752,7 +11752,7 @@
       "parent": null,
       "id": "1451988427",
       "detailed_rating": {},
-      "deleted": false,
+      "deleted": true,
       "justified_rating": 0,
       "justified_votes": 0
    },
@@ -11769,7 +11769,7 @@
       "parent": null,
       "id": "1451988428",
       "detailed_rating": {},
-      "deleted": false,
+      "deleted": true,
       "justified_rating": 0,
       "justified_votes": 0
    }
