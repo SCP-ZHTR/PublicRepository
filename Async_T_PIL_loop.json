@@ -129347,5 +129347,169 @@
       "deleted": false,
       "justified_rating": 0,
       "justified_votes": 0
+   },
+   "1703750400": {
+      "title": "SCP-5693 - 欲知上帝理財觀念，觀其所贈之人足矣",
+      "fullname": "scp-5693",
+      "created_at": "1703750400",
+      "created_by": "7605593",
+      "tags": [
+         "en",
+         "en-急迫競賽2021",
+         "euclid",
+         "scp",
+         "動物",
+         "地下",
+         "宗教",
+         "戰術神學部",
+         "昆蟲",
+         "活物",
+         "翻譯",
+         "蜂巢思維",
+         "變形",
+         "銘文"
+      ],
+      "hidden_tags": [
+         "_licensebox",
+         "_禁黑"
+      ],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1451988424",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
+   },
+   "1703750403": {
+      "title": "SCP-6961 - 當恨來信，而非來使",
+      "fullname": "scp-6961",
+      "created_at": "1703750403",
+      "created_by": "7605593",
+      "tags": [
+         "en",
+         "scp",
+         "人形",
+         "宗教",
+         "戰術神學部",
+         "智能",
+         "機密分級",
+         "翻譯"
+      ],
+      "hidden_tags": [
+         "_licensebox",
+         "_禁黑"
+      ],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1451988425",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
+   },
+   "1703750407": {
+      "title": "SCP-3300-JP - 唯一神（們）降臨",
+      "fullname": "scp-3300-jp",
+      "created_at": "1703750407",
+      "created_by": "7605593",
+      "tags": [
+         "jp",
+         "jp-急迫競賽2023",
+         "k級情景",
+         "scp",
+         "三波特蘭",
+         "全球超自然聯盟",
+         "地平線倡議",
+         "宗教",
+         "戰術神學部",
+         "欲肉教",
+         "無效化",
+         "破碎之神教會",
+         "翻譯",
+         "蕭邦崇拜",
+         "超維度",
+         "門徑",
+         "馬克士威宗",
+         "鹿學院"
+      ],
+      "hidden_tags": [
+         "_licensebox",
+         "_禁黑"
+      ],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1451988426",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
+   },
+   "1703750412": {
+      "title": "SCP-6760 - 祝下次好運",
+      "fullname": "scp-6760",
+      "created_at": "1703750412",
+      "created_by": "7605593",
+      "tags": [
+         "en",
+         "euclid",
+         "scp",
+         "合著",
+         "基金會製造",
+         "戰術神學部",
+         "知識",
+         "翻譯",
+         "電腦"
+      ],
+      "hidden_tags": [
+         "_licensebox"
+      ],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1451988427",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
+   },
+   "1703750418": {
+      "title": "SCP-7174 - 維繫每一個人的信仰",
+      "fullname": "scp-7174",
+      "created_at": "1703750418",
+      "created_by": "7605593",
+      "tags": [
+         "en",
+         "en-冷稿空降",
+         "safe",
+         "scp",
+         "spatial",
+         "基金會製造",
+         "戰術神學部",
+         "翻譯",
+         "通訊",
+         "門徑",
+         "電腦"
+      ],
+      "hidden_tags": [
+         "_licensebox",
+         "_禁黑"
+      ],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1451988428",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
