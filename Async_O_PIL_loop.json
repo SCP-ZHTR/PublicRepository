@@ -48642,8 +48642,8 @@
          "_賞金已解明"
       ],
       "comments": "0",
-      "rating": "5",
-      "votes": "5",
+      "rating": "6",
+      "votes": "6",
       "parent": null,
       "id": "1261307892",
       "detailed_rating": {
@@ -48667,12 +48667,16 @@
             [
                "5454699",
                1659542400
+            ],
+            [
+               "2975927",
+               1703829060
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 5,
-      "justified_votes": 5
+      "justified_rating": 6,
+      "justified_votes": 6
    },
    "1597940153": {
       "title": "基金會員工排起了隊",
