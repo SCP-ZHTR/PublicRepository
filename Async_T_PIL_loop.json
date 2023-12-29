@@ -49518,8 +49518,8 @@
          "_licensebox"
       ],
       "comments": "0",
-      "rating": "5",
-      "votes": "5",
+      "rating": "6",
+      "votes": "6",
       "parent": null,
       "id": "1305793956",
       "detailed_rating": {
@@ -49543,12 +49543,16 @@
             [
                "5415046",
                1617120000
+            ],
+            [
+               "8854072",
+               1703825169
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 5,
-      "justified_votes": 5
+      "justified_rating": 6,
+      "justified_votes": 6
    },
    "1605328052": {
       "title": "SCP-2006 - 太嚇人了",
