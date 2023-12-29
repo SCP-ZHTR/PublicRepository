@@ -122618,8 +122618,8 @@
          "_cc"
       ],
       "comments": "4",
-      "rating": "24",
-      "votes": "24",
+      "rating": "25",
+      "votes": "25",
       "parent": null,
       "id": "1451120156",
       "detailed_rating": {
@@ -122719,12 +122719,16 @@
             [
                "8883612",
                1702776637
+            ],
+            [
+               "8938185",
+               1703849086
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 24,
-      "justified_votes": 24
+      "justified_rating": 25,
+      "justified_votes": 25
    },
    "1698508591": {
       "title": "偽造的記憶",
