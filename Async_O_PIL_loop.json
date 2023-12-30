@@ -124040,8 +124040,8 @@
          "_禁黑"
       ],
       "comments": "0",
-      "rating": "7",
-      "votes": "7",
+      "rating": "8",
+      "votes": "8",
       "parent": null,
       "id": "1451996101",
       "detailed_rating": {
@@ -124073,12 +124073,16 @@
             [
                "5956873",
                1703863699
+            ],
+            [
+               "6503482",
+               1703933625
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 7,
-      "justified_votes": 7
+      "justified_rating": 8,
+      "justified_votes": 8
    },
    "1703899834": {
       "title": "Kislorod與他的思念",
@@ -124175,13 +124179,20 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "0",
-      "votes": "0",
+      "rating": "1",
+      "votes": "1",
       "parent": null,
       "id": "1452000301",
-      "detailed_rating": {},
+      "detailed_rating": {
+         "+": [
+            [
+               "6503482",
+               1703933625
+            ]
+         ]
+      },
       "deleted": false,
-      "justified_rating": 0,
-      "justified_votes": 0
+      "justified_rating": 1,
+      "justified_votes": 1
    }
 }
