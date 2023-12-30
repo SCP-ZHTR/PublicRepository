@@ -11874,5 +11874,39 @@
       "deleted": true,
       "justified_rating": 0,
       "justified_votes": 0
+   },
+   "1703937487": {
+      "title": "SCP-1132-J - 頭射",
+      "fullname": "scp-1132-j",
+      "created_at": "1703937487",
+      "created_by": "5251681",
+      "tags": [],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1452001566",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
+   },
+   "1703937523": {
+      "title": "SCP-ZH-816 - 湖面不再泛起漣漪之時",
+      "fullname": "scp-zh-816",
+      "created_at": "1703937523",
+      "created_by": "7521095",
+      "tags": [],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1452001568",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
