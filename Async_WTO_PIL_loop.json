@@ -11888,7 +11888,7 @@
       "parent": null,
       "id": "1452001566",
       "detailed_rating": {},
-      "deleted": false,
+      "deleted": true,
       "justified_rating": 0,
       "justified_votes": 0
    },
@@ -11922,7 +11922,7 @@
       "parent": null,
       "id": "1452001570",
       "detailed_rating": {},
-      "deleted": false,
+      "deleted": true,
       "justified_rating": 0,
       "justified_votes": 0
    },
@@ -11939,7 +11939,7 @@
       "parent": null,
       "id": "1452001577",
       "detailed_rating": {},
-      "deleted": false,
+      "deleted": true,
       "justified_rating": 0,
       "justified_votes": 0
    }
