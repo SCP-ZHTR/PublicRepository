@@ -123603,8 +123603,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "9",
-      "votes": "9",
+      "rating": "10",
+      "votes": "10",
       "parent": null,
       "id": "1451665487",
       "detailed_rating": {
@@ -123644,12 +123644,16 @@
             [
                "8883612",
                1703771608
+            ],
+            [
+               "8177208",
+               1703924945
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 9,
-      "justified_votes": 9
+      "justified_rating": 10,
+      "justified_votes": 10
    },
    "1703429935": {
       "title": "聖誕樹下的一堆紙箱",
