@@ -129522,14 +129522,21 @@
          "_禁黑"
       ],
       "comments": "1",
-      "rating": "0",
-      "votes": "0",
+      "rating": "1",
+      "votes": "1",
       "parent": null,
       "id": "1451988428",
-      "detailed_rating": {},
+      "detailed_rating": {
+         "+": [
+            [
+               "1360122",
+               1703935049
+            ]
+         ]
+      },
       "deleted": false,
-      "justified_rating": 0,
-      "justified_votes": 0
+      "justified_rating": 1,
+      "justified_votes": 1
    },
    "1703917975": {
       "title": "SCP 前台組織",
