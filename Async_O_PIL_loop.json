@@ -123605,7 +123605,9 @@
          "原創",
          "挑戰活動"
       ],
-      "hidden_tags": [],
+      "hidden_tags": [
+         "_禁黑"
+      ],
       "comments": "1",
       "rating": "10",
       "votes": "10",
@@ -123672,8 +123674,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "6",
-      "votes": "6",
+      "rating": "7",
+      "votes": "7",
       "parent": null,
       "id": "1451971243",
       "detailed_rating": {
@@ -123701,12 +123703,16 @@
             [
                "6503482",
                1703689043
+            ],
+            [
+               "4990678",
+               1703954720
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 6,
-      "justified_votes": 6
+      "justified_rating": 7,
+      "justified_votes": 7
    },
    "1703518146": {
       "title": "SCP-ZH-我恨我的腳踏車-J",
@@ -123770,8 +123776,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "8",
-      "votes": "8",
+      "rating": "10",
+      "votes": "10",
       "parent": null,
       "id": "1451979719",
       "detailed_rating": {
@@ -123807,12 +123813,20 @@
             [
                "5370805",
                1703861281
+            ],
+            [
+               "5334590",
+               1703954720
+            ],
+            [
+               "5338547",
+               1703954720
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 8,
-      "justified_votes": 8
+      "justified_rating": 10,
+      "justified_votes": 10
    },
    "1703658855": {
       "title": "酪梨：紅色的灌溉",
@@ -123870,8 +123884,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "13",
-      "votes": "13",
+      "rating": "14",
+      "votes": "14",
       "parent": null,
       "id": "1451984304",
       "detailed_rating": {
@@ -123927,12 +123941,16 @@
             [
                "8177208",
                1703773982
+            ],
+            [
+               "5338547",
+               1703954720
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 13,
-      "justified_votes": 13
+      "justified_rating": 14,
+      "justified_votes": 14
    },
    "1703678970": {
       "title": "事件代號：核裂擠兌-誓言",
@@ -123946,7 +123964,7 @@
          "核裂擠兌"
       ],
       "hidden_tags": [],
-      "comments": "0",
+      "comments": "1",
       "rating": "6",
       "votes": "6",
       "parent": null,
@@ -123995,8 +124013,8 @@
       ],
       "hidden_tags": [],
       "comments": "3",
-      "rating": "5",
-      "votes": "5",
+      "rating": "6",
+      "votes": "6",
       "parent": null,
       "id": "1451984932",
       "detailed_rating": {
@@ -124020,12 +124038,16 @@
             [
                "4264056",
                1703780200
+            ],
+            [
+               "5338547",
+               1703954720
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 5,
-      "justified_votes": 5
+      "justified_rating": 6,
+      "justified_votes": 6
    },
    "1703861050": {
       "title": "聖夜地下街",
@@ -124044,8 +124066,8 @@
          "_禁黑"
       ],
       "comments": "0",
-      "rating": "8",
-      "votes": "8",
+      "rating": "9",
+      "votes": "9",
       "parent": null,
       "id": "1451996101",
       "detailed_rating": {
@@ -124081,12 +124103,16 @@
             [
                "6503482",
                1703933625
+            ],
+            [
+               "5338547",
+               1703954720
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 8,
-      "justified_votes": 8
+      "justified_rating": 9,
+      "justified_votes": 9
    },
    "1703899834": {
       "title": "Kislorod與他的思念",
@@ -124100,8 +124126,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "1",
-      "votes": "1",
+      "rating": "3",
+      "votes": "3",
       "parent": null,
       "id": "1451998689",
       "detailed_rating": {
@@ -124109,12 +124135,20 @@
             [
                "6503482",
                1703933762
+            ],
+            [
+               "4990678",
+               1703954720
+            ],
+            [
+               "5338547",
+               1703954720
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 1,
-      "justified_votes": 1
+      "justified_rating": 3,
+      "justified_votes": 3
    },
    "1703904530": {
       "title": "什麼風把你吹來樂園了？",
@@ -124128,8 +124162,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "2",
-      "votes": "2",
+      "rating": "3",
+      "votes": "3",
       "parent": null,
       "id": "1451998942",
       "detailed_rating": {
@@ -124141,12 +124175,16 @@
             [
                "8854072",
                1703909830
+            ],
+            [
+               "4990678",
+               1703954720
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 2,
-      "justified_votes": 2
+      "justified_rating": 3,
+      "justified_votes": 3
    },
    "1703920808": {
       "title": "今夜的空氣中",
@@ -124160,8 +124198,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "1",
-      "votes": "1",
+      "rating": "2",
+      "votes": "2",
       "parent": null,
       "id": "1452000141",
       "detailed_rating": {
@@ -124169,12 +124207,16 @@
             [
                "8883612",
                1703930992
+            ],
+            [
+               "4990678",
+               1703954720
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 1,
-      "justified_votes": 1
+      "justified_rating": 2,
+      "justified_votes": 2
    },
    "1703923327": {
       "title": "隨耕筆記數則",
@@ -124190,8 +124232,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "1",
-      "votes": "1",
+      "rating": "3",
+      "votes": "3",
       "parent": null,
       "id": "1452000301",
       "detailed_rating": {
@@ -124199,12 +124241,20 @@
             [
                "6503482",
                1703933625
+            ],
+            [
+               "4990678",
+               1703954720
+            ],
+            [
+               "5338547",
+               1703954720
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 1,
-      "justified_votes": 1
+      "justified_rating": 3,
+      "justified_votes": 3
    },
    "1703934008": {
       "title": "Buckshot In Christmas",
@@ -124218,14 +124268,25 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "0",
-      "votes": "0",
+      "rating": "2",
+      "votes": "2",
       "parent": null,
       "id": "1452001219",
-      "detailed_rating": {},
+      "detailed_rating": {
+         "+": [
+            [
+               "4990678",
+               1703954720
+            ],
+            [
+               "5338547",
+               1703954720
+            ]
+         ]
+      },
       "deleted": false,
-      "justified_rating": 0,
-      "justified_votes": 0
+      "justified_rating": 2,
+      "justified_votes": 2
    },
    "1703936455": {
       "title": "降誕的渴絕",
@@ -124239,14 +124300,21 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "0",
-      "votes": "0",
+      "rating": "1",
+      "votes": "1",
       "parent": null,
       "id": "1452001414",
-      "detailed_rating": {},
+      "detailed_rating": {
+         "+": [
+            [
+               "4990678",
+               1703954720
+            ]
+         ]
+      },
       "deleted": false,
-      "justified_rating": 0,
-      "justified_votes": 0
+      "justified_rating": 1,
+      "justified_votes": 1
    },
    "1703937523": {
       "title": "SCP-ZH-816 - 湖面不再泛起漣漪之時",
@@ -124259,15 +124327,26 @@
          "原創"
       ],
       "hidden_tags": [],
-      "comments": "1",
-      "rating": "0",
-      "votes": "0",
+      "comments": "3",
+      "rating": "2",
+      "votes": "2",
       "parent": null,
       "id": "1452001568",
-      "detailed_rating": {},
+      "detailed_rating": {
+         "+": [
+            [
+               "6709715",
+               1703954720
+            ],
+            [
+               "5338547",
+               1703954720
+            ]
+         ]
+      },
       "deleted": false,
-      "justified_rating": 0,
-      "justified_votes": 0
+      "justified_rating": 2,
+      "justified_votes": 2
    },
    "1703937557": {
       "title": "海風緩下之時",
@@ -124281,14 +124360,25 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "0",
-      "votes": "0",
+      "rating": "2",
+      "votes": "2",
       "parent": null,
       "id": "1452001570",
-      "detailed_rating": {},
+      "detailed_rating": {
+         "+": [
+            [
+               "4990678",
+               1703954720
+            ],
+            [
+               "8177208",
+               1703954720
+            ]
+         ]
+      },
       "deleted": false,
-      "justified_rating": 0,
-      "justified_votes": 0
+      "justified_rating": 2,
+      "justified_votes": 2
    },
    "1703937604": {
       "title": "地下街偽親子一日遊",
@@ -124303,14 +124393,33 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "0",
-      "votes": "0",
+      "rating": "4",
+      "votes": "4",
       "parent": null,
       "id": "1452001576",
-      "detailed_rating": {},
+      "detailed_rating": {
+         "+": [
+            [
+               "8177208",
+               1703954720
+            ],
+            [
+               "5370805",
+               1703954720
+            ],
+            [
+               "8846720",
+               1703954720
+            ],
+            [
+               "5338547",
+               1703954720
+            ]
+         ]
+      },
       "deleted": false,
-      "justified_rating": 0,
-      "justified_votes": 0
+      "justified_rating": 4,
+      "justified_votes": 4
    },
    "1703937605": {
       "title": "日立家的史萊姆女孩春雀",
