@@ -120842,7 +120842,7 @@
    },
    "1697900053": {
       "title": "箱子裡的希望",
-      "fullname": "wanderers:wanderers:lonely-planet22",
+      "fullname": "wanderers:lonely-planet22",
       "created_at": "1697900053",
       "created_by": "4990678",
       "tags": [
@@ -124404,8 +124404,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "4",
-      "votes": "4",
+      "rating": "5",
+      "votes": "5",
       "parent": null,
       "id": "1452001576",
       "detailed_rating": {
@@ -124425,12 +124425,16 @@
             [
                "5338547",
                1703954720
+            ],
+            [
+               "6503482",
+               1704036029
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 4,
-      "justified_votes": 4
+      "justified_rating": 5,
+      "justified_votes": 5
    },
    "1703937605": {
       "title": "日立家的史萊姆女孩春雀",
