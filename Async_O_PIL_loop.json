@@ -124279,8 +124279,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "2",
-      "votes": "2",
+      "rating": "3",
+      "votes": "3",
       "parent": null,
       "id": "1452001219",
       "detailed_rating": {
@@ -124292,12 +124292,16 @@
             [
                "5338547",
                1703954720
+            ],
+            [
+               "5701756",
+               1704039436
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 2,
-      "justified_votes": 2
+      "justified_rating": 3,
+      "justified_votes": 3
    },
    "1703936455": {
       "title": "降誕的渴絕",
@@ -124470,13 +124474,24 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "0",
-      "votes": "0",
+      "rating": "2",
+      "votes": "2",
       "parent": null,
       "id": "1452007333",
-      "detailed_rating": {},
+      "detailed_rating": {
+         "+": [
+            [
+               "4990678",
+               1704039436
+            ],
+            [
+               "6217438",
+               1704039436
+            ]
+         ]
+      },
       "deleted": false,
-      "justified_rating": 0,
-      "justified_votes": 0
+      "justified_rating": 2,
+      "justified_votes": 2
    }
 }
