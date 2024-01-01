@@ -3618,8 +3618,8 @@
          "_info"
       ],
       "comments": "1",
-      "rating": "3",
-      "votes": "7",
+      "rating": "4",
+      "votes": "8",
       "parent": "tongwen-guan",
       "id": "933986525",
       "detailed_rating": {
@@ -3643,6 +3643,10 @@
             [
                "6592438",
                1689143977
+            ],
+            [
+               "8846720",
+               1704112205
             ]
          ],
          "-": [
@@ -3657,8 +3661,8 @@
          ]
       },
       "deleted": false,
-      "justified_rating": 2,
-      "justified_votes": 6
+      "justified_rating": 3,
+      "justified_votes": 7
    },
    "1573897100": {
       "title": "〈舊事•記憶〉2019回憶競賽",
