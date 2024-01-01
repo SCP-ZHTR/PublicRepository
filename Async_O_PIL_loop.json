@@ -124379,8 +124379,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "2",
-      "votes": "2",
+      "rating": "3",
+      "votes": "3",
       "parent": null,
       "id": "1452001570",
       "detailed_rating": {
@@ -124392,12 +124392,16 @@
             [
                "8177208",
                1703954720
+            ],
+            [
+               "8846720",
+               1704076411
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 2,
-      "justified_votes": 2
+      "justified_rating": 3,
+      "justified_votes": 3
    },
    "1703937604": {
       "title": "地下街偽親子一日遊",
