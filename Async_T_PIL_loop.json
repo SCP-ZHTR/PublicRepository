@@ -129185,8 +129185,8 @@
       ],
       "hidden_tags": [],
       "comments": "4",
-      "rating": "2",
-      "votes": "2",
+      "rating": "3",
+      "votes": "3",
       "parent": null,
       "id": "1451970903",
       "detailed_rating": {
@@ -129198,12 +129198,16 @@
             [
                "4990678",
                1704035271
+            ],
+            [
+               "7476471",
+               1704094540
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 2,
-      "justified_votes": 2
+      "justified_rating": 3,
+      "justified_votes": 3
    },
    "1703439605": {
       "title": "SCP-004-JP - 不存矛盾的計算機",
