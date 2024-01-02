@@ -123743,8 +123743,8 @@
       ],
       "hidden_tags": [],
       "comments": "2",
-      "rating": "6",
-      "votes": "6",
+      "rating": "7",
+      "votes": "7",
       "parent": null,
       "id": "1451976109",
       "detailed_rating": {
@@ -123772,12 +123772,16 @@
             [
                "7571354",
                1703651970
+            ],
+            [
+               "5701756",
+               1704166504
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 6,
-      "justified_votes": 6
+      "justified_rating": 7,
+      "justified_votes": 7
    },
    "1703588289": {
       "title": "SCP-ZH-750 油漬天使，但是藝作",
@@ -123791,8 +123795,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "10",
-      "votes": "10",
+      "rating": "11",
+      "votes": "11",
       "parent": null,
       "id": "1451979719",
       "detailed_rating": {
@@ -123836,12 +123840,16 @@
             [
                "5338547",
                1703954720
+            ],
+            [
+               "5701756",
+               1704166504
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 10,
-      "justified_votes": 10
+      "justified_rating": 11,
+      "justified_votes": 11
    },
    "1703658855": {
       "title": "酪梨：紅色的灌溉",
