@@ -119808,8 +119808,8 @@
          "_你感覺到了嗎"
       ],
       "comments": "0",
-      "rating": "17",
-      "votes": "17",
+      "rating": "18",
+      "votes": "18",
       "parent": null,
       "id": "1450099172",
       "detailed_rating": {
@@ -119881,12 +119881,16 @@
             [
                "5334590",
                1704128520
+            ],
+            [
+               "7513990",
+               1704206313
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 17,
-      "justified_votes": 17
+      "justified_rating": 18,
+      "justified_votes": 18
    },
    "1695568216": {
       "title": "SCP-ZH-690 - Unwarranted",
