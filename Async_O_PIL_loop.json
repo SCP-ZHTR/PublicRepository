@@ -124101,8 +124101,8 @@
          "_禁黑"
       ],
       "comments": "0",
-      "rating": "9",
-      "votes": "9",
+      "rating": "10",
+      "votes": "10",
       "parent": null,
       "id": "1451996101",
       "detailed_rating": {
@@ -124142,12 +124142,16 @@
             [
                "5338547",
                1703954720
+            ],
+            [
+               "5701756",
+               1704167049
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 9,
-      "justified_votes": 9
+      "justified_rating": 10,
+      "justified_votes": 10
    },
    "1703899834": {
       "title": "Kislorod與他的思念",
@@ -124161,8 +124165,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "3",
-      "votes": "3",
+      "rating": "4",
+      "votes": "4",
       "parent": null,
       "id": "1451998689",
       "detailed_rating": {
@@ -124178,12 +124182,16 @@
             [
                "5338547",
                1703954720
+            ],
+            [
+               "5701756",
+               1704167049
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 3,
-      "justified_votes": 3
+      "justified_rating": 4,
+      "justified_votes": 4
    },
    "1703904530": {
       "title": "什麼風把你吹來樂園了？",
@@ -124197,8 +124205,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "3",
-      "votes": "3",
+      "rating": "4",
+      "votes": "4",
       "parent": null,
       "id": "1451998942",
       "detailed_rating": {
@@ -124214,12 +124222,16 @@
             [
                "4990678",
                1703954720
+            ],
+            [
+               "5701756",
+               1704167049
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 3,
-      "justified_votes": 3
+      "justified_rating": 4,
+      "justified_votes": 4
    },
    "1703920808": {
       "title": "今夜的空氣中",
