@@ -124371,8 +124371,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "2",
-      "votes": "2",
+      "rating": "3",
+      "votes": "3",
       "parent": null,
       "id": "1452001414",
       "detailed_rating": {
@@ -124384,12 +124384,16 @@
             [
                "5701756",
                1704167457
+            ],
+            [
+               "5370805",
+               1704209396
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 2,
-      "justified_votes": 2
+      "justified_rating": 3,
+      "justified_votes": 3
    },
    "1703937523": {
       "title": "SCP-ZH-816 - 湖面不再泛起漣漪之時",
