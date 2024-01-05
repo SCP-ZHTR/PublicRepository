@@ -129666,8 +129666,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "17",
-      "votes": "17",
+      "rating": "19",
+      "votes": "19",
       "parent": "cack-hub",
       "id": "1452007346",
       "detailed_rating": {
@@ -129739,11 +129739,27 @@
             [
                "5565302",
                1704460954
+            ],
+            [
+               "6104968",
+               1704461336
+            ],
+            [
+               "5435485",
+               1704461336
+            ],
+            [
+               "7571354",
+               1704461336
+            ],
+            [
+               "8846720",
+               1704461336
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 17,
-      "justified_votes": 17
+      "justified_rating": 21,
+      "justified_votes": 21
    }
 }
