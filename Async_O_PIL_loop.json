@@ -124634,5 +124634,28 @@
       "deleted": false,
       "justified_rating": 6,
       "justified_votes": 6
+   },
+   "1704558032": {
+      "title": "聖誕陽子（Tostren版）",
+      "fullname": "samscript-now-owes-me-a-drink",
+      "created_at": "1704558032",
+      "created_by": "8543386",
+      "tags": [
+         "cidal-dongi",
+         "site-zh-44",
+         "原創",
+         "台灣原住民",
+         "藝術作品"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": "scp-zh-922",
+      "id": "1452077468",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
