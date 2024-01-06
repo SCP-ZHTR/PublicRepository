@@ -124648,8 +124648,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "3",
-      "votes": "3",
+      "rating": "4",
+      "votes": "4",
       "parent": "scp-zh-922",
       "id": "1452077468",
       "detailed_rating": {
@@ -124665,11 +124665,15 @@
             [
                "8452537",
                1704563983
+            ],
+            [
+               "5435485",
+               1704582016
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 3,
-      "justified_votes": 3
+      "justified_rating": 4,
+      "justified_votes": 4
    }
 }
