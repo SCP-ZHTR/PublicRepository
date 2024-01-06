@@ -129811,5 +129811,31 @@
       "deleted": false,
       "justified_rating": 0,
       "justified_votes": 0
+   },
+   "1704530780": {
+      "title": "SCP-222 - 鏡像之棺",
+      "fullname": "scp-222",
+      "created_at": "1704530780",
+      "created_by": "5334590",
+      "tags": [
+         "en",
+         "euclid",
+         "scp",
+         "人造物品",
+         "地質",
+         "地點",
+         "睡眠",
+         "翻譯"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1452069658",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
