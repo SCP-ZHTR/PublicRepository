@@ -124196,7 +124196,7 @@
       "comments": "0",
       "rating": "4",
       "votes": "4",
-      "parent": null,
+      "parent": "k1s10r0d-s-proposal",
       "id": "1451998689",
       "detailed_rating": {
          "+": [
@@ -124649,13 +124649,24 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "0",
-      "votes": "0",
+      "rating": "2",
+      "votes": "2",
       "parent": "scp-zh-922",
       "id": "1452077468",
-      "detailed_rating": {},
+      "detailed_rating": {
+         "+": [
+            [
+               "4990678",
+               1704558325
+            ],
+            [
+               "8177208",
+               1704558325
+            ]
+         ]
+      },
       "deleted": false,
-      "justified_rating": 0,
-      "justified_votes": 0
+      "justified_rating": 2,
+      "justified_votes": 2
    }
 }
