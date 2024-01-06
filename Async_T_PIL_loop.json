@@ -120190,8 +120190,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "7",
-      "votes": "7",
+      "rating": "8",
+      "votes": "8",
       "parent": null,
       "id": "1448641561",
       "detailed_rating": {
@@ -120223,12 +120223,16 @@
             [
                "5013754",
                1687962077
+            ],
+            [
+               "5413616",
+               1704559360
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 7,
-      "justified_votes": 7
+      "justified_rating": 8,
+      "justified_votes": 8
    },
    "1687835622": {
       "title": "SCP-PL-273 - 百事艦隊",
