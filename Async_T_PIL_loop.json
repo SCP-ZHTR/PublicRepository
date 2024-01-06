@@ -129674,8 +129674,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "24",
-      "votes": "24",
+      "rating": "25",
+      "votes": "25",
       "parent": "cack-hub",
       "id": "1452007346",
       "detailed_rating": {
@@ -129775,12 +129775,16 @@
             [
                "5454699",
                1704462237
+            ],
+            [
+               "8452537",
+               1704527680
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 24,
-      "justified_votes": 24
+      "justified_rating": 25,
+      "justified_votes": 25
    },
    "1704487837": {
       "title": "SCP-211 - 紙御之室",
