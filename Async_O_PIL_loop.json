@@ -55949,8 +55949,8 @@
          "_image"
       ],
       "comments": "2",
-      "rating": "11",
-      "votes": "11",
+      "rating": "12",
+      "votes": "12",
       "parent": null,
       "id": "1306128747",
       "detailed_rating": {
@@ -55998,12 +55998,16 @@
             [
                "4107284",
                1617120000
+            ],
+            [
+               "8883612",
+               1704585571
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 11,
-      "justified_votes": 11
+      "justified_rating": 12,
+      "justified_votes": 12
    },
    "1607441592": {
       "title": "蒼白的末期患者",
