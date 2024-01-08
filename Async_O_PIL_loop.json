@@ -80989,8 +80989,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "8",
-      "votes": "8",
+      "rating": "9",
+      "votes": "9",
       "parent": null,
       "id": "1330141390",
       "detailed_rating": {
@@ -81026,12 +81026,16 @@
             [
                "DELETED",
                1695270461
+            ],
+            [
+               "7827462",
+               1704719492
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 7,
-      "justified_votes": 7
+      "justified_rating": 8,
+      "justified_votes": 8
    },
    "1637648352": {
       "title": "SCP-ZH-110 - 地板破了個洞",
