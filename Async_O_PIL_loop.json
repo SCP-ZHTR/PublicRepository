@@ -116941,8 +116941,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "7",
-      "votes": "7",
+      "rating": "8",
+      "votes": "8",
       "parent": null,
       "id": "1449607386",
       "detailed_rating": {
@@ -116974,12 +116974,16 @@
             [
                "5701756",
                1701161454
+            ],
+            [
+               "8177208",
+               1704702080
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 7,
-      "justified_votes": 7
+      "justified_rating": 8,
+      "justified_votes": 8
    },
    "1693317600": {
       "title": "SCP-ZH-674-J - 海外驗傷",
@@ -117904,8 +117908,8 @@
          "_退"
       ],
       "comments": "0",
-      "rating": "11",
-      "votes": "11",
+      "rating": "12",
+      "votes": "12",
       "parent": null,
       "id": "1450012029",
       "detailed_rating": {
@@ -117953,12 +117957,16 @@
             [
                "5701756",
                1701399408
+            ],
+            [
+               "8177208",
+               1704702080
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 11,
-      "justified_votes": 11
+      "justified_rating": 12,
+      "justified_votes": 12
    },
    "1695057396": {
       "title": "SCP-ZH-203 - 小小海",
