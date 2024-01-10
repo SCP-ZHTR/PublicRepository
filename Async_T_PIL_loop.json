@@ -129963,5 +129963,34 @@
       "deleted": false,
       "justified_rating": 2,
       "justified_votes": 2
+   },
+   "1704845688": {
+      "title": "SCP-7529 - Josie更好的另一半",
+      "fullname": "scp-7529",
+      "created_at": "1704845688",
+      "created_by": "5370805",
+      "tags": [
+         "en",
+         "half-cat-josie",
+         "k級情景",
+         "scp",
+         "動物",
+         "機密分級",
+         "活物",
+         "翻譯",
+         "語言",
+         "貓類",
+         "重力影響"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1452119321",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
