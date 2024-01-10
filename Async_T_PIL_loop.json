@@ -129629,8 +129629,8 @@
          "_licensebox"
       ],
       "comments": "1",
-      "rating": "3",
-      "votes": "3",
+      "rating": "4",
+      "votes": "4",
       "parent": null,
       "id": "1451999926",
       "detailed_rating": {
@@ -129646,12 +129646,16 @@
             [
                "6381244",
                1704812557
+            ],
+            [
+               "6981058",
+               1704877164
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 3,
-      "justified_votes": 3
+      "justified_rating": 4,
+      "justified_votes": 4
    },
    "1703937487": {
       "title": "SCP-1132-J - 頭射",
