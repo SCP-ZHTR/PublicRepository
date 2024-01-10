@@ -110745,8 +110745,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "4",
-      "votes": "4",
+      "rating": "5",
+      "votes": "5",
       "parent": null,
       "id": "1446689738",
       "detailed_rating": {
@@ -110766,12 +110766,16 @@
             [
                "6091157",
                1678542762
+            ],
+            [
+               "8177208",
+               1704849149
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 4,
-      "justified_votes": 4
+      "justified_rating": 5,
+      "justified_votes": 5
    },
    "1678611604": {
       "title": "SCP-ZH-621 - 瘟疫飛揚於奇蹟之島",
