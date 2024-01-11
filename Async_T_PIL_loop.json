@@ -130015,5 +130015,39 @@
       "deleted": false,
       "justified_rating": 3,
       "justified_votes": 3
+   },
+   "1704982942": {
+      "title": "辛梅利安博士的提案 - 關於加文汀座81第二行星及錫卡西座ε第七行星（俗稱「寶劍雙星」）原有住民之倫理考量。",
+      "fullname": "dr-cimmerian-s-proposal",
+      "created_at": "1704982942",
+      "created_by": "7605593",
+      "tags": [
+         "001提案",
+         "en",
+         "keter",
+         "scp",
+         "互動性",
+         "星際",
+         "智能",
+         "精神影響",
+         "翻譯",
+         "視覺性",
+         "認知危害",
+         "電腦",
+         "音頻"
+      ],
+      "hidden_tags": [
+         "_cc",
+         "_licensebox"
+      ],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": "anthology-2023-hub",
+      "id": "1452163913",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
