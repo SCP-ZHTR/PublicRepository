@@ -73860,8 +73860,8 @@
          "_禁黑"
       ],
       "comments": "1",
-      "rating": "8",
-      "votes": "8",
+      "rating": "9",
+      "votes": "9",
       "parent": null,
       "id": "1324252784",
       "detailed_rating": {
@@ -73897,12 +73897,16 @@
             [
                "DELETED",
                1704482913
+            ],
+            [
+               "5956873",
+               1705163526
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 7,
-      "justified_votes": 7
+      "justified_rating": 8,
+      "justified_votes": 8
    },
    "1633052504": {
       "title": "SCP-5243影像抄錄",
@@ -73918,16 +73922,12 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "4",
-      "votes": "4",
+      "rating": "5",
+      "votes": "5",
       "parent": null,
       "id": "1324266193",
       "detailed_rating": {
          "+": [
-            [
-               "7469850",
-               1643472000
-            ],
             [
                "4990678",
                1633017600
@@ -73939,6 +73939,14 @@
             [
                "7073060",
                1633017600
+            ],
+            [
+               "5956873",
+               1705163526
+            ],
+            [
+               "DELETED",
+               1705163526
             ]
          ]
       },
