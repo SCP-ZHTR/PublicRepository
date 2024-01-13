@@ -130068,5 +130068,32 @@
       "deleted": false,
       "justified_rating": 1,
       "justified_votes": 1
+   },
+   "1705149804": {
+      "title": "SCP-6067 - 回旋風",
+      "fullname": "scp-6067",
+      "created_at": "1705149804",
+      "created_by": "8543386",
+      "tags": [
+         "en",
+         "euclid",
+         "scp",
+         "wondertainment博士",
+         "小小先生",
+         "屍體",
+         "玩具",
+         "空中",
+         "翻譯"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1452187030",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
