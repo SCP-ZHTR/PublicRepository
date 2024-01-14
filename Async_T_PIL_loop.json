@@ -129453,14 +129453,21 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "0",
-      "votes": "0",
+      "rating": "1",
+      "votes": "1",
       "parent": null,
       "id": "1451974788",
-      "detailed_rating": {},
+      "detailed_rating": {
+         "+": [
+            [
+               "8452537",
+               1705227487
+            ]
+         ]
+      },
       "deleted": false,
-      "justified_rating": 0,
-      "justified_votes": 0
+      "justified_rating": 1,
+      "justified_votes": 1
    },
    "1703567730": {
       "title": "SCP-1050 - 黑曜石警世碑",
