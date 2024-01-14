@@ -128293,8 +128293,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "3",
-      "votes": "3",
+      "rating": "4",
+      "votes": "4",
       "parent": null,
       "id": "1451622146",
       "detailed_rating": {
@@ -128310,12 +128310,16 @@
             [
                "7504530",
                1701393565
+            ],
+            [
+               "8221044",
+               1705223633
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 3,
-      "justified_votes": 3
+      "justified_rating": 4,
+      "justified_votes": 4
    },
    "1702091919": {
       "title": "SCP-8472-EX - 噢，老鼠！",
@@ -129609,14 +129613,21 @@
          "_licensebox"
       ],
       "comments": "0",
-      "rating": "0",
-      "votes": "0",
+      "rating": "-1",
+      "votes": "1",
       "parent": null,
       "id": "1451988427",
-      "detailed_rating": {},
+      "detailed_rating": {
+         "-": [
+            [
+               "8221044",
+               1705223633
+            ]
+         ]
+      },
       "deleted": false,
-      "justified_rating": 0,
-      "justified_votes": 0
+      "justified_rating": -1,
+      "justified_votes": 1
    },
    "1703750418": {
       "title": "SCP-7174 - 維繫每一個人的信仰",
