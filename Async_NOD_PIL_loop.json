@@ -24146,5 +24146,22 @@
       "deleted": false,
       "justified_rating": 0,
       "justified_votes": 0
+   },
+   "1705304511": {
+      "title": "SCP-8000",
+      "fullname": "deleted:scp-8000",
+      "created_at": "1705304511",
+      "created_by": "5435485",
+      "tags": [],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1452199061",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
