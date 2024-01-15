@@ -130147,5 +130147,28 @@
       "deleted": false,
       "justified_rating": 0,
       "justified_votes": 0
+   },
+   "1705301386": {
+      "title": "SCP-8000競賽中心頁",
+      "fullname": "scp8000contesthub",
+      "created_at": "1705301386",
+      "created_by": "6503482",
+      "tags": [
+         "en",
+         "en-8000",
+         "中心",
+         "競賽",
+         "翻譯"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1452198705",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
