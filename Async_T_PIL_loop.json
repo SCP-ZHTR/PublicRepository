@@ -130185,5 +130185,27 @@
       "deleted": false,
       "justified_rating": 2,
       "justified_votes": 2
+   },
+   "1705367358": {
+      "title": "House主管是個白人（還有其他可以自欺的謊話）",
+      "fullname": "director-house-gets-whitewashed",
+      "created_at": "1705367358",
+      "created_by": "5370805",
+      "tags": [
+         "en",
+         "故事",
+         "翻譯",
+         "陰間維加斯"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1452203557",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
