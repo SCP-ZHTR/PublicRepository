@@ -28431,8 +28431,8 @@
          "_cc"
       ],
       "comments": "0",
-      "rating": "11",
-      "votes": "11",
+      "rating": "12",
+      "votes": "12",
       "parent": null,
       "id": "1002342640",
       "detailed_rating": {
@@ -28480,12 +28480,16 @@
             [
                "7840542",
                1705377430
+            ],
+            [
+               "5415046",
+               1705413515
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 11,
-      "justified_votes": 11
+      "justified_rating": 12,
+      "justified_votes": 12
    },
    "1585237846": {
       "title": "吾王萬歲",
