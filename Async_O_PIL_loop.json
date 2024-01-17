@@ -124268,8 +124268,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "4",
-      "votes": "4",
+      "rating": "5",
+      "votes": "5",
       "parent": "k1s10r0d-s-proposal",
       "id": "1451998689",
       "detailed_rating": {
@@ -124289,12 +124289,16 @@
             [
                "5701756",
                1704167049
+            ],
+            [
+               "5435485",
+               1705485856
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 4,
-      "justified_votes": 4
+      "justified_rating": 5,
+      "justified_votes": 5
    },
    "1703904530": {
       "title": "什麼風把你吹來樂園了？",
@@ -124352,8 +124356,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "3",
-      "votes": "3",
+      "rating": "4",
+      "votes": "4",
       "parent": null,
       "id": "1452000141",
       "detailed_rating": {
@@ -124369,12 +124373,16 @@
             [
                "5701756",
                1704167190
+            ],
+            [
+               "5435485",
+               1705485856
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 3,
-      "justified_votes": 3
+      "justified_rating": 4,
+      "justified_votes": 4
    },
    "1703923327": {
       "title": "隨耕筆記數則",
@@ -124438,8 +124446,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "3",
-      "votes": "3",
+      "rating": "4",
+      "votes": "4",
       "parent": null,
       "id": "1452001219",
       "detailed_rating": {
@@ -124455,12 +124463,16 @@
             [
                "5701756",
                1704039436
+            ],
+            [
+               "5435485",
+               1705485856
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 3,
-      "justified_votes": 3
+      "justified_rating": 4,
+      "justified_votes": 4
    },
    "1703936455": {
       "title": "降誕的渴絕",
