@@ -124486,8 +124486,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "3",
-      "votes": "3",
+      "rating": "4",
+      "votes": "4",
       "parent": null,
       "id": "1452001414",
       "detailed_rating": {
@@ -124503,12 +124503,16 @@
             [
                "5370805",
                1704209396
+            ],
+            [
+               "5435485",
+               1705485994
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 3,
-      "justified_votes": 3
+      "justified_rating": 4,
+      "justified_votes": 4
    },
    "1703937523": {
       "title": "SCP-ZH-816 - 湖面不再泛起漣漪之時",
@@ -124523,8 +124527,8 @@
       ],
       "hidden_tags": [],
       "comments": "3",
-      "rating": "6",
-      "votes": "6",
+      "rating": "5",
+      "votes": "7",
       "parent": null,
       "id": "1452001568",
       "detailed_rating": {
@@ -124553,11 +124557,17 @@
                "8283755",
                1705404857
             ]
+         ],
+         "-": [
+            [
+               "5435485",
+               1705485994
+            ]
          ]
       },
       "deleted": false,
-      "justified_rating": 6,
-      "justified_votes": 6
+      "justified_rating": 5,
+      "justified_votes": 7
    },
    "1703937557": {
       "title": "海風緩下之時",
@@ -124571,8 +124581,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "4",
-      "votes": "4",
+      "rating": "5",
+      "votes": "5",
       "parent": null,
       "id": "1452001570",
       "detailed_rating": {
@@ -124592,12 +124602,16 @@
             [
                "5701756",
                1704173298
+            ],
+            [
+               "5435485",
+               1705485994
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 4,
-      "justified_votes": 4
+      "justified_rating": 5,
+      "justified_votes": 5
    },
    "1703937604": {
       "title": "地下街偽親子一日遊",
@@ -124612,8 +124626,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "7",
-      "votes": "7",
+      "rating": "8",
+      "votes": "8",
       "parent": null,
       "id": "1452001576",
       "detailed_rating": {
@@ -124645,12 +124659,16 @@
             [
                "5701756",
                1704173555
+            ],
+            [
+               "5435485",
+               1705485994
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 7,
-      "justified_votes": 7
+      "justified_rating": 8,
+      "justified_votes": 8
    },
    "1703937605": {
       "title": "日立家的史萊姆女孩春雀",
