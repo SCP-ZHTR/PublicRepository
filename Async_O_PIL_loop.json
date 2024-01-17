@@ -124681,8 +124681,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "6",
-      "votes": "6",
+      "rating": "7",
+      "votes": "7",
       "parent": null,
       "id": "1452007333",
       "detailed_rating": {
@@ -124710,12 +124710,16 @@
             [
                "5701756",
                1704173819
+            ],
+            [
+               "7064164",
+               1705485604
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 6,
-      "justified_votes": 6
+      "justified_rating": 7,
+      "justified_votes": 7
    },
    "1704558032": {
       "title": "聖誕陽子（Tostren版）",
