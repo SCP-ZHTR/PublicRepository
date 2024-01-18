@@ -59826,8 +59826,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "6",
-      "votes": "6",
+      "rating": "7",
+      "votes": "7",
       "parent": null,
       "id": "1306752081",
       "detailed_rating": {
@@ -59855,12 +59855,16 @@
             [
                "5454699",
                1617120000
+            ],
+            [
+               "8842990",
+               1705555083
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 6,
-      "justified_votes": 6
+      "justified_rating": 7,
+      "justified_votes": 7
    },
    "1612418948": {
       "title": "銀色之後",
