@@ -12083,5 +12083,22 @@
       "deleted": true,
       "justified_rating": 0,
       "justified_votes": 0
+   },
+   "1705587755": {
+      "title": "2023 驚選集 CSS （圖書館版本）",
+      "fullname": "wanderers:fragment:antho23-css",
+      "created_at": "1705587755",
+      "created_by": "5415046",
+      "tags": [],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1452222184",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
