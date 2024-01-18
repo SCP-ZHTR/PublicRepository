@@ -113578,8 +113578,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "10",
-      "votes": "10",
+      "rating": "11",
+      "votes": "11",
       "parent": null,
       "id": "1448467907",
       "detailed_rating": {
@@ -113623,12 +113623,16 @@
             [
                "5435485",
                1687338640
+            ],
+            [
+               "4239775",
+               1705578960
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 10,
-      "justified_votes": 10
+      "justified_rating": 11,
+      "justified_votes": 11
    },
    "1686724662": {
       "title": "滿桌的○○",
@@ -124855,8 +124859,8 @@
          "_禁黑"
       ],
       "comments": "0",
-      "rating": "1",
-      "votes": "1",
+      "rating": "2",
+      "votes": "2",
       "parent": null,
       "id": "1452221417",
       "detailed_rating": {
@@ -124864,11 +124868,15 @@
             [
                "6503482",
                1705578461
+            ],
+            [
+               "6217438",
+               1705578961
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 1,
-      "justified_votes": 1
+      "justified_rating": 2,
+      "justified_votes": 2
    }
 }
