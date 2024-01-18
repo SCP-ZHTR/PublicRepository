@@ -12090,7 +12090,9 @@
       "created_at": "1705587755",
       "created_by": "5415046",
       "tags": [],
-      "hidden_tags": [],
+      "hidden_tags": [
+         "_no-dustjacket"
+      ],
       "comments": "0",
       "rating": "0",
       "votes": "0",
