@@ -130247,9 +130247,7 @@
          "恐怖",
          "翻譯"
       ],
-      "hidden_tags": [
-         "_no-dustjacekt"
-      ],
+      "hidden_tags": [],
       "comments": "0",
       "rating": "1",
       "votes": "1",
@@ -130263,7 +130261,7 @@
             ]
          ]
       },
-      "deleted": true,
+      "deleted": false,
       "justified_rating": 1,
       "justified_votes": 1
    }
