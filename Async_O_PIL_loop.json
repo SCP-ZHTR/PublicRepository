@@ -124799,5 +124799,30 @@
       "deleted": false,
       "justified_rating": 5,
       "justified_votes": 5
+   },
+   "1705553913": {
+      "title": "深度合作（C-14963）",
+      "fullname": "deep-cooperation",
+      "created_at": "1705553913",
+      "created_by": "8842990",
+      "tags": [
+         "goi格式",
+         "nobody",
+         "原創",
+         "工廠",
+         "火勢遏阻部"
+      ],
+      "hidden_tags": [
+         "_工廠"
+      ],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1452219797",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
