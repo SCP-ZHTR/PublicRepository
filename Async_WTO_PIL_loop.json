@@ -12100,5 +12100,22 @@
       "deleted": false,
       "justified_rating": 0,
       "justified_votes": 0
+   },
+   "1705588330": {
+      "title": "流浪者的精裝本",
+      "fullname": "wanderers:component:hardcover",
+      "created_at": "1705588330",
+      "created_by": "5415046",
+      "tags": [],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1452222199",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
