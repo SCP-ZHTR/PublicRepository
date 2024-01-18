@@ -23537,7 +23537,9 @@
       "created_at": "1698750755",
       "created_by": "6217438",
       "tags": [
-         "en段落翻譯"
+         "en",
+         "段落",
+         "翻譯"
       ],
       "hidden_tags": [],
       "comments": "0",
