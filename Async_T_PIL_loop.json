@@ -130293,8 +130293,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "3",
-      "votes": "3",
+      "rating": "5",
+      "votes": "5",
       "parent": null,
       "id": "1452232993",
       "detailed_rating": {
@@ -130310,11 +130310,19 @@
             [
                "6048746",
                1705733776
+            ],
+            [
+               "7605593",
+               1705734888
+            ],
+            [
+               "7724052",
+               1705734888
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 3,
-      "justified_votes": 3
+      "justified_rating": 5,
+      "justified_votes": 5
    }
 }
