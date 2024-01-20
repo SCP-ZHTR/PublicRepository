@@ -12144,5 +12144,22 @@
       "deleted": true,
       "justified_rating": 0,
       "justified_votes": 0
+   },
+   "1705759274": {
+      "title": "SCP-305-KO - 媽，再睡五分鐘",
+      "fullname": "scp-305-ko",
+      "created_at": "1705759274",
+      "created_by": "4357011",
+      "tags": [],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1452235892",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
