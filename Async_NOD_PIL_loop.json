@@ -24171,7 +24171,11 @@
       "fullname": "fragment:scp-101-vn-1",
       "created_at": "1705723289",
       "created_by": "7605593",
-      "tags": [],
+      "tags": [
+         "vn",
+         "段落",
+         "翻譯"
+      ],
       "hidden_tags": [],
       "comments": "0",
       "rating": "0",
@@ -24188,7 +24192,11 @@
       "fullname": "fragment:scp-101-vn-2",
       "created_at": "1705723303",
       "created_by": "7605593",
-      "tags": [],
+      "tags": [
+         "vn",
+         "段落",
+         "翻譯"
+      ],
       "hidden_tags": [],
       "comments": "0",
       "rating": "0",
@@ -24205,7 +24213,11 @@
       "fullname": "fragment:scp-101-vn-3",
       "created_at": "1705723315",
       "created_by": "7605593",
-      "tags": [],
+      "tags": [
+         "vn",
+         "段落",
+         "翻譯"
+      ],
       "hidden_tags": [],
       "comments": "0",
       "rating": "0",
@@ -24222,7 +24234,11 @@
       "fullname": "fragment:scp-101-vn-4",
       "created_at": "1705723326",
       "created_by": "7605593",
-      "tags": [],
+      "tags": [
+         "vn",
+         "段落",
+         "翻譯"
+      ],
       "hidden_tags": [],
       "comments": "0",
       "rating": "0",
