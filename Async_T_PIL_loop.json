@@ -130293,8 +130293,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "5",
-      "votes": "5",
+      "rating": "6",
+      "votes": "6",
       "parent": null,
       "id": "1452232993",
       "detailed_rating": {
@@ -130318,12 +130318,16 @@
             [
                "7724052",
                1705734888
+            ],
+            [
+               "5370805",
+               1705760650
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 5,
-      "justified_votes": 5
+      "justified_rating": 6,
+      "justified_votes": 6
    },
    "1705759274": {
       "title": "SCP-305-KO - 媽，再睡五分鐘",
@@ -130342,8 +130346,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "2",
-      "votes": "2",
+      "rating": "3",
+      "votes": "3",
       "parent": null,
       "id": "1452235892",
       "detailed_rating": {
@@ -130355,12 +130359,16 @@
             [
                "5435485",
                1705760390
+            ],
+            [
+               "4990678",
+               1705760650
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 2,
-      "justified_votes": 2
+      "justified_rating": 3,
+      "justified_votes": 3
    },
    "1705759701": {
       "title": "SCP-726-KO - 猴掌的秘密",
@@ -130380,13 +130388,20 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "0",
-      "votes": "0",
+      "rating": "1",
+      "votes": "1",
       "parent": null,
       "id": "1452235901",
-      "detailed_rating": {},
+      "detailed_rating": {
+         "+": [
+            [
+               "8543386",
+               1705760650
+            ]
+         ]
+      },
       "deleted": false,
-      "justified_rating": 0,
-      "justified_votes": 0
+      "justified_rating": 1,
+      "justified_votes": 1
    }
 }
