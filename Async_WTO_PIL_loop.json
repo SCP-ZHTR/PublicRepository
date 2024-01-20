@@ -12161,5 +12161,22 @@
       "deleted": true,
       "justified_rating": 0,
       "justified_votes": 0
+   },
+   "1705759701": {
+      "title": "SCP-726-KO - 猴掌的秘密",
+      "fullname": "scp-726-ko",
+      "created_at": "1705759701",
+      "created_by": "4357011",
+      "tags": [],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1452235901",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
