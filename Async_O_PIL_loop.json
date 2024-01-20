@@ -124906,5 +124906,28 @@
       "deleted": false,
       "justified_rating": 3,
       "justified_votes": 3
+   },
+   "1705737592": {
+      "title": "在禁忌中：上集・太巴塱",
+      "fullname": "i-lisin-tafalong",
+      "created_at": "1705737592",
+      "created_by": "5435485",
+      "tags": [
+         "cidal-dongi",
+         "site-zh-44",
+         "原創",
+         "台灣原住民",
+         "故事"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1452234237",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
