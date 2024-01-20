@@ -115190,8 +115190,8 @@
          "_cc"
       ],
       "comments": "1",
-      "rating": "23",
-      "votes": "23",
+      "rating": "24",
+      "votes": "24",
       "parent": null,
       "id": "1449165652",
       "detailed_rating": {
@@ -115287,12 +115287,16 @@
             [
                "5338547",
                1690732958
+            ],
+            [
+               "8982806",
+               1705727640
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 23,
-      "justified_votes": 23
+      "justified_rating": 24,
+      "justified_votes": 24
    },
    "1690718766": {
       "title": "SCP-ZH-143 - 繁星間的迦勒忒亞",
