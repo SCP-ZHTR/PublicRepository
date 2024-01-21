@@ -124917,8 +124917,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "10",
-      "votes": "10",
+      "rating": "11",
+      "votes": "11",
       "parent": null,
       "id": "1452234237",
       "detailed_rating": {
@@ -124962,11 +124962,15 @@
             [
                "7946145",
                1705774627
+            ],
+            [
+               "6091157",
+               1705821694
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 10,
-      "justified_votes": 10
+      "justified_rating": 11,
+      "justified_votes": 11
    }
 }
