@@ -130419,5 +130419,35 @@
       "deleted": false,
       "justified_rating": 2,
       "justified_votes": 2
+   },
+   "1705843607": {
+      "title": "戰車",
+      "fullname": "wanderers:the-chariot",
+      "created_at": "1705843607",
+      "created_by": "6503482",
+      "tags": [
+         "action-adventure",
+         "crime",
+         "en",
+         "entry",
+         "political",
+         "prose",
+         "realistic",
+         "wing-two",
+         "workplace",
+         "恐怖",
+         "第二人稱",
+         "翻譯"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1452302517",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
