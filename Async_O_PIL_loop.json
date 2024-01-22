@@ -124804,8 +124804,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "5",
-      "votes": "5",
+      "rating": "6",
+      "votes": "6",
       "parent": "scp-zh-922",
       "id": "1452077468",
       "detailed_rating": {
@@ -124829,12 +124829,16 @@
             [
                "6503482",
                1704593695
+            ],
+            [
+               "8982806",
+               1705942102
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 5,
-      "justified_votes": 5
+      "justified_rating": 6,
+      "justified_votes": 6
    },
    "1705553913": {
       "title": "深度合作（C-14963）",
