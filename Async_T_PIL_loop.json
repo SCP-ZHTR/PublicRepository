@@ -130354,8 +130354,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "5",
-      "votes": "5",
+      "rating": "6",
+      "votes": "6",
       "parent": null,
       "id": "1452235892",
       "detailed_rating": {
@@ -130379,12 +130379,16 @@
             [
                "7840542",
                1705882032
+            ],
+            [
+               "8982806",
+               1705941461
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 5,
-      "justified_votes": 5
+      "justified_rating": 6,
+      "justified_votes": 6
    },
    "1705759701": {
       "title": "SCP-726-KO - 猴掌的秘密",
