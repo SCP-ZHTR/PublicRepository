@@ -113197,8 +113197,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "5",
-      "votes": "5",
+      "rating": "6",
+      "votes": "6",
       "parent": null,
       "id": "1446712800",
       "detailed_rating": {
@@ -113222,12 +113222,16 @@
             [
                "DELETED",
                1699863463
+            ],
+            [
+               "7513990",
+               1706016689
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 4,
-      "justified_votes": 4
+      "justified_rating": 5,
+      "justified_votes": 5
    },
    "1678802791": {
       "title": "SCP-964 - 不可描述的變形",
