@@ -123171,8 +123171,8 @@
          "_licensebox"
       ],
       "comments": "1",
-      "rating": "3",
-      "votes": "3",
+      "rating": "4",
+      "votes": "4",
       "parent": null,
       "id": "1449970816",
       "detailed_rating": {
@@ -123188,12 +123188,16 @@
             [
                "7605593",
                1694744966
+            ],
+            [
+               "8982806",
+               1706029742
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 3,
-      "justified_votes": 3
+      "justified_rating": 4,
+      "justified_votes": 4
    },
    "1694610943": {
       "title": "SCP-PL-260 - 我們知道你住哪",
