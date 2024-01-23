@@ -126203,8 +126203,8 @@
          "_licensebox"
       ],
       "comments": "1",
-      "rating": "1",
-      "votes": "1",
+      "rating": "2",
+      "votes": "2",
       "parent": null,
       "id": "1450851459",
       "detailed_rating": {
@@ -126212,12 +126212,16 @@
             [
                "8792088",
                1698034878
+            ],
+            [
+               "8982806",
+               1706013844
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 1,
-      "justified_votes": 1
+      "justified_rating": 2,
+      "justified_votes": 2
    },
    "1697818524": {
       "title": "SCP-7481 - 市售邪惡可被替代",
