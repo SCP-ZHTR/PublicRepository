@@ -356,8 +356,8 @@
          "_image"
       ],
       "comments": "3",
-      "rating": "67",
-      "votes": "69",
+      "rating": "68",
+      "votes": "70",
       "parent": null,
       "id": "639422039",
       "detailed_rating": {
@@ -633,6 +633,10 @@
             [
                "5454699",
                1617120000
+            ],
+            [
+               "5413616",
+               1706025212
             ]
          ],
          "-": [
@@ -643,8 +647,8 @@
          ]
       },
       "deleted": false,
-      "justified_rating": 66,
-      "justified_votes": 66
+      "justified_rating": 67,
+      "justified_votes": 67
    },
    "1553001898": {
       "title": "UIU檔案：1952-003",
@@ -125011,8 +125015,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "4",
-      "votes": "4",
+      "rating": "5",
+      "votes": "5",
       "parent": null,
       "id": "1450577925",
       "detailed_rating": {
@@ -125032,12 +125036,16 @@
             [
                "5251681",
                1697121077
+            ],
+            [
+               "5413616",
+               1706025212
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 4,
-      "justified_votes": 4
+      "justified_rating": 5,
+      "justified_votes": 5
    },
    "1697030050": {
       "title": "SCP-7169 - 大情層行星美眉",
