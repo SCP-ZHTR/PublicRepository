@@ -130301,8 +130301,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "6",
-      "votes": "6",
+      "rating": "7",
+      "votes": "7",
       "parent": null,
       "id": "1452232993",
       "detailed_rating": {
@@ -130330,12 +130330,16 @@
             [
                "5370805",
                1705760650
+            ],
+            [
+               "7840542",
+               1705968941
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 6,
-      "justified_votes": 6
+      "justified_rating": 7,
+      "justified_votes": 7
    },
    "1705759274": {
       "title": "SCP-305-KO - 媽，再睡五分鐘",
