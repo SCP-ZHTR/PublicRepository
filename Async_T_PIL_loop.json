@@ -130420,8 +130420,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "3",
-      "votes": "3",
+      "rating": "4",
+      "votes": "4",
       "parent": null,
       "id": "1452235901",
       "detailed_rating": {
@@ -130437,12 +130437,16 @@
             [
                "4990678",
                1705925173
+            ],
+            [
+               "7513990",
+               1706010237
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 3,
-      "justified_votes": 3
+      "justified_rating": 4,
+      "justified_votes": 4
    },
    "1705843607": {
       "title": "戰車",
