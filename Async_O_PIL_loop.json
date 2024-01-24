@@ -124812,7 +124812,9 @@
          "原創",
          "藝術作品"
       ],
-      "hidden_tags": [],
+      "hidden_tags": [
+         "_cc"
+      ],
       "comments": "1",
       "rating": "6",
       "votes": "6",
