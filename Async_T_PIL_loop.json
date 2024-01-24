@@ -129969,7 +129969,10 @@
          "自主",
          "自我複製"
       ],
-      "hidden_tags": [],
+      "hidden_tags": [
+         "_cc",
+         "_licensebox"
+      ],
       "comments": "0",
       "rating": "1",
       "votes": "1",
@@ -130002,7 +130005,9 @@
          "睡眠",
          "翻譯"
       ],
-      "hidden_tags": [],
+      "hidden_tags": [
+         "_licensebox"
+      ],
       "comments": "0",
       "rating": "1",
       "votes": "1",
@@ -130039,7 +130044,9 @@
          "自我複製",
          "蜂巢思維"
       ],
-      "hidden_tags": [],
+      "hidden_tags": [
+         "_licensebox"
+      ],
       "comments": "0",
       "rating": "1",
       "votes": "1",
