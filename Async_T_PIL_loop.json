@@ -130236,7 +130236,10 @@
          "競賽",
          "翻譯"
       ],
-      "hidden_tags": [],
+      "hidden_tags": [
+         "_cc",
+         "_licensebox"
+      ],
       "comments": "0",
       "rating": "2",
       "votes": "2",
