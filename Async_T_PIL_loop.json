@@ -130118,7 +130118,10 @@
          "貓類",
          "重力影響"
       ],
-      "hidden_tags": [],
+      "hidden_tags": [
+         "_cc",
+         "_licensebox"
+      ],
       "comments": "1",
       "rating": "4",
       "votes": "4",
@@ -130213,7 +130216,10 @@
          "空中",
          "翻譯"
       ],
-      "hidden_tags": [],
+      "hidden_tags": [
+         "_cc",
+         "_licensebox"
+      ],
       "comments": "0",
       "rating": "0",
       "votes": "0",
