@@ -130554,5 +130554,29 @@
       "deleted": false,
       "justified_rating": 3,
       "justified_votes": 3
+   },
+   "1706084865": {
+      "title": "SCP-6173 - 手手攻擊",
+      "fullname": "scp-6179",
+      "created_at": "1706084865",
+      "created_by": "6981058",
+      "tags": [
+         "en",
+         "safe",
+         "scp",
+         "人形",
+         "翻譯",
+         "肢體"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1452335920",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
