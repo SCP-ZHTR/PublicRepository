@@ -130304,7 +130304,9 @@
          "恐怖",
          "翻譯"
       ],
-      "hidden_tags": [],
+      "hidden_tags": [
+         "_cc"
+      ],
       "comments": "0",
       "rating": "2",
       "votes": "2",
@@ -130343,7 +130345,10 @@
          "熱量影響",
          "翻譯"
       ],
-      "hidden_tags": [],
+      "hidden_tags": [
+         "_cc",
+         "_licensebox"
+      ],
       "comments": "1",
       "rating": "7",
       "votes": "7",
