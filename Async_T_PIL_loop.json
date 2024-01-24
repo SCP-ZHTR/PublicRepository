@@ -130454,7 +130454,9 @@
          "肢體",
          "自主"
       ],
-      "hidden_tags": [],
+      "hidden_tags": [
+         "_cc"
+      ],
       "comments": "0",
       "rating": "4",
       "votes": "4",
