@@ -130531,8 +130531,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "3",
-      "votes": "3",
+      "rating": "4",
+      "votes": "4",
       "parent": null,
       "id": "1452302517",
       "detailed_rating": {
@@ -130548,12 +130548,16 @@
             [
                "7504530",
                1705897798
+            ],
+            [
+               "1360122",
+               1706145998
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 3,
-      "justified_votes": 3
+      "justified_rating": 4,
+      "justified_votes": 4
    },
    "1706084865": {
       "title": "SCP-6179 - 手手攻擊",
