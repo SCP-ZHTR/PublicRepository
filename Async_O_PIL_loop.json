@@ -49799,8 +49799,8 @@
          "_cc"
       ],
       "comments": "2",
-      "rating": "18",
-      "votes": "18",
+      "rating": "19",
+      "votes": "19",
       "parent": null,
       "id": "1267837231",
       "detailed_rating": {
@@ -49876,12 +49876,16 @@
             [
                "5415046",
                1617120000
+            ],
+            [
+               "7504530",
+               1706244800
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 18,
-      "justified_votes": 18
+      "justified_rating": 19,
+      "justified_votes": 19
    },
    "1599139705": {
       "title": "小動物簡介：Surge！",
