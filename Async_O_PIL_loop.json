@@ -125059,5 +125059,28 @@
       "deleted": false,
       "justified_rating": 3,
       "justified_votes": 3
+   },
+   "1706274005": {
+      "title": "在禁忌中：下集・殛人山",
+      "fullname": "i-lisin-cilangasan",
+      "created_at": "1706274005",
+      "created_by": "5435485",
+      "tags": [
+         "cidal-dongi",
+         "site-zh-44",
+         "原創",
+         "台灣原住民",
+         "故事"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1452351179",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
