@@ -130601,5 +130601,36 @@
       "deleted": false,
       "justified_rating": 2,
       "justified_votes": 2
+   },
+   "1706371509": {
+      "title": "SCP-7816 - 為什麼基金會要把全部的預算砸在鯊鯊毛絨玩偶上（又名我如何被二度派去撰寫有關布羅艾的文）",
+      "fullname": "scp-7816",
+      "created_at": "1706371509",
+      "created_by": "6217438",
+      "tags": [
+         "en",
+         "en-交換藝術",
+         "hard-to-destroy-reptile",
+         "scp",
+         "thaumiel",
+         "共感",
+         "塑像173",
+         "玩具",
+         "瘟疫醫生",
+         "羞澀的人",
+         "翻譯",
+         "觸覺影響",
+         "鯊類"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1452360887",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
