@@ -111967,8 +111967,8 @@
          "_禁黑"
       ],
       "comments": "0",
-      "rating": "11",
-      "votes": "11",
+      "rating": "12",
+      "votes": "12",
       "parent": null,
       "id": "1447200389",
       "detailed_rating": {
@@ -112016,12 +112016,16 @@
             [
                "DELETED",
                1695206965
+            ],
+            [
+               "8177208",
+               1706369073
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 10,
-      "justified_votes": 10
+      "justified_rating": 11,
+      "justified_votes": 11
    },
    "1680959401": {
       "title": "SCP-ZH-901 - 自然擴張",
@@ -112224,8 +112228,8 @@
          "_禁黑"
       ],
       "comments": "0",
-      "rating": "8",
-      "votes": "8",
+      "rating": "9",
+      "votes": "9",
       "parent": null,
       "id": "1447218132",
       "detailed_rating": {
@@ -112261,12 +112265,16 @@
             [
                "DELETED",
                1695206965
+            ],
+            [
+               "8177208",
+               1706369073
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 7,
-      "justified_votes": 7
+      "justified_rating": 8,
+      "justified_votes": 8
    },
    "1681706868": {
       "title": "向星星殉情",
@@ -112592,8 +112600,8 @@
          "_禁黑"
       ],
       "comments": "0",
-      "rating": "10",
-      "votes": "10",
+      "rating": "11",
+      "votes": "11",
       "parent": null,
       "id": "1447704601",
       "detailed_rating": {
@@ -112637,12 +112645,16 @@
             [
                "8418020",
                1702890026
+            ],
+            [
+               "8177208",
+               1706369073
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 10,
-      "justified_votes": 10
+      "justified_rating": 11,
+      "justified_votes": 11
    },
    "1684153380": {
       "title": "SCP-ZH-344 - 岸間安寧病房",
@@ -112941,8 +112953,8 @@
          "_禁黑"
       ],
       "comments": "0",
-      "rating": "9",
-      "votes": "9",
+      "rating": "10",
+      "votes": "10",
       "parent": null,
       "id": "1447928965",
       "detailed_rating": {
@@ -112982,12 +112994,16 @@
             [
                "5435485",
                1685375345
+            ],
+            [
+               "8177208",
+               1706369073
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 9,
-      "justified_votes": 9
+      "justified_rating": 10,
+      "justified_votes": 10
    },
    "1685548661": {
       "title": "SCP-ZH-295 - Safe色、Euclid色、Keter色",
@@ -113078,8 +113094,8 @@
          "_禁黑"
       ],
       "comments": "0",
-      "rating": "10",
-      "votes": "10",
+      "rating": "11",
+      "votes": "11",
       "parent": null,
       "id": "1447981998",
       "detailed_rating": {
@@ -113123,12 +113139,16 @@
             [
                "DELETED",
                1685979115
+            ],
+            [
+               "8177208",
+               1706369073
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 9,
-      "justified_votes": 9
+      "justified_rating": 10,
+      "justified_votes": 10
    },
    "1685886442": {
       "title": "阿我們贏了/輸了，然後勒？",
