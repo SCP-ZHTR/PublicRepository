@@ -124071,8 +124071,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "16",
-      "votes": "16",
+      "rating": "17",
+      "votes": "17",
       "parent": null,
       "id": "1451984304",
       "detailed_rating": {
@@ -124140,12 +124140,16 @@
             [
                "7655555",
                1706164589
+            ],
+            [
+               "8536616",
+               1706337563
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 16,
-      "justified_votes": 16
+      "justified_rating": 17,
+      "justified_votes": 17
    },
    "1703678970": {
       "title": "事件代號：核裂擠兌-誓言",
