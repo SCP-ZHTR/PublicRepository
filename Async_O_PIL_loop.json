@@ -113560,8 +113560,8 @@
          "_禁黑"
       ],
       "comments": "0",
-      "rating": "4",
-      "votes": "4",
+      "rating": "5",
+      "votes": "5",
       "parent": null,
       "id": "1448456817",
       "detailed_rating": {
@@ -113581,12 +113581,16 @@
             [
                "5338547",
                1686987673
+            ],
+            [
+               "8177208",
+               1706368940
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 4,
-      "justified_votes": 4
+      "justified_rating": 5,
+      "justified_votes": 5
    },
    "1686696676": {
       "title": "心血來潮畫的角色大頭照",
