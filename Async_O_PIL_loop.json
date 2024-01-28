@@ -103977,8 +103977,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "5",
-      "votes": "5",
+      "rating": "6",
+      "votes": "6",
       "parent": null,
       "id": "1436572679",
       "detailed_rating": {
@@ -104002,12 +104002,16 @@
             [
                "DELETED",
                1695207508
+            ],
+            [
+               "8883612",
+               1706419988
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 4,
-      "justified_votes": 4
+      "justified_rating": 5,
+      "justified_votes": 5
    },
    "1666795805": {
       "title": "基金會空勤收容指導講習-1",
