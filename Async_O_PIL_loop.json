@@ -125122,8 +125122,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "7",
-      "votes": "7",
+      "rating": "8",
+      "votes": "8",
       "parent": null,
       "id": "1452351179",
       "detailed_rating": {
@@ -125155,12 +125155,16 @@
             [
                "6503482",
                1706281317
+            ],
+            [
+               "8883612",
+               1706458552
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 7,
-      "justified_votes": 7
+      "justified_rating": 8,
+      "justified_votes": 8
    },
    "1706352280": {
       "title": "SCP-ZH-412",
