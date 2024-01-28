@@ -125170,17 +125170,11 @@
       ],
       "hidden_tags": [],
       "comments": "2",
-      "rating": "-6",
-      "votes": "8",
+      "rating": "-7",
+      "votes": "7",
       "parent": null,
       "id": "1452357434",
       "detailed_rating": {
-         "+": [
-            [
-               "8962532",
-               1706352631
-            ]
-         ],
          "-": [
             [
                "8081917",
@@ -125213,8 +125207,8 @@
          ]
       },
       "deleted": false,
-      "justified_rating": -6,
-      "justified_votes": 8
+      "justified_rating": -7,
+      "justified_votes": 7
    },
    "1706411069": {
       "title": "SCP-ZH-428",
