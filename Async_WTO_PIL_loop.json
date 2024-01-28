@@ -12178,5 +12178,22 @@
       "deleted": true,
       "justified_rating": 0,
       "justified_votes": 0
+   },
+   "1706411069": {
+      "title": "Scp Zh 428",
+      "fullname": "scp-zh-428",
+      "created_at": "1706411069",
+      "created_by": "8999082",
+      "tags": [],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1452378625",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
