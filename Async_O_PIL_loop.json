@@ -124636,8 +124636,8 @@
       ],
       "hidden_tags": [],
       "comments": "3",
-      "rating": "6",
-      "votes": "8",
+      "rating": "7",
+      "votes": "9",
       "parent": null,
       "id": "1452001568",
       "detailed_rating": {
@@ -124669,6 +124669,10 @@
             [
                "7064164",
                1705673385
+            ],
+            [
+               "5653267",
+               1706519607
             ]
          ],
          "-": [
@@ -124679,8 +124683,8 @@
          ]
       },
       "deleted": false,
-      "justified_rating": 6,
-      "justified_votes": 8
+      "justified_rating": 7,
+      "justified_votes": 9
    },
    "1703937557": {
       "title": "海風緩下之時",
