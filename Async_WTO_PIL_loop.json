@@ -12180,21 +12180,64 @@
       "justified_votes": 0
    },
    "1706411069": {
-      "title": "Scp Zh 428",
+      "title": "SCP-ZH-428",
       "fullname": "scp-zh-428",
       "created_at": "1706411069",
       "created_by": "8999082",
-      "tags": [],
+      "tags": [
+         "待刪除"
+      ],
       "hidden_tags": [],
-      "comments": "0",
-      "rating": "0",
-      "votes": "0",
+      "comments": "1",
+      "rating": "-7",
+      "votes": "9",
       "parent": null,
       "id": "1452378625",
-      "detailed_rating": {},
-      "deleted": true,
-      "justified_rating": 0,
-      "justified_votes": 0
+      "detailed_rating": {
+         "+": [
+            [
+               "8999082",
+               1706540896
+            ]
+         ],
+         "-": [
+            [
+               "8883612",
+               1706540896
+            ],
+            [
+               "8177208",
+               1706540896
+            ],
+            [
+               "7840542",
+               1706540896
+            ],
+            [
+               "8081917",
+               1706540896
+            ],
+            [
+               "8842990",
+               1706540896
+            ],
+            [
+               "5413616",
+               1706540896
+            ],
+            [
+               "7571354",
+               1706540896
+            ],
+            [
+               "8543386",
+               1706540896
+            ]
+         ]
+      },
+      "deleted": false,
+      "justified_rating": -7,
+      "justified_votes": 9
    },
    "1706497222": {
       "title": "異常分類系統修訂商榷",
