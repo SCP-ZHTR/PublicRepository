@@ -51529,8 +51529,8 @@
       ],
       "hidden_tags": [],
       "comments": "11",
-      "rating": "3",
-      "votes": "43",
+      "rating": "2",
+      "votes": "44",
       "parent": null,
       "id": "1305026724",
       "detailed_rating": {
@@ -51708,12 +51708,16 @@
             [
                "DELETED",
                "[UNKNOWN]"
+            ],
+            [
+               "8842990",
+               1706536979
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 15,
-      "justified_votes": 31
+      "justified_rating": 14,
+      "justified_votes": 32
    },
    "1601538996": {
       "title": "矢尖",
