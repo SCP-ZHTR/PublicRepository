@@ -130671,5 +130671,28 @@
       "deleted": false,
       "justified_rating": 7,
       "justified_votes": 7
+   },
+   "1706497222": {
+      "title": "異常分類系統修訂商榷",
+      "fullname": "a-modest-proposal-for-a-revised-anomaly-classification-syste",
+      "created_at": "1706497222",
+      "created_by": "6217438",
+      "tags": [
+         "en",
+         "s&c塑膠",
+         "喜劇",
+         "故事",
+         "翻譯"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1452384501",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
