@@ -53780,8 +53780,8 @@
          "_cc"
       ],
       "comments": "4",
-      "rating": "13",
-      "votes": "13",
+      "rating": "14",
+      "votes": "14",
       "parent": null,
       "id": "1305598561",
       "detailed_rating": {
@@ -53837,12 +53837,16 @@
             [
                "5454699",
                1617120000
+            ],
+            [
+               "7504530",
+               1706523219
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 13,
-      "justified_votes": 13
+      "justified_rating": 14,
+      "justified_votes": 14
    },
    "1603736965": {
       "title": "殺人者與被殺的殺人者",
