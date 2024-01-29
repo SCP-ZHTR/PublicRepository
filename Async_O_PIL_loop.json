@@ -125100,8 +125100,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "3",
-      "votes": "3",
+      "rating": "2",
+      "votes": "4",
       "parent": null,
       "id": "1452350081",
       "detailed_rating": {
@@ -125118,11 +125118,17 @@
                "8982806",
                1706269298
             ]
+         ],
+         "-": [
+            [
+               "5413616",
+               1706532891
+            ]
          ]
       },
       "deleted": false,
-      "justified_rating": 3,
-      "justified_votes": 3
+      "justified_rating": 2,
+      "justified_votes": 4
    },
    "1706274005": {
       "title": "在禁忌中：下集・殛人山",
