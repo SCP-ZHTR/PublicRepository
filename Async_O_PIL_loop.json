@@ -98599,8 +98599,8 @@
       ],
       "hidden_tags": [],
       "comments": "9",
-      "rating": "1",
-      "votes": "17",
+      "rating": "2",
+      "votes": "18",
       "parent": null,
       "id": "1420543591",
       "detailed_rating": {
@@ -98640,6 +98640,10 @@
             [
                "DELETED",
                1706593924
+            ],
+            [
+               "8543386",
+               1706609669
             ]
          ],
          "-": [
@@ -98678,8 +98682,8 @@
          ]
       },
       "deleted": false,
-      "justified_rating": 1,
-      "justified_votes": 15
+      "justified_rating": 2,
+      "justified_votes": 16
    },
    "1660137730": {
       "title": "假面騎士Theseus：雙軌難題",
