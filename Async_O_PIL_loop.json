@@ -104775,8 +104775,8 @@
       ],
       "hidden_tags": [],
       "comments": "4",
-      "rating": "7",
-      "votes": "11",
+      "rating": "8",
+      "votes": "12",
       "parent": null,
       "id": "1437210702",
       "detailed_rating": {
@@ -104816,6 +104816,10 @@
             [
                "5338547",
                1668528000
+            ],
+            [
+               "8846720",
+               1706591150
             ]
          ],
          "-": [
@@ -104830,8 +104834,8 @@
          ]
       },
       "deleted": false,
-      "justified_rating": 8,
-      "justified_votes": 10
+      "justified_rating": 9,
+      "justified_votes": 11
    },
    "1668608509": {
       "title": "SCP-ZH-962 - 似是而非",
