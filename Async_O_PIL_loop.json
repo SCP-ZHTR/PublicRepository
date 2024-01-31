@@ -125334,5 +125334,44 @@
       "deleted": true,
       "justified_rating": -7,
       "justified_votes": 9
+   },
+   "1706720083": {
+      "title": "SCP-ZH-022",
+      "fullname": "scp-zh-022",
+      "created_at": "1706720083",
+      "created_by": "5653267",
+      "tags": [
+         "2024冬季競賽",
+         "apollyon",
+         "k級情景",
+         "mc&d",
+         "scp",
+         "全球超自然聯盟",
+         "原創",
+         "掠食性",
+         "敵意",
+         "智能",
+         "未收容",
+         "武器",
+         "物種",
+         "蛇之手",
+         "蠕蟲",
+         "記憶影響",
+         "認知危害",
+         "超維度",
+         "逆模因"
+      ],
+      "hidden_tags": [
+         "_探險者mk"
+      ],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1452503843",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
