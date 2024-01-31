@@ -130804,5 +130804,31 @@
       "deleted": false,
       "justified_rating": 3,
       "justified_votes": 3
+   },
+   "1706683542": {
+      "title": "SCP-7460 - 操偶劇的皇帝",
+      "fullname": "scp-7460",
+      "created_at": "1706683542",
+      "created_by": "5013754",
+      "tags": [
+         "en",
+         "keter",
+         "scp",
+         "夜幕降臨",
+         "未收容",
+         "睡眠",
+         "翻譯",
+         "變形"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1452500981",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
