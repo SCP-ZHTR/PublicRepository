@@ -130706,8 +130706,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "11",
-      "votes": "11",
+      "rating": "12",
+      "votes": "12",
       "parent": null,
       "id": "1452384501",
       "detailed_rating": {
@@ -130755,12 +130755,16 @@
             [
                "5370805",
                1706523469
+            ],
+            [
+               "5013754",
+               1706709808
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 11,
-      "justified_votes": 11
+      "justified_rating": 12,
+      "justified_votes": 12
    },
    "1706531448": {
       "title": "Nx-03",
