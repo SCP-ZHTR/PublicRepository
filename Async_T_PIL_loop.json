@@ -130640,8 +130640,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "8",
-      "votes": "8",
+      "rating": "9",
+      "votes": "9",
       "parent": null,
       "id": "1452360887",
       "detailed_rating": {
@@ -130677,12 +130677,16 @@
             [
                "6981058",
                1706506162
+            ],
+            [
+               "7840542",
+               1706669037
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 8,
-      "justified_votes": 8
+      "justified_rating": 9,
+      "justified_votes": 9
    },
    "1706497222": {
       "title": "異常分類系統修訂商榷",
