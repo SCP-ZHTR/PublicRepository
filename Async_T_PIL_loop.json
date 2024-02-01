@@ -130648,8 +130648,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "9",
-      "votes": "9",
+      "rating": "10",
+      "votes": "10",
       "parent": null,
       "id": "1452360887",
       "detailed_rating": {
@@ -130689,12 +130689,16 @@
             [
                "7840542",
                1706669037
+            ],
+            [
+               "4442284",
+               1706746116
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 9,
-      "justified_votes": 9
+      "justified_rating": 10,
+      "justified_votes": 10
    },
    "1706497222": {
       "title": "異常分類系統修訂商榷",
@@ -130710,8 +130714,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "12",
-      "votes": "12",
+      "rating": "13",
+      "votes": "13",
       "parent": null,
       "id": "1452384501",
       "detailed_rating": {
@@ -130763,12 +130767,16 @@
             [
                "5013754",
                1706709808
+            ],
+            [
+               "4442284",
+               1706746116
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 12,
-      "justified_votes": 12
+      "justified_rating": 13,
+      "justified_votes": 13
    },
    "1706531448": {
       "title": "Nx-03",
