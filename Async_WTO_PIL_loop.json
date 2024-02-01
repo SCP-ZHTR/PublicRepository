@@ -12265,9 +12265,12 @@
       "fullname": "wallpaper-kaido",
       "created_at": "1706785833",
       "created_by": "8842990",
-      "tags": [],
+      "tags": [
+         "jp",
+         "藝術作品"
+      ],
       "hidden_tags": [],
-      "comments": "0",
+      "comments": "1",
       "rating": "0",
       "votes": "0",
       "parent": null,
