@@ -124973,8 +124973,8 @@
          "_工廠"
       ],
       "comments": "5",
-      "rating": "0",
-      "votes": "4",
+      "rating": "-1",
+      "votes": "5",
       "parent": null,
       "id": "1452219797",
       "detailed_rating": {
@@ -124996,12 +124996,16 @@
             [
                "5653267",
                1706780246
+            ],
+            [
+               "7840542",
+               1706839205
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 0,
-      "justified_votes": 4
+      "justified_rating": -1,
+      "justified_votes": 5
    },
    "1705577381": {
       "title": "「欲善其事」",
