@@ -125486,6 +125486,7 @@
          "機密分級",
          "機率性",
          "泥土",
+         "第五教會",
          "聽覺影響",
          "視覺性",
          "預測性"
@@ -125494,13 +125495,20 @@
          "_探險者mk"
       ],
       "comments": "0",
-      "rating": "0",
-      "votes": "0",
+      "rating": "1",
+      "votes": "1",
       "parent": null,
       "id": "1452514570",
-      "detailed_rating": {},
+      "detailed_rating": {
+         "+": [
+            [
+               "5435485",
+               1706866143
+            ]
+         ]
+      },
       "deleted": false,
-      "justified_rating": 0,
-      "justified_votes": 0
+      "justified_rating": 1,
+      "justified_votes": 1
    }
 }
