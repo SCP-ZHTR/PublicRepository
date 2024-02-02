@@ -125387,8 +125387,8 @@
          "_探險者mk"
       ],
       "comments": "0",
-      "rating": "4",
-      "votes": "4",
+      "rating": "5",
+      "votes": "5",
       "parent": null,
       "id": "1452503843",
       "detailed_rating": {
@@ -125408,12 +125408,16 @@
             [
                "7513990",
                1706802781
+            ],
+            [
+               "8283755",
+               1706854135
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 4,
-      "justified_votes": 4
+      "justified_rating": 5,
+      "justified_votes": 5
    },
    "1706777299": {
       "title": "插曲：大麻煩",
