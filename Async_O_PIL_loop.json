@@ -125434,8 +125434,8 @@
          "_禁黑"
       ],
       "comments": "2",
-      "rating": "-5",
-      "votes": "5",
+      "rating": "-6",
+      "votes": "6",
       "parent": null,
       "id": "1452508121",
       "detailed_rating": {
@@ -125459,11 +125459,15 @@
             [
                "7840542",
                1706840540
+            ],
+            [
+               "5653267",
+               1706860499
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": -5,
-      "justified_votes": 5
+      "justified_rating": -6,
+      "justified_votes": 6
    }
 }
