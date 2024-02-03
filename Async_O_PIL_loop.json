@@ -125495,8 +125495,8 @@
          "_探險者mk"
       ],
       "comments": "1",
-      "rating": "3",
-      "votes": "3",
+      "rating": "4",
+      "votes": "4",
       "parent": null,
       "id": "1452514570",
       "detailed_rating": {
@@ -125512,11 +125512,15 @@
             [
                "7827462",
                1706901119
+            ],
+            [
+               "7073060",
+               1706959297
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 3,
-      "justified_votes": 3
+      "justified_rating": 4,
+      "justified_votes": 4
    }
 }
