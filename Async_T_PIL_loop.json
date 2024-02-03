@@ -130951,5 +130951,28 @@
       "deleted": false,
       "justified_rating": 0,
       "justified_votes": 0
+   },
+   "1706961745": {
+      "title": "戰術神學部中心頁",
+      "fullname": "tactical-theology-hub",
+      "created_at": "1706961745",
+      "created_by": "6217438",
+      "tags": [
+         "en",
+         "中心",
+         "合著",
+         "戰術神學部",
+         "翻譯"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1452521511",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
