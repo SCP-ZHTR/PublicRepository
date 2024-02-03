@@ -129722,8 +129722,8 @@
          "_licensebox"
       ],
       "comments": "0",
-      "rating": "-1",
-      "votes": "1",
+      "rating": "0",
+      "votes": "2",
       "parent": null,
       "id": "1451988427",
       "detailed_rating": {
@@ -129732,11 +129732,17 @@
                "8221044",
                1705223633
             ]
+         ],
+         "+": [
+            [
+               "6217438",
+               1706946667
+            ]
          ]
       },
       "deleted": false,
-      "justified_rating": -1,
-      "justified_votes": 1
+      "justified_rating": 0,
+      "justified_votes": 2
    },
    "1703750418": {
       "title": "SCP-7174 - 維繫每一個人的信仰",
