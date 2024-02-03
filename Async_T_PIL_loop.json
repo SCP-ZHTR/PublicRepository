@@ -130985,5 +130985,32 @@
       "deleted": false,
       "justified_rating": 2,
       "justified_votes": 2
+   },
+   "1706970688": {
+      "title": "SCP-6718 - 但要是另一邊什麼也沒有呢？",
+      "fullname": "scp-6718",
+      "created_at": "1706970688",
+      "created_by": "6217438",
+      "tags": [
+         "afterlife",
+         "apollyon",
+         "en",
+         "scp",
+         "叁月協會",
+         "戰術神學部",
+         "未收容",
+         "翻譯",
+         "重寫"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1452522058",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
