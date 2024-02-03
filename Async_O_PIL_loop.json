@@ -125522,5 +125522,35 @@
       "deleted": false,
       "justified_rating": 4,
       "justified_votes": 4
+   },
+   "1706971220": {
+      "title": "SCP-ZH-818 - 古賢的歸途",
+      "fullname": "scp-zh-818",
+      "created_at": "1706971220",
+      "created_by": "7605593",
+      "tags": [
+         "2024冬季競賽",
+         "scp",
+         "site-zh-11",
+         "原創",
+         "反常部",
+         "機密分級",
+         "機率性",
+         "真紀博士",
+         "研究員knave",
+         "遊戲"
+      ],
+      "hidden_tags": [
+         "_偉大長老"
+      ],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1452522073",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
