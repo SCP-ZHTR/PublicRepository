@@ -125567,5 +125567,29 @@
       "deleted": false,
       "justified_rating": 3,
       "justified_votes": 3
+   },
+   "1706974716": {
+      "title": "所以M.K.來到了一個無人島上",
+      "fullname": "so-mk-went-to-a-island",
+      "created_at": "1706974716",
+      "created_by": "6709715",
+      "tags": [
+         "2024冬季競賽",
+         "原創",
+         "故事",
+         "流浪者圖書館"
+      ],
+      "hidden_tags": [
+         "_探險者m.k."
+      ],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1452522295",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
