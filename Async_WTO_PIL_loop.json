@@ -12396,5 +12396,22 @@
       "deleted": true,
       "justified_rating": 0,
       "justified_votes": 0
+   },
+   "1707018029": {
+      "title": "有關批准開發補助驟增人口之養育、教育設備的申請",
+      "fullname": "grant-request-for-development-of-nurturing-and-education",
+      "created_at": "1707018029",
+      "created_by": "6381244",
+      "tags": [],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1452524194",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
