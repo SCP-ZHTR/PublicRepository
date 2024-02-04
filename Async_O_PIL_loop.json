@@ -125626,8 +125626,8 @@
          "_黃姓線人"
       ],
       "comments": "0",
-      "rating": "4",
-      "votes": "4",
+      "rating": "5",
+      "votes": "5",
       "parent": null,
       "id": "1452525647",
       "detailed_rating": {
@@ -125647,11 +125647,15 @@
             [
                "8883612",
                1707044675
+            ],
+            [
+               "4442284",
+               1707047121
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 4,
-      "justified_votes": 4
+      "justified_rating": 5,
+      "justified_votes": 5
    }
 }
