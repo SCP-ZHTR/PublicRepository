@@ -125548,8 +125548,8 @@
          "_偉大長老"
       ],
       "comments": "0",
-      "rating": "3",
-      "votes": "3",
+      "rating": "4",
+      "votes": "4",
       "parent": null,
       "id": "1452522073",
       "detailed_rating": {
@@ -125565,12 +125565,16 @@
             [
                "5435485",
                1706971685
+            ],
+            [
+               "6503482",
+               1707012264
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 3,
-      "justified_votes": 3
+      "justified_rating": 4,
+      "justified_votes": 4
    },
    "1706974716": {
       "title": "所以M.K.來到了一個無人島上",
