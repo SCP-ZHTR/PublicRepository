@@ -130811,8 +130811,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "4",
-      "votes": "4",
+      "rating": "5",
+      "votes": "5",
       "parent": null,
       "id": "1452387231",
       "detailed_rating": {
@@ -130832,12 +130832,16 @@
             [
                "5653267",
                1706894520
+            ],
+            [
+               "7504530",
+               1707006785
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 4,
-      "justified_votes": 4
+      "justified_rating": 5,
+      "justified_votes": 5
    },
    "1706683542": {
       "title": "SCP-7460 - 操偶劇的皇帝",
