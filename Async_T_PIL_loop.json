@@ -95357,8 +95357,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "10",
-      "votes": "10",
+      "rating": "11",
+      "votes": "11",
       "parent": null,
       "id": "1420226832",
       "detailed_rating": {
@@ -95402,12 +95402,16 @@
             [
                "DELETED",
                1703087274
+            ],
+            [
+               "8418020",
+               1707111608
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 9,
-      "justified_votes": 9
+      "justified_rating": 10,
+      "justified_votes": 10
    },
    "1658198250": {
       "title": "SCP-377 - 超準幸運餅乾",
