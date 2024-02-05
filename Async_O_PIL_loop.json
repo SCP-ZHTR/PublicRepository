@@ -125801,8 +125801,8 @@
          "_黃姓線人"
       ],
       "comments": "0",
-      "rating": "5",
-      "votes": "5",
+      "rating": "6",
+      "votes": "6",
       "parent": null,
       "id": "1452532739",
       "detailed_rating": {
@@ -125826,12 +125826,16 @@
             [
                "6091157",
                1707148862
+            ],
+            [
+               "4442284",
+               1707151331
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 5,
-      "justified_votes": 5
+      "justified_rating": 6,
+      "justified_votes": 6
    },
    "1707140845": {
       "title": "一篇關於SCP-ZH-655的故事",
