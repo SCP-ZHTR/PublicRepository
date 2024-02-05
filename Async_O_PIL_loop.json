@@ -118747,8 +118747,8 @@
          "_核心"
       ],
       "comments": "0",
-      "rating": "21",
-      "votes": "21",
+      "rating": "22",
+      "votes": "22",
       "parent": null,
       "id": "1450049140",
       "detailed_rating": {
@@ -118836,12 +118836,16 @@
             [
                "5701756",
                1701400661
+            ],
+            [
+               "8177208",
+               1707097828
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 21,
-      "justified_votes": 21
+      "justified_rating": 22,
+      "justified_votes": 22
    },
    "1695131698": {
       "title": "SCP-ZH-154 - 成為了一顆彗星",
@@ -125683,8 +125687,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "5",
-      "votes": "5",
+      "rating": "6",
+      "votes": "6",
       "parent": null,
       "id": "1452528333",
       "detailed_rating": {
@@ -125708,11 +125712,15 @@
             [
                "5413616",
                1707094250
+            ],
+            [
+               "7571354",
+               1707097828
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 5,
-      "justified_votes": 5
+      "justified_rating": 6,
+      "justified_votes": 6
    }
 }
