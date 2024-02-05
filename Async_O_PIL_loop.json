@@ -125794,7 +125794,7 @@
       ],
       "comments": "0",
       "rating": "2",
-      "votes": "2",
+      "votes": "3",
       "parent": null,
       "id": "1452532739",
       "detailed_rating": {
@@ -125806,11 +125806,35 @@
             [
                "4990678",
                1707140719
+            ],
+            [
+               "7571354",
+               1707140971
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 2,
-      "justified_votes": 2
+      "justified_rating": 3,
+      "justified_votes": 3
+   },
+   "1707140845": {
+      "title": "一篇關於SCP-ZH-655的故事",
+      "fullname": "story-about-zh-655",
+      "created_at": "1707140845",
+      "created_by": "6709715",
+      "tags": [
+         "原創",
+         "故事"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1452532804",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
