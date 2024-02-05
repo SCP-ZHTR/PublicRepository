@@ -125774,5 +125774,32 @@
       "deleted": false,
       "justified_rating": 12,
       "justified_votes": 12
+   },
+   "1707139510": {
+      "title": "SCP-ZH-345 - 不願參與的悲劇",
+      "fullname": "scp-zh-345",
+      "created_at": "1707139510",
+      "created_by": "6503482",
+      "tags": [
+         "2024冬季競賽",
+         "safe",
+         "scp",
+         "site-zh-44",
+         "原創",
+         "植物",
+         "神異博覽會"
+      ],
+      "hidden_tags": [
+         "_黃姓線人"
+      ],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1452532739",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
