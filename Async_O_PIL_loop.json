@@ -110967,8 +110967,8 @@
       ],
       "hidden_tags": [],
       "comments": "3",
-      "rating": "18",
-      "votes": "18",
+      "rating": "19",
+      "votes": "19",
       "parent": null,
       "id": "1446708595",
       "detailed_rating": {
@@ -111044,12 +111044,16 @@
             [
                "DELETED",
                1694688580
+            ],
+            [
+               "4239775",
+               1707102421
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 17,
-      "justified_votes": 17
+      "justified_rating": 18,
+      "justified_votes": 18
    },
    "1678813925": {
       "title": "母親、異族、大洪水：上古台灣異常史講座",
