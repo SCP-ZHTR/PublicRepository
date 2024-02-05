@@ -124981,8 +124981,8 @@
          "_工廠"
       ],
       "comments": "5",
-      "rating": "-1",
-      "votes": "5",
+      "rating": "0",
+      "votes": "6",
       "parent": null,
       "id": "1452219797",
       "detailed_rating": {
@@ -124994,6 +124994,10 @@
             [
                "7504530",
                1705975142
+            ],
+            [
+               "8842990",
+               1707105127
             ]
          ],
          "-": [
@@ -125012,8 +125016,8 @@
          ]
       },
       "deleted": false,
-      "justified_rating": -1,
-      "justified_votes": 5
+      "justified_rating": 0,
+      "justified_votes": 6
    },
    "1705577381": {
       "title": "「欲善其事」",
@@ -125515,8 +125519,8 @@
          "_探險者mk"
       ],
       "comments": "1",
-      "rating": "4",
-      "votes": "4",
+      "rating": "5",
+      "votes": "5",
       "parent": null,
       "id": "1452514570",
       "detailed_rating": {
@@ -125536,12 +125540,16 @@
             [
                "7073060",
                1706959297
+            ],
+            [
+               "6503482",
+               1707105127
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 4,
-      "justified_votes": 4
+      "justified_rating": 5,
+      "justified_votes": 5
    },
    "1706971220": {
       "title": "SCP-ZH-818 - 古賢的歸途",
@@ -125691,8 +125699,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "7",
-      "votes": "7",
+      "rating": "8",
+      "votes": "8",
       "parent": null,
       "id": "1452528333",
       "detailed_rating": {
@@ -125724,11 +125732,15 @@
             [
                "6709715",
                1707098694
+            ],
+            [
+               "6503482",
+               1707105127
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 7,
-      "justified_votes": 7
+      "justified_rating": 8,
+      "justified_votes": 8
    }
 }
