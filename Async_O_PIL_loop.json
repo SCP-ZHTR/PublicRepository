@@ -125793,13 +125793,20 @@
          "_黃姓線人"
       ],
       "comments": "0",
-      "rating": "0",
-      "votes": "0",
+      "rating": "1",
+      "votes": "1",
       "parent": null,
       "id": "1452532739",
-      "detailed_rating": {},
+      "detailed_rating": {
+         "+": [
+            [
+               "6709715",
+               1707140589
+            ]
+         ]
+      },
       "deleted": false,
-      "justified_rating": 0,
-      "justified_votes": 0
+      "justified_rating": 1,
+      "justified_votes": 1
    }
 }
