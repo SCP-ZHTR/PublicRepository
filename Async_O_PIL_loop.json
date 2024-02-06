@@ -125895,5 +125895,31 @@
       "deleted": false,
       "justified_rating": 6,
       "justified_votes": 6
+   },
+   "1707239809": {
+      "title": "【提問】開台四百年要做什麼？",
+      "fullname": "wdym-400th-year",
+      "created_at": "1707239809",
+      "created_by": "5435485",
+      "tags": [
+         "原創",
+         "台灣原住民",
+         "夜之子",
+         "搞笑",
+         "故事",
+         "殆瓦",
+         "流浪者圖書館",
+         "神異博覽會"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1452565126",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
