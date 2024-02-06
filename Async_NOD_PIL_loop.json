@@ -24354,8 +24354,8 @@
          "_info"
       ],
       "comments": "0",
-      "rating": "6",
-      "votes": "8",
+      "rating": "7",
+      "votes": "9",
       "parent": null,
       "id": "969800636",
       "detailed_rating": {
@@ -24387,6 +24387,10 @@
             [
                "5454699",
                1707228763
+            ],
+            [
+               "8543386",
+               1707229263
             ]
          ],
          "-": [
@@ -24397,7 +24401,7 @@
          ]
       },
       "deleted": false,
-      "justified_rating": 6,
-      "justified_votes": 8
+      "justified_rating": 7,
+      "justified_votes": 9
    }
 }
