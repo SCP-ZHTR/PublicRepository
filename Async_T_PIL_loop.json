@@ -128395,8 +128395,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "4",
-      "votes": "4",
+      "rating": "5",
+      "votes": "5",
       "parent": null,
       "id": "1451622146",
       "detailed_rating": {
@@ -128416,12 +128416,16 @@
             [
                "8221044",
                1705223633
+            ],
+            [
+               "8543386",
+               1707219585
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 4,
-      "justified_votes": 4
+      "justified_rating": 5,
+      "justified_votes": 5
    },
    "1702091919": {
       "title": "SCP-8472-EX - 噢，老鼠！",
