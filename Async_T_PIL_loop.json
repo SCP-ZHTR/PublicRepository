@@ -130970,8 +130970,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "2",
-      "votes": "2",
+      "rating": "3",
+      "votes": "3",
       "parent": null,
       "id": "1452521016",
       "detailed_rating": {
@@ -130983,12 +130983,16 @@
             [
                "5370805",
                1707270468
+            ],
+            [
+               "6503482",
+               1707270721
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 2,
-      "justified_votes": 2
+      "justified_rating": 3,
+      "justified_votes": 3
    },
    "1706961745": {
       "title": "戰術神學部中心頁",
