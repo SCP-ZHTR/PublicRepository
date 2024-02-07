@@ -131125,5 +131125,37 @@
       "deleted": false,
       "justified_rating": 4,
       "justified_votes": 4
+   },
+   "1707268323": {
+      "title": "SCP-7547 - 聖杯七",
+      "fullname": "scp-7547",
+      "created_at": "1707268323",
+      "created_by": "6217438",
+      "tags": [
+         "awcy",
+         "en",
+         "k級情景",
+         "mc&d",
+         "safe",
+         "scp",
+         "人形",
+         "儀式性",
+         "夢神",
+         "屍體",
+         "幻覺",
+         "本質促動",
+         "猩紅之王",
+         "翻譯"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1452566517",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
