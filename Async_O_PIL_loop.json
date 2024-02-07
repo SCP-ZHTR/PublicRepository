@@ -126227,5 +126227,34 @@
       "deleted": false,
       "justified_rating": 0,
       "justified_votes": 0
+   },
+   "1707320100": {
+      "title": "SCP-ZH-465 - Zététique／Zetetics",
+      "fullname": "scp-zh-465",
+      "created_at": "1707320100",
+      "created_by": "7605593",
+      "tags": [
+         "2024冬季競賽",
+         "scp",
+         "原創",
+         "悖論",
+         "敘述性",
+         "文獻",
+         "模因效應",
+         "機密分級",
+         "真紀博士"
+      ],
+      "hidden_tags": [
+         "_黃姓線人"
+      ],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1452569618",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
