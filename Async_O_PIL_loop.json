@@ -126121,8 +126121,8 @@
          "_偉大長老"
       ],
       "comments": "0",
-      "rating": "1",
-      "votes": "1",
+      "rating": "2",
+      "votes": "2",
       "parent": null,
       "id": "1452568467",
       "detailed_rating": {
@@ -126130,11 +126130,15 @@
             [
                "6217438",
                1707307112
+            ],
+            [
+               "7571354",
+               1707307495
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 1,
-      "justified_votes": 1
+      "justified_rating": 2,
+      "justified_votes": 2
    }
 }
