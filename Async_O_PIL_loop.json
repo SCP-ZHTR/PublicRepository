@@ -126293,8 +126293,8 @@
          "_偉大長老"
       ],
       "comments": "0",
-      "rating": "2",
-      "votes": "2",
+      "rating": "3",
+      "votes": "3",
       "parent": "secure-facility-dossier-lunar-area-32",
       "id": "1452569673",
       "detailed_rating": {
@@ -126306,12 +126306,16 @@
             [
                "8982806",
                1707323774
+            ],
+            [
+               "8177208",
+               1707327402
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 2,
-      "justified_votes": 2
+      "justified_rating": 3,
+      "justified_votes": 3
    },
    "1707320710": {
       "title": "SCP-ZH-668 - 「廣內」",
