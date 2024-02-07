@@ -24524,7 +24524,10 @@
       "fullname": "fragment:scp-7547-6",
       "created_at": "1707269290",
       "created_by": "6217438",
-      "tags": [],
+      "tags": [
+         "段落",
+         "翻譯"
+      ],
       "hidden_tags": [],
       "comments": "0",
       "rating": "0",
