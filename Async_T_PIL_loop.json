@@ -62791,8 +62791,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "4",
-      "votes": "4",
+      "rating": "5",
+      "votes": "5",
       "parent": null,
       "id": "1310918495",
       "detailed_rating": {
@@ -62812,12 +62812,16 @@
             [
                "5415046",
                1619884800
+            ],
+            [
+               "7504530",
+               1707292957
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 4,
-      "justified_votes": 4
+      "justified_rating": 5,
+      "justified_votes": 5
    },
    "1619599556": {
       "title": "是的",
