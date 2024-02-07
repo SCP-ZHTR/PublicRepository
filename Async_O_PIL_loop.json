@@ -125668,8 +125668,8 @@
          "_探險者mk"
       ],
       "comments": "0",
-      "rating": "6",
-      "votes": "6",
+      "rating": "7",
+      "votes": "7",
       "parent": null,
       "id": "1452522295",
       "detailed_rating": {
@@ -125697,12 +125697,16 @@
             [
                "4442284",
                1707302867
+            ],
+            [
+               "4990678",
+               1707313361
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 6,
-      "justified_votes": 6
+      "justified_rating": 7,
+      "justified_votes": 7
    },
    "1707043822": {
       "title": "物件檔案：仿聲丸",
