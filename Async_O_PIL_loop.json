@@ -126256,5 +126256,29 @@
       "deleted": false,
       "justified_rating": 0,
       "justified_votes": 0
+   },
+   "1707320868": {
+      "title": "SCP-ZH-716 - 星旅",
+      "fullname": "scp-zh-716",
+      "created_at": "1707320868",
+      "created_by": "6787405",
+      "tags": [
+         "2024冬季競賽",
+         "safe",
+         "scp",
+         "原創"
+      ],
+      "hidden_tags": [
+         "_偉大長老"
+      ],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1452569673",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
