@@ -24478,5 +24478,42 @@
       "deleted": false,
       "justified_rating": 0,
       "justified_votes": 0
+   },
+   "1707269023": {
+      "title": "SCP-7547",
+      "fullname": "fragment:scp-7547-4",
+      "created_at": "1707269023",
+      "created_by": "6217438",
+      "tags": [
+         "段落",
+         "翻譯"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": "scp-7547",
+      "id": "1452566530",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
+   },
+   "1707269142": {
+      "title": "SCP-7547",
+      "fullname": "fragment:scp-7547-5",
+      "created_at": "1707269142",
+      "created_by": "6217438",
+      "tags": [],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1452566532",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
