@@ -125945,5 +125945,32 @@
       "deleted": false,
       "justified_rating": 5,
       "justified_votes": 5
+   },
+   "1707263446": {
+      "title": "Scp Zh 358",
+      "fullname": "scp-zh-358",
+      "created_at": "1707263446",
+      "created_by": "8543386",
+      "tags": [
+         "2024冬季競賽",
+         "safe",
+         "scp",
+         "不可摧毀",
+         "人造物品",
+         "原創",
+         "反熵"
+      ],
+      "hidden_tags": [
+         "_探險者mk"
+      ],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1452566407",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
