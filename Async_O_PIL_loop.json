@@ -125885,8 +125885,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "8",
-      "votes": "8",
+      "rating": "9",
+      "votes": "9",
       "parent": null,
       "id": "1452532804",
       "detailed_rating": {
@@ -125922,12 +125922,16 @@
             [
                "8543386",
                1707294130
+            ],
+            [
+               "7513990",
+               1707302612
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 8,
-      "justified_votes": 8
+      "justified_rating": 9,
+      "justified_votes": 9
    },
    "1707239809": {
       "title": "【提問】開台四百年要做什麼？",
