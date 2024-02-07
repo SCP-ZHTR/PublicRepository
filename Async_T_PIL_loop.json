@@ -128110,8 +128110,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "4",
-      "votes": "4",
+      "rating": "5",
+      "votes": "5",
       "parent": null,
       "id": "1451448998",
       "detailed_rating": {
@@ -128131,12 +128131,16 @@
             [
                "7073060",
                1703058380
+            ],
+            [
+               "7655555",
+               1707339739
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 4,
-      "justified_votes": 4
+      "justified_rating": 5,
+      "justified_votes": 5
    },
    "1700659059": {
       "title": "SCP-7212 - 天空的名字，會感到寂寞嗎？",
@@ -128509,8 +128513,8 @@
          "_listpages"
       ],
       "comments": "0",
-      "rating": "4",
-      "votes": "4",
+      "rating": "5",
+      "votes": "5",
       "parent": "admonition",
       "id": "1451758500",
       "detailed_rating": {
@@ -128530,12 +128534,16 @@
             [
                "7073060",
                1703058244
+            ],
+            [
+               "7655555",
+               1707339739
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 4,
-      "justified_votes": 4
+      "justified_rating": 5,
+      "justified_votes": 5
    },
    "1702355475": {
       "title": "SCP-3434 - ……而我們寧可留在黑暗之中",
