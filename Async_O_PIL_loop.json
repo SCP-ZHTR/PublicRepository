@@ -126309,5 +126309,28 @@
       "deleted": false,
       "justified_rating": 0,
       "justified_votes": 0
+   },
+   "1707321483": {
+      "title": "SCP-ZH-611 - 傾塔",
+      "fullname": "scp-zh-611",
+      "created_at": "1707321483",
+      "created_by": "5252281",
+      "tags": [
+         "2024冬季競賽",
+         "scp",
+         "原創"
+      ],
+      "hidden_tags": [
+         "_探險者mk"
+      ],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1452569716",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
