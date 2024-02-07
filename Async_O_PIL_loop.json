@@ -293,8 +293,8 @@
          "_info"
       ],
       "comments": "1",
-      "rating": "9",
-      "votes": "13",
+      "rating": "8",
+      "votes": "14",
       "parent": null,
       "id": "633994824",
       "detailed_rating": {
@@ -352,12 +352,16 @@
             [
                "5435485",
                1617120000
+            ],
+            [
+               "7513990",
+               1707301604
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 9,
-      "justified_votes": 13
+      "justified_rating": 8,
+      "justified_votes": 14
    },
    "1552114841": {
       "title": "SCP-ZH-940 - 獵巫",
