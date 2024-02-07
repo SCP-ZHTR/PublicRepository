@@ -125723,8 +125723,8 @@
          "_黃姓線人"
       ],
       "comments": "0",
-      "rating": "7",
-      "votes": "7",
+      "rating": "8",
+      "votes": "8",
       "parent": null,
       "id": "1452525647",
       "detailed_rating": {
@@ -125756,12 +125756,16 @@
             [
                "5338547",
                1707312344
+            ],
+            [
+               "4990678",
+               1707314742
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 7,
-      "justified_votes": 7
+      "justified_rating": 8,
+      "justified_votes": 8
    },
    "1707079712": {
       "title": "未若柳絮",
