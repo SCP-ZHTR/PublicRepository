@@ -126324,14 +126324,21 @@
          "_探險者mk"
       ],
       "comments": "0",
-      "rating": "0",
-      "votes": "0",
+      "rating": "1",
+      "votes": "1",
       "parent": null,
       "id": "1452569716",
-      "detailed_rating": {},
+      "detailed_rating": {
+         "+": [
+            [
+               "5435485",
+               1707322563
+            ]
+         ]
+      },
       "deleted": false,
-      "justified_rating": 0,
-      "justified_votes": 0
+      "justified_rating": 1,
+      "justified_votes": 1
    },
    "1707321536": {
       "title": "SCP-ZH-757 - 馬里亞納海葬",
