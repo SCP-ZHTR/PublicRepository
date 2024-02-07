@@ -24464,12 +24464,15 @@
       "fullname": "fragment:scp-7547-3",
       "created_at": "1707268864",
       "created_by": "6217438",
-      "tags": [],
+      "tags": [
+         "段落",
+         "翻譯"
+      ],
       "hidden_tags": [],
       "comments": "0",
       "rating": "0",
       "votes": "0",
-      "parent": null,
+      "parent": "scp-7547",
       "id": "1452566527",
       "detailed_rating": {},
       "deleted": false,
