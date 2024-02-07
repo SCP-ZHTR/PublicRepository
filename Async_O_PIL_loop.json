@@ -16933,10 +16933,10 @@
          "儀式性",
          "原創",
          "宗教",
+         "毒性",
          "氣體",
          "無效化",
-         "蛇之手",
-         "認知危害"
+         "蛇之手"
       ],
       "hidden_tags": [
          "_image"
@@ -126025,8 +126025,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "6",
-      "votes": "6",
+      "rating": "7",
+      "votes": "7",
       "parent": null,
       "id": "1452567162",
       "detailed_rating": {
@@ -126054,11 +126054,15 @@
             [
                "8883612",
                1707292167
+            ],
+            [
+               "8846720",
+               1707292560
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 6,
-      "justified_votes": 6
+      "justified_rating": 7,
+      "justified_votes": 7
    }
 }
