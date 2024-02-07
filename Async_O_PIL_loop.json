@@ -126274,8 +126274,37 @@
       "comments": "0",
       "rating": "0",
       "votes": "0",
-      "parent": null,
+      "parent": "secure-facility-dossier-lunar-area-32",
       "id": "1452569673",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
+   },
+   "1707320710": {
+      "title": "SCP-ZH-668 - 「廣內」",
+      "fullname": "scp-zh-668",
+      "created_at": "1707320710",
+      "created_by": "7655555",
+      "tags": [
+         "2024冬季競賽",
+         "scp",
+         "原創",
+         "建築物",
+         "待分級",
+         "扶桑紀",
+         "神異博覽會",
+         "超維度",
+         "門徑"
+      ],
+      "hidden_tags": [
+         "_黃姓線人"
+      ],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1452569667",
       "detailed_rating": {},
       "deleted": false,
       "justified_rating": 0,
