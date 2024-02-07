@@ -126219,14 +126219,21 @@
          "_探險者mk"
       ],
       "comments": "0",
-      "rating": "0",
-      "votes": "0",
+      "rating": "1",
+      "votes": "1",
       "parent": null,
       "id": "1452569478",
-      "detailed_rating": {},
+      "detailed_rating": {
+         "+": [
+            [
+               "8982806",
+               1707323639
+            ]
+         ]
+      },
       "deleted": false,
-      "justified_rating": 0,
-      "justified_votes": 0
+      "justified_rating": 1,
+      "justified_votes": 1
    },
    "1707320100": {
       "title": "SCP-ZH-465 - Zététique／Zetetics",
@@ -126248,8 +126255,8 @@
          "_黃姓線人"
       ],
       "comments": "0",
-      "rating": "1",
-      "votes": "1",
+      "rating": "2",
+      "votes": "2",
       "parent": null,
       "id": "1452569618",
       "detailed_rating": {
@@ -126257,12 +126264,16 @@
             [
                "5435485",
                1707323209
+            ],
+            [
+               "8982806",
+               1707323639
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 1,
-      "justified_votes": 1
+      "justified_rating": 2,
+      "justified_votes": 2
    },
    "1707320868": {
       "title": "SCP-ZH-716 - 星旅",
