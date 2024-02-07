@@ -125544,8 +125544,8 @@
          "_探險者mk"
       ],
       "comments": "1",
-      "rating": "5",
-      "votes": "5",
+      "rating": "6",
+      "votes": "6",
       "parent": null,
       "id": "1452514570",
       "detailed_rating": {
@@ -125569,12 +125569,16 @@
             [
                "6503482",
                1707105127
+            ],
+            [
+               "8846720",
+               1707293619
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 5,
-      "justified_votes": 5
+      "justified_rating": 6,
+      "justified_votes": 6
    },
    "1706971220": {
       "title": "SCP-ZH-818 - 古賢的歸途",
