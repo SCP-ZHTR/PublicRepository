@@ -126332,5 +126332,31 @@
       "deleted": false,
       "justified_rating": 0,
       "justified_votes": 0
+   },
+   "1707321536": {
+      "title": "SCP-ZH-757 - 馬里亞納海葬",
+      "fullname": "scp-zh-757",
+      "created_at": "1707321536",
+      "created_by": "5435485",
+      "tags": [
+         "2024冬季競賽",
+         "site-zh-44",
+         "人造物品",
+         "原創",
+         "地點",
+         "夜之子"
+      ],
+      "hidden_tags": [
+         "_偉大長老"
+      ],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1452569719",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
