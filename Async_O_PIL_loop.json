@@ -36065,8 +36065,8 @@
       ],
       "hidden_tags": [],
       "comments": "4",
-      "rating": "11",
-      "votes": "11",
+      "rating": "12",
+      "votes": "12",
       "parent": null,
       "id": "1024718222",
       "detailed_rating": {
@@ -36114,12 +36114,16 @@
             [
                "6082642",
                1617120000
+            ],
+            [
+               "8982806",
+               1707370198
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 11,
-      "justified_votes": 11
+      "justified_rating": 12,
+      "justified_votes": 12
    },
    "1587224168": {
       "title": "SCP-ZH-103 - 易形鴞魔",
