@@ -126297,8 +126297,8 @@
          "_偉大長老"
       ],
       "comments": "0",
-      "rating": "3",
-      "votes": "3",
+      "rating": "4",
+      "votes": "4",
       "parent": "secure-facility-dossier-lunar-area-32",
       "id": "1452569673",
       "detailed_rating": {
@@ -126314,12 +126314,20 @@
             [
                "8177208",
                1707327402
+            ],
+            [
+               "5370805",
+               1707353043
+            ],
+            [
+               "5338547",
+               1707353043
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 3,
-      "justified_votes": 3
+      "justified_rating": 5,
+      "justified_votes": 5
    },
    "1707320710": {
       "title": "SCP-ZH-668 - 「廣內」",
@@ -126380,8 +126388,8 @@
          "_探險者mk"
       ],
       "comments": "0",
-      "rating": "3",
-      "votes": "3",
+      "rating": "4",
+      "votes": "4",
       "parent": null,
       "id": "1452569716",
       "detailed_rating": {
@@ -126397,12 +126405,16 @@
             [
                "4239775",
                1707352747
+            ],
+            [
+               "5338547",
+               1707353043
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 3,
-      "justified_votes": 3
+      "justified_rating": 4,
+      "justified_votes": 4
    },
    "1707321536": {
       "title": "SCP-ZH-757 - 馬里亞納海葬",
