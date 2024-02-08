@@ -126262,8 +126262,8 @@
          "_黃姓線人"
       ],
       "comments": "0",
-      "rating": "2",
-      "votes": "2",
+      "rating": "3",
+      "votes": "3",
       "parent": null,
       "id": "1452569618",
       "detailed_rating": {
@@ -126275,12 +126275,16 @@
             [
                "8982806",
                1707323639
+            ],
+            [
+               "5338547",
+               1707353196
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 2,
-      "justified_votes": 2
+      "justified_rating": 3,
+      "justified_votes": 3
    },
    "1707320868": {
       "title": "SCP-ZH-716 - 星旅",
@@ -126297,8 +126301,8 @@
          "_偉大長老"
       ],
       "comments": "0",
-      "rating": "4",
-      "votes": "4",
+      "rating": "6",
+      "votes": "6",
       "parent": "secure-facility-dossier-lunar-area-32",
       "id": "1452569673",
       "detailed_rating": {
@@ -126322,12 +126326,16 @@
             [
                "5338547",
                1707353043
+            ],
+            [
+               "6503482",
+               1707353196
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 5,
-      "justified_votes": 5
+      "justified_rating": 6,
+      "justified_votes": 6
    },
    "1707320710": {
       "title": "SCP-ZH-668 - 「廣內」",
@@ -126349,8 +126357,8 @@
          "_黃姓線人"
       ],
       "comments": "1",
-      "rating": "3",
-      "votes": "3",
+      "rating": "4",
+      "votes": "4",
       "parent": null,
       "id": "1452569667",
       "detailed_rating": {
@@ -126366,12 +126374,16 @@
             [
                "8982806",
                1707323501
+            ],
+            [
+               "5338547",
+               1707353196
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 3,
-      "justified_votes": 3
+      "justified_rating": 4,
+      "justified_votes": 4
    },
    "1707321483": {
       "title": "SCP-ZH-611 - 傾塔",
