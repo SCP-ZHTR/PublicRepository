@@ -126199,9 +126199,9 @@
       "hidden_tags": [
          "_偉大長老"
       ],
-      "comments": "2",
-      "rating": "11",
-      "votes": "11",
+      "comments": "3",
+      "rating": "12",
+      "votes": "12",
       "parent": null,
       "id": "1452568467",
       "detailed_rating": {
@@ -126249,12 +126249,16 @@
             [
                "4442284",
                1707367647
+            ],
+            [
+               "8177208",
+               1707370331
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 11,
-      "justified_votes": 11
+      "justified_rating": 12,
+      "justified_votes": 12
    },
    "1707318445": {
       "title": "SCP-ZH-313 - 親水羅盤",
