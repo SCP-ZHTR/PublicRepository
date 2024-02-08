@@ -125726,7 +125726,7 @@
          "_黃姓線人"
       ],
       "comments": "0",
-      "rating": "8",
+      "rating": "9",
       "votes": "9",
       "parent": null,
       "id": "1452525647",
@@ -126454,8 +126454,8 @@
          "_探險者mk"
       ],
       "comments": "0",
-      "rating": "6",
-      "votes": "6",
+      "rating": "7",
+      "votes": "7",
       "parent": null,
       "id": "1452569716",
       "detailed_rating": {
@@ -126483,12 +126483,16 @@
             [
                "4990678",
                1707363131
+            ],
+            [
+               "7605593",
+               1707365609
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 6,
-      "justified_votes": 6
+      "justified_rating": 7,
+      "justified_votes": 7
    },
    "1707321536": {
       "title": "SCP-ZH-757 - 馬里亞納海葬",
