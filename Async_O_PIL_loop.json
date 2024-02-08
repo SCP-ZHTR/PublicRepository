@@ -126192,8 +126192,8 @@
          "_偉大長老"
       ],
       "comments": "2",
-      "rating": "10",
-      "votes": "10",
+      "rating": "11",
+      "votes": "11",
       "parent": null,
       "id": "1452568467",
       "detailed_rating": {
@@ -126237,12 +126237,16 @@
             [
                "7605593",
                1707365461
+            ],
+            [
+               "4442284",
+               1707367647
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 10,
-      "justified_votes": 10
+      "justified_rating": 11,
+      "justified_votes": 11
    },
    "1707318445": {
       "title": "SCP-ZH-313 - 親水羅盤",
@@ -126302,7 +126306,7 @@
          "_黃姓線人"
       ],
       "comments": "0",
-      "rating": "3",
+      "rating": "4",
       "votes": "4",
       "parent": null,
       "id": "1452569618",

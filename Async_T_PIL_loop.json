@@ -126553,8 +126553,8 @@
          "_licensebox"
       ],
       "comments": "0",
-      "rating": "3",
-      "votes": "3",
+      "rating": "4",
+      "votes": "4",
       "parent": null,
       "id": "1450877773",
       "detailed_rating": {
@@ -126570,12 +126570,16 @@
             [
                "7504530",
                1698220955
+            ],
+            [
+               "8846720",
+               1707367649
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 3,
-      "justified_votes": 3
+      "justified_rating": 4,
+      "justified_votes": 4
    },
    "1698064697": {
       "title": "SCP-7575 - 如何將你永遠不去做、永遠不能做、永遠不會做的事情歸功於自己：對會計的頌歌；它捏造了數字，就是如此 / 一塊金屬立方體",
