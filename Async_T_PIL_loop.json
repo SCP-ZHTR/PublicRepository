@@ -27847,8 +27847,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "4",
-      "votes": "4",
+      "rating": "5",
+      "votes": "5",
       "parent": null,
       "id": "1002250743",
       "detailed_rating": {
@@ -27868,12 +27868,16 @@
             [
                "6217438",
                1640793600
+            ],
+            [
+               "8543386",
+               1707388782
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 4,
-      "justified_votes": 4
+      "justified_rating": 5,
+      "justified_votes": 5
    },
    "1584882980": {
       "title": "SCP-902 - 最後倒數",
