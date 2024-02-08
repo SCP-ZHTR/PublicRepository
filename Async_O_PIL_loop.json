@@ -125727,7 +125727,7 @@
       ],
       "comments": "0",
       "rating": "8",
-      "votes": "8",
+      "votes": "9",
       "parent": null,
       "id": "1452525647",
       "detailed_rating": {
@@ -125763,12 +125763,16 @@
             [
                "4990678",
                1707314742
+            ],
+            [
+               "7605593",
+               1707365461
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 8,
-      "justified_votes": 8
+      "justified_rating": 9,
+      "justified_votes": 9
    },
    "1707079712": {
       "title": "未若柳絮",
@@ -125869,8 +125873,8 @@
          "_黃姓線人"
       ],
       "comments": "0",
-      "rating": "8",
-      "votes": "8",
+      "rating": "9",
+      "votes": "9",
       "parent": null,
       "id": "1452532739",
       "detailed_rating": {
@@ -125906,12 +125910,16 @@
             [
                "8846720",
                1707360158
+            ],
+            [
+               "7605593",
+               1707365461
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 8,
-      "justified_votes": 8
+      "justified_rating": 9,
+      "justified_votes": 9
    },
    "1707140845": {
       "title": "一篇關於SCP-ZH-655的故事",
@@ -126184,8 +126192,8 @@
          "_偉大長老"
       ],
       "comments": "2",
-      "rating": "9",
-      "votes": "9",
+      "rating": "10",
+      "votes": "10",
       "parent": null,
       "id": "1452568467",
       "detailed_rating": {
@@ -126225,12 +126233,16 @@
             [
                "8982806",
                1707323774
+            ],
+            [
+               "7605593",
+               1707365461
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 9,
-      "justified_votes": 9
+      "justified_rating": 10,
+      "justified_votes": 10
    },
    "1707318445": {
       "title": "SCP-ZH-313 - 親水羅盤",
@@ -126246,8 +126258,8 @@
          "_探險者mk"
       ],
       "comments": "0",
-      "rating": "2",
-      "votes": "2",
+      "rating": "3",
+      "votes": "3",
       "parent": null,
       "id": "1452569478",
       "detailed_rating": {
@@ -126259,12 +126271,16 @@
             [
                "6503482",
                1707353864
+            ],
+            [
+               "7605593",
+               1707365461
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 2,
-      "justified_votes": 2
+      "justified_rating": 3,
+      "justified_votes": 3
    },
    "1707320100": {
       "title": "SCP-ZH-465 - Zététique／Zetetics",
@@ -126325,8 +126341,8 @@
          "_偉大長老"
       ],
       "comments": "0",
-      "rating": "6",
-      "votes": "6",
+      "rating": "7",
+      "votes": "7",
       "parent": "secure-facility-dossier-lunar-area-32",
       "id": "1452569673",
       "detailed_rating": {
@@ -126354,12 +126370,16 @@
             [
                "6503482",
                1707353196
+            ],
+            [
+               "7605593",
+               1707365461
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 6,
-      "justified_votes": 6
+      "justified_rating": 7,
+      "justified_votes": 7
    },
    "1707320710": {
       "title": "SCP-ZH-668 - 「廣內」",
@@ -126383,8 +126403,8 @@
          "_黃姓線人"
       ],
       "comments": "1",
-      "rating": "5",
-      "votes": "5",
+      "rating": "6",
+      "votes": "6",
       "parent": null,
       "id": "1452569667",
       "detailed_rating": {
@@ -126408,12 +126428,16 @@
             [
                "6503482",
                1707353864
+            ],
+            [
+               "7605593",
+               1707365461
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 5,
-      "justified_votes": 5
+      "justified_rating": 6,
+      "justified_votes": 6
    },
    "1707321483": {
       "title": "SCP-ZH-611 - 傾塔",
@@ -126484,8 +126508,8 @@
          "_偉大長老"
       ],
       "comments": "0",
-      "rating": "4",
-      "votes": "4",
+      "rating": "5",
+      "votes": "5",
       "parent": null,
       "id": "1452569719",
       "detailed_rating": {
@@ -126505,11 +126529,15 @@
             [
                "5415046",
                1707362713
+            ],
+            [
+               "7605593",
+               1707365461
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 4,
-      "justified_votes": 4
+      "justified_rating": 5,
+      "justified_votes": 5
    }
 }
