@@ -12590,5 +12590,22 @@
       "deleted": true,
       "justified_rating": 0,
       "justified_votes": 0
+   },
+   "1707372220": {
+      "title": "SCP-001-EL",
+      "fullname": "scp-001-el",
+      "created_at": "1707372220",
+      "created_by": "8842990",
+      "tags": [],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1452572778",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
