@@ -125435,8 +125435,8 @@
          "_探險者mk"
       ],
       "comments": "0",
-      "rating": "9",
-      "votes": "9",
+      "rating": "10",
+      "votes": "10",
       "parent": null,
       "id": "1452503843",
       "detailed_rating": {
@@ -125476,12 +125476,16 @@
             [
                "5338547",
                1707312344
+            ],
+            [
+               "7605593",
+               1707376669
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 9,
-      "justified_votes": 9
+      "justified_rating": 10,
+      "justified_votes": 10
    },
    "1706777299": {
       "title": "插曲：大麻煩",
@@ -125559,8 +125563,8 @@
          "_探險者mk"
       ],
       "comments": "1",
-      "rating": "6",
-      "votes": "6",
+      "rating": "7",
+      "votes": "7",
       "parent": null,
       "id": "1452514570",
       "detailed_rating": {
@@ -125588,12 +125592,16 @@
             [
                "8846720",
                1707293619
+            ],
+            [
+               "7605593",
+               1707376669
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 6,
-      "justified_votes": 6
+      "justified_rating": 7,
+      "justified_votes": 7
    },
    "1706971220": {
       "title": "SCP-ZH-818 - 古賢的歸途",
@@ -125671,8 +125679,8 @@
          "_探險者mk"
       ],
       "comments": "0",
-      "rating": "8",
-      "votes": "8",
+      "rating": "9",
+      "votes": "9",
       "parent": null,
       "id": "1452522295",
       "detailed_rating": {
@@ -125708,12 +125716,16 @@
             [
                "8846720",
                1707360798
+            ],
+            [
+               "7605593",
+               1707376669
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 8,
-      "justified_votes": 8
+      "justified_rating": 9,
+      "justified_votes": 9
    },
    "1707043822": {
       "title": "物件檔案：仿聲丸",
@@ -126084,8 +126096,8 @@
          "_探險者mk"
       ],
       "comments": "0",
-      "rating": "6",
-      "votes": "6",
+      "rating": "7",
+      "votes": "7",
       "parent": null,
       "id": "1452566407",
       "detailed_rating": {
@@ -126113,12 +126125,16 @@
             [
                "8846720",
                1707360022
+            ],
+            [
+               "7605593",
+               1707376669
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 6,
-      "justified_votes": 6
+      "justified_rating": 7,
+      "justified_votes": 7
    },
    "1707286026": {
       "title": "或許落雨不盡歸於海淵",
