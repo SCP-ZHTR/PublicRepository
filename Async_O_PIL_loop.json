@@ -125861,8 +125861,8 @@
          "_黃姓線人"
       ],
       "comments": "0",
-      "rating": "7",
-      "votes": "7",
+      "rating": "8",
+      "votes": "8",
       "parent": null,
       "id": "1452532739",
       "detailed_rating": {
@@ -125894,12 +125894,16 @@
             [
                "5338547",
                1707312344
+            ],
+            [
+               "8846720",
+               1707360158
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 7,
-      "justified_votes": 7
+      "justified_rating": 8,
+      "justified_votes": 8
    },
    "1707140845": {
       "title": "一篇關於SCP-ZH-655的故事",
@@ -125982,8 +125986,8 @@
       ],
       "hidden_tags": [],
       "comments": "4",
-      "rating": "10",
-      "votes": "10",
+      "rating": "11",
+      "votes": "11",
       "parent": null,
       "id": "1452565126",
       "detailed_rating": {
@@ -126027,12 +126031,16 @@
             [
                "8081917",
                1707304230
+            ],
+            [
+               "8846720",
+               1707360158
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 10,
-      "justified_votes": 10
+      "justified_rating": 11,
+      "justified_votes": 11
    },
    "1707263446": {
       "title": "SCP-ZH-358 - 罪有所償，命有所還",
