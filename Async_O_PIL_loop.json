@@ -126352,8 +126352,8 @@
          "_黃姓線人"
       ],
       "comments": "0",
-      "rating": "4",
-      "votes": "4",
+      "rating": "5",
+      "votes": "5",
       "parent": null,
       "id": "1452569618",
       "detailed_rating": {
@@ -126373,12 +126373,16 @@
             [
                "6503482",
                1707367512
+            ],
+            [
+               "8846720",
+               1707399786
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 4,
-      "justified_votes": 4
+      "justified_rating": 5,
+      "justified_votes": 5
    },
    "1707320868": {
       "title": "SCP-ZH-716 - 星旅",
