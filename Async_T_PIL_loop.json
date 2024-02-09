@@ -41722,8 +41722,8 @@
          "_cc"
       ],
       "comments": "2",
-      "rating": "3",
-      "votes": "3",
+      "rating": "4",
+      "votes": "4",
       "parent": null,
       "id": "1260738486",
       "detailed_rating": {
@@ -41739,12 +41739,16 @@
             [
                "8033564",
                1691170482
+            ],
+            [
+               "8543386",
+               1707468358
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 3,
-      "justified_votes": 3
+      "justified_rating": 4,
+      "justified_votes": 4
    },
    "1596982830": {
       "title": "SCP-2642 - 「大象的半張臉」",
@@ -131290,5 +131294,33 @@
       "deleted": false,
       "justified_rating": 2,
       "justified_votes": 2
+   },
+   "1707468283": {
+      "title": "SCP-173-JP - 恐龍 - 倣傚之作",
+      "fullname": "scp-173-jp",
+      "created_at": "1707468283",
+      "created_by": "7605593",
+      "tags": [
+         "173jp",
+         "euclid",
+         "jp",
+         "scp",
+         "恐龍",
+         "玩具",
+         "画像差し止め",
+         "翻譯",
+         "聽覺影響",
+         "自主"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1452578688",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
