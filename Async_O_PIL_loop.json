@@ -126545,8 +126545,8 @@
          "_黃姓線人"
       ],
       "comments": "1",
-      "rating": "9",
-      "votes": "9",
+      "rating": "10",
+      "votes": "10",
       "parent": null,
       "id": "1452569667",
       "detailed_rating": {
@@ -126586,12 +126586,16 @@
             [
                "5701756",
                1707440316
+            ],
+            [
+               "7073060",
+               1707471819
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 9,
-      "justified_votes": 9
+      "justified_rating": 10,
+      "justified_votes": 10
    },
    "1707321483": {
       "title": "SCP-ZH-611 - 傾塔",
