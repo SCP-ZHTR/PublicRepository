@@ -126606,14 +126606,15 @@
          "2024冬季競賽",
          "scp",
          "site-zh-11",
-         "原創"
+         "原創",
+         "機密分級"
       ],
       "hidden_tags": [
          "_探險者mk"
       ],
       "comments": "0",
-      "rating": "7",
-      "votes": "7",
+      "rating": "8",
+      "votes": "8",
       "parent": null,
       "id": "1452569716",
       "detailed_rating": {
@@ -126645,12 +126646,16 @@
             [
                "7605593",
                1707365609
+            ],
+            [
+               "7073060",
+               1707472205
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 7,
-      "justified_votes": 7
+      "justified_rating": 8,
+      "justified_votes": 8
    },
    "1707321536": {
       "title": "SCP-ZH-757 - 馬里亞納海葬",
