@@ -126192,8 +126192,8 @@
          "_探險者mk"
       ],
       "comments": "0",
-      "rating": "9",
-      "votes": "9",
+      "rating": "10",
+      "votes": "10",
       "parent": null,
       "id": "1452566407",
       "detailed_rating": {
@@ -126233,12 +126233,16 @@
             [
                "5701756",
                1707439299
+            ],
+            [
+               "7064164",
+               1707496630
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 9,
-      "justified_votes": 9
+      "justified_rating": 10,
+      "justified_votes": 10
    },
    "1707286026": {
       "title": "或許落雨不盡歸於海淵",
@@ -126253,8 +126257,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "10",
-      "votes": "10",
+      "rating": "11",
+      "votes": "11",
       "parent": null,
       "id": "1452567162",
       "detailed_rating": {
@@ -126298,12 +126302,16 @@
             [
                "7840542",
                1707332663
+            ],
+            [
+               "7064164",
+               1707496630
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 10,
-      "justified_votes": 10
+      "justified_rating": 11,
+      "justified_votes": 11
    },
    "1707306454": {
       "title": "SCP-ZH-287 - 拿棒子打",
