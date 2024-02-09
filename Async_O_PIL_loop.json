@@ -125451,8 +125451,8 @@
          "_探險者mk"
       ],
       "comments": "0",
-      "rating": "12",
-      "votes": "12",
+      "rating": "13",
+      "votes": "13",
       "parent": null,
       "id": "1452503843",
       "detailed_rating": {
@@ -125504,12 +125504,16 @@
             [
                "5701756",
                1707438156
+            ],
+            [
+               "7064164",
+               1707495134
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 12,
-      "justified_votes": 12
+      "justified_rating": 13,
+      "justified_votes": 13
    },
    "1706777299": {
       "title": "插曲：大麻煩",
@@ -125588,7 +125592,7 @@
       ],
       "comments": "1",
       "rating": "8",
-      "votes": "8",
+      "votes": "9",
       "parent": null,
       "id": "1452514570",
       "detailed_rating": {
@@ -125624,12 +125628,16 @@
             [
                "5701756",
                1707438413
+            ],
+            [
+               "7064164",
+               1707495134
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 8,
-      "justified_votes": 8
+      "justified_rating": 9,
+      "justified_votes": 9
    },
    "1706971220": {
       "title": "SCP-ZH-818 - 古賢的歸途",
