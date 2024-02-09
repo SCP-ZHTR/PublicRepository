@@ -12627,5 +12627,22 @@
       "deleted": true,
       "justified_rating": 0,
       "justified_votes": 0
+   },
+   "1707493641": {
+      "title": "SCP-ZH-209 - 海藍洞底的血紅墓穴",
+      "fullname": "scp-zh-209",
+      "created_at": "1707493641",
+      "created_by": "5435485",
+      "tags": [],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1452580366",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
