@@ -36025,8 +36025,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "5",
-      "votes": "5",
+      "rating": "6",
+      "votes": "6",
       "parent": null,
       "id": "1040165755",
       "detailed_rating": {
@@ -36050,12 +36050,16 @@
             [
                "7618181",
                1656172800
+            ],
+            [
+               "7064164",
+               1707566700
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 5,
-      "justified_votes": 5
+      "justified_rating": 6,
+      "justified_votes": 6
    },
    "1589640770": {
       "title": "SCP-586 - 無可寫就之物",
