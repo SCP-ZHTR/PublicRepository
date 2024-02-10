@@ -126479,8 +126479,8 @@
          "_探險者mk"
       ],
       "comments": "0",
-      "rating": "4",
-      "votes": "4",
+      "rating": "5",
+      "votes": "5",
       "parent": null,
       "id": "1452569478",
       "detailed_rating": {
@@ -126500,12 +126500,16 @@
             [
                "7064164",
                1707497142
+            ],
+            [
+               "8854072",
+               1707580045
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 4,
-      "justified_votes": 4
+      "justified_rating": 5,
+      "justified_votes": 5
    },
    "1707320100": {
       "title": "SCP-ZH-465 - Zététique／Zetetics",
@@ -126872,8 +126876,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "9",
-      "votes": "9",
+      "rating": "10",
+      "votes": "10",
       "parent": null,
       "id": "1452580366",
       "detailed_rating": {
@@ -126913,11 +126917,15 @@
             [
                "7064164",
                1707569894
+            ],
+            [
+               "5252281",
+               1707580045
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 9,
-      "justified_votes": 9
+      "justified_rating": 10,
+      "justified_votes": 10
    }
 }
