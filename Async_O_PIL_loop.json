@@ -126265,8 +126265,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "11",
-      "votes": "11",
+      "rating": "12",
+      "votes": "12",
       "parent": null,
       "id": "1452567162",
       "detailed_rating": {
@@ -126314,12 +126314,16 @@
             [
                "7064164",
                1707496630
+            ],
+            [
+               "6503482",
+               1707566837
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 11,
-      "justified_votes": 11
+      "justified_rating": 12,
+      "justified_votes": 12
    },
    "1707306454": {
       "title": "SCP-ZH-287 - 拿棒子打",
