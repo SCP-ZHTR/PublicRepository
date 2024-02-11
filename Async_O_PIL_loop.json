@@ -125493,8 +125493,8 @@
          "_探險者mk"
       ],
       "comments": "0",
-      "rating": "18",
-      "votes": "18",
+      "rating": "19",
+      "votes": "19",
       "parent": null,
       "id": "1452503843",
       "detailed_rating": {
@@ -125570,12 +125570,16 @@
             [
                "6952002",
                1707664584
+            ],
+            [
+               "5013754",
+               1707666832
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 18,
-      "justified_votes": 18
+      "justified_rating": 19,
+      "justified_votes": 19
    },
    "1706777299": {
       "title": "插曲：大麻煩",
@@ -125653,8 +125657,8 @@
          "_探險者mk"
       ],
       "comments": "1",
-      "rating": "10",
-      "votes": "10",
+      "rating": "11",
+      "votes": "11",
       "parent": null,
       "id": "1452514570",
       "detailed_rating": {
@@ -125698,12 +125702,16 @@
             [
                "6217438",
                1707633055
+            ],
+            [
+               "5013754",
+               1707666832
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 10,
-      "justified_votes": 10
+      "justified_rating": 11,
+      "justified_votes": 11
    },
    "1706971220": {
       "title": "SCP-ZH-818 - 古賢的歸途",
@@ -125785,8 +125793,8 @@
          "_探險者mk"
       ],
       "comments": "0",
-      "rating": "14",
-      "votes": "14",
+      "rating": "15",
+      "votes": "15",
       "parent": null,
       "id": "1452522295",
       "detailed_rating": {
@@ -125846,12 +125854,16 @@
             [
                "8452537",
                1707589431
+            ],
+            [
+               "5013754",
+               1707666832
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 14,
-      "justified_votes": 14
+      "justified_rating": 15,
+      "justified_votes": 15
    },
    "1707043822": {
       "title": "物件檔案：仿聲丸",
@@ -126023,8 +126035,8 @@
          "_黃姓線人"
       ],
       "comments": "0",
-      "rating": "18",
-      "votes": "18",
+      "rating": "19",
+      "votes": "19",
       "parent": null,
       "id": "1452532739",
       "detailed_rating": {
@@ -126100,12 +126112,16 @@
             [
                "7655555",
                1707643412
+            ],
+            [
+               "5013754",
+               1707666832
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 18,
-      "justified_votes": 18
+      "justified_rating": 19,
+      "justified_votes": 19
    },
    "1707140845": {
       "title": "一篇關於SCP-ZH-655的故事",
