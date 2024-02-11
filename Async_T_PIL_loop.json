@@ -131287,8 +131287,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "2",
-      "votes": "2",
+      "rating": "3",
+      "votes": "3",
       "parent": null,
       "id": "1452576500",
       "detailed_rating": {
@@ -131300,12 +131300,16 @@
             [
                "5435485",
                1707445853
+            ],
+            [
+               "6217438",
+               1707647352
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 2,
-      "justified_votes": 2
+      "justified_rating": 3,
+      "justified_votes": 3
    },
    "1707468283": {
       "title": "SCP-173-JP - 恐龍 - 倣傚之作",
