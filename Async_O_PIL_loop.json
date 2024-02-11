@@ -125473,8 +125473,8 @@
          "_探險者mk"
       ],
       "comments": "0",
-      "rating": "17",
-      "votes": "17",
+      "rating": "18",
+      "votes": "18",
       "parent": null,
       "id": "1452503843",
       "detailed_rating": {
@@ -125546,12 +125546,16 @@
             [
                "7655555",
                1707643412
+            ],
+            [
+               "6952002",
+               1707664584
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 17,
-      "justified_votes": 17
+      "justified_rating": 18,
+      "justified_votes": 18
    },
    "1706777299": {
       "title": "插曲：大麻煩",
@@ -126515,8 +126519,8 @@
          "_探險者mk"
       ],
       "comments": "0",
-      "rating": "5",
-      "votes": "5",
+      "rating": "6",
+      "votes": "6",
       "parent": null,
       "id": "1452569478",
       "detailed_rating": {
@@ -126540,12 +126544,16 @@
             [
                "8854072",
                1707580045
+            ],
+            [
+               "5251681",
+               1707664584
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 5,
-      "justified_votes": 5
+      "justified_rating": 6,
+      "justified_votes": 6
    },
    "1707320100": {
       "title": "SCP-ZH-465 - Zététique／Zetetics",
