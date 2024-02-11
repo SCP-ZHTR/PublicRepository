@@ -126866,8 +126866,8 @@
          "_偉大長老"
       ],
       "comments": "0",
-      "rating": "10",
-      "votes": "10",
+      "rating": "11",
+      "votes": "11",
       "parent": null,
       "id": "1452569719",
       "detailed_rating": {
@@ -126911,12 +126911,16 @@
             [
                "6217438",
                1707633055
+            ],
+            [
+               "6952002",
+               1707663694
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 10,
-      "justified_votes": 10
+      "justified_rating": 11,
+      "justified_votes": 11
    },
    "1707493641": {
       "title": "SCP-ZH-209 - 海藍洞底的血紅墓穴",
