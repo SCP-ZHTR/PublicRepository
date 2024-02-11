@@ -124473,8 +124473,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "5",
-      "votes": "5",
+      "rating": "6",
+      "votes": "6",
       "parent": "k1s10r0d-s-proposal",
       "id": "1451998689",
       "detailed_rating": {
@@ -124498,12 +124498,16 @@
             [
                "5435485",
                1705485856
+            ],
+            [
+               "6952002",
+               1707664717
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 5,
-      "justified_votes": 5
+      "justified_rating": 6,
+      "justified_votes": 6
    },
    "1703904530": {
       "title": "什麼風把你吹來樂園了？",
@@ -126331,8 +126335,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "12",
-      "votes": "12",
+      "rating": "13",
+      "votes": "13",
       "parent": null,
       "id": "1452567162",
       "detailed_rating": {
@@ -126384,12 +126388,16 @@
             [
                "6503482",
                1707566837
+            ],
+            [
+               "6952002",
+               1707664717
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 12,
-      "justified_votes": 12
+      "justified_rating": 13,
+      "justified_votes": 13
    },
    "1707306454": {
       "title": "SCP-ZH-287 - 拿棒子打",
