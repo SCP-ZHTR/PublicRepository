@@ -125618,8 +125618,8 @@
          "_探險者mk"
       ],
       "comments": "1",
-      "rating": "9",
-      "votes": "9",
+      "rating": "10",
+      "votes": "10",
       "parent": null,
       "id": "1452514570",
       "detailed_rating": {
@@ -125659,12 +125659,16 @@
             [
                "7064164",
                1707495134
+            ],
+            [
+               "6217438",
+               1707633055
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 9,
-      "justified_votes": 9
+      "justified_rating": 10,
+      "justified_votes": 10
    },
    "1706971220": {
       "title": "SCP-ZH-818 - 古賢的歸途",
@@ -126826,8 +126830,8 @@
          "_偉大長老"
       ],
       "comments": "0",
-      "rating": "9",
-      "votes": "9",
+      "rating": "10",
+      "votes": "10",
       "parent": null,
       "id": "1452569719",
       "detailed_rating": {
@@ -126867,12 +126871,16 @@
             [
                "8854072",
                1707582113
+            ],
+            [
+               "6217438",
+               1707633055
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 9,
-      "justified_votes": 9
+      "justified_rating": 10,
+      "justified_votes": 10
    },
    "1707493641": {
       "title": "SCP-ZH-209 - 海藍洞底的血紅墓穴",
