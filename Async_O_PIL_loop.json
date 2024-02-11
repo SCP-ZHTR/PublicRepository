@@ -123991,8 +123991,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "7",
-      "votes": "7",
+      "rating": "8",
+      "votes": "8",
       "parent": null,
       "id": "1451971243",
       "detailed_rating": {
@@ -124024,12 +124024,16 @@
             [
                "4990678",
                1703954720
+            ],
+            [
+               "6952002",
+               1707664848
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 7,
-      "justified_votes": 7
+      "justified_rating": 8,
+      "justified_votes": 8
    },
    "1703518146": {
       "title": "SCP-ZH-我恨我的腳踏車-J",
@@ -124098,8 +124102,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "11",
-      "votes": "11",
+      "rating": "12",
+      "votes": "12",
       "parent": null,
       "id": "1451979719",
       "detailed_rating": {
@@ -124147,12 +124151,16 @@
             [
                "5701756",
                1704166504
+            ],
+            [
+               "6952002",
+               1707664848
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 11,
-      "justified_votes": 11
+      "justified_rating": 12,
+      "justified_votes": 12
    },
    "1703658855": {
       "title": "酪梨：紅色的灌溉",
@@ -124214,8 +124222,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "17",
-      "votes": "17",
+      "rating": "18",
+      "votes": "18",
       "parent": null,
       "id": "1451984304",
       "detailed_rating": {
@@ -124287,12 +124295,16 @@
             [
                "8536616",
                1706337563
+            ],
+            [
+               "6952002",
+               1707664848
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 17,
-      "justified_votes": 17
+      "justified_rating": 18,
+      "justified_votes": 18
    },
    "1703678970": {
       "title": "事件代號：核裂擠兌-誓言",
@@ -126527,8 +126539,8 @@
          "_探險者mk"
       ],
       "comments": "0",
-      "rating": "6",
-      "votes": "6",
+      "rating": "7",
+      "votes": "7",
       "parent": null,
       "id": "1452569478",
       "detailed_rating": {
@@ -126556,12 +126568,16 @@
             [
                "5251681",
                1707664584
+            ],
+            [
+               "5415046",
+               1707664848
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 6,
-      "justified_votes": 6
+      "justified_rating": 7,
+      "justified_votes": 7
    },
    "1707320100": {
       "title": "SCP-ZH-465 - Zététique／Zetetics",
