@@ -125579,8 +125579,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "3",
-      "votes": "3",
+      "rating": "4",
+      "votes": "4",
       "parent": null,
       "id": "1450620325",
       "detailed_rating": {
@@ -125596,12 +125596,16 @@
             [
                "5251681",
                1697188839
+            ],
+            [
+               "8543386",
+               1707654054
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 3,
-      "justified_votes": 3
+      "justified_rating": 4,
+      "justified_votes": 4
    },
    "1697185481": {
       "title": "破曉時分的不滅孽蜥",
