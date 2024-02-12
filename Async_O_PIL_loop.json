@@ -99558,8 +99558,8 @@
          "_cc"
       ],
       "comments": "6",
-      "rating": "34",
-      "votes": "34",
+      "rating": "35",
+      "votes": "35",
       "parent": null,
       "id": "1435461511",
       "detailed_rating": {
@@ -99699,12 +99699,16 @@
             [
                "DELETED",
                1695208325
+            ],
+            [
+               "8081917",
+               1707744274
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 33,
-      "justified_votes": 33
+      "justified_rating": 34,
+      "justified_votes": 34
    },
    "1662187896": {
       "title": "SCP-ZH-441 - 只能以這種方式錯誤地惦記被碾壓而亡的屍體",
