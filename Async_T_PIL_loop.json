@@ -131520,8 +131520,8 @@
          "_licensebox"
       ],
       "comments": "1",
-      "rating": "2",
-      "votes": "2",
+      "rating": "3",
+      "votes": "3",
       "parent": null,
       "id": "1452606857",
       "detailed_rating": {
@@ -131533,12 +131533,16 @@
             [
                "7571354",
                1707752398
+            ],
+            [
+               "6217438",
+               1707753699
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 2,
-      "justified_votes": 2
+      "justified_rating": 3,
+      "justified_votes": 3
    },
    "1707748267": {
       "title": "SCP-7413 - 塊莖型連環殺手",
@@ -131590,5 +131594,37 @@
       "deleted": false,
       "justified_rating": 3,
       "justified_votes": 3
+   },
+   "1707753438": {
+      "title": "隱者",
+      "fullname": "wanderers:the-hermit",
+      "created_at": "1707753438",
+      "created_by": "7521095",
+      "tags": [
+         "contemporary-earth",
+         "drama",
+         "en",
+         "entry",
+         "image",
+         "prose",
+         "tragedy",
+         "wanderers",
+         "wing-two",
+         "workplace",
+         "恐怖",
+         "第二人稱",
+         "翻譯",
+         "醫學性"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1452607404",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
