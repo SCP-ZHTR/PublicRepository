@@ -127273,5 +127273,35 @@
       "deleted": false,
       "justified_rating": 11,
       "justified_votes": 11
+   },
+   "1707746625": {
+      "title": "SCP-ZH-233 - 星空刺蝟歷險記：序章",
+      "fullname": "scp-zh-233",
+      "created_at": "1707746625",
+      "created_by": "5435485",
+      "tags": [
+         "ad博士",
+         "ctrl-z博士",
+         "euclid",
+         "kris博士",
+         "scp",
+         "site-zh-12",
+         "共感",
+         "原創",
+         "心靈感應",
+         "未收容",
+         "睡眠",
+         "研究員lucifelle"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1452606732",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
