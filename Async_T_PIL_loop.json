@@ -131520,8 +131520,8 @@
          "_licensebox"
       ],
       "comments": "1",
-      "rating": "1",
-      "votes": "1",
+      "rating": "2",
+      "votes": "2",
       "parent": null,
       "id": "1452606857",
       "detailed_rating": {
@@ -131529,12 +131529,16 @@
             [
                "6503482",
                1707749745
+            ],
+            [
+               "7571354",
+               1707752398
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 1,
-      "justified_votes": 1
+      "justified_rating": 2,
+      "justified_votes": 2
    },
    "1707748267": {
       "title": "SCP-7413 - 塊莖型連環殺手",
@@ -131563,8 +131567,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "2",
-      "votes": "2",
+      "rating": "3",
+      "votes": "3",
       "parent": null,
       "id": "1452606876",
       "detailed_rating": {
@@ -131576,11 +131580,15 @@
             [
                "6503482",
                1707749885
+            ],
+            [
+               "7571354",
+               1707752398
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 2,
-      "justified_votes": 2
+      "justified_rating": 3,
+      "justified_votes": 3
    }
 }
