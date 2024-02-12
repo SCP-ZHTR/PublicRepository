@@ -47251,8 +47251,8 @@
       ],
       "hidden_tags": [],
       "comments": "2",
-      "rating": "6",
-      "votes": "6",
+      "rating": "7",
+      "votes": "7",
       "parent": null,
       "id": "1305487682",
       "detailed_rating": {
@@ -47280,12 +47280,16 @@
             [
                "3981670",
                1617120000
+            ],
+            [
+               "5435485",
+               1707698057
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 6,
-      "justified_votes": 6
+      "justified_rating": 7,
+      "justified_votes": 7
    },
    "1603286525": {
       "title": "未命名檔案",
