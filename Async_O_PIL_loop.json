@@ -29102,8 +29102,8 @@
          "_info"
       ],
       "comments": "1",
-      "rating": "5",
-      "votes": "5",
+      "rating": "6",
+      "votes": "6",
       "parent": null,
       "id": "986633943",
       "detailed_rating": {
@@ -29127,12 +29127,16 @@
             [
                "7034978",
                1617120000
+            ],
+            [
+               "8883612",
+               1707721144
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 5,
-      "justified_votes": 5
+      "justified_rating": 6,
+      "justified_votes": 6
    },
    "1581085628": {
       "title": "格魯烏-P 個案卷宗 \"夢報機 Телеграф снов\"",
@@ -106602,16 +106606,12 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "4",
-      "votes": "4",
+      "rating": "5",
+      "votes": "5",
       "parent": null,
       "id": "1437508564",
       "detailed_rating": {
          "+": [
-            [
-               "7469850",
-               1670083200
-            ],
             [
                "8177208",
                1670083200
@@ -106623,6 +106623,14 @@
             [
                "4239775",
                1670083200
+            ],
+            [
+               "8883612",
+               1707721144
+            ],
+            [
+               "DELETED",
+               1707721144
             ]
          ]
       },
