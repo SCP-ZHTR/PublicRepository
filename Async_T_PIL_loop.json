@@ -131492,5 +131492,34 @@
       "deleted": false,
       "justified_rating": 1,
       "justified_votes": 1
+   },
+   "1707748199": {
+      "title": "小狗",
+      "fullname": "scp-3168-jp-j",
+      "created_at": "1707748199",
+      "created_by": "7605593",
+      "tags": [
+         "jp",
+         "meta",
+         "safe",
+         "scp",
+         "搞笑",
+         "犬類",
+         "翻譯",
+         "資訊危害"
+      ],
+      "hidden_tags": [
+         "_cc",
+         "_licensebox"
+      ],
+      "comments": "1",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1452606857",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
