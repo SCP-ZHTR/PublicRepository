@@ -131441,5 +131441,37 @@
       "deleted": false,
       "justified_rating": 0,
       "justified_votes": 0
+   },
+   "1707737502": {
+      "title": "SCP-6380 - 愛爾蘭問題",
+      "fullname": "scp-6380",
+      "created_at": "1707737502",
+      "created_by": "6217438",
+      "tags": [
+         "en",
+         "meta",
+         "richard-chappell",
+         "scp",
+         "人形",
+         "合著",
+         "屍體",
+         "歷史性",
+         "無名",
+         "無效化",
+         "生物性",
+         "翻譯",
+         "芝加哥鬼靈",
+         "資訊危害"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1452605554",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
