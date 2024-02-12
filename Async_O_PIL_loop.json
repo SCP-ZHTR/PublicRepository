@@ -127202,13 +127202,32 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "0",
-      "votes": "0",
+      "rating": "4",
+      "votes": "4",
       "parent": null,
       "id": "1452604611",
-      "detailed_rating": {},
+      "detailed_rating": {
+         "+": [
+            [
+               "6104968",
+               1707730629
+            ],
+            [
+               "8177208",
+               1707730629
+            ],
+            [
+               "5435485",
+               1707730629
+            ],
+            [
+               "8543386",
+               1707730629
+            ]
+         ]
+      },
       "deleted": false,
-      "justified_rating": 0,
-      "justified_votes": 0
+      "justified_rating": 4,
+      "justified_votes": 4
    }
 }
