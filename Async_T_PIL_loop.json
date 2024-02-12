@@ -131445,14 +131445,21 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "0",
-      "votes": "0",
+      "rating": "1",
+      "votes": "1",
       "parent": null,
       "id": "1452603625",
-      "detailed_rating": {},
+      "detailed_rating": {
+         "+": [
+            [
+               "6503482",
+               1707749745
+            ]
+         ]
+      },
       "deleted": false,
-      "justified_rating": 0,
-      "justified_votes": 0
+      "justified_rating": 1,
+      "justified_votes": 1
    },
    "1707737502": {
       "title": "SCP-6380 - 愛爾蘭問題",
@@ -131513,14 +131520,21 @@
          "_licensebox"
       ],
       "comments": "1",
-      "rating": "0",
-      "votes": "0",
+      "rating": "1",
+      "votes": "1",
       "parent": null,
       "id": "1452606857",
-      "detailed_rating": {},
+      "detailed_rating": {
+         "+": [
+            [
+               "6503482",
+               1707749745
+            ]
+         ]
+      },
       "deleted": false,
-      "justified_rating": 0,
-      "justified_votes": 0
+      "justified_rating": 1,
+      "justified_votes": 1
    },
    "1707748267": {
       "title": "SCP-7413 - 塊莖型連環殺手",
