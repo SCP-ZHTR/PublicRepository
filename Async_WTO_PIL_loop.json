@@ -10988,8 +10988,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "1",
-      "votes": "1",
+      "rating": "2",
+      "votes": "2",
       "parent": null,
       "id": "1451155299",
       "detailed_rating": {
@@ -10997,12 +10997,16 @@
             [
                "4990678",
                1698664603
+            ],
+            [
+               "7521095",
+               1707748729
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 1,
-      "justified_votes": 1
+      "justified_rating": 2,
+      "justified_votes": 2
    },
    "1699618292": {
       "title": "Site-3408 - 歡迎來到Site-3408",
