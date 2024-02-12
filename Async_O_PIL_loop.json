@@ -127298,9 +127298,9 @@
          "研究員lucifelle"
       ],
       "hidden_tags": [],
-      "comments": "0",
-      "rating": "11",
-      "votes": "11",
+      "comments": "1",
+      "rating": "12",
+      "votes": "12",
       "parent": null,
       "id": "1452606732",
       "detailed_rating": {
@@ -127348,11 +127348,15 @@
             [
                "7605593",
                1707748863
+            ],
+            [
+               "8543386",
+               1707749365
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 11,
-      "justified_votes": 11
+      "justified_rating": 12,
+      "justified_votes": 12
    }
 }
