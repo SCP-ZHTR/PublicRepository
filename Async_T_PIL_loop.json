@@ -131412,5 +131412,29 @@
       "deleted": false,
       "justified_rating": 3,
       "justified_votes": 3
+   },
+   "1707717595": {
+      "title": "詠",
+      "fullname": "scp-3681-jp",
+      "created_at": "1707717595",
+      "created_by": "7605593",
+      "tags": [
+         "euclid",
+         "jp",
+         "meta",
+         "工具",
+         "翻譯",
+         "資訊危害"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1452603625",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
