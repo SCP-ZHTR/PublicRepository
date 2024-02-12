@@ -12761,5 +12761,22 @@
       "deleted": true,
       "justified_rating": 0,
       "justified_votes": 0
+   },
+   "1707757012": {
+      "title": "SCP-1293-KO - 超越。",
+      "fullname": "scp-1293-ko",
+      "created_at": "1707757012",
+      "created_by": "4357011",
+      "tags": [],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1452607754",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
