@@ -12672,5 +12672,22 @@
       "deleted": true,
       "justified_rating": 1,
       "justified_votes": 1
+   },
+   "1707730073": {
+      "title": "「暴君」",
+      "fullname": "tyrant",
+      "created_at": "1707730073",
+      "created_by": "4239775",
+      "tags": [],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1452604611",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
