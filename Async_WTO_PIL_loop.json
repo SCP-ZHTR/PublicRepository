@@ -12744,5 +12744,22 @@
       "deleted": true,
       "justified_rating": 0,
       "justified_votes": 0
+   },
+   "1707753438": {
+      "title": "隱者",
+      "fullname": "wanderers:the-hermit",
+      "created_at": "1707753438",
+      "created_by": "7521095",
+      "tags": [],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1452607404",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
