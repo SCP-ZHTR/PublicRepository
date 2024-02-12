@@ -124871,8 +124871,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "9",
-      "votes": "9",
+      "rating": "10",
+      "votes": "10",
       "parent": null,
       "id": "1452001576",
       "detailed_rating": {
@@ -124912,12 +124912,16 @@
             [
                "4442284",
                1706746500
+            ],
+            [
+               "8418020",
+               1707732746
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 9,
-      "justified_votes": 9
+      "justified_rating": 10,
+      "justified_votes": 10
    },
    "1703937605": {
       "title": "日立家的史萊姆女孩春雀",
