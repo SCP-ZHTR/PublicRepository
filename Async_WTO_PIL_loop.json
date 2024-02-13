@@ -12778,5 +12778,22 @@
       "deleted": true,
       "justified_rating": 0,
       "justified_votes": 0
+   },
+   "1707786902": {
+      "title": "SCP-ZH-887-J - 低頻噪音",
+      "fullname": "scp-zh-887-j",
+      "created_at": "1707786902",
+      "created_by": "7655555",
+      "tags": [],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1452610054",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
