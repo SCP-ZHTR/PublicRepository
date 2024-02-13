@@ -127399,8 +127399,8 @@
       ],
       "hidden_tags": [],
       "comments": "3",
-      "rating": "25",
-      "votes": "25",
+      "rating": "26",
+      "votes": "26",
       "parent": null,
       "id": "1452606732",
       "detailed_rating": {
@@ -127504,12 +127504,16 @@
             [
                "6952002",
                1707837117
+            ],
+            [
+               "5653267",
+               1707839699
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 25,
-      "justified_votes": 25
+      "justified_rating": 26,
+      "justified_votes": 26
    },
    "1707786902": {
       "title": "SCP-ZH-887-J - 低頻噪音",
