@@ -12784,9 +12784,16 @@
       "fullname": "scp-zh-887-j",
       "created_at": "1707786902",
       "created_by": "7655555",
-      "tags": [],
+      "tags": [
+         "apollyon",
+         "scp",
+         "夜間活動",
+         "搞笑",
+         "聲音",
+         "聽覺影響"
+      ],
       "hidden_tags": [],
-      "comments": "0",
+      "comments": "1",
       "rating": "0",
       "votes": "0",
       "parent": null,
