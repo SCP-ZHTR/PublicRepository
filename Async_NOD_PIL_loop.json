@@ -24634,5 +24634,31 @@
       "deleted": false,
       "justified_rating": 1,
       "justified_votes": 1
+   },
+   "1618412405": {
+      "title": "SCP-ZH-975 - 基準現實函數：輸入",
+      "fullname": "deleted:scp-zh-975",
+      "created_at": "1618412405",
+      "created_by": "5435485",
+      "tags": [
+         "k級情景",
+         "scp",
+         "thaumiel",
+         "三垣",
+         "原創",
+         "數學性",
+         "本質促動",
+         "概念"
+      ],
+      "hidden_tags": [],
+      "comments": "6",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1308602997",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
