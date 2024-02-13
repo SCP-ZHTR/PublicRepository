@@ -124663,7 +124663,8 @@
          "chrome",
          "site-zh-13",
          "wanderers",
-         "原創"
+         "原創",
+         "故事"
       ],
       "hidden_tags": [],
       "comments": "0",
@@ -127570,5 +127571,27 @@
       "deleted": false,
       "justified_rating": 7,
       "justified_votes": 7
+   },
+   "1707855839": {
+      "title": "憂鬱碎金的芳香",
+      "fullname": "wanderers:tulip-bubble",
+      "created_at": "1707855839",
+      "created_by": "5956873",
+      "tags": [
+         "chrome",
+         "wanderers",
+         "原創",
+         "故事"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1452616576",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
