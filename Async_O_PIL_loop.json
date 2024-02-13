@@ -6370,8 +6370,8 @@
          "_info"
       ],
       "comments": "0",
-      "rating": "49",
-      "votes": "49",
+      "rating": "50",
+      "votes": "50",
       "parent": null,
       "id": "747105811",
       "detailed_rating": {
@@ -6571,12 +6571,16 @@
             [
                "7571354",
                1707803685
+            ],
+            [
+               "6503482",
+               1707804187
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 48,
-      "justified_votes": 48
+      "justified_rating": 49,
+      "justified_votes": 49
    },
    "1555842683": {
       "title": "測驗心理諮詢室",
