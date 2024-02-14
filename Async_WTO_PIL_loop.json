@@ -12828,5 +12828,22 @@
       "deleted": true,
       "justified_rating": 0,
       "justified_votes": 0
+   },
+   "1707905548": {
+      "title": "十二個工廠的故事",
+      "fullname": "12talesaboutafactory",
+      "created_at": "1707905548",
+      "created_by": "6217438",
+      "tags": [],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1452621734",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
