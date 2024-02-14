@@ -131788,5 +131788,33 @@
       "deleted": false,
       "justified_rating": 2,
       "justified_votes": 2
+   },
+   "1707948539": {
+      "title": "SCP-609 - Wondertainment博士的本體六號球®",
+      "fullname": "scp-609",
+      "created_at": "1707948539",
+      "created_by": "7605593",
+      "tags": [
+         "en",
+         "keter",
+         "scp",
+         "wondertainment博士",
+         "不可摧毀",
+         "心靈感應",
+         "玩具",
+         "球體",
+         "翻譯",
+         "遊戲"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1452625475",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
