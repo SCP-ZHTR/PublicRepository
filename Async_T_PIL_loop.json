@@ -131528,8 +131528,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "2",
-      "votes": "2",
+      "rating": "3",
+      "votes": "3",
       "parent": null,
       "id": "1452605554",
       "detailed_rating": {
@@ -131541,12 +131541,16 @@
             [
                "6952002",
                1707844759
+            ],
+            [
+               "5013754",
+               1708015368
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 2,
-      "justified_votes": 2
+      "justified_rating": 3,
+      "justified_votes": 3
    },
    "1707748199": {
       "title": "小狗",
