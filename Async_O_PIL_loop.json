@@ -71012,8 +71012,8 @@
       ],
       "hidden_tags": [],
       "comments": "3",
-      "rating": "7",
-      "votes": "11",
+      "rating": "8",
+      "votes": "12",
       "parent": null,
       "id": "1312128455",
       "detailed_rating": {
@@ -71053,21 +71053,25 @@
             [
                "5415046",
                1624723200
+            ],
+            [
+               "7521095",
+               1708062015
             ]
          ],
          "-": [
             [
-               "7469850",
-               1624118400
-            ],
-            [
                "4239775",
                1624636800
+            ],
+            [
+               "DELETED",
+               1708062015
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 7,
+      "justified_rating": 9,
       "justified_votes": 11
    },
    "1624198913": {
