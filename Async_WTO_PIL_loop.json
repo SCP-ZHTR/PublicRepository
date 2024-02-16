@@ -6277,8 +6277,8 @@
          "_禁黑"
       ],
       "comments": "4",
-      "rating": "11",
-      "votes": "11",
+      "rating": "12",
+      "votes": "12",
       "parent": null,
       "id": "1305983955",
       "detailed_rating": {
@@ -6326,12 +6326,16 @@
             [
                "8480087",
                1691733615
+            ],
+            [
+               "8452537",
+               1708058433
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 11,
-      "justified_votes": 11
+      "justified_rating": 12,
+      "justified_votes": 12
    },
    "1607103839": {
       "title": "基金會周刊 第018期",
