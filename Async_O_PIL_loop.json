@@ -74833,8 +74833,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "8",
-      "votes": "10",
+      "rating": "9",
+      "votes": "11",
       "parent": null,
       "id": "1312460627",
       "detailed_rating": {
@@ -74874,6 +74874,10 @@
             [
                "DELETED",
                1695270804
+            ],
+            [
+               "8418020",
+               1708049934
             ]
          ],
          "-": [
@@ -74884,8 +74888,8 @@
          ]
       },
       "deleted": false,
-      "justified_rating": 7,
-      "justified_votes": 9
+      "justified_rating": 8,
+      "justified_votes": 10
    },
    "1627897067": {
       "title": "藝術紀錄：絞福論",
