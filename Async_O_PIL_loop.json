@@ -96394,8 +96394,8 @@
          "_licensebox"
       ],
       "comments": "3",
-      "rating": "12",
-      "votes": "12",
+      "rating": "13",
+      "votes": "13",
       "parent": null,
       "id": "1416957143",
       "detailed_rating": {
@@ -96447,12 +96447,16 @@
             [
                "DELETED",
                1695208325
+            ],
+            [
+               "7521095",
+               1708061757
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 11,
-      "justified_votes": 11
+      "justified_rating": 12,
+      "justified_votes": 12
    },
    "1656777553": {
       "title": "SCP-⊛❂❍◌",
