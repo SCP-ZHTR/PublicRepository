@@ -131847,5 +131847,35 @@
       "deleted": false,
       "justified_rating": 2,
       "justified_votes": 2
+   },
+   "1708094370": {
+      "title": "SCP-8000 - 心願編織者",
+      "fullname": "8000contestzyn",
+      "created_at": "1708094370",
+      "created_by": "6503482",
+      "tags": [
+         "en",
+         "en-8000",
+         "keter",
+         "scp",
+         "桐生實驗室",
+         "熊類",
+         "玩具",
+         "瑞文·摩瑟",
+         "睡眠",
+         "翻譯",
+         "蛇之手",
+         "衣物"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1452641774",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
