@@ -127593,8 +127593,8 @@
       ],
       "hidden_tags": [],
       "comments": "2",
-      "rating": "7",
-      "votes": "7",
+      "rating": "8",
+      "votes": "8",
       "parent": null,
       "id": "1452610054",
       "detailed_rating": {
@@ -127626,12 +127626,16 @@
             [
                "8883612",
                1707818142
+            ],
+            [
+               "8452537",
+               1708186967
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 7,
-      "justified_votes": 7
+      "justified_rating": 8,
+      "justified_votes": 8
    },
    "1707855839": {
       "title": "憂鬱碎金的芳香",
