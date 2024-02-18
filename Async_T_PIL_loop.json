@@ -131090,8 +131090,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "1",
-      "votes": "1",
+      "rating": "2",
+      "votes": "2",
       "parent": null,
       "id": "1452509316",
       "detailed_rating": {
@@ -131099,12 +131099,16 @@
             [
                "4239775",
                1707102290
+            ],
+            [
+               "6952002",
+               1708262333
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 1,
-      "justified_votes": 1
+      "justified_rating": 2,
+      "justified_votes": 2
    },
    "1706786366": {
       "title": "と",
@@ -131118,14 +131122,21 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "0",
-      "votes": "0",
+      "rating": "1",
+      "votes": "1",
       "parent": null,
       "id": "1452509325",
-      "detailed_rating": {},
+      "detailed_rating": {
+         "+": [
+            [
+               "6952002",
+               1708262333
+            ]
+         ]
+      },
       "deleted": false,
-      "justified_rating": 0,
-      "justified_votes": 0
+      "justified_rating": 1,
+      "justified_votes": 1
    },
    "1706957354": {
       "title": "胸腔（星星）",
