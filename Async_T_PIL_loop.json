@@ -17726,8 +17726,8 @@
          "_手動"
       ],
       "comments": "9",
-      "rating": "33",
-      "votes": "35",
+      "rating": "34",
+      "votes": "36",
       "parent": null,
       "id": "867661679",
       "detailed_rating": {
@@ -17867,6 +17867,10 @@
             [
                "DELETED",
                "[UNKNOWN]"
+            ],
+            [
+               "8543386",
+               1708244108
             ]
          ],
          "-": [
@@ -17877,8 +17881,8 @@
          ]
       },
       "deleted": false,
-      "justified_rating": 32,
-      "justified_votes": 34
+      "justified_rating": 33,
+      "justified_votes": 35
    },
    "1567166874": {
       "title": "Are We Cool Yet? 中心頁",
