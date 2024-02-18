@@ -113419,8 +113419,8 @@
          "_cc"
       ],
       "comments": "2",
-      "rating": "0",
-      "votes": "10",
+      "rating": "1",
+      "votes": "9",
       "parent": null,
       "id": "1448286011",
       "detailed_rating": {
@@ -113456,10 +113456,6 @@
                1685984083
             ],
             [
-               "7521095",
-               1685959288
-            ],
-            [
                "7513990",
                1686240000
             ],
@@ -113470,8 +113466,8 @@
          ]
       },
       "deleted": false,
-      "justified_rating": -1,
-      "justified_votes": 9
+      "justified_rating": 0,
+      "justified_votes": 8
    },
    "1686066704": {
       "title": "SCP-ZH-212 - 小徑上的迷濛處",
