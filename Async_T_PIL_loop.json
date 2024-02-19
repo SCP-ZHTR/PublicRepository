@@ -131786,8 +131786,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "2",
-      "votes": "2",
+      "rating": "3",
+      "votes": "3",
       "parent": null,
       "id": "1452621734",
       "detailed_rating": {
@@ -131799,12 +131799,16 @@
             [
                "7504530",
                1708054277
+            ],
+            [
+               "5701756",
+               1708321106
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 2,
-      "justified_votes": 2
+      "justified_rating": 3,
+      "justified_votes": 3
    },
    "1707929939": {
       "title": "SCP-5810 - 罪惡、恐懼、空虛之心",
