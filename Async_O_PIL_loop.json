@@ -127380,8 +127380,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "12",
-      "votes": "12",
+      "rating": "13",
+      "votes": "13",
       "parent": null,
       "id": "1452604611",
       "detailed_rating": {
@@ -127433,12 +127433,16 @@
             [
                "6952002",
                1708262331
+            ],
+            [
+               "5701756",
+               1708313549
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 12,
-      "justified_votes": 12
+      "justified_rating": 13,
+      "justified_votes": 13
    },
    "1707746625": {
       "title": "SCP-ZH-233 - 星空刺蝟歷險記：序章",
