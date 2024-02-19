@@ -53712,8 +53712,8 @@
          "_cc"
       ],
       "comments": "3",
-      "rating": "23",
-      "votes": "27",
+      "rating": "24",
+      "votes": "28",
       "parent": "canon-hub-zh",
       "id": "1305598540",
       "detailed_rating": {
@@ -53817,6 +53817,10 @@
             [
                "7504530",
                1706350761
+            ],
+            [
+               "8319365",
+               1708352545
             ]
          ],
          "-": [
@@ -53831,8 +53835,8 @@
          ]
       },
       "deleted": false,
-      "justified_rating": 24,
-      "justified_votes": 26
+      "justified_rating": 25,
+      "justified_votes": 27
    },
    "1603715558": {
       "title": "擬態的台灣蜆.html",
