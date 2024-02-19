@@ -18636,8 +18636,8 @@
          "_禁黑"
       ],
       "comments": "1",
-      "rating": "18",
-      "votes": "18",
+      "rating": "19",
+      "votes": "19",
       "parent": null,
       "id": "924554593",
       "detailed_rating": {
@@ -18713,12 +18713,16 @@
             [
                "6082642",
                1626883200
+            ],
+            [
+               "8418020",
+               1708359465
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 18,
-      "justified_votes": 18
+      "justified_rating": 19,
+      "justified_votes": 19
    },
    "1571963411": {
       "title": "Site-ZH-81的登艦申請書",
@@ -20356,8 +20360,8 @@
          "_禁黑"
       ],
       "comments": "0",
-      "rating": "21",
-      "votes": "21",
+      "rating": "22",
+      "votes": "22",
       "parent": null,
       "id": "938849739",
       "detailed_rating": {
@@ -20445,12 +20449,16 @@
             [
                "DELETED",
                "[UNKNOWN]"
+            ],
+            [
+               "8418020",
+               1708359465
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 20,
-      "justified_votes": 20
+      "justified_rating": 21,
+      "justified_votes": 21
    },
    "1574243813": {
       "title": "SCP-ZH-301 - 馬斯列尼查",
