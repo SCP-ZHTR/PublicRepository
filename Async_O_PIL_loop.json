@@ -18636,8 +18636,8 @@
          "_禁黑"
       ],
       "comments": "1",
-      "rating": "19",
-      "votes": "19",
+      "rating": "20",
+      "votes": "20",
       "parent": null,
       "id": "924554593",
       "detailed_rating": {
@@ -18717,12 +18717,16 @@
             [
                "8418020",
                1708359465
+            ],
+            [
+               "8883612",
+               1708439134
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 19,
-      "justified_votes": 19
+      "justified_rating": 20,
+      "justified_votes": 20
    },
    "1571963411": {
       "title": "Site-ZH-81的登艦申請書",
