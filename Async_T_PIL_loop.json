@@ -131879,8 +131879,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "2",
-      "votes": "2",
+      "rating": "3",
+      "votes": "3",
       "parent": null,
       "id": "1452625475",
       "detailed_rating": {
@@ -131892,12 +131892,16 @@
             [
                "8452537",
                1707959135
+            ],
+            [
+               "4442284",
+               1708401455
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 2,
-      "justified_votes": 2
+      "justified_rating": 3,
+      "justified_votes": 3
    },
    "1708094370": {
       "title": "SCP-8000 - 心願編織者",
