@@ -63917,8 +63917,8 @@
          "_cc"
       ],
       "comments": "4",
-      "rating": "7",
-      "votes": "7",
+      "rating": "8",
+      "votes": "8",
       "parent": null,
       "id": "1311003664",
       "detailed_rating": {
@@ -63950,12 +63950,16 @@
             [
                "DELETED",
                "[UNKNOWN]"
+            ],
+            [
+               "7655555",
+               1708401056
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 5,
-      "justified_votes": 5
+      "justified_rating": 6,
+      "justified_votes": 6
    },
    "1620485136": {
       "title": "SCP-054 - 水妖精",
