@@ -14689,8 +14689,8 @@
          "_info"
       ],
       "comments": "0",
-      "rating": "10",
-      "votes": "10",
+      "rating": "11",
+      "votes": "11",
       "parent": "guide-hub",
       "id": "835229564",
       "detailed_rating": {
@@ -14734,12 +14734,16 @@
             [
                "3981670",
                1617120000
+            ],
+            [
+               "8319365",
+               1708521867
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 10,
-      "justified_votes": 10
+      "justified_rating": 11,
+      "justified_votes": 11
    },
    "1562677140": {
       "title": "SCP-008-J",
@@ -120826,8 +120830,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "7",
-      "votes": "7",
+      "rating": "8",
+      "votes": "8",
       "parent": null,
       "id": "1448699420",
       "detailed_rating": {
@@ -120859,12 +120863,16 @@
             [
                "8033564",
                1688135323
+            ],
+            [
+               "8319365",
+               1708521867
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 7,
-      "justified_votes": 7
+      "justified_rating": 8,
+      "justified_votes": 8
    },
    "1688137201": {
       "title": "《觀察者》刊載〈靈體學從1944至2024年發展之回顧與分析〉",
