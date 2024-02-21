@@ -21870,8 +21870,8 @@
          "_licensebox"
       ],
       "comments": "1",
-      "rating": "5",
-      "votes": "5",
+      "rating": "6",
+      "votes": "6",
       "parent": "guide-hub",
       "id": "986559382",
       "detailed_rating": {
@@ -21895,12 +21895,16 @@
             [
                "5415046",
                1617120000
+            ],
+            [
+               "8319365",
+               1708521377
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 5,
-      "justified_votes": 5
+      "justified_rating": 6,
+      "justified_votes": 6
    },
    "1580735733": {
       "title": "SCP-098 - 解剖蟹",
