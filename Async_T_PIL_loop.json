@@ -131864,8 +131864,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "2",
-      "votes": "2",
+      "rating": "3",
+      "votes": "3",
       "parent": null,
       "id": "1452624269",
       "detailed_rating": {
@@ -131877,12 +131877,16 @@
             [
                "7655555",
                1707931062
+            ],
+            [
+               "7504530",
+               1708572798
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 2,
-      "justified_votes": 2
+      "justified_rating": 3,
+      "justified_votes": 3
    },
    "1707948539": {
       "title": "SCP-609 - Wondertainment博士的本體六號球®",
