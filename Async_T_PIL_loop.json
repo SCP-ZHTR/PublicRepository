@@ -131991,5 +131991,36 @@
       "deleted": false,
       "justified_rating": 4,
       "justified_votes": 4
+   },
+   "1708609225": {
+      "title": "SCP-7375 - 寶劍騎士",
+      "fullname": "scp-7375",
+      "created_at": "1708609225",
+      "created_by": "7504530",
+      "tags": [
+         "en",
+         "gears博士",
+         "ghost",
+         "light博士",
+         "scp",
+         "人形",
+         "夜幕降臨",
+         "智能",
+         "機密分級",
+         "武器",
+         "生物危害",
+         "翻譯",
+         "雕像"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1452763028",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
