@@ -130579,8 +130579,8 @@
          "_cc"
       ],
       "comments": "0",
-      "rating": "3",
-      "votes": "3",
+      "rating": "4",
+      "votes": "4",
       "parent": "anthology-2023-hub",
       "id": "1452221850",
       "detailed_rating": {
@@ -130596,12 +130596,16 @@
             [
                "5435485",
                1706490840
+            ],
+            [
+               "7504530",
+               1708588449
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 3,
-      "justified_votes": 3
+      "justified_rating": 4,
+      "justified_votes": 4
    },
    "1705723280": {
       "title": "SCP-101-VN - 判事官之燄",
@@ -131777,8 +131781,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "4",
-      "votes": "4",
+      "rating": "5",
+      "votes": "5",
       "parent": null,
       "id": "1452607754",
       "detailed_rating": {
@@ -131798,12 +131802,16 @@
             [
                "6217438",
                1707876780
+            ],
+            [
+               "7504530",
+               1708588449
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 4,
-      "justified_votes": 4
+      "justified_rating": 5,
+      "justified_votes": 5
    },
    "1707905548": {
       "title": "十二個工廠的故事",
