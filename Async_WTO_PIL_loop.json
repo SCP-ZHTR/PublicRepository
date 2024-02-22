@@ -12866,5 +12866,22 @@
       "deleted": true,
       "justified_rating": 0,
       "justified_votes": 0
+   },
+   "1708609225": {
+      "title": "SCP-7375 - 寶劍騎士",
+      "fullname": "scp-7375",
+      "created_at": "1708609225",
+      "created_by": "7504530",
+      "tags": [],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1452763028",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
