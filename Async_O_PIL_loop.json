@@ -76555,8 +76555,8 @@
          "_a2"
       ],
       "comments": "3",
-      "rating": "26",
-      "votes": "26",
+      "rating": "27",
+      "votes": "27",
       "parent": null,
       "id": "1316330429",
       "detailed_rating": {
@@ -76664,12 +76664,16 @@
             [
                "DELETED",
                1695270804
+            ],
+            [
+               "8319365",
+               1708730682
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 25,
-      "justified_votes": 25
+      "justified_rating": 26,
+      "justified_votes": 26
    },
    "1629269053": {
       "title": "公園長椅上的男人",
