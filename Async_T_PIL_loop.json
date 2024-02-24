@@ -132091,5 +132091,32 @@
       "deleted": false,
       "justified_rating": 5,
       "justified_votes": 5
+   },
+   "1708788048": {
+      "title": "SCP-8000 - 餵食山怪",
+      "fullname": "scp-8000-feeding-the-trolls",
+      "created_at": "1708788048",
+      "created_by": "8452537",
+      "tags": [
+         "en",
+         "en-8000",
+         "euclid",
+         "scp",
+         "地下",
+         "地質",
+         "智能",
+         "活物",
+         "翻譯"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1452775665",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
