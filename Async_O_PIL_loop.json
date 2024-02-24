@@ -77743,8 +77743,8 @@
          "_cc"
       ],
       "comments": "0",
-      "rating": "4",
-      "votes": "4",
+      "rating": "5",
+      "votes": "5",
       "parent": null,
       "id": "1323970223",
       "detailed_rating": {
@@ -77764,12 +77764,16 @@
             [
                "5338547",
                1694521717
+            ],
+            [
+               "8846720",
+               1708742377
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 4,
-      "justified_votes": 4
+      "justified_rating": 5,
+      "justified_votes": 5
    },
    "1631796896": {
       "title": "維安設施檔案：Site-ZH-13",
