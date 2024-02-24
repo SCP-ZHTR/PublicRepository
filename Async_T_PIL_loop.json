@@ -132037,5 +132037,36 @@
       "deleted": false,
       "justified_rating": 1,
       "justified_votes": 1
+   },
+   "1708752529": {
+      "title": "SCP-8000 - 世界的邊緣",
+      "fullname": "8000contestdjkaktus",
+      "created_at": "1708752529",
+      "created_by": "6217438",
+      "tags": [
+         "blackwood",
+         "en",
+         "en-8000",
+         "euclid",
+         "scp",
+         "人形",
+         "地點",
+         "島嶼",
+         "建築物",
+         "悖論",
+         "智能",
+         "機器人",
+         "翻譯"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1452773028",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
