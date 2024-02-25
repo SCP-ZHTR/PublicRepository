@@ -55924,8 +55924,8 @@
          "_licensebox"
       ],
       "comments": "0",
-      "rating": "9",
-      "votes": "9",
+      "rating": "10",
+      "votes": "10",
       "parent": null,
       "id": "1306913098",
       "detailed_rating": {
@@ -55965,12 +55965,16 @@
             [
                "6678442",
                1623600000
+            ],
+            [
+               "7655555",
+               1708872374
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 9,
-      "justified_votes": 9
+      "justified_rating": 10,
+      "justified_votes": 10
    },
    "1613715489": {
       "title": "SCP-2933 - 恐怖先生",
