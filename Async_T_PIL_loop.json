@@ -131111,7 +131111,7 @@
       "hidden_tags": [],
       "comments": "0",
       "rating": "4",
-      "votes": "4",
+      "votes": "5",
       "parent": "anthology-2023-hub",
       "id": "1452500981",
       "detailed_rating": {
@@ -131131,12 +131131,16 @@
             [
                "8846720",
                1707697542
+            ],
+            [
+               "8452537",
+               1708861923
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 4,
-      "justified_votes": 4
+      "justified_rating": 5,
+      "justified_votes": 5
    },
    "1706785833": {
       "title": "SCP Wallpaper",
