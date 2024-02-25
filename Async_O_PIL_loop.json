@@ -124738,8 +124738,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "5",
-      "votes": "5",
+      "rating": "4",
+      "votes": "4",
       "parent": null,
       "id": "1452000141",
       "detailed_rating": {
@@ -124759,16 +124759,12 @@
             [
                "5435485",
                1705485856
-            ],
-            [
-               "8543386",
-               1708825761
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 5,
-      "justified_votes": 5
+      "justified_rating": 4,
+      "justified_votes": 4
    },
    "1703923327": {
       "title": "隨耕筆記數則",
@@ -127839,8 +127835,8 @@
       ],
       "hidden_tags": [],
       "comments": "4",
-      "rating": "2",
-      "votes": "4",
+      "rating": "4",
+      "votes": "6",
       "parent": null,
       "id": "1452822321",
       "detailed_rating": {
@@ -127856,6 +127852,14 @@
             [
                "8404617",
                1708866248
+            ],
+            [
+               "7605593",
+               1708867064
+            ],
+            [
+               "4442284",
+               1708867064
             ]
          ],
          "-": [
@@ -127866,7 +127870,7 @@
          ]
       },
       "deleted": false,
-      "justified_rating": 2,
-      "justified_votes": 4
+      "justified_rating": 4,
+      "justified_votes": 6
    }
 }
