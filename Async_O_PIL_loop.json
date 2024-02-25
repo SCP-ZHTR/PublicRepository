@@ -127824,5 +127824,26 @@
       "deleted": false,
       "justified_rating": 7,
       "justified_votes": 9
+   },
+   "1708865289": {
+      "title": "劉勉色的快樂DnD時光",
+      "fullname": "playing-dnd-with-the-boys-lets-goooooo",
+      "created_at": "1708865289",
+      "created_by": "6709715",
+      "tags": [
+         "site-zh-11",
+         "原創",
+         "故事"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1452822321",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
