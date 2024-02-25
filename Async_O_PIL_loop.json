@@ -127835,8 +127835,8 @@
       ],
       "hidden_tags": [],
       "comments": "4",
-      "rating": "4",
-      "votes": "6",
+      "rating": "5",
+      "votes": "7",
       "parent": null,
       "id": "1452822321",
       "detailed_rating": {
@@ -127860,6 +127860,10 @@
             [
                "4442284",
                1708867064
+            ],
+            [
+               "4990678",
+               1708869380
             ]
          ],
          "-": [
@@ -127870,7 +127874,7 @@
          ]
       },
       "deleted": false,
-      "justified_rating": 4,
-      "justified_votes": 6
+      "justified_rating": 5,
+      "justified_votes": 7
    }
 }
