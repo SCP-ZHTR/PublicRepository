@@ -127920,8 +127920,8 @@
       ],
       "hidden_tags": [],
       "comments": "2",
-      "rating": "1",
-      "votes": "3",
+      "rating": "0",
+      "votes": "4",
       "parent": null,
       "id": "1452822382",
       "detailed_rating": {
@@ -127939,11 +127939,15 @@
             [
                "5325850",
                1708874755
+            ],
+            [
+               "6091157",
+               1708875252
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 1,
-      "justified_votes": 3
+      "justified_rating": 0,
+      "justified_votes": 4
    }
 }
