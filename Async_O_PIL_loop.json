@@ -127901,13 +127901,20 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "0",
-      "votes": "0",
+      "rating": "1",
+      "votes": "1",
       "parent": null,
       "id": "1452822382",
-      "detailed_rating": {},
+      "detailed_rating": {
+         "+": [
+            [
+               "5252281",
+               1708871458
+            ]
+         ]
+      },
       "deleted": false,
-      "justified_rating": 0,
-      "justified_votes": 0
+      "justified_rating": 1,
+      "justified_votes": 1
    }
 }
