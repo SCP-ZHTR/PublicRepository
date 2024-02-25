@@ -127840,7 +127840,7 @@
       "hidden_tags": [],
       "comments": "3",
       "rating": "2",
-      "votes": "2",
+      "votes": "4",
       "parent": null,
       "id": "1452822321",
       "detailed_rating": {
@@ -127852,11 +127852,21 @@
             [
                "8883612",
                1708865983
+            ],
+            [
+               "8404617",
+               1708866248
+            ]
+         ],
+         "-": [
+            [
+               "5435485",
+               1708866248
             ]
          ]
       },
       "deleted": false,
       "justified_rating": 2,
-      "justified_votes": 2
+      "justified_votes": 4
    }
 }
