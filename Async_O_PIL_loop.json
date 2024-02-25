@@ -124722,8 +124722,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "4",
-      "votes": "4",
+      "rating": "5",
+      "votes": "5",
       "parent": null,
       "id": "1452000141",
       "detailed_rating": {
@@ -124743,12 +124743,16 @@
             [
                "5435485",
                1705485856
+            ],
+            [
+               "8543386",
+               1708825761
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 4,
-      "justified_votes": 4
+      "justified_rating": 5,
+      "justified_votes": 5
    },
    "1703923327": {
       "title": "隨耕筆記數則",
