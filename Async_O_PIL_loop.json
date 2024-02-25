@@ -127876,5 +127876,34 @@
       "deleted": false,
       "justified_rating": 5,
       "justified_votes": 7
+   },
+   "1708869602": {
+      "title": "SCP-ZH-861 - 聲韻、藍花、伊呂波",
+      "fullname": "scp-zh-861",
+      "created_at": "1708869602",
+      "created_by": "7605593",
+      "tags": [
+         "cimmerian博士",
+         "scp",
+         "site-zh-11",
+         "thaumiel",
+         "原創",
+         "基金會製造",
+         "文獻",
+         "真紀博士",
+         "研究員knave",
+         "語言",
+         "電腦"
+      ],
+      "hidden_tags": [],
+      "comments": "1",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1452822382",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
