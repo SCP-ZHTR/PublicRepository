@@ -103471,6 +103471,9 @@
          "metha博士",
          "原創",
          "地下街",
+         "心理恐怖",
+         "恐怖",
+         "悲喜",
          "成人內容",
          "故事",
          "物理少年",
@@ -125922,18 +125925,14 @@
          "_偉大長老"
       ],
       "comments": "1",
-      "rating": "9",
-      "votes": "9",
+      "rating": "8",
+      "votes": "8",
       "parent": null,
       "id": "1452522073",
       "detailed_rating": {
          "+": [
             [
                "4442284",
-               1706971557
-            ],
-            [
-               "8543386",
                1706971557
             ],
             [
@@ -125967,8 +125966,8 @@
          ]
       },
       "deleted": false,
-      "justified_rating": 9,
-      "justified_votes": 9
+      "justified_rating": 8,
+      "justified_votes": 8
    },
    "1706974716": {
       "title": "所以M.K.來到了一個無人島上",
