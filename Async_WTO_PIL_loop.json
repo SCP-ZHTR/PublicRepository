@@ -781,8 +781,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "6",
-      "votes": "6",
+      "rating": "7",
+      "votes": "7",
       "parent": null,
       "id": "639661081",
       "detailed_rating": {
@@ -810,12 +810,16 @@
             [
                "7226401",
                1689143977
+            ],
+            [
+               "8543386",
+               1708855799
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 6,
-      "justified_votes": 6
+      "justified_rating": 7,
+      "justified_votes": 7
    },
    "1553268827": {
       "title": "評價政策",
