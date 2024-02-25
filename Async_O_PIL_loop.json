@@ -20918,8 +20918,8 @@
          "_info"
       ],
       "comments": "5",
-      "rating": "47",
-      "votes": "47",
+      "rating": "48",
+      "votes": "48",
       "parent": null,
       "id": "939748592",
       "detailed_rating": {
@@ -21111,12 +21111,16 @@
             [
                "DELETED",
                "[UNKNOWN]"
+            ],
+            [
+               "8404617",
+               1708873756
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 46,
-      "justified_votes": 46
+      "justified_rating": 47,
+      "justified_votes": 47
    },
    "1575214469": {
       "title": "SCP-ZH-762 - 感同曾受",
@@ -92440,6 +92444,7 @@
       "tags": [
          "safe",
          "scp",
+         "site-zh-59",
          "人造物品",
          "原創",
          "語言",
@@ -99504,6 +99509,7 @@
          "2022夏季競賽",
          "euclid",
          "scp",
+         "site-zh-59",
          "原創"
       ],
       "hidden_tags": [],
@@ -119134,6 +119140,7 @@
       "created_by": "7852233",
       "tags": [
          "scp",
+         "site-zh-59",
          "zh急迫競賽2023",
          "人造物品",
          "原創",
@@ -122868,6 +122875,7 @@
          "keter",
          "scp",
          "site-zh-22",
+         "site-zh-59",
          "原創",
          "基因",
          "感知影響",
@@ -124695,6 +124703,7 @@
       "created_by": "5348516",
       "tags": [
          "2023聖夜相守",
+         "site-zh-59",
          "原創",
          "故事"
       ],
