@@ -132152,5 +132152,28 @@
       "deleted": false,
       "justified_rating": 2,
       "justified_votes": 2
+   },
+   "1708865999": {
+      "title": "豺犬遇挾譚",
+      "fullname": "yamawinumotisari",
+      "created_at": "1708865999",
+      "created_by": "7605593",
+      "tags": [
+         "jp",
+         "jp-x競賽23",
+         "故事",
+         "日奉一族",
+         "翻譯"
+      ],
+      "hidden_tags": [],
+      "comments": "1",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1452822331",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
