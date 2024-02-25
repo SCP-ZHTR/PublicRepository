@@ -127870,8 +127870,8 @@
       ],
       "hidden_tags": [],
       "comments": "5",
-      "rating": "-2",
-      "votes": "12",
+      "rating": "-3",
+      "votes": "13",
       "parent": null,
       "id": "1452822321",
       "detailed_rating": {
@@ -127925,12 +127925,16 @@
             [
                "5415046",
                1708878371
+            ],
+            [
+               "5370805",
+               1708903455
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": -2,
-      "justified_votes": 12
+      "justified_rating": -3,
+      "justified_votes": 13
    },
    "1708869602": {
       "title": "SCP-ZH-861 - 聲韻、藍花、伊呂波",
