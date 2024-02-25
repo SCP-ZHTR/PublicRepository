@@ -49555,8 +49555,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "9",
-      "votes": "9",
+      "rating": "10",
+      "votes": "10",
       "parent": null,
       "id": "1305793168",
       "detailed_rating": {
@@ -49596,12 +49596,16 @@
             [
                "5013754",
                1617120000
+            ],
+            [
+               "7655555",
+               1708837294
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 9,
-      "justified_votes": 9
+      "justified_rating": 10,
+      "justified_votes": 10
    },
    "1605282769": {
       "title": "SCP-5465 - 別跳過練腿日",
