@@ -131724,7 +131724,10 @@
          "雕像",
          "非現實部"
       ],
-      "hidden_tags": [],
+      "hidden_tags": [
+         "_cc",
+         "_licensebox"
+      ],
       "comments": "0",
       "rating": "3",
       "votes": "3",
