@@ -131625,7 +131625,10 @@
          "芝加哥鬼靈",
          "資訊危害"
       ],
-      "hidden_tags": [],
+      "hidden_tags": [
+         "_cc",
+         "_licensebox"
+      ],
       "comments": "0",
       "rating": "4",
       "votes": "4",
