@@ -131807,7 +131807,9 @@
          "媒體",
          "翻譯"
       ],
-      "hidden_tags": [],
+      "hidden_tags": [
+         "_cc"
+      ],
       "comments": "0",
       "rating": "5",
       "votes": "5",
@@ -131898,7 +131900,10 @@
          "翻譯",
          "資訊危害"
       ],
-      "hidden_tags": [],
+      "hidden_tags": [
+         "_cc",
+         "_licensebox"
+      ],
       "comments": "0",
       "rating": "3",
       "votes": "3",
