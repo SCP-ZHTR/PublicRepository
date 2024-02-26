@@ -131546,7 +131546,9 @@
          "資源",
          "重寫"
       ],
-      "hidden_tags": [],
+      "hidden_tags": [
+         "_licensebox"
+      ],
       "comments": "0",
       "rating": "3",
       "votes": "3",
