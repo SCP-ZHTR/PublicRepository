@@ -131515,7 +131515,9 @@
          "聽覺影響",
          "自主"
       ],
-      "hidden_tags": [],
+      "hidden_tags": [
+         "_licensebox"
+      ],
       "comments": "1",
       "rating": "1",
       "votes": "1",
