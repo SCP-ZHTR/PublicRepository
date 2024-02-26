@@ -13851,8 +13851,8 @@
       ],
       "hidden_tags": [],
       "comments": "3",
-      "rating": "6",
-      "votes": "6",
+      "rating": "7",
+      "votes": "7",
       "parent": null,
       "id": "822916605",
       "detailed_rating": {
@@ -13880,12 +13880,16 @@
             [
                "5334590",
                1708943796
+            ],
+            [
+               "8177208",
+               1708948138
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 5,
-      "justified_votes": 5
+      "justified_rating": 6,
+      "justified_votes": 6
    },
    "1561386918": {
       "title": "偽納多克斯的比喻",
