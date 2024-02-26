@@ -127473,7 +127473,9 @@
          "原創",
          "藝術作品"
       ],
-      "hidden_tags": [],
+      "hidden_tags": [
+         "_image"
+      ],
       "comments": "0",
       "rating": "13",
       "votes": "13",
