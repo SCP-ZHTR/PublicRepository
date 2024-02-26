@@ -127397,7 +127397,9 @@
          "殆瓦",
          "生物性"
       ],
-      "hidden_tags": [],
+      "hidden_tags": [
+         "_cc"
+      ],
       "comments": "0",
       "rating": "13",
       "votes": "13",
