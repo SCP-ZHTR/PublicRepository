@@ -135,8 +135,8 @@
          "_info"
       ],
       "comments": "5",
-      "rating": "23",
-      "votes": "23",
+      "rating": "24",
+      "votes": "24",
       "parent": null,
       "id": "633992327",
       "detailed_rating": {
@@ -232,12 +232,16 @@
             [
                "DELETED",
                "[UNKNOWN]"
+            ],
+            [
+               "7930983",
+               1708943536
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 21,
-      "justified_votes": 21
+      "justified_rating": 22,
+      "justified_votes": 22
    },
    "1552112115": {
       "title": "關注組織-ZH",
