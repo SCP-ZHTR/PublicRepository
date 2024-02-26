@@ -131941,7 +131941,9 @@
          "翻譯",
          "遊戲"
       ],
-      "hidden_tags": [],
+      "hidden_tags": [
+         "_licensebox"
+      ],
       "comments": "0",
       "rating": "4",
       "votes": "4",
@@ -132040,7 +132042,9 @@
          "翻譯",
          "雕像"
       ],
-      "hidden_tags": [],
+      "hidden_tags": [
+         "_cc"
+      ],
       "comments": "0",
       "rating": "2",
       "votes": "2",
