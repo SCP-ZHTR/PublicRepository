@@ -121458,8 +121458,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "23",
-      "votes": "23",
+      "rating": "24",
+      "votes": "24",
       "parent": null,
       "id": "1450878327",
       "detailed_rating": {
@@ -121555,12 +121555,16 @@
             [
                "8854072",
                1700201907
+            ],
+            [
+               "6104968",
+               1709019739
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 23,
-      "justified_votes": 23
+      "justified_rating": 24,
+      "justified_votes": 24
    },
    "1698148083": {
       "title": "AbyssDream的提案一",
