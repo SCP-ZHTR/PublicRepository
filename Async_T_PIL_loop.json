@@ -130528,14 +130528,21 @@
          "_licensebox"
       ],
       "comments": "0",
-      "rating": "0",
-      "votes": "0",
+      "rating": "1",
+      "votes": "1",
       "parent": null,
       "id": "1452187030",
-      "detailed_rating": {},
+      "detailed_rating": {
+         "+": [
+            [
+               "4442284",
+               1709035659
+            ]
+         ]
+      },
       "deleted": false,
-      "justified_rating": 0,
-      "justified_votes": 0
+      "justified_rating": 1,
+      "justified_votes": 1
    },
    "1705301386": {
       "title": "SCP-8000競賽中心頁",
