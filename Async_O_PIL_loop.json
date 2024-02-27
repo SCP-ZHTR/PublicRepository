@@ -94112,8 +94112,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "17",
-      "votes": "17",
+      "rating": "18",
+      "votes": "18",
       "parent": null,
       "id": "1402863215",
       "detailed_rating": {
@@ -94185,12 +94185,16 @@
             [
                "5435485",
                1707639011
+            ],
+            [
+               "4442284",
+               1709036172
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 16,
-      "justified_votes": 16
+      "justified_rating": 17,
+      "justified_votes": 17
    },
    "1652330765": {
       "title": "SCP-ZH-132 - 要你命的007遊戲",
