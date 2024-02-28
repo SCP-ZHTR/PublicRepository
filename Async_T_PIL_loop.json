@@ -132145,8 +132145,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "5",
-      "votes": "5",
+      "rating": "6",
+      "votes": "6",
       "parent": null,
       "id": "1452773028",
       "detailed_rating": {
@@ -132170,12 +132170,16 @@
             [
                "8452537",
                1708784667
+            ],
+            [
+               "5565302",
+               1709110974
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 5,
-      "justified_votes": 5
+      "justified_rating": 6,
+      "justified_votes": 6
    },
    "1708788048": {
       "title": "SCP-8000 - 餵食山怪",
