@@ -24767,5 +24767,41 @@
       "deleted": false,
       "justified_rating": 0,
       "justified_votes": 0
+   },
+   "1709239212": {
+      "title": "少年L的希死念慮-一",
+      "fullname": "fragment:for-the-curse-of-us-01",
+      "created_at": "1709239212",
+      "created_by": "5334590",
+      "tags": [],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1452846825",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
+   },
+   "1709239265": {
+      "title": "少年L的希死念慮-二",
+      "fullname": "fragment:for-the-curse-of-us-02",
+      "created_at": "1709239265",
+      "created_by": "5334590",
+      "tags": [
+         "段落"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1452846827",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
