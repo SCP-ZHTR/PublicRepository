@@ -128087,5 +128087,27 @@
       "deleted": false,
       "justified_rating": -3,
       "justified_votes": 11
+   },
+   "1709239161": {
+      "title": "少年L的希死念慮",
+      "fullname": "for-the-curse-of-us",
+      "created_at": "1709239161",
+      "created_by": "5334590",
+      "tags": [
+         "site-zh-02",
+         "原創",
+         "故事",
+         "研究員l.what"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1452846824",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
