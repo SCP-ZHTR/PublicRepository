@@ -59898,8 +59898,8 @@
          "_cc"
       ],
       "comments": "3",
-      "rating": "8",
-      "votes": "14",
+      "rating": "7",
+      "votes": "15",
       "parent": null,
       "id": "1306744883",
       "detailed_rating": {
@@ -59961,12 +59961,16 @@
             [
                "3981670",
                1617120000
+            ],
+            [
+               "5565302",
+               1709308357
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 8,
-      "justified_votes": 14
+      "justified_rating": 7,
+      "justified_votes": 15
    },
    "1612348227": {
       "title": "學生檔案-S16905160",
