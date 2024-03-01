@@ -128110,8 +128110,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "10",
-      "votes": "10",
+      "rating": "11",
+      "votes": "11",
       "parent": null,
       "id": "1452846824",
       "detailed_rating": {
@@ -128155,12 +128155,16 @@
             [
                "6503482",
                1709278643
+            ],
+            [
+               "7571354",
+               1709286138
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 10,
-      "justified_votes": 10
+      "justified_rating": 11,
+      "justified_votes": 11
    },
    "1709276429": {
       "title": "陽嵐之歌 中心頁",
