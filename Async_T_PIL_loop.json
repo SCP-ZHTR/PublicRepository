@@ -11523,8 +11523,8 @@
          "_cc"
       ],
       "comments": "1",
-      "rating": "10",
-      "votes": "10",
+      "rating": "11",
+      "votes": "11",
       "parent": null,
       "id": "802376221",
       "detailed_rating": {
@@ -11568,12 +11568,16 @@
             [
                "DELETED",
                "[UNKNOWN]"
+            ],
+            [
+               "8543386",
+               1709417944
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 9,
-      "justified_votes": 9
+      "justified_rating": 10,
+      "justified_votes": 10
    },
    "1560484198": {
       "title": "SCP-1154 - 概念之龍",
@@ -41299,8 +41303,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "5",
-      "votes": "5",
+      "rating": "6",
+      "votes": "6",
       "parent": null,
       "id": "1260598625",
       "detailed_rating": {
@@ -41324,12 +41328,16 @@
             [
                "5013754",
                1617120000
+            ],
+            [
+               "8418020",
+               1709417944
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 5,
-      "justified_votes": 5
+      "justified_rating": 6,
+      "justified_votes": 6
    },
    "1596380490": {
       "title": "SCP-1005-RU - 洗錢機",
@@ -75872,16 +75880,12 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "6",
-      "votes": "6",
+      "rating": "7",
+      "votes": "7",
       "parent": null,
       "id": "1329909371",
       "detailed_rating": {
          "+": [
-            [
-               "7469850",
-               1644336000
-            ],
             [
                "4990678",
                1635955200
@@ -75901,6 +75905,14 @@
             [
                "4442284",
                1635955200
+            ],
+            [
+               "8543386",
+               1709417944
+            ],
+            [
+               "DELETED",
+               1709417944
             ]
          ]
       },
@@ -95141,8 +95153,8 @@
          "_licensebox"
       ],
       "comments": "3",
-      "rating": "5",
-      "votes": "27",
+      "rating": "4",
+      "votes": "28",
       "parent": null,
       "id": "1420120982",
       "detailed_rating": {
@@ -95150,10 +95162,6 @@
             [
                "6943710",
                1659888000
-            ],
-            [
-               "7469850",
-               1661097600
             ],
             [
                "1360122",
@@ -95210,6 +95218,10 @@
             [
                "7226401",
                1657728000
+            ],
+            [
+               "DELETED",
+               1709417944
             ]
          ],
          "-": [
@@ -95256,11 +95268,15 @@
             [
                "8480087",
                1680163311
+            ],
+            [
+               "8543386",
+               1709417944
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 5,
+      "justified_rating": 3,
       "justified_votes": 27
    },
    "1657804056": {
@@ -131630,8 +131646,8 @@
          "_licensebox"
       ],
       "comments": "0",
-      "rating": "4",
-      "votes": "4",
+      "rating": "5",
+      "votes": "5",
       "parent": null,
       "id": "1452588037",
       "detailed_rating": {
@@ -131651,12 +131667,16 @@
             [
                "7504530",
                1708911743
+            ],
+            [
+               "8418020",
+               1709417944
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 4,
-      "justified_votes": 4
+      "justified_rating": 5,
+      "justified_votes": 5
    },
    "1707717595": {
       "title": "詠",
@@ -131713,7 +131733,8 @@
       ],
       "hidden_tags": [
          "_cc",
-         "_licensebox"
+         "_licensebox",
+         "_禁黑"
       ],
       "comments": "0",
       "rating": "4",
@@ -132330,8 +132351,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "2",
-      "votes": "2",
+      "rating": "3",
+      "votes": "3",
       "parent": null,
       "id": "1452879515",
       "detailed_rating": {
@@ -132343,11 +132364,101 @@
             [
                "8854072",
                1709304502
+            ],
+            [
+               "6217438",
+               1709417944
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 2,
-      "justified_votes": 2
+      "justified_rating": 3,
+      "justified_votes": 3
+   },
+   "1709379447": {
+      "title": "SCP-126 - 隱形朋友",
+      "fullname": "scp-126",
+      "created_at": "1709379447",
+      "created_by": "8846720",
+      "tags": [
+         "en",
+         "euclid",
+         "scp",
+         "人形",
+         "智能",
+         "無形",
+         "精神影響",
+         "翻譯",
+         "聲音",
+         "重寫"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1452916821",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
+   },
+   "1709406185": {
+      "title": "SCP-8000 - 歲 月 色 狼",
+      "fullname": "8000contestlordxvnv",
+      "created_at": "1709406185",
+      "created_by": "7605593",
+      "tags": [
+         "cimmerian博士",
+         "clef博士",
+         "en",
+         "en-8000",
+         "k級情景",
+         "reynders博士",
+         "scp",
+         "spatial",
+         "thad-xyank",
+         "the-administrator",
+         "人形",
+         "來自120站的檔案",
+         "型態變化",
+         "基金會製造",
+         "媒體",
+         "屍體",
+         "建築物",
+         "循環",
+         "性",
+         "悖論",
+         "成人內容",
+         "敵意",
+         "文獻",
+         "時間影響",
+         "智能",
+         "本質促動",
+         "機密分級",
+         "歷史性",
+         "猩紅之王",
+         "知識",
+         "精神影響",
+         "翻譯",
+         "變形",
+         "超形上學部",
+         "超維度",
+         "金帳軍",
+         "電子",
+         "電腦"
+      ],
+      "hidden_tags": [
+         "_licensebox"
+      ],
+      "comments": "1",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1452918408",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
