@@ -31197,8 +31197,8 @@
          "_cc"
       ],
       "comments": "0",
-      "rating": "9",
-      "votes": "9",
+      "rating": "10",
+      "votes": "10",
       "parent": null,
       "id": "999243090",
       "detailed_rating": {
@@ -31238,12 +31238,16 @@
             [
                "5817419",
                1617120000
+            ],
+            [
+               "8418020",
+               1709417941
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 9,
-      "justified_votes": 9
+      "justified_rating": 10,
+      "justified_votes": 10
    },
    "1583046169": {
       "title": "柔光☆迴返",
@@ -91754,8 +91758,8 @@
       ],
       "hidden_tags": [],
       "comments": "7",
-      "rating": "27",
-      "votes": "27",
+      "rating": "28",
+      "votes": "28",
       "parent": null,
       "id": "1340488357",
       "detailed_rating": {
@@ -91867,12 +91871,16 @@
             [
                "DELETED",
                1694416361
+            ],
+            [
+               "8543386",
+               1709417941
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 25,
-      "justified_votes": 25
+      "justified_rating": 26,
+      "justified_votes": 26
    },
    "1647184151": {
       "title": "酷酷的傳播等級圖標",
@@ -94946,16 +94954,12 @@
          "_image"
       ],
       "comments": "1",
-      "rating": "11",
-      "votes": "11",
+      "rating": "12",
+      "votes": "12",
       "parent": null,
       "id": "1403262986",
       "detailed_rating": {
          "+": [
-            [
-               "7469850",
-               1654358400
-            ],
             [
                "4990678",
                1654358400
@@ -94995,6 +94999,14 @@
             [
                "8064046",
                1657296000
+            ],
+            [
+               "8982806",
+               1709417941
+            ],
+            [
+               "DELETED",
+               1709417941
             ]
          ]
       },
@@ -106492,16 +106504,12 @@
       ],
       "hidden_tags": [],
       "comments": "3",
-      "rating": "16",
-      "votes": "16",
+      "rating": "17",
+      "votes": "17",
       "parent": null,
       "id": "1437472553",
       "detailed_rating": {
          "+": [
-            [
-               "7469850",
-               1669737600
-            ],
             [
                "6104968",
                1669910400
@@ -106561,6 +106569,14 @@
             [
                "5338547",
                1669910400
+            ],
+            [
+               "8543386",
+               1709417941
+            ],
+            [
+               "DELETED",
+               1709417941
             ]
          ]
       },
@@ -126185,6 +126201,7 @@
          "2024冬季競賽",
          "goi格式",
          "原創",
+         "展出",
          "第八處"
       ],
       "hidden_tags": [
@@ -126347,6 +126364,7 @@
          "scp",
          "site-zh-44",
          "原創",
+         "展出",
          "植物",
          "神異博覽會"
       ],
@@ -126461,6 +126479,7 @@
       "created_by": "6709715",
       "tags": [
          "原創",
+         "展出",
          "故事"
       ],
       "hidden_tags": [],
@@ -128029,7 +128048,7 @@
             ]
          ]
       },
-      "deleted": false,
+      "deleted": true,
       "justified_rating": -3,
       "justified_votes": 15
    },
@@ -128108,7 +128127,7 @@
             ]
          ]
       },
-      "deleted": false,
+      "deleted": true,
       "justified_rating": -3,
       "justified_votes": 11
    },
@@ -128195,8 +128214,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "8",
-      "votes": "8",
+      "rating": "9",
+      "votes": "9",
       "parent": null,
       "id": "1452878067",
       "detailed_rating": {
@@ -128232,11 +128251,15 @@
             [
                "8452537",
                1709305655
+            ],
+            [
+               "6104968",
+               1709417941
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 8,
-      "justified_votes": 8
+      "justified_rating": 9,
+      "justified_votes": 9
    }
 }
