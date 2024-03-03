@@ -128306,13 +128306,38 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "0",
-      "votes": "0",
+      "rating": "-3",
+      "votes": "5",
       "parent": null,
       "id": "1452921411",
-      "detailed_rating": {},
+      "detailed_rating": {
+         "+": [
+            [
+               "9035648",
+               1709472110
+            ]
+         ],
+         "-": [
+            [
+               "4990678",
+               1709472110
+            ],
+            [
+               "8883612",
+               1709472110
+            ],
+            [
+               "7521095",
+               1709472110
+            ],
+            [
+               "8543386",
+               1709472110
+            ]
+         ]
+      },
       "deleted": false,
-      "justified_rating": 0,
-      "justified_votes": 0
+      "justified_rating": -3,
+      "justified_votes": 5
    }
 }
