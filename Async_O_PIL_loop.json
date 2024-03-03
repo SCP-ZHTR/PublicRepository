@@ -111189,8 +111189,8 @@
          "_cc"
       ],
       "comments": "0",
-      "rating": "13",
-      "votes": "13",
+      "rating": "14",
+      "votes": "14",
       "parent": "scp-zh-835",
       "id": "1446695490",
       "detailed_rating": {
@@ -111246,12 +111246,16 @@
             [
                "DELETED",
                1695207092
+            ],
+            [
+               "7655555",
+               1709463129
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 12,
-      "justified_votes": 12
+      "justified_rating": 13,
+      "justified_votes": 13
    },
    "1678749840": {
       "title": "副主任",
