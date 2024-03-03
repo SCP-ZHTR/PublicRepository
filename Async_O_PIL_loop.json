@@ -64377,8 +64377,8 @@
          "_cc"
       ],
       "comments": "19",
-      "rating": "38",
-      "votes": "38",
+      "rating": "39",
+      "votes": "39",
       "parent": null,
       "id": "1308330268",
       "detailed_rating": {
@@ -64534,12 +64534,16 @@
             [
                "7226401",
                1617120000
+            ],
+            [
+               "8319365",
+               1709475346
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 38,
-      "justified_votes": 38
+      "justified_rating": 39,
+      "justified_votes": 39
    },
    "1617038537": {
       "title": "SCP-ZH-033 - ◉",
