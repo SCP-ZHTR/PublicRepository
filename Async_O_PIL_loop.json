@@ -74256,8 +74256,8 @@
          "_cc"
       ],
       "comments": "5",
-      "rating": "34",
-      "votes": "48",
+      "rating": "33",
+      "votes": "49",
       "parent": null,
       "id": "1312388316",
       "detailed_rating": {
@@ -74455,12 +74455,16 @@
             [
                "DELETED",
                "[UNKNOWN]"
+            ],
+            [
+               "8452537",
+               1709451716
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 36,
-      "justified_votes": 44
+      "justified_rating": 35,
+      "justified_votes": 45
    },
    "1626781425": {
       "title": "SCP-ZH-067 - 藍圖",
