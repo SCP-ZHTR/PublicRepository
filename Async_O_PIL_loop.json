@@ -21969,8 +21969,8 @@
          "_info"
       ],
       "comments": "3",
-      "rating": "25",
-      "votes": "25",
+      "rating": "26",
+      "votes": "26",
       "parent": null,
       "id": "962201826",
       "detailed_rating": {
@@ -22074,12 +22074,16 @@
             [
                "DELETED",
                "[UNKNOWN]"
+            ],
+            [
+               "8319365",
+               1709475475
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 24,
-      "justified_votes": 24
+      "justified_rating": 25,
+      "justified_votes": 25
    },
    "1575985546": {
       "title": "核裂擠兌中心頁",
