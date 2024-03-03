@@ -77298,8 +77298,8 @@
          "_cc"
       ],
       "comments": "2",
-      "rating": "18",
-      "votes": "18",
+      "rating": "19",
+      "votes": "19",
       "parent": null,
       "id": "1316881489",
       "detailed_rating": {
@@ -77375,12 +77375,16 @@
             [
                "DELETED",
                "[UNKNOWN]"
+            ],
+            [
+               "8452537",
+               1709451466
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 16,
-      "justified_votes": 16
+      "justified_rating": 17,
+      "justified_votes": 17
    },
    "1629646795": {
       "title": "手部記憶",
