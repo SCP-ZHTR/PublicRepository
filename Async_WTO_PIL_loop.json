@@ -12981,20 +12981,27 @@
       "justified_votes": 0
    },
    "1709470268": {
-      "title": "Scp Zh 933",
+      "title": "Scp Zh 933 - 吳家獻",
       "fullname": "scp-zh-933",
       "created_at": "1709470268",
       "created_by": "9035648",
       "tags": [],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "0",
-      "votes": "0",
+      "rating": "1",
+      "votes": "1",
       "parent": null,
       "id": "1452921411",
-      "detailed_rating": {},
+      "detailed_rating": {
+         "+": [
+            [
+               "9035648",
+               1709470495
+            ]
+         ]
+      },
       "deleted": false,
-      "justified_rating": 0,
-      "justified_votes": 0
+      "justified_rating": 1,
+      "justified_votes": 1
    }
 }
