@@ -128250,8 +128250,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "9",
-      "votes": "9",
+      "rating": "10",
+      "votes": "10",
       "parent": null,
       "id": "1452878067",
       "detailed_rating": {
@@ -128291,12 +128291,16 @@
             [
                "6104968",
                1709417941
+            ],
+            [
+               "7521095",
+               1709474729
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 9,
-      "justified_votes": 9
+      "justified_rating": 10,
+      "justified_votes": 10
    },
    "1709470268": {
       "title": "SCP-ZH-933 帥哥吳家獻",
