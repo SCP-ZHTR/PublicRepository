@@ -20912,8 +20912,8 @@
          "_image"
       ],
       "comments": "3",
-      "rating": "-8",
-      "votes": "10",
+      "rating": "-9",
+      "votes": "11",
       "parent": null,
       "id": "986217853",
       "detailed_rating": {
@@ -20959,12 +20959,16 @@
             [
                "6624115",
                1617120000
+            ],
+            [
+               "8543386",
+               1709434806
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": -8,
-      "justified_votes": 10
+      "justified_rating": -9,
+      "justified_votes": 11
    },
    "1579338084": {
       "title": "SCP-RO-007-ARC",
