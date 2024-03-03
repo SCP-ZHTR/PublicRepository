@@ -38083,8 +38083,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "10",
-      "votes": "12",
+      "rating": "11",
+      "votes": "13",
       "parent": null,
       "id": "1035037974",
       "detailed_rating": {
@@ -38132,6 +38132,10 @@
             [
                "5454699",
                1617120000
+            ],
+            [
+               "8319365",
+               1709474359
             ]
          ],
          "-": [
@@ -38142,8 +38146,8 @@
          ]
       },
       "deleted": false,
-      "justified_rating": 10,
-      "justified_votes": 12
+      "justified_rating": 11,
+      "justified_votes": 13
    },
    "1588518384": {
       "title": "阿爾漢格爾斯克的金童",
@@ -128295,7 +128299,7 @@
       "justified_votes": 9
    },
    "1709470268": {
-      "title": "SCP-ZH-933 吳家獻",
+      "title": "SCP-ZH-933 帥哥吳家獻",
       "fullname": "scp-zh-933",
       "created_at": "1709470268",
       "created_by": "9035648",
