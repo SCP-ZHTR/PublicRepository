@@ -24174,8 +24174,8 @@
       "tags": [],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "1",
-      "votes": "1",
+      "rating": "2",
+      "votes": "2",
       "parent": null,
       "id": "1452199061",
       "detailed_rating": {
@@ -24183,12 +24183,16 @@
             [
                "8543386",
                1708763188
+            ],
+            [
+               "8883612",
+               1709469148
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 1,
-      "justified_votes": 1
+      "justified_rating": 2,
+      "justified_votes": 2
    },
    "1705723289": {
       "title": "Scp 101 Vn 1",
