@@ -13081,5 +13081,22 @@
       "deleted": true,
       "justified_rating": 0,
       "justified_votes": 0
+   },
+   "1709556032": {
+      "title": "SCP-8000 - 觸摸永恆",
+      "fullname": "8000contestoritiefling",
+      "created_at": "1709556032",
+      "created_by": "6503482",
+      "tags": [],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1452926213",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
