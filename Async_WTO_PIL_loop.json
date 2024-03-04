@@ -10940,8 +10940,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "2",
-      "votes": "2",
+      "rating": "3",
+      "votes": "3",
       "parent": null,
       "id": "1450860497",
       "detailed_rating": {
@@ -10953,12 +10953,16 @@
             [
                "8854072",
                1698924717
+            ],
+            [
+               "5435485",
+               1709517824
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 2,
-      "justified_votes": 2
+      "justified_rating": 3,
+      "justified_votes": 3
    },
    "1698589413": {
       "title": "謬域",
