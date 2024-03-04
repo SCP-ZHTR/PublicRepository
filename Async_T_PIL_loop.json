@@ -132524,5 +132524,32 @@
       "deleted": false,
       "justified_rating": 4,
       "justified_votes": 4
+   },
+   "1709556032": {
+      "title": "SCP-8000 - 觸摸永恆",
+      "fullname": "8000contestoritiefling",
+      "created_at": "1709556032",
+      "created_by": "6503482",
+      "tags": [
+         "apollyon",
+         "en",
+         "en-8000",
+         "k級情景",
+         "scp",
+         "時間影響",
+         "熱力學",
+         "熵",
+         "翻譯"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1452926213",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
