@@ -12990,8 +12990,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "-6",
-      "votes": "8",
+      "rating": "-7",
+      "votes": "9",
       "parent": null,
       "id": "1452921411",
       "detailed_rating": {
@@ -13023,6 +13023,10 @@
             [
                "5062193",
                1709485824
+            ],
+            [
+               "5565302",
+               1709511357
             ]
          ],
          "+": [
@@ -13033,8 +13037,8 @@
          ]
       },
       "deleted": false,
-      "justified_rating": -6,
-      "justified_votes": 8
+      "justified_rating": -7,
+      "justified_votes": 9
    },
    "1709472971": {
       "title": "SCP-4594 - 倫敦地下有食道",
