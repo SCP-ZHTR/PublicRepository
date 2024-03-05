@@ -119857,8 +119857,8 @@
          "_核心"
       ],
       "comments": "1",
-      "rating": "11",
-      "votes": "11",
+      "rating": "12",
+      "votes": "12",
       "parent": null,
       "id": "1450084511",
       "detailed_rating": {
@@ -119906,12 +119906,16 @@
             [
                "5338547",
                1695320587
+            ],
+            [
+               "8854072",
+               1709661595
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 11,
-      "justified_votes": 11
+      "justified_rating": 12,
+      "justified_votes": 12
    },
    "1695387178": {
       "title": "SCP-ZH-192 - 觸覺、聽覺、視覺、味覺、嗅覺、無覺",
