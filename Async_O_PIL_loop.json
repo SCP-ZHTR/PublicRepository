@@ -39385,8 +39385,8 @@
          "_cc"
       ],
       "comments": "17",
-      "rating": "-2",
-      "votes": "18",
+      "rating": "-1",
+      "votes": "19",
       "parent": null,
       "id": "1079567210",
       "detailed_rating": {
@@ -39422,6 +39422,10 @@
             [
                "DELETED",
                "[UNKNOWN]"
+            ],
+            [
+               "8452537",
+               1709640282
             ]
          ],
          "-": [
@@ -39468,8 +39472,8 @@
          ]
       },
       "deleted": false,
-      "justified_rating": -3,
-      "justified_votes": 17
+      "justified_rating": -2,
+      "justified_votes": 18
    },
    "1590402352": {
       "title": "木易藏書閣目錄 偽-六二一《鬱金香》",
