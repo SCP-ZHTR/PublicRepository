@@ -4574,8 +4574,8 @@
          "_cc"
       ],
       "comments": "3",
-      "rating": "12",
-      "votes": "12",
+      "rating": "13",
+      "votes": "13",
       "parent": null,
       "id": "1014691522",
       "detailed_rating": {
@@ -4627,12 +4627,16 @@
             [
                "5454699",
                1689143977
+            ],
+            [
+               "8319365",
+               1709732912
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 12,
-      "justified_votes": 12
+      "justified_rating": 13,
+      "justified_votes": 13
    },
    "1585734315": {
       "title": "在流浪者圖書館的某個角落──",
