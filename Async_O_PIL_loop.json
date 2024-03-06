@@ -27579,8 +27579,8 @@
          "_info"
       ],
       "comments": "5",
-      "rating": "17",
-      "votes": "19",
+      "rating": "18",
+      "votes": "20",
       "parent": null,
       "id": "986293889",
       "detailed_rating": {
@@ -27656,6 +27656,10 @@
             [
                "7521095",
                1707725846
+            ],
+            [
+               "8319365",
+               1709736397
             ]
          ],
          "-": [
@@ -27666,8 +27670,8 @@
          ]
       },
       "deleted": false,
-      "justified_rating": 17,
-      "justified_votes": 19
+      "justified_rating": 18,
+      "justified_votes": 20
    },
    "1579803818": {
       "title": "SCP-ZH-097 - 組織格式",
