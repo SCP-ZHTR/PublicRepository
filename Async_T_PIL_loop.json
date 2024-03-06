@@ -132520,7 +132520,9 @@
          "翻譯",
          "自主"
       ],
-      "hidden_tags": [],
+      "hidden_tags": [
+         "_cc"
+      ],
       "comments": "0",
       "rating": "4",
       "votes": "4",
@@ -132566,7 +132568,10 @@
          "熵",
          "翻譯"
       ],
-      "hidden_tags": [],
+      "hidden_tags": [
+         "_image",
+         "_licensebox"
+      ],
       "comments": "1",
       "rating": "1",
       "votes": "1",
