@@ -86488,8 +86488,8 @@
          "_image"
       ],
       "comments": "3",
-      "rating": "40",
-      "votes": "40",
+      "rating": "41",
+      "votes": "41",
       "parent": "scp-zh-001",
       "id": "1331683018",
       "detailed_rating": {
@@ -86653,12 +86653,16 @@
             [
                "DELETED",
                1695270056
+            ],
+            [
+               "8319365",
+               1709733292
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 39,
-      "justified_votes": 39
+      "justified_rating": 40,
+      "justified_votes": 40
    },
    "1644753667": {
       "title": "Neviim.aic，攝於2022年2月",
