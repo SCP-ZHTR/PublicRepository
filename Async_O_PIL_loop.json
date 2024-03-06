@@ -78764,8 +78764,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "10",
-      "votes": "10",
+      "rating": "11",
+      "votes": "11",
       "parent": null,
       "id": "1324413258",
       "detailed_rating": {
@@ -78809,12 +78809,16 @@
             [
                "5454699",
                1633708800
+            ],
+            [
+               "8319365",
+               1709732781
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 10,
-      "justified_votes": 10
+      "justified_rating": 11,
+      "justified_votes": 11
    },
    "1633944920": {
       "title": "某人的夢",
