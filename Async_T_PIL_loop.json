@@ -132428,7 +132428,9 @@
          "聲音",
          "重寫"
       ],
-      "hidden_tags": [],
+      "hidden_tags": [
+         "_licensebox"
+      ],
       "comments": "0",
       "rating": "0",
       "votes": "0",
@@ -132486,6 +132488,7 @@
       ],
       "hidden_tags": [
          "_adult",
+         "_cc",
          "_licensebox"
       ],
       "comments": "1",
