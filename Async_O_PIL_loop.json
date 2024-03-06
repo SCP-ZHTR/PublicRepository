@@ -128494,8 +128494,8 @@
          "_cc"
       ],
       "comments": "0",
-      "rating": "10",
-      "votes": "10",
+      "rating": "11",
+      "votes": "11",
       "parent": null,
       "id": "1452935663",
       "detailed_rating": {
@@ -128539,11 +128539,15 @@
             [
                "7571354",
                1709721736
+            ],
+            [
+               "8883612",
+               1709727242
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 10,
-      "justified_votes": 10
+      "justified_rating": 11,
+      "justified_votes": 11
    }
 }
