@@ -125640,8 +125640,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "12",
-      "votes": "12",
+      "rating": "13",
+      "votes": "13",
       "parent": "i-lisin-tafalong",
       "id": "1452351179",
       "detailed_rating": {
@@ -125693,12 +125693,16 @@
             [
                "8404617",
                1708877743
+            ],
+            [
+               "7655555",
+               1709731521
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 12,
-      "justified_votes": 12
+      "justified_rating": 13,
+      "justified_votes": 13
    },
    "1706352280": {
       "title": "SCP-ZH-412",
