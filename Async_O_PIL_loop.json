@@ -128490,7 +128490,9 @@
          "載具",
          "門徑"
       ],
-      "hidden_tags": [],
+      "hidden_tags": [
+         "_cc"
+      ],
       "comments": "0",
       "rating": "10",
       "votes": "10",
