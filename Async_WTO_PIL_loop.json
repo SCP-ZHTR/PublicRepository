@@ -13106,5 +13106,22 @@
       "deleted": true,
       "justified_rating": 0,
       "justified_votes": 0
+   },
+   "1709708404": {
+      "title": "SCP-ZH-728 - 夜之方舟與日之使徒",
+      "fullname": "scp-zh-728",
+      "created_at": "1709708404",
+      "created_by": "5435485",
+      "tags": [],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1452935663",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
