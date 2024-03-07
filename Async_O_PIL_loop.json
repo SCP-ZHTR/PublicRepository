@@ -67563,8 +67563,8 @@
          "_禁黑"
       ],
       "comments": "11",
-      "rating": "32",
-      "votes": "34",
+      "rating": "33",
+      "votes": "35",
       "parent": "scp-zh-001",
       "id": "1310899851",
       "detailed_rating": {
@@ -67700,6 +67700,10 @@
             [
                "6678442",
                1619884800
+            ],
+            [
+               "8319365",
+               1709822816
             ]
          ],
          "-": [
@@ -67710,8 +67714,8 @@
          ]
       },
       "deleted": false,
-      "justified_rating": 33,
-      "justified_votes": 33
+      "justified_rating": 34,
+      "justified_votes": 34
    },
    "1619539661": {
       "title": "故事的力量～你為什麼需要超形上學～",
