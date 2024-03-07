@@ -13127,5 +13127,22 @@
       "deleted": true,
       "justified_rating": 0,
       "justified_votes": 0
+   },
+   "1709820080": {
+      "title": "SCP-ZH-370",
+      "fullname": "scp-zh-370",
+      "created_at": "1709820080",
+      "created_by": "9035648",
+      "tags": [],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1452943859",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
