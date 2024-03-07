@@ -105812,8 +105812,8 @@
          "_禁黑"
       ],
       "comments": "2",
-      "rating": "12",
-      "votes": "12",
+      "rating": "13",
+      "votes": "13",
       "parent": null,
       "id": "1437308068",
       "detailed_rating": {
@@ -105865,12 +105865,16 @@
             [
                "DELETED",
                1695207508
+            ],
+            [
+               "7521095",
+               1709817114
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 11,
-      "justified_votes": 11
+      "justified_rating": 12,
+      "justified_votes": 12
    },
    "1668872748": {
       "title": "桂花和洋甘菊",
