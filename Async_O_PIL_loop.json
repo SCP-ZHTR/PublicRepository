@@ -53362,8 +53362,8 @@
          "_cc"
       ],
       "comments": "1",
-      "rating": "18",
-      "votes": "18",
+      "rating": "19",
+      "votes": "19",
       "parent": null,
       "id": "1305385671",
       "detailed_rating": {
@@ -53439,12 +53439,16 @@
             [
                "7226401",
                1617120000
+            ],
+            [
+               "8319365",
+               1709822686
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 18,
-      "justified_votes": 18
+      "justified_rating": 19,
+      "justified_votes": 19
    },
    "1603389835": {
       "title": "亞細亞的孤兒是誰",
@@ -124786,8 +124790,8 @@
          "_禁黑"
       ],
       "comments": "0",
-      "rating": "10",
-      "votes": "10",
+      "rating": "11",
+      "votes": "11",
       "parent": null,
       "id": "1451996101",
       "detailed_rating": {
@@ -124831,12 +124835,16 @@
             [
                "5701756",
                1704167049
+            ],
+            [
+               "8319365",
+               1709822686
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 10,
-      "justified_votes": 10
+      "justified_rating": 11,
+      "justified_votes": 11
    },
    "1703899834": {
       "title": "Kislorod與他的思念",
