@@ -13129,15 +13129,17 @@
       "justified_votes": 0
    },
    "1709820080": {
-      "title": "SCP-ZH-370",
+      "title": "SCP-ZH-370 紅色圓圈",
       "fullname": "scp-zh-370",
       "created_at": "1709820080",
       "created_by": "9035648",
-      "tags": [],
+      "tags": [
+         "待刪除"
+      ],
       "hidden_tags": [],
-      "comments": "0",
-      "rating": "1",
-      "votes": "1",
+      "comments": "1",
+      "rating": "-2",
+      "votes": "8",
       "parent": null,
       "id": "1452943859",
       "detailed_rating": {
@@ -13145,11 +13147,41 @@
             [
                "9035648",
                1709820481
+            ],
+            [
+               "8452537",
+               1709846576
+            ],
+            [
+               "4239775",
+               1709846576
+            ]
+         ],
+         "-": [
+            [
+               "7995025",
+               1709846576
+            ],
+            [
+               "4990678",
+               1709846576
+            ],
+            [
+               "8177208",
+               1709846576
+            ],
+            [
+               "5370805",
+               1709846576
+            ],
+            [
+               "8543386",
+               1709846576
             ]
          ]
       },
-      "deleted": true,
-      "justified_rating": 1,
-      "justified_votes": 1
+      "deleted": false,
+      "justified_rating": -2,
+      "justified_votes": 8
    }
 }
