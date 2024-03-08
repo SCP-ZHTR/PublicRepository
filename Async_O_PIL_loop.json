@@ -70796,8 +70796,8 @@
          "_禁黑"
       ],
       "comments": "3",
-      "rating": "18",
-      "votes": "18",
+      "rating": "19",
+      "votes": "19",
       "parent": null,
       "id": "1312053260",
       "detailed_rating": {
@@ -70873,12 +70873,16 @@
             [
                "DELETED",
                1695271138
+            ],
+            [
+               "7930983",
+               1709871876
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 17,
-      "justified_votes": 17
+      "justified_rating": 18,
+      "justified_votes": 18
    },
    "1623515862": {
       "title": "SCP-ZH-270 - 撒奇萊雅的刺竹林",
