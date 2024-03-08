@@ -46098,8 +46098,8 @@
          "_賞金k級情景"
       ],
       "comments": "2",
-      "rating": "31",
-      "votes": "31",
+      "rating": "32",
+      "votes": "32",
       "parent": null,
       "id": "1259584091",
       "detailed_rating": {
@@ -46227,12 +46227,16 @@
             [
                "8418020",
                1704343942
+            ],
+            [
+               "8319365",
+               1709910189
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 31,
-      "justified_votes": 31
+      "justified_rating": 32,
+      "justified_votes": 32
    },
    "1596260219": {
       "title": "末日時能泡杯茶嗎？",
@@ -50584,8 +50588,8 @@
          "_cc"
       ],
       "comments": "0",
-      "rating": "23",
-      "votes": "23",
+      "rating": "24",
+      "votes": "24",
       "parent": null,
       "id": "1288426812",
       "detailed_rating": {
@@ -50681,12 +50685,16 @@
             [
                "5454699",
                1617120000
+            ],
+            [
+               "8319365",
+               1709910189
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 22,
-      "justified_votes": 22
+      "justified_rating": 23,
+      "justified_votes": 23
    },
    "1599920741": {
       "title": "不會微笑的洋娃娃",
