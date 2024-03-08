@@ -91801,8 +91801,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "12",
-      "votes": "12",
+      "rating": "13",
+      "votes": "13",
       "parent": null,
       "id": "1337117172",
       "detailed_rating": {
@@ -91854,12 +91854,16 @@
             [
                "DELETED",
                1695208838
+            ],
+            [
+               "8319365",
+               1709912304
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 11,
-      "justified_votes": 11
+      "justified_rating": 12,
+      "justified_votes": 12
    },
    "1647158755": {
       "title": "SCP-ZH-106 - 「逆模因」",
