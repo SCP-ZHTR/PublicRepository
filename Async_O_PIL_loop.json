@@ -99052,8 +99052,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "13",
-      "votes": "13",
+      "rating": "14",
+      "votes": "14",
       "parent": null,
       "id": "1420693150",
       "detailed_rating": {
@@ -99109,12 +99109,16 @@
             [
                "DELETED",
                1695208325
+            ],
+            [
+               "8319365",
+               1709912804
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 12,
-      "justified_votes": 12
+      "justified_rating": 13,
+      "justified_votes": 13
    },
    "1660798966": {
       "title": "SCP-ZH-138 - 本文件的存儲位址有誤，已由非現實部門編輯",
