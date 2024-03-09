@@ -80248,8 +80248,8 @@
          "_image"
       ],
       "comments": "0",
-      "rating": "7",
-      "votes": "7",
+      "rating": "8",
+      "votes": "8",
       "parent": null,
       "id": "1329903206",
       "detailed_rating": {
@@ -80281,12 +80281,16 @@
             [
                "7226401",
                1641571200
+            ],
+            [
+               "9035648",
+               1709979853
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 7,
-      "justified_votes": 7
+      "justified_rating": 8,
+      "justified_votes": 8
    },
    "1635948621": {
       "title": "泡麵的基金會藝術作品整理頁",
