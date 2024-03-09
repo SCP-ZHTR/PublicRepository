@@ -132606,5 +132606,30 @@
       "deleted": false,
       "justified_rating": 1,
       "justified_votes": 1
+   },
+   "1709989765": {
+      "title": "SCP-7668 - 基金會冷——不酷",
+      "fullname": "scp-7668",
+      "created_at": "1709989765",
+      "created_by": "4357011",
+      "tags": [
+         "en",
+         "scp",
+         "本質促動",
+         "機密分級",
+         "無形",
+         "熱量影響",
+         "翻譯"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1452954945",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
