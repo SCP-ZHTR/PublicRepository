@@ -132237,7 +132237,7 @@
       "justified_votes": 2
    },
    "1708752529": {
-      "title": "SCP-8000 - 世界的邊緣",
+      "title": "SCP-8001 - 世界的邊緣",
       "fullname": "8000contestdjkaktus",
       "created_at": "1708752529",
       "created_by": "6217438",
@@ -132511,8 +132511,8 @@
          "_licensebox"
       ],
       "comments": "1",
-      "rating": "1",
-      "votes": "1",
+      "rating": "2",
+      "votes": "2",
       "parent": null,
       "id": "1452918408",
       "detailed_rating": {
@@ -132520,12 +132520,16 @@
             [
                "5370805",
                1709474731
+            ],
+            [
+               "6503482",
+               1710135659
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 1,
-      "justified_votes": 1
+      "justified_rating": 2,
+      "justified_votes": 2
    },
    "1709472971": {
       "title": "SCP-4594 - 倫敦地下有食道",
