@@ -132606,7 +132606,7 @@
       "comments": "1",
       "rating": "1",
       "votes": "1",
-      "parent": null,
+      "parent": "scp-001",
       "id": "1452926213",
       "detailed_rating": {
          "+": [
