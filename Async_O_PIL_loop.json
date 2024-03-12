@@ -128717,5 +128717,28 @@
       "deleted": true,
       "justified_rating": -2,
       "justified_votes": 8
+   },
+   "1710231426": {
+      "title": "系統還原與追溯部門 中心頁",
+      "fullname": "systematic-restoration-and-recollection-department",
+      "created_at": "1710231426",
+      "created_by": "5252281",
+      "tags": [
+         "中心",
+         "原創"
+      ],
+      "hidden_tags": [
+         "_cc",
+         "_禁黑"
+      ],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1453028314",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
