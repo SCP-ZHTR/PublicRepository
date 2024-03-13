@@ -27052,8 +27052,8 @@
          "_image"
       ],
       "comments": "0",
-      "rating": "14",
-      "votes": "16",
+      "rating": "15",
+      "votes": "17",
       "parent": null,
       "id": "986149432",
       "detailed_rating": {
@@ -27117,6 +27117,10 @@
             [
                "5454699",
                1617120000
+            ],
+            [
+               "8418020",
+               1710347327
             ]
          ],
          "-": [
@@ -27127,8 +27131,8 @@
          ]
       },
       "deleted": false,
-      "justified_rating": 14,
-      "justified_votes": 16
+      "justified_rating": 15,
+      "justified_votes": 17
    },
    "1578844247": {
       "title": "雕刻作品：聖夜相守",
