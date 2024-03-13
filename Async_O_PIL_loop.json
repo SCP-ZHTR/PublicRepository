@@ -23809,8 +23809,8 @@
          "_info"
       ],
       "comments": "7",
-      "rating": "24",
-      "votes": "24",
+      "rating": "25",
+      "votes": "25",
       "parent": null,
       "id": "985828979",
       "detailed_rating": {
@@ -23910,12 +23910,16 @@
             [
                "4351112",
                1617120000
+            ],
+            [
+               "8418020",
+               1710347077
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 24,
-      "justified_votes": 24
+      "justified_rating": 25,
+      "justified_votes": 25
    },
    "1576930745": {
       "title": "Site-ZH-17 Ananke區標誌",
