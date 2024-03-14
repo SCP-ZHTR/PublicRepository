@@ -32168,8 +32168,8 @@
          "_info"
       ],
       "comments": "0",
-      "rating": "15",
-      "votes": "17",
+      "rating": "16",
+      "votes": "18",
       "parent": null,
       "id": "999246389",
       "detailed_rating": {
@@ -32237,6 +32237,10 @@
             [
                "7064164",
                1707568742
+            ],
+            [
+               "8452537",
+               1710406360
             ]
          ],
          "-": [
@@ -32247,8 +32251,8 @@
          ]
       },
       "deleted": false,
-      "justified_rating": 15,
-      "justified_votes": 17
+      "justified_rating": 16,
+      "justified_votes": 18
    },
    "1583077965": {
       "title": "星界之前",
