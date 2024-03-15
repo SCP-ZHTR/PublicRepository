@@ -62260,8 +62260,8 @@
          "_cc"
       ],
       "comments": "11",
-      "rating": "23",
-      "votes": "25",
+      "rating": "24",
+      "votes": "26",
       "parent": null,
       "id": "1307007683",
       "detailed_rating": {
@@ -62361,6 +62361,10 @@
             [
                "6678442",
                1684923660
+            ],
+            [
+               "8319365",
+               1710514290
             ]
          ],
          "-": [
@@ -62371,8 +62375,8 @@
          ]
       },
       "deleted": false,
-      "justified_rating": 23,
-      "justified_votes": 25
+      "justified_rating": 24,
+      "justified_votes": 26
    },
    "1614696592": {
       "title": "SCP-ZH-240 - 明燈",
@@ -123249,8 +123253,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "10",
-      "votes": "10",
+      "rating": "11",
+      "votes": "11",
       "parent": null,
       "id": "1451119436",
       "detailed_rating": {
@@ -123294,12 +123298,16 @@
             [
                "5435485",
                1699373118
+            ],
+            [
+               "8418020",
+               1710514290
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 10,
-      "justified_votes": 10
+      "justified_rating": 11,
+      "justified_votes": 11
    },
    "1698507569": {
       "title": "SCP-ZH-336 - 小撇步",
