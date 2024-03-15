@@ -132339,8 +132339,8 @@
          "_licensebox"
       ],
       "comments": "1",
-      "rating": "5",
-      "votes": "5",
+      "rating": "6",
+      "votes": "6",
       "parent": null,
       "id": "1452775665",
       "detailed_rating": {
@@ -132364,12 +132364,16 @@
             [
                "5565302",
                1709113446
+            ],
+            [
+               "8792088",
+               1710496382
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 5,
-      "justified_votes": 5
+      "justified_rating": 6,
+      "justified_votes": 6
    },
    "1708865999": {
       "title": "豺犬遇挾譚",
