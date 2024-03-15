@@ -128813,8 +128813,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "3",
-      "votes": "3",
+      "rating": "4",
+      "votes": "4",
       "parent": null,
       "id": "1453041235",
       "detailed_rating": {
@@ -128830,12 +128830,16 @@
             [
                "8452537",
                1710433027
+            ],
+            [
+               "5435485",
+               1710505643
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 3,
-      "justified_votes": 3
+      "justified_rating": 4,
+      "justified_votes": 4
    },
    "1710431151": {
       "title": "SCP-ZH-4202-EX - 一個，或者若干個SCP-2747的特例，可能代表世代與世代間鴻溝產生的隔閡，或象徵亞文化曇花一現後產生的殘餘",
@@ -128851,8 +128855,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "7",
-      "votes": "7",
+      "rating": "8",
+      "votes": "8",
       "parent": null,
       "id": "1453041474",
       "detailed_rating": {
@@ -128884,12 +128888,16 @@
             [
                "4990678",
                1710489406
+            ],
+            [
+               "5435485",
+               1710505643
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 7,
-      "justified_votes": 7
+      "justified_rating": 8,
+      "justified_votes": 8
    },
    "1710487959": {
       "title": "SCP-ZH-156 - 愛維斯之卵",
@@ -128903,8 +128911,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "5",
-      "votes": "5",
+      "rating": "6",
+      "votes": "6",
       "parent": null,
       "id": "1453044495",
       "detailed_rating": {
@@ -128928,11 +128936,15 @@
             [
                "5565302",
                1710498308
+            ],
+            [
+               "5435485",
+               1710505643
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 5,
-      "justified_votes": 5
+      "justified_rating": 6,
+      "justified_votes": 6
    }
 }
