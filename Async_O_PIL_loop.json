@@ -28970,8 +28970,8 @@
          "_第八處-goi格式"
       ],
       "comments": "1",
-      "rating": "21",
-      "votes": "21",
+      "rating": "22",
+      "votes": "22",
       "parent": null,
       "id": "986613962",
       "detailed_rating": {
@@ -29059,12 +29059,16 @@
             [
                "4351112",
                1617120000
+            ],
+            [
+               "8418020",
+               1710513681
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 21,
-      "justified_votes": 21
+      "justified_rating": 22,
+      "justified_votes": 22
    },
    "1580986958": {
       "title": "SCP-ZH-108 - 團圓",
