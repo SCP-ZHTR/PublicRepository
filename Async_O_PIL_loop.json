@@ -128752,8 +128752,8 @@
          "_禁黑"
       ],
       "comments": "0",
-      "rating": "8",
-      "votes": "8",
+      "rating": "9",
+      "votes": "9",
       "parent": null,
       "id": "1453028314",
       "detailed_rating": {
@@ -128789,12 +128789,16 @@
             [
                "7504530",
                1710487943
+            ],
+            [
+               "8792088",
+               1710496379
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 8,
-      "justified_votes": 8
+      "justified_rating": 9,
+      "justified_votes": 9
    },
    "1710426638": {
       "title": "驚蟄",
