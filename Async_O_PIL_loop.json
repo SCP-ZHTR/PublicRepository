@@ -109483,8 +109483,8 @@
          "_image"
       ],
       "comments": "3",
-      "rating": "20",
-      "votes": "20",
+      "rating": "21",
+      "votes": "21",
       "parent": null,
       "id": "1445882296",
       "detailed_rating": {
@@ -109568,12 +109568,16 @@
             [
                "DELETED",
                1695207224
+            ],
+            [
+               "8792088",
+               1710554910
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 19,
-      "justified_votes": 19
+      "justified_rating": 20,
+      "justified_votes": 20
    },
    "1675592785": {
       "title": "斷開連結",
