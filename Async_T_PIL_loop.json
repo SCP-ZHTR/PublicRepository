@@ -28231,8 +28231,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "4",
-      "votes": "4",
+      "rating": "5",
+      "votes": "5",
       "parent": "scp-093",
       "id": "1002301383",
       "detailed_rating": {
@@ -28252,12 +28252,16 @@
             [
                "5435485",
                1617120000
+            ],
+            [
+               "8792088",
+               1710548127
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 4,
-      "justified_votes": 4
+      "justified_rating": 5,
+      "justified_votes": 5
    },
    "1585123875": {
       "title": "藏在我夢底的那 個 東 西",
