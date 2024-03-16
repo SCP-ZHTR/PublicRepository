@@ -128861,8 +128861,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "4",
-      "votes": "4",
+      "rating": "5",
+      "votes": "5",
       "parent": null,
       "id": "1453041235",
       "detailed_rating": {
@@ -128882,12 +128882,16 @@
             [
                "5435485",
                1710505643
+            ],
+            [
+               "5370805",
+               1710621625
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 4,
-      "justified_votes": 4
+      "justified_rating": 5,
+      "justified_votes": 5
    },
    "1710431151": {
       "title": "SCP-ZH-4202-EX - 一個，或者若干個SCP-2747的特例，可能代表世代與世代間鴻溝產生的隔閡，或象徵亞文化曇花一現後產生的殘餘",
