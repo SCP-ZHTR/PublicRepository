@@ -63626,8 +63626,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "17",
-      "votes": "17",
+      "rating": "18",
+      "votes": "18",
       "parent": null,
       "id": "1307247385",
       "detailed_rating": {
@@ -63699,12 +63699,16 @@
             [
                "5454699",
                1617120000
+            ],
+            [
+               "8319365",
+               1710602463
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 17,
-      "justified_votes": 17
+      "justified_rating": 18,
+      "justified_votes": 18
    },
    "1615913138": {
       "title": "你會感到後悔嗎？",
