@@ -13346,8 +13346,8 @@
          "_info"
       ],
       "comments": "1",
-      "rating": "32",
-      "votes": "32",
+      "rating": "33",
+      "votes": "33",
       "parent": null,
       "id": "853572163",
       "detailed_rating": {
@@ -13479,12 +13479,16 @@
             [
                "DELETED",
                "[UNKNOWN]"
+            ],
+            [
+               "8319365",
+               1710604791
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 31,
-      "justified_votes": 31
+      "justified_rating": 32,
+      "justified_votes": 32
    },
    "1565025325": {
       "title": "Ctrl Z博士的SCP記錄：SCP-049瘟疫醫生",
