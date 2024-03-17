@@ -128800,8 +128800,8 @@
          "_禁黑"
       ],
       "comments": "0",
-      "rating": "9",
-      "votes": "9",
+      "rating": "10",
+      "votes": "10",
       "parent": null,
       "id": "1453028314",
       "detailed_rating": {
@@ -128841,12 +128841,16 @@
             [
                "8792088",
                1710496379
+            ],
+            [
+               "6503482",
+               1710648266
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 9,
-      "justified_votes": 9
+      "justified_rating": 10,
+      "justified_votes": 10
    },
    "1710426638": {
       "title": "驚蟄",
@@ -128861,8 +128865,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "5",
-      "votes": "5",
+      "rating": "6",
+      "votes": "6",
       "parent": null,
       "id": "1453041235",
       "detailed_rating": {
@@ -128886,12 +128890,16 @@
             [
                "5370805",
                1710621625
+            ],
+            [
+               "6503482",
+               1710648266
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 5,
-      "justified_votes": 5
+      "justified_rating": 6,
+      "justified_votes": 6
    },
    "1710431151": {
       "title": "SCP-ZH-4202-EX - 一個，或者若干個SCP-2747的特例，可能代表世代與世代間鴻溝產生的隔閡，或象徵亞文化曇花一現後產生的殘餘",
@@ -128907,8 +128915,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "9",
-      "votes": "9",
+      "rating": "10",
+      "votes": "10",
       "parent": null,
       "id": "1453041474",
       "detailed_rating": {
@@ -128948,12 +128956,16 @@
             [
                "6381244",
                1710513551
+            ],
+            [
+               "6503482",
+               1710648266
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 9,
-      "justified_votes": 9
+      "justified_rating": 10,
+      "justified_votes": 10
    },
    "1710487959": {
       "title": "SCP-ZH-156 - 愛維斯之卵",
