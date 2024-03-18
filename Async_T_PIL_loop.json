@@ -125958,8 +125958,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "3",
-      "votes": "3",
+      "rating": "4",
+      "votes": "4",
       "parent": null,
       "id": "1450624321",
       "detailed_rating": {
@@ -125975,12 +125975,16 @@
             [
                "5370805",
                1697192123
+            ],
+            [
+               "7655555",
+               1710734207
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 3,
-      "justified_votes": 3
+      "justified_rating": 4,
+      "justified_votes": 4
    },
    "1697212799": {
       "title": "SCP-6013 - 愛琴海的利維坦",
