@@ -5077,8 +5077,8 @@
          "_licensebox"
       ],
       "comments": "1",
-      "rating": "5",
-      "votes": "5",
+      "rating": "6",
+      "votes": "6",
       "parent": "deer-college-hub",
       "id": "760742065",
       "detailed_rating": {
@@ -5102,12 +5102,16 @@
             [
                "DELETED",
                "[UNKNOWN]"
+            ],
+            [
+               "4239775",
+               1710739893
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 4,
-      "justified_votes": 4
+      "justified_rating": 5,
+      "justified_votes": 5
    },
    "1556538898": {
       "title": "SCP-963 - 不朽",
@@ -103292,16 +103296,12 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "6",
-      "votes": "6",
+      "rating": "7",
+      "votes": "7",
       "parent": "scpdeclassified",
       "id": "1437006433",
       "detailed_rating": {
          "+": [
-            [
-               "7469850",
-               1667664000
-            ],
             [
                "6217438",
                1667318400
@@ -103321,6 +103321,14 @@
             [
                "5435485",
                1667318400
+            ],
+            [
+               "4239775",
+               1710739893
+            ],
+            [
+               "DELETED",
+               1710739893
             ]
          ]
       },
