@@ -48938,8 +48938,8 @@
          "_賞金1200字"
       ],
       "comments": "1",
-      "rating": "10",
-      "votes": "10",
+      "rating": "11",
+      "votes": "11",
       "parent": null,
       "id": "1261307923",
       "detailed_rating": {
@@ -48983,12 +48983,16 @@
             [
                "5454699",
                1617120000
+            ],
+            [
+               "8884787",
+               1710977990
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 10,
-      "justified_votes": 10
+      "justified_rating": 11,
+      "justified_votes": 11
    },
    "1597942805": {
       "title": "緞帶飄飄，鈴擺噹噹",
