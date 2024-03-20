@@ -93576,8 +93576,8 @@
       ],
       "hidden_tags": [],
       "comments": "6",
-      "rating": "19",
-      "votes": "19",
+      "rating": "20",
+      "votes": "20",
       "parent": null,
       "id": "1402055480",
       "detailed_rating": {
@@ -93657,12 +93657,16 @@
             [
                "8404617",
                1699921754
+            ],
+            [
+               "8846720",
+               1710932562
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 18,
-      "justified_votes": 18
+      "justified_rating": 19,
+      "justified_votes": 19
    },
    "1650188680": {
       "title": "布魯克林第零區：完形崩壞",
