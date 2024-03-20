@@ -123074,8 +123074,8 @@
          "_cc"
       ],
       "comments": "1",
-      "rating": "26",
-      "votes": "26",
+      "rating": "27",
+      "votes": "27",
       "parent": null,
       "id": "1451118135",
       "detailed_rating": {
@@ -123183,12 +123183,16 @@
             [
                "5454699",
                1698500464
+            ],
+            [
+               "8846720",
+               1710915490
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 26,
-      "justified_votes": 26
+      "justified_rating": 27,
+      "justified_votes": 27
    },
    "1698501386": {
       "title": "SCP-ZH-806 - 我是為了你好",
