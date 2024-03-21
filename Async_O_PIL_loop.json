@@ -19616,8 +19616,8 @@
          "_info"
       ],
       "comments": "0",
-      "rating": "22",
-      "votes": "22",
+      "rating": "23",
+      "votes": "23",
       "parent": null,
       "id": "934171497",
       "detailed_rating": {
@@ -19709,12 +19709,16 @@
             [
                "8854072",
                1700820202
+            ],
+            [
+               "8884787",
+               1711028994
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 22,
-      "justified_votes": 22
+      "justified_rating": 23,
+      "justified_votes": 23
    },
    "1573913118": {
       "title": "第〇二二號 兩儀通",
