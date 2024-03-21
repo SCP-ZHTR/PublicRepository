@@ -125073,8 +125073,8 @@
          "_licensebox"
       ],
       "comments": "0",
-      "rating": "5",
-      "votes": "5",
+      "rating": "6",
+      "votes": "6",
       "parent": null,
       "id": "1450409948",
       "detailed_rating": {
@@ -125098,12 +125098,16 @@
             [
                "7504530",
                1696809330
+            ],
+            [
+               "8884787",
+               1711037345
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 5,
-      "justified_votes": 5
+      "justified_rating": 6,
+      "justified_votes": 6
    },
    "1696700365": {
       "title": "萬象之源（宇宙史）：第四章",
