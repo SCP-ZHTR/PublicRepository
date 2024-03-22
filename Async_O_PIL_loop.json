@@ -39056,7 +39056,9 @@
          "爆旋壽司",
          "闇壽司"
       ],
-      "hidden_tags": [],
+      "hidden_tags": [
+         "_闇壽司-goi格式"
+      ],
       "comments": "4",
       "rating": "11",
       "votes": "11",
@@ -46017,7 +46019,8 @@
       ],
       "hidden_tags": [
          "_cc",
-         "_賞金反"
+         "_賞金反",
+         "_闇壽司-goi格式"
       ],
       "comments": "3",
       "rating": "10",
@@ -52047,7 +52050,8 @@
          "闇壽司"
       ],
       "hidden_tags": [
-         "_cc"
+         "_cc",
+         "_闇壽司-goi格式"
       ],
       "comments": "1",
       "rating": "14",
