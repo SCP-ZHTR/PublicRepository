@@ -97492,8 +97492,8 @@
          "_禁黑"
       ],
       "comments": "0",
-      "rating": "10",
-      "votes": "10",
+      "rating": "11",
+      "votes": "11",
       "parent": null,
       "id": "1420358086",
       "detailed_rating": {
@@ -97537,12 +97537,16 @@
             [
                "DELETED",
                1691899177
+            ],
+            [
+               "8884787",
+               1711078518
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 9,
-      "justified_votes": 9
+      "justified_rating": 10,
+      "justified_votes": 10
    },
    "1659110400": {
       "title": "SCP-ZH-403 - 禁臠與終止符",
