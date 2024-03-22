@@ -129125,8 +129125,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "2",
-      "votes": "2",
+      "rating": "1",
+      "votes": "1",
       "parent": null,
       "id": "1453112803",
       "detailed_rating": {
@@ -129134,15 +129134,11 @@
             [
                "4990678",
                1711113826
-            ],
-            [
-               "5435485",
-               1711114554
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 2,
-      "justified_votes": 2
+      "justified_rating": 1,
+      "justified_votes": 1
    }
 }
