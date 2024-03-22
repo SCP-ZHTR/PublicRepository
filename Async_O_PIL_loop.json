@@ -7993,8 +7993,8 @@
          "_info"
       ],
       "comments": "3",
-      "rating": "13",
-      "votes": "15",
+      "rating": "14",
+      "votes": "16",
       "parent": null,
       "id": "799614793",
       "detailed_rating": {
@@ -8054,6 +8054,10 @@
             [
                "DELETED",
                "[UNKNOWN]"
+            ],
+            [
+               "8884787",
+               1711079260
             ]
          ],
          "-": [
@@ -8064,8 +8068,8 @@
          ]
       },
       "deleted": false,
-      "justified_rating": 12,
-      "justified_votes": 14
+      "justified_rating": 13,
+      "justified_votes": 15
    },
    "1558278720": {
       "title": "無月之夜",
