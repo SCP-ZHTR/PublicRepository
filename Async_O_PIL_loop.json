@@ -117319,8 +117319,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "16",
-      "votes": "16",
+      "rating": "17",
+      "votes": "17",
       "parent": "scp-zh-923",
       "id": "1449525947",
       "detailed_rating": {
@@ -117388,12 +117388,16 @@
             [
                "5338547",
                1692832548
+            ],
+            [
+               "8319365",
+               1711121217
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 16,
-      "justified_votes": 16
+      "justified_rating": 17,
+      "justified_votes": 17
    },
    "1692844778": {
       "title": "外部解密：《只有你能看見的老鼠》",
@@ -124790,8 +124794,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "18",
-      "votes": "18",
+      "rating": "19",
+      "votes": "19",
       "parent": null,
       "id": "1451984304",
       "detailed_rating": {
@@ -124867,12 +124871,16 @@
             [
                "6952002",
                1707664848
+            ],
+            [
+               "8319365",
+               1711121217
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 18,
-      "justified_votes": 18
+      "justified_rating": 19,
+      "justified_votes": 19
    },
    "1703678970": {
       "title": "事件代號：核裂擠兌-誓言",
@@ -127045,8 +127053,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "16",
-      "votes": "16",
+      "rating": "17",
+      "votes": "17",
       "parent": null,
       "id": "1452567162",
       "detailed_rating": {
@@ -127114,12 +127122,16 @@
             [
                "5701756",
                1709608207
+            ],
+            [
+               "8319365",
+               1711121217
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 16,
-      "justified_votes": 16
+      "justified_rating": 17,
+      "justified_votes": 17
    },
    "1707306454": {
       "title": "SCP-ZH-287 - 拿棒子打",
