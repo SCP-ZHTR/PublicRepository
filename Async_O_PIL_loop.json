@@ -24397,8 +24397,8 @@
          "_info"
       ],
       "comments": "0",
-      "rating": "12",
-      "votes": "12",
+      "rating": "13",
+      "votes": "13",
       "parent": null,
       "id": "985917734",
       "detailed_rating": {
@@ -24450,12 +24450,16 @@
             [
                "5817419",
                1617120000
+            ],
+            [
+               "8319365",
+               1711120472
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 12,
-      "justified_votes": 12
+      "justified_rating": 13,
+      "justified_votes": 13
    },
    "1577232004": {
       "title": "聖誕帽，這是Dr. Xmas的日子",
@@ -128676,8 +128680,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "7",
-      "votes": "7",
+      "rating": "8",
+      "votes": "8",
       "parent": null,
       "id": "1452924455",
       "detailed_rating": {
@@ -128709,12 +128713,16 @@
             [
                "6503482",
                1709648882
+            ],
+            [
+               "8319365",
+               1711120472
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 7,
-      "justified_votes": 7
+      "justified_rating": 8,
+      "justified_votes": 8
    },
    "1709708404": {
       "title": "SCP-ZH-728 - 夜之方舟與日之使徒",
