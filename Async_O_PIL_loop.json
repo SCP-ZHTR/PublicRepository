@@ -129110,5 +129110,28 @@
       "deleted": false,
       "justified_rating": 8,
       "justified_votes": 8
+   },
+   "1711111887": {
+      "title": "SCP-ZH-368 - 薛丁格的室友",
+      "fullname": "scp-zh-368",
+      "created_at": "1711111887",
+      "created_by": "6709715",
+      "tags": [
+         "safe",
+         "scp",
+         "site-zh-11",
+         "人形",
+         "原創"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1453112803",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
