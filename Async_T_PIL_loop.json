@@ -131893,8 +131893,8 @@
          "_禁黑"
       ],
       "comments": "0",
-      "rating": "4",
-      "votes": "4",
+      "rating": "5",
+      "votes": "5",
       "parent": null,
       "id": "1452605554",
       "detailed_rating": {
@@ -131914,12 +131914,16 @@
             [
                "5701756",
                1708314069
+            ],
+            [
+               "8546930",
+               1711188731
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 4,
-      "justified_votes": 4
+      "justified_rating": 5,
+      "justified_votes": 5
    },
    "1707748199": {
       "title": "小狗",
