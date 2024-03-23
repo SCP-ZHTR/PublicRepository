@@ -120640,8 +120640,8 @@
          "_你感覺到了嗎"
       ],
       "comments": "0",
-      "rating": "18",
-      "votes": "18",
+      "rating": "19",
+      "votes": "19",
       "parent": null,
       "id": "1450099172",
       "detailed_rating": {
@@ -120717,12 +120717,16 @@
             [
                "7513990",
                1704206313
+            ],
+            [
+               "7486905",
+               1711214250
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 18,
-      "justified_votes": 18
+      "justified_rating": 19,
+      "justified_votes": 19
    },
    "1695568216": {
       "title": "SCP-ZH-690 - Unwarranted",
@@ -125772,8 +125776,8 @@
          "_cc"
       ],
       "comments": "1",
-      "rating": "17",
-      "votes": "17",
+      "rating": "18",
+      "votes": "18",
       "parent": null,
       "id": "1452234237",
       "detailed_rating": {
@@ -125845,12 +125849,16 @@
             [
                "8404617",
                1708877743
+            ],
+            [
+               "7486905",
+               1711214250
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 17,
-      "justified_votes": 17
+      "justified_rating": 18,
+      "justified_votes": 18
    },
    "1706255799": {
       "title": "犯安四十七：準備就緒",
@@ -126840,8 +126848,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "10",
-      "votes": "10",
+      "rating": "11",
+      "votes": "11",
       "parent": null,
       "id": "1452532804",
       "detailed_rating": {
@@ -126885,12 +126893,16 @@
             [
                "5338547",
                1707312344
+            ],
+            [
+               "7486905",
+               1711214250
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 10,
-      "justified_votes": 10
+      "justified_rating": 11,
+      "justified_votes": 11
    },
    "1707239809": {
       "title": "【提問】開台四百年要做什麼？",
