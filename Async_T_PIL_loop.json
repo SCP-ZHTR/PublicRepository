@@ -89914,8 +89914,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "7",
-      "votes": "9",
+      "rating": "8",
+      "votes": "10",
       "parent": "guide-for-newcomers",
       "id": "1402766501",
       "detailed_rating": {
@@ -89951,6 +89951,10 @@
             [
                "DELETED",
                1706355344
+            ],
+            [
+               "9075244",
+               1711206428
             ]
          ],
          "-": [
@@ -89961,8 +89965,8 @@
          ]
       },
       "deleted": false,
-      "justified_rating": 6,
-      "justified_votes": 8
+      "justified_rating": 7,
+      "justified_votes": 9
    },
    "1651653472": {
       "title": "SCP-206 - 旅行者",
