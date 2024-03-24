@@ -51192,8 +51192,8 @@
       ],
       "hidden_tags": [],
       "comments": "3",
-      "rating": "9",
-      "votes": "9",
+      "rating": "10",
+      "votes": "10",
       "parent": null,
       "id": "1304769916",
       "detailed_rating": {
@@ -51233,12 +51233,16 @@
             [
                "5415046",
                1617120000
+            ],
+            [
+               "8319365",
+               1711287150
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 9,
-      "justified_votes": 9
+      "justified_rating": 10,
+      "justified_votes": 10
    },
    "1600439100": {
       "title": "SCP-ZH-444 - 鬼差",
