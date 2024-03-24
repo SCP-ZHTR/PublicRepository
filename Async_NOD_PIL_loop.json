@@ -24178,24 +24178,26 @@
       "tags": [],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "2",
+      "rating": "0",
       "votes": "2",
       "parent": null,
       "id": "1452199061",
       "detailed_rating": {
          "+": [
             [
-               "8543386",
-               1708763188
-            ],
-            [
                "8883612",
                1709469148
+            ]
+         ],
+         "-": [
+            [
+               "8543386",
+               1711277549
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 2,
+      "justified_rating": 0,
       "justified_votes": 2
    },
    "1705723289": {
