@@ -66596,8 +66596,8 @@
       ],
       "hidden_tags": [],
       "comments": "2",
-      "rating": "31",
-      "votes": "31",
+      "rating": "32",
+      "votes": "32",
       "parent": null,
       "id": "1308613950",
       "detailed_rating": {
@@ -66725,12 +66725,16 @@
             [
                "7313177",
                1618761600
+            ],
+            [
+               "9075244",
+               1711245039
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 31,
-      "justified_votes": 31
+      "justified_rating": 32,
+      "justified_votes": 32
    },
    "1618587573": {
       "title": "SCP-ZH-162 - TEIC演算法",
@@ -121442,8 +121446,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "27",
-      "votes": "27",
+      "rating": "28",
+      "votes": "28",
       "parent": null,
       "id": "1450766552",
       "detailed_rating": {
@@ -121555,12 +121559,16 @@
             [
                "8999082",
                1706332417
+            ],
+            [
+               "9075244",
+               1711245039
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 27,
-      "justified_votes": 27
+      "justified_rating": 28,
+      "justified_votes": 28
    },
    "1697472129": {
       "title": "《極短篇合集》節錄之一",
