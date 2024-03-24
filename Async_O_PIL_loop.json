@@ -71962,8 +71962,8 @@
          "_b1"
       ],
       "comments": "0",
-      "rating": "26",
-      "votes": "30",
+      "rating": "27",
+      "votes": "31",
       "parent": null,
       "id": "1312272087",
       "detailed_rating": {
@@ -72079,6 +72079,10 @@
             [
                "DELETED",
                1695271138
+            ],
+            [
+               "9075244",
+               1711245171
             ]
          ],
          "-": [
@@ -72093,8 +72097,8 @@
          ]
       },
       "deleted": false,
-      "justified_rating": 24,
-      "justified_votes": 28
+      "justified_rating": 25,
+      "justified_votes": 29
    },
    "1625366104": {
       "title": "SCP-ZH-571 - 不可視的追跡者",
