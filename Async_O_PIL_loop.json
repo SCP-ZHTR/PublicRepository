@@ -41329,8 +41329,8 @@
       ],
       "hidden_tags": [],
       "comments": "2",
-      "rating": "14",
-      "votes": "14",
+      "rating": "15",
+      "votes": "15",
       "parent": null,
       "id": "1146670553",
       "detailed_rating": {
@@ -41390,12 +41390,16 @@
             [
                "8543386",
                1711244906
+            ],
+            [
+               "9075244",
+               1711257517
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 14,
-      "justified_votes": 14
+      "justified_rating": 15,
+      "justified_votes": 15
    },
    "1591602294": {
       "title": "個人日誌",
