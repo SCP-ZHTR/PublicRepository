@@ -96286,8 +96286,8 @@
          "_cc"
       ],
       "comments": "1",
-      "rating": "17",
-      "votes": "17",
+      "rating": "18",
+      "votes": "18",
       "parent": null,
       "id": "1403644568",
       "detailed_rating": {
@@ -96359,12 +96359,16 @@
             [
                "DELETED",
                1709892632
+            ],
+            [
+               "9075244",
+               1711268446
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 16,
-      "justified_votes": 16
+      "justified_rating": 17,
+      "justified_votes": 17
    },
    "1655944725": {
       "title": "site-zh-13站點標誌",
@@ -96380,8 +96384,8 @@
          "_cc"
       ],
       "comments": "2",
-      "rating": "3",
-      "votes": "3",
+      "rating": "4",
+      "votes": "4",
       "parent": null,
       "id": "1403671240",
       "detailed_rating": {
@@ -96397,12 +96401,16 @@
             [
                "5454699",
                1655913600
+            ],
+            [
+               "9075244",
+               1711268446
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 3,
-      "justified_votes": 3
+      "justified_rating": 4,
+      "justified_votes": 4
    },
    "1656240335": {
       "title": "安眠華爾茲",
