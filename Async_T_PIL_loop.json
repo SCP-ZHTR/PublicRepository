@@ -17965,8 +17965,8 @@
          "_info"
       ],
       "comments": "1",
-      "rating": "5",
-      "votes": "5",
+      "rating": "6",
+      "votes": "6",
       "parent": null,
       "id": "868513200",
       "detailed_rating": {
@@ -17990,12 +17990,16 @@
             [
                "DELETED",
                "[UNKNOWN]"
+            ],
+            [
+               "9075244",
+               1711374730
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 4,
-      "justified_votes": 4
+      "justified_rating": 5,
+      "justified_votes": 5
    },
    "1567307073": {
       "title": "SCP-380-KO",
