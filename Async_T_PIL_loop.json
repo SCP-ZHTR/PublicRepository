@@ -132801,5 +132801,34 @@
       "deleted": false,
       "justified_rating": 2,
       "justified_votes": 2
+   },
+   "1711373258": {
+      "title": "SCP-1681-美國偶像",
+      "fullname": "scp-1681",
+      "created_at": "1711373258",
+      "created_by": "7504530",
+      "tags": [
+         "en",
+         "keter",
+         "scp",
+         "反熵",
+         "強迫性",
+         "格魯烏p部門",
+         "模因效應",
+         "翻譯",
+         "聽覺影響",
+         "認知危害",
+         "變形"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1453133892",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
