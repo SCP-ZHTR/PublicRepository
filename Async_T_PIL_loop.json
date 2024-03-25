@@ -11269,8 +11269,8 @@
          "_cc"
       ],
       "comments": "2",
-      "rating": "6",
-      "votes": "6",
+      "rating": "7",
+      "votes": "7",
       "parent": null,
       "id": "802365263",
       "detailed_rating": {
@@ -11298,12 +11298,16 @@
             [
                "DELETED",
                "[UNKNOWN]"
+            ],
+            [
+               "7655555",
+               1711328991
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 5,
-      "justified_votes": 5
+      "justified_rating": 6,
+      "justified_votes": 6
    },
    "1560350994": {
       "title": "摩耳甫斯計劃",
