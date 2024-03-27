@@ -132794,8 +132794,8 @@
          "_禁黑"
       ],
       "comments": "0",
-      "rating": "2",
-      "votes": "2",
+      "rating": "3",
+      "votes": "3",
       "parent": null,
       "id": "1452954945",
       "detailed_rating": {
@@ -132807,12 +132807,16 @@
             [
                "8177208",
                1710198378
+            ],
+            [
+               "7571354",
+               1711550352
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 2,
-      "justified_votes": 2
+      "justified_rating": 3,
+      "justified_votes": 3
    },
    "1711373258": {
       "title": "SCP-1681 - 美國偶像",
@@ -132870,8 +132874,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "5",
-      "votes": "5",
+      "rating": "6",
+      "votes": "6",
       "parent": null,
       "id": "1453145625",
       "detailed_rating": {
