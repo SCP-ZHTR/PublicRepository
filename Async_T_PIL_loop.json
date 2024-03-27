@@ -118353,8 +118353,8 @@
          "_licensebox"
       ],
       "comments": "0",
-      "rating": "4",
-      "votes": "4",
+      "rating": "5",
+      "votes": "5",
       "parent": null,
       "id": "1447742357",
       "detailed_rating": {
@@ -118374,12 +118374,16 @@
             [
                "4442284",
                1684163159
+            ],
+            [
+               "8884787",
+               1711583926
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 4,
-      "justified_votes": 4
+      "justified_rating": 5,
+      "justified_votes": 5
    },
    "1684127548": {
       "title": "SCP-4264 - 卡爾霍恩縣的教案",
