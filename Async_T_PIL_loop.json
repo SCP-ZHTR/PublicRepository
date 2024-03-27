@@ -132842,5 +132842,41 @@
       "deleted": false,
       "justified_rating": 0,
       "justified_votes": 0
+   },
+   "1711546201": {
+      "title": "SCP-8000 - 信海豹可",
+      "fullname": "scp-8000",
+      "created_at": "1711546201",
+      "created_by": "7605593",
+      "tags": [
+         "asheworth博士",
+         "blank博士",
+         "cimmerian博士",
+         "en",
+         "en-8000",
+         "integration-program",
+         "lague主任",
+         "safe",
+         "scp",
+         "thereven博士",
+         "傳送",
+         "動物",
+         "圖書館",
+         "未收容",
+         "活物",
+         "翻譯",
+         "超維度",
+         "預測性"
+      ],
+      "hidden_tags": [],
+      "comments": "1",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1453145625",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
