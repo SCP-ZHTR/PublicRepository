@@ -34754,8 +34754,8 @@
          "_cc"
       ],
       "comments": "0",
-      "rating": "32",
-      "votes": "32",
+      "rating": "33",
+      "votes": "33",
       "parent": null,
       "id": "1024272386",
       "detailed_rating": {
@@ -34887,12 +34887,16 @@
             [
                "7655555",
                1708185244
+            ],
+            [
+               "9075244",
+               1711624310
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 31,
-      "justified_votes": 31
+      "justified_rating": 32,
+      "justified_votes": 32
    },
    "1586533262": {
       "title": "SCP-ZH-076 - 廿載明昭",
@@ -50418,8 +50422,8 @@
          "_cc"
       ],
       "comments": "0",
-      "rating": "42",
-      "votes": "44",
+      "rating": "43",
+      "votes": "45",
       "parent": null,
       "id": "1277569540",
       "detailed_rating": {
@@ -50595,6 +50599,10 @@
             [
                "5215451",
                1617120000
+            ],
+            [
+               "9075244",
+               1711624310
             ]
          ],
          "-": [
@@ -50605,8 +50613,8 @@
          ]
       },
       "deleted": false,
-      "justified_rating": 41,
-      "justified_votes": 43
+      "justified_rating": 42,
+      "justified_votes": 44
    },
    "1599654620": {
       "title": "蛛網國際 中心頁",
@@ -100098,8 +100106,8 @@
          "_cc"
       ],
       "comments": "6",
-      "rating": "37",
-      "votes": "37",
+      "rating": "38",
+      "votes": "38",
       "parent": null,
       "id": "1435461511",
       "detailed_rating": {
@@ -100251,12 +100259,16 @@
             [
                "8404617",
                1709007567
+            ],
+            [
+               "9075244",
+               1711624310
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 36,
-      "justified_votes": 36
+      "justified_rating": 37,
+      "justified_votes": 37
    },
    "1662187896": {
       "title": "SCP-ZH-441 - 只能以這種方式錯誤地惦記被碾壓而亡的屍體",
