@@ -79115,8 +79115,8 @@
          "_image"
       ],
       "comments": "1",
-      "rating": "9",
-      "votes": "9",
+      "rating": "10",
+      "votes": "10",
       "parent": null,
       "id": "1331238958",
       "detailed_rating": {
@@ -79156,12 +79156,16 @@
             [
                "DELETED",
                1709533713
+            ],
+            [
+               "8884787",
+               1711641828
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 8,
-      "justified_votes": 8
+      "justified_rating": 9,
+      "justified_votes": 9
    },
    "1641305475": {
       "title": "SCP-143 - 刃木之森",
