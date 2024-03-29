@@ -132926,8 +132926,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "7",
-      "votes": "7",
+      "rating": "8",
+      "votes": "8",
       "parent": null,
       "id": "1453145625",
       "detailed_rating": {
@@ -132959,12 +132959,16 @@
             [
                "8884787",
                1711551499
+            ],
+            [
+               "8792088",
+               1711710381
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 7,
-      "justified_votes": 7
+      "justified_rating": 8,
+      "justified_votes": 8
    },
    "1711605122": {
       "title": "SCP-1161 - 如何之書",
