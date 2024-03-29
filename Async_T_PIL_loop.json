@@ -60360,8 +60360,8 @@
          "_licensebox"
       ],
       "comments": "1",
-      "rating": "2",
-      "votes": "2",
+      "rating": "3",
+      "votes": "3",
       "parent": null,
       "id": "1308466262",
       "detailed_rating": {
@@ -60373,12 +60373,16 @@
             [
                "4442284",
                1618156800
+            ],
+            [
+               "8884787",
+               1711700807
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 2,
-      "justified_votes": 2
+      "justified_rating": 3,
+      "justified_votes": 3
    },
    "1617360241": {
       "title": "實驗記錄 1258",
