@@ -119325,8 +119325,8 @@
          "_核心"
       ],
       "comments": "0",
-      "rating": "10",
-      "votes": "10",
+      "rating": "11",
+      "votes": "11",
       "parent": null,
       "id": "1450048743",
       "detailed_rating": {
@@ -119370,12 +119370,16 @@
             [
                "5013754",
                1695448584
+            ],
+            [
+               "8884787",
+               1711696904
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 10,
-      "justified_votes": 10
+      "justified_rating": 11,
+      "justified_votes": 11
    },
    "1695130027": {
       "title": "SCP-ZH-187 - 核心彈珠家庭",
