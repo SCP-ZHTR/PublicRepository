@@ -63218,8 +63218,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "1",
-      "votes": "1",
+      "rating": "0",
+      "votes": "2",
       "parent": null,
       "id": "1310925858",
       "detailed_rating": {
@@ -63228,11 +63228,17 @@
                "5344757",
                1620489600
             ]
+         ],
+         "-": [
+            [
+               "7916187",
+               1711801757
+            ]
          ]
       },
       "deleted": false,
-      "justified_rating": 1,
-      "justified_votes": 1
+      "justified_rating": 0,
+      "justified_votes": 2
    },
    "1619712018": {
       "title": "SCP-5023 - 人類的原始需求",
