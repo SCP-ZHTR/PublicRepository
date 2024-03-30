@@ -132842,8 +132842,8 @@
          "_licensebox"
       ],
       "comments": "1",
-      "rating": "2",
-      "votes": "2",
+      "rating": "3",
+      "votes": "3",
       "parent": "scp-001",
       "id": "1452926213",
       "detailed_rating": {
@@ -132855,12 +132855,16 @@
             [
                "5338547",
                1710609247
+            ],
+            [
+               "8546930",
+               1711810721
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 2,
-      "justified_votes": 2
+      "justified_rating": 3,
+      "justified_votes": 3
    },
    "1709989765": {
       "title": "SCP-7668 - 基金會冷——不酷",
