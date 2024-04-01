@@ -13398,5 +13398,22 @@
       "deleted": false,
       "justified_rating": 9,
       "justified_votes": 9
+   },
+   "1711961742": {
+      "title": "SCP 298",
+      "fullname": "scp-298",
+      "created_at": "1711961742",
+      "created_by": "8884787",
+      "tags": [],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1453165196",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
