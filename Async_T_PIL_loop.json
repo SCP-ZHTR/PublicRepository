@@ -133073,5 +133073,31 @@
       "deleted": false,
       "justified_rating": 0,
       "justified_votes": 0
+   },
+   "1711973319": {
+      "title": "SCP-7014 - 讚美骰神",
+      "fullname": "scp-7014",
+      "created_at": "1711973319",
+      "created_by": "4357011",
+      "tags": [
+         "en",
+         "en-7000",
+         "scp",
+         "人造物品",
+         "待分級",
+         "機率性",
+         "翻譯",
+         "遊戲"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1453165997",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
