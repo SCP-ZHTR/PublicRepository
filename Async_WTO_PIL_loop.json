@@ -13351,8 +13351,8 @@
       "tags": [],
       "hidden_tags": [],
       "comments": "8",
-      "rating": "10",
-      "votes": "10",
+      "rating": "11",
+      "votes": "11",
       "parent": null,
       "id": "1453163118",
       "detailed_rating": {
@@ -13396,12 +13396,16 @@
             [
                "7476471",
                1711963511
+            ],
+            [
+               "5435485",
+               1711972138
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 10,
-      "justified_votes": 10
+      "justified_rating": 11,
+      "justified_votes": 11
    },
    "1711961742": {
       "title": "SCP 298",
