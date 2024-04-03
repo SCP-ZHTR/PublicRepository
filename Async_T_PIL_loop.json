@@ -133115,7 +133115,7 @@
       "hidden_tags": [],
       "comments": "0",
       "rating": "2",
-      "votes": "2",
+      "votes": "3",
       "parent": null,
       "id": "1453165997",
       "detailed_rating": {
@@ -133127,12 +133127,16 @@
             [
                "5251681",
                1712132847
+            ],
+            [
+               "8884787",
+               1712175488
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 2,
-      "justified_votes": 2
+      "justified_rating": 3,
+      "justified_votes": 3
    },
    "1712065871": {
       "title": "2024年愚人節",
