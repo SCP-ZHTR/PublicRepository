@@ -28788,8 +28788,8 @@
          "_info"
       ],
       "comments": "7",
-      "rating": "46",
-      "votes": "46",
+      "rating": "47",
+      "votes": "47",
       "parent": null,
       "id": "986572505",
       "detailed_rating": {
@@ -28977,12 +28977,16 @@
             [
                "8962532",
                1706436205
+            ],
+            [
+               "5981123",
+               1712248185
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 46,
-      "justified_votes": 46
+      "justified_rating": 47,
+      "justified_votes": 47
    },
    "1580920204": {
       "title": "行動計劃 第叁捌肆字號",
