@@ -1287,8 +1287,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "2",
-      "votes": "2",
+      "rating": "3",
+      "votes": "3",
       "parent": "guide-hub",
       "id": "675056916",
       "detailed_rating": {
@@ -1300,12 +1300,16 @@
             [
                "5225164",
                1689143977
+            ],
+            [
+               "8452537",
+               1712251080
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 2,
-      "justified_votes": 2
+      "justified_rating": 3,
+      "justified_votes": 3
    },
    "1554688961": {
       "title": "世界線中心頁",
