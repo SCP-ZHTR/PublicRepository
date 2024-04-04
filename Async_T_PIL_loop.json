@@ -133181,5 +133181,32 @@
       "deleted": false,
       "justified_rating": 0,
       "justified_votes": 0
+   },
+   "1712211300": {
+      "title": "SCP-980-KO - 多雲，時降人",
+      "fullname": "scp-980-ko",
+      "created_at": "1712211300",
+      "created_by": "4357011",
+      "tags": [
+         "en",
+         "ko",
+         "safe",
+         "scp",
+         "二次翻譯",
+         "人形",
+         "傳送",
+         "地點",
+         "翻譯"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1453233553",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
