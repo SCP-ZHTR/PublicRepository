@@ -25396,8 +25396,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "7",
-      "votes": "7",
+      "rating": "8",
+      "votes": "8",
       "parent": null,
       "id": "999870864",
       "detailed_rating": {
@@ -25429,12 +25429,16 @@
             [
                "7313177",
                1618848000
+            ],
+            [
+               "5981123",
+               1712263824
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 7,
-      "justified_votes": 7
+      "justified_rating": 8,
+      "justified_votes": 8
    },
    "1584002639": {
       "title": "SCP-2043 - 記 住 我",
