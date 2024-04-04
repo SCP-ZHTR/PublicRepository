@@ -13452,5 +13452,22 @@
       "deleted": true,
       "justified_rating": 0,
       "justified_votes": 0
+   },
+   "1712203927": {
+      "title": "SCP-4641 - 得到線索",
+      "fullname": "scp-4641",
+      "created_at": "1712203927",
+      "created_by": "4357011",
+      "tags": [],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1453233042",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
