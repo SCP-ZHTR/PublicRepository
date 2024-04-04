@@ -12654,8 +12654,8 @@
          "_info"
       ],
       "comments": "7",
-      "rating": "24",
-      "votes": "24",
+      "rating": "25",
+      "votes": "25",
       "parent": null,
       "id": "847041074",
       "detailed_rating": {
@@ -12755,12 +12755,16 @@
             [
                "DELETED",
                "[UNKNOWN]"
+            ],
+            [
+               "5981123",
+               1712263450
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 23,
-      "justified_votes": 23
+      "justified_rating": 24,
+      "justified_votes": 24
    },
    "1564128040": {
       "title": "SCP-ZH-201 - 膨大的飢餓",
