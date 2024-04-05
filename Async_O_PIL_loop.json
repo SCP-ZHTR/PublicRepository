@@ -129417,8 +129417,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "8",
-      "votes": "8",
+      "rating": "9",
+      "votes": "9",
       "parent": null,
       "id": "1453112803",
       "detailed_rating": {
@@ -129454,12 +129454,16 @@
             [
                "7916187",
                1711500363
+            ],
+            [
+               "7504530",
+               1712318558
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 8,
-      "justified_votes": 8
+      "justified_rating": 9,
+      "justified_votes": 9
    },
    "1711176929": {
       "title": "RAISA-9600 干城章嘉峰1925",

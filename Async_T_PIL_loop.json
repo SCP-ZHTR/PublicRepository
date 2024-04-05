@@ -132528,8 +132528,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "7",
-      "votes": "7",
+      "rating": "8",
+      "votes": "8",
       "parent": null,
       "id": "1452773028",
       "detailed_rating": {
@@ -132561,12 +132561,16 @@
             [
                "7571354",
                1712234658
+            ],
+            [
+               "7504530",
+               1712318560
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 7,
-      "justified_votes": 7
+      "justified_rating": 8,
+      "justified_votes": 8
    },
    "1708788048": {
       "title": "SCP-8999 - 餵食山怪",
