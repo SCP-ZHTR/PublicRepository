@@ -61797,8 +61797,8 @@
          "_cc"
       ],
       "comments": "4",
-      "rating": "16",
-      "votes": "16",
+      "rating": "17",
+      "votes": "17",
       "parent": null,
       "id": "1308530383",
       "detailed_rating": {
@@ -61866,12 +61866,16 @@
             [
                "6678442",
                1618070400
+            ],
+            [
+               "7571354",
+               1712300529
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 16,
-      "justified_votes": 16
+      "justified_rating": 17,
+      "justified_votes": 17
    },
    "1618212930": {
       "title": "SCP-027-PT",
