@@ -4094,8 +4094,8 @@
          "_info"
       ],
       "comments": "0",
-      "rating": "1",
-      "votes": "1",
+      "rating": "2",
+      "votes": "2",
       "parent": null,
       "id": "986368417",
       "detailed_rating": {
@@ -4103,12 +4103,16 @@
             [
                "4107284",
                1689143977
+            ],
+            [
+               "8883612",
+               1712402324
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 1,
-      "justified_votes": 1
+      "justified_rating": 2,
+      "justified_votes": 2
    },
    "1580740559": {
       "title": "Sancote(可替代)研究員的人事檔案",

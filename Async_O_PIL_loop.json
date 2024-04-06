@@ -129291,8 +129291,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "12",
-      "votes": "12",
+      "rating": "13",
+      "votes": "13",
       "parent": null,
       "id": "1453041474",
       "detailed_rating": {
@@ -129344,12 +129344,16 @@
             [
                "8884787",
                1711629277
+            ],
+            [
+               "8883612",
+               1712402322
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 12,
-      "justified_votes": 12
+      "justified_rating": 13,
+      "justified_votes": 13
    },
    "1710487959": {
       "title": "SCP-ZH-156 - 愛維斯之卵",
