@@ -79523,8 +79523,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "10",
-      "votes": "10",
+      "rating": "11",
+      "votes": "11",
       "parent": "no-return-hub",
       "id": "1331411831",
       "detailed_rating": {
@@ -79568,12 +79568,16 @@
             [
                "8846720",
                1712409921
+            ],
+            [
+               "8543386",
+               1712410294
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 9,
-      "justified_votes": 9
+      "justified_rating": 10,
+      "justified_votes": 10
    },
    "1642687398": {
       "title": "SCP-1041 - 多重經歷失調",
