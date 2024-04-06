@@ -125370,8 +125370,8 @@
          "_cc"
       ],
       "comments": "0",
-      "rating": "4",
-      "votes": "4",
+      "rating": "5",
+      "votes": "5",
       "parent": null,
       "id": "1450501532",
       "detailed_rating": {
@@ -125391,12 +125391,16 @@
             [
                "4990678",
                1703861550
+            ],
+            [
+               "8543386",
+               1712379085
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 4,
-      "justified_votes": 4
+      "justified_rating": 5,
+      "justified_votes": 5
    },
    "1696869219": {
       "title": "都會好起來的",
@@ -133181,14 +133185,21 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "0",
-      "votes": "0",
+      "rating": "1",
+      "votes": "1",
       "parent": null,
       "id": "1453172188",
-      "detailed_rating": {},
+      "detailed_rating": {
+         "+": [
+            [
+               "8543386",
+               1712379085
+            ]
+         ]
+      },
       "deleted": false,
-      "justified_rating": 0,
-      "justified_votes": 0
+      "justified_rating": 1,
+      "justified_votes": 1
    },
    "1712203927": {
       "title": "SCP-4641 - 得到線索",
