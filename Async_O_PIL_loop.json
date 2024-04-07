@@ -6246,8 +6246,8 @@
          "_info"
       ],
       "comments": "0",
-      "rating": "9",
-      "votes": "9",
+      "rating": "10",
+      "votes": "10",
       "parent": null,
       "id": "747049525",
       "detailed_rating": {
@@ -6287,12 +6287,16 @@
             [
                "5454699",
                1617120000
+            ],
+            [
+               "7571354",
+               1712458099
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 9,
-      "justified_votes": 9
+      "justified_rating": 10,
+      "justified_votes": 10
    },
    "1555754108": {
       "title": "小動物簡介：Esther！",
