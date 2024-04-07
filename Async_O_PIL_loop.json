@@ -112705,8 +112705,8 @@
          "_licensebox"
       ],
       "comments": "1",
-      "rating": "18",
-      "votes": "18",
+      "rating": "19",
+      "votes": "19",
       "parent": null,
       "id": "1447098599",
       "detailed_rating": {
@@ -112782,12 +112782,16 @@
             [
                "8884787",
                1711089151
+            ],
+            [
+               "9075244",
+               1712504472
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 17,
-      "justified_votes": 17
+      "justified_rating": 18,
+      "justified_votes": 18
    },
    "1680703321": {
       "title": "未知航程：恆星之影1-1",
