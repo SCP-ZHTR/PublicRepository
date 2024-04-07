@@ -95335,8 +95335,8 @@
          "_licensebox"
       ],
       "comments": "3",
-      "rating": "3",
-      "votes": "29",
+      "rating": "2",
+      "votes": "30",
       "parent": null,
       "id": "1420120982",
       "detailed_rating": {
@@ -95458,12 +95458,16 @@
             [
                "8259679",
                1710629540
+            ],
+            [
+               "7521095",
+               1712481043
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 2,
-      "justified_votes": 28
+      "justified_rating": 1,
+      "justified_votes": 29
    },
    "1657804056": {
       "title": "SCP-7000競賽中心頁",
