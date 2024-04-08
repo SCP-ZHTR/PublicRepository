@@ -87881,8 +87881,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "12",
-      "votes": "12",
+      "rating": "13",
+      "votes": "13",
       "parent": null,
       "id": "1331756959",
       "detailed_rating": {
@@ -87934,12 +87934,16 @@
             [
                "DELETED",
                1704098044
+            ],
+            [
+               "9075244",
+               1712577782
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 11,
-      "justified_votes": 11
+      "justified_rating": 12,
+      "justified_votes": 12
    },
    "1645524738": {
       "title": "末裔默示",
