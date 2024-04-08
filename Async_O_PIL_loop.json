@@ -99950,8 +99950,8 @@
          "_cc"
       ],
       "comments": "0",
-      "rating": "18",
-      "votes": "18",
+      "rating": "19",
+      "votes": "19",
       "parent": null,
       "id": "1434950121",
       "detailed_rating": {
@@ -100027,12 +100027,16 @@
             [
                "DELETED",
                1695208325
+            ],
+            [
+               "9075244",
+               1712570996
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 17,
-      "justified_votes": 17
+      "justified_rating": 18,
+      "justified_votes": 18
    },
    "1662072811": {
       "title": "SCP-ZH-188 - 五月廿五，忌殺生",
