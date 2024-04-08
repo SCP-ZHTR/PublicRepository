@@ -38672,8 +38672,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "5",
-      "votes": "5",
+      "rating": "6",
+      "votes": "6",
       "parent": null,
       "id": "1035246701",
       "detailed_rating": {
@@ -38697,12 +38697,16 @@
             [
                "3981670",
                1617120000
+            ],
+            [
+               "9083658",
+               1712584048
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 5,
-      "justified_votes": 5
+      "justified_rating": 6,
+      "justified_votes": 6
    },
    "1588858550": {
       "title": "藝術紀錄：死亡，永生-1",
