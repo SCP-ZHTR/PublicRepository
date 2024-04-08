@@ -53486,8 +53486,8 @@
          "_cc"
       ],
       "comments": "2",
-      "rating": "9",
-      "votes": "9",
+      "rating": "10",
+      "votes": "10",
       "parent": null,
       "id": "1305349295",
       "detailed_rating": {
@@ -53527,12 +53527,16 @@
             [
                "5415046",
                1617120000
+            ],
+            [
+               "8418020",
+               1712583173
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 9,
-      "justified_votes": 9
+      "justified_rating": 10,
+      "justified_votes": 10
    },
    "1603046449": {
       "title": "請問有誰能把地下街的換幣機修一下",
