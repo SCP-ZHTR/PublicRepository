@@ -84118,8 +84118,8 @@
       ],
       "hidden_tags": [],
       "comments": "4",
-      "rating": "7",
-      "votes": "25",
+      "rating": "8",
+      "votes": "26",
       "parent": null,
       "id": "1331241264",
       "detailed_rating": {
@@ -84187,6 +84187,10 @@
             [
                "7313177",
                1642089600
+            ],
+            [
+               "9075244",
+               1712616883
             ]
          ],
          "-": [
@@ -84229,8 +84233,8 @@
          ]
       },
       "deleted": false,
-      "justified_rating": 7,
-      "justified_votes": 25
+      "justified_rating": 8,
+      "justified_votes": 26
    },
    "1641650094": {
       "title": "SCP-ZH-560 - 人生的第二春",
