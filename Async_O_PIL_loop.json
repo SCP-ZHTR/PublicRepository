@@ -113592,8 +113592,8 @@
          "_禁黑"
       ],
       "comments": "7",
-      "rating": "20",
-      "votes": "20",
+      "rating": "21",
+      "votes": "21",
       "parent": null,
       "id": "1447746472",
       "detailed_rating": {
@@ -113677,12 +113677,16 @@
             [
                "DELETED",
                1685979115
+            ],
+            [
+               "8846720",
+               1712583921
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 19,
-      "justified_votes": 19
+      "justified_rating": 20,
+      "justified_votes": 20
    },
    "1684837513": {
       "title": "SCP-ZH-625 - 鬱藍逆夢",
