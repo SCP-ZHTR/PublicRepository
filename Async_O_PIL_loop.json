@@ -129800,8 +129800,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "4",
-      "votes": "4",
+      "rating": "5",
+      "votes": "5",
       "parent": null,
       "id": "1453266520",
       "detailed_rating": {
@@ -129821,12 +129821,16 @@
             [
                "7521095",
                1712572910
+            ],
+            [
+               "8543386",
+               1712573805
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 4,
-      "justified_votes": 4
+      "justified_rating": 5,
+      "justified_votes": 5
    },
    "1712564581": {
       "title": "SCP-ZH-853 - 水泥先生",
