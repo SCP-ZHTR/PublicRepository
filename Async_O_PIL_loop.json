@@ -129008,8 +129008,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "8",
-      "votes": "8",
+      "rating": "9",
+      "votes": "9",
       "parent": null,
       "id": "1452924455",
       "detailed_rating": {
@@ -129045,12 +129045,16 @@
             [
                "8319365",
                1711120472
+            ],
+            [
+               "9083658",
+               1712569953
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 8,
-      "justified_votes": 8
+      "justified_rating": 9,
+      "justified_votes": 9
    },
    "1709708404": {
       "title": "SCP-ZH-728 - 夜之方舟與日之使徒",
