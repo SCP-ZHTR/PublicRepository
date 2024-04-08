@@ -100487,8 +100487,8 @@
       ],
       "hidden_tags": [],
       "comments": "2",
-      "rating": "11",
-      "votes": "11",
+      "rating": "12",
+      "votes": "12",
       "parent": null,
       "id": "1435499286",
       "detailed_rating": {
@@ -100536,12 +100536,16 @@
             [
                "DELETED",
                1695208325
+            ],
+            [
+               "9075244",
+               1712572020
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 10,
-      "justified_votes": 10
+      "justified_rating": 11,
+      "justified_votes": 11
    },
    "1662215927": {
       "title": "SCP-ZH-029 - 矇眼射飛鏢",
