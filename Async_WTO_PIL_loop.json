@@ -7282,8 +7282,8 @@
          "_禁黑"
       ],
       "comments": "21",
-      "rating": "33",
-      "votes": "33",
+      "rating": "34",
+      "votes": "34",
       "parent": null,
       "id": "1308457939",
       "detailed_rating": {
@@ -7419,12 +7419,16 @@
             [
                "5454699",
                1689143977
+            ],
+            [
+               "9075244",
+               1712577157
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 33,
-      "justified_votes": 33
+      "justified_rating": 34,
+      "justified_votes": 34
    },
    "1617389623": {
       "title": "基金會周刊 第035期",
@@ -8654,8 +8658,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "6",
-      "votes": "6",
+      "rating": "7",
+      "votes": "7",
       "parent": null,
       "id": "1324148438",
       "detailed_rating": {
@@ -8683,12 +8687,16 @@
             [
                "6369875",
                1689143977
+            ],
+            [
+               "9075244",
+               1712577157
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 6,
-      "justified_votes": 6
+      "justified_rating": 7,
+      "justified_votes": 7
    },
    "1632508477": {
       "title": "基金會週刊 第060期",
@@ -13525,7 +13533,7 @@
       "parent": null,
       "id": "1453276209",
       "detailed_rating": {},
-      "deleted": false,
+      "deleted": true,
       "justified_rating": 0,
       "justified_votes": 0
    }
