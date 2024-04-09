@@ -56060,8 +56060,8 @@
          "_licensebox"
       ],
       "comments": "0",
-      "rating": "10",
-      "votes": "10",
+      "rating": "11",
+      "votes": "11",
       "parent": null,
       "id": "1306913098",
       "detailed_rating": {
@@ -56105,12 +56105,16 @@
             [
                "7655555",
                1708872374
+            ],
+            [
+               "7504530",
+               1712631020
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 10,
-      "justified_votes": 10
+      "justified_rating": 11,
+      "justified_votes": 11
    },
    "1613715489": {
       "title": "SCP-2933 - 恐怖先生",
@@ -68125,16 +68129,12 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "5",
-      "votes": "5",
+      "rating": "6",
+      "votes": "6",
       "parent": null,
       "id": "1312059621",
       "detailed_rating": {
          "+": [
-            [
-               "7469850",
-               1627228800
-            ],
             [
                "4990678",
                1623772800
@@ -68150,6 +68150,14 @@
             [
                "5435485",
                1623686400
+            ],
+            [
+               "7504530",
+               1712631020
+            ],
+            [
+               "DELETED",
+               1712631020
             ]
          ]
       },
