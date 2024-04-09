@@ -129947,13 +129947,36 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "0",
-      "votes": "0",
+      "rating": "5",
+      "votes": "5",
       "parent": null,
       "id": "1453306838",
-      "detailed_rating": {},
+      "detailed_rating": {
+         "+": [
+            [
+               "7827462",
+               1712679439
+            ],
+            [
+               "4990678",
+               1712679439
+            ],
+            [
+               "9075244",
+               1712679439
+            ],
+            [
+               "6952002",
+               1712679439
+            ],
+            [
+               "5370805",
+               1712679439
+            ]
+         ]
+      },
       "deleted": false,
-      "justified_rating": 0,
-      "justified_votes": 0
+      "justified_rating": 5,
+      "justified_votes": 5
    }
 }
