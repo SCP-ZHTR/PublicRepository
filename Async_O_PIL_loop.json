@@ -129932,5 +129932,28 @@
       "deleted": false,
       "justified_rating": 6,
       "justified_votes": 6
+   },
+   "1712678454": {
+      "title": "SCP-ZH-293 - 使徒的抉擇",
+      "fullname": "scp-zh-293",
+      "created_at": "1712678454",
+      "created_by": "6952002",
+      "tags": [
+         "safe",
+         "scp",
+         "人造物品",
+         "原創",
+         "精神影響"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1453306838",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
