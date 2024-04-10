@@ -9713,8 +9713,8 @@
          "_info"
       ],
       "comments": "0",
-      "rating": "75",
-      "votes": "77",
+      "rating": "76",
+      "votes": "78",
       "parent": null,
       "id": "832673262",
       "detailed_rating": {
@@ -10022,6 +10022,10 @@
             [
                "8846720",
                1711011728
+            ],
+            [
+               "9075244",
+               1712747763
             ]
          ],
          "-": [
@@ -10032,8 +10036,8 @@
          ]
       },
       "deleted": false,
-      "justified_rating": 72,
-      "justified_votes": 74
+      "justified_rating": 73,
+      "justified_votes": 75
    },
    "1561980796": {
       "title": "SCP-ZH-199 - 中永和迷宮",
