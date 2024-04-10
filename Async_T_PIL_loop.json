@@ -86984,8 +86984,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "16",
-      "votes": "18",
+      "rating": "17",
+      "votes": "19",
       "parent": null,
       "id": "1402047194",
       "detailed_rating": {
@@ -87057,6 +87057,10 @@
             [
                "DELETED",
                1709691833
+            ],
+            [
+               "5251681",
+               1712729678
             ]
          ],
          "-": [
@@ -87067,8 +87071,8 @@
          ]
       },
       "deleted": false,
-      "justified_rating": 15,
-      "justified_votes": 17
+      "justified_rating": 16,
+      "justified_votes": 18
    },
    "1648963649": {
       "title": "SCP-427 - 洛夫克拉夫特吊墜盒",
