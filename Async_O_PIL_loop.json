@@ -73705,8 +73705,8 @@
       ],
       "hidden_tags": [],
       "comments": "10",
-      "rating": "22",
-      "votes": "22",
+      "rating": "23",
+      "votes": "23",
       "parent": null,
       "id": "1312337267",
       "detailed_rating": {
@@ -73798,12 +73798,16 @@
             [
                "DELETED",
                1695271138
+            ],
+            [
+               "9075244",
+               1712750961
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 21,
-      "justified_votes": 21
+      "justified_rating": 22,
+      "justified_votes": 22
    },
    "1626044531": {
       "title": "解密：SCP-ZH-096",
