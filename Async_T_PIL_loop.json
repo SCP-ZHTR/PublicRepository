@@ -133290,8 +133290,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "1",
-      "votes": "1",
+      "rating": "2",
+      "votes": "2",
       "parent": null,
       "id": "1453233553",
       "detailed_rating": {
@@ -133299,12 +133299,16 @@
             [
                "7513990",
                1712223858
+            ],
+            [
+               "8543386",
+               1712746903
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 1,
-      "justified_votes": 1
+      "justified_rating": 2,
+      "justified_votes": 2
    },
    "1712264777": {
       "title": "SCP-8195 - Alex Thorley僥倖逃脫",
