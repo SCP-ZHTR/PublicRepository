@@ -47016,8 +47016,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "4",
-      "votes": "6",
+      "rating": "5",
+      "votes": "7",
       "parent": null,
       "id": "1305382368",
       "detailed_rating": {
@@ -47041,6 +47041,10 @@
             [
                "5013754",
                1617120000
+            ],
+            [
+               "7504530",
+               1712724669
             ]
          ],
          "-": [
@@ -47051,8 +47055,8 @@
          ]
       },
       "deleted": false,
-      "justified_rating": 4,
-      "justified_votes": 6
+      "justified_rating": 5,
+      "justified_votes": 7
    },
    "1603023106": {
       "title": "SCP-5565 - 沙米爾",
