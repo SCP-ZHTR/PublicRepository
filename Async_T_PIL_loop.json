@@ -132209,8 +132209,8 @@
          "_licensebox"
       ],
       "comments": "0",
-      "rating": "3",
-      "votes": "3",
+      "rating": "4",
+      "votes": "4",
       "parent": null,
       "id": "1452606876",
       "detailed_rating": {
@@ -132226,12 +132226,16 @@
             [
                "7571354",
                1707752398
+            ],
+            [
+               "8543386",
+               1712747272
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 3,
-      "justified_votes": 3
+      "justified_rating": 4,
+      "justified_votes": 4
    },
    "1707753438": {
       "title": "隱者",
