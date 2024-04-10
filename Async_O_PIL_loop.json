@@ -120629,8 +120629,8 @@
          "_你感覺到了嗎"
       ],
       "comments": "0",
-      "rating": "19",
-      "votes": "19",
+      "rating": "20",
+      "votes": "20",
       "parent": null,
       "id": "1450098160",
       "detailed_rating": {
@@ -120710,12 +120710,16 @@
             [
                "5701756",
                1701413908
+            ],
+            [
+               "4264056",
+               1712763490
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 19,
-      "justified_votes": 19
+      "justified_rating": 20,
+      "justified_votes": 20
    },
    "1695394222": {
       "title": "SCP-ZH-852 - 一瞥靈光",
