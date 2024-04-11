@@ -128091,8 +128091,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "5",
-      "votes": "5",
+      "rating": "7",
+      "votes": "7",
       "parent": null,
       "id": "1451357246",
       "detailed_rating": {
@@ -128116,12 +128116,20 @@
             [
                "4357011",
                1699583238
+            ],
+            [
+               "8404617",
+               1712856146
+            ],
+            [
+               "5338547",
+               1712856146
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 5,
-      "justified_votes": 5
+      "justified_rating": 7,
+      "justified_votes": 7
    },
    "1699618292": {
       "title": "Site-3408",
@@ -133513,8 +133521,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "1",
-      "votes": "1",
+      "rating": "3",
+      "votes": "3",
       "parent": null,
       "id": "1453319734",
       "detailed_rating": {
@@ -133522,11 +133530,19 @@
             [
                "6217438",
                1712853317
+            ],
+            [
+               "8452537",
+               1712856146
+            ],
+            [
+               "7655555",
+               1712856146
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 1,
-      "justified_votes": 1
+      "justified_rating": 3,
+      "justified_votes": 3
    }
 }
