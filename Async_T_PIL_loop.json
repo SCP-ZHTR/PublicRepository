@@ -133463,5 +133463,30 @@
       "deleted": false,
       "justified_rating": 7,
       "justified_votes": 7
+   },
+   "1712842713": {
+      "title": "SCP-241-DE - 不會有人想念你的",
+      "fullname": "scp-241-de",
+      "created_at": "1712842713",
+      "created_by": "6217438",
+      "tags": [
+         "de",
+         "safe",
+         "scp",
+         "二次翻譯",
+         "屍體",
+         "翻譯",
+         "逆模因"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1453319191",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
