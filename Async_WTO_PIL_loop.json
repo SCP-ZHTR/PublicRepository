@@ -13588,6 +13588,23 @@
       "parent": null,
       "id": "1453319191",
       "detailed_rating": {},
+      "deleted": true,
+      "justified_rating": 0,
+      "justified_votes": 0
+   },
+   "1712852981": {
+      "title": "SCP-6502 - 哈威克公墓",
+      "fullname": "scp-6502",
+      "created_at": "1712852981",
+      "created_by": "6217438",
+      "tags": [],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1453319734",
+      "detailed_rating": {},
       "deleted": false,
       "justified_rating": 0,
       "justified_votes": 0
