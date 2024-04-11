@@ -46271,8 +46271,8 @@
          "_賞金k級情景"
       ],
       "comments": "2",
-      "rating": "32",
-      "votes": "32",
+      "rating": "33",
+      "votes": "33",
       "parent": null,
       "id": "1259584091",
       "detailed_rating": {
@@ -46404,12 +46404,16 @@
             [
                "8319365",
                1709910189
+            ],
+            [
+               "5981123",
+               1712809484
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 32,
-      "justified_votes": 32
+      "justified_rating": 33,
+      "justified_votes": 33
    },
    "1596260219": {
       "title": "末日時能泡杯茶嗎？",
