@@ -129953,8 +129953,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "7",
-      "votes": "7",
+      "rating": "8",
+      "votes": "8",
       "parent": null,
       "id": "1453276209",
       "detailed_rating": {
@@ -129986,12 +129986,16 @@
             [
                "8883612",
                1712685231
+            ],
+            [
+               "4442284",
+               1712833653
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 7,
-      "justified_votes": 7
+      "justified_rating": 8,
+      "justified_votes": 8
    },
    "1712678454": {
       "title": "SCP-ZH-293 - 使徒的抉擇",
@@ -130007,8 +130011,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "11",
-      "votes": "11",
+      "rating": "12",
+      "votes": "12",
       "parent": null,
       "id": "1453306838",
       "detailed_rating": {
@@ -130056,11 +130060,15 @@
             [
                "7840542",
                1712719481
+            ],
+            [
+               "4442284",
+               1712833653
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 11,
-      "justified_votes": 11
+      "justified_rating": 12,
+      "justified_votes": 12
    }
 }
