@@ -133575,8 +133575,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "1",
-      "votes": "1",
+      "rating": "2",
+      "votes": "2",
       "parent": null,
       "id": "1453323218",
       "detailed_rating": {
@@ -133584,12 +133584,16 @@
             [
                "5370805",
                1712916668
+            ],
+            [
+               "8177208",
+               1712933049
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 1,
-      "justified_votes": 1
+      "justified_rating": 2,
+      "justified_votes": 2
    },
    "1667145601": {
       "title": "Site-19 維安資料 19.2022.10.31",
