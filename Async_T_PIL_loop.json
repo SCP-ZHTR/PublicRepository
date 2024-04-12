@@ -133606,14 +133606,41 @@
          "_cc"
       ],
       "comments": "0",
-      "rating": "0",
-      "votes": "0",
+      "rating": "6",
+      "votes": "6",
       "parent": null,
       "id": "1436978106",
-      "detailed_rating": {},
+      "detailed_rating": {
+         "+": [
+            [
+               "4990678",
+               1712917552
+            ],
+            [
+               "6217438",
+               1712917552
+            ],
+            [
+               "8177208",
+               1712917552
+            ],
+            [
+               "5435485",
+               1712917552
+            ],
+            [
+               "3981670",
+               1712917552
+            ],
+            [
+               "DELETED",
+               1712917552
+            ]
+         ]
+      },
       "deleted": false,
-      "justified_rating": 0,
-      "justified_votes": 0
+      "justified_rating": 5,
+      "justified_votes": 5
    },
    "1673290159": {
       "title": "藝術作品：「原子能所選之路」",
@@ -133627,14 +133654,31 @@
       ],
       "hidden_tags": [],
       "comments": "2",
-      "rating": "0",
-      "votes": "0",
+      "rating": "1",
+      "votes": "3",
       "parent": null,
       "id": "1445431780",
-      "detailed_rating": {},
+      "detailed_rating": {
+         "+": [
+            [
+               "6217438",
+               1712917552
+            ],
+            [
+               "7840542",
+               1712917552
+            ]
+         ],
+         "-": [
+            [
+               "6952002",
+               1712917552
+            ]
+         ]
+      },
       "deleted": false,
-      "justified_rating": 0,
-      "justified_votes": 0
+      "justified_rating": 1,
+      "justified_votes": 3
    },
    "1706784682": {
       "title": "粉紅之瞳",
