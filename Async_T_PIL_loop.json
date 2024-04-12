@@ -133700,5 +133700,32 @@
       "deleted": false,
       "justified_rating": 0,
       "justified_votes": 0
+   },
+   "1712930731": {
+      "title": "SCP-5655 - 就是你預期在Spam空罐裡找到的那種精靈",
+      "fullname": "scp-5655",
+      "created_at": "1712930731",
+      "created_by": "6217438",
+      "tags": [
+         "en",
+         "safe",
+         "scp",
+         "人形",
+         "人造物品",
+         "智能",
+         "本質促動",
+         "活物",
+         "翻譯"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1453324144",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
