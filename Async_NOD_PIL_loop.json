@@ -6853,8 +6853,8 @@
          "_cc"
       ],
       "comments": "1",
-      "rating": "4",
-      "votes": "4",
+      "rating": "5",
+      "votes": "5",
       "parent": null,
       "id": "1306999903",
       "detailed_rating": {
@@ -6874,12 +6874,16 @@
             [
                "6788064",
                1689145478
+            ],
+            [
+               "6217438",
+               1712931807
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 4,
-      "justified_votes": 4
+      "justified_rating": 5,
+      "justified_votes": 5
    },
    "1614328657": {
       "title": "粉粉的少女 外觀主題",
