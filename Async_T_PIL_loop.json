@@ -25687,8 +25687,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "4",
-      "votes": "4",
+      "rating": "5",
+      "votes": "5",
       "parent": null,
       "id": "999921923",
       "detailed_rating": {
@@ -25708,12 +25708,16 @@
             [
                "4239775",
                1665849600
+            ],
+            [
+               "6543822",
+               1712937325
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 4,
-      "justified_votes": 4
+      "justified_rating": 5,
+      "justified_votes": 5
    },
    "1584073559": {
       "title": "803號貨單-令人陶醉的蒸餾酒",
