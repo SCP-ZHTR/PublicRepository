@@ -133556,5 +133556,32 @@
       "deleted": false,
       "justified_rating": 5,
       "justified_votes": 5
+   },
+   "1712916000": {
+      "title": "SCP-6670 - 「媽媽？」",
+      "fullname": "scp-6670",
+      "created_at": "1712916000",
+      "created_by": "7605593",
+      "tags": [
+         "en",
+         "euclid",
+         "scp",
+         "不可移動",
+         "建築物",
+         "智能",
+         "活物",
+         "無定形",
+         "翻譯"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1453323218",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
