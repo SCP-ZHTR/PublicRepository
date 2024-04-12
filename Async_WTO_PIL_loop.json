@@ -13605,6 +13605,23 @@
       "parent": null,
       "id": "1453319734",
       "detailed_rating": {},
+      "deleted": true,
+      "justified_rating": 0,
+      "justified_votes": 0
+   },
+   "1712916000": {
+      "title": "SCP-6670 - 「媽媽？」",
+      "fullname": "scp-6670",
+      "created_at": "1712916000",
+      "created_by": "7605593",
+      "tags": [],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1453323218",
+      "detailed_rating": {},
       "deleted": false,
       "justified_rating": 0,
       "justified_votes": 0
