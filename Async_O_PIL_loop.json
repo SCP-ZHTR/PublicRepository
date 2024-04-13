@@ -54966,8 +54966,8 @@
          "_cc"
       ],
       "comments": "4",
-      "rating": "6",
-      "votes": "6",
+      "rating": "7",
+      "votes": "7",
       "parent": null,
       "id": "1305828700",
       "detailed_rating": {
@@ -54995,12 +54995,16 @@
             [
                "4239775",
                1617120000
+            ],
+            [
+               "8883612",
+               1713022104
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 6,
-      "justified_votes": 6
+      "justified_rating": 7,
+      "justified_votes": 7
    },
    "1605781856": {
       "title": "收容室ZH-S12-E-024實驗紀錄",
