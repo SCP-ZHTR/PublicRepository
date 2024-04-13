@@ -52704,8 +52704,8 @@
       ],
       "hidden_tags": [],
       "comments": "7",
-      "rating": "32",
-      "votes": "32",
+      "rating": "33",
+      "votes": "33",
       "parent": null,
       "id": "1305118400",
       "detailed_rating": {
@@ -52837,12 +52837,16 @@
             [
                "6678442",
                1617120000
+            ],
+            [
+               "9075244",
+               1713031818
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 32,
-      "justified_votes": 32
+      "justified_rating": 33,
+      "justified_votes": 33
    },
    "1602125910": {
       "title": "Ctrl Z博士從週刊上剪下的四格漫畫",
@@ -130462,8 +130466,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "6",
-      "votes": "6",
+      "rating": "9",
+      "votes": "9",
       "parent": null,
       "id": "1453329375",
       "detailed_rating": {
@@ -130499,11 +130503,15 @@
             [
                "5435485",
                1713031691
+            ],
+            [
+               "9075244",
+               1713031818
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 8,
-      "justified_votes": 8
+      "justified_rating": 9,
+      "justified_votes": 9
    }
 }
