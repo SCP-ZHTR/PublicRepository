@@ -130462,13 +130462,24 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "0",
-      "votes": "0",
+      "rating": "1",
+      "votes": "1",
       "parent": null,
       "id": "1453329375",
-      "detailed_rating": {},
+      "detailed_rating": {
+         "+": [
+            [
+               "8883612",
+               1713031193
+            ],
+            [
+               "5370805",
+               1713031193
+            ]
+         ]
+      },
       "deleted": false,
-      "justified_rating": 0,
-      "justified_votes": 0
+      "justified_rating": 2,
+      "justified_votes": 2
    }
 }
