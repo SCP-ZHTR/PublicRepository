@@ -24546,8 +24546,8 @@
          "_info"
       ],
       "comments": "0",
-      "rating": "11",
-      "votes": "13",
+      "rating": "12",
+      "votes": "14",
       "parent": null,
       "id": "999668901",
       "detailed_rating": {
@@ -24599,6 +24599,10 @@
             [
                "7226401",
                1617120000
+            ],
+            [
+               "8846720",
+               1713018173
             ]
          ],
          "-": [
@@ -24609,8 +24613,8 @@
          ]
       },
       "deleted": false,
-      "justified_rating": 12,
-      "justified_votes": 12
+      "justified_rating": 13,
+      "justified_votes": 13
    },
    "1583279879": {
       "title": "SCP-409 - 瘟晶",
