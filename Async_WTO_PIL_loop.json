@@ -13639,6 +13639,23 @@
       "parent": null,
       "id": "1453324144",
       "detailed_rating": {},
+      "deleted": true,
+      "justified_rating": 0,
+      "justified_votes": 0
+   },
+   "1712989328": {
+      "title": "SCP-8424 - 不要直視日蝕",
+      "fullname": "scp-8424",
+      "created_at": "1712989328",
+      "created_by": "6217438",
+      "tags": [],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1453326554",
+      "detailed_rating": {},
       "deleted": false,
       "justified_rating": 0,
       "justified_votes": 0
