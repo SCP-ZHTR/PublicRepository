@@ -130446,5 +130446,29 @@
       "deleted": false,
       "justified_rating": 11,
       "justified_votes": 11
+   },
+   "1713030908": {
+      "title": "不要開門！",
+      "fullname": "dont-open",
+      "created_at": "1713030908",
+      "created_by": "7827462",
+      "tags": [
+         "ad博士",
+         "apoyn博士",
+         "site-zh-12",
+         "原創",
+         "瓶中船",
+         "藝術作品"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1453329375",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
