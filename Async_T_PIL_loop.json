@@ -133821,5 +133821,33 @@
       "deleted": false,
       "justified_rating": 4,
       "justified_votes": 4
+   },
+   "1713019535": {
+      "title": "SCP-2271 - 工廠貨款",
+      "fullname": "scp-2271",
+      "created_at": "1713019535",
+      "created_by": "6217438",
+      "tags": [
+         "en",
+         "keter",
+         "scp",
+         "工廠",
+         "強迫性",
+         "敵意",
+         "文獻",
+         "無形",
+         "翻譯",
+         "貨幣"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1453328714",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
