@@ -130473,9 +130473,9 @@
          "藝術作品"
       ],
       "hidden_tags": [],
-      "comments": "2",
-      "rating": "12",
-      "votes": "12",
+      "comments": "3",
+      "rating": "13",
+      "votes": "13",
       "parent": null,
       "id": "1453329375",
       "detailed_rating": {
@@ -130527,11 +130527,15 @@
             [
                "6952002",
                1713038812
+            ],
+            [
+               "8177208",
+               1713044421
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 12,
-      "justified_votes": 12
+      "justified_rating": 13,
+      "justified_votes": 13
    }
 }
