@@ -13656,6 +13656,23 @@
       "parent": null,
       "id": "1453326554",
       "detailed_rating": {},
+      "deleted": true,
+      "justified_rating": 0,
+      "justified_votes": 0
+   },
+   "1713030908": {
+      "title": "不要開門！",
+      "fullname": "dont-open",
+      "created_at": "1713030908",
+      "created_by": "7827462",
+      "tags": [],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1453329375",
+      "detailed_rating": {},
       "deleted": false,
       "justified_rating": 0,
       "justified_votes": 0
