@@ -110096,8 +110096,8 @@
          "_licensebox"
       ],
       "comments": "0",
-      "rating": "17",
-      "votes": "17",
+      "rating": "18",
+      "votes": "18",
       "parent": null,
       "id": "1445895590",
       "detailed_rating": {
@@ -110169,12 +110169,16 @@
             [
                "DELETED",
                1695207224
+            ],
+            [
+               "8883612",
+               1713028051
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 16,
-      "justified_votes": 16
+      "justified_rating": 17,
+      "justified_votes": 17
    },
    "1675602001": {
       "title": "思想實驗：TK級「語言流動性崩潰」情景（日語及基本英語限定）",
