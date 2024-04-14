@@ -7201,8 +7201,8 @@
          "_全球超自然聯盟-goi格式"
       ],
       "comments": "1",
-      "rating": "4",
-      "votes": "4",
+      "rating": "5",
+      "votes": "5",
       "parent": null,
       "id": "789985580",
       "detailed_rating": {
@@ -7222,12 +7222,16 @@
             [
                "5225164",
                1617120000
+            ],
+            [
+               "8792088",
+               1713070008
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 4,
-      "justified_votes": 4
+      "justified_rating": 5,
+      "justified_votes": 5
    },
    "1557555561": {
       "title": "無名勛爵的大魔犬",
