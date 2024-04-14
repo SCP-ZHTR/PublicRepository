@@ -214,8 +214,8 @@
          "_info"
       ],
       "comments": "1",
-      "rating": "6",
-      "votes": "6",
+      "rating": "7",
+      "votes": "7",
       "parent": null,
       "id": "638893614",
       "detailed_rating": {
@@ -243,12 +243,16 @@
             [
                "5686329",
                1617120000
+            ],
+            [
+               "7740930",
+               1713110377
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 6,
-      "justified_votes": 6
+      "justified_rating": 7,
+      "justified_votes": 7
    },
    "1552712833": {
       "title": "SCP-012 - 樂譜",
