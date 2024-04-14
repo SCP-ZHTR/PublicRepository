@@ -130474,8 +130474,8 @@
       ],
       "hidden_tags": [],
       "comments": "3",
-      "rating": "13",
-      "votes": "13",
+      "rating": "15",
+      "votes": "15",
       "parent": null,
       "id": "1453329375",
       "detailed_rating": {
@@ -130531,11 +130531,41 @@
             [
                "8177208",
                1713044421
+            ],
+            [
+               "7064164",
+               1713057019
+            ],
+            [
+               "5415046",
+               1713057019
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 13,
-      "justified_votes": 13
+      "justified_rating": 15,
+      "justified_votes": 15
+   },
+   "1713056351": {
+      "title": "《太平洋異常民族誌：西加走灣篇》摘錄：諸島物語",
+      "fullname": "kimad-no-sikacawan",
+      "created_at": "1713056351",
+      "created_by": "5435485",
+      "tags": [
+         "wanderers",
+         "原創",
+         "故事",
+         "流浪者圖書館"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1453330400",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
