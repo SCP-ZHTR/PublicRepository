@@ -121336,8 +121336,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "6",
-      "votes": "8",
+      "rating": "7",
+      "votes": "9",
       "parent": null,
       "id": "1450193563",
       "detailed_rating": {
@@ -121369,6 +121369,10 @@
             [
                "5701756",
                1702006307
+            ],
+            [
+               "7521095",
+               1713069510
             ]
          ],
          "-": [
@@ -121379,8 +121383,8 @@
          ]
       },
       "deleted": false,
-      "justified_rating": 6,
-      "justified_votes": 8
+      "justified_rating": 7,
+      "justified_votes": 9
    },
    "1696162317": {
       "title": "SCP-ZH-739 - 《地氈法》",
