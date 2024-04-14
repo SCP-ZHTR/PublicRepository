@@ -16957,7 +16957,7 @@
             ]
          ]
       },
-      "deleted": false,
+      "deleted": true,
       "justified_rating": 6,
       "justified_votes": 6
    },
@@ -17442,7 +17442,7 @@
             ]
          ]
       },
-      "deleted": false,
+      "deleted": true,
       "justified_rating": 1,
       "justified_votes": 3
    },
@@ -20670,7 +20670,7 @@
             ]
          ]
       },
-      "deleted": false,
+      "deleted": true,
       "justified_rating": 7,
       "justified_votes": 7
    },
@@ -20741,7 +20741,7 @@
             ]
          ]
       },
-      "deleted": false,
+      "deleted": true,
       "justified_rating": 12,
       "justified_votes": 12
    },
@@ -20990,7 +20990,7 @@
             ]
          ]
       },
-      "deleted": false,
+      "deleted": true,
       "justified_rating": 11,
       "justified_votes": 11
    },
@@ -21274,7 +21274,7 @@
             ]
          ]
       },
-      "deleted": false,
+      "deleted": true,
       "justified_rating": 12,
       "justified_votes": 12
    },
@@ -21810,7 +21810,7 @@
             ]
          ]
       },
-      "deleted": false,
+      "deleted": true,
       "justified_rating": 11,
       "justified_votes": 11
    },
@@ -24309,7 +24309,7 @@
       "parent": null,
       "id": "1452509110",
       "detailed_rating": {},
-      "deleted": false,
+      "deleted": true,
       "justified_rating": 0,
       "justified_votes": 0
    },
