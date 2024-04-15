@@ -133872,8 +133872,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "2",
-      "votes": "2",
+      "rating": "3",
+      "votes": "3",
       "parent": null,
       "id": "1453328714",
       "detailed_rating": {
@@ -133885,12 +133885,16 @@
             [
                "5435485",
                1713021978
+            ],
+            [
+               "7504530",
+               1713155784
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 2,
-      "justified_votes": 2
+      "justified_rating": 3,
+      "justified_votes": 3
    },
    "1713059606": {
       "title": "SCP-2203 - 找到你的那一位！",
