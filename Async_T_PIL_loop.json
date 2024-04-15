@@ -133997,5 +133997,31 @@
       "deleted": false,
       "justified_rating": 1,
       "justified_votes": 1
+   },
+   "1713154673": {
+      "title": "SCP-240-JP-J - 零條頭髮",
+      "fullname": "scp-240-jp-j",
+      "created_at": "1713154673",
+      "created_by": "7605593",
+      "tags": [
+         "euclid",
+         "jp",
+         "scp",
+         "人形",
+         "基因",
+         "搞笑",
+         "本質促動",
+         "翻譯"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1453341433",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
