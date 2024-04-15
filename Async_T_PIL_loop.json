@@ -134031,14 +134031,21 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "0",
-      "votes": "0",
+      "rating": "1",
+      "votes": "1",
       "parent": null,
       "id": "1453341433",
-      "detailed_rating": {},
+      "detailed_rating": {
+         "+": [
+            [
+               "6217438",
+               1713194907
+            ]
+         ]
+      },
       "deleted": false,
-      "justified_rating": 0,
-      "justified_votes": 0
+      "justified_rating": 1,
+      "justified_votes": 1
    },
    "1713156914": {
       "title": "SCP-1839 - 硬骨魚繁殖法",
