@@ -133960,5 +133960,28 @@
       "deleted": false,
       "justified_rating": 1,
       "justified_votes": 1
+   },
+   "1713142764": {
+      "title": "SCP-1654 - 調轉至死頻道",
+      "fullname": "scp-1654",
+      "created_at": "1713142764",
+      "created_by": "6217438",
+      "tags": [
+         "en",
+         "meta",
+         "scp",
+         "機密分級",
+         "翻譯"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1453340722",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
