@@ -78785,8 +78785,8 @@
          "_全球超自然聯盟-goi格式"
       ],
       "comments": "1",
-      "rating": "6",
-      "votes": "6",
+      "rating": "7",
+      "votes": "7",
       "parent": null,
       "id": "1324152994",
       "detailed_rating": {
@@ -78814,12 +78814,16 @@
             [
                "DELETED",
                1695270804
+            ],
+            [
+               "8792088",
+               1713197327
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 5,
-      "justified_votes": 5
+      "justified_rating": 6,
+      "justified_votes": 6
    },
    "1633009159": {
       "title": "藝術紀錄：受絞之王的悲劇",
