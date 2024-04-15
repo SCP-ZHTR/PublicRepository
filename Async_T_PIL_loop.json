@@ -134061,8 +134061,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "4",
-      "votes": "4",
+      "rating": "6",
+      "votes": "6",
       "parent": null,
       "id": "1453341619",
       "detailed_rating": {
@@ -134082,12 +134082,20 @@
             [
                "8543386",
                1713187955
+            ],
+            [
+               "6091157",
+               1713188328
+            ],
+            [
+               "5413616",
+               1713188328
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 4,
-      "justified_votes": 4
+      "justified_rating": 6,
+      "justified_votes": 6
    },
    "1713183637": {
       "title": "托特利軟體中心",
