@@ -24978,5 +24978,22 @@
       "deleted": false,
       "justified_rating": 0,
       "justified_votes": 0
+   },
+   "1713277536": {
+      "title": "基金會設施（輕量版）",
+      "fullname": "mobile:secure-facilities-locations",
+      "created_at": "1713277536",
+      "created_by": "5415046",
+      "tags": [],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1453349412",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
