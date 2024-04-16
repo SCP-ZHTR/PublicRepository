@@ -129081,8 +129081,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "11",
-      "votes": "11",
+      "rating": "12",
+      "votes": "12",
       "parent": null,
       "id": "1452878067",
       "detailed_rating": {
@@ -129130,12 +129130,16 @@
             [
                "8883612",
                1712991448
+            ],
+            [
+               "5334590",
+               1713295019
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 11,
-      "justified_votes": 11
+      "justified_rating": 12,
+      "justified_votes": 12
    },
    "1709470268": {
       "title": "SCP-ZH-933 甜點巫獸-巫迦仙",
@@ -129419,8 +129423,8 @@
          "_禁黑"
       ],
       "comments": "0",
-      "rating": "12",
-      "votes": "12",
+      "rating": "13",
+      "votes": "13",
       "parent": null,
       "id": "1453028314",
       "detailed_rating": {
@@ -129472,12 +129476,16 @@
             [
                "7486905",
                1711250543
+            ],
+            [
+               "5334590",
+               1713295019
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 12,
-      "justified_votes": 12
+      "justified_rating": 13,
+      "justified_votes": 13
    },
    "1710426638": {
       "title": "驚蟄",
