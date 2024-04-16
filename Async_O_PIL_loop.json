@@ -81089,8 +81089,8 @@
       ],
       "hidden_tags": [],
       "comments": "2",
-      "rating": "4",
-      "votes": "4",
+      "rating": "5",
+      "votes": "5",
       "parent": null,
       "id": "1329931195",
       "detailed_rating": {
@@ -81110,12 +81110,16 @@
             [
                "DELETED",
                1695270461
+            ],
+            [
+               "8418020",
+               1713226112
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 3,
-      "justified_votes": 3
+      "justified_rating": 4,
+      "justified_votes": 4
    },
    "1636532709": {
       "title": "維安設施檔案：Site-ZH-44",
@@ -104877,8 +104881,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "6",
-      "votes": "6",
+      "rating": "7",
+      "votes": "7",
       "parent": null,
       "id": "1436572679",
       "detailed_rating": {
@@ -104906,12 +104910,16 @@
             [
                "8883612",
                1706419988
+            ],
+            [
+               "8418020",
+               1713226112
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 5,
-      "justified_votes": 5
+      "justified_rating": 6,
+      "justified_votes": 6
    },
    "1666795805": {
       "title": "基金會空勤收容指導講習-1",
