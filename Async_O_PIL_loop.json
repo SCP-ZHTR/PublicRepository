@@ -130626,8 +130626,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "10",
-      "votes": "10",
+      "rating": "11",
+      "votes": "11",
       "parent": null,
       "id": "1453330400",
       "detailed_rating": {
@@ -130671,12 +130671,16 @@
             [
                "6217438",
                1713190175
+            ],
+            [
+               "5334590",
+               1713294889
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 10,
-      "justified_votes": 10
+      "justified_rating": 11,
+      "justified_votes": 11
    },
    "1713274560": {
       "title": "春天前的一次反逆/翻譯",
