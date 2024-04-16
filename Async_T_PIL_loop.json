@@ -133924,8 +133924,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "3",
-      "votes": "3",
+      "rating": "4",
+      "votes": "4",
       "parent": null,
       "id": "1453330512",
       "detailed_rating": {
@@ -133941,12 +133941,16 @@
             [
                "7504530",
                1713156164
+            ],
+            [
+               "8177208",
+               1713306758
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 3,
-      "justified_votes": 3
+      "justified_rating": 4,
+      "justified_votes": 4
    },
    "1713110989": {
       "title": "SCP-3017 - 嫌疑犯",
