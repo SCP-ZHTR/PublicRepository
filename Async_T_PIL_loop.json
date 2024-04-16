@@ -134136,5 +134136,32 @@
       "deleted": false,
       "justified_rating": 1,
       "justified_votes": 1
+   },
+   "1713274200": {
+      "title": "Mogana的提案 - 亡（無）命之友",
+      "fullname": "jiraku-mogana-s-proposal-ii",
+      "created_at": "1713274200",
+      "created_by": "7605593",
+      "tags": [
+         "001提案",
+         "apollyon",
+         "jp",
+         "scp",
+         "オーバーロードキャンペーン",
+         "ジョンドゥコン24",
+         "屍體",
+         "屍體史體",
+         "翻譯"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1453349292",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
