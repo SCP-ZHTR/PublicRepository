@@ -93197,8 +93197,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "20",
-      "votes": "20",
+      "rating": "21",
+      "votes": "21",
       "parent": null,
       "id": "1401991661",
       "detailed_rating": {
@@ -93282,12 +93282,16 @@
             [
                "DELETED",
                1695208468
+            ],
+            [
+               "9104873",
+               1713343245
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 19,
-      "justified_votes": 19
+      "justified_rating": 20,
+      "justified_votes": 20
    },
    "1648525872": {
       "title": "我們都只是血肉之軀",
