@@ -134167,8 +134167,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "1",
-      "votes": "1",
+      "rating": "3",
+      "votes": "3",
       "parent": null,
       "id": "1453349292",
       "detailed_rating": {
@@ -134176,11 +134176,44 @@
             [
                "8452537",
                1713277964
+            ],
+            [
+               "4357011",
+               1713362603
+            ],
+            [
+               "6217438",
+               1713362603
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 1,
-      "justified_votes": 1
+      "justified_rating": 3,
+      "justified_votes": 3
+   },
+   "1713359681": {
+      "title": "項目企劃書 2019-319：《都市的擁抱》",
+      "fullname": "proposition-de-projet-2019-319",
+      "created_at": "1713359681",
+      "created_by": "4357011",
+      "tags": [
+         "awcy",
+         "fr",
+         "goi格式",
+         "二次翻譯",
+         "翻譯"
+      ],
+      "hidden_tags": [
+         "_awcy-goi格式"
+      ],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1453353996",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
