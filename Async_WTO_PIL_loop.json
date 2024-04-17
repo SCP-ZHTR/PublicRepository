@@ -14,7 +14,7 @@
       "parent": "admin:manage",
       "id": "630642444",
       "detailed_rating": {},
-      "deleted": false,
+      "deleted": true,
       "justified_rating": 0,
       "justified_votes": 0
    },
@@ -13708,6 +13708,25 @@
       "id": "1453334630",
       "detailed_rating": {},
       "deleted": true,
+      "justified_rating": 0,
+      "justified_votes": 0
+   },
+   "1551942678_630642444": {
+      "title": "Blank template",
+      "fullname": "start",
+      "created_at": "1551942678_630642444",
+      "created_by": "5225164",
+      "tags": [
+         "沙盒"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": "admin:manage",
+      "id": "630642444",
+      "detailed_rating": {},
+      "deleted": false,
       "justified_rating": 0,
       "justified_votes": 0
    }
