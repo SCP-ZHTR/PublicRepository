@@ -25008,8 +25008,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "2",
-      "votes": "2",
+      "rating": "3",
+      "votes": "3",
       "parent": null,
       "id": "630642439",
       "detailed_rating": {
@@ -25021,12 +25021,16 @@
             [
                "4107284",
                1713324752
+            ],
+            [
+               "5415046",
+               1713325737
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 2,
-      "justified_votes": 2
+      "justified_rating": 3,
+      "justified_votes": 3
    },
    "1551942677_630642440": {
       "title": "頂部選單",
