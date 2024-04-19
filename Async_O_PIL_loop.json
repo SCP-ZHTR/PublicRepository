@@ -65544,8 +65544,8 @@
       ],
       "hidden_tags": [],
       "comments": "6",
-      "rating": "17",
-      "votes": "41",
+      "rating": "18",
+      "votes": "42",
       "parent": null,
       "id": "1308459903",
       "detailed_rating": {
@@ -65665,6 +65665,10 @@
             [
                "8452537",
                1713365822
+            ],
+            [
+               "8883612",
+               1713499594
             ]
          ],
          "-": [
@@ -65719,8 +65723,8 @@
          ]
       },
       "deleted": false,
-      "justified_rating": 18,
-      "justified_votes": 40
+      "justified_rating": 19,
+      "justified_votes": 41
    },
    "1617460539": {
       "title": "SCP-ZH-250 - 人造的雪色面具",
@@ -122094,8 +122098,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "10",
-      "votes": "10",
+      "rating": "11",
+      "votes": "11",
       "parent": null,
       "id": "1450861839",
       "detailed_rating": {
@@ -122139,12 +122143,16 @@
             [
                "7504530",
                1708908450
+            ],
+            [
+               "8377183",
+               1713499594
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 10,
-      "justified_votes": 10
+      "justified_rating": 11,
+      "justified_votes": 11
    },
    "1697900053": {
       "title": "箱子裡的希望",
@@ -123606,8 +123614,8 @@
          "_cc"
       ],
       "comments": "1",
-      "rating": "27",
-      "votes": "27",
+      "rating": "28",
+      "votes": "28",
       "parent": null,
       "id": "1451118135",
       "detailed_rating": {
@@ -123719,12 +123727,16 @@
             [
                "8846720",
                1710915490
+            ],
+            [
+               "8452537",
+               1713499594
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 27,
-      "justified_votes": 27
+      "justified_rating": 28,
+      "justified_votes": 28
    },
    "1698501386": {
       "title": "SCP-ZH-806 - 我是為了你好",
@@ -126577,8 +126589,8 @@
          "_探險者mk"
       ],
       "comments": "1",
-      "rating": "24",
-      "votes": "24",
+      "rating": "25",
+      "votes": "25",
       "parent": null,
       "id": "1452503843",
       "detailed_rating": {
@@ -126678,12 +126690,16 @@
             [
                "7504530",
                1712332498
+            ],
+            [
+               "8377183",
+               1713499594
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 24,
-      "justified_votes": 24
+      "justified_rating": 25,
+      "justified_votes": 25
    },
    "1706777299": {
       "title": "插曲：大麻煩",
@@ -127920,7 +127936,7 @@
          "_cc",
          "_偉大長老"
       ],
-      "comments": "2",
+      "comments": "3",
       "rating": "19",
       "votes": "19",
       "parent": "secure-facility-dossier-lunar-area-32",
