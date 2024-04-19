@@ -134282,13 +134282,36 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "0",
-      "votes": "0",
+      "rating": "5",
+      "votes": "5",
       "parent": null,
       "id": "1453361917",
-      "detailed_rating": {},
+      "detailed_rating": {
+         "+": [
+            [
+               "7827462",
+               1713499765
+            ],
+            [
+               "7605593",
+               1713499765
+            ],
+            [
+               "6217438",
+               1713499765
+            ],
+            [
+               "8854072",
+               1713499765
+            ],
+            [
+               "8846720",
+               1713499765
+            ]
+         ]
+      },
       "deleted": false,
-      "justified_rating": 0,
-      "justified_votes": 0
+      "justified_rating": 5,
+      "justified_votes": 5
    }
 }
