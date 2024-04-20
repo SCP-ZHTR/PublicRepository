@@ -130778,7 +130778,7 @@
       "justified_votes": 4
    },
    "1713603308": {
-      "title": "SCP-ZH-683",
+      "title": "SCP-ZH-683 - 中華雞蛇獸",
       "fullname": "scp-zh-683",
       "created_at": "1713603308",
       "created_by": "5415046",
@@ -130796,8 +130796,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "1",
-      "votes": "1",
+      "rating": "3",
+      "votes": "3",
       "parent": null,
       "id": "1453399275",
       "detailed_rating": {
@@ -130805,11 +130805,19 @@
             [
                "5415046",
                1713603632
+            ],
+            [
+               "4990678",
+               1713604149
+            ],
+            [
+               "5435485",
+               1713604149
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 1,
-      "justified_votes": 1
+      "justified_rating": 3,
+      "justified_votes": 3
    }
 }
