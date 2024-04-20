@@ -127119,8 +127119,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "17",
-      "votes": "17",
+      "rating": "18",
+      "votes": "18",
       "parent": null,
       "id": "1452528333",
       "detailed_rating": {
@@ -127192,12 +127192,16 @@
             [
                "8883612",
                1710139833
+            ],
+            [
+               "6952002",
+               1713641363
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 17,
-      "justified_votes": 17
+      "justified_rating": 18,
+      "justified_votes": 18
    },
    "1707139510": {
       "title": "SCP-ZH-345 - 不願參與的悲劇",
