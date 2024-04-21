@@ -13763,5 +13763,22 @@
       "deleted": true,
       "justified_rating": 0,
       "justified_votes": 0
+   },
+   "1713707974": {
+      "title": "請求批准完善大腦移植手術，以使身分恆定，並將其作為永生狀態下，高齡所致損傷之治療方案",
+      "fullname": "surgical-identity-perpetuation",
+      "created_at": "1713707974",
+      "created_by": "6381244",
+      "tags": [],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1453404711",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
