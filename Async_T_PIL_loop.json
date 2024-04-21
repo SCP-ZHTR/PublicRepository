@@ -134382,5 +134382,27 @@
       "deleted": false,
       "justified_rating": 1,
       "justified_votes": 1
+   },
+   "1713711471": {
+      "title": "機動特遣隊-FR",
+      "fullname": "forces-intervention",
+      "created_at": "1713711471",
+      "created_by": "8452537",
+      "tags": [
+         "fr",
+         "中心",
+         "指導",
+         "翻譯"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1453404828",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
