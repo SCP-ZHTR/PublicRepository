@@ -68211,8 +68211,8 @@
          "_cc"
       ],
       "comments": "18",
-      "rating": "9",
-      "votes": "9",
+      "rating": "10",
+      "votes": "10",
       "parent": null,
       "id": "1310919879",
       "detailed_rating": {
@@ -68252,12 +68252,16 @@
             [
                "4239775",
                1619884800
+            ],
+            [
+               "8543386",
+               1713681425
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 9,
-      "justified_votes": 9
+      "justified_rating": 10,
+      "justified_votes": 10
    },
    "1619689369": {
       "title": "SCP-ZH-297 - 黴菌，霉菌",
