@@ -52724,8 +52724,8 @@
       ],
       "hidden_tags": [],
       "comments": "7",
-      "rating": "36",
-      "votes": "36",
+      "rating": "37",
+      "votes": "37",
       "parent": null,
       "id": "1305118400",
       "detailed_rating": {
@@ -52873,12 +52873,16 @@
             [
                "8846720",
                1713687681
+            ],
+            [
+               "7618125",
+               1713788191
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 36,
-      "justified_votes": 36
+      "justified_rating": 37,
+      "justified_votes": 37
    },
    "1602125910": {
       "title": "Ctrl Z博士從週刊上剪下的四格漫畫",
