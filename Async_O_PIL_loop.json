@@ -130883,5 +130883,32 @@
       "deleted": false,
       "justified_rating": 7,
       "justified_votes": 7
+   },
+   "1713862801": {
+      "title": "SCP-ZH-581 - 空爆燃燒神論",
+      "fullname": "scp-zh-581",
+      "created_at": "1713862801",
+      "created_by": "7605593",
+      "tags": [
+         "scp",
+         "site-zh-50",
+         "儀式性",
+         "化學性",
+         "原創",
+         "戰術神學部",
+         "機密分級",
+         "武器",
+         "軍事"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1453413112",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
