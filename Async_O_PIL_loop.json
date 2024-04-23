@@ -65335,8 +65335,8 @@
          "_cc"
       ],
       "comments": "2",
-      "rating": "23",
-      "votes": "23",
+      "rating": "24",
+      "votes": "24",
       "parent": null,
       "id": "1308458353",
       "detailed_rating": {
@@ -65432,12 +65432,16 @@
             [
                "5454699",
                1617206400
+            ],
+            [
+               "6690335",
+               1713881507
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 23,
-      "justified_votes": 23
+      "justified_rating": 24,
+      "justified_votes": 24
    },
    "1617229366": {
       "title": "2021愚人節主頁",
