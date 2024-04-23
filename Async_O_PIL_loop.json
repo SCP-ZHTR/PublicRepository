@@ -36150,8 +36150,8 @@
          "_cc"
       ],
       "comments": "1",
-      "rating": "37",
-      "votes": "37",
+      "rating": "38",
+      "votes": "38",
       "parent": null,
       "id": "1024695596",
       "detailed_rating": {
@@ -36303,12 +36303,16 @@
             [
                "DELETED",
                "[UNKNOWN]"
+            ],
+            [
+               "9079426",
+               1713884062
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 36,
-      "justified_votes": 36
+      "justified_rating": 37,
+      "justified_votes": 37
    },
    "1587128589": {
       "title": "SCP-ZH-247 - 讀心血姬",
