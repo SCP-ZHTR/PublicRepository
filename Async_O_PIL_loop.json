@@ -90333,8 +90333,8 @@
          "_飛"
       ],
       "comments": "0",
-      "rating": "5",
-      "votes": "11",
+      "rating": "6",
+      "votes": "12",
       "parent": null,
       "id": "1331826627",
       "detailed_rating": {
@@ -90370,6 +90370,10 @@
             [
                "8452537",
                1709634857
+            ],
+            [
+               "9104873",
+               1713938712
             ]
          ],
          "-": [
@@ -90388,8 +90392,8 @@
          ]
       },
       "deleted": false,
-      "justified_rating": 5,
-      "justified_votes": 11
+      "justified_rating": 6,
+      "justified_votes": 12
    },
    "1646407396": {
       "title": "SCP-ZH-798 - 夜曲之後",
