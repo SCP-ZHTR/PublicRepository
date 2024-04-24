@@ -87914,8 +87914,8 @@
       ],
       "hidden_tags": [],
       "comments": "6",
-      "rating": "28",
-      "votes": "28",
+      "rating": "29",
+      "votes": "29",
       "parent": null,
       "id": "1331746243",
       "detailed_rating": {
@@ -88031,12 +88031,16 @@
             [
                "DELETED",
                1695270056
+            ],
+            [
+               "9104873",
+               1713942597
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 27,
-      "justified_votes": 27
+      "justified_rating": 28,
+      "justified_votes": 28
    },
    "1645455267": {
       "title": "又是個該死的工作天",
