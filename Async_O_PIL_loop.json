@@ -113234,8 +113234,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "7",
-      "votes": "7",
+      "rating": "8",
+      "votes": "8",
       "parent": null,
       "id": "1447216398",
       "detailed_rating": {
@@ -113267,12 +113267,16 @@
             [
                "DELETED",
                1711079131
+            ],
+            [
+               "9104873",
+               1713947071
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 6,
-      "justified_votes": 6
+      "justified_rating": 7,
+      "justified_votes": 7
    },
    "1681014694": {
       "title": "聖誕節快樂",
