@@ -134373,11 +134373,14 @@
          "死亡終了",
          "翻譯"
       ],
-      "hidden_tags": [],
+      "hidden_tags": [
+         "_cc",
+         "_普羅米修斯實驗室-goi格式"
+      ],
       "comments": "0",
       "rating": "2",
       "votes": "2",
-      "parent": null,
+      "parent": "end-of-death-hub",
       "id": "1453404711",
       "detailed_rating": {
          "+": [
