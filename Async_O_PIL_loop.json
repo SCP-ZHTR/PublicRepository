@@ -99353,8 +99353,8 @@
          "_禁黑"
       ],
       "comments": "12",
-      "rating": "-2",
-      "votes": "26",
+      "rating": "-1",
+      "votes": "27",
       "parent": null,
       "id": "1420543583",
       "detailed_rating": {
@@ -99406,6 +99406,10 @@
             [
                "DELETED",
                1686090520
+            ],
+            [
+               "8543386",
+               1713952973
             ]
          ],
          "-": [
@@ -99468,8 +99472,8 @@
          ]
       },
       "deleted": false,
-      "justified_rating": -5,
-      "justified_votes": 23
+      "justified_rating": -4,
+      "justified_votes": 24
    },
    "1659800934": {
       "title": "SCP-ZH-941 - 你才沒有在奮鬥",
