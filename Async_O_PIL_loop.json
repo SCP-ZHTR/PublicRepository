@@ -39561,6 +39561,7 @@
          "scp",
          "動物",
          "原創",
+         "待刪除",
          "掠食性",
          "生物危害",
          "生物性",
@@ -39571,7 +39572,7 @@
          "_a4",
          "_cc"
       ],
-      "comments": "17",
+      "comments": "18",
       "rating": "-2",
       "votes": "20",
       "parent": null,
@@ -99338,7 +99339,7 @@
       "hidden_tags": [
          "_禁黑"
       ],
-      "comments": "11",
+      "comments": "12",
       "rating": "-2",
       "votes": "26",
       "parent": null,
