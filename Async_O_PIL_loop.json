@@ -114601,8 +114601,8 @@
          "_cc"
       ],
       "comments": "2",
-      "rating": "24",
-      "votes": "24",
+      "rating": "25",
+      "votes": "25",
       "parent": null,
       "id": "1448454559",
       "detailed_rating": {
@@ -114702,12 +114702,16 @@
             [
                "5338547",
                1686593560
+            ],
+            [
+               "9104873",
+               1713947339
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 24,
-      "justified_votes": 24
+      "justified_rating": 25,
+      "justified_votes": 25
    },
    "1686572154": {
       "title": "未知航程：海峽戰役2-2",
