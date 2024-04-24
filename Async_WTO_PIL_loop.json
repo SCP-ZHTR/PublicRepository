@@ -13799,5 +13799,22 @@
       "deleted": false,
       "justified_rating": 0,
       "justified_votes": 0
+   },
+   "1713949505": {
+      "title": "SCP-3060-JP - 「へ」是「非病死者」（変死体／へんしたい）",
+      "fullname": "scp-3060-jp",
+      "created_at": "1713949505",
+      "created_by": "7605593",
+      "tags": [],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1453438989",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
