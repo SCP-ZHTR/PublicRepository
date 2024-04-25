@@ -134562,5 +134562,40 @@
       "deleted": false,
       "justified_rating": 1,
       "justified_votes": 1
+   },
+   "1714041000": {
+      "title": "SCP-3792-JP - 「ひ」是「貧膜類」（貧膜口類／ひんまくこうるい）",
+      "fullname": "scp-3792-jp",
+      "created_at": "1714041000",
+      "created_by": "7605593",
+      "tags": [
+         "jp",
+         "k級情景",
+         "scp",
+         "始のいろは",
+         "寄生性",
+         "屍體",
+         "屍體史體",
+         "微觀",
+         "智能",
+         "機密分級",
+         "水棲",
+         "活物",
+         "物種",
+         "生物危害",
+         "翻譯",
+         "通訊",
+         "電磁"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1453444297",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
