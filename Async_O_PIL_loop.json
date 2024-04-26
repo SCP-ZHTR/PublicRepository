@@ -131039,7 +131039,7 @@
          "電子"
       ],
       "hidden_tags": [],
-      "comments": "1",
+      "comments": "2",
       "rating": "0",
       "votes": "4",
       "parent": null,
@@ -131089,13 +131089,24 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "0",
-      "votes": "0",
+      "rating": "-1",
+      "votes": "1",
       "parent": null,
       "id": "1453452943",
-      "detailed_rating": {},
+      "detailed_rating": {
+         "-": [
+            [
+               "4990678",
+               1714132240
+            ],
+            [
+               "7571354",
+               1714132240
+            ]
+         ]
+      },
       "deleted": false,
-      "justified_rating": 0,
-      "justified_votes": 0
+      "justified_rating": -2,
+      "justified_votes": 2
    }
 }
