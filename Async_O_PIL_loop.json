@@ -131082,7 +131082,7 @@
             ]
          ]
       },
-      "deleted": false,
+      "deleted": true,
       "justified_rating": -1,
       "justified_votes": 7
    },
@@ -131131,7 +131131,7 @@
             ]
          ]
       },
-      "deleted": false,
+      "deleted": true,
       "justified_rating": 0,
       "justified_votes": 4
    }
