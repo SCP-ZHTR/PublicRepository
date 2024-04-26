@@ -131063,5 +131063,33 @@
       "deleted": false,
       "justified_rating": -3,
       "justified_votes": 3
+   },
+   "1714131352": {
+      "title": "SCP-ZH-859 - 大尾鱸鰻 歸於塵土",
+      "fullname": "scp-zh-859-now",
+      "created_at": "1714131352",
+      "created_by": "8283755",
+      "tags": [
+         "k級情景",
+         "neutralized",
+         "人形",
+         "人造物品",
+         "博士",
+         "原創",
+         "段落",
+         "視覺影響",
+         "認知危害",
+         "電子"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1453452943",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
