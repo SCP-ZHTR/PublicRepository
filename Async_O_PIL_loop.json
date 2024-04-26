@@ -131040,8 +131040,8 @@
       ],
       "hidden_tags": [],
       "comments": "2",
-      "rating": "-1",
-      "votes": "5",
+      "rating": "0",
+      "votes": "6",
       "parent": null,
       "id": "1453452670",
       "detailed_rating": {
@@ -131067,12 +131067,16 @@
             [
                "9079426",
                1714131967
+            ],
+            [
+               "8452537",
+               1714133720
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": -1,
-      "justified_votes": 5
+      "justified_rating": 0,
+      "justified_votes": 6
    },
    "1714131352": {
       "title": "SCP-ZH-859 - 大尾鱸鰻 歸於塵土",
