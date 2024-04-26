@@ -130992,8 +130992,8 @@
       ],
       "hidden_tags": [],
       "comments": "3",
-      "rating": "-2",
-      "votes": "4",
+      "rating": "-3",
+      "votes": "5",
       "parent": null,
       "id": "1453413112",
       "detailed_rating": {
@@ -131015,12 +131015,16 @@
             [
                "8283755",
                1714013593
+            ],
+            [
+               "5370805",
+               1714135314
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": -2,
-      "justified_votes": 4
+      "justified_rating": -3,
+      "justified_votes": 5
    },
    "1714129588": {
       "title": "SCP-ZH-859 - 大尾鱸鰻 重出江湖",
@@ -131040,8 +131044,8 @@
       ],
       "hidden_tags": [],
       "comments": "4",
-      "rating": "0",
-      "votes": "6",
+      "rating": "-1",
+      "votes": "7",
       "parent": null,
       "id": "1453452670",
       "detailed_rating": {
@@ -131057,6 +131061,10 @@
             [
                "5415046",
                1714133182
+            ],
+            [
+               "5370805",
+               1714135314
             ]
          ],
          "+": [
@@ -131075,8 +131083,8 @@
          ]
       },
       "deleted": false,
-      "justified_rating": 0,
-      "justified_votes": 6
+      "justified_rating": -1,
+      "justified_votes": 7
    },
    "1714131352": {
       "title": "SCP-ZH-859 - 大尾鱸鰻 歸於塵土",
