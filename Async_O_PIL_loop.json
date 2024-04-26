@@ -131040,16 +131040,12 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "-3",
+      "rating": "-1",
       "votes": "3",
       "parent": null,
       "id": "1453452670",
       "detailed_rating": {
          "-": [
-            [
-               "8283755",
-               1714131014
-            ],
             [
                "4990678",
                1714131152
@@ -131058,11 +131054,21 @@
                "7521095",
                1714131689
             ]
+         ],
+         "+": [
+            [
+               "8283755",
+               1714131967
+            ],
+            [
+               "9079426",
+               1714131967
+            ]
          ]
       },
       "deleted": false,
-      "justified_rating": -3,
-      "justified_votes": 3
+      "justified_rating": 0,
+      "justified_votes": 4
    },
    "1714131352": {
       "title": "SCP-ZH-859 - 大尾鱸鰻 歸於塵土",
