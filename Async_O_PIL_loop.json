@@ -96619,8 +96619,8 @@
          "_cc"
       ],
       "comments": "1",
-      "rating": "18",
-      "votes": "18",
+      "rating": "19",
+      "votes": "19",
       "parent": null,
       "id": "1403644568",
       "detailed_rating": {
@@ -96696,12 +96696,16 @@
             [
                "9075244",
                1711268446
+            ],
+            [
+               "8854072",
+               1714190013
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 17,
-      "justified_votes": 17
+      "justified_rating": 18,
+      "justified_votes": 18
    },
    "1655944725": {
       "title": "site-zh-13站點標誌",
