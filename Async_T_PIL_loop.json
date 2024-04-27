@@ -127037,8 +127037,8 @@
          "_licensebox"
       ],
       "comments": "0",
-      "rating": "3",
-      "votes": "3",
+      "rating": "4",
+      "votes": "4",
       "parent": null,
       "id": "1450858607",
       "detailed_rating": {
@@ -127054,12 +127054,16 @@
             [
                "6217438",
                1697891347
+            ],
+            [
+               "8543386",
+               1714203129
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 3,
-      "justified_votes": 3
+      "justified_rating": 4,
+      "justified_votes": 4
    },
    "1697889064": {
       "title": "維安設施檔案：月球無人區Area-32",
@@ -130142,8 +130146,8 @@
       ],
       "hidden_tags": [],
       "comments": "4",
-      "rating": "4",
-      "votes": "4",
+      "rating": "5",
+      "votes": "5",
       "parent": null,
       "id": "1451970903",
       "detailed_rating": {
@@ -130163,12 +130167,16 @@
             [
                "8081917",
                1704939765
+            ],
+            [
+               "8543386",
+               1714203129
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 4,
-      "justified_votes": 4
+      "justified_rating": 5,
+      "justified_votes": 5
    },
    "1703439605": {
       "title": "SCP-004-JP - 不存矛盾的計算機",
@@ -131029,8 +131037,8 @@
          "_licensebox"
       ],
       "comments": "0",
-      "rating": "1",
-      "votes": "1",
+      "rating": "2",
+      "votes": "2",
       "parent": null,
       "id": "1452187030",
       "detailed_rating": {
@@ -131038,12 +131046,16 @@
             [
                "4442284",
                1709035659
+            ],
+            [
+               "8543386",
+               1714203129
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 1,
-      "justified_votes": 1
+      "justified_rating": 2,
+      "justified_votes": 2
    },
    "1705301386": {
       "title": "SCP-8000競賽中心頁",
