@@ -13877,14 +13877,39 @@
          "待刪除"
       ],
       "hidden_tags": [],
-      "comments": "3",
-      "rating": "0",
-      "votes": "0",
+      "comments": "4",
+      "rating": "-3",
+      "votes": "5",
       "parent": null,
       "id": "1453413112",
-      "detailed_rating": {},
+      "detailed_rating": {
+         "+": [
+            [
+               "9079426",
+               1714232971
+            ]
+         ],
+         "-": [
+            [
+               "8283755",
+               1714232971
+            ],
+            [
+               "7840542",
+               1714232971
+            ],
+            [
+               "5370805",
+               1714232971
+            ],
+            [
+               "5415046",
+               1714232971
+            ]
+         ]
+      },
       "deleted": false,
-      "justified_rating": 0,
-      "justified_votes": 0
+      "justified_rating": -3,
+      "justified_votes": 5
    }
 }
