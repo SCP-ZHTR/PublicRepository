@@ -127126,8 +127126,8 @@
          "_licensebox"
       ],
       "comments": "0",
-      "rating": "1",
-      "votes": "1",
+      "rating": "2",
+      "votes": "2",
       "parent": null,
       "id": "1450873617",
       "detailed_rating": {
@@ -127135,12 +127135,16 @@
             [
                "6981058",
                1698034263
+            ],
+            [
+               "8543386",
+               1714203402
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 1,
-      "justified_votes": 1
+      "justified_rating": 2,
+      "justified_votes": 2
    },
    "1697986488": {
       "title": "SCP-4498 - Elias Shaw的多元宇宙",
