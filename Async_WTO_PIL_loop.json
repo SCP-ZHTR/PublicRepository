@@ -13917,16 +13917,55 @@
       "fullname": "scp-zh-315",
       "created_at": "1714267329",
       "created_by": "9113131",
-      "tags": [],
+      "tags": [
+         "待刪除"
+      ],
       "hidden_tags": [],
-      "comments": "0",
-      "rating": "0",
-      "votes": "0",
+      "comments": "1",
+      "rating": "-6",
+      "votes": "8",
       "parent": null,
       "id": "1453491810",
-      "detailed_rating": {},
-      "deleted": true,
-      "justified_rating": 0,
-      "justified_votes": 0
+      "detailed_rating": {
+         "+": [
+            [
+               "9113131",
+               1714318618
+            ]
+         ],
+         "-": [
+            [
+               "8452537",
+               1714318618
+            ],
+            [
+               "7521095",
+               1714318618
+            ],
+            [
+               "8814983",
+               1714318618
+            ],
+            [
+               "5370805",
+               1714318618
+            ],
+            [
+               "4239775",
+               1714318618
+            ],
+            [
+               "7571354",
+               1714318618
+            ],
+            [
+               "8543386",
+               1714318618
+            ]
+         ]
+      },
+      "deleted": false,
+      "justified_rating": -6,
+      "justified_votes": 8
    }
 }
