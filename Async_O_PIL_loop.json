@@ -66363,8 +66363,8 @@
       ],
       "hidden_tags": [],
       "comments": "4",
-      "rating": "6",
-      "votes": "10",
+      "rating": "7",
+      "votes": "11",
       "parent": null,
       "id": "1308565690",
       "detailed_rating": {
@@ -66400,6 +66400,10 @@
             [
                "5454699",
                1618243200
+            ],
+            [
+               "8452537",
+               1714277390
             ]
          ],
          "-": [
@@ -66414,8 +66418,8 @@
          ]
       },
       "deleted": false,
-      "justified_rating": 6,
-      "justified_votes": 10
+      "justified_rating": 7,
+      "justified_votes": 11
    },
    "1618277020": {
       "title": "SCP-ZH-093 - 藝術就是……",
