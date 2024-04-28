@@ -130966,8 +130966,8 @@
       ],
       "hidden_tags": [],
       "comments": "5",
-      "rating": "7",
-      "votes": "9",
+      "rating": "8",
+      "votes": "10",
       "parent": null,
       "id": "1453399275",
       "detailed_rating": {
@@ -131003,6 +131003,10 @@
             [
                "7571354",
                1714316061
+            ],
+            [
+               "8854072",
+               1714317681
             ]
          ],
          "-": [
@@ -131013,8 +131017,8 @@
          ]
       },
       "deleted": false,
-      "justified_rating": 7,
-      "justified_votes": 9
+      "justified_rating": 8,
+      "justified_votes": 10
    },
    "1713862801": {
       "title": "SCP-ZH-581 - 空爆燃燒神論",
