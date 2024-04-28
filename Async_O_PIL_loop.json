@@ -124825,8 +124825,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "7",
-      "votes": "7",
+      "rating": "8",
+      "votes": "8",
       "parent": "scp-zh-086",
       "id": "1451398384",
       "detailed_rating": {
@@ -124858,12 +124858,16 @@
             [
                "7073060",
                1703058519
+            ],
+            [
+               "6952002",
+               1714341611
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 7,
-      "justified_votes": 7
+      "justified_rating": 8,
+      "justified_votes": 8
    },
    "1700060641": {
       "title": "SCP-ZH-206 - 非旅行者",
@@ -125631,8 +125635,8 @@
          "_禁黑"
       ],
       "comments": "0",
-      "rating": "11",
-      "votes": "11",
+      "rating": "12",
+      "votes": "12",
       "parent": null,
       "id": "1451996101",
       "detailed_rating": {
@@ -125680,12 +125684,16 @@
             [
                "8319365",
                1709822686
+            ],
+            [
+               "6952002",
+               1714341611
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 11,
-      "justified_votes": 11
+      "justified_rating": 12,
+      "justified_votes": 12
    },
    "1703899834": {
       "title": "Kislorod與他的思念",
@@ -131236,5 +131244,26 @@
       "deleted": true,
       "justified_rating": -6,
       "justified_votes": 8
+   },
+   "1714341295": {
+      "title": "你是在害怕想起來嗎？",
+      "fullname": "are-you-afraid-to-remember",
+      "created_at": "1714341295",
+      "created_by": "6952002",
+      "tags": [
+         "原創",
+         "藝術作品",
+         "轉世計劃"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1453495308",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
