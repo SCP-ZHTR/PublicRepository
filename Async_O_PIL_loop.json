@@ -113714,8 +113714,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "5",
-      "votes": "7",
+      "rating": "4",
+      "votes": "8",
       "parent": null,
       "id": "1447589392",
       "detailed_rating": {
@@ -113749,12 +113749,16 @@
             [
                "5415046",
                1682911717
+            ],
+            [
+               "6952002",
+               1714341755
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 4,
-      "justified_votes": 6
+      "justified_rating": 3,
+      "justified_votes": 7
    },
    "1683638290": {
       "title": "未知航程：恆星之影1-3",
@@ -131257,13 +131261,20 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "0",
-      "votes": "0",
+      "rating": "1",
+      "votes": "1",
       "parent": null,
       "id": "1453495308",
-      "detailed_rating": {},
+      "detailed_rating": {
+         "+": [
+            [
+               "6952002",
+               1714341755
+            ]
+         ]
+      },
       "deleted": false,
-      "justified_rating": 0,
-      "justified_votes": 0
+      "justified_rating": 1,
+      "justified_votes": 1
    }
 }
