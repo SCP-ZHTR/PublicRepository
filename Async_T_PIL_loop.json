@@ -134388,8 +134388,8 @@
          "_licensebox"
       ],
       "comments": "0",
-      "rating": "5",
-      "votes": "5",
+      "rating": "6",
+      "votes": "6",
       "parent": null,
       "id": "1453394458",
       "detailed_rating": {
@@ -134413,12 +134413,16 @@
             [
                "8033564",
                1714276716
+            ],
+            [
+               "8543386",
+               1714284451
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 5,
-      "justified_votes": 5
+      "justified_rating": 6,
+      "justified_votes": 6
    },
    "1713707974": {
       "title": "請求批准完善大腦移植手術，以使身分恆定，並將其作為永生狀態下，高齡所致損傷之治療方案",
