@@ -12285,8 +12285,8 @@
          "_cc"
       ],
       "comments": "1",
-      "rating": "17",
-      "votes": "17",
+      "rating": "18",
+      "votes": "18",
       "parent": null,
       "id": "807641058",
       "detailed_rating": {
@@ -12358,12 +12358,16 @@
             [
                "8883612",
                1707881438
+            ],
+            [
+               "6547888",
+               1714314978
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 17,
-      "justified_votes": 17
+      "justified_rating": 18,
+      "justified_votes": 18
    },
    "1560783926": {
       "title": "資料庫錯誤？",
@@ -62074,8 +62078,8 @@
       ],
       "hidden_tags": [],
       "comments": "2",
-      "rating": "6",
-      "votes": "6",
+      "rating": "7",
+      "votes": "7",
       "parent": "scpdeclassified",
       "id": "1308612403",
       "detailed_rating": {
@@ -62103,12 +62107,16 @@
             [
                "7226401",
                1618588800
+            ],
+            [
+               "6547888",
+               1714314978
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 6,
-      "justified_votes": 6
+      "justified_rating": 7,
+      "justified_votes": 7
    },
    "1618600949": {
       "title": "在紅色果實的樹下",
