@@ -130965,8 +130965,8 @@
          "鳥類"
       ],
       "hidden_tags": [],
-      "comments": "0",
-      "rating": "8",
+      "comments": "1",
+      "rating": "6",
       "votes": "8",
       "parent": null,
       "id": "1453399275",
@@ -130999,15 +130999,17 @@
             [
                "6952002",
                1713633191
-            ],
+            ]
+         ],
+         "-": [
             [
                "7600148",
-               1714309282
+               1714309825
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 8,
+      "justified_rating": 6,
       "justified_votes": 8
    },
    "1713862801": {
