@@ -13988,5 +13988,22 @@
       "deleted": true,
       "justified_rating": 0,
       "justified_votes": 0
+   },
+   "1714399200": {
+      "title": "SCP-ZH-709 - 為求紀念，請再BONK我一次",
+      "fullname": "scp-zh-709",
+      "created_at": "1714399200",
+      "created_by": "7605593",
+      "tags": [],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1453498250",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
