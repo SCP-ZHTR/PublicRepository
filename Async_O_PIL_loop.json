@@ -131307,5 +131307,38 @@
       "deleted": false,
       "justified_rating": 8,
       "justified_votes": 8
+   },
+   "1714399200": {
+      "title": "SCP-ZH-709 - 為求紀念，請再BONK我一次",
+      "fullname": "scp-zh-709",
+      "created_at": "1714399200",
+      "created_by": "7605593",
+      "tags": [
+         "archon",
+         "hanku博士",
+         "scp",
+         "site-zh-11",
+         "site-zh-25",
+         "人形",
+         "原創",
+         "幻覺",
+         "犬類",
+         "真紀博士",
+         "研究員knave",
+         "精神影響",
+         "視覺性",
+         "記憶影響",
+         "醫學性"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1453498250",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
