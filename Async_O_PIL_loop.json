@@ -131351,5 +131351,27 @@
       "deleted": false,
       "justified_rating": 1,
       "justified_votes": 1
+   },
+   "1714400073": {
+      "title": "SCP-ZH-371 - 咖哩>:(",
+      "fullname": "scp-zh-371",
+      "created_at": "1714400073",
+      "created_by": "6709715",
+      "tags": [
+         "pending",
+         "scp",
+         "原創",
+         "地點"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1453498323",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
