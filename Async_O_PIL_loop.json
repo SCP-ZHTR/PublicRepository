@@ -131335,7 +131335,7 @@
          "醫學性"
       ],
       "hidden_tags": [],
-      "comments": "0",
+      "comments": "1",
       "rating": "1",
       "votes": "1",
       "parent": null,
@@ -131358,20 +131358,34 @@
       "created_at": "1714400073",
       "created_by": "6709715",
       "tags": [
-         "pending",
          "scp",
          "原創",
          "地點"
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "0",
-      "votes": "0",
+      "rating": "3",
+      "votes": "3",
       "parent": null,
       "id": "1453498323",
-      "detailed_rating": {},
+      "detailed_rating": {
+         "+": [
+            [
+               "4990678",
+               1714400353
+            ],
+            [
+               "7521095",
+               1714400353
+            ],
+            [
+               "8543386",
+               1714400353
+            ]
+         ]
+      },
       "deleted": false,
-      "justified_rating": 0,
-      "justified_votes": 0
+      "justified_rating": 3,
+      "justified_votes": 3
    }
 }
