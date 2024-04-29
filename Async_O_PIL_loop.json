@@ -131336,8 +131336,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "1",
-      "votes": "1",
+      "rating": "2",
+      "votes": "2",
       "parent": null,
       "id": "1453498250",
       "detailed_rating": {
@@ -131345,12 +131345,16 @@
             [
                "4990678",
                1714399661
+            ],
+            [
+               "6503482",
+               1714403767
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 1,
-      "justified_votes": 1
+      "justified_rating": 2,
+      "justified_votes": 2
    },
    "1714400073": {
       "title": "SCP-ZH-371 - 咖哩>:(",
