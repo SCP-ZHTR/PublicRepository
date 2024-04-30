@@ -4636,8 +4636,8 @@
          "_cc"
       ],
       "comments": "0",
-      "rating": "9",
-      "votes": "9",
+      "rating": "10",
+      "votes": "10",
       "parent": "ouroboros",
       "id": "756973906",
       "detailed_rating": {
@@ -4677,12 +4677,16 @@
             [
                "7558128",
                1664294400
+            ],
+            [
+               "8452537",
+               1714494702
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 9,
-      "justified_votes": 9
+      "justified_rating": 10,
+      "justified_votes": 10
    },
    "1555940678": {
       "title": "SCP-116 - 脆弱男孩",
