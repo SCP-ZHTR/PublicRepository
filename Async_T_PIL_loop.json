@@ -134363,7 +134363,7 @@
       ],
       "comments": "0",
       "rating": "5",
-      "votes": "5",
+      "votes": "6",
       "parent": null,
       "id": "1453361917",
       "detailed_rating": {
@@ -134387,12 +134387,16 @@
             [
                "8846720",
                1713499765
+            ],
+            [
+               "7073060",
+               1714479000
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 5,
-      "justified_votes": 5
+      "justified_rating": 6,
+      "justified_votes": 6
    },
    "1713524576": {
       "title": "Wondertainment博士中心頁",
