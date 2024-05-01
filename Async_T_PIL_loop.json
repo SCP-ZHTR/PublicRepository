@@ -50963,8 +50963,8 @@
          "_licensebox"
       ],
       "comments": "1",
-      "rating": "26",
-      "votes": "26",
+      "rating": "27",
+      "votes": "27",
       "parent": "scp-001",
       "id": "1305874329",
       "detailed_rating": {
@@ -51072,12 +51072,16 @@
             [
                "DELETED",
                "[UNKNOWN]"
+            ],
+            [
+               "8172481",
+               1714551858
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 25,
-      "justified_votes": 25
+      "justified_rating": 26,
+      "justified_votes": 26
    },
    "1606142045": {
       "title": "SCP-1410-RU",
