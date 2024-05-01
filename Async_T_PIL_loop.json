@@ -123659,8 +123659,8 @@
          "_禁黑"
       ],
       "comments": "8",
-      "rating": "6",
-      "votes": "6",
+      "rating": "7",
+      "votes": "7",
       "parent": null,
       "id": "1449968384",
       "detailed_rating": {
@@ -123688,12 +123688,16 @@
             [
                "6217438",
                1700218149
+            ],
+            [
+               "9079426",
+               1714542894
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 6,
-      "justified_votes": 6
+      "justified_rating": 7,
+      "justified_votes": 7
    },
    "1694584286": {
       "title": "SCP-3823-JP - 蝸角至孝",
