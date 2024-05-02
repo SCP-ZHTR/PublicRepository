@@ -131276,8 +131276,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "10",
-      "votes": "10",
+      "rating": "11",
+      "votes": "11",
       "parent": null,
       "id": "1453495308",
       "detailed_rating": {
@@ -131321,12 +131321,16 @@
             [
                "5370805",
                1714613246
+            ],
+            [
+               "7605593",
+               1714643355
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 10,
-      "justified_votes": 10
+      "justified_rating": 11,
+      "justified_votes": 11
    },
    "1714399200": {
       "title": "SCP-ZH-709 - 為求紀念，請再BONK我一次",
@@ -131352,8 +131356,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "4",
-      "votes": "4",
+      "rating": "5",
+      "votes": "5",
       "parent": null,
       "id": "1453498250",
       "detailed_rating": {
@@ -131373,12 +131377,16 @@
             [
                "8452537",
                1714462047
+            ],
+            [
+               "7605593",
+               1714643355
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 4,
-      "justified_votes": 4
+      "justified_rating": 5,
+      "justified_votes": 5
    },
    "1714400073": {
       "title": "SCP-ZH-371 - 咖哩>:(",
@@ -131393,8 +131401,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "9",
-      "votes": "9",
+      "rating": "10",
+      "votes": "10",
       "parent": null,
       "id": "1453498323",
       "detailed_rating": {
@@ -131434,12 +131442,16 @@
             [
                "5435485",
                1714478587
+            ],
+            [
+               "7605593",
+               1714643355
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 9,
-      "justified_votes": 9
+      "justified_rating": 10,
+      "justified_votes": 10
    },
    "1714633822": {
       "title": "利用SCP-ZH-621感染者作為另類Elan-Vital Energy電池之可行性",
@@ -131456,8 +131468,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "5",
-      "votes": "5",
+      "rating": "6",
+      "votes": "6",
       "parent": null,
       "id": "1453528892",
       "detailed_rating": {
@@ -131481,11 +131493,15 @@
             [
                "5338547",
                1714638457
+            ],
+            [
+               "7605593",
+               1714643355
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 5,
-      "justified_votes": 5
+      "justified_rating": 6,
+      "justified_votes": 6
    }
 }
