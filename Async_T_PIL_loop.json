@@ -134639,8 +134639,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "2",
-      "votes": "2",
+      "rating": "3",
+      "votes": "3",
       "parent": null,
       "id": "1453440380",
       "detailed_rating": {
@@ -134652,12 +134652,16 @@
             [
                "4990678",
                1714049160
+            ],
+            [
+               "7605593",
+               1714643501
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 2,
-      "justified_votes": 2
+      "justified_rating": 3,
+      "justified_votes": 3
    },
    "1714041000": {
       "title": "SCP-3792-JP - 「ひ」是「貧膜類」（貧膜口類／ひんまくこうるい）",
