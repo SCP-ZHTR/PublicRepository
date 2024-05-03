@@ -131405,8 +131405,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "10",
-      "votes": "10",
+      "rating": "11",
+      "votes": "11",
       "parent": null,
       "id": "1453498323",
       "detailed_rating": {
@@ -131450,12 +131450,16 @@
             [
                "7605593",
                1714643355
+            ],
+            [
+               "5981123",
+               1714748550
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 10,
-      "justified_votes": 10
+      "justified_rating": 11,
+      "justified_votes": 11
    },
    "1714633822": {
       "title": "利用SCP-ZH-621感染者作為另類Elan-Vital Energy電池之可行性",
