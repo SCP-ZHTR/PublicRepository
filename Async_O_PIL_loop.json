@@ -119249,8 +119249,8 @@
          "_退"
       ],
       "comments": "0",
-      "rating": "12",
-      "votes": "12",
+      "rating": "13",
+      "votes": "13",
       "parent": null,
       "id": "1450012029",
       "detailed_rating": {
@@ -119302,12 +119302,16 @@
             [
                "8177208",
                1704702080
+            ],
+            [
+               "5334590",
+               1714754592
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 12,
-      "justified_votes": 12
+      "justified_rating": 13,
+      "justified_votes": 13
    },
    "1695057396": {
       "title": "SCP-ZH-203 - 小小海",
