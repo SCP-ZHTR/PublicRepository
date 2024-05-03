@@ -42116,8 +42116,8 @@
          "_cc"
       ],
       "comments": "0",
-      "rating": "8",
-      "votes": "8",
+      "rating": "9",
+      "votes": "9",
       "parent": null,
       "id": "1260744531",
       "detailed_rating": {
@@ -42153,12 +42153,16 @@
             [
                "8319365",
                1711120841
+            ],
+            [
+               "7504530",
+               1714727435
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 8,
-      "justified_votes": 8
+      "justified_rating": 9,
+      "justified_votes": 9
    },
    "1597229054": {
       "title": "SCP-1402 - 吐真手提包",
@@ -68166,16 +68170,12 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "5",
-      "votes": "5",
+      "rating": "6",
+      "votes": "6",
       "parent": null,
       "id": "1312053671",
       "detailed_rating": {
          "+": [
-            [
-               "7469850",
-               1627228800
-            ],
             [
                "6217438",
                1657296000
@@ -68191,6 +68191,14 @@
             [
                "4442284",
                1623600000
+            ],
+            [
+               "7504530",
+               1714727435
+            ],
+            [
+               "DELETED",
+               1714727435
             ]
          ]
       },
