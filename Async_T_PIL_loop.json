@@ -134583,8 +134583,8 @@
          "_licensebox"
       ],
       "comments": "0",
-      "rating": "1",
-      "votes": "1",
+      "rating": "2",
+      "votes": "2",
       "parent": null,
       "id": "1453413650",
       "detailed_rating": {
@@ -134592,12 +134592,16 @@
             [
                "4990678",
                1713877902
+            ],
+            [
+               "8883612",
+               1714729695
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 1,
-      "justified_votes": 1
+      "justified_rating": 2,
+      "justified_votes": 2
    },
    "1713949505": {
       "title": "SCP-3060-JP - 「へ」是「非病死者」（変死体／へんしたい）",
