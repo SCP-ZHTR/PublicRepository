@@ -131536,8 +131536,8 @@
          "_禁黑"
       ],
       "comments": "17",
-      "rating": "3",
-      "votes": "3",
+      "rating": "4",
+      "votes": "4",
       "parent": null,
       "id": "1453534768",
       "detailed_rating": {
@@ -131553,11 +131553,15 @@
             [
                "7852233",
                1714742881
+            ],
+            [
+               "2563830",
+               1714748410
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 3,
-      "justified_votes": 3
+      "justified_rating": 4,
+      "justified_votes": 4
    }
 }
