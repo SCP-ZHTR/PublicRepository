@@ -117086,8 +117086,8 @@
       ],
       "hidden_tags": [],
       "comments": "2",
-      "rating": "17",
-      "votes": "17",
+      "rating": "18",
+      "votes": "18",
       "parent": null,
       "id": "1449292820",
       "detailed_rating": {
@@ -117159,12 +117159,16 @@
             [
                "9075244",
                1711624446
+            ],
+            [
+               "6459420",
+               1714833289
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 17,
-      "justified_votes": 17
+      "justified_rating": 18,
+      "justified_votes": 18
    },
    "1691593781": {
       "title": "SCP-ZH-772 - 紙箱天使",
