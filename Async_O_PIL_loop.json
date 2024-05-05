@@ -67011,8 +67011,8 @@
       ],
       "hidden_tags": [],
       "comments": "2",
-      "rating": "10",
-      "votes": "10",
+      "rating": "11",
+      "votes": "11",
       "parent": null,
       "id": "1308614104",
       "detailed_rating": {
@@ -67056,12 +67056,16 @@
             [
                "4239775",
                1624723200
+            ],
+            [
+               "8543386",
+               1714895307
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 10,
-      "justified_votes": 10
+      "justified_rating": 11,
+      "justified_votes": 11
    },
    "1618642535": {
       "title": "手繪的Valmúa",
