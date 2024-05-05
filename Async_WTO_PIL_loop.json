@@ -14015,15 +14015,19 @@
       "fullname": "scp-zh-705",
       "created_at": "1714924421",
       "created_by": "6693418",
-      "tags": [],
+      "tags": [
+         "scp原創",
+         "物品",
+         "臺灣民俗"
+      ],
       "hidden_tags": [],
-      "comments": "0",
+      "comments": "1",
       "rating": "0",
       "votes": "0",
       "parent": null,
       "id": "1453544052",
       "detailed_rating": {},
-      "deleted": true,
+      "deleted": false,
       "justified_rating": 0,
       "justified_votes": 0
    }
