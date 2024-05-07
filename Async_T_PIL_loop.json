@@ -68397,8 +68397,8 @@
       ],
       "hidden_tags": [],
       "comments": "4",
-      "rating": "5",
-      "votes": "9",
+      "rating": "6",
+      "votes": "10",
       "parent": null,
       "id": "1312101157",
       "detailed_rating": {
@@ -68430,6 +68430,10 @@
             [
                "DELETED",
                1710512931
+            ],
+            [
+               "8884787",
+               1715093111
             ]
          ],
          "-": [
@@ -68444,8 +68448,8 @@
          ]
       },
       "deleted": false,
-      "justified_rating": 4,
-      "justified_votes": 8
+      "justified_rating": 5,
+      "justified_votes": 9
    },
    "1623854935": {
       "title": "fishingenthusiast（以前是 plaguebearer） 從SCP基金會凱旋而歸",
@@ -134819,7 +134823,7 @@
       "justified_votes": 1
    },
    "1715092429": {
-      "title": "SCP-1008",
+      "title": "SCP-1008 - 放逐之石",
       "fullname": "scp-1008",
       "created_at": "1715092429",
       "created_by": "8884787",
