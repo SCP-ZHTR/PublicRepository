@@ -134817,5 +134817,31 @@
       "deleted": false,
       "justified_rating": 1,
       "justified_votes": 1
+   },
+   "1715092429": {
+      "title": "SCP-1008",
+      "fullname": "scp-1008",
+      "created_at": "1715092429",
+      "created_by": "8884787",
+      "tags": [
+         "en",
+         "safe",
+         "scp",
+         "恆星",
+         "感知影響",
+         "翻譯",
+         "視覺性",
+         "銘文"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1453558088",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
