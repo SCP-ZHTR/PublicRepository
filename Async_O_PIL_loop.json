@@ -100386,8 +100386,8 @@
       ],
       "hidden_tags": [],
       "comments": "2",
-      "rating": "12",
-      "votes": "12",
+      "rating": "13",
+      "votes": "13",
       "parent": null,
       "id": "1435457310",
       "detailed_rating": {
@@ -100439,12 +100439,16 @@
             [
                "DELETED",
                1695705668
+            ],
+            [
+               "9104873",
+               1715157432
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 11,
-      "justified_votes": 11
+      "justified_rating": 12,
+      "justified_votes": 12
    },
    "1662105993": {
       "title": "SCP-ZH-750 - 神說：「要有油。」就有了油。",
