@@ -56729,8 +56729,8 @@
       ],
       "hidden_tags": [],
       "comments": "2",
-      "rating": "3",
-      "votes": "5",
+      "rating": "4",
+      "votes": "6",
       "parent": null,
       "id": "1306993777",
       "detailed_rating": {
@@ -56750,6 +56750,10 @@
             [
                "6678442",
                1617120000
+            ],
+            [
+               "7504530",
+               1715133777
             ]
          ],
          "-": [
@@ -56760,8 +56764,8 @@
          ]
       },
       "deleted": false,
-      "justified_rating": 3,
-      "justified_votes": 5
+      "justified_rating": 4,
+      "justified_votes": 6
    },
    "1614260639": {
       "title": "SCP-2439 - 編號未分配",
