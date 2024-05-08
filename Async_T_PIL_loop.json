@@ -134693,7 +134693,9 @@
          "食物",
          "骨骼"
       ],
-      "hidden_tags": [],
+      "hidden_tags": [
+         "_licensebox"
+      ],
       "comments": "0",
       "rating": "1",
       "votes": "1",
@@ -134727,7 +134729,9 @@
          "翻譯",
          "視覺性"
       ],
-      "hidden_tags": [],
+      "hidden_tags": [
+         "_licensebox"
+      ],
       "comments": "1",
       "rating": "4",
       "votes": "4",
@@ -134781,7 +134785,10 @@
          "通訊",
          "電磁"
       ],
-      "hidden_tags": [],
+      "hidden_tags": [
+         "_cc",
+         "_licensebox"
+      ],
       "comments": "0",
       "rating": "1",
       "votes": "1",
