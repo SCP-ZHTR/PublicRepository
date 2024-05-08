@@ -131539,8 +131539,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "9",
-      "votes": "9",
+      "rating": "10",
+      "votes": "10",
       "parent": null,
       "id": "1453528892",
       "detailed_rating": {
@@ -131580,12 +131580,16 @@
             [
                "6503482",
                1714665878
+            ],
+            [
+               "7504530",
+               1715131749
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 9,
-      "justified_votes": 9
+      "justified_rating": 10,
+      "justified_votes": 10
    },
    "1714738975": {
       "title": "「亡走塵寰」",
