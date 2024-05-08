@@ -13912,7 +13912,7 @@
             ]
          ]
       },
-      "deleted": false,
+      "deleted": true,
       "justified_rating": -4,
       "justified_votes": 6
    },
@@ -13972,7 +13972,7 @@
             ]
          ]
       },
-      "deleted": false,
+      "deleted": true,
       "justified_rating": -7,
       "justified_votes": 9
    },
