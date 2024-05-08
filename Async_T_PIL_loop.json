@@ -134599,8 +134599,8 @@
          "_禁黑"
       ],
       "comments": "0",
-      "rating": "2",
-      "votes": "2",
+      "rating": "3",
+      "votes": "3",
       "parent": null,
       "id": "1453404828",
       "detailed_rating": {
@@ -134612,12 +134612,16 @@
             [
                "9079426",
                1713770366
+            ],
+            [
+               "7504530",
+               1715131886
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 2,
-      "justified_votes": 2
+      "justified_rating": 3,
+      "justified_votes": 3
    },
    "1713867600": {
       "title": "SCP-3024-JP - 「い」是「異性／異星」（いせい）",
