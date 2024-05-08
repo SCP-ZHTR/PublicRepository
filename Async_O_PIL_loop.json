@@ -131422,7 +131422,10 @@
          "記憶影響",
          "醫學性"
       ],
-      "hidden_tags": [],
+      "hidden_tags": [
+         "_cc",
+         "_licensebox"
+      ],
       "comments": "1",
       "rating": "5",
       "votes": "5",
@@ -131467,7 +131470,9 @@
          "地點",
          "待分級"
       ],
-      "hidden_tags": [],
+      "hidden_tags": [
+         "_cc"
+      ],
       "comments": "1",
       "rating": "12",
       "votes": "12",
