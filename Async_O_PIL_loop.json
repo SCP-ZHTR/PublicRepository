@@ -36647,8 +36647,8 @@
          "_cc"
       ],
       "comments": "0",
-      "rating": "34",
-      "votes": "34",
+      "rating": "35",
+      "votes": "35",
       "parent": null,
       "id": "1026028066",
       "detailed_rating": {
@@ -36788,12 +36788,16 @@
             [
                "DELETED",
                "[UNKNOWN]"
+            ],
+            [
+               "6952002",
+               1715186023
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 33,
-      "justified_votes": 33
+      "justified_rating": 34,
+      "justified_votes": 34
    },
    "1587397869": {
       "title": "我不認識水裡的AD",
