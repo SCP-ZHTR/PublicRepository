@@ -20923,8 +20923,8 @@
          "_cc"
       ],
       "comments": "2",
-      "rating": "9",
-      "votes": "11",
+      "rating": "10",
+      "votes": "12",
       "parent": null,
       "id": "986196504",
       "detailed_rating": {
@@ -20968,6 +20968,10 @@
             [
                "7558128",
                1666281600
+            ],
+            [
+               "9079426",
+               1715349567
             ]
          ],
          "-": [
@@ -20978,8 +20982,8 @@
          ]
       },
       "deleted": false,
-      "justified_rating": 9,
-      "justified_votes": 11
+      "justified_rating": 10,
+      "justified_votes": 12
    },
    "1579335280": {
       "title": "SCP-EO-416",
