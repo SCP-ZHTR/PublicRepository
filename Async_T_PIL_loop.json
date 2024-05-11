@@ -77027,8 +77027,8 @@
          "_cc"
       ],
       "comments": "1",
-      "rating": "-6",
-      "votes": "14",
+      "rating": "-5",
+      "votes": "15",
       "parent": null,
       "id": "1330115825",
       "detailed_rating": {
@@ -77048,6 +77048,10 @@
             [
                "5338547",
                1637337600
+            ],
+            [
+               "8543386",
+               1715429713
             ]
          ],
          "-": [
@@ -77094,8 +77098,8 @@
          ]
       },
       "deleted": false,
-      "justified_rating": -5,
-      "justified_votes": 13
+      "justified_rating": -4,
+      "justified_votes": 14
    },
    "1637380917": {
       "title": "鰻魚的藝術作品",
