@@ -91386,8 +91386,8 @@
          "_禁黑"
       ],
       "comments": "0",
-      "rating": "9",
-      "votes": "9",
+      "rating": "10",
+      "votes": "10",
       "parent": null,
       "id": "1402955795",
       "detailed_rating": {
@@ -91427,12 +91427,16 @@
             [
                "DELETED",
                1711086787
+            ],
+            [
+               "7571354",
+               1715471935
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 8,
-      "justified_votes": 8
+      "justified_rating": 9,
+      "justified_votes": 9
    },
    "1652790798": {
       "title": "SCP-387 - 活體樂高",
