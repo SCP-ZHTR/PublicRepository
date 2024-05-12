@@ -135014,5 +135014,33 @@
       "deleted": false,
       "justified_rating": 3,
       "justified_votes": 3
+   },
+   "1715529644": {
+      "title": "SCP-PL-390 - 尤里卡！",
+      "fullname": "scp-pl-390",
+      "created_at": "1715529644",
+      "created_by": "6217438",
+      "tags": [
+         "en",
+         "int",
+         "phenomenon",
+         "scp",
+         "thaumiel",
+         "未收容",
+         "概念",
+         "歷史性",
+         "知識",
+         "翻譯"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1453626044",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
