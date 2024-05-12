@@ -135021,11 +135021,11 @@
       "created_at": "1715529644",
       "created_by": "6217438",
       "tags": [
-         "en",
-         "int",
          "phenomenon",
+         "pl",
          "scp",
          "thaumiel",
+         "二次翻譯",
          "未收容",
          "概念",
          "歷史性",
@@ -135034,13 +135034,20 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "0",
-      "votes": "0",
+      "rating": "1",
+      "votes": "1",
       "parent": null,
       "id": "1453626044",
-      "detailed_rating": {},
+      "detailed_rating": {
+         "+": [
+            [
+               "6217438",
+               1715530004
+            ]
+         ]
+      },
       "deleted": false,
-      "justified_rating": 0,
-      "justified_votes": 0
+      "justified_rating": 1,
+      "justified_votes": 1
    }
 }
