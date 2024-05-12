@@ -131666,7 +131666,7 @@
          "_cc",
          "_禁黑"
       ],
-      "comments": "38",
+      "comments": "39",
       "rating": "4",
       "votes": "4",
       "parent": null,
@@ -131754,8 +131754,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "5",
-      "votes": "5",
+      "rating": "6",
+      "votes": "6",
       "parent": null,
       "id": "1453609569",
       "detailed_rating": {
@@ -131779,11 +131779,15 @@
             [
                "8177208",
                1715479759
+            ],
+            [
+               "4990678",
+               1715499844
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 5,
-      "justified_votes": 5
+      "justified_rating": 6,
+      "justified_votes": 6
    }
 }
