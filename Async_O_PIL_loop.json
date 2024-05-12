@@ -131789,5 +131789,30 @@
       "deleted": false,
       "justified_rating": 6,
       "justified_votes": 6
+   },
+   "1715516165": {
+      "title": "SCP-ZH-948 - 愛先生",
+      "fullname": "scp-zh-948",
+      "created_at": "1715516165",
+      "created_by": "8543386",
+      "tags": [
+         "euclid",
+         "scp",
+         "人形",
+         "原創",
+         "小小先生",
+         "感知力",
+         "智能"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1453625379",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
