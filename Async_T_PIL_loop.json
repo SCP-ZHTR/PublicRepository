@@ -83534,8 +83534,8 @@
          "_licensebox"
       ],
       "comments": "0",
-      "rating": "10",
-      "votes": "12",
+      "rating": "11",
+      "votes": "13",
       "parent": null,
       "id": "1332817119",
       "detailed_rating": {
@@ -83583,6 +83583,10 @@
             [
                "DELETED",
                1711985360
+            ],
+            [
+               "5981123",
+               1715518780
             ]
          ],
          "-": [
@@ -83593,8 +83597,8 @@
          ]
       },
       "deleted": false,
-      "justified_rating": 10,
-      "justified_votes": 10
+      "justified_rating": 11,
+      "justified_votes": 11
    },
    "1646622719": {
       "title": "SCP-5145 - 我葬送了太陽",
@@ -83616,8 +83620,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "10",
-      "votes": "10",
+      "rating": "11",
+      "votes": "11",
       "parent": null,
       "id": "1333032515",
       "detailed_rating": {
@@ -83661,12 +83665,16 @@
             [
                "DELETED",
                1706022843
+            ],
+            [
+               "5981123",
+               1715518780
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 9,
-      "justified_votes": 9
+      "justified_rating": 10,
+      "justified_votes": 10
    },
    "1646641473": {
       "title": "SCP-103 - 永不飢餓的人",
