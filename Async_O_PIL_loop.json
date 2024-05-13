@@ -131839,8 +131839,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "9",
-      "votes": "9",
+      "rating": "10",
+      "votes": "10",
       "parent": null,
       "id": "1453625379",
       "detailed_rating": {
@@ -131880,11 +131880,15 @@
             [
                "5370805",
                1715563411
+            ],
+            [
+               "8884787",
+               1715606482
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 9,
-      "justified_votes": 9
+      "justified_rating": 10,
+      "justified_votes": 10
    }
 }
