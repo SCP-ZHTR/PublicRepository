@@ -134240,7 +134240,10 @@
          "翻譯",
          "觀察影響"
       ],
-      "hidden_tags": [],
+      "hidden_tags": [
+         "_cc",
+         "_licensebox"
+      ],
       "comments": "0",
       "rating": "1",
       "votes": "1",
@@ -134303,7 +134306,9 @@
          "本質促動",
          "翻譯"
       ],
-      "hidden_tags": [],
+      "hidden_tags": [
+         "_licensebox"
+      ],
       "comments": "0",
       "rating": "1",
       "votes": "1",
