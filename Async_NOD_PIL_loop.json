@@ -24924,7 +24924,7 @@
       "parent": null,
       "id": "1453149310",
       "detailed_rating": {},
-      "deleted": false,
+      "deleted": true,
       "justified_rating": 0,
       "justified_votes": 0
    },
@@ -25697,7 +25697,7 @@
       "parent": null,
       "id": "1453563764",
       "detailed_rating": {},
-      "deleted": false,
+      "deleted": true,
       "justified_rating": 0,
       "justified_votes": 0
    }
