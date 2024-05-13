@@ -126400,14 +126400,15 @@
          "nobody",
          "原創",
          "工廠",
+         "待刪除",
          "火勢遏阻部"
       ],
       "hidden_tags": [
          "_工廠"
       ],
-      "comments": "5",
-      "rating": "-1",
-      "votes": "7",
+      "comments": "6",
+      "rating": "-2",
+      "votes": "8",
       "parent": null,
       "id": "1452219797",
       "detailed_rating": {
@@ -126441,12 +126442,16 @@
             [
                "4474355",
                1707572921
+            ],
+            [
+               "3981670",
+               1715605665
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": -1,
-      "justified_votes": 7
+      "justified_rating": -2,
+      "justified_votes": 8
    },
    "1705577381": {
       "title": "「欲善其事」",
