@@ -134188,7 +134188,10 @@
          "觸覺影響",
          "銘文"
       ],
-      "hidden_tags": [],
+      "hidden_tags": [
+         "_cc",
+         "_licensebox"
+      ],
       "comments": "0",
       "rating": "5",
       "votes": "5",
