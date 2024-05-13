@@ -37378,8 +37378,8 @@
          "_licensebox"
       ],
       "comments": "2",
-      "rating": "12",
-      "votes": "12",
+      "rating": "13",
+      "votes": "13",
       "parent": null,
       "id": "1070916962",
       "detailed_rating": {
@@ -37431,12 +37431,16 @@
             [
                "6082642",
                1617120000
+            ],
+            [
+               "6459420",
+               1715580081
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 12,
-      "justified_votes": 12
+      "justified_rating": 13,
+      "justified_votes": 13
    },
    "1590339776": {
       "title": "SCP-1084-RU",
