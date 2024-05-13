@@ -135005,7 +135005,9 @@
          "歷史性",
          "翻譯"
       ],
-      "hidden_tags": [],
+      "hidden_tags": [
+         "_cc"
+      ],
       "comments": "0",
       "rating": "3",
       "votes": "3",
