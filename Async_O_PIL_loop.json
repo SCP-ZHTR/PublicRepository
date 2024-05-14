@@ -131805,8 +131805,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "9",
-      "votes": "9",
+      "rating": "10",
+      "votes": "10",
       "parent": null,
       "id": "1453609569",
       "detailed_rating": {
@@ -131846,12 +131846,16 @@
             [
                "9130820",
                1715647190
+            ],
+            [
+               "4239775",
+               1715700662
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 9,
-      "justified_votes": 9
+      "justified_rating": 10,
+      "justified_votes": 10
    },
    "1715516165": {
       "title": "SCP-ZH-948 - 愛先生",
