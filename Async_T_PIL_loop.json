@@ -14193,8 +14193,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "10",
-      "votes": "10",
+      "rating": "11",
+      "votes": "11",
       "parent": "scpdeclassified",
       "id": "827153464",
       "detailed_rating": {
@@ -14238,12 +14238,16 @@
             [
                "3981670",
                1617120000
+            ],
+            [
+               "8854072",
+               1715657006
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 10,
-      "justified_votes": 10
+      "justified_rating": 11,
+      "justified_votes": 11
    },
    "1561649871": {
       "title": "SCP-4690 - 平克頓中尉被該死的蜘蛛生吞了",
