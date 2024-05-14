@@ -129921,9 +129921,9 @@
          "_licensebox",
          "_禁黑"
       ],
-      "comments": "0",
-      "rating": "1",
-      "votes": "1",
+      "comments": "1",
+      "rating": "0",
+      "votes": "2",
       "parent": null,
       "id": "1451852355",
       "detailed_rating": {
@@ -129931,12 +129931,16 @@
             [
                "8480087",
                1702827284
+            ],
+            [
+               "7144335",
+               1715730332
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 1,
-      "justified_votes": 1
+      "justified_rating": 2,
+      "justified_votes": 2
    },
    "1702869071": {
       "title": "SCP-111-KO - 極為微細的誤差",
