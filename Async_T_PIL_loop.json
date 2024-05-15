@@ -132763,7 +132763,10 @@
          "蛇之手",
          "衣物"
       ],
-      "hidden_tags": [],
+      "hidden_tags": [
+         "_cc",
+         "_licensebox"
+      ],
       "comments": "2",
       "rating": "4",
       "votes": "4",
@@ -132857,7 +132860,10 @@
          "機器人",
          "翻譯"
       ],
-      "hidden_tags": [],
+      "hidden_tags": [
+         "_cc",
+         "_licensebox"
+      ],
       "comments": "0",
       "rating": "8",
       "votes": "8",
