@@ -132537,7 +132537,9 @@
          "翻譯",
          "醫學性"
       ],
-      "hidden_tags": [],
+      "hidden_tags": [
+         "_cc"
+      ],
       "comments": "0",
       "rating": "2",
       "votes": "2",

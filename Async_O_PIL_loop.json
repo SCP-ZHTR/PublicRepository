@@ -129000,7 +129000,10 @@
          "聲音",
          "聽覺影響"
       ],
-      "hidden_tags": [],
+      "hidden_tags": [
+         "_cc",
+         "_licensebox"
+      ],
       "comments": "3",
       "rating": "10",
       "votes": "10",
