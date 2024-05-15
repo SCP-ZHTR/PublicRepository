@@ -133313,7 +133313,9 @@
          "認知危害",
          "變形"
       ],
-      "hidden_tags": [],
+      "hidden_tags": [
+         "_licensebox"
+      ],
       "comments": "0",
       "rating": "0",
       "votes": "0",
@@ -133349,7 +133351,10 @@
          "超維度",
          "預測性"
       ],
-      "hidden_tags": [],
+      "hidden_tags": [
+         "_cc",
+         "_licensebox"
+      ],
       "comments": "2",
       "rating": "11",
       "votes": "11",
@@ -133491,7 +133496,10 @@
          "翻譯",
          "遊戲"
       ],
-      "hidden_tags": [],
+      "hidden_tags": [
+         "_cc",
+         "_licensebox"
+      ],
       "comments": "0",
       "rating": "4",
       "votes": "4",
