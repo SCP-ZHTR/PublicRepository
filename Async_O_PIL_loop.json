@@ -131944,5 +131944,25 @@
       "deleted": false,
       "justified_rating": 13,
       "justified_votes": 13
+   },
+   "1715754131": {
+      "title": "我貼完了第七張貼紙了喔，爸爸",
+      "fullname": "scp-zh-449-56-tr",
+      "created_at": "1715754131",
+      "created_by": "4442284",
+      "tags": [
+         "原創",
+         "故事"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1453658760",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
