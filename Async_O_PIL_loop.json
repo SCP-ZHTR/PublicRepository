@@ -640,8 +640,8 @@
          "_info"
       ],
       "comments": "0",
-      "rating": "18",
-      "votes": "20",
+      "rating": "19",
+      "votes": "21",
       "parent": null,
       "id": "634924627",
       "detailed_rating": {
@@ -721,6 +721,10 @@
             [
                "DELETED",
                "[UNKNOWN]"
+            ],
+            [
+               "9104873",
+               1715761483
             ]
          ],
          "-": [
@@ -731,8 +735,8 @@
          ]
       },
       "deleted": false,
-      "justified_rating": 17,
-      "justified_votes": 19
+      "justified_rating": 18,
+      "justified_votes": 20
    },
    "1552135451": {
       "title": "SCP-ZH-253 - 我的滑鼠社會起來了！",
@@ -22675,8 +22679,8 @@
          "_info"
       ],
       "comments": "0",
-      "rating": "17",
-      "votes": "17",
+      "rating": "18",
+      "votes": "18",
       "parent": null,
       "id": "967237269",
       "detailed_rating": {
@@ -22748,12 +22752,16 @@
             [
                "5415046",
                1617120000
+            ],
+            [
+               "9104873",
+               1715761483
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 17,
-      "justified_votes": 17
+      "justified_rating": 18,
+      "justified_votes": 18
    },
    "1576403536": {
       "title": "貂與浣熊在林地相遇",
