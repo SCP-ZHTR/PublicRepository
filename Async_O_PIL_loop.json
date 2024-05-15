@@ -118799,8 +118799,8 @@
       ],
       "hidden_tags": [],
       "comments": "2",
-      "rating": "8",
-      "votes": "10",
+      "rating": "9",
+      "votes": "11",
       "parent": null,
       "id": "1449653509",
       "detailed_rating": {
@@ -118840,6 +118840,10 @@
             [
                "5701756",
                1701163651
+            ],
+            [
+               "9104873",
+               1715761620
             ]
          ],
          "-": [
@@ -118850,8 +118854,8 @@
          ]
       },
       "deleted": false,
-      "justified_rating": 8,
-      "justified_votes": 10
+      "justified_rating": 9,
+      "justified_votes": 11
    },
    "1694399491": {
       "title": "SCP-ZH-092再收容調查紀錄",
