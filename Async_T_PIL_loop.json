@@ -132144,7 +132144,9 @@
          "猩紅之王",
          "翻譯"
       ],
-      "hidden_tags": [],
+      "hidden_tags": [
+         "_cc"
+      ],
       "comments": "0",
       "rating": "2",
       "votes": "2",
