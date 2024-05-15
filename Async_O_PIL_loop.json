@@ -131002,7 +131002,9 @@
          "流浪者圖書館",
          "神話"
       ],
-      "hidden_tags": [],
+      "hidden_tags": [
+         "_cc"
+      ],
       "comments": "1",
       "rating": "15",
       "votes": "15",
