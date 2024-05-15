@@ -130059,7 +130059,9 @@
          "人形",
          "原創"
       ],
-      "hidden_tags": [],
+      "hidden_tags": [
+         "_image"
+      ],
       "comments": "1",
       "rating": "10",
       "votes": "10",
@@ -130127,7 +130129,9 @@
          "羞澀的人",
          "英國神秘情報局"
       ],
-      "hidden_tags": [],
+      "hidden_tags": [
+         "_image"
+      ],
       "comments": "0",
       "rating": "14",
       "votes": "14",
