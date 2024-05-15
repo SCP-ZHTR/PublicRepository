@@ -129921,7 +129921,9 @@
          "敘述性",
          "模因效應"
       ],
-      "hidden_tags": [],
+      "hidden_tags": [
+         "_cc"
+      ],
       "comments": "1",
       "rating": "14",
       "votes": "14",
