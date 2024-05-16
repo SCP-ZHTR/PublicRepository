@@ -130213,7 +130213,10 @@
          "活物",
          "翻譯"
       ],
-      "hidden_tags": [],
+      "hidden_tags": [
+         "_cc",
+         "_licensebox"
+      ],
       "comments": "2",
       "rating": "1",
       "votes": "1",
@@ -130245,7 +130248,9 @@
          "概念",
          "翻譯"
       ],
-      "hidden_tags": [],
+      "hidden_tags": [
+         "_cc"
+      ],
       "comments": "0",
       "rating": "1",
       "votes": "1",
