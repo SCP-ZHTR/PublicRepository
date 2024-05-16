@@ -126703,7 +126703,9 @@
          "台灣原住民",
          "故事"
       ],
-      "hidden_tags": [],
+      "hidden_tags": [
+         "_cc"
+      ],
       "comments": "1",
       "rating": "13",
       "votes": "13",
