@@ -130520,7 +130520,10 @@
          "銘文",
          "雕像"
       ],
-      "hidden_tags": [],
+      "hidden_tags": [
+         "_cc",
+         "_licensebox"
+      ],
       "comments": "0",
       "rating": "1",
       "votes": "1",
@@ -130560,6 +130563,7 @@
          "銘文"
       ],
       "hidden_tags": [
+         "_cc",
          "_licensebox",
          "_禁黑"
       ],
