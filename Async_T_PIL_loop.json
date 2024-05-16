@@ -129253,7 +129253,10 @@
          "翻譯",
          "超形上學部"
       ],
-      "hidden_tags": [],
+      "hidden_tags": [
+         "_cc",
+         "_licensebox"
+      ],
       "comments": "0",
       "rating": "3",
       "votes": "3",
@@ -129295,7 +129298,10 @@
          "搞笑",
          "翻譯"
       ],
-      "hidden_tags": [],
+      "hidden_tags": [
+         "_cc",
+         "_licensebox"
+      ],
       "comments": "0",
       "rating": "5",
       "votes": "5",
@@ -129344,7 +129350,10 @@
          "熱力學",
          "翻譯"
       ],
-      "hidden_tags": [],
+      "hidden_tags": [
+         "_cc",
+         "_licensebox"
+      ],
       "comments": "0",
       "rating": "0",
       "votes": "0",
