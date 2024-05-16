@@ -129530,7 +129530,10 @@
          "翻譯",
          "電腦"
       ],
-      "hidden_tags": [],
+      "hidden_tags": [
+         "_cc",
+         "_licensebox"
+      ],
       "comments": "3",
       "rating": "4",
       "votes": "4",
