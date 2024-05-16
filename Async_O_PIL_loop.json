@@ -59511,8 +59511,8 @@
          "_cc"
       ],
       "comments": "2",
-      "rating": "12",
-      "votes": "12",
+      "rating": "13",
+      "votes": "13",
       "parent": null,
       "id": "1306546725",
       "detailed_rating": {
@@ -59564,12 +59564,16 @@
             [
                "5415046",
                1640880000
+            ],
+            [
+               "7504530",
+               1715825154
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 12,
-      "justified_votes": 12
+      "justified_rating": 13,
+      "justified_votes": 13
    },
    "1610912555": {
       "title": "2021冬季競賽 主題《紅》",
