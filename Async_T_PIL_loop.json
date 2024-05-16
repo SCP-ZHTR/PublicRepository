@@ -131626,7 +131626,10 @@
          "觸覺影響",
          "鯊類"
       ],
-      "hidden_tags": [],
+      "hidden_tags": [
+         "_cc",
+         "_licensebox"
+      ],
       "comments": "0",
       "rating": "13",
       "votes": "13",
@@ -131787,7 +131790,10 @@
          "普羅米修斯實驗室",
          "翻譯"
       ],
-      "hidden_tags": [],
+      "hidden_tags": [
+         "_cc",
+         "_licensebox"
+      ],
       "comments": "1",
       "rating": "5",
       "votes": "5",
