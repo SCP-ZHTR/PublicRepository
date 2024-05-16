@@ -121777,8 +121777,8 @@
          "_cc"
       ],
       "comments": "1",
-      "rating": "10",
-      "votes": "10",
+      "rating": "11",
+      "votes": "11",
       "parent": null,
       "id": "1450253025",
       "detailed_rating": {
@@ -121822,12 +121822,16 @@
             [
                "5338547",
                1696172764
+            ],
+            [
+               "7521095",
+               1715871699
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 10,
-      "justified_votes": 10
+      "justified_rating": 11,
+      "justified_votes": 11
    },
    "1696252864": {
       "title": "SCP-ZH-394 - 無色的人偶",
