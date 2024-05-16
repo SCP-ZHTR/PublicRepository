@@ -129436,7 +129436,10 @@
          "翻譯",
          "記憶影響"
       ],
-      "hidden_tags": [],
+      "hidden_tags": [
+         "_cc",
+         "_licensebox"
+      ],
       "comments": "1",
       "rating": "5",
       "votes": "5",
@@ -129487,7 +129490,10 @@
          "無脊椎動物",
          "翻譯"
       ],
-      "hidden_tags": [],
+      "hidden_tags": [
+         "_cc",
+         "_licensebox"
+      ],
       "comments": "0",
       "rating": "1",
       "votes": "3",
