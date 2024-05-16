@@ -112875,8 +112875,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "8",
-      "votes": "8",
+      "rating": "9",
+      "votes": "9",
       "parent": null,
       "id": "1447040689",
       "detailed_rating": {
@@ -112912,12 +112912,16 @@
             [
                "DELETED",
                1695206965
+            ],
+            [
+               "9079426",
+               1715838348
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 7,
-      "justified_votes": 7
+      "justified_rating": 8,
+      "justified_votes": 8
    },
    "1680334546": {
       "title": "2023愚人節首頁",
