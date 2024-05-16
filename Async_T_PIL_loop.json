@@ -130481,7 +130481,10 @@
          "聽覺影響",
          "自我修復"
       ],
-      "hidden_tags": [],
+      "hidden_tags": [
+         "_cc",
+         "_licensebox"
+      ],
       "comments": "1",
       "rating": "2",
       "votes": "2",
