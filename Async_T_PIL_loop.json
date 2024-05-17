@@ -135303,5 +135303,33 @@
       "deleted": false,
       "justified_rating": 10,
       "justified_votes": 10
+   },
+   "1715942198": {
+      "title": "SCP-2718 - 身後之事",
+      "fullname": "scp-2718",
+      "created_at": "1715942198",
+      "created_by": "6217438",
+      "tags": [
+         "afterlife",
+         "en",
+         "meta",
+         "phenomenon",
+         "scp",
+         "機密分級",
+         "知識",
+         "翻譯",
+         "詭厄老者",
+         "資訊危害"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1453681309",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
