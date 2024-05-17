@@ -134146,8 +134146,8 @@
          "_禁黑"
       ],
       "comments": "0",
-      "rating": "11",
-      "votes": "11",
+      "rating": "12",
+      "votes": "12",
       "parent": null,
       "id": "1453324144",
       "detailed_rating": {
@@ -134195,12 +134195,16 @@
             [
                "6952002",
                1715098968
+            ],
+            [
+               "5956873",
+               1715988308
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 11,
-      "justified_votes": 11
+      "justified_rating": 12,
+      "justified_votes": 12
    },
    "1712989328": {
       "title": "SCP-8424 - 不要直視日蝕",
