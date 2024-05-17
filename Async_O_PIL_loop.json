@@ -101177,8 +101177,8 @@
       ],
       "hidden_tags": [],
       "comments": "7",
-      "rating": "24",
-      "votes": "24",
+      "rating": "25",
+      "votes": "25",
       "parent": null,
       "id": "1435499938",
       "detailed_rating": {
@@ -101278,12 +101278,16 @@
             [
                "6048746",
                1715961935
+            ],
+            [
+               "9079426",
+               1715964063
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 23,
-      "justified_votes": 23
+      "justified_rating": 24,
+      "justified_votes": 24
    },
    "1662220109": {
       "title": "背面的電話亭",
