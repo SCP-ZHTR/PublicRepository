@@ -131804,8 +131804,8 @@
          "_禁黑"
       ],
       "comments": "73",
-      "rating": "6",
-      "votes": "6",
+      "rating": "7",
+      "votes": "7",
       "parent": null,
       "id": "1453534768",
       "detailed_rating": {
@@ -131833,12 +131833,16 @@
             [
                "4239775",
                1715869377
+            ],
+            [
+               "5252281",
+               1715928788
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 6,
-      "justified_votes": 6
+      "justified_rating": 7,
+      "justified_votes": 7
    },
    "1714924421": {
       "title": "SCP-ZH-705 - 椅仔姑",
@@ -131907,8 +131911,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "10",
-      "votes": "10",
+      "rating": "11",
+      "votes": "11",
       "parent": null,
       "id": "1453609569",
       "detailed_rating": {
@@ -131952,12 +131956,16 @@
             [
                "4239775",
                1715700662
+            ],
+            [
+               "5252281",
+               1715928788
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 10,
-      "justified_votes": 10
+      "justified_rating": 11,
+      "justified_votes": 11
    },
    "1715516165": {
       "title": "SCP-ZH-948 - 愛先生",
