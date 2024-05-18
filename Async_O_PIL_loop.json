@@ -42535,8 +42535,8 @@
          "_cc"
       ],
       "comments": "5",
-      "rating": "14",
-      "votes": "14",
+      "rating": "15",
+      "votes": "15",
       "parent": null,
       "id": "1165112688",
       "detailed_rating": {
@@ -42596,12 +42596,16 @@
             [
                "DELETED",
                "[UNKNOWN]"
+            ],
+            [
+               "9104873",
+               1716045314
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 13,
-      "justified_votes": 13
+      "justified_rating": 14,
+      "justified_votes": 14
    },
    "1592817459": {
       "title": "牙科定期檢診",
