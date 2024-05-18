@@ -135331,8 +135331,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "3",
-      "votes": "3",
+      "rating": "4",
+      "votes": "4",
       "parent": null,
       "id": "1453681309",
       "detailed_rating": {
@@ -135348,12 +135348,16 @@
             [
                "7073060",
                1715948029
+            ],
+            [
+               "6981058",
+               1716021430
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 3,
-      "justified_votes": 3
+      "justified_rating": 4,
+      "justified_votes": 4
    },
    "1716009020": {
       "title": "SCP-2718解密",
