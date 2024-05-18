@@ -1816,8 +1816,8 @@
          "_info"
       ],
       "comments": "1",
-      "rating": "6",
-      "votes": "6",
+      "rating": "7",
+      "votes": "7",
       "parent": null,
       "id": "637429046",
       "detailed_rating": {
@@ -1845,12 +1845,16 @@
             [
                "5223229",
                1617120000
+            ],
+            [
+               "7504530",
+               1716011831
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 6,
-      "justified_votes": 6
+      "justified_rating": 7,
+      "justified_votes": 7
    },
    "1552275384": {
       "title": "SCP-ZH-521 - 摺紙屋",
