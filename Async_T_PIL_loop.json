@@ -15587,8 +15587,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "3",
-      "votes": "3",
+      "rating": "4",
+      "votes": "4",
       "parent": null,
       "id": "846655101",
       "detailed_rating": {
@@ -15604,12 +15604,16 @@
             [
                "6217438",
                1656000000
+            ],
+            [
+               "8543386",
+               1716041035
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 3,
-      "justified_votes": 3
+      "justified_rating": 4,
+      "justified_votes": 4
    },
    "1563378648": {
       "title": "SCP-371-J",
