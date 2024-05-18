@@ -86805,8 +86805,8 @@
       ],
       "hidden_tags": [],
       "comments": "5",
-      "rating": "5",
-      "votes": "9",
+      "rating": "6",
+      "votes": "10",
       "parent": null,
       "id": "1331655305",
       "detailed_rating": {
@@ -86838,6 +86838,10 @@
             [
                "5454699",
                1644681600
+            ],
+            [
+               "7504530",
+               1716014169
             ]
          ],
          "-": [
@@ -86852,8 +86856,8 @@
          ]
       },
       "deleted": false,
-      "justified_rating": 5,
-      "justified_votes": 9
+      "justified_rating": 6,
+      "justified_votes": 10
    },
    "1644571701": {
       "title": "SCP-ZH-151 - 冷漠殺",
