@@ -71142,16 +71142,12 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "3",
-      "votes": "3",
+      "rating": "4",
+      "votes": "4",
       "parent": null,
       "id": "1313003429",
       "detailed_rating": {
          "+": [
-            [
-               "7469850",
-               1629216000
-            ],
             [
                "6091157",
                1628870400
@@ -71159,6 +71155,14 @@
             [
                "5013754",
                1629043200
+            ],
+            [
+               "6217438",
+               1716082303
+            ],
+            [
+               "DELETED",
+               1716082303
             ]
          ]
       },
@@ -135424,8 +135428,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "1",
-      "votes": "1",
+      "rating": "2",
+      "votes": "2",
       "parent": null,
       "id": "1453698232",
       "detailed_rating": {
@@ -135433,11 +135437,15 @@
             [
                "6217438",
                1716081896
+            ],
+            [
+               "5435485",
+               1716082303
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 1,
-      "justified_votes": 1
+      "justified_rating": 2,
+      "justified_votes": 2
    }
 }
