@@ -135526,5 +135526,34 @@
       "deleted": false,
       "justified_rating": 2,
       "justified_votes": 2
+   },
+   "1554565949": {
+      "title": "SCP-472 - 血石",
+      "fullname": "scp-472",
+      "created_at": "1554565949",
+      "created_by": "5230135",
+      "tags": [
+         "en",
+         "euclid",
+         "scp",
+         "幻覺",
+         "石頭",
+         "精神影響",
+         "翻譯",
+         "聽覺影響",
+         "視覺性",
+         "重寫",
+         "銘文"
+      ],
+      "hidden_tags": [],
+      "comments": "2",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "674800227",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }

@@ -83476,8 +83476,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "12",
-      "votes": "12",
+      "rating": "13",
+      "votes": "13",
       "parent": null,
       "id": "1331185528",
       "detailed_rating": {
@@ -83529,12 +83529,16 @@
             [
                "8854072",
                1700199191
+            ],
+            [
+               "9075244",
+               1716124637
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 11,
-      "justified_votes": 11
+      "justified_rating": 12,
+      "justified_votes": 12
    },
    "1640510838": {
       "title": "聖夜出遊",
