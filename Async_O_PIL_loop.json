@@ -132156,5 +132156,31 @@
       "deleted": false,
       "justified_rating": 5,
       "justified_votes": 5
+   },
+   "1716094211": {
+      "title": "精準轟炸",
+      "fullname": "a-precise-bombing",
+      "created_at": "1716094211",
+      "created_by": "5435485",
+      "tags": [
+         "site-zh-50",
+         "site-zh-59",
+         "亡走塵寰",
+         "原創",
+         "故事",
+         "燦藍天穹"
+      ],
+      "hidden_tags": [
+         "_第一使命"
+      ],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1453699065",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
