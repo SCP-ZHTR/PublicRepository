@@ -50321,8 +50321,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "5",
-      "votes": "5",
+      "rating": "6",
+      "votes": "6",
       "parent": null,
       "id": "1305828852",
       "detailed_rating": {
@@ -50346,12 +50346,16 @@
             [
                "5013754",
                1617120000
+            ],
+            [
+               "5435485",
+               1716108166
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 5,
-      "justified_votes": 5
+      "justified_rating": 6,
+      "justified_votes": 6
    },
    "1605594969": {
       "title": "SCP-2434-JP - 茶壺",
