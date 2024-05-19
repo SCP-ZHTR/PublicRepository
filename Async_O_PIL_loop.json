@@ -75816,8 +75816,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "18",
-      "votes": "18",
+      "rating": "19",
+      "votes": "19",
       "parent": null,
       "id": "1312502974",
       "detailed_rating": {
@@ -75893,12 +75893,16 @@
             [
                "DELETED",
                1695270804
+            ],
+            [
+               "7504530",
+               1716078815
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 17,
-      "justified_votes": 17
+      "justified_rating": 18,
+      "justified_votes": 18
    },
    "1628001968": {
       "title": "單行旅程",
