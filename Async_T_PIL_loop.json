@@ -135406,5 +135406,31 @@
       "deleted": false,
       "justified_rating": 4,
       "justified_votes": 4
+   },
+   "1716081569": {
+      "title": "SCP-4500 - 蘇格拉底式收容措施",
+      "fullname": "scp-4500",
+      "created_at": "1716081569",
+      "created_by": "6217438",
+      "tags": [
+         "en",
+         "en-4000",
+         "euclid",
+         "meta",
+         "scp",
+         "概念",
+         "歷史性",
+         "翻譯"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1453698232",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
