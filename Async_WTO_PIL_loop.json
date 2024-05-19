@@ -1810,7 +1810,7 @@
             ]
          ]
       },
-      "deleted": false,
+      "deleted": true,
       "justified_rating": 1,
       "justified_votes": 1
    },
@@ -3016,7 +3016,7 @@
       "tags": [
          "合作",
          "實驗",
-         "補充材料"
+         "附加資料"
       ],
       "hidden_tags": [],
       "comments": "0",

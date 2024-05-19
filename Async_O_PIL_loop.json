@@ -132305,5 +132305,25 @@
       "deleted": false,
       "justified_rating": 0,
       "justified_votes": 10
+   },
+   "1556115221": {
+      "title": "以和平之名發動戰爭，以保護之名展開鬥爭",
+      "fullname": "scp-zh-118-1",
+      "created_at": "1556115221",
+      "created_by": "3571906",
+      "tags": [
+         "原創",
+         "附加資料"
+      ],
+      "hidden_tags": [],
+      "comments": "2",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "757305870",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
