@@ -132174,8 +132174,8 @@
          "_第一使命"
       ],
       "comments": "1",
-      "rating": "3",
-      "votes": "3",
+      "rating": "4",
+      "votes": "4",
       "parent": null,
       "id": "1453699065",
       "detailed_rating": {
@@ -132191,11 +132191,15 @@
             [
                "8404617",
                1716096047
+            ],
+            [
+               "8452537",
+               1716096317
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 3,
-      "justified_votes": 3
+      "justified_rating": 4,
+      "justified_votes": 4
    }
 }
