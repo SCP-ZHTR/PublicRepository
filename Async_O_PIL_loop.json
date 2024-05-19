@@ -103524,6 +103524,7 @@
          "001提案",
          "2022紅藍爭霸賽",
          "reverberate博士",
+         "scp",
          "人形",
          "原創",
          "地點",
@@ -132174,8 +132175,8 @@
          "_第一使命"
       ],
       "comments": "1",
-      "rating": "5",
-      "votes": "5",
+      "rating": "6",
+      "votes": "6",
       "parent": null,
       "id": "1453699065",
       "detailed_rating": {
@@ -132199,11 +132200,15 @@
             [
                "4990678",
                1716106223
+            ],
+            [
+               "9075244",
+               1716120690
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 5,
-      "justified_votes": 5
+      "justified_rating": 6,
+      "justified_votes": 6
    }
 }
