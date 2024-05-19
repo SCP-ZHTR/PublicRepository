@@ -37599,7 +37599,7 @@
          "en",
          "the-administrator",
          "翻譯",
-         "補充材料"
+         "附加資料"
       ],
       "hidden_tags": [],
       "comments": "1",
@@ -135547,10 +135547,60 @@
       ],
       "hidden_tags": [],
       "comments": "2",
+      "rating": "4",
+      "votes": "4",
+      "parent": null,
+      "id": "674800227",
+      "detailed_rating": {
+         "+": [
+            [
+               "4990678",
+               1716124781
+            ],
+            [
+               "4913214",
+               1716124781
+            ],
+            [
+               "3979351",
+               1716124781
+            ],
+            [
+               "6980791",
+               1716124781
+            ]
+         ]
+      },
+      "deleted": false,
+      "justified_rating": 4,
+      "justified_votes": 4
+   },
+   "1654305366": {
+      "title": "SCP-557- 古代收容站點",
+      "fullname": "scp-557",
+      "created_at": "1654305366",
+      "created_by": "8033564",
+      "tags": [
+         "en",
+         "euclid",
+         "scp",
+         "地下",
+         "書庫",
+         "歷史性",
+         "石頭",
+         "結構物",
+         "翻譯",
+         "銘文"
+      ],
+      "hidden_tags": [
+         "_cc",
+         "_licensebox"
+      ],
+      "comments": "0",
       "rating": "0",
       "votes": "0",
       "parent": null,
-      "id": "674800227",
+      "id": "1403260930",
       "detailed_rating": {},
       "deleted": false,
       "justified_rating": 0,
