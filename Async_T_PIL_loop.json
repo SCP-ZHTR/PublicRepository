@@ -135428,8 +135428,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "7",
-      "votes": "7",
+      "rating": "8",
+      "votes": "8",
       "parent": null,
       "id": "1453698232",
       "detailed_rating": {
@@ -135461,11 +135461,15 @@
             [
                "8404617",
                1716091114
+            ],
+            [
+               "8854072",
+               1716098035
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 7,
-      "justified_votes": 7
+      "justified_rating": 8,
+      "justified_votes": 8
    }
 }
