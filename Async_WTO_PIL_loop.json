@@ -10204,7 +10204,10 @@
       "fullname": "magazine-sorted",
       "created_at": "1667612061",
       "created_by": "6503482",
-      "tags": [],
+      "tags": [
+         "中心",
+         "新聞"
+      ],
       "hidden_tags": [],
       "comments": "0",
       "rating": "1",
