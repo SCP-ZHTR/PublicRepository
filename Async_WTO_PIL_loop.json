@@ -10420,7 +10420,9 @@
       "fullname": "there-is-the-image",
       "created_at": "1673623954",
       "created_by": "4990678",
-      "tags": [],
+      "tags": [
+         "附加資料"
+      ],
       "hidden_tags": [],
       "comments": "0",
       "rating": "1",
