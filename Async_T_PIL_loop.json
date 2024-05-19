@@ -135471,5 +135471,28 @@
       "deleted": false,
       "justified_rating": 8,
       "justified_votes": 8
+   },
+   "1716100020": {
+      "title": "未定義",
+      "fullname": "scp-3942",
+      "created_at": "1716100020",
+      "created_by": "6217438",
+      "tags": [
+         "en",
+         "scp",
+         "機密分級",
+         "翻譯",
+         "逆模因"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1453699273",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
