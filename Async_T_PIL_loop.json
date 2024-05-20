@@ -129163,8 +129163,8 @@
       ],
       "hidden_tags": [],
       "comments": "2",
-      "rating": "-5",
-      "votes": "5",
+      "rating": "-6",
+      "votes": "6",
       "parent": null,
       "id": "1451544916",
       "detailed_rating": {
@@ -129188,12 +129188,16 @@
             [
                "8543386",
                1705661836
+            ],
+            [
+               "8319365",
+               1716216455
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": -5,
-      "justified_votes": 5
+      "justified_rating": -6,
+      "justified_votes": 6
    },
    "1700992004": {
       "title": "SCP-1915 - 維持現狀",
