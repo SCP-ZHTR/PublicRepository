@@ -135720,8 +135720,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "5",
-      "votes": "5",
+      "rating": "6",
+      "votes": "6",
       "parent": null,
       "id": "1453748618",
       "detailed_rating": {
@@ -135745,11 +135745,40 @@
             [
                "9075244",
                1716215596
+            ],
+            [
+               "8319365",
+               1716215880
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 5,
-      "justified_votes": 5
+      "justified_rating": 6,
+      "justified_votes": 6
+   },
+   "1716215634": {
+      "title": "SCP-173-KO-J - 翻譯部",
+      "fullname": "scp-173-ko-j",
+      "created_at": "1716215634",
+      "created_by": "7073060",
+      "tags": [
+         "euclid",
+         "ko",
+         "meta",
+         "scp",
+         "搞笑",
+         "文獻",
+         "翻譯"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1453751187",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
