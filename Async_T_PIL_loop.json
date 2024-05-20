@@ -135648,5 +135648,33 @@
       "deleted": false,
       "justified_rating": 3,
       "justified_votes": 3
+   },
+   "1716183729": {
+      "title": "SCP-2740 - 它不在那裡",
+      "fullname": "scp-2740",
+      "created_at": "1716183729",
+      "created_by": "6217438",
+      "tags": [
+         "en",
+         "euclid",
+         "phenomenon",
+         "scp",
+         "spatial",
+         "共感",
+         "建築物",
+         "模因效應",
+         "翻譯",
+         "認知危害"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1453715033",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
