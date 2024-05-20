@@ -30427,8 +30427,8 @@
          "_cc"
       ],
       "comments": "1",
-      "rating": "10",
-      "votes": "10",
+      "rating": "11",
+      "votes": "11",
       "parent": null,
       "id": "1024180173",
       "detailed_rating": {
@@ -30472,12 +30472,16 @@
             [
                "8543386",
                1703071616
+            ],
+            [
+               "8319365",
+               1716216596
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 10,
-      "justified_votes": 10
+      "justified_rating": 11,
+      "justified_votes": 11
    },
    "1585978650": {
       "title": "SCP-872 - 破爛的農夫",
