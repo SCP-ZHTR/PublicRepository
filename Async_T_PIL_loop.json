@@ -135740,8 +135740,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "6",
-      "votes": "6",
+      "rating": "7",
+      "votes": "7",
       "parent": null,
       "id": "1453748618",
       "detailed_rating": {
@@ -135769,12 +135769,16 @@
             [
                "8319365",
                1716215880
+            ],
+            [
+               "5981123",
+               1716217437
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 6,
-      "justified_votes": 6
+      "justified_rating": 7,
+      "justified_votes": 7
    },
    "1716215634": {
       "title": "SCP-173-KO-J - 翻譯部",
@@ -135792,8 +135796,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "2",
-      "votes": "2",
+      "rating": "3",
+      "votes": "3",
       "parent": null,
       "id": "1453751187",
       "detailed_rating": {
@@ -135805,12 +135809,16 @@
             [
                "8543386",
                1716216740
+            ],
+            [
+               "6217438",
+               1716217437
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 2,
-      "justified_votes": 2
+      "justified_rating": 3,
+      "justified_votes": 3
    },
    "1716216025": {
       "title": "SCP-2206 - 美國職棒最大聯盟",
