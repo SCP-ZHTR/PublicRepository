@@ -135531,8 +135531,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "3",
-      "votes": "3",
+      "rating": "4",
+      "votes": "4",
       "parent": null,
       "id": "1453699273",
       "detailed_rating": {
@@ -135548,12 +135548,16 @@
             [
                "7840542",
                1716167836
+            ],
+            [
+               "4442284",
+               1716212447
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 3,
-      "justified_votes": 3
+      "justified_rating": 4,
+      "justified_votes": 4
    },
    "1554565949": {
       "title": "SCP-472 - 血石",
