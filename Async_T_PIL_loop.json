@@ -135470,7 +135470,7 @@
       "hidden_tags": [],
       "comments": "0",
       "rating": "10",
-      "votes": "10",
+      "votes": "11",
       "parent": null,
       "id": "1453698232",
       "detailed_rating": {
@@ -135514,12 +135514,16 @@
             [
                "7840542",
                1716167836
+            ],
+            [
+               "7504530",
+               1716213944
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 10,
-      "justified_votes": 10
+      "justified_rating": 11,
+      "justified_votes": 11
    },
    "1716100020": {
       "title": "未定義",
