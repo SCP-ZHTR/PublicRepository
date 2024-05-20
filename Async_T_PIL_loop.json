@@ -135457,8 +135457,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "9",
-      "votes": "9",
+      "rating": "10",
+      "votes": "10",
       "parent": null,
       "id": "1453698232",
       "detailed_rating": {
@@ -135498,12 +135498,16 @@
             [
                "8033564",
                1716114733
+            ],
+            [
+               "7840542",
+               1716167836
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 9,
-      "justified_votes": 9
+      "justified_rating": 10,
+      "justified_votes": 10
    },
    "1716100020": {
       "title": "未定義",
@@ -135519,8 +135523,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "2",
-      "votes": "2",
+      "rating": "3",
+      "votes": "3",
       "parent": null,
       "id": "1453699273",
       "detailed_rating": {
@@ -135532,12 +135536,16 @@
             [
                "4990678",
                1716106226
+            ],
+            [
+               "7840542",
+               1716167836
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 2,
-      "justified_votes": 2
+      "justified_rating": 3,
+      "justified_votes": 3
    },
    "1554565949": {
       "title": "SCP-472 - 血石",
