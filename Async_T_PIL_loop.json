@@ -102334,16 +102334,12 @@
          "_licensebox"
       ],
       "comments": "0",
-      "rating": "3",
-      "votes": "3",
+      "rating": "4",
+      "votes": "4",
       "parent": null,
       "id": "1436364656",
       "detailed_rating": {
          "+": [
-            [
-               "7469850",
-               1665331200
-            ],
             [
                "6217438",
                1665331200
@@ -102351,6 +102347,14 @@
             [
                "7840542",
                1665676800
+            ],
+            [
+               "8319365",
+               1716216313
+            ],
+            [
+               "DELETED",
+               1716216313
             ]
          ]
       },
@@ -135814,13 +135818,20 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "0",
-      "votes": "0",
+      "rating": "1",
+      "votes": "1",
       "parent": null,
       "id": "1453751287",
-      "detailed_rating": {},
+      "detailed_rating": {
+         "+": [
+            [
+               "6217438",
+               1716216313
+            ]
+         ]
+      },
       "deleted": false,
-      "justified_rating": 0,
-      "justified_votes": 0
+      "justified_rating": 1,
+      "justified_votes": 1
    }
 }
