@@ -135469,7 +135469,7 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "10",
+      "rating": "11",
       "votes": "11",
       "parent": null,
       "id": "1453698232",
@@ -135720,8 +135720,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "3",
-      "votes": "3",
+      "rating": "4",
+      "votes": "4",
       "parent": null,
       "id": "1453748618",
       "detailed_rating": {
@@ -135737,11 +135737,15 @@
             [
                "8854072",
                1716205034
+            ],
+            [
+               "7504530",
+               1716214087
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 3,
-      "justified_votes": 3
+      "justified_rating": 4,
+      "justified_votes": 4
    }
 }
