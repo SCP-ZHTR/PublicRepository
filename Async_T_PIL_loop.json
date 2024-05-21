@@ -135800,8 +135800,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "3",
-      "votes": "3",
+      "rating": "4",
+      "votes": "4",
       "parent": null,
       "id": "1453751187",
       "detailed_rating": {
@@ -135817,12 +135817,16 @@
             [
                "6217438",
                1716217437
+            ],
+            [
+               "7504530",
+               1716305659
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 3,
-      "justified_votes": 3
+      "justified_rating": 4,
+      "justified_votes": 4
    },
    "1716216025": {
       "title": "SCP-2206 - 美國職棒最大聯盟",
