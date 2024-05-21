@@ -4444,8 +4444,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "11",
-      "votes": "11",
+      "rating": "12",
+      "votes": "12",
       "parent": null,
       "id": "1002247907",
       "detailed_rating": {
@@ -4493,12 +4493,16 @@
             [
                "8177208",
                1707721762
+            ],
+            [
+               "5981123",
+               1716319177
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 11,
-      "justified_votes": 11
+      "justified_rating": 12,
+      "justified_votes": 12
    },
    "1584865573": {
       "title": "超常事件紀錄",
