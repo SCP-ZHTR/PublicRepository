@@ -135740,8 +135740,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "7",
-      "votes": "7",
+      "rating": "8",
+      "votes": "8",
       "parent": null,
       "id": "1453748618",
       "detailed_rating": {
@@ -135773,12 +135773,16 @@
             [
                "5981123",
                1716217437
+            ],
+            [
+               "8452537",
+               1716274021
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 7,
-      "justified_votes": 7
+      "justified_rating": 8,
+      "justified_votes": 8
    },
    "1716215634": {
       "title": "SCP-173-KO-J - 翻譯部",
