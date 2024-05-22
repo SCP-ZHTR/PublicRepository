@@ -132364,5 +132364,25 @@
       "deleted": false,
       "justified_rating": 2,
       "justified_votes": 2
+   },
+   "1716365700": {
+      "title": "你的心跳，就像爸爸一樣呢，醫生",
+      "fullname": "scp-zh-449-56-57-con",
+      "created_at": "1716365700",
+      "created_by": "4442284",
+      "tags": [
+         "原創",
+         "故事"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1453767439",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
