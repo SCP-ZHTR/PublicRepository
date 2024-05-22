@@ -132427,8 +132427,8 @@
          "_人之流"
       ],
       "comments": "0",
-      "rating": "2",
-      "votes": "2",
+      "rating": "3",
+      "votes": "3",
       "parent": null,
       "id": "1453770550",
       "detailed_rating": {
@@ -132440,11 +132440,23 @@
             [
                "8543386",
                1716385550
+            ],
+            [
+               "5370805",
+               1716386241
+            ],
+            [
+               "5251681",
+               1716386241
+            ],
+            [
+               "8846720",
+               1716386241
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 2,
-      "justified_votes": 2
+      "justified_rating": 5,
+      "justified_votes": 5
    }
 }
