@@ -135916,5 +135916,34 @@
       "deleted": false,
       "justified_rating": 2,
       "justified_votes": 2
+   },
+   "1716383523": {
+      "title": "SCP-4763 - 落入悲劇之井",
+      "fullname": "scp-4763",
+      "created_at": "1716383523",
+      "created_by": "6217438",
+      "tags": [
+         "en",
+         "safe",
+         "scp",
+         "共感",
+         "地點",
+         "敘述性",
+         "本質促動",
+         "概念",
+         "液體",
+         "結構物",
+         "翻譯"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1453770375",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
