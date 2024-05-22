@@ -70449,8 +70449,8 @@
          "_cc"
       ],
       "comments": "1",
-      "rating": "8",
-      "votes": "8",
+      "rating": "9",
+      "votes": "9",
       "parent": null,
       "id": "1311637866",
       "detailed_rating": {
@@ -70486,12 +70486,16 @@
             [
                "6678442",
                1621612800
+            ],
+            [
+               "9104873",
+               1716367856
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 8,
-      "justified_votes": 8
+      "justified_rating": 9,
+      "justified_votes": 9
    },
    "1621607627": {
       "title": "你是啥物人？",
