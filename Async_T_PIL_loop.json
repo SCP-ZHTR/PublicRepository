@@ -21768,8 +21768,8 @@
          "_cc"
       ],
       "comments": "0",
-      "rating": "2",
-      "votes": "2",
+      "rating": "3",
+      "votes": "3",
       "parent": null,
       "id": "986497248",
       "detailed_rating": {
@@ -21781,12 +21781,16 @@
             [
                "5334590",
                1617120000
+            ],
+            [
+               "7504530",
+               1716400767
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 2,
-      "justified_votes": 2
+      "justified_rating": 3,
+      "justified_votes": 3
    },
    "1580398482": {
       "title": "闌尾流浪記",
