@@ -132427,8 +132427,8 @@
          "_人之流"
       ],
       "comments": "0",
-      "rating": "6",
-      "votes": "6",
+      "rating": "7",
+      "votes": "7",
       "parent": null,
       "id": "1453770550",
       "detailed_rating": {
@@ -132456,11 +132456,15 @@
             [
                "8883612",
                1716386655
+            ],
+            [
+               "8404617",
+               1716386928
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 6,
-      "justified_votes": 6
+      "justified_rating": 7,
+      "justified_votes": 7
    }
 }
