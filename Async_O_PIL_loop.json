@@ -132403,5 +132403,36 @@
       "deleted": false,
       "justified_rating": 3,
       "justified_votes": 3
+   },
+   "1716385117": {
+      "title": "SCP-ZH-306 - 挖掘過深",
+      "fullname": "scp-zh-306",
+      "created_at": "1716385117",
+      "created_by": "6217438",
+      "tags": [
+         "ijamea",
+         "scp",
+         "site-zh-88",
+         "亡走塵寰",
+         "原創",
+         "循環",
+         "時間影響",
+         "未來",
+         "植物",
+         "神異博覽會",
+         "預測性"
+      ],
+      "hidden_tags": [
+         "_人之流"
+      ],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1453770550",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
