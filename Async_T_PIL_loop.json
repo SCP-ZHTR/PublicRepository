@@ -135986,8 +135986,8 @@
          "_licensebox"
       ],
       "comments": "0",
-      "rating": "1",
-      "votes": "1",
+      "rating": "2",
+      "votes": "2",
       "parent": "end-of-death-hub",
       "id": "1453777604",
       "detailed_rating": {
@@ -135995,11 +135995,15 @@
             [
                "5435485",
                1716467080
+            ],
+            [
+               "6217438",
+               1716472153
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 1,
-      "justified_votes": 1
+      "justified_rating": 2,
+      "justified_votes": 2
    }
 }
