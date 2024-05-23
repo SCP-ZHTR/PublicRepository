@@ -135874,8 +135874,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "4",
-      "votes": "4",
+      "rating": "5",
+      "votes": "5",
       "parent": null,
       "id": "1453751287",
       "detailed_rating": {
@@ -135895,12 +135895,16 @@
             [
                "4442284",
                1716365971
+            ],
+            [
+               "7504530",
+               1716506758
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 4,
-      "justified_votes": 4
+      "justified_rating": 5,
+      "justified_votes": 5
    },
    "1716337204": {
       "title": "SCP-3707 - 獨飛行於夜晚",
