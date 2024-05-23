@@ -10871,8 +10871,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "4",
-      "votes": "4",
+      "rating": "5",
+      "votes": "5",
       "parent": null,
       "id": "1449604618",
       "detailed_rating": {
@@ -10892,12 +10892,16 @@
             [
                "8480087",
                1693295588
+            ],
+            [
+               "9130820",
+               1716458085
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 4,
-      "justified_votes": 4
+      "justified_rating": 5,
+      "justified_votes": 5
    },
    "1694523246": {
       "title": "基金會月刊 第091期",
