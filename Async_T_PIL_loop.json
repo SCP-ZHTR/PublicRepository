@@ -75194,8 +75194,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "10",
-      "votes": "10",
+      "rating": "11",
+      "votes": "11",
       "parent": null,
       "id": "1329424522",
       "detailed_rating": {
@@ -75239,12 +75239,16 @@
             [
                "DELETED",
                1705827710
+            ],
+            [
+               "8319365",
+               1716566208
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 9,
-      "justified_votes": 9
+      "justified_rating": 10,
+      "justified_votes": 10
    },
    "1634474145": {
       "title": "馬提內效應",
