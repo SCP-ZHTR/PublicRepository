@@ -75547,16 +75547,12 @@
          "_cc"
       ],
       "comments": "0",
-      "rating": "5",
-      "votes": "5",
+      "rating": "6",
+      "votes": "6",
       "parent": null,
       "id": "1329573001",
       "detailed_rating": {
          "+": [
-            [
-               "7469850",
-               1644336000
-            ],
             [
                "6952002",
                1634745600
@@ -75572,6 +75568,14 @@
             [
                "5338547",
                1687351914
+            ],
+            [
+               "8319365",
+               1716566492
+            ],
+            [
+               "DELETED",
+               1716566492
             ]
          ]
       },
@@ -125950,8 +125954,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "5",
-      "votes": "5",
+      "rating": "6",
+      "votes": "6",
       "parent": null,
       "id": "1450577925",
       "detailed_rating": {
@@ -125975,12 +125979,16 @@
             [
                "5413616",
                1706025212
+            ],
+            [
+               "8319365",
+               1716566492
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 5,
-      "justified_votes": 5
+      "justified_rating": 6,
+      "justified_votes": 6
    },
    "1697030050": {
       "title": "SCP-7169 - 大情層行星美眉",
