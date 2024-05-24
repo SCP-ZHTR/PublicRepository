@@ -92729,8 +92729,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "11",
-      "votes": "11",
+      "rating": "12",
+      "votes": "12",
       "parent": null,
       "id": "1403319592",
       "detailed_rating": {
@@ -92738,10 +92738,6 @@
             [
                "7975483",
                1654531200
-            ],
-            [
-               "7469850",
-               1659801600
             ],
             [
                "4990678",
@@ -92778,6 +92774,14 @@
             [
                "8064046",
                1657209600
+            ],
+            [
+               "8319365",
+               1716565520
+            ],
+            [
+               "DELETED",
+               1716565520
             ]
          ]
       },
@@ -136132,5 +136136,31 @@
       "deleted": false,
       "justified_rating": 2,
       "justified_votes": 2
+   },
+   "1716565432": {
+      "title": "SCP-2061 - 「本地一家庭慘遭一臺計算機噎死滅門」",
+      "fullname": "scp-2061",
+      "created_at": "1716565432",
+      "created_by": "6217438",
+      "tags": [
+         "en",
+         "safe",
+         "scp",
+         "強迫性",
+         "翻譯",
+         "視覺性",
+         "認知危害",
+         "電腦"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1453794312",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
