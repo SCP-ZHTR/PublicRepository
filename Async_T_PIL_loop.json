@@ -136059,5 +136059,32 @@
       "deleted": false,
       "justified_rating": 4,
       "justified_votes": 4
+   },
+   "1716553730": {
+      "title": "SCP-8332 - 一小時能花上多少？",
+      "fullname": "scp-8332",
+      "created_at": "1716553730",
+      "created_by": "6217438",
+      "tags": [
+         "apollyon",
+         "en",
+         "scp",
+         "人形",
+         "儀式性",
+         "無形",
+         "精神影響",
+         "翻譯",
+         "超形上學部"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1453784989",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
