@@ -72574,8 +72574,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "8",
-      "votes": "8",
+      "rating": "9",
+      "votes": "9",
       "parent": null,
       "id": "1323967517",
       "detailed_rating": {
@@ -72611,12 +72611,16 @@
             [
                "DELETED",
                1696006338
+            ],
+            [
+               "8319365",
+               1716566911
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 7,
-      "justified_votes": 7
+      "justified_rating": 8,
+      "justified_votes": 8
    },
    "1631304893": {
       "title": "SCP-1836 - 冰藏的母親",
