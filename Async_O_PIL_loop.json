@@ -37017,8 +37017,8 @@
          "_cc"
       ],
       "comments": "0",
-      "rating": "12",
-      "votes": "12",
+      "rating": "13",
+      "votes": "13",
       "parent": null,
       "id": "1026130453",
       "detailed_rating": {
@@ -37070,12 +37070,16 @@
             [
                "6082642",
                1617120000
+            ],
+            [
+               "8883612",
+               1716636845
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 12,
-      "justified_votes": 12
+      "justified_rating": 13,
+      "justified_votes": 13
    },
    "1587564485": {
       "title": "SCP-ZH-480 - 向下找",
