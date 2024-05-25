@@ -132587,8 +132587,8 @@
          "_洞穴的質料"
       ],
       "comments": "0",
-      "rating": "3",
-      "votes": "3",
+      "rating": "4",
+      "votes": "4",
       "parent": null,
       "id": "1453799489",
       "detailed_rating": {
@@ -132604,11 +132604,15 @@
             [
                "9079426",
                1716655414
+            ],
+            [
+               "4239775",
+               1716680068
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 3,
-      "justified_votes": 3
+      "justified_rating": 4,
+      "justified_votes": 4
    }
 }
