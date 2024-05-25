@@ -132510,5 +132510,34 @@
       "deleted": false,
       "justified_rating": 12,
       "justified_votes": 12
+   },
+   "1716645423": {
+      "title": "SCP-ZH-574 - 前哨",
+      "fullname": "scp-zh-574",
+      "created_at": "1716645423",
+      "created_by": "3981670",
+      "tags": [
+         "safe",
+         "scp",
+         "亡走塵寰",
+         "人造物品",
+         "原創",
+         "反常部",
+         "地下",
+         "機械",
+         "逆模因"
+      ],
+      "hidden_tags": [
+         "_共和國士兵"
+      ],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1453799022",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
