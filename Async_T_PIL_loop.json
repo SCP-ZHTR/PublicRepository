@@ -136189,5 +136189,32 @@
       "deleted": false,
       "justified_rating": 1,
       "justified_votes": 1
+   },
+   "1716615155": {
+      "title": "SCP-1678 - 地下倫敦",
+      "fullname": "scp-1678",
+      "created_at": "1716615155",
+      "created_by": "6217438",
+      "tags": [
+         "en",
+         "euclid",
+         "k級情景",
+         "scp",
+         "地下",
+         "城市",
+         "歷史性",
+         "相嘯魔",
+         "翻譯"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1453796796",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
