@@ -16734,8 +16734,8 @@
          "_info"
       ],
       "comments": "0",
-      "rating": "8",
-      "votes": "8",
+      "rating": "9",
+      "votes": "9",
       "parent": null,
       "id": "894539777",
       "detailed_rating": {
@@ -16771,12 +16771,16 @@
             [
                "5454699",
                1617120000
+            ],
+            [
+               "8883612",
+               1716636544
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 8,
-      "justified_votes": 8
+      "justified_rating": 9,
+      "justified_votes": 9
    },
    "1567928641": {
       "title": "為不懂 CSS 的人所寫的說明：如何修改安布羅斯 GOI 格式的代碼",
