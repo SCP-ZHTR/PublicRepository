@@ -132531,7 +132531,7 @@
          "_共和國士兵"
       ],
       "comments": "1",
-      "rating": "2",
+      "rating": "3",
       "votes": "3",
       "parent": null,
       "id": "1453799022",
@@ -132548,11 +132548,15 @@
             [
                "5370805",
                1716646247
+            ],
+            [
+               "8792088",
+               1716646385
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 3,
-      "justified_votes": 3
+      "justified_rating": 4,
+      "justified_votes": 4
    }
 }
