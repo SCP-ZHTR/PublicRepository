@@ -132535,8 +132535,8 @@
          "_共和國士兵"
       ],
       "comments": "1",
-      "rating": "7",
-      "votes": "7",
+      "rating": "8",
+      "votes": "8",
       "parent": null,
       "id": "1453799022",
       "detailed_rating": {
@@ -132568,12 +132568,16 @@
             [
                "5565302",
                1716654353
+            ],
+            [
+               "5435485",
+               1716689113
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 7,
-      "justified_votes": 7
+      "justified_rating": 8,
+      "justified_votes": 8
    },
    "1716653144": {
       "title": "SCP-ZH-373 - 貳佰陸拾叄號水泥-繁廣化工製造",
@@ -132591,8 +132595,8 @@
          "_洞穴的質料"
       ],
       "comments": "0",
-      "rating": "5",
-      "votes": "5",
+      "rating": "6",
+      "votes": "6",
       "parent": null,
       "id": "1453799489",
       "detailed_rating": {
@@ -132616,11 +132620,15 @@
             [
                "7521095",
                1716688165
+            ],
+            [
+               "5435485",
+               1716689113
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 5,
-      "justified_votes": 5
+      "justified_rating": 6,
+      "justified_votes": 6
    }
 }
