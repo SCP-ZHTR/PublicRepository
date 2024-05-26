@@ -14334,19 +14334,44 @@
       "created_at": "1716741134",
       "created_by": "9008592",
       "tags": [
-         "scp",
-         "湯匙",
-         "自主"
+         "待刪除"
       ],
       "hidden_tags": [],
-      "comments": "0",
-      "rating": "0",
-      "votes": "0",
+      "comments": "1",
+      "rating": "-6",
+      "votes": "6",
       "parent": null,
       "id": "1453803400",
-      "detailed_rating": {},
-      "deleted": true,
-      "justified_rating": 0,
-      "justified_votes": 0
+      "detailed_rating": {
+         "-": [
+            [
+               "6104968",
+               1716763385
+            ],
+            [
+               "4990678",
+               1716763385
+            ],
+            [
+               "8177208",
+               1716763385
+            ],
+            [
+               "4239775",
+               1716763385
+            ],
+            [
+               "7486905",
+               1716763385
+            ],
+            [
+               "5415046",
+               1716763385
+            ]
+         ]
+      },
+      "deleted": false,
+      "justified_rating": -6,
+      "justified_votes": 6
    }
 }
