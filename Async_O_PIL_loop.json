@@ -132670,5 +132670,25 @@
       "deleted": false,
       "justified_rating": 9,
       "justified_votes": 9
+   },
+   "1716741134": {
+      "title": "SCP-TW-242",
+      "fullname": "scp-tw-242",
+      "created_at": "1716741134",
+      "created_by": "9008592",
+      "tags": [
+         "原創",
+         "故事"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1453803400",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
