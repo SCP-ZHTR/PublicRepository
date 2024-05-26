@@ -132257,8 +132257,8 @@
          "_第一使命"
       ],
       "comments": "1",
-      "rating": "8",
-      "votes": "8",
+      "rating": "9",
+      "votes": "9",
       "parent": null,
       "id": "1453699065",
       "detailed_rating": {
@@ -132294,12 +132294,16 @@
             [
                "5981123",
                1716234257
+            ],
+            [
+               "5338547",
+               1716717978
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 8,
-      "justified_votes": 8
+      "justified_rating": 9,
+      "justified_votes": 9
    },
    "1552227131": {
       "title": "SCP-ZH-543",
@@ -132459,8 +132463,8 @@
          "_人之流"
       ],
       "comments": "0",
-      "rating": "12",
-      "votes": "12",
+      "rating": "13",
+      "votes": "13",
       "parent": null,
       "id": "1453770550",
       "detailed_rating": {
@@ -132512,12 +132516,16 @@
             [
                "9079426",
                1716446239
+            ],
+            [
+               "5338547",
+               1716717978
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 12,
-      "justified_votes": 12
+      "justified_rating": 13,
+      "justified_votes": 13
    },
    "1716645423": {
       "title": "SCP-ZH-574 - 前哨",
@@ -132539,8 +132547,8 @@
          "_共和國士兵"
       ],
       "comments": "1",
-      "rating": "9",
-      "votes": "9",
+      "rating": "10",
+      "votes": "10",
       "parent": null,
       "id": "1453799022",
       "detailed_rating": {
@@ -132580,12 +132588,16 @@
             [
                "8404617",
                1716715439
+            ],
+            [
+               "5338547",
+               1716717978
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 9,
-      "justified_votes": 9
+      "justified_rating": 10,
+      "justified_votes": 10
    },
    "1716653144": {
       "title": "SCP-ZH-373 - 貳佰陸拾叄號水泥-繁廣化工製造",
@@ -132603,8 +132615,8 @@
          "_白磷時代"
       ],
       "comments": "1",
-      "rating": "6",
-      "votes": "6",
+      "rating": "7",
+      "votes": "7",
       "parent": null,
       "id": "1453799489",
       "detailed_rating": {
@@ -132632,11 +132644,15 @@
             [
                "5435485",
                1716689113
+            ],
+            [
+               "5338547",
+               1716717978
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 6,
-      "justified_votes": 6
+      "justified_rating": 7,
+      "justified_votes": 7
    }
 }
