@@ -14333,7 +14333,9 @@
       "fullname": "scp-tw-242",
       "created_at": "1716741134",
       "created_by": "9008592",
-      "tags": [],
+      "tags": [
+         "活物"
+      ],
       "hidden_tags": [],
       "comments": "0",
       "rating": "0",
