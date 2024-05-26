@@ -132547,8 +132547,8 @@
          "_共和國士兵"
       ],
       "comments": "1",
-      "rating": "10",
-      "votes": "10",
+      "rating": "11",
+      "votes": "11",
       "parent": null,
       "id": "1453799022",
       "detailed_rating": {
@@ -132592,12 +132592,16 @@
             [
                "5338547",
                1716717978
+            ],
+            [
+               "5415046",
+               1716722303
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 10,
-      "justified_votes": 10
+      "justified_rating": 11,
+      "justified_votes": 11
    },
    "1716653144": {
       "title": "SCP-ZH-373 - 貳佰陸拾叄號水泥-繁廣化工製造",
