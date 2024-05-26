@@ -132682,13 +132682,28 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "0",
-      "votes": "0",
+      "rating": "-3",
+      "votes": "3",
       "parent": null,
       "id": "1453803400",
-      "detailed_rating": {},
+      "detailed_rating": {
+         "-": [
+            [
+               "6104968",
+               1716744488
+            ],
+            [
+               "4990678",
+               1716744488
+            ],
+            [
+               "5415046",
+               1716744488
+            ]
+         ]
+      },
       "deleted": false,
-      "justified_rating": 0,
-      "justified_votes": 0
+      "justified_rating": -3,
+      "justified_votes": 3
    }
 }
