@@ -14385,5 +14385,22 @@
       "deleted": true,
       "justified_rating": -9,
       "justified_votes": 9
+   },
+   "1716811548": {
+      "title": "SCP-ZH-489 - 火車先生",
+      "fullname": "scp-zh-489",
+      "created_at": "1716811548",
+      "created_by": "8543386",
+      "tags": [],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1453807587",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
