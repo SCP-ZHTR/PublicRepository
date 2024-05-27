@@ -132754,8 +132754,8 @@
          "_白磷時代"
       ],
       "comments": "1",
-      "rating": "5",
-      "votes": "5",
+      "rating": "6",
+      "votes": "6",
       "parent": null,
       "id": "1453807587",
       "detailed_rating": {
@@ -132779,11 +132779,15 @@
             [
                "8404617",
                1716814554
+            ],
+            [
+               "5370805",
+               1716814824
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 5,
-      "justified_votes": 5
+      "justified_rating": 6,
+      "justified_votes": 6
    }
 }
