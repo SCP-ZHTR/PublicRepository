@@ -14425,5 +14425,22 @@
       "deleted": true,
       "justified_rating": 0,
       "justified_votes": 0
+   },
+   "1716988430": {
+      "title": "SCP-ZH-888-J - 付錢！",
+      "fullname": "scp-zh-888-j",
+      "created_at": "1716988430",
+      "created_by": "8543386",
+      "tags": [],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1453818696",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
