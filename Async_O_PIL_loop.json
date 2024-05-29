@@ -53431,8 +53431,8 @@
       ],
       "hidden_tags": [],
       "comments": "2",
-      "rating": "8",
-      "votes": "8",
+      "rating": "9",
+      "votes": "9",
       "parent": null,
       "id": "1305259118",
       "detailed_rating": {
@@ -53468,12 +53468,16 @@
             [
                "5013754",
                1617120000
+            ],
+            [
+               "8883612",
+               1716979720
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 8,
-      "justified_votes": 8
+      "justified_rating": 9,
+      "justified_votes": 9
    },
    "1602520646": {
       "title": "GOI萌娘化-AWCY和GAW",
