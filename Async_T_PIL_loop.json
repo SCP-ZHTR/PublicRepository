@@ -37617,8 +37617,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "2",
-      "votes": "2",
+      "rating": "3",
+      "votes": "3",
       "parent": "scp-001",
       "id": "1084264585",
       "detailed_rating": {
@@ -37630,12 +37630,16 @@
             [
                "7521095",
                1629043200
+            ],
+            [
+               "8319365",
+               1716992208
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 2,
-      "justified_votes": 2
+      "justified_rating": 3,
+      "justified_votes": 3
    },
    "1590391367": {
       "title": "文件001-O5",
@@ -52921,8 +52925,8 @@
          "_licensebox"
       ],
       "comments": "1",
-      "rating": "9",
-      "votes": "9",
+      "rating": "10",
+      "votes": "10",
       "parent": null,
       "id": "1306292841",
       "detailed_rating": {
@@ -52962,12 +52966,16 @@
             [
                "5013754",
                1617120000
+            ],
+            [
+               "8319365",
+               1716992208
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 9,
-      "justified_votes": 9
+      "justified_rating": 10,
+      "justified_votes": 10
    },
    "1608558155": {
       "title": "宛如我們是幼稚園老師一樣",
