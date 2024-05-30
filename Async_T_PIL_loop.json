@@ -128835,8 +128835,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "5",
-      "votes": "5",
+      "rating": "6",
+      "votes": "6",
       "parent": null,
       "id": "1451376795",
       "detailed_rating": {
@@ -128860,12 +128860,16 @@
             [
                "8033564",
                1700283454
+            ],
+            [
+               "7521095",
+               1717070529
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 5,
-      "justified_votes": 5
+      "justified_rating": 6,
+      "justified_votes": 6
    },
    "1699868255": {
       "title": "SCP-5894 - 亞拉之光",
