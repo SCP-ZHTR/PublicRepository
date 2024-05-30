@@ -132576,8 +132576,8 @@
          "_共和國士兵"
       ],
       "comments": "1",
-      "rating": "12",
-      "votes": "12",
+      "rating": "13",
+      "votes": "13",
       "parent": null,
       "id": "1453799022",
       "detailed_rating": {
@@ -132629,12 +132629,16 @@
             [
                "7827462",
                1716815359
+            ],
+            [
+               "8543386",
+               1717037779
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 12,
-      "justified_votes": 12
+      "justified_rating": 13,
+      "justified_votes": 13
    },
    "1716653144": {
       "title": "SCP-ZH-373 - 貳佰陸拾叄號水泥-繁廣化工製造",
@@ -132787,8 +132791,8 @@
          "_白磷時代"
       ],
       "comments": "1",
-      "rating": "9",
-      "votes": "9",
+      "rating": "8",
+      "votes": "8",
       "parent": null,
       "id": "1453807587",
       "detailed_rating": {
@@ -132824,16 +132828,12 @@
             [
                "9079426",
                1716870995
-            ],
-            [
-               "8543386",
-               1717026098
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 9,
-      "justified_votes": 9
+      "justified_rating": 8,
+      "justified_votes": 8
    },
    "1716988430": {
       "title": "SCP-ZH-888-J - 付錢！",
@@ -132856,8 +132856,8 @@
          "_白磷時代"
       ],
       "comments": "1",
-      "rating": "11",
-      "votes": "11",
+      "rating": "10",
+      "votes": "10",
       "parent": null,
       "id": "1453818696",
       "detailed_rating": {
@@ -132901,15 +132901,11 @@
             [
                "5251681",
                1717035829
-            ],
-            [
-               "8543386",
-               1717037636
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 11,
-      "justified_votes": 11
+      "justified_rating": 10,
+      "justified_votes": 10
    }
 }
