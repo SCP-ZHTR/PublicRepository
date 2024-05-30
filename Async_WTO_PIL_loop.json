@@ -11003,8 +11003,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "5",
-      "votes": "5",
+      "rating": "6",
+      "votes": "6",
       "parent": null,
       "id": "1450860497",
       "detailed_rating": {
@@ -11028,12 +11028,16 @@
             [
                "9075244",
                1711898165
+            ],
+            [
+               "8543386",
+               1717027470
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 5,
-      "justified_votes": 5
+      "justified_rating": 6,
+      "justified_votes": 6
    },
    "1698589413": {
       "title": "看起來好像很酷（實際不然）的地方",
