@@ -7036,8 +7036,8 @@
          "_cc"
       ],
       "comments": "0",
-      "rating": "6",
-      "votes": "6",
+      "rating": "7",
+      "votes": "7",
       "parent": null,
       "id": "1307004501",
       "detailed_rating": {
@@ -7065,12 +7065,16 @@
             [
                "5435485",
                1689143977
+            ],
+            [
+               "5981123",
+               1717151938
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 6,
-      "justified_votes": 6
+      "justified_rating": 7,
+      "justified_votes": 7
    },
    "1614413749": {
       "title": "在下魚骨",
