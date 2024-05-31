@@ -132024,8 +132024,8 @@
       ],
       "hidden_tags": [],
       "comments": "5",
-      "rating": "1",
-      "votes": "7",
+      "rating": "2",
+      "votes": "8",
       "parent": null,
       "id": "1453544052",
       "detailed_rating": {
@@ -132045,6 +132045,10 @@
             [
                "7504530",
                1715401934
+            ],
+            [
+               "6693418",
+               1717158128
             ]
          ],
          "-": [
@@ -132063,8 +132067,8 @@
          ]
       },
       "deleted": false,
-      "justified_rating": 1,
-      "justified_votes": 7
+      "justified_rating": 2,
+      "justified_votes": 8
    },
    "1715443348": {
       "title": "共和國士兵",
