@@ -14524,8 +14524,15 @@
       "fullname": "scp-zh-457",
       "created_at": "1717256456",
       "created_by": "5251681",
-      "tags": [],
-      "hidden_tags": [],
+      "tags": [
+         "m06yj;4",
+         "safe",
+         "scp",
+         "亡走塵寰"
+      ],
+      "hidden_tags": [
+         "_人之流"
+      ],
       "comments": "0",
       "rating": "0",
       "votes": "0",
