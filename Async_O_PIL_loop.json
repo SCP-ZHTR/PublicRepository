@@ -132958,6 +132958,7 @@
       "created_at": "1717215988",
       "created_by": "8846720",
       "tags": [
+         "euclid",
          "scp",
          "亡走塵寰",
          "動物",
@@ -132970,8 +132971,8 @@
          "_第一使命"
       ],
       "comments": "0",
-      "rating": "1",
-      "votes": "1",
+      "rating": "2",
+      "votes": "2",
       "parent": null,
       "id": "1453833930",
       "detailed_rating": {
@@ -132979,11 +132980,15 @@
             [
                "5435485",
                1717218217
+            ],
+            [
+               "7073060",
+               1717226886
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 1,
-      "justified_votes": 1
+      "justified_rating": 2,
+      "justified_votes": 2
    }
 }
