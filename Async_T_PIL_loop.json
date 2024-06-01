@@ -5912,8 +5912,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "17",
-      "votes": "17",
+      "rating": "18",
+      "votes": "18",
       "parent": null,
       "id": "772067813",
       "detailed_rating": {
@@ -5985,12 +5985,16 @@
             [
                "6082642",
                1617120000
+            ],
+            [
+               "5981123",
+               1717278629
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 17,
-      "justified_votes": 17
+      "justified_rating": 18,
+      "justified_votes": 18
    },
    "1556966997": {
       "title": "鹿學院學生手冊",
