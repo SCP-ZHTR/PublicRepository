@@ -133144,8 +133144,8 @@
          "_仲裁者"
       ],
       "comments": "1",
-      "rating": "4",
-      "votes": "4",
+      "rating": "5",
+      "votes": "5",
       "parent": null,
       "id": "1453835807",
       "detailed_rating": {
@@ -133165,11 +133165,15 @@
             [
                "6217438",
                1717245340
+            ],
+            [
+               "8846720",
+               1717246017
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 4,
-      "justified_votes": 4
+      "justified_rating": 5,
+      "justified_votes": 5
    }
 }
