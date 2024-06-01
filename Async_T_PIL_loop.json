@@ -136206,8 +136206,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "2",
-      "votes": "2",
+      "rating": "3",
+      "votes": "3",
       "parent": null,
       "id": "1453784989",
       "detailed_rating": {
@@ -136219,12 +136219,16 @@
             [
                "7827462",
                1716815639
+            ],
+            [
+               "8854072",
+               1717269115
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 2,
-      "justified_votes": 2
+      "justified_rating": 3,
+      "justified_votes": 3
    },
    "1716564538": {
       "title": "因編號缺失而受限制",
