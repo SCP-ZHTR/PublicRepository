@@ -2377,8 +2377,8 @@
          "_info"
       ],
       "comments": "2",
-      "rating": "17",
-      "votes": "17",
+      "rating": "18",
+      "votes": "18",
       "parent": "scp-001",
       "id": "674718494",
       "detailed_rating": {
@@ -2450,12 +2450,16 @@
             [
                "5454699",
                1626278400
+            ],
+            [
+               "8854072",
+               1717249636
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 17,
-      "justified_votes": 17
+      "justified_rating": 18,
+      "justified_votes": 18
    },
    "1554544637": {
       "title": "SCP-380 - 生物性網絡",
