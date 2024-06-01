@@ -133016,13 +133016,24 @@
          "_白磷時代"
       ],
       "comments": "0",
-      "rating": "0",
-      "votes": "0",
+      "rating": "2",
+      "votes": "2",
       "parent": null,
       "id": "1453835544",
-      "detailed_rating": {},
+      "detailed_rating": {
+         "+": [
+            [
+               "5325850",
+               1717238924
+            ],
+            [
+               "5370805",
+               1717238924
+            ]
+         ]
+      },
       "deleted": false,
-      "justified_rating": 0,
-      "justified_votes": 0
+      "justified_rating": 2,
+      "justified_votes": 2
    }
 }
