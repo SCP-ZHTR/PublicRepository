@@ -133155,9 +133155,9 @@
       "hidden_tags": [
          "_仲裁者"
       ],
-      "comments": "1",
-      "rating": "6",
-      "votes": "6",
+      "comments": "2",
+      "rating": "7",
+      "votes": "7",
       "parent": null,
       "id": "1453835807",
       "detailed_rating": {
@@ -133185,11 +133185,15 @@
             [
                "5237516",
                1717248016
+            ],
+            [
+               "8854072",
+               1717248426
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 6,
-      "justified_votes": 6
+      "justified_rating": 7,
+      "justified_votes": 7
    }
 }
