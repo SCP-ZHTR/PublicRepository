@@ -133212,19 +133212,31 @@
       "tags": [
          "scp",
          "亡走塵寰",
-         "原創"
+         "原創",
+         "超現實部"
       ],
       "hidden_tags": [
          "_人之流"
       ],
       "comments": "0",
-      "rating": "0",
-      "votes": "0",
+      "rating": "2",
+      "votes": "2",
       "parent": null,
       "id": "1453836202",
-      "detailed_rating": {},
+      "detailed_rating": {
+         "+": [
+            [
+               "5981123",
+               1717249921
+            ],
+            [
+               "7521095",
+               1717249921
+            ]
+         ]
+      },
       "deleted": false,
-      "justified_rating": 0,
-      "justified_votes": 0
+      "justified_rating": 2,
+      "justified_votes": 2
    }
 }
