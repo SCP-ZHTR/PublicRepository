@@ -133214,17 +133214,22 @@
       "created_at": "1717249414",
       "created_by": "7521095",
       "tags": [
+         "meta",
          "scp",
          "亡走塵寰",
          "原創",
+         "強迫性",
+         "成癮性",
+         "敘述性",
+         "精神影響",
          "超現實部"
       ],
       "hidden_tags": [
          "_人之流"
       ],
       "comments": "0",
-      "rating": "3",
-      "votes": "3",
+      "rating": "4",
+      "votes": "4",
       "parent": null,
       "id": "1453836202",
       "detailed_rating": {
@@ -133240,11 +133245,37 @@
             [
                "8846720",
                1717250328
+            ],
+            [
+               "6709715",
+               1717250600
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 3,
-      "justified_votes": 3
+      "justified_rating": 4,
+      "justified_votes": 4
+   },
+   "1717250442": {
+      "title": "SCP-ZH-797",
+      "fullname": "scp-zh-797",
+      "created_at": "1717250442",
+      "created_by": "5237516",
+      "tags": [
+         "scp",
+         "thaumiel",
+         "原創",
+         "記憶影響"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1453836302",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
