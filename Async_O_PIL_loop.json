@@ -133564,13 +133564,24 @@
          "_第一使命"
       ],
       "comments": "1",
-      "rating": "0",
-      "votes": "0",
+      "rating": "2",
+      "votes": "2",
       "parent": null,
       "id": "1453836728",
-      "detailed_rating": {},
+      "detailed_rating": {
+         "+": [
+            [
+               "9079426",
+               1717259714
+            ],
+            [
+               "7073060",
+               1717259714
+            ]
+         ]
+      },
       "deleted": false,
-      "justified_rating": 0,
-      "justified_votes": 0
+      "justified_rating": 2,
+      "justified_votes": 2
    }
 }
