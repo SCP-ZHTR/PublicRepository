@@ -133168,8 +133168,8 @@
          "_仲裁者"
       ],
       "comments": "2",
-      "rating": "7",
-      "votes": "7",
+      "rating": "8",
+      "votes": "8",
       "parent": null,
       "id": "1453835807",
       "detailed_rating": {
@@ -133201,12 +133201,16 @@
             [
                "8854072",
                1717248426
+            ],
+            [
+               "7521095",
+               1717250741
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 7,
-      "justified_votes": 7
+      "justified_rating": 8,
+      "justified_votes": 8
    },
    "1717249414": {
       "title": "SCP-ZH-498 - 人間失格",
@@ -133227,7 +133231,7 @@
       "hidden_tags": [
          "_人之流"
       ],
-      "comments": "0",
+      "comments": "1",
       "rating": "4",
       "votes": "4",
       "parent": null,
@@ -133257,13 +133261,14 @@
       "justified_votes": 4
    },
    "1717250442": {
-      "title": "SCP-ZH-797",
+      "title": "SCP-ZH-797- 斷舌",
       "fullname": "scp-zh-797",
       "created_at": "1717250442",
       "created_by": "5237516",
       "tags": [
          "scp",
          "thaumiel",
+         "亡走塵寰",
          "原創",
          "記憶影響"
       ],
