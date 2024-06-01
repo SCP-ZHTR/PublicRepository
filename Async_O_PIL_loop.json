@@ -133184,8 +133184,8 @@
          "_仲裁者"
       ],
       "comments": "2",
-      "rating": "9",
-      "votes": "9",
+      "rating": "10",
+      "votes": "10",
       "parent": null,
       "id": "1453835807",
       "detailed_rating": {
@@ -133225,12 +133225,16 @@
             [
                "7064164",
                1717251815
+            ],
+            [
+               "5251681",
+               1717256268
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 9,
-      "justified_votes": 9
+      "justified_rating": 10,
+      "justified_votes": 10
    },
    "1717249414": {
       "title": "SCP-ZH-498 - 人間失格",
@@ -133363,7 +133367,9 @@
          "神異博覽會",
          "繁廣化工"
       ],
-      "hidden_tags": [],
+      "hidden_tags": [
+         "_白磷時代"
+      ],
       "comments": "0",
       "rating": "1",
       "votes": "1",
