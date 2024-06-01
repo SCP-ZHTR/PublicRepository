@@ -25043,8 +25043,8 @@
          "_licensebox"
       ],
       "comments": "1",
-      "rating": "5",
-      "votes": "5",
+      "rating": "6",
+      "votes": "6",
       "parent": "guide-hub",
       "id": "999753802",
       "detailed_rating": {
@@ -25068,12 +25068,16 @@
             [
                "4640859",
                1617120000
+            ],
+            [
+               "9130820",
+               1717234172
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 5,
-      "justified_votes": 5
+      "justified_rating": 6,
+      "justified_votes": 6
    },
    "1583580064": {
       "title": "SCP-065 - 生物異變場",
