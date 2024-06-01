@@ -78956,8 +78956,8 @@
          "_cc"
       ],
       "comments": "0",
-      "rating": "8",
-      "votes": "10",
+      "rating": "9",
+      "votes": "11",
       "parent": null,
       "id": "1324128069",
       "detailed_rating": {
@@ -78997,6 +78997,10 @@
             [
                "DELETED",
                1695270804
+            ],
+            [
+               "8854072",
+               1717272241
             ]
          ],
          "-": [
@@ -79007,8 +79011,8 @@
          ]
       },
       "deleted": false,
-      "justified_rating": 7,
-      "justified_votes": 9
+      "justified_rating": 8,
+      "justified_votes": 10
    },
    "1632571612": {
       "title": "LTE-1903-Orange-Blaecca",
