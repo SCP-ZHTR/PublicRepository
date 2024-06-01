@@ -133145,8 +133145,8 @@
          "_修復用"
       ],
       "comments": "0",
-      "rating": "3",
-      "votes": "3",
+      "rating": "4",
+      "votes": "4",
       "parent": null,
       "id": "1453835629",
       "detailed_rating": {
@@ -133162,12 +133162,16 @@
             [
                "6217438",
                1717249777
+            ],
+            [
+               "9079426",
+               1717259542
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 3,
-      "justified_votes": 3
+      "justified_rating": 4,
+      "justified_votes": 4
    },
    "1717242175": {
       "title": "SCP-ZH-697 - 「法」官",
@@ -133257,8 +133261,8 @@
          "_人之流"
       ],
       "comments": "2",
-      "rating": "0",
-      "votes": "12",
+      "rating": "-1",
+      "votes": "13",
       "parent": null,
       "id": "1453836202",
       "detailed_rating": {
@@ -133312,12 +133316,16 @@
             [
                "5237516",
                1717255054
+            ],
+            [
+               "5415046",
+               1717259542
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 0,
-      "justified_votes": 12
+      "justified_rating": -1,
+      "justified_votes": 13
    },
    "1717250442": {
       "title": "SCP-ZH-797 - 斷舌",
@@ -133325,6 +133333,7 @@
       "created_at": "1717250442",
       "created_by": "5237516",
       "tags": [
+         "meta",
          "scp",
          "thaumiel",
          "亡走塵寰",
@@ -133371,8 +133380,8 @@
          "_白磷時代"
       ],
       "comments": "0",
-      "rating": "1",
-      "votes": "1",
+      "rating": "2",
+      "votes": "2",
       "parent": null,
       "id": "1453836467",
       "detailed_rating": {
@@ -133380,12 +133389,16 @@
             [
                "4990678",
                1717254519
+            ],
+            [
+               "7073060",
+               1717259542
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 1,
-      "justified_votes": 1
+      "justified_rating": 2,
+      "justified_votes": 2
    },
    "1717255486": {
       "title": "SCP-ZH-951 - 性奪者",
@@ -133404,14 +133417,29 @@
          "_第一使命"
       ],
       "comments": "1",
-      "rating": "0",
-      "votes": "0",
+      "rating": "3",
+      "votes": "3",
       "parent": null,
       "id": "1453836594",
-      "detailed_rating": {},
+      "detailed_rating": {
+         "+": [
+            [
+               "8452537",
+               1717259542
+            ],
+            [
+               "8883612",
+               1717259542
+            ],
+            [
+               "4239775",
+               1717259542
+            ]
+         ]
+      },
       "deleted": false,
-      "justified_rating": 0,
-      "justified_votes": 0
+      "justified_rating": 3,
+      "justified_votes": 3
    },
    "1717256456": {
       "title": "SCP-ZH-457 - 在林裡待一下",
@@ -133428,8 +133456,8 @@
          "_人之流"
       ],
       "comments": "0",
-      "rating": "3",
-      "votes": "3",
+      "rating": "6",
+      "votes": "6",
       "parent": null,
       "id": "1453836668",
       "detailed_rating": {
@@ -133445,12 +133473,24 @@
             [
                "9079426",
                1717257354
+            ],
+            [
+               "6709715",
+               1717259542
+            ],
+            [
+               "7827462",
+               1717259542
+            ],
+            [
+               "8854072",
+               1717259542
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 3,
-      "justified_votes": 3
+      "justified_rating": 6,
+      "justified_votes": 6
    },
    "1717257130": {
       "title": "似見",
@@ -133467,10 +133507,67 @@
          "_白磷時代"
       ],
       "comments": "0",
+      "rating": "3",
+      "votes": "3",
+      "parent": null,
+      "id": "1453836724",
+      "detailed_rating": {
+         "+": [
+            [
+               "5370805",
+               1717259542
+            ],
+            [
+               "9079426",
+               1717259542
+            ],
+            [
+               "4239775",
+               1717259542
+            ]
+         ]
+      },
+      "deleted": false,
+      "justified_rating": 3,
+      "justified_votes": 3
+   },
+   "1717257300": {
+      "title": "SCP-ZH-469 - 酒單：Four Loko",
+      "fullname": "scp-zh-469",
+      "created_at": "1717257300",
+      "created_by": "7605593",
+      "tags": [
+         "keter",
+         "scp",
+         "亡走塵寰",
+         "原創",
+         "基金會製造",
+         "寄生性",
+         "幻覺",
+         "心靈感應",
+         "成癮性",
+         "擬態",
+         "書庫",
+         "未收容",
+         "武器",
+         "液體",
+         "真紀博士",
+         "研究員knave",
+         "神經性",
+         "資訊危害",
+         "酣夜櫻華",
+         "重力影響",
+         "震動",
+         "飾品"
+      ],
+      "hidden_tags": [
+         "_第一使命"
+      ],
+      "comments": "1",
       "rating": "0",
       "votes": "0",
       "parent": null,
-      "id": "1453836724",
+      "id": "1453836728",
       "detailed_rating": {},
       "deleted": false,
       "justified_rating": 0,

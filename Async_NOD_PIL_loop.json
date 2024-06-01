@@ -25790,12 +25790,14 @@
       "fullname": "fragment:scp-zh-469-offset-0",
       "created_at": "1717257318",
       "created_by": "7605593",
-      "tags": [],
+      "tags": [
+         "段落"
+      ],
       "hidden_tags": [],
       "comments": "0",
       "rating": "0",
       "votes": "0",
-      "parent": null,
+      "parent": "scp-zh-469",
       "id": "1453836729",
       "detailed_rating": {},
       "deleted": false,
@@ -25807,12 +25809,14 @@
       "fullname": "fragment:scp-zh-469-offset-1",
       "created_at": "1717257323",
       "created_by": "7605593",
-      "tags": [],
+      "tags": [
+         "段落"
+      ],
       "hidden_tags": [],
       "comments": "0",
       "rating": "0",
       "votes": "0",
-      "parent": null,
+      "parent": "scp-zh-469",
       "id": "1453836730",
       "detailed_rating": {},
       "deleted": false,
