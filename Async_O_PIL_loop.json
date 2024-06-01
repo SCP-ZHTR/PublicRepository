@@ -132998,5 +132998,31 @@
       "deleted": false,
       "justified_rating": 3,
       "justified_votes": 3
+   },
+   "1717238427": {
+      "title": "SCP-ZH-351 - 煉油廠加工原料",
+      "fullname": "scp-zh-351",
+      "created_at": "1717238427",
+      "created_by": "5325850",
+      "tags": [
+         "euclid",
+         "scp",
+         "site-zh-12",
+         "原創",
+         "屍體",
+         "逆模因"
+      ],
+      "hidden_tags": [
+         "_白磷時代"
+      ],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1453835544",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
