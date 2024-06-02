@@ -28772,8 +28772,8 @@
          "_info"
       ],
       "comments": "3",
-      "rating": "34",
-      "votes": "34",
+      "rating": "35",
+      "votes": "35",
       "parent": null,
       "id": "986548208",
       "detailed_rating": {
@@ -28913,12 +28913,16 @@
             [
                "8543386",
                1708848356
+            ],
+            [
+               "8854072",
+               1717316313
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 34,
-      "justified_votes": 34
+      "justified_rating": 35,
+      "justified_votes": 35
    },
    "1580810828": {
       "title": "SCP-ZH-60053-J - HONK",
