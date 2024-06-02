@@ -133437,8 +133437,8 @@
          "_第一使命"
       ],
       "comments": "1",
-      "rating": "7",
-      "votes": "7",
+      "rating": "8",
+      "votes": "8",
       "parent": null,
       "id": "1453836594",
       "detailed_rating": {
@@ -133470,12 +133470,16 @@
             [
                "8846720",
                1717291516
+            ],
+            [
+               "7571354",
+               1717297324
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 7,
-      "justified_votes": 7
+      "justified_rating": 8,
+      "justified_votes": 8
    },
    "1717256456": {
       "title": "SCP-ZH-457 - 在林裡待一下",
