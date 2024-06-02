@@ -132528,8 +132528,8 @@
          "_人之流"
       ],
       "comments": "0",
-      "rating": "17",
-      "votes": "17",
+      "rating": "16",
+      "votes": "18",
       "parent": null,
       "id": "1453770550",
       "detailed_rating": {
@@ -132602,11 +132602,17 @@
                "4264056",
                1717253023
             ]
+         ],
+         "-": [
+            [
+               "7827462",
+               1717304812
+            ]
          ]
       },
       "deleted": false,
-      "justified_rating": 17,
-      "justified_votes": 17
+      "justified_rating": 16,
+      "justified_votes": 18
    },
    "1716645423": {
       "title": "SCP-ZH-574 - 前哨",
@@ -132851,8 +132857,8 @@
          "_白磷時代"
       ],
       "comments": "1",
-      "rating": "11",
-      "votes": "11",
+      "rating": "12",
+      "votes": "12",
       "parent": null,
       "id": "1453807587",
       "detailed_rating": {
@@ -132900,12 +132906,16 @@
             [
                "8854072",
                1717243040
+            ],
+            [
+               "8883612",
+               1717304812
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 11,
-      "justified_votes": 11
+      "justified_rating": 12,
+      "justified_votes": 12
    },
    "1716988430": {
       "title": "SCP-ZH-888-J - 付錢！",
@@ -133380,8 +133390,8 @@
          "_第一使命"
       ],
       "comments": "0",
-      "rating": "1",
-      "votes": "1",
+      "rating": "0",
+      "votes": "2",
       "parent": null,
       "id": "1453836302",
       "detailed_rating": {
@@ -133390,11 +133400,17 @@
                "9079426",
                1717251154
             ]
+         ],
+         "-": [
+            [
+               "5435485",
+               1717304812
+            ]
          ]
       },
       "deleted": false,
-      "justified_rating": 1,
-      "justified_votes": 1
+      "justified_rating": 0,
+      "justified_votes": 2
    },
    "1717254105": {
       "title": "SCP-ZH-493 - 「迷離」釉藥",
