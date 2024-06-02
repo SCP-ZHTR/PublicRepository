@@ -133303,8 +133303,8 @@
          "_人之流"
       ],
       "comments": "3",
-      "rating": "-3",
-      "votes": "15",
+      "rating": "-4",
+      "votes": "16",
       "parent": null,
       "id": "1453836202",
       "detailed_rating": {
@@ -133370,12 +133370,16 @@
             [
                "8543386",
                1717302441
+            ],
+            [
+               "5413616",
+               1717310453
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": -3,
-      "justified_votes": 15
+      "justified_rating": -4,
+      "justified_votes": 16
    },
    "1717250442": {
       "title": "SCP-ZH-797 - 斷舌",
