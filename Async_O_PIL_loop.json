@@ -18283,8 +18283,8 @@
          "_info"
       ],
       "comments": "4",
-      "rating": "31",
-      "votes": "33",
+      "rating": "32",
+      "votes": "34",
       "parent": null,
       "id": "919183641",
       "detailed_rating": {
@@ -18416,6 +18416,10 @@
             [
                "DELETED",
                "[UNKNOWN]"
+            ],
+            [
+               "8854072",
+               1717315365
             ]
          ],
          "-": [
@@ -18426,8 +18430,8 @@
          ]
       },
       "deleted": false,
-      "justified_rating": 30,
-      "justified_votes": 32
+      "justified_rating": 31,
+      "justified_votes": 33
    },
    "1571111203": {
       "title": "SCP-ZH-070 - 對話框先生",
