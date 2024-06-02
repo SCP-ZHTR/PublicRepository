@@ -133596,8 +133596,8 @@
          "_第一使命"
       ],
       "comments": "1",
-      "rating": "4",
-      "votes": "4",
+      "rating": "5",
+      "votes": "5",
       "parent": null,
       "id": "1453836728",
       "detailed_rating": {
@@ -133617,11 +133617,15 @@
             [
                "8846720",
                1717283449
+            ],
+            [
+               "6503482",
+               1717288754
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 4,
-      "justified_votes": 4
+      "justified_rating": 5,
+      "justified_votes": 5
    }
 }
