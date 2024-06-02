@@ -133157,8 +133157,8 @@
          "_修復用"
       ],
       "comments": "0",
-      "rating": "4",
-      "votes": "4",
+      "rating": "5",
+      "votes": "5",
       "parent": null,
       "id": "1453835629",
       "detailed_rating": {
@@ -133178,12 +133178,16 @@
             [
                "9079426",
                1717259542
+            ],
+            [
+               "5435485",
+               1717303268
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 4,
-      "justified_votes": 4
+      "justified_rating": 5,
+      "justified_votes": 5
    },
    "1717242175": {
       "title": "SCP-ZH-697 - 「法」官",
@@ -133394,7 +133398,8 @@
          "原創",
          "天已堂",
          "神異博覽會",
-         "繁廣化工"
+         "繁廣化工",
+         "認知危害"
       ],
       "hidden_tags": [
          "_白磷時代"
@@ -133445,8 +133450,8 @@
          "_第一使命"
       ],
       "comments": "1",
-      "rating": "8",
-      "votes": "8",
+      "rating": "9",
+      "votes": "9",
       "parent": null,
       "id": "1453836594",
       "detailed_rating": {
@@ -133482,12 +133487,16 @@
             [
                "7571354",
                1717297324
+            ],
+            [
+               "7504530",
+               1717303268
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 8,
-      "justified_votes": 8
+      "justified_rating": 9,
+      "justified_votes": 9
    },
    "1717256456": {
       "title": "SCP-ZH-457 - 在林裡待一下",
