@@ -105381,8 +105381,8 @@
          "_licensebox"
       ],
       "comments": "2",
-      "rating": "4",
-      "votes": "4",
+      "rating": "5",
+      "votes": "5",
       "parent": null,
       "id": "1437304200",
       "detailed_rating": {
@@ -105402,12 +105402,16 @@
             [
                "DELETED",
                1717297468
+            ],
+            [
+               "5435485",
+               1717302034
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 3,
-      "justified_votes": 3
+      "justified_rating": 4,
+      "justified_votes": 4
    },
    "1668841236": {
       "title": "SCP-2031-JP - 虐兒者斷罪戰士．審判紫",
