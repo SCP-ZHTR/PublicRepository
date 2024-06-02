@@ -36120,8 +36120,8 @@
          "_cc"
       ],
       "comments": "2",
-      "rating": "12",
-      "votes": "12",
+      "rating": "13",
+      "votes": "13",
       "parent": null,
       "id": "1040150257",
       "detailed_rating": {
@@ -36173,12 +36173,16 @@
             [
                "3981670",
                1617120000
+            ],
+            [
+               "8883612",
+               1717300252
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 12,
-      "justified_votes": 12
+      "justified_rating": 13,
+      "justified_votes": 13
    },
    "1589637046": {
       "title": "Mackenzie博士的提案",
