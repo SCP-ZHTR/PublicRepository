@@ -113162,8 +113162,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "20",
-      "votes": "20",
+      "rating": "21",
+      "votes": "21",
       "parent": null,
       "id": "1447042244",
       "detailed_rating": {
@@ -113247,12 +113247,16 @@
             [
                "8543386",
                1715428888
+            ],
+            [
+               "8854072",
+               1717316040
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 20,
-      "justified_votes": 20
+      "justified_rating": 21,
+      "justified_votes": 21
    },
    "1680336642": {
       "title": "是嗎？這就是妳所希望的結局......",
