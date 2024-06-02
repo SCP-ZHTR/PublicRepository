@@ -109807,8 +109807,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "9",
-      "votes": "11",
+      "rating": "10",
+      "votes": "12",
       "parent": null,
       "id": "1445751877",
       "detailed_rating": {
@@ -109852,6 +109852,10 @@
             [
                "5338547",
                1674921600
+            ],
+            [
+               "8854072",
+               1717317006
             ]
          ],
          "-": [
@@ -109862,8 +109866,8 @@
          ]
       },
       "deleted": false,
-      "justified_rating": 10,
-      "justified_votes": 10
+      "justified_rating": 11,
+      "justified_votes": 11
    },
    "1675171562": {
       "title": "SCP-ZH-227 - 他們都不是真的",
