@@ -133513,8 +133513,8 @@
          "_人之流"
       ],
       "comments": "0",
-      "rating": "10",
-      "votes": "10",
+      "rating": "11",
+      "votes": "11",
       "parent": null,
       "id": "1453836668",
       "detailed_rating": {
@@ -133558,12 +133558,16 @@
             [
                "8883612",
                1717292898
+            ],
+            [
+               "5435485",
+               1717303833
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 10,
-      "justified_votes": 10
+      "justified_rating": 11,
+      "justified_votes": 11
    },
    "1717257130": {
       "title": "似見",
@@ -133641,8 +133645,8 @@
          "_第一使命"
       ],
       "comments": "1",
-      "rating": "6",
-      "votes": "6",
+      "rating": "7",
+      "votes": "7",
       "parent": null,
       "id": "1453836728",
       "detailed_rating": {
@@ -133670,11 +133674,15 @@
             [
                "6217438",
                1717291375
+            ],
+            [
+               "7504530",
+               1717303833
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 6,
-      "justified_votes": 6
+      "justified_rating": 7,
+      "justified_votes": 7
    }
 }
