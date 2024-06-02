@@ -119239,8 +119239,8 @@
          "_退"
       ],
       "comments": "2",
-      "rating": "14",
-      "votes": "14",
+      "rating": "15",
+      "votes": "15",
       "parent": null,
       "id": "1449992462",
       "detailed_rating": {
@@ -119300,12 +119300,16 @@
             [
                "5701756",
                1701398119
+            ],
+            [
+               "8854072",
+               1717312963
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 14,
-      "justified_votes": 14
+      "justified_rating": 15,
+      "justified_votes": 15
    },
    "1694870281": {
       "title": "SCP-ZH-497 - 母親的稅金",
@@ -133740,5 +133744,25 @@
       "deleted": false,
       "justified_rating": 9,
       "justified_votes": 9
+   },
+   "1717312625": {
+      "title": "百日",
+      "fullname": "hundred-days",
+      "created_at": "1717312625",
+      "created_by": "5237516",
+      "tags": [
+         "原創",
+         "故事"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1453838878",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
