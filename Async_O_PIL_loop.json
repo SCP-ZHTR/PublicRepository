@@ -133266,8 +133266,8 @@
          "_仲裁者"
       ],
       "comments": "2",
-      "rating": "11",
-      "votes": "11",
+      "rating": "12",
+      "votes": "12",
       "parent": null,
       "id": "1453835807",
       "detailed_rating": {
@@ -133315,12 +133315,16 @@
             [
                "5435485",
                1717304967
+            ],
+            [
+               "7504530",
+               1717376838
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 11,
-      "justified_votes": 11
+      "justified_rating": 12,
+      "justified_votes": 12
    },
    "1717249414": {
       "title": "SCP-ZH-498 - 人間失格",
