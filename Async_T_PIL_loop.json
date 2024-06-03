@@ -127536,8 +127536,8 @@
          "_licensebox"
       ],
       "comments": "0",
-      "rating": "5",
-      "votes": "5",
+      "rating": "6",
+      "votes": "6",
       "parent": null,
       "id": "1450877737",
       "detailed_rating": {
@@ -127561,12 +127561,16 @@
             [
                "5435485",
                1697987387
+            ],
+            [
+               "8854072",
+               1717420411
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 5,
-      "justified_votes": 5
+      "justified_rating": 6,
+      "justified_votes": 6
    },
    "1697987086": {
       "title": "歡樂基金會 中心頁",
