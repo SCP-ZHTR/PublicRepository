@@ -136348,8 +136348,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "12",
-      "votes": "12",
+      "rating": "13",
+      "votes": "13",
       "parent": null,
       "id": "1453796796",
       "detailed_rating": {
@@ -136401,12 +136401,16 @@
             [
                "8854072",
                1717312291
+            ],
+            [
+               "5565302",
+               1717397878
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 12,
-      "justified_votes": 12
+      "justified_rating": 13,
+      "justified_votes": 13
    },
    "1716893420": {
       "title": "Alex Thorley疏通了水管",
