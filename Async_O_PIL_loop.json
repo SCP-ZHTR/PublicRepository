@@ -133782,8 +133782,8 @@
          "_第一使命"
       ],
       "comments": "1",
-      "rating": "10",
-      "votes": "10",
+      "rating": "11",
+      "votes": "11",
       "parent": null,
       "id": "1453836728",
       "detailed_rating": {
@@ -133827,12 +133827,16 @@
             [
                "8177208",
                1717384489
+            ],
+            [
+               "6104968",
+               1717479151
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 10,
-      "justified_votes": 10
+      "justified_rating": 11,
+      "justified_votes": 11
    },
    "1717312625": {
       "title": "百日",
