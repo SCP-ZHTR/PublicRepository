@@ -133942,8 +133942,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "2",
-      "votes": "2",
+      "rating": "3",
+      "votes": "3",
       "parent": null,
       "id": "1453233553",
       "detailed_rating": {
@@ -133955,12 +133955,16 @@
             [
                "8543386",
                1712746903
+            ],
+            [
+               "4990678",
+               1717525709
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 2,
-      "justified_votes": 2
+      "justified_rating": 3,
+      "justified_votes": 3
    },
    "1712264777": {
       "title": "SCP-8195 - Alex Thorley僥倖逃脫",
@@ -134482,8 +134486,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "5",
-      "votes": "5",
+      "rating": "6",
+      "votes": "6",
       "parent": null,
       "id": "1453326554",
       "detailed_rating": {
@@ -134507,12 +134511,16 @@
             [
                "6981058",
                1717207119
+            ],
+            [
+               "4990678",
+               1717525709
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 5,
-      "justified_votes": 5
+      "justified_rating": 6,
+      "justified_votes": 6
    },
    "1713019535": {
       "title": "SCP-2271 - 工廠貨款",
@@ -135939,6 +135947,7 @@
       "created_by": "8883612",
       "tags": [
          "001提案",
+         "en",
          "neutralized",
          "scp",
          "城市",
