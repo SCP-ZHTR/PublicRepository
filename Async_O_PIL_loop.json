@@ -133462,8 +133462,8 @@
          "_第一使命"
       ],
       "comments": "0",
-      "rating": "0",
-      "votes": "2",
+      "rating": "-1",
+      "votes": "3",
       "parent": null,
       "id": "1453836302",
       "detailed_rating": {
@@ -133477,12 +133477,16 @@
             [
                "5435485",
                1717304812
+            ],
+            [
+               "7840542",
+               1717465390
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 0,
-      "justified_votes": 2
+      "justified_rating": -1,
+      "justified_votes": 3
    },
    "1717254105": {
       "title": "SCP-ZH-493 - 「迷離」釉藥",
