@@ -100866,8 +100866,8 @@
          "_licensebox"
       ],
       "comments": "1",
-      "rating": "17",
-      "votes": "17",
+      "rating": "18",
+      "votes": "18",
       "parent": null,
       "id": "1435493397",
       "detailed_rating": {
@@ -100939,12 +100939,16 @@
             [
                "DELETED",
                1695208325
+            ],
+            [
+               "5981123",
+               1717485739
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 16,
-      "justified_votes": 16
+      "justified_rating": 17,
+      "justified_votes": 17
    },
    "1662215085": {
       "title": "寐側擴張",
