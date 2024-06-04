@@ -134638,8 +134638,8 @@
          "_licensebox"
       ],
       "comments": "0",
-      "rating": "2",
-      "votes": "2",
+      "rating": "3",
+      "votes": "3",
       "parent": null,
       "id": "1453334630",
       "detailed_rating": {
@@ -134651,12 +134651,16 @@
             [
                "5251681",
                1717469920
+            ],
+            [
+               "5981123",
+               1717479436
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 2,
-      "justified_votes": 2
+      "justified_rating": 3,
+      "justified_votes": 3
    },
    "1713142764": {
       "title": "SCP-1654 - 調轉至死頻道",
