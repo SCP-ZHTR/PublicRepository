@@ -14642,17 +14642,34 @@
       "fullname": "hundred-days",
       "created_at": "1717312625",
       "created_by": "5237516",
-      "tags": [],
+      "tags": [
+         "待刪除"
+      ],
       "hidden_tags": [],
-      "comments": "0",
-      "rating": "0",
-      "votes": "0",
+      "comments": "1",
+      "rating": "-3",
+      "votes": "3",
       "parent": null,
       "id": "1453838878",
-      "detailed_rating": {},
-      "deleted": true,
-      "justified_rating": 0,
-      "justified_votes": 0
+      "detailed_rating": {
+         "-": [
+            [
+               "7840542",
+               1717575221
+            ],
+            [
+               "7073060",
+               1717575221
+            ],
+            [
+               "8543386",
+               1717575221
+            ]
+         ]
+      },
+      "deleted": false,
+      "justified_rating": -3,
+      "justified_votes": 3
    },
    "1717569994": {
       "title": "針對「台版N號房」冒用名稱聲明",
