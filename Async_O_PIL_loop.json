@@ -40864,8 +40864,8 @@
       ],
       "hidden_tags": [],
       "comments": "5",
-      "rating": "31",
-      "votes": "35",
+      "rating": "32",
+      "votes": "36",
       "parent": null,
       "id": "1138803418",
       "detailed_rating": {
@@ -41001,6 +41001,10 @@
             [
                "5454699",
                1617120000
+            ],
+            [
+               "5981123",
+               1717565168
             ]
          ],
          "-": [
@@ -41015,8 +41019,8 @@
          ]
       },
       "deleted": false,
-      "justified_rating": 31,
-      "justified_votes": 35
+      "justified_rating": 32,
+      "justified_votes": 36
    },
    "1591276402": {
       "title": "成為一個工廠領工",
