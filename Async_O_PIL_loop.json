@@ -114516,8 +114516,8 @@
          "_licensebox"
       ],
       "comments": "1",
-      "rating": "8",
-      "votes": "10",
+      "rating": "9",
+      "votes": "11",
       "parent": null,
       "id": "1447976342",
       "detailed_rating": {
@@ -114557,6 +114557,10 @@
             [
                "DELETED",
                1686221931
+            ],
+            [
+               "9075244",
+               1717576952
             ]
          ],
          "-": [
@@ -114567,8 +114571,8 @@
          ]
       },
       "deleted": false,
-      "justified_rating": 7,
-      "justified_votes": 9
+      "justified_rating": 8,
+      "justified_votes": 10
    },
    "1685635860": {
       "title": "未知航程：海峽戰役2-1",
