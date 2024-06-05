@@ -14653,5 +14653,24 @@
       "deleted": true,
       "justified_rating": 0,
       "justified_votes": 0
+   },
+   "1717569994": {
+      "title": "針對「台版N號房」冒用名稱聲明",
+      "fullname": "scp-zh-announcement2",
+      "created_at": "1717569994",
+      "created_by": "4990678",
+      "tags": [
+         "新聞"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1453871016",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
