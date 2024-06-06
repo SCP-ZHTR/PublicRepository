@@ -121696,8 +121696,8 @@
          "_cc"
       ],
       "comments": "1",
-      "rating": "6",
-      "votes": "6",
+      "rating": "7",
+      "votes": "7",
       "parent": null,
       "id": "1448701257",
       "detailed_rating": {
@@ -121725,12 +121725,16 @@
             [
                "8480087",
                1690640162
+            ],
+            [
+               "6787405",
+               1717666948
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 6,
-      "justified_votes": 6
+      "justified_rating": 7,
+      "justified_votes": 7
    },
    "1688139379": {
       "title": "SCP-1564 - 後涅槃",
