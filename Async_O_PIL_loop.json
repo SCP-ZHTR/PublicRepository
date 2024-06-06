@@ -133115,8 +133115,8 @@
          "_第一使命"
       ],
       "comments": "0",
-      "rating": "7",
-      "votes": "7",
+      "rating": "8",
+      "votes": "8",
       "parent": null,
       "id": "1453833930",
       "detailed_rating": {
@@ -133148,12 +133148,16 @@
             [
                "5981123",
                1717486968
+            ],
+            [
+               "7504530",
+               1717677040
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 7,
-      "justified_votes": 7
+      "justified_rating": 8,
+      "justified_votes": 8
    },
    "1717238427": {
       "title": "SCP-ZH-351 - 煉油廠加工原料",
