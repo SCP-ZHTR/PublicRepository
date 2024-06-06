@@ -130448,8 +130448,8 @@
          "_licensebox"
       ],
       "comments": "0",
-      "rating": "6",
-      "votes": "6",
+      "rating": "7",
+      "votes": "7",
       "parent": null,
       "id": "1451926898",
       "detailed_rating": {
@@ -130477,12 +130477,16 @@
             [
                "7504530",
                1704210501
+            ],
+            [
+               "5338547",
+               1717651029
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 6,
-      "justified_votes": 6
+      "justified_rating": 7,
+      "justified_votes": 7
    },
    "1703070149": {
       "title": "SCP-1551-EX - 豬先生",
