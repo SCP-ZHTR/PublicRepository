@@ -91840,8 +91840,8 @@
          "_假的"
       ],
       "comments": "4",
-      "rating": "27",
-      "votes": "27",
+      "rating": "28",
+      "votes": "28",
       "parent": null,
       "id": "1333202685",
       "detailed_rating": {
@@ -91953,12 +91953,16 @@
             [
                "8418020",
                1712300397
+            ],
+            [
+               "5981123",
+               1717731268
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 25,
-      "justified_votes": 25
+      "justified_rating": 26,
+      "justified_votes": 26
    },
    "1646662256": {
       "title": "一定是假的",
