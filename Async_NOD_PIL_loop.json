@@ -25876,5 +25876,39 @@
       "deleted": false,
       "justified_rating": 8,
       "justified_votes": 8
+   },
+   "1717769088": {
+      "title": "SCP-7542",
+      "fullname": "deleted:reserve:scp-7542",
+      "created_at": "1717769088",
+      "created_by": "7504530",
+      "tags": [],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1453909564",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
+   },
+   "1717769193": {
+      "title": "SCP-7542",
+      "fullname": "reserve:scp-7542",
+      "created_at": "1717769193",
+      "created_by": "7504530",
+      "tags": [],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": null,
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
