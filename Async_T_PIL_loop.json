@@ -136556,5 +136556,30 @@
       "deleted": false,
       "justified_rating": 2,
       "justified_votes": 2
+   },
+   "1717770900": {
+      "title": "SCP-3901-JP - 好，那就全都做吧！",
+      "fullname": "scp-3901-jp",
+      "created_at": "1717770900",
+      "created_by": "7605593",
+      "tags": [
+         "jp",
+         "safe",
+         "scp",
+         "人形",
+         "屍體",
+         "屍體史體",
+         "翻譯"
+      ],
+      "hidden_tags": [],
+      "comments": "1",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1453909625",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
