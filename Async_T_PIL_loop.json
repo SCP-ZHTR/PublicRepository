@@ -136581,5 +136581,31 @@
       "deleted": false,
       "justified_rating": 0,
       "justified_votes": 0
+   },
+   "1717773406": {
+      "title": "SCP-516 - 智能坦克",
+      "fullname": "scp-516",
+      "created_at": "1717773406",
+      "created_by": "6348157",
+      "tags": [
+         "en",
+         "safe",
+         "scp",
+         "機械",
+         "武器",
+         "翻譯",
+         "軍事",
+         "載具"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1453909668",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
