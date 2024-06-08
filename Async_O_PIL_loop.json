@@ -133369,8 +133369,8 @@
          "_修復用"
       ],
       "comments": "1",
-      "rating": "10",
-      "votes": "10",
+      "rating": "11",
+      "votes": "11",
       "parent": null,
       "id": "1453835629",
       "detailed_rating": {
@@ -133414,12 +133414,16 @@
             [
                "8854072",
                1717501555
+            ],
+            [
+               "5370805",
+               1717864166
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 10,
-      "justified_votes": 10
+      "justified_rating": 11,
+      "justified_votes": 11
    },
    "1717242175": {
       "title": "SCP-ZH-697 - 「法」官",
@@ -134121,8 +134125,8 @@
          "_白磷時代"
       ],
       "comments": "0",
-      "rating": "9",
-      "votes": "9",
+      "rating": "10",
+      "votes": "10",
       "parent": "scp-zh-888-j",
       "id": "1453994476",
       "detailed_rating": {
@@ -134162,12 +134166,16 @@
             [
                "6217438",
                1717862794
+            ],
+            [
+               "5370805",
+               1717864166
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 9,
-      "justified_votes": 9
+      "justified_rating": 10,
+      "justified_votes": 10
    },
    "1717836131": {
       "title": "共和國士兵（Hector-ZH-TR 版）",
