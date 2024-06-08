@@ -134030,17 +134030,19 @@
       "created_by": "8543386",
       "tags": [
          "wondertainment博士",
+         "亡走塵寰",
          "原創",
          "合著",
          "小小先生",
          "藝術作品"
       ],
       "hidden_tags": [
-         "_cc"
+         "_cc",
+         "_白磷時代"
       ],
       "comments": "0",
-      "rating": "3",
-      "votes": "3",
+      "rating": "4",
+      "votes": "4",
       "parent": "scp-zh-888-j",
       "id": "1453994476",
       "detailed_rating": {
@@ -134056,11 +134058,15 @@
             [
                "8543386",
                1717823542
+            ],
+            [
+               "8883612",
+               1717826496
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 3,
-      "justified_votes": 3
+      "justified_rating": 4,
+      "justified_votes": 4
    }
 }
