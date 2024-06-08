@@ -132614,8 +132614,8 @@
          "_人之流"
       ],
       "comments": "0",
-      "rating": "18",
-      "votes": "20",
+      "rating": "19",
+      "votes": "21",
       "parent": null,
       "id": "1453770550",
       "detailed_rating": {
@@ -132732,8 +132732,8 @@
          "_共和國士兵"
       ],
       "comments": "1",
-      "rating": "20",
-      "votes": "20",
+      "rating": "21",
+      "votes": "21",
       "parent": null,
       "id": "1453799022",
       "detailed_rating": {
@@ -132817,12 +132817,16 @@
             [
                "5251681",
                1717853384
+            ],
+            [
+               "5413616",
+               1717853808
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 20,
-      "justified_votes": 20
+      "justified_rating": 21,
+      "justified_votes": 21
    },
    "1716653144": {
       "title": "SCP-ZH-373 - 貳佰陸拾叄號水泥-繁廣化工製造",
@@ -133237,8 +133241,8 @@
          "_白磷時代"
       ],
       "comments": "1",
-      "rating": "22",
-      "votes": "22",
+      "rating": "23",
+      "votes": "23",
       "parent": null,
       "id": "1453835544",
       "detailed_rating": {
@@ -133330,12 +133334,16 @@
             [
                "5334590",
                1717853093
+            ],
+            [
+               "5413616",
+               1717853808
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 22,
-      "justified_votes": 22
+      "justified_rating": 23,
+      "justified_votes": 23
    },
    "1717239466": {
       "title": "SCP-ZH-412 - 失效求救",
@@ -133777,8 +133785,8 @@
          "_人之流"
       ],
       "comments": "0",
-      "rating": "17",
-      "votes": "17",
+      "rating": "18",
+      "votes": "18",
       "parent": null,
       "id": "1453836668",
       "detailed_rating": {
@@ -133850,12 +133858,16 @@
             [
                "9130820",
                1717853666
+            ],
+            [
+               "5413616",
+               1717853808
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 17,
-      "justified_votes": 17
+      "justified_rating": 18,
+      "justified_votes": 18
    },
    "1717257130": {
       "title": "似見",
