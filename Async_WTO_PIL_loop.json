@@ -14723,5 +14723,22 @@
       "deleted": true,
       "justified_rating": 0,
       "justified_votes": 0
+   },
+   "1717836131": {
+      "title": "共和國士兵（Hector-ZH-TR 版）",
+      "fullname": "republic-soldier-art-by-hector",
+      "created_at": "1717836131",
+      "created_by": "8883612",
+      "tags": [],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1453995136",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
