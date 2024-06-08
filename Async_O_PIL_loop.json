@@ -134041,8 +134041,8 @@
          "_白磷時代"
       ],
       "comments": "0",
-      "rating": "4",
-      "votes": "4",
+      "rating": "5",
+      "votes": "5",
       "parent": "scp-zh-888-j",
       "id": "1453994476",
       "detailed_rating": {
@@ -134062,11 +134062,15 @@
             [
                "8883612",
                1717826496
+            ],
+            [
+               "8452537",
+               1717827885
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 4,
-      "justified_votes": 4
+      "justified_rating": 5,
+      "justified_votes": 5
    }
 }
