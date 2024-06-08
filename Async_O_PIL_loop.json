@@ -134121,8 +134121,8 @@
          "_白磷時代"
       ],
       "comments": "0",
-      "rating": "8",
-      "votes": "8",
+      "rating": "9",
+      "votes": "9",
       "parent": "scp-zh-888-j",
       "id": "1453994476",
       "detailed_rating": {
@@ -134158,12 +134158,16 @@
             [
                "5981123",
                1717835397
+            ],
+            [
+               "6217438",
+               1717862794
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 8,
-      "justified_votes": 8
+      "justified_rating": 9,
+      "justified_votes": 9
    },
    "1717836131": {
       "title": "共和國士兵（Hector-ZH-TR 版）",
@@ -134317,8 +134321,8 @@
          "_禁黑"
       ],
       "comments": "1",
-      "rating": "-1",
-      "votes": "1",
+      "rating": "-2",
+      "votes": "2",
       "parent": null,
       "id": "1453996489",
       "detailed_rating": {
