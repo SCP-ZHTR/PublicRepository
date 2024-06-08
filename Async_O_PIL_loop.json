@@ -134035,13 +134035,28 @@
          "_cc"
       ],
       "comments": "0",
-      "rating": "0",
-      "votes": "0",
+      "rating": "3",
+      "votes": "3",
       "parent": "scp-zh-888-j",
       "id": "1453994476",
-      "detailed_rating": {},
+      "detailed_rating": {
+         "+": [
+            [
+               "8177208",
+               1717823542
+            ],
+            [
+               "5435485",
+               1717823542
+            ],
+            [
+               "8543386",
+               1717823542
+            ]
+         ]
+      },
       "deleted": false,
-      "justified_rating": 0,
-      "justified_votes": 0
+      "justified_rating": 3,
+      "justified_votes": 3
    }
 }
