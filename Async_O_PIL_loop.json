@@ -134018,5 +134018,30 @@
       "deleted": false,
       "justified_rating": 2,
       "justified_votes": 2
+   },
+   "1717823022": {
+      "title": "請付費以觀看本文件",
+      "fullname": "the-dark-magician",
+      "created_at": "1717823022",
+      "created_by": "8543386",
+      "tags": [
+         "wondertainment博士",
+         "原創",
+         "合著",
+         "小小先生",
+         "藝術作品"
+      ],
+      "hidden_tags": [
+         "_cc"
+      ],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": "scp-zh-888-j",
+      "id": "1453994476",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
