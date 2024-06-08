@@ -3045,6 +3045,7 @@
          "euclid",
          "scp",
          "原創",
+         "宗教",
          "生物性",
          "精神影響"
       ],
@@ -3052,8 +3053,8 @@
          "_禁黑"
       ],
       "comments": "4",
-      "rating": "7",
-      "votes": "29",
+      "rating": "6",
+      "votes": "30",
       "parent": null,
       "id": "639227193",
       "detailed_rating": {
@@ -3175,12 +3176,16 @@
             [
                "5454699",
                1625932800
+            ],
+            [
+               "5370805",
+               1717867704
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 6,
-      "justified_votes": 28
+      "justified_rating": 5,
+      "justified_votes": 29
    },
    "1552735620": {
       "title": "UIU檔案：1970-005",
