@@ -134295,5 +134295,35 @@
       "deleted": false,
       "justified_rating": 1,
       "justified_votes": 1
+   },
+   "1717862246": {
+      "title": "SCP-ZH-607 - 碳壓矽",
+      "fullname": "scp-zh-607",
+      "created_at": "1717862246",
+      "created_by": "7605593",
+      "tags": [
+         "euclid",
+         "meta",
+         "scp",
+         "亡走塵寰",
+         "原創",
+         "欲肉教",
+         "生物性",
+         "紀錄",
+         "資訊危害"
+      ],
+      "hidden_tags": [
+         "_好事者",
+         "_禁黑"
+      ],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1453996489",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
