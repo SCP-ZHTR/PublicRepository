@@ -134223,8 +134223,8 @@
          "_好事者"
       ],
       "comments": "0",
-      "rating": "1",
-      "votes": "1",
+      "rating": "2",
+      "votes": "2",
       "parent": null,
       "id": "1453995779",
       "detailed_rating": {
@@ -134232,11 +134232,15 @@
             [
                "6217438",
                1717857240
+            ],
+            [
+               "5435485",
+               1717857384
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 1,
-      "justified_votes": 1
+      "justified_rating": 2,
+      "justified_votes": 2
    }
 }
