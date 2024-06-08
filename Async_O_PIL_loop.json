@@ -132720,8 +132720,8 @@
          "_共和國士兵"
       ],
       "comments": "1",
-      "rating": "18",
-      "votes": "18",
+      "rating": "19",
+      "votes": "19",
       "parent": null,
       "id": "1453799022",
       "detailed_rating": {
@@ -132797,12 +132797,16 @@
             [
                "8846720",
                1717676486
+            ],
+            [
+               "5334590",
+               1717853093
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 18,
-      "justified_votes": 18
+      "justified_rating": 19,
+      "justified_votes": 19
    },
    "1716653144": {
       "title": "SCP-ZH-373 - 貳佰陸拾叄號水泥-繁廣化工製造",
@@ -133217,8 +133221,8 @@
          "_白磷時代"
       ],
       "comments": "1",
-      "rating": "21",
-      "votes": "21",
+      "rating": "22",
+      "votes": "22",
       "parent": null,
       "id": "1453835544",
       "detailed_rating": {
@@ -133306,12 +133310,16 @@
             [
                "9130820",
                1717850189
+            ],
+            [
+               "5334590",
+               1717853093
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 21,
-      "justified_votes": 21
+      "justified_rating": 22,
+      "justified_votes": 22
    },
    "1717239466": {
       "title": "SCP-ZH-412 - 失效求救",
@@ -133753,8 +133761,8 @@
          "_人之流"
       ],
       "comments": "0",
-      "rating": "13",
-      "votes": "14",
+      "rating": "15",
+      "votes": "15",
       "parent": null,
       "id": "1453836668",
       "detailed_rating": {
@@ -133818,12 +133826,16 @@
             [
                "4239775",
                1717852951
+            ],
+            [
+               "4264056",
+               1717853093
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 15,
-      "justified_votes": 15
+      "justified_rating": 16,
+      "justified_votes": 16
    },
    "1717257130": {
       "title": "似見",
