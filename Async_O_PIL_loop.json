@@ -133999,8 +133999,8 @@
       ],
       "hidden_tags": [],
       "comments": "2",
-      "rating": "3",
-      "votes": "3",
+      "rating": "4",
+      "votes": "4",
       "parent": null,
       "id": "1453993599",
       "detailed_rating": {
@@ -134016,12 +134016,16 @@
             [
                "6503482",
                1717825154
+            ],
+            [
+               "4990678",
+               1717847975
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 3,
-      "justified_votes": 3
+      "justified_rating": 4,
+      "justified_votes": 4
    },
    "1717823022": {
       "title": "請付費以觀看本文件",
@@ -134097,8 +134101,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "6",
-      "votes": "6",
+      "rating": "7",
+      "votes": "7",
       "parent": null,
       "id": "1453995136",
       "detailed_rating": {
@@ -134126,11 +134130,15 @@
             [
                "8846720",
                1717842507
+            ],
+            [
+               "4990678",
+               1717847975
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 6,
-      "justified_votes": 6
+      "justified_rating": 7,
+      "justified_votes": 7
    }
 }
