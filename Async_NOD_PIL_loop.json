@@ -25149,8 +25149,8 @@
       ],
       "hidden_tags": [],
       "comments": "45",
-      "rating": "67",
-      "votes": "67",
+      "rating": "68",
+      "votes": "68",
       "parent": null,
       "id": "630645654",
       "detailed_rating": {
@@ -25422,12 +25422,16 @@
             [
                "DELETED",
                1713324752
+            ],
+            [
+               "9075244",
+               1717832782
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 64,
-      "justified_votes": 64
+      "justified_rating": 65,
+      "justified_votes": 65
    },
    "1551955249_630645655": {
       "title": "討論區各分類",
@@ -25905,7 +25909,7 @@
       "rating": "0",
       "votes": "0",
       "parent": null,
-      "id": null,
+      "id": "UNSET",
       "detailed_rating": {},
       "deleted": true,
       "justified_rating": 0,
