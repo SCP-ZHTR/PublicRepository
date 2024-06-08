@@ -134148,5 +134148,28 @@
       "deleted": false,
       "justified_rating": 8,
       "justified_votes": 8
+   },
+   "1717850684": {
+      "title": "為存在者",
+      "fullname": "argument-of-existence",
+      "created_at": "1717850684",
+      "created_by": "5338547",
+      "tags": [
+         "亡走塵寰",
+         "原創",
+         "故事"
+      ],
+      "hidden_tags": [
+         "_好事者"
+      ],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1453995779",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
