@@ -132418,8 +132418,8 @@
          "_第一使命"
       ],
       "comments": "1",
-      "rating": "11",
-      "votes": "11",
+      "rating": "12",
+      "votes": "12",
       "parent": null,
       "id": "1453699065",
       "detailed_rating": {
@@ -132467,12 +132467,16 @@
             [
                "3981670",
                1717245069
+            ],
+            [
+               "7504530",
+               1717895284
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 11,
-      "justified_votes": 11
+      "justified_rating": 12,
+      "justified_votes": 12
    },
    "1552227131": {
       "title": "SCP-ZH-543",
