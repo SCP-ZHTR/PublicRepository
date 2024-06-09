@@ -65766,8 +65766,8 @@
       ],
       "hidden_tags": [],
       "comments": "6",
-      "rating": "18",
-      "votes": "42",
+      "rating": "19",
+      "votes": "43",
       "parent": null,
       "id": "1308459903",
       "detailed_rating": {
@@ -65891,6 +65891,10 @@
             [
                "8883612",
                1713499594
+            ],
+            [
+               "9075244",
+               1717903886
             ]
          ],
          "-": [
@@ -65945,8 +65949,8 @@
          ]
       },
       "deleted": false,
-      "justified_rating": 19,
-      "justified_votes": 41
+      "justified_rating": 20,
+      "justified_votes": 42
    },
    "1617460539": {
       "title": "SCP-ZH-250 - 人造的雪色面具",
