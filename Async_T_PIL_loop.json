@@ -57881,8 +57881,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "11",
-      "votes": "11",
+      "rating": "12",
+      "votes": "12",
       "parent": null,
       "id": "1307037521",
       "detailed_rating": {
@@ -57930,12 +57930,16 @@
             [
                "DELETED",
                "[UNKNOWN]"
+            ],
+            [
+               "8846720",
+               1717910751
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 10,
-      "justified_votes": 10
+      "justified_rating": 11,
+      "justified_votes": 11
    },
    "1614947862": {
       "title": "SCP-4473 - 你讓我感覺像",
