@@ -71576,8 +71576,8 @@
          "_cc"
       ],
       "comments": "8",
-      "rating": "10",
-      "votes": "10",
+      "rating": "11",
+      "votes": "11",
       "parent": null,
       "id": "1312087955",
       "detailed_rating": {
@@ -71621,12 +71621,16 @@
             [
                "6678442",
                1623686400
+            ],
+            [
+               "5981123",
+               1717923910
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 10,
-      "justified_votes": 10
+      "justified_rating": 11,
+      "justified_votes": 11
    },
    "1623667565": {
       "title": "捉雙",
