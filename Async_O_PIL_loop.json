@@ -20502,8 +20502,8 @@
          "_禁黑"
       ],
       "comments": "0",
-      "rating": "23",
-      "votes": "23",
+      "rating": "24",
+      "votes": "24",
       "parent": null,
       "id": "938849739",
       "detailed_rating": {
@@ -20599,12 +20599,16 @@
             [
                "9130820",
                1717852951
+            ],
+            [
+               "8846720",
+               1717899774
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 22,
-      "justified_votes": 22
+      "justified_rating": 23,
+      "justified_votes": 23
    },
    "1574243813": {
       "title": "SCP-ZH-301 - 馬斯列尼查",
