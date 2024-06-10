@@ -134042,8 +134042,8 @@
          "_第一使命"
       ],
       "comments": "1",
-      "rating": "12",
-      "votes": "12",
+      "rating": "13",
+      "votes": "13",
       "parent": null,
       "id": "1453836728",
       "detailed_rating": {
@@ -134095,12 +134095,16 @@
             [
                "9075244",
                1717775487
+            ],
+            [
+               "5334590",
+               1718005924
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 12,
-      "justified_votes": 12
+      "justified_rating": 13,
+      "justified_votes": 13
    },
    "1717312625": {
       "title": "百日",
@@ -134194,8 +134198,8 @@
          "_白磷時代"
       ],
       "comments": "0",
-      "rating": "11",
-      "votes": "11",
+      "rating": "12",
+      "votes": "12",
       "parent": "scp-zh-888-j",
       "id": "1453994476",
       "detailed_rating": {
@@ -134243,12 +134247,16 @@
             [
                "8319365",
                1717886693
+            ],
+            [
+               "5334590",
+               1718005924
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 11,
-      "justified_votes": 11
+      "justified_rating": 12,
+      "justified_votes": 12
    },
    "1717836131": {
       "title": "共和國士兵（Hector-ZH-TR 版）",
