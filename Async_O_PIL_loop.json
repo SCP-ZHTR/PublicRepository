@@ -68871,8 +68871,8 @@
          "_cc"
       ],
       "comments": "19",
-      "rating": "31",
-      "votes": "31",
+      "rating": "32",
+      "votes": "32",
       "parent": null,
       "id": "1310961651",
       "detailed_rating": {
@@ -69000,12 +69000,16 @@
             [
                "8404617",
                1702216114
+            ],
+            [
+               "5981123",
+               1718011442
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 31,
-      "justified_votes": 31
+      "justified_rating": 32,
+      "justified_votes": 32
    },
    "1620135694": {
       "title": "當游樂場的燈漸熄",
