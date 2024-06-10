@@ -134437,8 +134437,8 @@
          "_禁黑"
       ],
       "comments": "4",
-      "rating": "-6",
-      "votes": "8",
+      "rating": "-5",
+      "votes": "9",
       "parent": null,
       "id": "1453996489",
       "detailed_rating": {
@@ -134476,12 +134476,16 @@
             [
                "5981123",
                1717886833
+            ],
+            [
+               "9075244",
+               1717993778
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": -6,
-      "justified_votes": 8
+      "justified_rating": -5,
+      "justified_votes": 9
    },
    "1717938857": {
       "title": "SCP-ZH-306解密",
