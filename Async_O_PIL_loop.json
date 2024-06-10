@@ -134329,8 +134329,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "8",
-      "votes": "8",
+      "rating": "9",
+      "votes": "9",
       "parent": null,
       "id": "1453995136",
       "detailed_rating": {
@@ -134366,12 +134366,16 @@
             [
                "7073060",
                1717849086
+            ],
+            [
+               "9079426",
+               1718034824
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 8,
-      "justified_votes": 8
+      "justified_rating": 9,
+      "justified_votes": 9
    },
    "1717850684": {
       "title": "為存在者",
