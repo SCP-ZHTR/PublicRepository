@@ -84184,8 +84184,8 @@
          "_cc"
       ],
       "comments": "0",
-      "rating": "5",
-      "votes": "5",
+      "rating": "6",
+      "votes": "6",
       "parent": null,
       "id": "1335749255",
       "detailed_rating": {
@@ -84209,12 +84209,16 @@
             [
                "DELETED",
                1718034826
+            ],
+            [
+               "5981123",
+               1718035519
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 4,
-      "justified_votes": 4
+      "justified_rating": 5,
+      "justified_votes": 5
    },
    "1646883476": {
       "title": "SCP-144 - 圖博天繩",
