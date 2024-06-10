@@ -1712,8 +1712,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "0",
-      "votes": "2",
+      "rating": "-1",
+      "votes": "3",
       "parent": "rating-against-traditions",
       "id": "801774997",
       "detailed_rating": {
@@ -1727,12 +1727,16 @@
             [
                "6787405",
                1689145478
+            ],
+            [
+               "8962532",
+               1718013397
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 0,
-      "justified_votes": 2
+      "justified_rating": -1,
+      "justified_votes": 3
    },
    "1558696094": {
       "title": "自訂評分模版：著作資訊評分佔比條",
