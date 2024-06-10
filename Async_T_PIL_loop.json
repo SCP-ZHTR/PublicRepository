@@ -136630,5 +136630,27 @@
       "deleted": false,
       "justified_rating": 1,
       "justified_votes": 1
+   },
+   "1718025025": {
+      "title": "霸凌地心引力",
+      "fullname": "bullying-gravity",
+      "created_at": "1718025025",
+      "created_by": "4206567",
+      "tags": [
+         "en",
+         "en-交換藝術",
+         "故事",
+         "翻譯"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1454039646",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
