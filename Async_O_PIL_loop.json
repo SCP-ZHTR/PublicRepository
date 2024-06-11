@@ -7641,6 +7641,7 @@
       "tags": [
          "scp",
          "site-zh-02",
+         "人形",
          "原創",
          "已解明",
          "張道士",
@@ -7650,8 +7651,8 @@
          "_info"
       ],
       "comments": "2",
-      "rating": "12",
-      "votes": "14",
+      "rating": "11",
+      "votes": "15",
       "parent": null,
       "id": "790547943",
       "detailed_rating": {
@@ -7713,12 +7714,16 @@
             [
                "4107284",
                1617120000
+            ],
+            [
+               "5370805",
+               1718125868
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 11,
-      "justified_votes": 13
+      "justified_rating": 10,
+      "justified_votes": 14
    },
    "1557886042": {
       "title": "名以為你的遺跡–錯肩",
