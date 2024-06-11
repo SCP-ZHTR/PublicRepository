@@ -134568,8 +134568,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "6",
-      "votes": "6",
+      "rating": "5",
+      "votes": "5",
       "parent": null,
       "id": "1453326554",
       "detailed_rating": {
@@ -134591,18 +134591,14 @@
                1713013620
             ],
             [
-               "6981058",
-               1717207119
-            ],
-            [
                "4990678",
                1717525709
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 6,
-      "justified_votes": 6
+      "justified_rating": 5,
+      "justified_votes": 5
    },
    "1713019535": {
       "title": "SCP-2271 - 工廠貨款",
