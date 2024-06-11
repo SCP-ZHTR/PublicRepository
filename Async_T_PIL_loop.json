@@ -136703,5 +136703,35 @@
       "deleted": false,
       "justified_rating": 2,
       "justified_votes": 2
+   },
+   "1718110796": {
+      "title": "SCP-1504-KO - 腐壞",
+      "fullname": "scp-1504-ko",
+      "created_at": "1718110796",
+      "created_by": "7073060",
+      "tags": [
+         "2023-한가위축연",
+         "ko",
+         "meta",
+         "scp",
+         "不可摧毀",
+         "植物",
+         "機密分級",
+         "活物",
+         "翻譯",
+         "誤傳部",
+         "食物",
+         "이상성부"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1454045186",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
