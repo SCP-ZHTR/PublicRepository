@@ -132706,8 +132706,8 @@
          "_人之流"
       ],
       "comments": "0",
-      "rating": "20",
-      "votes": "22",
+      "rating": "21",
+      "votes": "23",
       "parent": null,
       "id": "1453770550",
       "detailed_rating": {
@@ -132795,6 +132795,10 @@
             [
                "5435485",
                1717982207
+            ],
+            [
+               "7504530",
+               1718065258
             ]
          ],
          "-": [
@@ -132805,8 +132809,8 @@
          ]
       },
       "deleted": false,
-      "justified_rating": 20,
-      "justified_votes": 22
+      "justified_rating": 21,
+      "justified_votes": 23
    },
    "1716645423": {
       "title": "SCP-ZH-574 - 前哨",
@@ -134261,8 +134265,8 @@
          "_白磷時代"
       ],
       "comments": "0",
-      "rating": "12",
-      "votes": "12",
+      "rating": "13",
+      "votes": "13",
       "parent": "scp-zh-888-j",
       "id": "1453994476",
       "detailed_rating": {
@@ -134314,12 +134318,16 @@
             [
                "5334590",
                1718005924
+            ],
+            [
+               "7504530",
+               1718065258
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 12,
-      "justified_votes": 12
+      "justified_rating": 13,
+      "justified_votes": 13
    },
    "1717836131": {
       "title": "共和國士兵（Hector-ZH-TR 版）",
