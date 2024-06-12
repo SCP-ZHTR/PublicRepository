@@ -133464,8 +133464,8 @@
          "_licensebox"
       ],
       "comments": "0",
-      "rating": "3",
-      "votes": "3",
+      "rating": "4",
+      "votes": "4",
       "parent": null,
       "id": "1452879515",
       "detailed_rating": {
@@ -133481,12 +133481,16 @@
             [
                "6217438",
                1709417944
+            ],
+            [
+               "9130820",
+               1718158246
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 3,
-      "justified_votes": 3
+      "justified_rating": 4,
+      "justified_votes": 4
    },
    "1709379447": {
       "title": "SCP-126 - 隱形朋友",
