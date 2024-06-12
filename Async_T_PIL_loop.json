@@ -121659,8 +121659,8 @@
          "_licensebox"
       ],
       "comments": "0",
-      "rating": "6",
-      "votes": "6",
+      "rating": "7",
+      "votes": "7",
       "parent": null,
       "id": "1448684271",
       "detailed_rating": {
@@ -121688,12 +121688,16 @@
             [
                "8607832",
                1688103762
+            ],
+            [
+               "9130820",
+               1718157553
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 6,
-      "justified_votes": 6
+      "justified_rating": 7,
+      "justified_votes": 7
    },
    "1688128873": {
       "title": "常見的新手點子+如何更好地構思你的SCP",
