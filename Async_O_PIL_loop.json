@@ -28350,8 +28350,8 @@
          "_info"
       ],
       "comments": "3",
-      "rating": "13",
-      "votes": "15",
+      "rating": "14",
+      "votes": "16",
       "parent": null,
       "id": "986331109",
       "detailed_rating": {
@@ -28411,6 +28411,10 @@
             [
                "6082642",
                1635696000
+            ],
+            [
+               "7827462",
+               1718178757
             ]
          ],
          "-": [
@@ -28421,8 +28425,8 @@
          ]
       },
       "deleted": false,
-      "justified_rating": 13,
-      "justified_votes": 15
+      "justified_rating": 14,
+      "justified_votes": 16
    },
    "1580306527": {
       "title": "SCP-ZH-136 - 仙女木之森",
