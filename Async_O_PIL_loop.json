@@ -8284,8 +8284,8 @@
          "_info"
       ],
       "comments": "0",
-      "rating": "25",
-      "votes": "25",
+      "rating": "26",
+      "votes": "26",
       "parent": "guide-hub",
       "id": "801775422",
       "detailed_rating": {
@@ -8389,12 +8389,16 @@
             [
                "6942049",
                1702909770
+            ],
+            [
+               "8319365",
+               1718202696
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 25,
-      "justified_votes": 25
+      "justified_rating": 26,
+      "justified_votes": 26
    },
    "1558971934": {
       "title": "關於圖片來源與歸屬的注意事項",
