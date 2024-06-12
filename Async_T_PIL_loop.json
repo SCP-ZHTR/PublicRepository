@@ -87188,8 +87188,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "9",
-      "votes": "9",
+      "rating": "10",
+      "votes": "10",
       "parent": null,
       "id": "1402044057",
       "detailed_rating": {
@@ -87229,12 +87229,16 @@
             [
                "8854072",
                1718108422
+            ],
+            [
+               "8319365",
+               1718198618
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 8,
-      "justified_votes": 8
+      "justified_rating": 9,
+      "justified_votes": 9
    },
    "1648906897": {
       "title": "SCP-904 - 簡短的詩",
