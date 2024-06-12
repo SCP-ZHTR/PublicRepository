@@ -130506,8 +130506,8 @@
          "_cc"
       ],
       "comments": "0",
-      "rating": "3",
-      "votes": "3",
+      "rating": "4",
+      "votes": "4",
       "parent": null,
       "id": "1451898797",
       "detailed_rating": {
@@ -130523,12 +130523,16 @@
             [
                "5013754",
                1707150711
+            ],
+            [
+               "5435485",
+               1718235845
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 3,
-      "justified_votes": 3
+      "justified_rating": 4,
+      "justified_votes": 4
    },
    "1703070004": {
       "title": "SCP-7855 - 伯哈特煮了⠀⠀⠀⠀⠀⠀",
