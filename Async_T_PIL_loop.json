@@ -40952,8 +40952,8 @@
          "_毆打鯊魚中心-goi格式"
       ],
       "comments": "2",
-      "rating": "6",
-      "votes": "6",
+      "rating": "7",
+      "votes": "7",
       "parent": "k-o-failure-scenario-hub",
       "id": "1184041237",
       "detailed_rating": {
@@ -40981,12 +40981,16 @@
             [
                "6048694",
                1617120000
+            ],
+            [
+               "8319365",
+               1718289773
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 6,
-      "justified_votes": 6
+      "justified_rating": 7,
+      "justified_votes": 7
    },
    "1594719573": {
       "title": "活地獄",

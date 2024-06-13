@@ -14797,11 +14797,14 @@
       "justified_votes": 0
    },
    "1718289410": {
-      "title": "SCP-ZH-159 卡西歐",
+      "title": "SCP-ZH-159 卡西歐限定款",
       "fullname": "scp-zh-159",
       "created_at": "1718289410",
       "created_by": "8742552",
-      "tags": [],
+      "tags": [
+         "scp-zh-159",
+         "卡西歐限定款"
+      ],
       "hidden_tags": [],
       "comments": "0",
       "rating": "0",
