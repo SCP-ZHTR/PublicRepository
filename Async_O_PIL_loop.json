@@ -105695,16 +105695,12 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "10",
-      "votes": "10",
+      "rating": "11",
+      "votes": "11",
       "parent": null,
       "id": "1437060765",
       "detailed_rating": {
          "+": [
-            [
-               "7469850",
-               1667923200
-            ],
             [
                "4990678",
                1667750400
@@ -105740,6 +105736,14 @@
             [
                "5338547",
                1668873600
+            ],
+            [
+               "8742552",
+               1718292634
+            ],
+            [
+               "DELETED",
+               1718292634
             ]
          ]
       },
@@ -130444,8 +130448,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "9",
-      "votes": "9",
+      "rating": "10",
+      "votes": "10",
       "parent": null,
       "id": "1453044495",
       "detailed_rating": {
@@ -130485,12 +130489,16 @@
             [
                "6217438",
                1716893044
+            ],
+            [
+               "8742552",
+               1718292634
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 9,
-      "justified_votes": 9
+      "justified_rating": 10,
+      "justified_votes": 10
    },
    "1711111887": {
       "title": "SCP-ZH-368 - 薛丁格的室友",
