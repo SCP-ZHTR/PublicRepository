@@ -126384,8 +126384,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "2",
-      "votes": "2",
+      "rating": "3",
+      "votes": "3",
       "parent": null,
       "id": "1450587485",
       "detailed_rating": {
@@ -126397,12 +126397,16 @@
             [
                "7504530",
                1697076469
+            ],
+            [
+               "8319365",
+               1718290204
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 2,
-      "justified_votes": 2
+      "justified_rating": 3,
+      "justified_votes": 3
    },
    "1697038507": {
       "title": "SCP-6578 - 美國哥德風",
