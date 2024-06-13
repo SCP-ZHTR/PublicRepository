@@ -4412,7 +4412,7 @@
       ],
       "comments": "0",
       "rating": "6",
-      "votes": "6",
+      "votes": "7",
       "parent": null,
       "id": "746892752",
       "detailed_rating": {
@@ -4440,12 +4440,16 @@
             [
                "5150230",
                1617120000
+            ],
+            [
+               "8319365",
+               1718289915
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 6,
-      "justified_votes": 6
+      "justified_rating": 7,
+      "justified_votes": 7
    },
    "1555760023": {
       "title": "SCP-404-JP - Not found",
@@ -17397,8 +17401,8 @@
          "_licensebox"
       ],
       "comments": "0",
-      "rating": "4",
-      "votes": "4",
+      "rating": "5",
+      "votes": "5",
       "parent": null,
       "id": "858387462",
       "detailed_rating": {
@@ -17418,12 +17422,16 @@
             [
                "4239775",
                1617120000
+            ],
+            [
+               "8319365",
+               1718289915
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 4,
-      "justified_votes": 4
+      "justified_rating": 5,
+      "justified_votes": 5
    },
    "1566425115": {
       "title": "SCP-011 - 有感知的內戰紀念雕像",
