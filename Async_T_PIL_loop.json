@@ -136856,5 +136856,33 @@
       "deleted": false,
       "justified_rating": 2,
       "justified_votes": 2
+   },
+   "1718380166": {
+      "title": "SCP-6655 - 實驗將會繼續。",
+      "fullname": "scp-6655",
+      "created_at": "1718380166",
+      "created_by": "6217438",
+      "tags": [
+         "en",
+         "en-夢魘盛會",
+         "keter",
+         "scp",
+         "傳染性",
+         "概念",
+         "第五教會",
+         "精神影響",
+         "翻譯",
+         "資訊危害"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1454060114",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
