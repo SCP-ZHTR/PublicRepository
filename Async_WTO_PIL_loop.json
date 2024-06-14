@@ -14849,5 +14849,22 @@
       "deleted": true,
       "justified_rating": 0,
       "justified_votes": 0
+   },
+   "1718385002": {
+      "title": "SCP-ZH-930 - 曇花綻放之時",
+      "fullname": "scp-zh-930",
+      "created_at": "1718385002",
+      "created_by": "5435485",
+      "tags": [],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1454060319",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
