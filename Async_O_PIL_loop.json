@@ -134858,8 +134858,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "-3",
-      "votes": "5",
+      "rating": "-4",
+      "votes": "6",
       "parent": null,
       "id": "1454055425",
       "detailed_rating": {
@@ -134879,6 +134879,10 @@
             [
                "5981123",
                1718293723
+            ],
+            [
+               "5338547",
+               1718389513
             ]
          ],
          "+": [
@@ -134889,8 +134893,8 @@
          ]
       },
       "deleted": false,
-      "justified_rating": -3,
-      "justified_votes": 5
+      "justified_rating": -4,
+      "justified_votes": 6
    },
    "1718385002": {
       "title": "SCP-ZH-930 - 曇花綻放之時",
@@ -134919,8 +134923,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "2",
-      "votes": "2",
+      "rating": "3",
+      "votes": "3",
       "parent": null,
       "id": "1454060319",
       "detailed_rating": {
@@ -134932,11 +134936,15 @@
             [
                "8543386",
                1718389113
+            ],
+            [
+               "5338547",
+               1718389513
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 2,
-      "justified_votes": 2
+      "justified_rating": 3,
+      "justified_votes": 3
    }
 }
