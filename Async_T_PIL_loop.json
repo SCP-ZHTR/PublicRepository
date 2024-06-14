@@ -120613,8 +120613,8 @@
          "_licensebox"
       ],
       "comments": "0",
-      "rating": "4",
-      "votes": "4",
+      "rating": "5",
+      "votes": "5",
       "parent": null,
       "id": "1448467952",
       "detailed_rating": {
@@ -120634,12 +120634,16 @@
             [
                "5435485",
                1687104516
+            ],
+            [
+               "8319365",
+               1718361938
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 4,
-      "justified_votes": 4
+      "justified_rating": 5,
+      "justified_votes": 5
    },
    "1687177689": {
       "title": "SCP-553 - 晶蝶",
