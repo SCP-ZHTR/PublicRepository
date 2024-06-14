@@ -1632,8 +1632,8 @@
          "_info"
       ],
       "comments": "2",
-      "rating": "17",
-      "votes": "23",
+      "rating": "16",
+      "votes": "24",
       "parent": null,
       "id": "637423986",
       "detailed_rating": {
@@ -1731,12 +1731,16 @@
             [
                "5225164",
                1617120000
+            ],
+            [
+               "7073060",
+               1718340133
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 17,
-      "justified_votes": 23
+      "justified_rating": 16,
+      "justified_votes": 24
    },
    "1552231633": {
       "title": "SCP-ZH-555",
