@@ -46840,8 +46840,8 @@
          "_賞金1200字"
       ],
       "comments": "1",
-      "rating": "12",
-      "votes": "12",
+      "rating": "13",
+      "votes": "13",
       "parent": null,
       "id": "1260621278",
       "detailed_rating": {
@@ -46893,12 +46893,16 @@
             [
                "5454699",
                1617120000
+            ],
+            [
+               "8319365",
+               1718405312
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 12,
-      "justified_votes": 12
+      "justified_rating": 13,
+      "justified_votes": 13
    },
    "1596451858": {
       "title": "SCP-ZH-391 - 雨停之前",
@@ -79653,8 +79657,8 @@
          "_cc"
       ],
       "comments": "4",
-      "rating": "10",
-      "votes": "10",
+      "rating": "11",
+      "votes": "11",
       "parent": null,
       "id": "1329340684",
       "detailed_rating": {
@@ -79698,12 +79702,16 @@
             [
                "DELETED",
                1695270804
+            ],
+            [
+               "8319365",
+               1718405312
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 8,
-      "justified_votes": 8
+      "justified_rating": 9,
+      "justified_votes": 9
    },
    "1634278821": {
       "title": "SCP-ZH-068 - 自然色彩之戰",
