@@ -134608,8 +134608,8 @@
          "_好事者"
       ],
       "comments": "0",
-      "rating": "9",
-      "votes": "11",
+      "rating": "10",
+      "votes": "12",
       "parent": null,
       "id": "1453995779",
       "detailed_rating": {
@@ -134653,6 +134653,10 @@
             [
                "6503482",
                1718421803
+            ],
+            [
+               "5062193",
+               1718440534
             ]
          ],
          "-": [
@@ -134663,8 +134667,8 @@
          ]
       },
       "deleted": false,
-      "justified_rating": 9,
-      "justified_votes": 11
+      "justified_rating": 10,
+      "justified_votes": 12
    },
    "1717861455": {
       "title": "SCP基金會與午夜俱樂部的合作備忘錄",
