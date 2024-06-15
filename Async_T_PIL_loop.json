@@ -128654,8 +128654,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "3",
-      "votes": "3",
+      "rating": "4",
+      "votes": "4",
       "parent": null,
       "id": "1451355305",
       "detailed_rating": {
@@ -128671,12 +128671,16 @@
             [
                "8177208",
                1699548135
+            ],
+            [
+               "8883612",
+               1718437640
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 3,
-      "justified_votes": 3
+      "justified_rating": 4,
+      "justified_votes": 4
    },
    "1699544811": {
       "title": "SCP-6272 - 先兆 II：別的東西",
