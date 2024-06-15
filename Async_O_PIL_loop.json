@@ -134001,8 +134001,8 @@
          "_白磷時代"
       ],
       "comments": "0",
-      "rating": "9",
-      "votes": "9",
+      "rating": "10",
+      "votes": "10",
       "parent": null,
       "id": "1453836467",
       "detailed_rating": {
@@ -134042,12 +134042,16 @@
             [
                "5338547",
                1718458530
+            ],
+            [
+               "8177208",
+               1718465103
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 9,
-      "justified_votes": 9
+      "justified_rating": 10,
+      "justified_votes": 10
    },
    "1717255486": {
       "title": "SCP-ZH-951 - 性奪者",
