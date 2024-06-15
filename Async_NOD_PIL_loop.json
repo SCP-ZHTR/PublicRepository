@@ -17072,7 +17072,9 @@
       "fullname": "fragment:scp-zh-114-1",
       "created_at": "1668442861",
       "created_by": "4442284",
-      "tags": [],
+      "tags": [
+         "段落"
+      ],
       "hidden_tags": [],
       "comments": "0",
       "rating": "0",
@@ -17089,7 +17091,9 @@
       "fullname": "fragment:scp-zh-114-2",
       "created_at": "1668442866",
       "created_by": "4442284",
-      "tags": [],
+      "tags": [
+         "段落"
+      ],
       "hidden_tags": [],
       "comments": "0",
       "rating": "0",
