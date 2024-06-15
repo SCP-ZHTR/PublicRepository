@@ -132234,8 +132234,8 @@
          "_禁黑"
       ],
       "comments": "73",
-      "rating": "7",
-      "votes": "7",
+      "rating": "8",
+      "votes": "8",
       "parent": null,
       "id": "1453534768",
       "detailed_rating": {
@@ -132267,12 +132267,16 @@
             [
                "5252281",
                1715928788
+            ],
+            [
+               "7605593",
+               1718459725
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 7,
-      "justified_votes": 7
+      "justified_rating": 8,
+      "justified_votes": 8
    },
    "1714924421": {
       "title": "SCP-ZH-705 - 椅仔姑",
