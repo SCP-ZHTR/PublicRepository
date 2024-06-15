@@ -134182,8 +134182,8 @@
          "_人之流"
       ],
       "comments": "0",
-      "rating": "22",
-      "votes": "22",
+      "rating": "23",
+      "votes": "23",
       "parent": null,
       "id": "1453836668",
       "detailed_rating": {
@@ -134275,12 +134275,16 @@
             [
                "5338547",
                1718458530
+            ],
+            [
+               "8177208",
+               1718465240
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 22,
-      "justified_votes": 22
+      "justified_rating": 23,
+      "justified_votes": 23
    },
    "1717257130": {
       "title": "似見",
@@ -134297,8 +134301,8 @@
          "_白磷時代"
       ],
       "comments": "0",
-      "rating": "8",
-      "votes": "10",
+      "rating": "9",
+      "votes": "11",
       "parent": null,
       "id": "1453836724",
       "detailed_rating": {
@@ -134338,6 +134342,10 @@
             [
                "5338547",
                1718458530
+            ],
+            [
+               "8177208",
+               1718465240
             ]
          ],
          "-": [
@@ -134348,8 +134356,8 @@
          ]
       },
       "deleted": false,
-      "justified_rating": 8,
-      "justified_votes": 10
+      "justified_rating": 9,
+      "justified_votes": 11
    },
    "1717257300": {
       "title": "SCP-ZH-469 - 酒單：Four Loko",
@@ -134632,8 +134640,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "11",
-      "votes": "11",
+      "rating": "12",
+      "votes": "12",
       "parent": null,
       "id": "1453995136",
       "detailed_rating": {
@@ -134681,12 +134689,16 @@
             [
                "7605593",
                1718373048
+            ],
+            [
+               "8177208",
+               1718465240
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 11,
-      "justified_votes": 11
+      "justified_rating": 12,
+      "justified_votes": 12
    },
    "1717850684": {
       "title": "為存在者",
@@ -134702,8 +134714,8 @@
          "_好事者"
       ],
       "comments": "0",
-      "rating": "10",
-      "votes": "12",
+      "rating": "11",
+      "votes": "13",
       "parent": null,
       "id": "1453995779",
       "detailed_rating": {
@@ -134751,6 +134763,10 @@
             [
                "5062193",
                1718440534
+            ],
+            [
+               "8177208",
+               1718465240
             ]
          ],
          "-": [
@@ -134761,8 +134777,8 @@
          ]
       },
       "deleted": false,
-      "justified_rating": 10,
-      "justified_votes": 12
+      "justified_rating": 11,
+      "justified_votes": 13
    },
    "1717861455": {
       "title": "SCP基金會與午夜俱樂部的合作備忘錄",
@@ -134781,8 +134797,8 @@
          "_第一使命"
       ],
       "comments": "0",
-      "rating": "8",
-      "votes": "8",
+      "rating": "9",
+      "votes": "9",
       "parent": null,
       "id": "1453996473",
       "detailed_rating": {
@@ -134818,12 +134834,16 @@
             [
                "6503482",
                1718421803
+            ],
+            [
+               "8177208",
+               1718465240
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 8,
-      "justified_votes": 8
+      "justified_rating": 9,
+      "justified_votes": 9
    },
    "1717862246": {
       "title": "SCP-ZH-607 - 碳壓矽",
