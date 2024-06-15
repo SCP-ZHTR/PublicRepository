@@ -134920,11 +134920,12 @@
          "scp",
          "site-zh-02",
          "site-zh-44",
+         "site-zh-72",
          "surge博士",
          "valentine博士",
          "三垣",
+         "傳染性",
          "原創",
-         "感染性",
          "智能",
          "有機",
          "未收容",
@@ -134936,8 +134937,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "6",
-      "votes": "6",
+      "rating": "7",
+      "votes": "7",
       "parent": null,
       "id": "1454060319",
       "detailed_rating": {
@@ -134965,11 +134966,15 @@
             [
                "5370805",
                1718403054
+            ],
+            [
+               "7073060",
+               1718418352
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 6,
-      "justified_votes": 6
+      "justified_rating": 7,
+      "justified_votes": 7
    }
 }
