@@ -135645,8 +135645,8 @@
          "_licensebox"
       ],
       "comments": "0",
-      "rating": "5",
-      "votes": "5",
+      "rating": "6",
+      "votes": "6",
       "parent": null,
       "id": "1453626044",
       "detailed_rating": {
@@ -135670,12 +135670,16 @@
             [
                "8884787",
                1715606341
+            ],
+            [
+               "8883612",
+               1718439220
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 5,
-      "justified_votes": 5
+      "justified_rating": 6,
+      "justified_votes": 6
    },
    "1715698004": {
       "title": "代號：所有人的提案 - D-I-WHY？！",
