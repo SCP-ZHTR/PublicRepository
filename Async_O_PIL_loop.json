@@ -134619,8 +134619,8 @@
          "_好事者"
       ],
       "comments": "0",
-      "rating": "8",
-      "votes": "10",
+      "rating": "9",
+      "votes": "11",
       "parent": null,
       "id": "1453995779",
       "detailed_rating": {
@@ -134660,6 +134660,10 @@
             [
                "7605593",
                1718373048
+            ],
+            [
+               "6503482",
+               1718421803
             ]
          ],
          "-": [
@@ -134670,8 +134674,8 @@
          ]
       },
       "deleted": false,
-      "justified_rating": 8,
-      "justified_votes": 10
+      "justified_rating": 9,
+      "justified_votes": 11
    },
    "1717861455": {
       "title": "SCP基金會與午夜俱樂部的合作備忘錄",
@@ -134690,8 +134694,8 @@
          "_第一使命"
       ],
       "comments": "0",
-      "rating": "7",
-      "votes": "7",
+      "rating": "8",
+      "votes": "8",
       "parent": null,
       "id": "1453996473",
       "detailed_rating": {
@@ -134723,12 +134727,16 @@
             [
                "7605593",
                1718373048
+            ],
+            [
+               "6503482",
+               1718421803
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 7,
-      "justified_votes": 7
+      "justified_rating": 8,
+      "justified_votes": 8
    },
    "1717862246": {
       "title": "SCP-ZH-607 - 碳壓矽",
