@@ -132793,8 +132793,8 @@
          "_人之流"
       ],
       "comments": "0",
-      "rating": "25",
-      "votes": "27",
+      "rating": "27",
+      "votes": "29",
       "parent": null,
       "id": "1453770550",
       "detailed_rating": {
@@ -132906,6 +132906,10 @@
             [
                "8982806",
                1718467141
+            ],
+            [
+               "7655555",
+               1718467288
             ]
          ],
          "-": [
@@ -132916,8 +132920,8 @@
          ]
       },
       "deleted": false,
-      "justified_rating": 26,
-      "justified_votes": 28
+      "justified_rating": 27,
+      "justified_votes": 29
    },
    "1716645423": {
       "title": "SCP-ZH-574 - 前哨",
@@ -132939,8 +132943,8 @@
          "_共和國士兵"
       ],
       "comments": "1",
-      "rating": "24",
-      "votes": "24",
+      "rating": "25",
+      "votes": "25",
       "parent": null,
       "id": "1453799022",
       "detailed_rating": {
@@ -133067,8 +133071,8 @@
          "_白磷時代"
       ],
       "comments": "1",
-      "rating": "19",
-      "votes": "19",
+      "rating": "20",
+      "votes": "20",
       "parent": null,
       "id": "1453799489",
       "detailed_rating": {
@@ -133148,12 +133152,16 @@
             [
                "8177208",
                1718466055
+            ],
+            [
+               "7655555",
+               1718467288
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 19,
-      "justified_votes": 19
+      "justified_rating": 20,
+      "justified_votes": 20
    },
    "1716741134": {
       "title": "SCP-TW-242",
@@ -134242,8 +134250,8 @@
          "_人之流"
       ],
       "comments": "0",
-      "rating": "24",
-      "votes": "24",
+      "rating": "26",
+      "votes": "26",
       "parent": null,
       "id": "1453836668",
       "detailed_rating": {
@@ -134343,12 +134351,20 @@
             [
                "7655555",
                1718466459
+            ],
+            [
+               "8452537",
+               1718467288
+            ],
+            [
+               "8543386",
+               1718467288
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 24,
-      "justified_votes": 24
+      "justified_rating": 26,
+      "justified_votes": 26
    },
    "1717257130": {
       "title": "似見",
@@ -134456,8 +134472,8 @@
          "_第一使命"
       ],
       "comments": "1",
-      "rating": "15",
-      "votes": "15",
+      "rating": "16",
+      "votes": "16",
       "parent": null,
       "id": "1453836728",
       "detailed_rating": {
@@ -134521,12 +134537,16 @@
             [
                "5338547",
                1718458121
+            ],
+            [
+               "7655555",
+               1718467288
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 15,
-      "justified_votes": 15
+      "justified_rating": 16,
+      "justified_votes": 16
    },
    "1717312625": {
       "title": "百日",
@@ -134702,7 +134722,9 @@
          "原創",
          "藝術作品"
       ],
-      "hidden_tags": [],
+      "hidden_tags": [
+         "_共和國士兵"
+      ],
       "comments": "1",
       "rating": "13",
       "votes": "13",
