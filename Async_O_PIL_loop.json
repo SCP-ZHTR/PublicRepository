@@ -134222,8 +134222,8 @@
          "_白磷時代"
       ],
       "comments": "0",
-      "rating": "6",
-      "votes": "8",
+      "rating": "7",
+      "votes": "9",
       "parent": null,
       "id": "1453836724",
       "detailed_rating": {
@@ -134255,6 +134255,10 @@
             [
                "7605593",
                1718372891
+            ],
+            [
+               "6503482",
+               1718421536
             ]
          ],
          "-": [
@@ -134265,8 +134269,8 @@
          ]
       },
       "deleted": false,
-      "justified_rating": 6,
-      "justified_votes": 8
+      "justified_rating": 7,
+      "justified_votes": 9
    },
    "1717257300": {
       "title": "SCP-ZH-469 - 酒單：Four Loko",
