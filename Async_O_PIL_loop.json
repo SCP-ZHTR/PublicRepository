@@ -133212,8 +133212,8 @@
          "_白磷時代"
       ],
       "comments": "1",
-      "rating": "17",
-      "votes": "17",
+      "rating": "18",
+      "votes": "18",
       "parent": null,
       "id": "1453807587",
       "detailed_rating": {
@@ -133285,12 +133285,16 @@
             [
                "5062193",
                1718442799
+            ],
+            [
+               "5338547",
+               1718458530
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 17,
-      "justified_votes": 17
+      "justified_rating": 18,
+      "justified_votes": 18
    },
    "1716988430": {
       "title": "SCP-ZH-888-J - 付錢！",
@@ -133313,8 +133317,8 @@
          "_白磷時代"
       ],
       "comments": "1",
-      "rating": "21",
-      "votes": "21",
+      "rating": "22",
+      "votes": "22",
       "parent": null,
       "id": "1453818696",
       "detailed_rating": {
@@ -133402,12 +133406,16 @@
             [
                "5062193",
                1718442663
+            ],
+            [
+               "5338547",
+               1718458530
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 21,
-      "justified_votes": 21
+      "justified_rating": 22,
+      "justified_votes": 22
    },
    "1717215988": {
       "title": "SCP-ZH-315 - 危機感",
@@ -133983,8 +133991,8 @@
          "_白磷時代"
       ],
       "comments": "0",
-      "rating": "8",
-      "votes": "8",
+      "rating": "9",
+      "votes": "9",
       "parent": null,
       "id": "1453836467",
       "detailed_rating": {
@@ -134020,12 +134028,16 @@
             [
                "6503482",
                1718382507
+            ],
+            [
+               "5338547",
+               1718458530
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 8,
-      "justified_votes": 8
+      "justified_rating": 9,
+      "justified_votes": 9
    },
    "1717255486": {
       "title": "SCP-ZH-951 - 性奪者",
@@ -134152,8 +134164,8 @@
          "_人之流"
       ],
       "comments": "0",
-      "rating": "21",
-      "votes": "21",
+      "rating": "22",
+      "votes": "22",
       "parent": null,
       "id": "1453836668",
       "detailed_rating": {
@@ -134241,12 +134253,16 @@
             [
                "5062193",
                1718441192
+            ],
+            [
+               "5338547",
+               1718458530
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 21,
-      "justified_votes": 21
+      "justified_rating": 22,
+      "justified_votes": 22
    },
    "1717257130": {
       "title": "似見",
@@ -134263,8 +134279,8 @@
          "_白磷時代"
       ],
       "comments": "0",
-      "rating": "7",
-      "votes": "9",
+      "rating": "8",
+      "votes": "10",
       "parent": null,
       "id": "1453836724",
       "detailed_rating": {
@@ -134300,6 +134316,10 @@
             [
                "6503482",
                1718421536
+            ],
+            [
+               "5338547",
+               1718458530
             ]
          ],
          "-": [
@@ -134310,8 +134330,8 @@
          ]
       },
       "deleted": false,
-      "justified_rating": 7,
-      "justified_votes": 9
+      "justified_rating": 8,
+      "justified_votes": 10
    },
    "1717257300": {
       "title": "SCP-ZH-469 - 酒單：Four Loko",
