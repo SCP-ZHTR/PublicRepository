@@ -133642,8 +133642,8 @@
          "_修復用"
       ],
       "comments": "2",
-      "rating": "17",
-      "votes": "17",
+      "rating": "18",
+      "votes": "18",
       "parent": null,
       "id": "1453835629",
       "detailed_rating": {
@@ -133715,12 +133715,16 @@
             [
                "5062193",
                1718441993
+            ],
+            [
+               "8982806",
+               1718461440
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 17,
-      "justified_votes": 17
+      "justified_rating": 18,
+      "justified_votes": 18
    },
    "1717242175": {
       "title": "SCP-ZH-697 - 「法」官",
@@ -133737,8 +133741,8 @@
          "_仲裁者"
       ],
       "comments": "2",
-      "rating": "17",
-      "votes": "17",
+      "rating": "18",
+      "votes": "18",
       "parent": null,
       "id": "1453835807",
       "detailed_rating": {
@@ -133810,12 +133814,16 @@
             [
                "5062193",
                1718441855
+            ],
+            [
+               "8982806",
+               1718461440
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 17,
-      "justified_votes": 17
+      "justified_rating": 18,
+      "justified_votes": 18
    },
    "1717249414": {
       "title": "SCP-ZH-498 - 人間失格",
