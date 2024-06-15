@@ -134676,8 +134676,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "12",
-      "votes": "12",
+      "rating": "13",
+      "votes": "13",
       "parent": null,
       "id": "1453995136",
       "detailed_rating": {
@@ -134729,12 +134729,16 @@
             [
                "8177208",
                1718465240
+            ],
+            [
+               "6217438",
+               1718466597
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 12,
-      "justified_votes": 12
+      "justified_rating": 13,
+      "justified_votes": 13
    },
    "1717850684": {
       "title": "為存在者",
@@ -134833,8 +134837,8 @@
          "_第一使命"
       ],
       "comments": "0",
-      "rating": "9",
-      "votes": "9",
+      "rating": "10",
+      "votes": "10",
       "parent": null,
       "id": "1453996473",
       "detailed_rating": {
@@ -134874,12 +134878,16 @@
             [
                "8177208",
                1718465240
+            ],
+            [
+               "6217438",
+               1718466597
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 9,
-      "justified_votes": 9
+      "justified_rating": 10,
+      "justified_votes": 10
    },
    "1717862246": {
       "title": "SCP-ZH-607 - 碳壓矽",
