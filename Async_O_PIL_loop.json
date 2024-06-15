@@ -133510,8 +133510,8 @@
          "_白磷時代"
       ],
       "comments": "2",
-      "rating": "25",
-      "votes": "25",
+      "rating": "26",
+      "votes": "26",
       "parent": null,
       "id": "1453835544",
       "detailed_rating": {
@@ -133615,12 +133615,16 @@
             [
                "5062193",
                1718442262
+            ],
+            [
+               "8982806",
+               1718460652
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 25,
-      "justified_votes": 25
+      "justified_rating": 26,
+      "justified_votes": 26
    },
    "1717239466": {
       "title": "SCP-ZH-412 - 失效求救",
@@ -134054,8 +134058,8 @@
          "_第一使命"
       ],
       "comments": "1",
-      "rating": "20",
-      "votes": "20",
+      "rating": "21",
+      "votes": "21",
       "parent": null,
       "id": "1453836594",
       "detailed_rating": {
@@ -134139,12 +134143,16 @@
             [
                "5338547",
                1718458258
+            ],
+            [
+               "8982806",
+               1718460652
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 20,
-      "justified_votes": 20
+      "justified_rating": 21,
+      "justified_votes": 21
    },
    "1717256456": {
       "title": "SCP-ZH-457 - 在林裡待一下",
