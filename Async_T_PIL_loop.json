@@ -31715,8 +31715,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "6",
-      "votes": "6",
+      "rating": "7",
+      "votes": "7",
       "parent": null,
       "id": "1024259098",
       "detailed_rating": {
@@ -31744,12 +31744,16 @@
             [
                "8854072",
                1713499596
+            ],
+            [
+               "5981123",
+               1718530083
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 6,
-      "justified_votes": 6
+      "justified_rating": 7,
+      "justified_votes": 7
    },
    "1586441502": {
       "title": "序曲：預備鈴",
@@ -103716,19 +103720,23 @@
          "_licensebox"
       ],
       "comments": "0",
-      "rating": "2",
-      "votes": "2",
+      "rating": "3",
+      "votes": "3",
       "parent": null,
       "id": "1436954773",
       "detailed_rating": {
          "+": [
             [
-               "7469850",
-               1667664000
-            ],
-            [
                "6217438",
                1667059200
+            ],
+            [
+               "5981123",
+               1718530083
+            ],
+            [
+               "DELETED",
+               1718530083
             ]
          ]
       },
