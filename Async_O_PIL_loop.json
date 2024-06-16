@@ -135223,7 +135223,9 @@
          "精神影響",
          "遠己"
       ],
-      "hidden_tags": [],
+      "hidden_tags": [
+         "_cc"
+      ],
       "comments": "1",
       "rating": "13",
       "votes": "13",
