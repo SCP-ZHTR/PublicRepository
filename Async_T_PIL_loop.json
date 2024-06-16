@@ -13349,8 +13349,8 @@
          "_cc"
       ],
       "comments": "0",
-      "rating": "2",
-      "votes": "2",
+      "rating": "3",
+      "votes": "3",
       "parent": null,
       "id": "819681635",
       "detailed_rating": {
@@ -13362,12 +13362,16 @@
             [
                "DELETED",
                "[UNKNOWN]"
+            ],
+            [
+               "5981123",
+               1718529946
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 1,
-      "justified_votes": 1
+      "justified_rating": 2,
+      "justified_votes": 2
    },
    "1561204129": {
       "title": "來自 SCP-046-ARC (更為人知的名字是大屌 Richard Chappell) 收容室的智慧小語",
