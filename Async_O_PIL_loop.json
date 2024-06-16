@@ -17253,8 +17253,8 @@
          "_info"
       ],
       "comments": "0",
-      "rating": "12",
-      "votes": "12",
+      "rating": "13",
+      "votes": "13",
       "parent": null,
       "id": "905900534",
       "detailed_rating": {
@@ -17306,12 +17306,16 @@
             [
                "DELETED",
                "[UNKNOWN]"
+            ],
+            [
+               "5981123",
+               1718532080
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 11,
-      "justified_votes": 11
+      "justified_rating": 12,
+      "justified_votes": 12
    },
    "1568976503": {
       "title": "中秋夜遣懷",
