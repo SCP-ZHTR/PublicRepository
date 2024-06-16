@@ -17418,8 +17418,8 @@
          "_info"
       ],
       "comments": "8",
-      "rating": "35",
-      "votes": "35",
+      "rating": "36",
+      "votes": "36",
       "parent": null,
       "id": "906030138",
       "detailed_rating": {
@@ -17563,12 +17563,16 @@
             [
                "DELETED",
                "[UNKNOWN]"
+            ],
+            [
+               "5981123",
+               1718533253
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 34,
-      "justified_votes": 34
+      "justified_rating": 35,
+      "justified_votes": 35
    },
    "1569155808": {
       "title": "有關批准開發從基準世界連接至異常空間水管之申請",
@@ -74894,6 +74898,7 @@
          "2021夏季競賽",
          "safe",
          "scp",
+         "site-zh-16",
          "原創",
          "武器",
          "記憶影響"
