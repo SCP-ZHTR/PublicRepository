@@ -33211,8 +33211,8 @@
          "_禁黑"
       ],
       "comments": "1",
-      "rating": "14",
-      "votes": "18",
+      "rating": "15",
+      "votes": "19",
       "parent": null,
       "id": "999949859",
       "detailed_rating": {
@@ -33280,6 +33280,10 @@
             [
                "5454699",
                1617120000
+            ],
+            [
+               "5981123",
+               1718531682
             ]
          ],
          "-": [
@@ -33294,8 +33298,8 @@
          ]
       },
       "deleted": false,
-      "justified_rating": 14,
-      "justified_votes": 18
+      "justified_rating": 15,
+      "justified_votes": 19
    },
    "1584206177": {
       "title": "Kondraki的四次方麻煩",
