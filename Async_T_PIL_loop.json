@@ -136530,7 +136530,10 @@
          "翻譯",
          "資訊危害"
       ],
-      "hidden_tags": [],
+      "hidden_tags": [
+         "_image",
+         "_licensebox"
+      ],
       "comments": "0",
       "rating": "2",
       "votes": "2",
