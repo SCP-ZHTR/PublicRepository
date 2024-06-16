@@ -26094,5 +26094,24 @@
       "deleted": false,
       "justified_rating": 0,
       "justified_votes": 0
+   },
+   "1617460539": {
+      "title": "SCP-ZH-250 - 人造的雪色面具",
+      "fullname": "deleted:scp-zh-250",
+      "created_at": "1617460539",
+      "created_by": "5435485",
+      "tags": [
+         "待刪除"
+      ],
+      "hidden_tags": [],
+      "comments": "1",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1308471661",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
