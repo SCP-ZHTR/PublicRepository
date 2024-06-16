@@ -6713,8 +6713,8 @@
          "_image"
       ],
       "comments": "1",
-      "rating": "1",
-      "votes": "1",
+      "rating": "2",
+      "votes": "2",
       "parent": null,
       "id": "1306115002",
       "detailed_rating": {
@@ -6722,12 +6722,16 @@
             [
                "5013754",
                1689145478
+            ],
+            [
+               "9079426",
+               1718556593
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 1,
-      "justified_votes": 1
+      "justified_rating": 2,
+      "justified_votes": 2
    },
    "1608799589": {
       "title": "聖誕節主題",
