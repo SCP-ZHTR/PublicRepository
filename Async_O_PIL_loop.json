@@ -23608,8 +23608,8 @@
          "_info"
       ],
       "comments": "1",
-      "rating": "12",
-      "votes": "12",
+      "rating": "13",
+      "votes": "13",
       "parent": null,
       "id": "985788064",
       "detailed_rating": {
@@ -23661,12 +23661,16 @@
             [
                "9075244",
                1712746651
+            ],
+            [
+               "5981123",
+               1718520227
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 12,
-      "justified_votes": 12
+      "justified_rating": 13,
+      "justified_votes": 13
    },
    "1576741440": {
       "title": "沙皇先知協會中心頁",
