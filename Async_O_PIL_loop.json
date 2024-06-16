@@ -39349,8 +39349,8 @@
          "_闇壽司-goi格式"
       ],
       "comments": "4",
-      "rating": "11",
-      "votes": "11",
+      "rating": "12",
+      "votes": "12",
       "parent": null,
       "id": "1046967894",
       "detailed_rating": {
@@ -39398,12 +39398,16 @@
             [
                "4107284",
                1617120000
+            ],
+            [
+               "5981123",
+               1718526930
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 11,
-      "justified_votes": 11
+      "justified_rating": 12,
+      "justified_votes": 12
    },
    "1590152860": {
       "title": "3D油飯",
