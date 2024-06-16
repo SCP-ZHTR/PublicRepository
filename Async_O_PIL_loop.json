@@ -46365,8 +46365,8 @@
          "_闇壽司-goi格式"
       ],
       "comments": "3",
-      "rating": "10",
-      "votes": "10",
+      "rating": "11",
+      "votes": "11",
       "parent": null,
       "id": "1254081675",
       "detailed_rating": {
@@ -46410,12 +46410,16 @@
             [
                "5415046",
                1617120000
+            ],
+            [
+               "5981123",
+               1718527464
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 10,
-      "justified_votes": 10
+      "justified_rating": 11,
+      "justified_votes": 11
    },
    "1596200813": {
       "title": "SCP-ZH-333 - 往日不再",
