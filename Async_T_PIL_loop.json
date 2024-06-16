@@ -136755,7 +136755,9 @@
          "屍體史體",
          "翻譯"
       ],
-      "hidden_tags": [],
+      "hidden_tags": [
+         "_licensebox"
+      ],
       "comments": "1",
       "rating": "1",
       "votes": "1",
@@ -136788,7 +136790,10 @@
          "軍事",
          "載具"
       ],
-      "hidden_tags": [],
+      "hidden_tags": [
+         "_cc",
+         "_licensebox"
+      ],
       "comments": "0",
       "rating": "1",
       "votes": "1",
