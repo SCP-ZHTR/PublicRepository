@@ -47293,6 +47293,7 @@
       "created_by": "5415046",
       "tags": [
          "2020夏季競賽",
+         "awcy",
          "safe",
          "scp",
          "site-zh-02",
@@ -65214,8 +65215,8 @@
          "_cc"
       ],
       "comments": "7",
-      "rating": "6",
-      "votes": "32",
+      "rating": "5",
+      "votes": "33",
       "parent": null,
       "id": "1308448059",
       "detailed_rating": {
@@ -65349,12 +65350,16 @@
             [
                "DELETED",
                "[UNKNOWN]"
+            ],
+            [
+               "7513990",
+               1718622268
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 5,
-      "justified_votes": 29
+      "justified_rating": 4,
+      "justified_votes": 30
    },
    "1617094555": {
       "title": "SCP-ZH-066 - 有借有還",
@@ -101055,6 +101060,7 @@
          "meta",
          "metha博士",
          "scp",
+         "site-zh-02",
          "原創",
          "反常部",
          "地下",
@@ -134312,6 +134318,7 @@
       "created_at": "1717256456",
       "created_by": "5251681",
       "tags": [
+         "awcy",
          "safe",
          "scp",
          "亡走塵寰",
@@ -135199,7 +135206,7 @@
             ]
          ]
       },
-      "deleted": false,
+      "deleted": true,
       "justified_rating": -4,
       "justified_votes": 6
    },
