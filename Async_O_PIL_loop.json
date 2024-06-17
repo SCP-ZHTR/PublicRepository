@@ -109547,8 +109547,8 @@
       ],
       "hidden_tags": [],
       "comments": "4",
-      "rating": "20",
-      "votes": "26",
+      "rating": "21",
+      "votes": "27",
       "parent": null,
       "id": "1445430041",
       "detailed_rating": {
@@ -109644,6 +109644,10 @@
             [
                "8543386",
                1707296497
+            ],
+            [
+               "5981123",
+               1718644846
             ]
          ],
          "-": [
@@ -109662,8 +109666,8 @@
          ]
       },
       "deleted": false,
-      "justified_rating": 19,
-      "justified_votes": 25
+      "justified_rating": 20,
+      "justified_votes": 26
    },
    "1673531161": {
       "title": "一富士ばくぅ",
