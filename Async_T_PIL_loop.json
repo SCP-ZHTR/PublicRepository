@@ -135902,8 +135902,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "5",
-      "votes": "5",
+      "rating": "6",
+      "votes": "6",
       "parent": null,
       "id": "1453687663",
       "detailed_rating": {
@@ -135927,12 +135927,16 @@
             [
                "7840542",
                1716171763
+            ],
+            [
+               "5981123",
+               1718643610
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 5,
-      "justified_votes": 5
+      "justified_rating": 6,
+      "justified_votes": 6
    },
    "1716081569": {
       "title": "SCP-4500 - 蘇格拉底式收容措施",
