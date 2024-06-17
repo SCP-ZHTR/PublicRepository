@@ -137001,5 +137001,26 @@
       "deleted": false,
       "justified_rating": 4,
       "justified_votes": 4
+   },
+   "1718629813": {
+      "title": "SCP-8833 - 一九七六",
+      "fullname": "scp-8833",
+      "created_at": "1718629813",
+      "created_by": "6217438",
+      "tags": [
+         "en",
+         "scp",
+         "翻譯"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1454070283",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
