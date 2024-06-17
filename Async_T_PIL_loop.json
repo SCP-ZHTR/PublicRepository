@@ -113656,16 +113656,12 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "5",
-      "votes": "5",
+      "rating": "6",
+      "votes": "6",
       "parent": null,
       "id": "1446588201",
       "detailed_rating": {
          "+": [
-            [
-               "7469850",
-               1679397160
-            ],
             [
                "6503482",
                1679841753
@@ -113681,6 +113677,14 @@
             [
                "4442284",
                1678285844
+            ],
+            [
+               "5981123",
+               1718642220
+            ],
+            [
+               "DELETED",
+               1718642220
             ]
          ]
       },
@@ -134461,8 +134465,8 @@
          "_licensebox"
       ],
       "comments": "0",
-      "rating": "5",
-      "votes": "5",
+      "rating": "6",
+      "votes": "6",
       "parent": null,
       "id": "1453323218",
       "detailed_rating": {
@@ -134486,12 +134490,16 @@
             [
                "6091157",
                1715611622
+            ],
+            [
+               "5981123",
+               1718642220
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 5,
-      "justified_votes": 5
+      "justified_rating": 6,
+      "justified_votes": 6
    },
    "1667145601": {
       "title": "Site-19 維安資料 19.2022.10.31",
