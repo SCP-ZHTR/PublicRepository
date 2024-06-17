@@ -51059,8 +51059,8 @@
          "_cc"
       ],
       "comments": "2",
-      "rating": "5",
-      "votes": "5",
+      "rating": "6",
+      "votes": "6",
       "parent": null,
       "id": "1305866289",
       "detailed_rating": {
@@ -51084,12 +51084,16 @@
             [
                "5013754",
                1617120000
+            ],
+            [
+               "5981123",
+               1718644159
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 5,
-      "justified_votes": 5
+      "justified_rating": 6,
+      "justified_votes": 6
    },
    "1606121603": {
       "title": "來自Bright的故事 1",
