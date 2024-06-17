@@ -110703,8 +110703,8 @@
          "_licensebox"
       ],
       "comments": "1",
-      "rating": "12",
-      "votes": "12",
+      "rating": "13",
+      "votes": "13",
       "parent": null,
       "id": "1445740496",
       "detailed_rating": {
@@ -110756,12 +110756,16 @@
             [
                "7840542",
                1706501157
+            ],
+            [
+               "5981123",
+               1718642499
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 11,
-      "justified_votes": 11
+      "justified_rating": 12,
+      "justified_votes": 12
    },
    "1675018887": {
       "title": "SCP-7432 - K是「拱心石」（Keystone）",
