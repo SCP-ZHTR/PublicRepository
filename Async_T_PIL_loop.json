@@ -109745,8 +109745,8 @@
          "_licensebox"
       ],
       "comments": "1",
-      "rating": "9",
-      "votes": "9",
+      "rating": "10",
+      "votes": "10",
       "parent": "scp-anthology-hub",
       "id": "1445489826",
       "detailed_rating": {
@@ -109786,12 +109786,16 @@
             [
                "DELETED",
                1698677007
+            ],
+            [
+               "5981123",
+               1718652551
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 8,
-      "justified_votes": 8
+      "justified_rating": 9,
+      "justified_votes": 9
    },
    "1673772258": {
       "title": "誤傳部中心頁",
