@@ -68634,8 +68634,8 @@
       ],
       "hidden_tags": [],
       "comments": "4",
-      "rating": "6",
-      "votes": "10",
+      "rating": "7",
+      "votes": "11",
       "parent": null,
       "id": "1312101157",
       "detailed_rating": {
@@ -68671,6 +68671,10 @@
             [
                "8884787",
                1715093111
+            ],
+            [
+               "5981123",
+               1718646651
             ]
          ],
          "-": [
@@ -68685,8 +68689,8 @@
          ]
       },
       "deleted": false,
-      "justified_rating": 5,
-      "justified_votes": 9
+      "justified_rating": 6,
+      "justified_votes": 10
    },
    "1623854935": {
       "title": "fishingenthusiast（以前是 plaguebearer） 從SCP基金會凱旋而歸",
