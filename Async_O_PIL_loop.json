@@ -105993,8 +105993,8 @@
          "_禁黑"
       ],
       "comments": "1",
-      "rating": "23",
-      "votes": "23",
+      "rating": "24",
+      "votes": "24",
       "parent": null,
       "id": "1437136446",
       "detailed_rating": {
@@ -106090,12 +106090,16 @@
             [
                "8319365",
                1715782111
+            ],
+            [
+               "5981123",
+               1718645399
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 22,
-      "justified_votes": 22
+      "justified_rating": 23,
+      "justified_votes": 23
    },
    "1668440275": {
       "title": "三色豆戰爭！",
