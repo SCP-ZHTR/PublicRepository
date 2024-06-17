@@ -112919,8 +112919,8 @@
          "_禁黑"
       ],
       "comments": "0",
-      "rating": "5",
-      "votes": "5",
+      "rating": "6",
+      "votes": "6",
       "parent": "scp-anthology-hub",
       "id": "1446470327",
       "detailed_rating": {
@@ -112944,12 +112944,16 @@
             [
                "DELETED",
                1697878049
+            ],
+            [
+               "5981123",
+               1718651565
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 4,
-      "justified_votes": 4
+      "justified_rating": 5,
+      "justified_votes": 5
    },
    "1677570589": {
       "title": "SCP-7972 - Y是「青年」（Youth）",
