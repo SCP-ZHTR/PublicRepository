@@ -24800,8 +24800,8 @@
          "_info"
       ],
       "comments": "0",
-      "rating": "3",
-      "votes": "5",
+      "rating": "4",
+      "votes": "6",
       "parent": null,
       "id": "999696513",
       "detailed_rating": {
@@ -24821,6 +24821,10 @@
             [
                "6980791",
                1617120000
+            ],
+            [
+               "7558128",
+               1718704902
             ]
          ],
          "-": [
@@ -24831,8 +24835,8 @@
          ]
       },
       "deleted": false,
-      "justified_rating": 4,
-      "justified_votes": 4
+      "justified_rating": 5,
+      "justified_votes": 5
    },
    "1583291454": {
       "title": "SCP-727 - 赫菲斯托斯的熔爐",
