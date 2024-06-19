@@ -135353,7 +135353,7 @@
       "hidden_tags": [],
       "comments": "0",
       "rating": "5",
-      "votes": "5",
+      "votes": "6",
       "parent": null,
       "id": "1454093340",
       "detailed_rating": {
@@ -135377,11 +135377,15 @@
             [
                "4990678",
                1718813907
+            ],
+            [
+               "7073060",
+               1718816718
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 5,
-      "justified_votes": 5
+      "justified_rating": 6,
+      "justified_votes": 6
    }
 }
