@@ -106047,7 +106047,7 @@
          "_licensebox"
       ],
       "comments": "1",
-      "rating": "13",
+      "rating": "14",
       "votes": "14",
       "parent": null,
       "id": "1437454195",
@@ -115973,8 +115973,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "7",
-      "votes": "7",
+      "rating": "8",
+      "votes": "8",
       "parent": "scpdeclassified",
       "id": "1447030691",
       "detailed_rating": {
@@ -116006,12 +116006,16 @@
             [
                "7840542",
                1700545379
+            ],
+            [
+               "5981123",
+               1718906397
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 7,
-      "justified_votes": 7
+      "justified_rating": 8,
+      "justified_votes": 8
    },
    "1680189976": {
       "title": "SCP-1360 - 遊隼系列機器人31號",
