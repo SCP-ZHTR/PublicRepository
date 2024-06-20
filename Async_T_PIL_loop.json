@@ -3993,8 +3993,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "4",
-      "votes": "8",
+      "rating": "5",
+      "votes": "9",
       "parent": null,
       "id": "701050073",
       "detailed_rating": {
@@ -4022,6 +4022,10 @@
             [
                "3979351",
                1617120000
+            ],
+            [
+               "5981123",
+               1718910087
             ]
          ],
          "-": [
@@ -4036,8 +4040,8 @@
          ]
       },
       "deleted": false,
-      "justified_rating": 5,
-      "justified_votes": 7
+      "justified_rating": 6,
+      "justified_votes": 8
    },
    "1555288647": {
       "title": "SCP-276 - 時之船",
