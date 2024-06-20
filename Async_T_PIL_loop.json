@@ -136948,8 +136948,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "2",
-      "votes": "2",
+      "rating": "3",
+      "votes": "3",
       "parent": null,
       "id": "1454039646",
       "detailed_rating": {
@@ -136961,12 +136961,16 @@
             [
                "8452537",
                1718026788
+            ],
+            [
+               "7504530",
+               1718845265
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 2,
-      "justified_votes": 2
+      "justified_rating": 3,
+      "justified_votes": 3
    },
    "1718110796": {
       "title": "SCP-1504-KO - 腐壞",
