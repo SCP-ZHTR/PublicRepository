@@ -117365,8 +117365,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "4",
-      "votes": "4",
+      "rating": "5",
+      "votes": "5",
       "parent": "scpdeclassified",
       "id": "1447424737",
       "detailed_rating": {
@@ -117386,12 +117386,16 @@
             [
                "8480087",
                1681892968
+            ],
+            [
+               "5981123",
+               1718909655
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 4,
-      "justified_votes": 4
+      "justified_rating": 5,
+      "justified_votes": 5
    },
    "1681909327": {
       "title": "SCP-6416解密",
