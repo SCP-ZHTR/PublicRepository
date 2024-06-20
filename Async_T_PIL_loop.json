@@ -117244,8 +117244,8 @@
          "_licensebox"
       ],
       "comments": "1",
-      "rating": "4",
-      "votes": "4",
+      "rating": "5",
+      "votes": "5",
       "parent": null,
       "id": "1447308843",
       "detailed_rating": {
@@ -117265,12 +117265,16 @@
             [
                "5013754",
                1681811258
+            ],
+            [
+               "5981123",
+               1718908614
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 4,
-      "justified_votes": 4
+      "justified_rating": 5,
+      "justified_votes": 5
    },
    "1681735573": {
       "title": "廢除部中心頁",
