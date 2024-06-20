@@ -137218,9 +137218,9 @@
          "翻譯"
       ],
       "hidden_tags": [],
-      "comments": "1",
-      "rating": "1",
-      "votes": "1",
+      "comments": "2",
+      "rating": "2",
+      "votes": "2",
       "parent": null,
       "id": "1454099077",
       "detailed_rating": {
@@ -137228,11 +137228,19 @@
             [
                "6217438",
                1718927371
+            ],
+            [
+               "5981123",
+               1718927788
+            ],
+            [
+               "5435485",
+               1718927788
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 1,
-      "justified_votes": 1
+      "justified_rating": 3,
+      "justified_votes": 3
    }
 }
