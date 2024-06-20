@@ -39063,8 +39063,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "6",
-      "votes": "8",
+      "rating": "7",
+      "votes": "9",
       "parent": null,
       "id": "1035633822",
       "detailed_rating": {
@@ -39096,6 +39096,10 @@
             [
                "5454699",
                1623340800
+            ],
+            [
+               "5981123",
+               1718924614
             ]
          ],
          "-": [
@@ -39106,8 +39110,8 @@
          ]
       },
       "deleted": false,
-      "justified_rating": 6,
-      "justified_votes": 8
+      "justified_rating": 7,
+      "justified_votes": 9
    },
    "1589420468": {
       "title": "行動簡報 第130字號",
@@ -39175,8 +39179,8 @@
          "_cc"
       ],
       "comments": "0",
-      "rating": "22",
-      "votes": "24",
+      "rating": "23",
+      "votes": "25",
       "parent": null,
       "id": "1040165930",
       "detailed_rating": {
@@ -39272,6 +39276,10 @@
             [
                "8884787",
                1711803538
+            ],
+            [
+               "5981123",
+               1718924614
             ]
          ],
          "-": [
@@ -39282,8 +39290,8 @@
          ]
       },
       "deleted": false,
-      "justified_rating": 21,
-      "justified_votes": 23
+      "justified_rating": 22,
+      "justified_votes": 24
    },
    "1589814178": {
       "title": "事件代號：核裂擠兌 蛛網裡的老鷹",
