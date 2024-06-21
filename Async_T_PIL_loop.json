@@ -137327,5 +137327,34 @@
       "deleted": false,
       "justified_rating": 0,
       "justified_votes": 0
+   },
+   "1718976565": {
+      "title": "SCP-8592 - 部門部門",
+      "fullname": "scp-8592",
+      "created_at": "1718976565",
+      "created_by": "6217438",
+      "tags": [
+         "en",
+         "euclid",
+         "scp",
+         "人形",
+         "基金會製造",
+         "智能",
+         "未收容",
+         "活物",
+         "線上",
+         "翻譯",
+         "電腦"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1454101825",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
