@@ -115855,8 +115855,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "15",
-      "votes": "15",
+      "rating": "16",
+      "votes": "16",
       "parent": null,
       "id": "1448585743",
       "detailed_rating": {
@@ -115920,12 +115920,16 @@
             [
                "5338547",
                1687455024
+            ],
+            [
+               "8177208",
+               1718951454
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 15,
-      "justified_votes": 15
+      "justified_rating": 16,
+      "justified_votes": 16
    },
    "1687857149": {
       "title": "SCP-ZH-307 - 非現實的阿基里斯",
