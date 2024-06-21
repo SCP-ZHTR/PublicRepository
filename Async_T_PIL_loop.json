@@ -120735,8 +120735,8 @@
          "_licensebox"
       ],
       "comments": "0",
-      "rating": "7",
-      "votes": "7",
+      "rating": "8",
+      "votes": "8",
       "parent": null,
       "id": "1448457083",
       "detailed_rating": {
@@ -120768,12 +120768,16 @@
             [
                "5338547",
                1686700602
+            ],
+            [
+               "8319365",
+               1718978390
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 7,
-      "justified_votes": 7
+      "justified_rating": 8,
+      "justified_votes": 8
    },
    "1686697827": {
       "title": "萬象之源（宇宙史）：第三章",
