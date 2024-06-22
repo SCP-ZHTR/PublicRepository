@@ -65567,8 +65567,8 @@
          "_禁黑"
       ],
       "comments": "1",
-      "rating": "17",
-      "votes": "17",
+      "rating": "18",
+      "votes": "18",
       "parent": null,
       "id": "1311621010",
       "detailed_rating": {
@@ -65640,12 +65640,16 @@
             [
                "9075244",
                1716216027
+            ],
+            [
+               "5981123",
+               1719081427
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 16,
-      "justified_votes": 16
+      "justified_rating": 17,
+      "justified_votes": 17
    },
    "1621515195": {
       "title": "SCP-082-CS - 頻率的囚徒",
@@ -127638,8 +127642,8 @@
          "_licensebox"
       ],
       "comments": "1",
-      "rating": "3",
-      "votes": "3",
+      "rating": "4",
+      "votes": "4",
       "parent": null,
       "id": "1450851459",
       "detailed_rating": {
@@ -127655,12 +127659,16 @@
             [
                "8543386",
                1714202984
+            ],
+            [
+               "5981123",
+               1719081427
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 3,
-      "justified_votes": 3
+      "justified_rating": 4,
+      "justified_votes": 4
    },
    "1697818524": {
       "title": "SCP-7481 - 市售邪惡可被替代",
