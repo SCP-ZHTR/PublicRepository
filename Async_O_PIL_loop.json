@@ -125942,8 +125942,8 @@
       ],
       "hidden_tags": [],
       "comments": "2",
-      "rating": "7",
-      "votes": "7",
+      "rating": "6",
+      "votes": "8",
       "parent": null,
       "id": "1451976109",
       "detailed_rating": {
@@ -125976,11 +125976,17 @@
                "5701756",
                1704166504
             ]
+         ],
+         "-": [
+            [
+               "5435485",
+               1719054318
+            ]
          ]
       },
       "deleted": false,
-      "justified_rating": 7,
-      "justified_votes": 7
+      "justified_rating": 6,
+      "justified_votes": 8
    },
    "1703588289": {
       "title": "SCP-ZH-750 油漬天使，但是藝作",
