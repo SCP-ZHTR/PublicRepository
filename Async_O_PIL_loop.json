@@ -135187,8 +135187,8 @@
       ],
       "hidden_tags": [],
       "comments": "2",
-      "rating": "6",
-      "votes": "6",
+      "rating": "7",
+      "votes": "7",
       "parent": "scpdeclassified",
       "id": "1454036070",
       "detailed_rating": {
@@ -135216,12 +135216,16 @@
             [
                "8854072",
                1718104721
+            ],
+            [
+               "7064164",
+               1719073934
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 6,
-      "justified_votes": 6
+      "justified_rating": 7,
+      "justified_votes": 7
    },
    "1718289410": {
       "title": "SCP-ZH-159 卡西歐手錶",
