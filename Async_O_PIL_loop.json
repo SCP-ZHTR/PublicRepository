@@ -133830,8 +133830,8 @@
          "_修復用"
       ],
       "comments": "2",
-      "rating": "19",
-      "votes": "19",
+      "rating": "20",
+      "votes": "20",
       "parent": null,
       "id": "1453835629",
       "detailed_rating": {
@@ -133911,12 +133911,16 @@
             [
                "8177208",
                1718465643
+            ],
+            [
+               "7064164",
+               1719132329
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 19,
-      "justified_votes": 19
+      "justified_rating": 20,
+      "justified_votes": 20
    },
    "1717242175": {
       "title": "SCP-ZH-697 - 「法」官",
