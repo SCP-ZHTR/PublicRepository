@@ -8816,8 +8816,8 @@
          "_cc"
       ],
       "comments": "2",
-      "rating": "26",
-      "votes": "28",
+      "rating": "27",
+      "votes": "29",
       "parent": null,
       "id": "801755082",
       "detailed_rating": {
@@ -8929,6 +8929,10 @@
             [
                "7558128",
                1718705041
+            ],
+            [
+               "5981123",
+               1719257216
             ]
          ],
          "-": [
@@ -8939,8 +8943,8 @@
          ]
       },
       "deleted": false,
-      "justified_rating": 27,
-      "justified_votes": 27
+      "justified_rating": 28,
+      "justified_votes": 28
    },
    "1558573402": {
       "title": "SCP-1312 - Site-41",
