@@ -4297,8 +4297,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "1",
-      "votes": "1",
+      "rating": "2",
+      "votes": "2",
       "parent": null,
       "id": "987322560",
       "detailed_rating": {
@@ -4306,12 +4306,16 @@
             [
                "5817419",
                1689143977
+            ],
+            [
+               "9075244",
+               1719238916
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 1,
-      "justified_votes": 1
+      "justified_rating": 2,
+      "justified_votes": 2
    },
    "1584071297": {
       "title": "異常物品紀錄-II",
@@ -14881,8 +14885,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "1",
-      "votes": "1",
+      "rating": "2",
+      "votes": "2",
       "parent": null,
       "id": "1454066697",
       "detailed_rating": {
@@ -14890,12 +14894,16 @@
             [
                "8543386",
                1718622273
+            ],
+            [
+               "9075244",
+               1719238916
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 1,
-      "justified_votes": 1
+      "justified_rating": 2,
+      "justified_votes": 2
    },
    "1718629813": {
       "title": "SCP-8833 - 一九七六",
