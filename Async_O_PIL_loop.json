@@ -108425,8 +108425,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "29",
-      "votes": "29",
+      "rating": "30",
+      "votes": "30",
       "parent": null,
       "id": "1444537305",
       "detailed_rating": {
@@ -108546,12 +108546,16 @@
             [
                "8883612",
                1716300620
+            ],
+            [
+               "8854072",
+               1719243829
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 28,
-      "justified_votes": 28
+      "justified_rating": 29,
+      "justified_votes": 29
    },
    "1671633225": {
       "title": "聖夜相守另一夜",
