@@ -4961,8 +4961,8 @@
       ],
       "hidden_tags": [],
       "comments": "2",
-      "rating": "7",
-      "votes": "7",
+      "rating": "8",
+      "votes": "8",
       "parent": null,
       "id": "757309522",
       "detailed_rating": {
@@ -4994,12 +4994,16 @@
             [
                "4442284",
                1617120000
+            ],
+            [
+               "5981123",
+               1719257080
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 7,
-      "justified_votes": 7
+      "justified_rating": 8,
+      "justified_votes": 8
    },
    "1556368728": {
       "title": "如何認養一隻蝴蝶錦鯉",
