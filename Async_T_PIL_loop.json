@@ -11021,8 +11021,8 @@
       ],
       "hidden_tags": [],
       "comments": "2",
-      "rating": "6",
-      "votes": "6",
+      "rating": "7",
+      "votes": "7",
       "parent": null,
       "id": "802243295",
       "detailed_rating": {
@@ -11050,12 +11050,16 @@
             [
                "DELETED",
                "[UNKNOWN]"
+            ],
+            [
+               "5981123",
+               1719253590
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 5,
-      "justified_votes": 5
+      "justified_rating": 6,
+      "justified_votes": 6
    },
    "1559831633": {
       "title": "Carroll 055 號：工作坊",
@@ -22834,8 +22838,8 @@
          "_info"
       ],
       "comments": "0",
-      "rating": "6",
-      "votes": "6",
+      "rating": "7",
+      "votes": "7",
       "parent": null,
       "id": "987087382",
       "detailed_rating": {
@@ -22863,12 +22867,16 @@
             [
                "7064164",
                1675180800
+            ],
+            [
+               "5981123",
+               1719253590
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 6,
-      "justified_votes": 6
+      "justified_rating": 7,
+      "justified_votes": 7
    },
    "1581746929": {
       "title": "SCP-5040 - 血の涙 (血之淚)",
