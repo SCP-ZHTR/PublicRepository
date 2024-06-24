@@ -25848,8 +25848,8 @@
          "_info"
       ],
       "comments": "0",
-      "rating": "17",
-      "votes": "17",
+      "rating": "18",
+      "votes": "18",
       "parent": null,
       "id": "985995848",
       "detailed_rating": {
@@ -25921,12 +25921,16 @@
             [
                "9075244",
                1716124366
+            ],
+            [
+               "5981123",
+               1719218812
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 17,
-      "justified_votes": 17
+      "justified_rating": 18,
+      "justified_votes": 18
    },
    "1577953367": {
       "title": "得以永生。",
