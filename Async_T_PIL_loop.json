@@ -125476,8 +125476,8 @@
          "_禁黑"
       ],
       "comments": "0",
-      "rating": "9",
-      "votes": "9",
+      "rating": "10",
+      "votes": "10",
       "parent": null,
       "id": "1450242777",
       "detailed_rating": {
@@ -125517,12 +125517,16 @@
             [
                "6981058",
                1712030565
+            ],
+            [
+               "5414791",
+               1719298363
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 9,
-      "justified_votes": 9
+      "justified_rating": 10,
+      "justified_votes": 10
    },
    "1696205826": {
       "title": "SCP-7528 - 縮影媒介：投影",
