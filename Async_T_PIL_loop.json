@@ -32018,8 +32018,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "4",
-      "votes": "4",
+      "rating": "5",
+      "votes": "5",
       "parent": null,
       "id": "1024297349",
       "detailed_rating": {
@@ -32039,12 +32039,16 @@
             [
                "3981670",
                1617120000
+            ],
+            [
+               "5981123",
+               1719301664
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 4,
-      "justified_votes": 4
+      "justified_rating": 5,
+      "justified_votes": 5
    },
    "1586694473": {
       "title": "SCP-600-KO",
@@ -56545,8 +56549,8 @@
          "_cc"
       ],
       "comments": "1",
-      "rating": "11",
-      "votes": "11",
+      "rating": "12",
+      "votes": "12",
       "parent": null,
       "id": "1306954955",
       "detailed_rating": {
@@ -56594,12 +56598,16 @@
             [
                "5435485",
                1617120000
+            ],
+            [
+               "5981123",
+               1719301664
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 11,
-      "justified_votes": 11
+      "justified_rating": 12,
+      "justified_votes": 12
    },
    "1613912679": {
       "title": "波蘭異常蕈類採摘協會 中心頁",
