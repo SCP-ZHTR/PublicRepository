@@ -22020,8 +22020,8 @@
          "_info"
       ],
       "comments": "2",
-      "rating": "12",
-      "votes": "12",
+      "rating": "13",
+      "votes": "13",
       "parent": null,
       "id": "958226428",
       "detailed_rating": {
@@ -22073,12 +22073,16 @@
             [
                "3981670",
                1617120000
+            ],
+            [
+               "5981123",
+               1719427331
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 12,
-      "justified_votes": 12
+      "justified_rating": 13,
+      "justified_votes": 13
    },
    "1575886572": {
       "title": "尋獲物品編號：037",
