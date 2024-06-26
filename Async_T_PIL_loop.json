@@ -62442,8 +62442,8 @@
       ],
       "hidden_tags": [],
       "comments": "2",
-      "rating": "7",
-      "votes": "7",
+      "rating": "8",
+      "votes": "8",
       "parent": "scpdeclassified",
       "id": "1308612403",
       "detailed_rating": {
@@ -62475,12 +62475,16 @@
             [
                "6547888",
                1714314978
+            ],
+            [
+               "5981123",
+               1719422768
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 7,
-      "justified_votes": 7
+      "justified_rating": 8,
+      "justified_votes": 8
    },
    "1618600949": {
       "title": "在紅色果實的樹下",
