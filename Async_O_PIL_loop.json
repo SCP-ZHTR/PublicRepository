@@ -13487,8 +13487,8 @@
          "_info"
       ],
       "comments": "1",
-      "rating": "33",
-      "votes": "33",
+      "rating": "34",
+      "votes": "34",
       "parent": null,
       "id": "853572163",
       "detailed_rating": {
@@ -13624,12 +13624,16 @@
             [
                "8319365",
                1710604791
+            ],
+            [
+               "5981123",
+               1719427601
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 32,
-      "justified_votes": 32
+      "justified_rating": 33,
+      "justified_votes": 33
    },
    "1565025325": {
       "title": "Ctrl Z博士的SCP記錄：SCP-049瘟疫醫生",
@@ -28283,8 +28287,8 @@
          "_安布羅斯餐廳-goi格式"
       ],
       "comments": "9",
-      "rating": "27",
-      "votes": "27",
+      "rating": "28",
+      "votes": "28",
       "parent": null,
       "id": "986319616",
       "detailed_rating": {
@@ -28396,12 +28400,16 @@
             [
                "4351112",
                1617120000
+            ],
+            [
+               "5981123",
+               1719427601
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 27,
-      "justified_votes": 27
+      "justified_rating": 28,
+      "justified_votes": 28
    },
    "1580059446": {
       "title": "SCP-ZH-591 - 血源之包",
@@ -58629,8 +58637,8 @@
          "_cc"
       ],
       "comments": "0",
-      "rating": "17",
-      "votes": "17",
+      "rating": "18",
+      "votes": "18",
       "parent": null,
       "id": "1306372510",
       "detailed_rating": {
@@ -58702,12 +58710,16 @@
             [
                "5454699",
                1617120000
+            ],
+            [
+               "5981123",
+               1719427601
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 17,
-      "justified_votes": 17
+      "justified_rating": 18,
+      "justified_votes": 18
    },
    "1609410716": {
       "title": "為了更大的利益-第二部分",
