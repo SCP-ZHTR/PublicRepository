@@ -44097,8 +44097,8 @@
          "_cc"
       ],
       "comments": "0",
-      "rating": "5",
-      "votes": "5",
+      "rating": "6",
+      "votes": "6",
       "parent": null,
       "id": "1268078516",
       "detailed_rating": {
@@ -44122,12 +44122,16 @@
             [
                "7226401",
                1617120000
+            ],
+            [
+               "8846720",
+               1719415394
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 5,
-      "justified_votes": 5
+      "justified_rating": 6,
+      "justified_votes": 6
    },
    "1599239559": {
       "title": "SCP-052 - 時空穿梭列車",
