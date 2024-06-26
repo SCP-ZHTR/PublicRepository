@@ -99314,8 +99314,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "25",
-      "votes": "25",
+      "rating": "26",
+      "votes": "26",
       "parent": null,
       "id": "1420528612",
       "detailed_rating": {
@@ -99419,12 +99419,16 @@
             [
                "DELETED",
                1695208325
+            ],
+            [
+               "4206567",
+               1719419774
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 24,
-      "justified_votes": 24
+      "justified_rating": 25,
+      "justified_votes": 25
    },
    "1659795937": {
       "title": "SCP-ZH-184 - 奔車朽索",
