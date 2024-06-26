@@ -120546,8 +120546,8 @@
          "_licensebox"
       ],
       "comments": "0",
-      "rating": "7",
-      "votes": "7",
+      "rating": "8",
+      "votes": "8",
       "parent": null,
       "id": "1448327824",
       "detailed_rating": {
@@ -120579,12 +120579,16 @@
             [
                "5338547",
                1695216744
+            ],
+            [
+               "5981123",
+               1719423044
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 7,
-      "justified_votes": 7
+      "justified_rating": 8,
+      "justified_votes": 8
    },
    "1686300798": {
       "title": "SCP-6599 - HOGSLICE",
