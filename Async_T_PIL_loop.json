@@ -15342,8 +15342,8 @@
          "_info"
       ],
       "comments": "2",
-      "rating": "7",
-      "votes": "7",
+      "rating": "8",
+      "votes": "8",
       "parent": null,
       "id": "842854694",
       "detailed_rating": {
@@ -15375,12 +15375,16 @@
             [
                "6655922",
                1617120000
+            ],
+            [
+               "5981123",
+               1719428018
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 7,
-      "justified_votes": 7
+      "justified_rating": 8,
+      "justified_votes": 8
    },
    "1563008715": {
       "title": "Alto Clef之死，死者亦稱Ukulele特工，亦稱亞當‧本‧耶和華，亦稱路西法、謊言之父，亦稱那個混蛋，等等",
