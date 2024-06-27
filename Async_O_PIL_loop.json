@@ -46255,8 +46255,8 @@
          "_賞金k級情景"
       ],
       "comments": "0",
-      "rating": "8",
-      "votes": "8",
+      "rating": "9",
+      "votes": "9",
       "parent": null,
       "id": "1242082339",
       "detailed_rating": {
@@ -46292,12 +46292,16 @@
             [
                "5327537",
                1657468800
+            ],
+            [
+               "7073060",
+               1719492651
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 8,
-      "justified_votes": 8
+      "justified_rating": 9,
+      "justified_votes": 9
    },
    "1595925818": {
       "title": "距離世界末日還有五分鐘",
