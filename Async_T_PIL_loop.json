@@ -8709,8 +8709,8 @@
          "_瑪納慈善基金會-goi格式"
       ],
       "comments": "1",
-      "rating": "5",
-      "votes": "5",
+      "rating": "6",
+      "votes": "6",
       "parent": null,
       "id": "801719273",
       "detailed_rating": {
@@ -8734,12 +8734,16 @@
             [
                "DELETED",
                "[UNKNOWN]"
+            ],
+            [
+               "5981123",
+               1719503751
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 4,
-      "justified_votes": 4
+      "justified_rating": 5,
+      "justified_votes": 5
    },
    "1558526411": {
       "title": "第一號 Ivády 捐贈品",
@@ -18274,8 +18278,8 @@
          "_cc_info"
       ],
       "comments": "1",
-      "rating": "5",
-      "votes": "5",
+      "rating": "6",
+      "votes": "6",
       "parent": null,
       "id": "885183649",
       "detailed_rating": {
@@ -18299,12 +18303,16 @@
             [
                "5013754",
                1617120000
+            ],
+            [
+               "5981123",
+               1719503751
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 5,
-      "justified_votes": 5
+      "justified_rating": 6,
+      "justified_votes": 6
    },
    "1567565909": {
       "title": "青銅碑上歌（約見於晋永康元年）",
