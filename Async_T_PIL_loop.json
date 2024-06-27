@@ -109527,8 +109527,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "6",
-      "votes": "6",
+      "rating": "7",
+      "votes": "7",
       "parent": null,
       "id": "1445429056",
       "detailed_rating": {
@@ -109556,12 +109556,16 @@
             [
                "DELETED",
                1700009936
+            ],
+            [
+               "5981123",
+               1719502791
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 5,
-      "justified_votes": 5
+      "justified_rating": 6,
+      "justified_votes": 6
    },
    "1673341562": {
       "title": "SCP-7932 - X是「異質生物體」（Xenobiotic）",
