@@ -163,8 +163,8 @@
          "_licensebox"
       ],
       "comments": "0",
-      "rating": "5",
-      "votes": "5",
+      "rating": "6",
+      "votes": "6",
       "parent": null,
       "id": "638893478",
       "detailed_rating": {
@@ -188,12 +188,16 @@
             [
                "5225164",
                1617120000
+            ],
+            [
+               "5981123",
+               1719502366
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 5,
-      "justified_votes": 5
+      "justified_rating": 6,
+      "justified_votes": 6
    },
    "1552560663": {
       "title": "SCP-007 - 內腹行星",
