@@ -137266,8 +137266,8 @@
          "_cc"
       ],
       "comments": "0",
-      "rating": "5",
-      "votes": "5",
+      "rating": "6",
+      "votes": "6",
       "parent": null,
       "id": "1454060114",
       "detailed_rating": {
@@ -137291,12 +137291,16 @@
             [
                "5435485",
                1719027215
+            ],
+            [
+               "8033564",
+               1719454254
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 5,
-      "justified_votes": 5
+      "justified_rating": 6,
+      "justified_votes": 6
    },
    "1718629813": {
       "title": "SCP-8833 - 一九七六",
