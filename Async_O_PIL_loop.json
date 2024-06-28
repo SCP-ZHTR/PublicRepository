@@ -79884,8 +79884,8 @@
          "_image"
       ],
       "comments": "4",
-      "rating": "0",
-      "votes": "6",
+      "rating": "-1",
+      "votes": "7",
       "parent": null,
       "id": "1329411182",
       "detailed_rating": {
@@ -79915,12 +79915,16 @@
             [
                "5435485",
                1634227200
+            ],
+            [
+               "8982806",
+               1719563061
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 0,
-      "justified_votes": 6
+      "justified_rating": -1,
+      "justified_votes": 7
    },
    "1634542002": {
       "title": "黑暗的房間",
