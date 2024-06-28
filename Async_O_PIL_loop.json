@@ -4784,8 +4784,8 @@
          "_info"
       ],
       "comments": "0",
-      "rating": "4",
-      "votes": "6",
+      "rating": "3",
+      "votes": "7",
       "parent": null,
       "id": "645556076",
       "detailed_rating": {
@@ -4815,12 +4815,16 @@
             [
                "3356098",
                1682507187
+            ],
+            [
+               "8982806",
+               1719563202
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 4,
-      "justified_votes": 6
+      "justified_rating": 3,
+      "justified_votes": 7
    },
    "1553710208": {
       "title": "SCP-ZH-582 - 世上最討人喜愛的不明生物",
