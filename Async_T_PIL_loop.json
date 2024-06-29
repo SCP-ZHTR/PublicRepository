@@ -54296,8 +54296,8 @@
          "_cc"
       ],
       "comments": "0",
-      "rating": "10",
-      "votes": "10",
+      "rating": "11",
+      "votes": "11",
       "parent": null,
       "id": "1306530609",
       "detailed_rating": {
@@ -54341,12 +54341,16 @@
             [
                "8543386",
                1719664232
+            ],
+            [
+               "8846720",
+               1719664372
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 10,
-      "justified_votes": 10
+      "justified_rating": 11,
+      "justified_votes": 11
    },
    "1610691287": {
       "title": "SCP的擬人化",
