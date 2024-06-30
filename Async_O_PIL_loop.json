@@ -47820,8 +47820,8 @@
          "_賞金反"
       ],
       "comments": "7",
-      "rating": "0",
-      "votes": "44",
+      "rating": "1",
+      "votes": "45",
       "parent": null,
       "id": "1260739510",
       "detailed_rating": {
@@ -47913,6 +47913,10 @@
             [
                "5454699",
                1630425600
+            ],
+            [
+               "7073060",
+               1719751980
             ]
          ],
          "-": [
@@ -48007,8 +48011,8 @@
          ]
       },
       "deleted": false,
-      "justified_rating": 10,
-      "justified_votes": 34
+      "justified_rating": 11,
+      "justified_votes": 35
    },
    "1597039724": {
       "title": "沒有人要帶家人逃難。",
