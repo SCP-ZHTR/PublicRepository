@@ -21775,8 +21775,8 @@
          "_licensebox"
       ],
       "comments": "0",
-      "rating": "13",
-      "votes": "15",
+      "rating": "14",
+      "votes": "16",
       "parent": null,
       "id": "986478293",
       "detailed_rating": {
@@ -21836,6 +21836,10 @@
             [
                "8319365",
                1716992893
+            ],
+            [
+               "8033564",
+               1719709446
             ]
          ],
          "-": [
@@ -21846,8 +21850,8 @@
          ]
       },
       "deleted": false,
-      "justified_rating": 13,
-      "justified_votes": 15
+      "justified_rating": 14,
+      "justified_votes": 16
    },
    "1580392425": {
       "title": "SCP-1037 - 機械",
