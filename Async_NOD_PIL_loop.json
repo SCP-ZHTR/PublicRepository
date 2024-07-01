@@ -3849,8 +3849,8 @@
          "_cc"
       ],
       "comments": "0",
-      "rating": "8",
-      "votes": "8",
+      "rating": "9",
+      "votes": "9",
       "parent": "anomaly-classification-system-guide",
       "id": "986344663",
       "detailed_rating": {
@@ -3886,12 +3886,16 @@
             [
                "6082642",
                1689145478
+            ],
+            [
+               "8854072",
+               1719850416
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 8,
-      "justified_votes": 8
+      "justified_rating": 9,
+      "justified_votes": 9
    },
    "1580140793": {
       "title": "Anomaly Class Bar Source Alt",
