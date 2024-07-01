@@ -137416,8 +137416,8 @@
       ],
       "hidden_tags": [],
       "comments": "4",
-      "rating": "3",
-      "votes": "3",
+      "rating": "4",
+      "votes": "4",
       "parent": null,
       "id": "1454091994",
       "detailed_rating": {
@@ -137433,12 +137433,16 @@
             [
                "5370805",
                1718830988
+            ],
+            [
+               "7504530",
+               1719853412
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 3,
-      "justified_votes": 3
+      "justified_rating": 4,
+      "justified_votes": 4
    },
    "1718926948": {
       "title": "樹懶競賽",
