@@ -79886,6 +79886,7 @@
          "safe",
          "scp",
          "原創",
+         "待刪除",
          "視覺性",
          "記憶影響",
          "認知危害",
@@ -79895,7 +79896,7 @@
       "hidden_tags": [
          "_image"
       ],
-      "comments": "4",
+      "comments": "5",
       "rating": "-2",
       "votes": "8",
       "parent": null,
