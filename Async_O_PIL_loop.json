@@ -64941,8 +64941,8 @@
          "_cc"
       ],
       "comments": "3",
-      "rating": "41",
-      "votes": "41",
+      "rating": "42",
+      "votes": "42",
       "parent": null,
       "id": "1308317520",
       "detailed_rating": {
@@ -65110,12 +65110,16 @@
             [
                "5981123",
                1712263956
+            ],
+            [
+               "7504530",
+               1719972808
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 41,
-      "justified_votes": 41
+      "justified_rating": 42,
+      "justified_votes": 42
    },
    "1616418688": {
       "title": "SCP-ZH-022-J - 拜託誰來把它填上",
