@@ -111226,8 +111226,8 @@
          "_cc"
       ],
       "comments": "1",
-      "rating": "25",
-      "votes": "25",
+      "rating": "26",
+      "votes": "26",
       "parent": null,
       "id": "1445898387",
       "detailed_rating": {
@@ -111331,12 +111331,16 @@
             [
                "6709715",
                1718095377
+            ],
+            [
+               "5565302",
+               1720102406
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 24,
-      "justified_votes": 24
+      "justified_rating": 25,
+      "justified_votes": 25
    },
    "1675859485": {
       "title": "SCP-ZH-587 - 舊戲院",
