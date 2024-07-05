@@ -84065,8 +84065,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "11",
-      "votes": "11",
+      "rating": "12",
+      "votes": "12",
       "parent": null,
       "id": "1333032515",
       "detailed_rating": {
@@ -84114,12 +84114,16 @@
             [
                "5981123",
                1715518780
+            ],
+            [
+               "8883612",
+               1720159768
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 10,
-      "justified_votes": 10
+      "justified_rating": 11,
+      "justified_votes": 11
    },
    "1646641473": {
       "title": "SCP-103 - 永不飢餓的人",
