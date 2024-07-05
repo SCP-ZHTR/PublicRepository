@@ -91628,8 +91628,8 @@
          "_假的"
       ],
       "comments": "0",
-      "rating": "20",
-      "votes": "20",
+      "rating": "21",
+      "votes": "21",
       "parent": null,
       "id": "1332484156",
       "detailed_rating": {
@@ -91713,12 +91713,16 @@
             [
                "6690335",
                1713881781
+            ],
+            [
+               "5981123",
+               1720169655
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 19,
-      "justified_votes": 19
+      "justified_rating": 20,
+      "justified_votes": 20
    },
    "1646565735": {
       "title": "SCP-ZH-466 - 魔術碘與夢幻泡影",
