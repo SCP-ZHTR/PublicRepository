@@ -125145,8 +125145,8 @@
          "_licensebox"
       ],
       "comments": "0",
-      "rating": "2",
-      "votes": "4",
+      "rating": "3",
+      "votes": "5",
       "parent": null,
       "id": "1450048742",
       "detailed_rating": {
@@ -125162,6 +125162,10 @@
             [
                "8452537",
                1710950547
+            ],
+            [
+               "5981123",
+               1720166757
             ]
          ],
          "-": [
@@ -125172,8 +125176,8 @@
          ]
       },
       "deleted": false,
-      "justified_rating": 2,
-      "justified_votes": 4
+      "justified_rating": 3,
+      "justified_votes": 5
    },
    "1695129081": {
       "title": "SCP-ES-097 - 真菌反應爐",
