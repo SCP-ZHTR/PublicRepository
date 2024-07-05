@@ -51188,8 +51188,8 @@
          "_cc"
       ],
       "comments": "0",
-      "rating": "24",
-      "votes": "24",
+      "rating": "25",
+      "votes": "25",
       "parent": null,
       "id": "1288426812",
       "detailed_rating": {
@@ -51289,12 +51289,16 @@
             [
                "8319365",
                1709910189
+            ],
+            [
+               "8480087",
+               1720185629
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 23,
-      "justified_votes": 23
+      "justified_rating": 24,
+      "justified_votes": 24
    },
    "1599920741": {
       "title": "不會微笑的洋娃娃",
