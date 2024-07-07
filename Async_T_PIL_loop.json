@@ -137840,5 +137840,31 @@
       "deleted": false,
       "justified_rating": 1,
       "justified_votes": 1
+   },
+   "1720367896": {
+      "title": "SCP-1928-KO - 迪士尼將竭盡全力捍衛版權",
+      "fullname": "scp-1928-ko",
+      "created_at": "1720367896",
+      "created_by": "6217438",
+      "tags": [
+         "historic",
+         "ko",
+         "safe",
+         "scp",
+         "二次翻譯",
+         "精神影響",
+         "翻譯",
+         "藝術性"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1455848568",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
