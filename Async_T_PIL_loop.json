@@ -137825,8 +137825,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "1",
-      "votes": "1",
+      "rating": "2",
+      "votes": "2",
       "parent": null,
       "id": "1455847357",
       "detailed_rating": {
@@ -137834,12 +137834,16 @@
             [
                "6217438",
                1720341595
+            ],
+            [
+               "8543386",
+               1720368755
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 1,
-      "justified_votes": 1
+      "justified_rating": 2,
+      "justified_votes": 2
    },
    "1720367896": {
       "title": "SCP-1928-KO - 迪士尼將竭盡全力捍衛版權",
