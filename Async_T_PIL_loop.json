@@ -137800,5 +137800,34 @@
       "deleted": false,
       "justified_rating": 1,
       "justified_votes": 1
+   },
+   "1720341091": {
+      "title": "SCP-6157 - 絨毛先生",
+      "fullname": "scp-6157",
+      "created_at": "1720341091",
+      "created_by": "6217438",
+      "tags": [
+         "en",
+         "en-交換藝術",
+         "everwood博士",
+         "researcher-rex",
+         "scp",
+         "人形",
+         "小小先生",
+         "智能",
+         "未收容",
+         "機密分級",
+         "翻譯"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1455847357",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
