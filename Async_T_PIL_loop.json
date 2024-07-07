@@ -136784,8 +136784,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "1",
-      "votes": "1",
+      "rating": "2",
+      "votes": "2",
       "parent": null,
       "id": "1453770375",
       "detailed_rating": {
@@ -136793,12 +136793,16 @@
             [
                "6217438",
                1716383795
+            ],
+            [
+               "5370805",
+               1720389636
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 1,
-      "justified_votes": 1
+      "justified_rating": 2,
+      "justified_votes": 2
    },
    "1716466789": {
       "title": "死神退休後的世界",
