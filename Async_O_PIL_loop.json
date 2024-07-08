@@ -115297,8 +115297,8 @@
          "_licensebox"
       ],
       "comments": "0",
-      "rating": "12",
-      "votes": "12",
+      "rating": "13",
+      "votes": "13",
       "parent": null,
       "id": "1448432406",
       "detailed_rating": {
@@ -115350,12 +115350,16 @@
             [
                "5338547",
                1686490333
+            ],
+            [
+               "9075244",
+               1720444647
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 12,
-      "justified_votes": 12
+      "justified_rating": 13,
+      "justified_votes": 13
    },
    "1686551439": {
       "title": "SCP-ZH-363 - 躺平仙人掌",
