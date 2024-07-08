@@ -114769,8 +114769,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "18",
-      "votes": "18",
+      "rating": "19",
+      "votes": "19",
       "parent": null,
       "id": "1447824530",
       "detailed_rating": {
@@ -114846,12 +114846,16 @@
             [
                "DELETED",
                1686366590
+            ],
+            [
+               "8846720",
+               1720445990
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 17,
-      "justified_votes": 17
+      "justified_rating": 18,
+      "justified_votes": 18
    },
    "1685279946": {
       "title": "未知航程：恆星之影1-4",
