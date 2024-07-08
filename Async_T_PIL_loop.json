@@ -63195,8 +63195,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "6",
-      "votes": "6",
+      "rating": "7",
+      "votes": "7",
       "parent": null,
       "id": "1310886583",
       "detailed_rating": {
@@ -63224,12 +63224,16 @@
             [
                "DELETED",
                "[UNKNOWN]"
+            ],
+            [
+               "5981123",
+               1720431903
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 5,
-      "justified_votes": 5
+      "justified_rating": 6,
+      "justified_votes": 6
    },
    "1619257748": {
       "title": "SCP-5690 - 專業調教女王",
