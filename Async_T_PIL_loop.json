@@ -37208,8 +37208,8 @@
       ],
       "hidden_tags": [],
       "comments": "2",
-      "rating": "5",
-      "votes": "5",
+      "rating": "6",
+      "votes": "6",
       "parent": null,
       "id": "1046971427",
       "detailed_rating": {
@@ -37233,12 +37233,16 @@
             [
                "4442284",
                1617120000
+            ],
+            [
+               "5981123",
+               1720524699
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 5,
-      "justified_votes": 5
+      "justified_rating": 6,
+      "justified_votes": 6
    },
    "1589978668": {
       "title": "異常物品列表-EO",
