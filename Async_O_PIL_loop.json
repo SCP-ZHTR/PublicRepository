@@ -63703,8 +63703,8 @@
       ],
       "hidden_tags": [],
       "comments": "2",
-      "rating": "17",
-      "votes": "17",
+      "rating": "18",
+      "votes": "18",
       "parent": null,
       "id": "1307056785",
       "detailed_rating": {
@@ -63776,12 +63776,16 @@
             [
                "6678442",
                1617120000
+            ],
+            [
+               "5981123",
+               1720522040
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 17,
-      "justified_votes": 17
+      "justified_rating": 18,
+      "justified_votes": 18
    },
    "1615384308": {
       "title": "魔鳥與魔鳥使",
