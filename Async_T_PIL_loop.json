@@ -22521,8 +22521,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "8",
-      "votes": "8",
+      "rating": "9",
+      "votes": "9",
       "parent": null,
       "id": "986642625",
       "detailed_rating": {
@@ -22558,12 +22558,16 @@
             [
                "5327537",
                1617120000
+            ],
+            [
+               "5981123",
+               1720525102
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 8,
-      "justified_votes": 8
+      "justified_rating": 9,
+      "justified_votes": 9
    },
    "1581251797": {
       "title": "SCP-4083 - 湖濱景觀公寓",
