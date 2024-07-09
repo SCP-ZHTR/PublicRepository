@@ -137969,5 +137969,29 @@
       "deleted": false,
       "justified_rating": 5,
       "justified_votes": 5
+   },
+   "1720531604": {
+      "title": "你。我。Denny's停車場。現在。",
+      "fullname": "youmedennysnow",
+      "created_at": "1720531604",
+      "created_by": "5370805",
+      "tags": [
+         "absurdist-fiction",
+         "en",
+         "互動性",
+         "動作",
+         "故事",
+         "翻譯"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1455858277",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
