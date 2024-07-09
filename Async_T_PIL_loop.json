@@ -29019,8 +29019,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "11",
-      "votes": "11",
+      "rating": "12",
+      "votes": "12",
       "parent": null,
       "id": "1002360052",
       "detailed_rating": {
@@ -29068,12 +29068,16 @@
             [
                "6082642",
                1626796800
+            ],
+            [
+               "5981123",
+               1720522830
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 11,
-      "justified_votes": 11
+      "justified_rating": 12,
+      "justified_votes": 12
    },
    "1585308224": {
       "title": "SCP-2998 - 異常傳播訊號，2485MHz",
