@@ -42005,8 +42005,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "11",
-      "votes": "11",
+      "rating": "12",
+      "votes": "12",
       "parent": null,
       "id": "1260645594",
       "detailed_rating": {
@@ -42054,12 +42054,16 @@
             [
                "5327537",
                1714831558
+            ],
+            [
+               "5981123",
+               1720519149
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 11,
-      "justified_votes": 11
+      "justified_rating": 12,
+      "justified_votes": 12
    },
    "1596899301": {
       "title": "SCP-2616-JP - 雪中送炭",
