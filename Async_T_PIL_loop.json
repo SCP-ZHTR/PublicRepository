@@ -138020,5 +138020,30 @@
       "deleted": false,
       "justified_rating": 6,
       "justified_votes": 6
+   },
+   "1720585839": {
+      "title": "SCP-3118 - 午餐槍",
+      "fullname": "scp-3118",
+      "created_at": "1720585839",
+      "created_by": "6217438",
+      "tags": [
+         "en",
+         "safe",
+         "scp",
+         "反熵",
+         "武器",
+         "翻譯",
+         "預測性"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1455860275",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
