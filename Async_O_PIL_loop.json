@@ -124143,8 +124143,8 @@
          "_cc"
       ],
       "comments": "3",
-      "rating": "29",
-      "votes": "29",
+      "rating": "30",
+      "votes": "30",
       "parent": null,
       "id": "1451109539",
       "detailed_rating": {
@@ -124264,12 +124264,16 @@
             [
                "7571354",
                1717479292
+            ],
+            [
+               "8546930",
+               1720622839
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 29,
-      "justified_votes": 29
+      "justified_rating": 30,
+      "justified_votes": 30
    },
    "1698471756": {
       "title": "SCP-ZH-146 - 春日",
