@@ -137643,8 +137643,8 @@
       ],
       "hidden_tags": [],
       "comments": "2",
-      "rating": "3",
-      "votes": "3",
+      "rating": "4",
+      "votes": "4",
       "parent": null,
       "id": "1454100068",
       "detailed_rating": {
@@ -137660,12 +137660,16 @@
             [
                "4206567",
                1719139324
+            ],
+            [
+               "7064164",
+               1720594796
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 3,
-      "justified_votes": 3
+      "justified_rating": 4,
+      "justified_votes": 4
    },
    "1718969715": {
       "title": "字典攻擊",
