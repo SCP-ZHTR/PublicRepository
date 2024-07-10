@@ -137865,8 +137865,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "1",
-      "votes": "1",
+      "rating": "2",
+      "votes": "2",
       "parent": null,
       "id": "1454339478",
       "detailed_rating": {
@@ -137874,12 +137874,16 @@
             [
                "7605593",
                1719674570
+            ],
+            [
+               "7064164",
+               1720594651
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 1,
-      "justified_votes": 1
+      "justified_rating": 2,
+      "justified_votes": 2
    },
    "1720341091": {
       "title": "SCP-6157 - 絨毛先生",
