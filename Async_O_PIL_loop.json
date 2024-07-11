@@ -135820,5 +135820,27 @@
       "deleted": false,
       "justified_rating": 9,
       "justified_votes": 9
+   },
+   "1720674491": {
+      "title": "2024夏季競賽 《元素》",
+      "fullname": "summer-contest-2024",
+      "created_at": "1720674491",
+      "created_by": "4990678",
+      "tags": [
+         "2024夏季競賽",
+         "中心",
+         "原創",
+         "競賽"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1455879932",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
