@@ -138106,8 +138106,8 @@
       ],
       "hidden_tags": [],
       "comments": "2",
-      "rating": "1",
-      "votes": "1",
+      "rating": "2",
+      "votes": "2",
       "parent": null,
       "id": "1455885535",
       "detailed_rating": {
@@ -138115,12 +138115,16 @@
             [
                "8033564",
                1720889153
+            ],
+            [
+               "8404617",
+               1720892228
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 1,
-      "justified_votes": 1
+      "justified_rating": 2,
+      "justified_votes": 2
    },
    "1720876987": {
       "title": "銘記",
