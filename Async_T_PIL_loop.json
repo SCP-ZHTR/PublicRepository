@@ -138114,5 +138114,29 @@
       "deleted": false,
       "justified_rating": 0,
       "justified_votes": 0
+   },
+   "1720876987": {
+      "title": "銘記",
+      "fullname": "remember",
+      "created_at": "1720876987",
+      "created_by": "6088232",
+      "tags": [
+         "en",
+         "夜之子",
+         "故事",
+         "殆瓦",
+         "翻譯",
+         "該隱"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1455889349",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
