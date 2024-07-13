@@ -80749,8 +80749,8 @@
          "_cc"
       ],
       "comments": "4",
-      "rating": "25",
-      "votes": "25",
+      "rating": "26",
+      "votes": "26",
       "parent": null,
       "id": "1329671927",
       "detailed_rating": {
@@ -80854,12 +80854,16 @@
             [
                "DELETED",
                "[UNKNOWN]"
+            ],
+            [
+               "8883612",
+               1720877678
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 23,
-      "justified_votes": 23
+      "justified_rating": 24,
+      "justified_votes": 24
    },
    "1635254688": {
       "title": "SCP-ZH-058 - 另一道走廊",
