@@ -124164,8 +124164,8 @@
          "_licensebox"
       ],
       "comments": "0",
-      "rating": "2",
-      "votes": "2",
+      "rating": "3",
+      "votes": "3",
       "parent": null,
       "id": "1449834921",
       "detailed_rating": {
@@ -124177,12 +124177,16 @@
             [
                "5484164",
                1694047341
+            ],
+            [
+               "8452537",
+               1720865388
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 2,
-      "justified_votes": 2
+      "justified_rating": 3,
+      "justified_votes": 3
    },
    "1693740660": {
       "title": "SCP-5195 - 花式射擊",
