@@ -136231,8 +136231,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "10",
-      "votes": "10",
+      "rating": "11",
+      "votes": "11",
       "parent": null,
       "id": "1453654020",
       "detailed_rating": {
@@ -136276,12 +136276,16 @@
             [
                "8319365",
                1715849424
+            ],
+            [
+               "5981123",
+               1720936316
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 10,
-      "justified_votes": 10
+      "justified_rating": 11,
+      "justified_votes": 11
    },
    "1715942198": {
       "title": "SCP-2718 - 身後之事",
