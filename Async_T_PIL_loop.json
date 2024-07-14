@@ -75979,8 +75979,8 @@
          "_cc"
       ],
       "comments": "0",
-      "rating": "6",
-      "votes": "6",
+      "rating": "7",
+      "votes": "7",
       "parent": null,
       "id": "1329573001",
       "detailed_rating": {
@@ -76008,12 +76008,16 @@
             [
                "DELETED",
                1716566492
+            ],
+            [
+               "5981123",
+               1720936176
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 5,
-      "justified_votes": 5
+      "justified_rating": 6,
+      "justified_votes": 6
    },
    "1634842176": {
       "title": "SCP-6668 - 群襲",
