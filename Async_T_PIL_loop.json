@@ -138192,5 +138192,32 @@
       "deleted": false,
       "justified_rating": 0,
       "justified_votes": 0
+   },
+   "1720966803": {
+      "title": "SCP-7542 - 冷戰時失去的武器",
+      "fullname": "scp-7542",
+      "created_at": "1720966803",
+      "created_by": "7504530",
+      "tags": [
+         "en",
+         "scp",
+         "人形",
+         "屍體",
+         "智能",
+         "格魯烏-p-部門",
+         "無效化",
+         "瓦拉文",
+         "翻譯"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1455893432",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
