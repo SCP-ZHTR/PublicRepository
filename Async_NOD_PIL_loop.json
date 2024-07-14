@@ -26368,5 +26368,33 @@
       "deleted": false,
       "justified_rating": 0,
       "justified_votes": 0
+   },
+   "1563119753": {
+      "title": "不是競賽作品，只是篇關於諸神的搞笑文",
+      "fullname": "deleted:party-of-gods",
+      "created_at": "1563119753",
+      "created_by": "5435485",
+      "tags": [
+         "en",
+         "受絞之王",
+         "故事",
+         "欲肉教",
+         "潘洛斯",
+         "猩紅之王",
+         "相嘯魔",
+         "破碎之神教會",
+         "第五教會",
+         "翻譯"
+      ],
+      "hidden_tags": [],
+      "comments": "1",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "844295846",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
