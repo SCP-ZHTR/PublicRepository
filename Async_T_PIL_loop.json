@@ -138161,5 +138161,36 @@
       "deleted": false,
       "justified_rating": 0,
       "justified_votes": 0
+   },
+   "1720966629": {
+      "title": "SCP-7242 - 受詛咒的潛艦",
+      "fullname": "scp-7242",
+      "created_at": "1720966629",
+      "created_by": "7504530",
+      "tags": [
+         "en",
+         "scp",
+         "幻覺",
+         "格魯烏-p部門",
+         "模因",
+         "水棲",
+         "無效化",
+         "精神影響",
+         "翻譯",
+         "聽覺影響",
+         "視覺性",
+         "記憶影響",
+         "載具"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1455893430",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
