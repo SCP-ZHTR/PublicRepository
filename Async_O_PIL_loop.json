@@ -59734,8 +59734,8 @@
          "_cc"
       ],
       "comments": "1",
-      "rating": "18",
-      "votes": "18",
+      "rating": "19",
+      "votes": "19",
       "parent": null,
       "id": "1306527139",
       "detailed_rating": {
@@ -59811,12 +59811,16 @@
             [
                "6678442",
                1617120000
+            ],
+            [
+               "5981123",
+               1721096192
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 18,
-      "justified_votes": 18
+      "justified_rating": 19,
+      "justified_votes": 19
    },
    "1610713307": {
       "title": "SCP-ZH-023 - 末狀記憶",
