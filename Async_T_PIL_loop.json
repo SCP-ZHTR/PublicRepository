@@ -138029,8 +138029,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "6",
-      "votes": "6",
+      "rating": "7",
+      "votes": "7",
       "parent": null,
       "id": "1455858277",
       "detailed_rating": {
@@ -138058,12 +138058,16 @@
             [
                "5565302",
                1720567178
+            ],
+            [
+               "7504530",
+               1721102023
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 6,
-      "justified_votes": 6
+      "justified_rating": 7,
+      "justified_votes": 7
    },
    "1720585839": {
       "title": "SCP-3118 - 午餐槍",
