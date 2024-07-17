@@ -96462,8 +96462,8 @@
          "_licensebox"
       ],
       "comments": "0",
-      "rating": "9",
-      "votes": "9",
+      "rating": "10",
+      "votes": "10",
       "parent": null,
       "id": "1420221744",
       "detailed_rating": {
@@ -96503,12 +96503,16 @@
             [
                "DELETED",
                1703609395
+            ],
+            [
+               "5981123",
+               1721235240
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 8,
-      "justified_votes": 8
+      "justified_rating": 9,
+      "justified_votes": 9
    },
    "1658193891": {
       "title": "SCP-570 - 超自然汽水大戰",
