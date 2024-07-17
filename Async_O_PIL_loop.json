@@ -4179,8 +4179,8 @@
          "_info"
       ],
       "comments": "6",
-      "rating": "10",
-      "votes": "20",
+      "rating": "9",
+      "votes": "21",
       "parent": null,
       "id": "639660327",
       "detailed_rating": {
@@ -4266,12 +4266,16 @@
             [
                "5454699",
                1625932800
+            ],
+            [
+               "7073060",
+               1721215960
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 9,
-      "justified_votes": 19
+      "justified_rating": 8,
+      "justified_votes": 20
    },
    "1553331116": {
       "title": "SCP-ZH-748 - 淚魔",
