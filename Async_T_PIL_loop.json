@@ -25378,8 +25378,8 @@
          "_cc"
       ],
       "comments": "3",
-      "rating": "7",
-      "votes": "7",
+      "rating": "8",
+      "votes": "8",
       "parent": null,
       "id": "999855085",
       "detailed_rating": {
@@ -25411,12 +25411,16 @@
             [
                "DELETED",
                "[UNKNOWN]"
+            ],
+            [
+               "7558128",
+               1721263122
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 6,
-      "justified_votes": 6
+      "justified_rating": 7,
+      "justified_votes": 7
    },
    "1583897960": {
       "title": "SCP-1057 - 空虛的鯊意",
