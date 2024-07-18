@@ -49748,8 +49748,8 @@
          "_cc"
       ],
       "comments": "1",
-      "rating": "8",
-      "votes": "8",
+      "rating": "9",
+      "votes": "9",
       "parent": null,
       "id": "1305760822",
       "detailed_rating": {
@@ -49785,12 +49785,16 @@
             [
                "5013754",
                1617120000
+            ],
+            [
+               "5981123",
+               1721305777
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 8,
-      "justified_votes": 8
+      "justified_rating": 9,
+      "justified_votes": 9
    },
    "1604971745": {
       "title": "世界線中心-JP",
@@ -138264,13 +138268,20 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "0",
-      "votes": "0",
+      "rating": "1",
+      "votes": "1",
       "parent": null,
       "id": "1455919475",
-      "detailed_rating": {},
+      "detailed_rating": {
+         "+": [
+            [
+               "5981123",
+               1721305777
+            ]
+         ]
+      },
       "deleted": false,
-      "justified_rating": 0,
-      "justified_votes": 0
+      "justified_rating": 1,
+      "justified_votes": 1
    }
 }
