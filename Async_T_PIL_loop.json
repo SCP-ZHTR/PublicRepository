@@ -101053,8 +101053,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "6",
-      "votes": "6",
+      "rating": "7",
+      "votes": "7",
       "parent": null,
       "id": "1436049809",
       "detailed_rating": {
@@ -101082,12 +101082,16 @@
             [
                "5435485",
                1663948800
+            ],
+            [
+               "5981123",
+               1721284334
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 6,
-      "justified_votes": 6
+      "justified_rating": 7,
+      "justified_votes": 7
    },
    "1663981316": {
       "title": "SCP-TTKU-J （就是那個會殺了你的東東）",
