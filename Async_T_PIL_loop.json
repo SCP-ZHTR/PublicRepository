@@ -138212,8 +138212,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "1",
-      "votes": "1",
+      "rating": "2",
+      "votes": "2",
       "parent": null,
       "id": "1455893430",
       "detailed_rating": {
@@ -138221,12 +138221,16 @@
             [
                "5370805",
                1720998023
+            ],
+            [
+               "6981058",
+               1721356412
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 1,
-      "justified_votes": 1
+      "justified_rating": 2,
+      "justified_votes": 2
    },
    "1720966803": {
       "title": "SCP-7542 - 冷戰時失去的武器",
