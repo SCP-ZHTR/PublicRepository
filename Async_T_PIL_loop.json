@@ -138470,5 +138470,27 @@
       "deleted": false,
       "justified_rating": 0,
       "justified_votes": 0
+   },
+   "1721479620": {
+      "title": "維安設施檔案：Area-14",
+      "fullname": "secure-facility-dossier-area-14",
+      "created_at": "1721479620",
+      "created_by": "6217438",
+      "tags": [
+         "asci",
+         "en",
+         "站點",
+         "翻譯"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1455928521",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
