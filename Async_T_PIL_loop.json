@@ -74814,8 +74814,8 @@
          "_禁黑"
       ],
       "comments": "1",
-      "rating": "9",
-      "votes": "9",
+      "rating": "10",
+      "votes": "10",
       "parent": null,
       "id": "1324252784",
       "detailed_rating": {
@@ -74855,12 +74855,16 @@
             [
                "5956873",
                1705163526
+            ],
+            [
+               "7504530",
+               1721548225
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 8,
-      "justified_votes": 8
+      "justified_rating": 9,
+      "justified_votes": 9
    },
    "1633052504": {
       "title": "SCP-5243影像抄錄",
@@ -127849,8 +127853,8 @@
          "_licensebox"
       ],
       "comments": "0",
-      "rating": "4",
-      "votes": "4",
+      "rating": "5",
+      "votes": "5",
       "parent": null,
       "id": "1450812806",
       "detailed_rating": {
@@ -127870,12 +127874,16 @@
             [
                "5956873",
                1705164399
+            ],
+            [
+               "7504530",
+               1721548225
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 4,
-      "justified_votes": 4
+      "justified_rating": 5,
+      "justified_votes": 5
    },
    "1697678406": {
       "title": "Sigma-9 主題中心",
