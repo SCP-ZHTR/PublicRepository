@@ -92655,8 +92655,8 @@
          "_假的"
       ],
       "comments": "0",
-      "rating": "12",
-      "votes": "12",
+      "rating": "13",
+      "votes": "13",
       "parent": null,
       "id": "1333204080",
       "detailed_rating": {
@@ -92708,12 +92708,16 @@
             [
                "DELETED",
                1695208468
+            ],
+            [
+               "8404617",
+               1721689192
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 11,
-      "justified_votes": 11
+      "justified_rating": 12,
+      "justified_votes": 12
    },
    "1646758186": {
       "title": "易羅欣、卷零",
