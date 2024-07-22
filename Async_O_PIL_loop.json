@@ -133248,8 +133248,8 @@
          "_人之流"
       ],
       "comments": "0",
-      "rating": "29",
-      "votes": "31",
+      "rating": "30",
+      "votes": "32",
       "parent": null,
       "id": "1453770550",
       "detailed_rating": {
@@ -133373,6 +133373,10 @@
             [
                "7064164",
                1719073491
+            ],
+            [
+               "8480087",
+               1721660583
             ]
          ],
          "-": [
@@ -133383,8 +133387,8 @@
          ]
       },
       "deleted": false,
-      "justified_rating": 29,
-      "justified_votes": 31
+      "justified_rating": 30,
+      "justified_votes": 32
    },
    "1716645423": {
       "title": "SCP-ZH-574 - 前哨",
