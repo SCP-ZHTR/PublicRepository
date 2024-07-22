@@ -91532,8 +91532,8 @@
          "_檢查"
       ],
       "comments": "5",
-      "rating": "11",
-      "votes": "11",
+      "rating": "12",
+      "votes": "12",
       "parent": null,
       "id": "1331826889",
       "detailed_rating": {
@@ -91581,12 +91581,16 @@
             [
                "DELETED",
                1695208838
+            ],
+            [
+               "8404617",
+               1721688644
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 10,
-      "justified_votes": 10
+      "justified_rating": 11,
+      "justified_votes": 11
    },
    "1646409496": {
       "title": "SCP-ZH-084 - 以我為鏡",
