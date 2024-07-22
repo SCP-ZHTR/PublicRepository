@@ -138580,5 +138580,29 @@
       "deleted": false,
       "justified_rating": 5,
       "justified_votes": 5
+   },
+   "1721678401": {
+      "title": "阿基瓦計數器使用說明書",
+      "fullname": "akiva-counter-operating-instructions",
+      "created_at": "1721678401",
+      "created_by": "7605593",
+      "tags": [
+         "en",
+         "世界觀建設",
+         "宗教",
+         "戰術神學部",
+         "故事",
+         "翻譯"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1455937591",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
