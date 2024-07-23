@@ -53403,8 +53403,8 @@
          "_cc"
       ],
       "comments": "1",
-      "rating": "11",
-      "votes": "11",
+      "rating": "12",
+      "votes": "12",
       "parent": null,
       "id": "1306309091",
       "detailed_rating": {
@@ -53452,12 +53452,16 @@
             [
                "5415046",
                1617120000
+            ],
+            [
+               "7558128",
+               1721714594
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 11,
-      "justified_votes": 11
+      "justified_rating": 12,
+      "justified_votes": 12
    },
    "1608913065": {
       "title": "SCP-2042-JP - 野町特工的花籠翻轉/黑色的操蛇人與狂熱的學園",
