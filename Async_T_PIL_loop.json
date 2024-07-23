@@ -53181,8 +53181,8 @@
          "_licensebox"
       ],
       "comments": "1",
-      "rating": "11",
-      "votes": "11",
+      "rating": "12",
+      "votes": "12",
       "parent": null,
       "id": "1306292841",
       "detailed_rating": {
@@ -53230,12 +53230,16 @@
             [
                "5981123",
                1719082233
+            ],
+            [
+               "8404617",
+               1721705382
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 11,
-      "justified_votes": 11
+      "justified_rating": 12,
+      "justified_votes": 12
    },
    "1608558155": {
       "title": "宛如我們是幼稚園老師一樣",
@@ -138596,8 +138600,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "4",
-      "votes": "4",
+      "rating": "5",
+      "votes": "5",
       "parent": null,
       "id": "1455937591",
       "detailed_rating": {
@@ -138617,12 +138621,16 @@
             [
                "8480087",
                1721702943
+            ],
+            [
+               "8404617",
+               1721705382
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 4,
-      "justified_votes": 4
+      "justified_rating": 5,
+      "justified_votes": 5
    },
    "1721704157": {
       "title": "奧林帕斯的山坡上",
