@@ -138616,8 +138616,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "5",
-      "votes": "5",
+      "rating": "6",
+      "votes": "6",
       "parent": null,
       "id": "1455937591",
       "detailed_rating": {
@@ -138641,12 +138641,16 @@
             [
                "8404617",
                1721705382
+            ],
+            [
+               "5370805",
+               1721762733
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 5,
-      "justified_votes": 5
+      "justified_rating": 6,
+      "justified_votes": 6
    },
    "1721704157": {
       "title": "奧林帕斯的山坡上",

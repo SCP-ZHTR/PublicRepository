@@ -26628,14 +26628,21 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "0",
-      "votes": "0",
+      "rating": "1",
+      "votes": "1",
       "parent": null,
       "id": "1455941755",
-      "detailed_rating": {},
+      "detailed_rating": {
+         "+": [
+            [
+               "5370805",
+               1721762735
+            ]
+         ]
+      },
       "deleted": false,
-      "justified_rating": 0,
-      "justified_votes": 0
+      "justified_rating": 1,
+      "justified_votes": 1
    },
    "1721746787": {
       "title": "scp-8007",
