@@ -27033,8 +27033,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "3",
-      "votes": "3",
+      "rating": "4",
+      "votes": "4",
       "parent": null,
       "id": "1002153337",
       "detailed_rating": {
@@ -27050,12 +27050,16 @@
             [
                "4535955",
                1617120000
+            ],
+            [
+               "7558128",
+               1721714449
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 3,
-      "justified_votes": 3
+      "justified_rating": 4,
+      "justified_votes": 4
    },
    "1584508118": {
       "title": "SCP-162 - 刃球",
@@ -42676,7 +42680,7 @@
          "_cc"
       ],
       "comments": "3",
-      "rating": "32",
+      "rating": "33",
       "votes": "33",
       "parent": null,
       "id": "1260816880",
