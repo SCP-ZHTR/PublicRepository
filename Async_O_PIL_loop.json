@@ -135978,7 +135978,7 @@
       "hidden_tags": [],
       "comments": "0",
       "rating": "2",
-      "votes": "2",
+      "votes": "3",
       "parent": null,
       "id": "1455942931",
       "detailed_rating": {
@@ -135990,12 +135990,16 @@
             [
                "5435485",
                1721791514
+            ],
+            [
+               "5370805",
+               1721833601
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 2,
-      "justified_votes": 2
+      "justified_rating": 3,
+      "justified_votes": 3
    },
    "1721804644": {
       "title": "冰肌玉骨",
