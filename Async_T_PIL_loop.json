@@ -5134,8 +5134,8 @@
          "_licensebox"
       ],
       "comments": "1",
-      "rating": "6",
-      "votes": "6",
+      "rating": "7",
+      "votes": "7",
       "parent": "deer-college-hub",
       "id": "760742065",
       "detailed_rating": {
@@ -5163,12 +5163,16 @@
             [
                "4239775",
                1710739893
+            ],
+            [
+               "8033564",
+               1721803268
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 5,
-      "justified_votes": 5
+      "justified_rating": 6,
+      "justified_votes": 6
    },
    "1556538898": {
       "title": "SCP-963 - 不朽",
