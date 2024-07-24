@@ -138470,14 +138470,21 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "0",
-      "votes": "0",
+      "rating": "1",
+      "votes": "1",
       "parent": null,
       "id": "1455925337",
-      "detailed_rating": {},
+      "detailed_rating": {
+         "+": [
+            [
+               "8033564",
+               1721797973
+            ]
+         ]
+      },
       "deleted": false,
-      "justified_rating": 0,
-      "justified_votes": 0
+      "justified_rating": 1,
+      "justified_votes": 1
    },
    "1721411064": {
       "title": "SCP-812 - 一箱大河",
