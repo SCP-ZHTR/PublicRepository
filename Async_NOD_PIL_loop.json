@@ -26698,5 +26698,39 @@
       "deleted": false,
       "justified_rating": 0,
       "justified_votes": 0
+   },
+   "1721908805": {
+      "title": "fragment:奧秘元素方塊：繁中地下城傳奇",
+      "fullname": "fragment:scp-zh-986-1",
+      "created_at": "1721908805",
+      "created_by": "5435485",
+      "tags": [],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": "scp-zh-986",
+      "id": "1455950470",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
+   },
+   "1721908814": {
+      "title": "fragment:奧秘元素方塊：尾聲",
+      "fullname": "fragment:scp-zh-986-2",
+      "created_at": "1721908814",
+      "created_by": "5435485",
+      "tags": [],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": "scp-zh-986",
+      "id": "1455950471",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
