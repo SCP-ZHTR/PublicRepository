@@ -136281,5 +136281,30 @@
       "deleted": false,
       "justified_rating": 16,
       "justified_votes": 16
+   },
+   "1722024424": {
+      "title": "SCP-ZH-924 - 殘局",
+      "fullname": "scp-zh-924",
+      "created_at": "1722024424",
+      "created_by": "7073060",
+      "tags": [
+         "safe",
+         "scp",
+         "原創",
+         "反常部",
+         "地點",
+         "屍體",
+         "混沌反叛軍"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1455955890",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
