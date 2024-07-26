@@ -138730,5 +138730,41 @@
       "deleted": false,
       "justified_rating": 0,
       "justified_votes": 0
+   },
+   "1722036040": {
+      "title": "SCP-4991 - >所以世界就是這麼終結的。不是伴隨一聲巨響，而是伴隨一則垃圾貼文",
+      "fullname": "scp-4991",
+      "created_at": "1722036040",
+      "created_by": "8033564",
+      "tags": [
+         "anomalous-event",
+         "co-authored",
+         "en",
+         "faeowynn-wilson",
+         "mc&d",
+         "scp",
+         "文獻",
+         "昆蟲",
+         "昆蟲地獄",
+         "無效化",
+         "線上",
+         "群體性",
+         "翻譯",
+         "超維度",
+         "通訊",
+         "電子",
+         "電腦",
+         "鹿學院"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1455956108",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
