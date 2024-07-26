@@ -73148,8 +73148,8 @@
          "_cc"
       ],
       "comments": "1",
-      "rating": "7",
-      "votes": "7",
+      "rating": "8",
+      "votes": "8",
       "parent": null,
       "id": "1323985700",
       "detailed_rating": {
@@ -73181,12 +73181,16 @@
             [
                "DELETED",
                1694751374
+            ],
+            [
+               "5435485",
+               1722015633
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 6,
-      "justified_votes": 6
+      "justified_rating": 7,
+      "justified_votes": 7
    },
    "1631369541": {
       "title": "乙太能量與形貌輻射講座逐字稿　講者：████████████教授",
