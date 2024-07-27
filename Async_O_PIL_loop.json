@@ -136066,8 +136066,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "16",
-      "votes": "16",
+      "rating": "17",
+      "votes": "17",
       "parent": null,
       "id": "1455946284",
       "detailed_rating": {
@@ -136135,12 +136135,16 @@
             [
                "5338547",
                1721909786
+            ],
+            [
+               "6091157",
+               1722039741
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 16,
-      "justified_votes": 16
+      "justified_rating": 17,
+      "justified_votes": 17
    },
    "1721908799": {
       "title": "SCP-ZH-986 - 奧秘元素方塊：繁中地下城傳奇",
