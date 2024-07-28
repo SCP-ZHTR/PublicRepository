@@ -111670,8 +111670,8 @@
          "_licensebox"
       ],
       "comments": "0",
-      "rating": "7",
-      "votes": "9",
+      "rating": "8",
+      "votes": "10",
       "parent": "scp-anthology-hub",
       "id": "1446046886",
       "detailed_rating": {
@@ -111707,6 +111707,10 @@
             [
                "5338547",
                1675785600
+            ],
+            [
+               "7073060",
+               1722169649
             ]
          ],
          "-": [
@@ -111717,8 +111721,8 @@
          ]
       },
       "deleted": false,
-      "justified_rating": 7,
-      "justified_votes": 9
+      "justified_rating": 8,
+      "justified_votes": 10
    },
    "1675863494": {
       "title": "SCP-7795 - Ð是「一三」（Ðirteen）",
