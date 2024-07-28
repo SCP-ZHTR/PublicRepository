@@ -138757,14 +138757,21 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "0",
-      "votes": "0",
+      "rating": "1",
+      "votes": "1",
       "parent": null,
       "id": "1455940335",
-      "detailed_rating": {},
+      "detailed_rating": {
+         "+": [
+            [
+               "5435485",
+               1722192787
+            ]
+         ]
+      },
       "deleted": false,
-      "justified_rating": 0,
-      "justified_votes": 0
+      "justified_rating": 1,
+      "justified_votes": 1
    },
    "1722036040": {
       "title": "SCP-4991 - >所以世界就是這麼終結的。不是伴隨一聲巨響，而是伴隨一則垃圾貼文。",
@@ -138793,8 +138800,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "4",
-      "votes": "4",
+      "rating": "5",
+      "votes": "5",
       "parent": null,
       "id": "1455956108",
       "detailed_rating": {
@@ -138814,11 +138821,15 @@
             [
                "5370805",
                1722175801
+            ],
+            [
+               "5435485",
+               1722192787
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 4,
-      "justified_votes": 4
+      "justified_rating": 5,
+      "justified_votes": 5
    }
 }
