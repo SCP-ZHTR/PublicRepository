@@ -63527,8 +63527,8 @@
          "_cc"
       ],
       "comments": "2",
-      "rating": "11",
-      "votes": "11",
+      "rating": "12",
+      "votes": "12",
       "parent": null,
       "id": "1310903881",
       "detailed_rating": {
@@ -63576,12 +63576,16 @@
             [
                "6082642",
                1628092800
+            ],
+            [
+               "7558128",
+               1722161520
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 11,
-      "justified_votes": 11
+      "justified_rating": 12,
+      "justified_votes": 12
    },
    "1619577935": {
       "title": "無人死亡",
