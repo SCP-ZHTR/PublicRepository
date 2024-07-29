@@ -138847,9 +138847,9 @@
          "藝術作品"
       ],
       "hidden_tags": [],
-      "comments": "2",
-      "rating": "8",
-      "votes": "8",
+      "comments": "3",
+      "rating": "9",
+      "votes": "9",
       "parent": null,
       "id": "1455962661",
       "detailed_rating": {
@@ -138885,11 +138885,15 @@
             [
                "4239775",
                1722219065
+            ],
+            [
+               "8177208",
+               1722226968
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 8,
-      "justified_votes": 8
+      "justified_rating": 9,
+      "justified_votes": 9
    }
 }
