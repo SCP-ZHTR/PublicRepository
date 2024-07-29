@@ -53055,8 +53055,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "8",
-      "votes": "10",
+      "rating": "9",
+      "votes": "11",
       "parent": null,
       "id": "1306279755",
       "detailed_rating": {
@@ -53096,6 +53096,10 @@
             [
                "5013754",
                1617120000
+            ],
+            [
+               "7504530",
+               1722234182
             ]
          ],
          "-": [
@@ -53106,8 +53110,8 @@
          ]
       },
       "deleted": false,
-      "justified_rating": 9,
-      "justified_votes": 9
+      "justified_rating": 10,
+      "justified_votes": 10
    },
    "1608435026": {
       "title": "SCP-825-KO",
