@@ -138848,13 +138848,32 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "0",
-      "votes": "0",
+      "rating": "4",
+      "votes": "4",
       "parent": null,
       "id": "1455962661",
-      "detailed_rating": {},
+      "detailed_rating": {
+         "+": [
+            [
+               "4990678",
+               1722212086
+            ],
+            [
+               "6217438",
+               1722212086
+            ],
+            [
+               "8883612",
+               1722212086
+            ],
+            [
+               "5338547",
+               1722212086
+            ]
+         ]
+      },
       "deleted": false,
-      "justified_rating": 0,
-      "justified_votes": 0
+      "justified_rating": 4,
+      "justified_votes": 4
    }
 }
