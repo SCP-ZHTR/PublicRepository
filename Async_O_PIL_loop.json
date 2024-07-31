@@ -36079,8 +36079,8 @@
          "_cc"
       ],
       "comments": "1",
-      "rating": "18",
-      "votes": "18",
+      "rating": "19",
+      "votes": "19",
       "parent": null,
       "id": "1024490263",
       "detailed_rating": {
@@ -36156,12 +36156,16 @@
             [
                "8081917",
                1707958630
+            ],
+            [
+               "6815728",
+               1722439638
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 18,
-      "justified_votes": 18
+      "justified_rating": 19,
+      "justified_votes": 19
    },
    "1586915487": {
       "title": "插圖：逃避",
@@ -136270,8 +136274,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "20",
-      "votes": "20",
+      "rating": "21",
+      "votes": "21",
       "parent": null,
       "id": "1455950469",
       "detailed_rating": {
@@ -136355,12 +136359,16 @@
             [
                "8033564",
                1722172993
+            ],
+            [
+               "7513990",
+               1722439638
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 20,
-      "justified_votes": 20
+      "justified_rating": 21,
+      "justified_votes": 21
    },
    "1722024424": {
       "title": "SCP-ZH-924 - 殘局",
