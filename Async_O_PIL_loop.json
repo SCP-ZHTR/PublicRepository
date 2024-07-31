@@ -25437,8 +25437,8 @@
          "_info"
       ],
       "comments": "3",
-      "rating": "20",
-      "votes": "26",
+      "rating": "21",
+      "votes": "27",
       "parent": null,
       "id": "985961727",
       "detailed_rating": {
@@ -25534,6 +25534,10 @@
             [
                "4351112",
                1617120000
+            ],
+            [
+               "6815728",
+               1722440987
             ]
          ],
          "-": [
@@ -25552,8 +25556,8 @@
          ]
       },
       "deleted": false,
-      "justified_rating": 20,
-      "justified_votes": 26
+      "justified_rating": 21,
+      "justified_votes": 27
    },
    "1577636063": {
       "title": "洗標：黑4473-Shaman Surge 的羽絨大衣",
