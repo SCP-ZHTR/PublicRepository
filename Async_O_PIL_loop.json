@@ -1556,14 +1556,19 @@
          "safe",
          "scp",
          "site-zh-26",
-         "原創"
+         "原創",
+         "強迫性",
+         "感知影響",
+         "昆蟲",
+         "造物",
+         "電力"
       ],
       "hidden_tags": [
          "_info"
       ],
       "comments": "1",
-      "rating": "6",
-      "votes": "10",
+      "rating": "5",
+      "votes": "11",
       "parent": null,
       "id": "637423885",
       "detailed_rating": {
@@ -1609,12 +1614,16 @@
             [
                "5275077",
                1617120000
+            ],
+            [
+               "5370805",
+               1722458516
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 5,
-      "justified_votes": 9
+      "justified_rating": 4,
+      "justified_votes": 10
    },
    "1552230953": {
       "title": "SCP-ZH-954 - 黃色便條紙",
