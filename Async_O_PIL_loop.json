@@ -757,8 +757,8 @@
          "_info"
       ],
       "comments": "0",
-      "rating": "13",
-      "votes": "13",
+      "rating": "12",
+      "votes": "14",
       "parent": null,
       "id": "634968815",
       "detailed_rating": {
@@ -815,11 +815,17 @@
                "5013754",
                1617120000
             ]
+         ],
+         "-": [
+            [
+               "5370805",
+               1722513760
+            ]
          ]
       },
       "deleted": false,
-      "justified_rating": 13,
-      "justified_votes": 13
+      "justified_rating": 12,
+      "justified_votes": 14
    },
    "1552135828": {
       "title": "SCP-ZH-017 - 永衡國入境申請表",
