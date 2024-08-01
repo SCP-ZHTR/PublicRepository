@@ -43829,8 +43829,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "23",
-      "votes": "23",
+      "rating": "24",
+      "votes": "24",
       "parent": "scp-zh-774",
       "id": "1174004927",
       "detailed_rating": {
@@ -43926,12 +43926,16 @@
             [
                "8404617",
                1721688234
+            ],
+            [
+               "6815728",
+               1722535695
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 22,
-      "justified_votes": 22
+      "justified_rating": 23,
+      "justified_votes": 23
    },
    "1594103127": {
       "title": "玩牌的Bright？",
