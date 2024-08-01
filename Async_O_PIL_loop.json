@@ -2379,8 +2379,8 @@
          "_info"
       ],
       "comments": "1",
-      "rating": "7",
-      "votes": "9",
+      "rating": "6",
+      "votes": "10",
       "parent": null,
       "id": "637914747",
       "detailed_rating": {
@@ -2422,12 +2422,16 @@
             [
                "7521095",
                1641312000
+            ],
+            [
+               "7073060",
+               1722555871
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 6,
-      "justified_votes": 8
+      "justified_rating": 5,
+      "justified_votes": 9
    },
    "1552310342": {
       "title": "SCP-ZH-629 - 回聲杯",
