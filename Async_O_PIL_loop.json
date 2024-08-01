@@ -101115,6 +101115,9 @@
          "euclid",
          "scp",
          "site-zh-16",
+         "交換",
+         "人形",
+         "傳送",
          "原創"
       ],
       "hidden_tags": [],
@@ -131509,7 +131512,7 @@
       ],
       "comments": "0",
       "rating": "7",
-      "votes": "7",
+      "votes": "8",
       "parent": null,
       "id": "1453266520",
       "detailed_rating": {
@@ -131542,11 +131545,17 @@
                "8792088",
                1713286767
             ]
+         ],
+         "-": [
+            [
+               "5370805",
+               1722520411
+            ]
          ]
       },
       "deleted": false,
-      "justified_rating": 7,
-      "justified_votes": 7
+      "justified_rating": 6,
+      "justified_votes": 8
    },
    "1712564581": {
       "title": "SCP-ZH-853 - 水泥先生",
