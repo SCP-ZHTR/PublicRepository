@@ -1966,16 +1966,20 @@
       "tags": [
          "safe",
          "scp",
+         "光照影響",
          "原創",
-         "合著"
+         "合著",
+         "工具",
+         "幻覺",
+         "精神影響"
       ],
       "hidden_tags": [
          "_cc",
          "_info"
       ],
       "comments": "1",
-      "rating": "6",
-      "votes": "8",
+      "rating": "5",
+      "votes": "9",
       "parent": null,
       "id": "637673841",
       "detailed_rating": {
@@ -2013,12 +2017,16 @@
             [
                "5230881",
                1617120000
+            ],
+            [
+               "5370805",
+               1722519712
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 6,
-      "justified_votes": 8
+      "justified_rating": 5,
+      "justified_votes": 9
    },
    "1552285826": {
       "title": "SCP-ZH-977 - 救贖聖經",
@@ -4707,6 +4715,7 @@
          "scp",
          "傳染性",
          "原創",
+         "現象",
          "睡眠"
       ],
       "hidden_tags": [
@@ -90459,7 +90468,9 @@
          "safe",
          "scp",
          "zh急迫競賽2022",
-         "原創"
+         "原創",
+         "工具",
+         "氣象"
       ],
       "hidden_tags": [
          "_飛"
