@@ -3393,7 +3393,9 @@
          "safe",
          "scp",
          "site-zh-26",
-         "原創"
+         "原創",
+         "機械",
+         "飾品"
       ],
       "hidden_tags": [
          "_info"
@@ -4958,11 +4960,14 @@
       "created_at": "1553713681",
       "created_by": "5230135",
       "tags": [
+         "meta",
          "scp",
          "site-zh-02",
          "原創",
          "已解明",
-         "搞笑"
+         "搞笑",
+         "文獻",
+         "鳥類"
       ],
       "hidden_tags": [
          "_info"
