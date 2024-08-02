@@ -15299,7 +15299,11 @@
       "fullname": "scp-zh-374",
       "created_at": "1722567159",
       "created_by": "6709715",
-      "tags": [],
+      "tags": [
+         "2024夏季競賽",
+         "keter",
+         "scp"
+      ],
       "hidden_tags": [],
       "comments": "0",
       "rating": "0",
