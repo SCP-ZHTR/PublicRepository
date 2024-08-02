@@ -136729,5 +136729,28 @@
       "deleted": false,
       "justified_rating": 2,
       "justified_votes": 2
+   },
+   "1722613819": {
+      "title": "SCP-ZH-267 - 有緣有故",
+      "fullname": "scp-zh-267",
+      "created_at": "1722613819",
+      "created_by": "5338547",
+      "tags": [
+         "2024夏季競賽",
+         "safe",
+         "scp",
+         "site-zh-16",
+         "原創"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1456001497",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
