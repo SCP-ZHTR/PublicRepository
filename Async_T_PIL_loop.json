@@ -139037,5 +139037,35 @@
       "deleted": false,
       "justified_rating": 7,
       "justified_votes": 7
+   },
+   "1722747370": {
+      "title": "SCP-2753 - 來玩疊疊樂！",
+      "fullname": "scp-2753",
+      "created_at": "1722747370",
+      "created_by": "6217438",
+      "tags": [
+         "awcy",
+         "en",
+         "keter",
+         "scp",
+         "建築物",
+         "數學性",
+         "渾沌反叛軍",
+         "熵",
+         "玩具",
+         "翻譯",
+         "藝術性",
+         "遊戲"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1456083263",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
