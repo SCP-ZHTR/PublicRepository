@@ -101908,8 +101908,8 @@
          "_licensebox"
       ],
       "comments": "0",
-      "rating": "13",
-      "votes": "13",
+      "rating": "14",
+      "votes": "14",
       "parent": null,
       "id": "1436209997",
       "detailed_rating": {
@@ -101965,12 +101965,16 @@
             [
                "DELETED",
                1699715076
+            ],
+            [
+               "3981670",
+               1722776393
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 12,
-      "justified_votes": 12
+      "justified_rating": 13,
+      "justified_votes": 13
    },
    "1664646429": {
       "title": "SCP-6871 - 轉眼之間",
