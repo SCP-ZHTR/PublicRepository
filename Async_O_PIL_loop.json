@@ -136858,10 +136858,12 @@
          "中心",
          "原創"
       ],
-      "hidden_tags": [],
+      "hidden_tags": [
+         "_禁黑"
+      ],
       "comments": "0",
-      "rating": "1",
-      "votes": "1",
+      "rating": "3",
+      "votes": "3",
       "parent": null,
       "id": "1456084738",
       "detailed_rating": {
@@ -136869,11 +136871,19 @@
             [
                "6217438",
                1722784162
+            ],
+            [
+               "7073060",
+               1722784300
+            ],
+            [
+               "4239775",
+               1722784300
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 1,
-      "justified_votes": 1
+      "justified_rating": 3,
+      "justified_votes": 3
    }
 }
