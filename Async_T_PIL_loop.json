@@ -121793,8 +121793,8 @@
          "_licensebox"
       ],
       "comments": "2",
-      "rating": "4",
-      "votes": "4",
+      "rating": "5",
+      "votes": "5",
       "parent": null,
       "id": "1448636301",
       "detailed_rating": {
@@ -121814,12 +121814,16 @@
             [
                "8548656",
                1706372737
+            ],
+            [
+               "8480087",
+               1722865171
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 4,
-      "justified_votes": 4
+      "justified_rating": 5,
+      "justified_votes": 5
    },
    "1687792254": {
       "title": "SCP-7278 - 妖精之怒",
