@@ -136806,8 +136806,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "10",
-      "votes": "10",
+      "rating": "11",
+      "votes": "11",
       "parent": null,
       "id": "1456005023",
       "detailed_rating": {
@@ -136851,12 +136851,16 @@
             [
                "8846720",
                1722752093
+            ],
+            [
+               "8883612",
+               1722870993
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 10,
-      "justified_votes": 10
+      "justified_rating": 11,
+      "justified_votes": 11
    },
    "1722783606": {
       "title": "中元恐怖——早梅詩",
