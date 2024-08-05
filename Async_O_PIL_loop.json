@@ -136937,5 +136937,28 @@
       "deleted": false,
       "justified_rating": 15,
       "justified_votes": 15
+   },
+   "1722862654": {
+      "title": "MTF-天紀-17｢金融封鎖」隊徽",
+      "fullname": "logo-discipline-17",
+      "created_at": "1722862654",
+      "created_by": "8883612",
+      "tags": [
+         "原創",
+         "天紀-17",
+         "藝術作品"
+      ],
+      "hidden_tags": [
+         "_cc"
+      ],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1456088089",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
