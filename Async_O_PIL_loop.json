@@ -136867,7 +136867,7 @@
       ],
       "comments": "0",
       "rating": "13",
-      "votes": "13",
+      "votes": "14",
       "parent": null,
       "id": "1456084738",
       "detailed_rating": {
@@ -136923,11 +136923,15 @@
             [
                "7504530",
                1722830750
+            ],
+            [
+               "6503482",
+               1722853059
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 13,
-      "justified_votes": 13
+      "justified_rating": 14,
+      "justified_votes": 14
    }
 }
