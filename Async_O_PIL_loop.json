@@ -136397,13 +136397,14 @@
          "無名",
          "真紀博士",
          "破碎之神教會",
-         "禁黑黑",
          "超形上學部"
       ],
-      "hidden_tags": [],
+      "hidden_tags": [
+         "_禁黑"
+      ],
       "comments": "1",
-      "rating": "19",
-      "votes": "19",
+      "rating": "20",
+      "votes": "20",
       "parent": null,
       "id": "1455946284",
       "detailed_rating": {
@@ -136483,12 +136484,16 @@
             [
                "8452537",
                1722182359
+            ],
+            [
+               "4990678",
+               1722869497
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 19,
-      "justified_votes": 19
+      "justified_rating": 20,
+      "justified_votes": 20
    },
    "1721908799": {
       "title": "SCP-ZH-986 - 奧秘元素方塊：繁中地下城傳奇",
