@@ -59592,8 +59592,8 @@
          "_cc"
       ],
       "comments": "1",
-      "rating": "9",
-      "votes": "9",
+      "rating": "10",
+      "votes": "10",
       "parent": null,
       "id": "1308319344",
       "detailed_rating": {
@@ -59633,12 +59633,16 @@
             [
                "6981058",
                1718086596
+            ],
+            [
+               "7504530",
+               1723036372
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 8,
-      "justified_votes": 8
+      "justified_rating": 9,
+      "justified_votes": 9
    },
    "1616514274": {
       "title": "SCP-5609 - 光蟲",
