@@ -15382,5 +15382,22 @@
       "deleted": true,
       "justified_rating": 0,
       "justified_votes": 0
+   },
+   "1723031916": {
+      "title": "有什麼在燒",
+      "fullname": "something-burning",
+      "created_at": "1723031916",
+      "created_by": "4206567",
+      "tags": [],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1456114347",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
