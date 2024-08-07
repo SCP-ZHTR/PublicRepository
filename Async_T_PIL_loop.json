@@ -139305,5 +139305,34 @@
       "deleted": false,
       "justified_rating": 2,
       "justified_votes": 2
+   },
+   "1723042872": {
+      "title": "SCP-1178 - 漂浮的洲際彈道飛彈",
+      "fullname": "scp-1178",
+      "created_at": "1723042872",
+      "created_by": "7504530",
+      "tags": [
+         "en",
+         "keter",
+         "scp",
+         "可重寫",
+         "放射性",
+         "格魯烏-p-部門",
+         "武器",
+         "空中",
+         "翻譯",
+         "軍事",
+         "通訊"
+      ],
+      "hidden_tags": [],
+      "comments": "1",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1456114949",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
