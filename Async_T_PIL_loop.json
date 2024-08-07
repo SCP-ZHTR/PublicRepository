@@ -139179,8 +139179,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "2",
-      "votes": "2",
+      "rating": "3",
+      "votes": "3",
       "parent": null,
       "id": "1456085681",
       "detailed_rating": {
@@ -139192,12 +139192,16 @@
             [
                "5370805",
                1722863938
+            ],
+            [
+               "6217438",
+               1723037991
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 2,
-      "justified_votes": 2
+      "justified_rating": 3,
+      "justified_votes": 3
    },
    "1722956558": {
       "title": "願太陽永不落於大英帝國",
