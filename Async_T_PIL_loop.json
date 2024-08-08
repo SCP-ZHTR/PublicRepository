@@ -133690,8 +133690,8 @@
          "_cc"
       ],
       "comments": "0",
-      "rating": "2",
-      "votes": "2",
+      "rating": "3",
+      "votes": "3",
       "parent": null,
       "id": "1452607404",
       "detailed_rating": {
@@ -133703,12 +133703,16 @@
             [
                "7504530",
                1708054668
+            ],
+            [
+               "8546930",
+               1723133325
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 2,
-      "justified_votes": 2
+      "justified_rating": 3,
+      "justified_votes": 3
    },
    "1707757012": {
       "title": "SCP-1293-KO - 超越。",
