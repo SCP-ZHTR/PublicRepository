@@ -76701,8 +76701,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "7",
-      "votes": "7",
+      "rating": "8",
+      "votes": "8",
       "parent": null,
       "id": "1329907068",
       "detailed_rating": {
@@ -76734,12 +76734,16 @@
             [
                "DELETED",
                1710762738
+            ],
+            [
+               "8033564",
+               1723126286
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 6,
-      "justified_votes": 6
+      "justified_rating": 7,
+      "justified_votes": 7
    },
    "1636030325": {
       "title": "非異常物品清單",
