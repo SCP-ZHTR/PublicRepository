@@ -139450,5 +139450,26 @@
       "deleted": false,
       "justified_rating": 1,
       "justified_votes": 1
+   },
+   "1723201199": {
+      "title": "亞歷山大燃燒",
+      "fullname": "alexandria-burning",
+      "created_at": "1723201199",
+      "created_by": "6217438",
+      "tags": [
+         "en",
+         "故事",
+         "翻譯"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1456145949",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
