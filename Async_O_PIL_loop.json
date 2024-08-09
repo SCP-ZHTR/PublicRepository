@@ -136891,8 +136891,8 @@
          "_禁黑"
       ],
       "comments": "0",
-      "rating": "17",
-      "votes": "17",
+      "rating": "18",
+      "votes": "18",
       "parent": null,
       "id": "1456084738",
       "detailed_rating": {
@@ -136964,12 +136964,16 @@
             [
                "7198635",
                1723001947
+            ],
+            [
+               "9163798",
+               1723174363
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 17,
-      "justified_votes": 17
+      "justified_rating": 18,
+      "justified_votes": 18
    },
    "1722862654": {
       "title": "MTF-天紀-17「金融封鎖」隊徽",
