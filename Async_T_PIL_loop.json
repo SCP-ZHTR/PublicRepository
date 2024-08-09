@@ -139401,5 +139401,35 @@
       "deleted": false,
       "justified_rating": 2,
       "justified_votes": 2
+   },
+   "1723169605": {
+      "title": "SCP-8808 - 能看見風景的房間",
+      "fullname": "scp-8808",
+      "created_at": "1723169605",
+      "created_by": "6217438",
+      "tags": [
+         "en",
+         "scp",
+         "倫理委員會",
+         "傳染性",
+         "概念",
+         "模因",
+         "機密分級",
+         "深井目錄",
+         "空間影響",
+         "精神影響",
+         "翻譯",
+         "資訊危害"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1456144081",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
