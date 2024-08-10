@@ -15426,5 +15426,22 @@
       "deleted": true,
       "justified_rating": 0,
       "justified_votes": 0
+   },
+   "1723301985": {
+      "title": "喔幹對今天有人要去那個殆瓦墓穴",
+      "fullname": "bro-i-dont-play-yu-gi-oh-what-do-you-expect",
+      "created_at": "1723301985",
+      "created_by": "6709715",
+      "tags": [],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1456170249",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
