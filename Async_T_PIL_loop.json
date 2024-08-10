@@ -20913,8 +20913,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "12",
-      "votes": "12",
+      "rating": "13",
+      "votes": "13",
       "parent": "antimemetics-division-hub",
       "id": "986153734",
       "detailed_rating": {
@@ -20966,12 +20966,16 @@
             [
                "5013754",
                1617120000
+            ],
+            [
+               "9311399",
+               1723270611
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 12,
-      "justified_votes": 12
+      "justified_rating": 13,
+      "justified_votes": 13
    },
    "1579083323": {
       "title": "SCP-SPOOKY-J",
