@@ -13338,8 +13338,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "-1",
-      "votes": "1",
+      "rating": "0",
+      "votes": "2",
       "parent": null,
       "id": "1453040239",
       "detailed_rating": {
@@ -13348,11 +13348,17 @@
                "7144335",
                1721113151
             ]
+         ],
+         "+": [
+            [
+               "5370805",
+               1723406808
+            ]
          ]
       },
       "deleted": false,
-      "justified_rating": -1,
-      "justified_votes": 1
+      "justified_rating": 0,
+      "justified_votes": 2
    },
    "1710426638": {
       "title": "驚蟄",
