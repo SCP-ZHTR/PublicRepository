@@ -28199,8 +28199,8 @@
          "_image"
       ],
       "comments": "0",
-      "rating": "3",
-      "votes": "3",
+      "rating": "4",
+      "votes": "4",
       "parent": null,
       "id": "1002236517",
       "detailed_rating": {
@@ -28216,12 +28216,16 @@
             [
                "7073060",
                1618243200
+            ],
+            [
+               "7513990",
+               1723394827
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 3,
-      "justified_votes": 3
+      "justified_rating": 4,
+      "justified_votes": 4
    },
    "1584880445": {
       "title": "SCP-4046 - 你長大後想成為怎麼樣的人?",
