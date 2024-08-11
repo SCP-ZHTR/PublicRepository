@@ -137077,8 +137077,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "4",
-      "votes": "4",
+      "rating": "5",
+      "votes": "5",
       "parent": "scp-zh-209",
       "id": "1456170249",
       "detailed_rating": {
@@ -137098,11 +137098,15 @@
             [
                "5370805",
                1723335381
+            ],
+            [
+               "8546930",
+               1723382492
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 4,
-      "justified_votes": 4
+      "justified_rating": 5,
+      "justified_votes": 5
    }
 }
