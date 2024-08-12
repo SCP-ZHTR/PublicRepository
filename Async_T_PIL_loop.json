@@ -126040,8 +126040,8 @@
          "_licensebox"
       ],
       "comments": "0",
-      "rating": "1",
-      "votes": "1",
+      "rating": "2",
+      "votes": "2",
       "parent": null,
       "id": "1450299054",
       "detailed_rating": {
@@ -126049,12 +126049,16 @@
             [
                "8792088",
                1698848932
+            ],
+            [
+               "7064164",
+               1723444932
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 1,
-      "justified_votes": 1
+      "justified_rating": 2,
+      "justified_votes": 2
    },
    "1696348802": {
       "title": "SCP-3423-JP - 無端自殺",
