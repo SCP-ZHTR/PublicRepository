@@ -135751,8 +135751,8 @@
          "_第一使命"
       ],
       "comments": "0",
-      "rating": "10",
-      "votes": "10",
+      "rating": "11",
+      "votes": "11",
       "parent": null,
       "id": "1453996473",
       "detailed_rating": {
@@ -135796,12 +135796,16 @@
             [
                "6217438",
                1718466597
+            ],
+            [
+               "7073060",
+               1723421176
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 10,
-      "justified_votes": 10
+      "justified_rating": 11,
+      "justified_votes": 11
    },
    "1717862246": {
       "title": "SCP-ZH-607 - 碳壓矽",
