@@ -137136,5 +137136,33 @@
       "deleted": false,
       "justified_rating": 6,
       "justified_votes": 6
+   },
+   "1723557861": {
+      "title": "SCP-ZH-498 - 割勿骨",
+      "fullname": "scp-zh-498",
+      "created_at": "1723557861",
+      "created_by": "8543386",
+      "tags": [
+         "euclid",
+         "scp",
+         "人形",
+         "人造物品",
+         "化學性",
+         "原創",
+         "反物理定律",
+         "活物",
+         "繁廣",
+         "腐蝕性"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1456184272",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
