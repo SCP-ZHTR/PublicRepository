@@ -137157,8 +137157,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "10",
-      "votes": "10",
+      "rating": "11",
+      "votes": "11",
       "parent": null,
       "id": "1456184272",
       "detailed_rating": {
@@ -137202,12 +137202,16 @@
             [
                "8452537",
                1723628849
+            ],
+            [
+               "5251681",
+               1723629122
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 10,
-      "justified_votes": 10
+      "justified_rating": 11,
+      "justified_votes": 11
    },
    "1723602880": {
       "title": "SCP-ZH-249 - 東是「敵愾」",
