@@ -137204,5 +137204,39 @@
       "deleted": false,
       "justified_rating": 9,
       "justified_votes": 9
+   },
+   "1723602880": {
+      "title": "SCP-ZH-249",
+      "fullname": "scp-zh-249",
+      "created_at": "1723602880",
+      "created_by": "6952002",
+      "tags": [
+         "2024中元恐怖",
+         "safe",
+         "scp",
+         "原創",
+         "嗅覺影響",
+         "屍體",
+         "幻覺",
+         "建築物",
+         "強迫性",
+         "時空",
+         "時間影響",
+         "活物",
+         "肉食性",
+         "視覺性",
+         "觸覺影響",
+         "認知危害"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1456189215",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
