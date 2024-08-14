@@ -26810,5 +26810,22 @@
       "deleted": false,
       "justified_rating": 0,
       "justified_votes": 0
+   },
+   "1723653008": {
+      "title": "fragment:SCP-ZH-420-2",
+      "fullname": "fragment:scp-zh-420-2",
+      "created_at": "1723653008",
+      "created_by": "5255954",
+      "tags": [],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1456249952",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
