@@ -137463,5 +137463,32 @@
       "deleted": false,
       "justified_rating": 20,
       "justified_votes": 20
+   },
+   "1723737330": {
+      "title": "SCP-ZH-425 - 破是「破洞」",
+      "fullname": "scp-zh-425",
+      "created_at": "1723737330",
+      "created_by": "5565302",
+      "tags": [
+         "2024中元恐怖",
+         "2024夏季競賽",
+         "awcy",
+         "meta",
+         "safe",
+         "scp",
+         "原創",
+         "空間",
+         "重力"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1456300605",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
