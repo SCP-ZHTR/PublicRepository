@@ -78712,8 +78712,8 @@
       ],
       "hidden_tags": [],
       "comments": "6",
-      "rating": "25",
-      "votes": "25",
+      "rating": "26",
+      "votes": "26",
       "parent": null,
       "id": "1317395381",
       "detailed_rating": {
@@ -78817,12 +78817,16 @@
             [
                "DELETED",
                1695270804
+            ],
+            [
+               "9340368",
+               1723814892
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 24,
-      "justified_votes": 24
+      "justified_rating": 25,
+      "justified_votes": 25
    },
    "1630038251": {
       "title": "《臺北市私立大稻埕高級中學校歌》",
