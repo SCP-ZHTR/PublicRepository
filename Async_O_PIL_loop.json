@@ -6878,8 +6878,8 @@
          "_info"
       ],
       "comments": "6",
-      "rating": "11",
-      "votes": "11",
+      "rating": "12",
+      "votes": "12",
       "parent": "guide-hub",
       "id": "757295846",
       "detailed_rating": {
@@ -6927,12 +6927,16 @@
             [
                "4351112",
                1617120000
+            ],
+            [
+               "9340368",
+               1723835373
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 11,
-      "justified_votes": 11
+      "justified_rating": 12,
+      "justified_votes": 12
    },
    "1556114948": {
       "title": "SCP-ZH-118 - 荒謬的和平鴿",
