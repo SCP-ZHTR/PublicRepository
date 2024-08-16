@@ -139507,8 +139507,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "4",
-      "votes": "4",
+      "rating": "5",
+      "votes": "5",
       "parent": null,
       "id": "1456145949",
       "detailed_rating": {
@@ -139528,12 +139528,16 @@
             [
                "8546930",
                1723382091
+            ],
+            [
+               "8607832",
+               1723793481
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 4,
-      "justified_votes": 4
+      "justified_rating": 5,
+      "justified_votes": 5
    },
    "1723211659": {
       "title": "扮神",
