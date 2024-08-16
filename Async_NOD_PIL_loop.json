@@ -3665,8 +3665,8 @@
          "_cc"
       ],
       "comments": "0",
-      "rating": "10",
-      "votes": "10",
+      "rating": "11",
+      "votes": "11",
       "parent": null,
       "id": "986095591",
       "detailed_rating": {
@@ -3710,12 +3710,16 @@
             [
                "5435485",
                1689145478
+            ],
+            [
+               "9075244",
+               1723806039
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 10,
-      "justified_votes": 10
+      "justified_rating": 11,
+      "justified_votes": 11
    },
    "1579530091": {
       "title": "超形上學部 外觀主題",
