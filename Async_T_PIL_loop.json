@@ -111827,8 +111827,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "23",
-      "votes": "23",
+      "rating": "24",
+      "votes": "24",
       "parent": "scp-anthology-hub",
       "id": "1446075364",
       "detailed_rating": {
@@ -111924,12 +111924,16 @@
             [
                "5981123",
                1718653236
+            ],
+            [
+               "9340368",
+               1723841128
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 22,
-      "justified_votes": 22
+      "justified_rating": 23,
+      "justified_votes": 23
    },
    "1675866835": {
       "title": "SCP-7686 - R是「重塑」（Reshape）",
