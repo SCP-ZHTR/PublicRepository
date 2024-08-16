@@ -123775,8 +123775,8 @@
          "_licensebox"
       ],
       "comments": "1",
-      "rating": "38",
-      "votes": "38",
+      "rating": "39",
+      "votes": "39",
       "parent": null,
       "id": "1450927014",
       "detailed_rating": {
@@ -123932,12 +123932,16 @@
             [
                "8546930",
                1720624171
+            ],
+            [
+               "9075244",
+               1723807788
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 38,
-      "justified_votes": 38
+      "justified_rating": 39,
+      "justified_votes": 39
    },
    "1698203871": {
       "title": "ting129的提案一",
