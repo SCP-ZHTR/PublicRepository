@@ -10504,8 +10504,8 @@
          "_info"
       ],
       "comments": "5",
-      "rating": "75",
-      "votes": "75",
+      "rating": "76",
+      "votes": "76",
       "parent": null,
       "id": "833420456",
       "detailed_rating": {
@@ -10809,12 +10809,16 @@
             [
                "5981123",
                1719421669
+            ],
+            [
+               "9340368",
+               1723840159
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 74,
-      "justified_votes": 74
+      "justified_rating": 75,
+      "justified_votes": 75
    },
    "1562467167": {
       "title": "NSB-8新進人員教程: 何謂colony",
@@ -61392,8 +61396,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "59",
-      "votes": "61",
+      "rating": "60",
+      "votes": "62",
       "parent": null,
       "id": "1306901310",
       "detailed_rating": {
@@ -61637,6 +61641,10 @@
             [
                "DELETED",
                "[UNKNOWN]"
+            ],
+            [
+               "9340368",
+               1723840159
             ]
          ],
          "-": [
@@ -61647,8 +61655,8 @@
          ]
       },
       "deleted": false,
-      "justified_rating": 57,
-      "justified_votes": 59
+      "justified_rating": 58,
+      "justified_votes": 60
    },
    "1613313860": {
       "title": "沒什麼，只是一張老照片",
