@@ -71201,8 +71201,8 @@
          "_禁黑"
       ],
       "comments": "9",
-      "rating": "10",
-      "votes": "12",
+      "rating": "11",
+      "votes": "13",
       "parent": null,
       "id": "1311645353",
       "detailed_rating": {
@@ -71250,6 +71250,10 @@
             [
                "5370805",
                1723765748
+            ],
+            [
+               "9075244",
+               1723806981
             ]
          ],
          "-": [
@@ -71260,8 +71264,8 @@
          ]
       },
       "deleted": false,
-      "justified_rating": 10,
-      "justified_votes": 12
+      "justified_rating": 11,
+      "justified_votes": 13
    },
    "1621776039": {
       "title": "砧板上的墨跡",
