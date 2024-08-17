@@ -15538,5 +15538,22 @@
       "deleted": true,
       "justified_rating": 0,
       "justified_votes": 0
+   },
+   "1723910407": {
+      "title": "SCP-ZH-715 - 梅是「門禁」",
+      "fullname": "scp-zh-715",
+      "created_at": "1723910407",
+      "created_by": "5325850",
+      "tags": [],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1456371039",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
