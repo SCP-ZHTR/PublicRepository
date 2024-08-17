@@ -107400,8 +107400,8 @@
          "_licensebox"
       ],
       "comments": "0",
-      "rating": "5",
-      "votes": "5",
+      "rating": "6",
+      "votes": "6",
       "parent": null,
       "id": "1444528627",
       "detailed_rating": {
@@ -107425,12 +107425,16 @@
             [
                "7073060",
                1723858654
+            ],
+            [
+               "8846720",
+               1723858928
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 4,
-      "justified_votes": 4
+      "justified_rating": 5,
+      "justified_votes": 5
    },
    "1671340723": {
       "title": "SCP-092 - 「第五維度」精選集",
