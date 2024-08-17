@@ -137732,5 +137732,27 @@
       "deleted": false,
       "justified_rating": 8,
       "justified_votes": 8
+   },
+   "1723917039": {
+      "title": "SCP-ZH-068 - 霧中泡影",
+      "fullname": "scp-zh-068",
+      "created_at": "1723917039",
+      "created_by": "5338547",
+      "tags": [
+         "2024夏季競賽",
+         "scp",
+         "原創",
+         "機密分級"
+      ],
+      "hidden_tags": [],
+      "comments": "1",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1456374926",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
