@@ -139695,5 +139695,28 @@
       "deleted": false,
       "justified_rating": 0,
       "justified_votes": 0
+   },
+   "1723891110": {
+      "title": "SCP-5271－有一位神，而他是一隻企鵝",
+      "fullname": "scp-5271",
+      "created_at": "1723891110",
+      "created_by": "4206567",
+      "tags": [
+         "en",
+         "euclid",
+         "scp",
+         "翻譯",
+         "鳥類"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1456360242",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
