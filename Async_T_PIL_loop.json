@@ -139716,5 +139716,31 @@
       "deleted": false,
       "justified_rating": 1,
       "justified_votes": 1
+   },
+   "1723909025": {
+      "title": "SCP-530",
+      "fullname": "scp-530",
+      "created_at": "1723909025",
+      "created_by": "9340368",
+      "tags": [
+         "en",
+         "safe",
+         "scp",
+         "動物",
+         "型態變化",
+         "活物",
+         "犬類",
+         "翻譯"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1456370293",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
