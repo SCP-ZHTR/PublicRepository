@@ -137610,5 +137610,29 @@
       "deleted": false,
       "justified_rating": 13,
       "justified_votes": 13
+   },
+   "1723867205": {
+      "title": "SCP-ZH-454 - 早是「滋潤」",
+      "fullname": "scp-zh-454",
+      "created_at": "1723867205",
+      "created_by": "6503482",
+      "tags": [
+         "2024中元恐怖",
+         "k級情景",
+         "safe",
+         "scp",
+         "原創",
+         "晶體"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1456346392",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
