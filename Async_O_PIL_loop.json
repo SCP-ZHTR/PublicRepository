@@ -137101,8 +137101,8 @@
          "_禁黑"
       ],
       "comments": "1",
-      "rating": "4",
-      "votes": "4",
+      "rating": "5",
+      "votes": "5",
       "parent": null,
       "id": "1456088089",
       "detailed_rating": {
@@ -137122,12 +137122,16 @@
             [
                "9075244",
                1722947686
+            ],
+            [
+               "4239775",
+               1723958950
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 4,
-      "justified_votes": 4
+      "justified_rating": 5,
+      "justified_votes": 5
    },
    "1722878468": {
       "title": "MTF-車肆-8 「血拼人潮」隊徽",
@@ -137140,8 +137144,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "3",
-      "votes": "3",
+      "rating": "4",
+      "votes": "4",
       "parent": null,
       "id": "1456088675",
       "detailed_rating": {
@@ -137157,12 +137161,16 @@
             [
                "8883612",
                1722926238
+            ],
+            [
+               "4239775",
+               1723958950
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 3,
-      "justified_votes": 3
+      "justified_rating": 4,
+      "justified_votes": 4
    },
    "1723301985": {
       "title": "喔幹對今天有人要去那個殆瓦墓穴",
