@@ -137692,7 +137692,7 @@
          "原創"
       ],
       "hidden_tags": [],
-      "comments": "0",
+      "comments": "1",
       "rating": "10",
       "votes": "10",
       "parent": null,
@@ -137795,8 +137795,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "7",
-      "votes": "7",
+      "rating": "8",
+      "votes": "8",
       "parent": null,
       "id": "1456382600",
       "detailed_rating": {
@@ -137828,11 +137828,15 @@
             [
                "6503482",
                1723944713
+            ],
+            [
+               "7073060",
+               1723952250
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 7,
-      "justified_votes": 7
+      "justified_rating": 8,
+      "justified_votes": 8
    }
 }
