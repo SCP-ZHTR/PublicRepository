@@ -27403,8 +27403,8 @@
          "_info"
       ],
       "comments": "1",
-      "rating": "9",
-      "votes": "9",
+      "rating": "10",
+      "votes": "10",
       "parent": null,
       "id": "986148712",
       "detailed_rating": {
@@ -27444,12 +27444,16 @@
             [
                "5415046",
                1617120000
+            ],
+            [
+               "9340368",
+               1723992956
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 9,
-      "justified_votes": 9
+      "justified_rating": 10,
+      "justified_votes": 10
    },
    "1578844158": {
       "title": "貓耳日",
