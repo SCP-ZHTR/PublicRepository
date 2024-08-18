@@ -137790,8 +137790,8 @@
       ],
       "hidden_tags": [],
       "comments": "4",
-      "rating": "4",
-      "votes": "4",
+      "rating": "5",
+      "votes": "5",
       "parent": null,
       "id": "1456374926",
       "detailed_rating": {
@@ -137811,12 +137811,16 @@
             [
                "8846720",
                1723985716
+            ],
+            [
+               "4990678",
+               1723998236
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 4,
-      "justified_votes": 4
+      "justified_rating": 5,
+      "justified_votes": 5
    },
    "1723941451": {
       "title": "破是「Professional」",
