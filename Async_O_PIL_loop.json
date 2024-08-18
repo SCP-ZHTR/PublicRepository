@@ -51060,8 +51060,8 @@
          "_cc"
       ],
       "comments": "0",
-      "rating": "44",
-      "votes": "46",
+      "rating": "45",
+      "votes": "47",
       "parent": null,
       "id": "1277569540",
       "detailed_rating": {
@@ -51245,6 +51245,10 @@
             [
                "8543386",
                1713680466
+            ],
+            [
+               "9340368",
+               1723966082
             ]
          ],
          "-": [
@@ -51255,8 +51259,8 @@
          ]
       },
       "deleted": false,
-      "justified_rating": 43,
-      "justified_votes": 45
+      "justified_rating": 44,
+      "justified_votes": 46
    },
    "1599654620": {
       "title": "蛛網國際 中心頁",
