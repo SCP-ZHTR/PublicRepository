@@ -122948,8 +122948,8 @@
          "_licensebox"
       ],
       "comments": "4",
-      "rating": "5",
-      "votes": "5",
+      "rating": "6",
+      "votes": "6",
       "parent": null,
       "id": "1449018190",
       "detailed_rating": {
@@ -122973,12 +122973,16 @@
             [
                "8543386",
                1709908360
+            ],
+            [
+               "9340368",
+               1723992408
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 5,
-      "justified_votes": 5
+      "justified_rating": 6,
+      "justified_votes": 6
    },
    "1689344255": {
       "title": "項目等級的起源",
