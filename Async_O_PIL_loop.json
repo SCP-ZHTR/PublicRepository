@@ -133824,8 +133824,8 @@
          "_共和國士兵"
       ],
       "comments": "1",
-      "rating": "25",
-      "votes": "25",
+      "rating": "26",
+      "votes": "26",
       "parent": null,
       "id": "1453799022",
       "detailed_rating": {
@@ -133929,12 +133929,16 @@
             [
                "8883612",
                1718467141
+            ],
+            [
+               "7318709",
+               1723975364
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 25,
-      "justified_votes": 25
+      "justified_rating": 26,
+      "justified_votes": 26
    },
    "1716653144": {
       "title": "SCP-ZH-373 - 貳佰陸拾叄號水泥-繁廣化工製造",
@@ -137778,8 +137782,8 @@
       ],
       "hidden_tags": [],
       "comments": "4",
-      "rating": "3",
-      "votes": "3",
+      "rating": "2",
+      "votes": "4",
       "parent": null,
       "id": "1456374926",
       "detailed_rating": {
@@ -137796,11 +137800,17 @@
                "8883612",
                1723942521
             ]
+         ],
+         "-": [
+            [
+               "7318709",
+               1723975364
+            ]
          ]
       },
       "deleted": false,
-      "justified_rating": 3,
-      "justified_votes": 3
+      "justified_rating": 2,
+      "justified_votes": 4
    },
    "1723941451": {
       "title": "破是「Professional」",
