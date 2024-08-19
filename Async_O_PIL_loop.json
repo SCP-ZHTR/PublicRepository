@@ -137859,8 +137859,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "12",
-      "votes": "12",
+      "rating": "13",
+      "votes": "13",
       "parent": null,
       "id": "1456382600",
       "detailed_rating": {
@@ -137912,12 +137912,16 @@
             [
                "7605593",
                1724033423
+            ],
+            [
+               "7840542",
+               1724064197
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 12,
-      "justified_votes": 12
+      "justified_rating": 13,
+      "justified_votes": 13
    },
    "1723980703": {
       "title": "SCP-ZH-161 - Alex Thorley朝九晚五地工作",
