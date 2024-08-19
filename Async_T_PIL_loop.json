@@ -139853,5 +139853,33 @@
       "deleted": false,
       "justified_rating": 2,
       "justified_votes": 2
+   },
+   "1724071247": {
+      "title": "SCP-1266 – 二疊紀方舟",
+      "fullname": "scp-1266",
+      "created_at": "1724071247",
+      "created_by": "8136462",
+      "tags": [
+         "en",
+         "euclid",
+         "scp",
+         "不可摧毀",
+         "不可移動",
+         "人造物品",
+         "反熵",
+         "空中",
+         "翻譯",
+         "銘文"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1456437379",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
