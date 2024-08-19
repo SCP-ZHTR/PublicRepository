@@ -37424,8 +37424,8 @@
          "_cc"
       ],
       "comments": "3",
-      "rating": "9",
-      "votes": "9",
+      "rating": "10",
+      "votes": "10",
       "parent": null,
       "id": "1060185884",
       "detailed_rating": {
@@ -37465,12 +37465,16 @@
             [
                "4107284",
                1617120000
+            ],
+            [
+               "5327537",
+               1724045803
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 9,
-      "justified_votes": 9
+      "justified_rating": 10,
+      "justified_votes": 10
    },
    "1590241046": {
       "title": "國內特別注意區：戀昏崎",
