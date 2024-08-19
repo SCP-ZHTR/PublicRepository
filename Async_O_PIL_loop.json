@@ -137585,8 +137585,8 @@
       ],
       "hidden_tags": [],
       "comments": "2",
-      "rating": "15",
-      "votes": "15",
+      "rating": "16",
+      "votes": "16",
       "parent": null,
       "id": "1456300605",
       "detailed_rating": {
@@ -137650,12 +137650,16 @@
             [
                "7513990",
                1723966925
+            ],
+            [
+               "7605593",
+               1724033423
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 15,
-      "justified_votes": 15
+      "justified_rating": 16,
+      "justified_votes": 16
    },
    "1723867205": {
       "title": "SCP-ZH-454 - 早是「滋潤」",
@@ -137672,8 +137676,8 @@
       ],
       "hidden_tags": [],
       "comments": "3",
-      "rating": "7",
-      "votes": "7",
+      "rating": "8",
+      "votes": "8",
       "parent": null,
       "id": "1456346392",
       "detailed_rating": {
@@ -137705,12 +137709,16 @@
             [
                "8404617",
                1723951834
+            ],
+            [
+               "7605593",
+               1724033423
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 7,
-      "justified_votes": 7
+      "justified_rating": 8,
+      "justified_votes": 8
    },
    "1723910407": {
       "title": "SCP-ZH-715 - 梅是「門禁」",
@@ -137725,8 +137733,8 @@
       ],
       "hidden_tags": [],
       "comments": "2",
-      "rating": "10",
-      "votes": "10",
+      "rating": "11",
+      "votes": "11",
       "parent": null,
       "id": "1456371039",
       "detailed_rating": {
@@ -137770,12 +137778,16 @@
             [
                "8404617",
                1723952109
+            ],
+            [
+               "7605593",
+               1724033423
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 10,
-      "justified_votes": 10
+      "justified_rating": 11,
+      "justified_votes": 11
    },
    "1723917039": {
       "title": "SCP-ZH-068 - 霧中泡影",
@@ -137835,8 +137847,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "11",
-      "votes": "11",
+      "rating": "12",
+      "votes": "12",
       "parent": null,
       "id": "1456382600",
       "detailed_rating": {
@@ -137884,12 +137896,16 @@
             [
                "5565302",
                1724027130
+            ],
+            [
+               "7605593",
+               1724033423
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 11,
-      "justified_votes": 11
+      "justified_rating": 12,
+      "justified_votes": 12
    },
    "1723980703": {
       "title": "SCP-ZH-161 - Alex Thorley朝九晚五地工作",
@@ -137945,5 +137961,31 @@
       "deleted": false,
       "justified_rating": 6,
       "justified_votes": 6
+   },
+   "1724033299": {
+      "title": "SCP-ZH-737 - 向是「新建項目」",
+      "fullname": "scp-zh-737",
+      "created_at": "1724033299",
+      "created_by": "5252281",
+      "tags": [
+         "meta",
+         "scp",
+         "原創",
+         "未收容",
+         "模因效應",
+         "機密分級",
+         "記憶影響",
+         "逆模因"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1456415751",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
