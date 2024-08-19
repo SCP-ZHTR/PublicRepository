@@ -15596,5 +15596,22 @@
       "deleted": true,
       "justified_rating": 0,
       "justified_votes": 0
+   },
+   "1724103117": {
+      "title": "SCP-ZH-754 - 暖是「您的話語」",
+      "fullname": "scp-zh-754",
+      "created_at": "1724103117",
+      "created_by": "5251681",
+      "tags": [],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1456442383",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
