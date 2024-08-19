@@ -137926,8 +137926,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "6",
-      "votes": "6",
+      "rating": "7",
+      "votes": "7",
       "parent": null,
       "id": "1456384302",
       "detailed_rating": {
@@ -137955,12 +137955,16 @@
             [
                "4990678",
                1724024065
+            ],
+            [
+               "8404617",
+               1724033835
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 6,
-      "justified_votes": 6
+      "justified_rating": 7,
+      "justified_votes": 7
    },
    "1724033299": {
       "title": "SCP-ZH-737 - 向是「新建項目」",
