@@ -138055,5 +138055,30 @@
       "deleted": false,
       "justified_rating": 7,
       "justified_votes": 7
+   },
+   "1724103117": {
+      "title": "SCP-ZH-754 - 暖是「您的話語」",
+      "fullname": "scp-zh-754",
+      "created_at": "1724103117",
+      "created_by": "5251681",
+      "tags": [
+         "2024中元恐怖",
+         "safe",
+         "scp",
+         "原創",
+         "強迫性",
+         "植物",
+         "逆模因"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1456442383",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
