@@ -139728,8 +139728,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "2",
-      "votes": "2",
+      "rating": "3",
+      "votes": "3",
       "parent": null,
       "id": "1456360242",
       "detailed_rating": {
@@ -139741,12 +139741,16 @@
             [
                "9340368",
                1723911489
+            ],
+            [
+               "4206567",
+               1724173402
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 2,
-      "justified_votes": 2
+      "justified_rating": 3,
+      "justified_votes": 3
    },
    "1723909025": {
       "title": "SCP-530 - 多變的狗勾Carl",
@@ -140000,14 +140004,21 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "0",
-      "votes": "0",
+      "rating": "1",
+      "votes": "1",
       "parent": null,
       "id": "1456444130",
-      "detailed_rating": {},
+      "detailed_rating": {
+         "+": [
+            [
+               "6981058",
+               1724173402
+            ]
+         ]
+      },
       "deleted": false,
-      "justified_rating": 0,
-      "justified_votes": 0
+      "justified_rating": 1,
+      "justified_votes": 1
    },
    "1724146562": {
       "title": "SCP-3114 - 會不會稍微冷顫了點？",
@@ -140027,7 +140038,7 @@
          "骨骼"
       ],
       "hidden_tags": [],
-      "comments": "2",
+      "comments": "3",
       "rating": "0",
       "votes": "0",
       "parent": null,
