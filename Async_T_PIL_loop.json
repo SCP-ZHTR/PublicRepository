@@ -139935,5 +139935,35 @@
       "deleted": false,
       "justified_rating": 0,
       "justified_votes": 0
+   },
+   "1724145728": {
+      "title": "SCP-4364 - 何不食肉糜",
+      "fullname": "scp-4364",
+      "created_at": "1724145728",
+      "created_by": "8452537",
+      "tags": [
+         "en",
+         "euclid",
+         "meta",
+         "scp",
+         "人形",
+         "宗教",
+         "展出",
+         "智能",
+         "生物性",
+         "空間影響",
+         "翻譯",
+         "藝術性"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1456444084",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
