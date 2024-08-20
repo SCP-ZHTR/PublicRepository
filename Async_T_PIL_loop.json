@@ -140026,5 +140026,33 @@
       "deleted": false,
       "justified_rating": 0,
       "justified_votes": 0
+   },
+   "1724146562": {
+      "title": "SCP-3114 - 會不會稍微冷顫了點？",
+      "fullname": "scp-3114",
+      "created_at": "1724146562",
+      "created_by": "8452537",
+      "tags": [
+         "en",
+         "euclid",
+         "scp",
+         "人形",
+         "敵意",
+         "生物性",
+         "異常移動",
+         "翻譯",
+         "自我修復",
+         "骨骼"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1456444138",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
