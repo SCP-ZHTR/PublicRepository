@@ -26988,5 +26988,22 @@
       "deleted": false,
       "justified_rating": 0,
       "justified_votes": 0
+   },
+   "1724161411": {
+      "title": "SCP-3708",
+      "fullname": "reserve:scp-3708",
+      "created_at": "1724161411",
+      "created_by": "9340368",
+      "tags": [],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1456445246",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
