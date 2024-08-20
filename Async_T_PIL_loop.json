@@ -116544,8 +116544,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "1",
-      "votes": "1",
+      "rating": "2",
+      "votes": "2",
       "parent": null,
       "id": "1447034614",
       "detailed_rating": {
@@ -116553,12 +116553,16 @@
             [
                "5701756",
                1681184417
+            ],
+            [
+               "9340368",
+               1724174499
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 1,
-      "justified_votes": 1
+      "justified_rating": 2,
+      "justified_votes": 2
    },
    "1680399123": {
       "title": "SCP-4001 - 永恆亞歷山大",
