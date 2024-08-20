@@ -139716,14 +139716,21 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "0",
-      "votes": "0",
+      "rating": "1",
+      "votes": "1",
       "parent": null,
       "id": "1456358318",
-      "detailed_rating": {},
+      "detailed_rating": {
+         "+": [
+            [
+               "7504530",
+               1724118886
+            ]
+         ]
+      },
       "deleted": false,
-      "justified_rating": 0,
-      "justified_votes": 0
+      "justified_rating": 1,
+      "justified_votes": 1
    },
    "1723891110": {
       "title": "SCP-5271 - 有一位神，而他是一隻企鵝",

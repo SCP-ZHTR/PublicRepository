@@ -137688,8 +137688,8 @@
       ],
       "hidden_tags": [],
       "comments": "3",
-      "rating": "11",
-      "votes": "11",
+      "rating": "12",
+      "votes": "12",
       "parent": null,
       "id": "1456346392",
       "detailed_rating": {
@@ -137737,12 +137737,16 @@
             [
                "5370805",
                1724084501
+            ],
+            [
+               "7504530",
+               1724118884
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 11,
-      "justified_votes": 11
+      "justified_rating": 12,
+      "justified_votes": 12
    },
    "1723910407": {
       "title": "SCP-ZH-715 - 梅是「門禁」",
