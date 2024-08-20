@@ -138219,5 +138219,32 @@
       "deleted": false,
       "justified_rating": 8,
       "justified_votes": 8
+   },
+   "1724167040": {
+      "title": "SCP-ZH-802 - 利刃所向",
+      "fullname": "scp-zh-802",
+      "created_at": "1724167040",
+      "created_by": "4239775",
+      "tags": [
+         "keter",
+         "scp",
+         "site-zh-50",
+         "site-zh-62",
+         "原創",
+         "未收容",
+         "核裂擠兌",
+         "猩紅之王",
+         "雙城作戰"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1456473643",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
