@@ -139899,5 +139899,41 @@
       "deleted": false,
       "justified_rating": 1,
       "justified_votes": 1
+   },
+   "1724145458": {
+      "title": "SCP-4910 - 齜笑魔",
+      "fullname": "scp-4910",
+      "created_at": "1724145458",
+      "created_by": "8452537",
+      "tags": [
+         "en",
+         "keter",
+         "scp",
+         "傳染性",
+         "動物",
+         "反熵",
+         "掠食性",
+         "未收容",
+         "活物",
+         "牙齒",
+         "生殖性",
+         "生物性",
+         "翻譯",
+         "視覺性",
+         "觀察影響",
+         "認知危害",
+         "變形",
+         "重寫"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1456444076",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
