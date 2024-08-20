@@ -15678,7 +15678,7 @@
       "parent": null,
       "id": "1456475154",
       "detailed_rating": {},
-      "deleted": false,
+      "deleted": true,
       "justified_rating": 0,
       "justified_votes": 0
    },
@@ -15695,7 +15695,7 @@
       "parent": null,
       "id": "1456475156",
       "detailed_rating": {},
-      "deleted": false,
+      "deleted": true,
       "justified_rating": 0,
       "justified_votes": 0
    },
@@ -15712,7 +15712,7 @@
       "parent": null,
       "id": "1456475157",
       "detailed_rating": {},
-      "deleted": false,
+      "deleted": true,
       "justified_rating": 0,
       "justified_votes": 0
    }
