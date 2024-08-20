@@ -138112,8 +138112,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "5",
-      "votes": "5",
+      "rating": "6",
+      "votes": "6",
       "parent": null,
       "id": "1456442383",
       "detailed_rating": {
@@ -138137,12 +138137,16 @@
             [
                "7840542",
                1724146983
+            ],
+            [
+               "5013754",
+               1724147822
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 5,
-      "justified_votes": 5
+      "justified_rating": 6,
+      "justified_votes": 6
    },
    "1724128528": {
       "title": "SCP-ZH-234 - 衛生紙不進馬桶",
