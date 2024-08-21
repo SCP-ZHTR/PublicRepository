@@ -136320,8 +136320,8 @@
       ],
       "hidden_tags": [],
       "comments": "7",
-      "rating": "4",
-      "votes": "4",
+      "rating": "5",
+      "votes": "5",
       "parent": null,
       "id": "1455879932",
       "detailed_rating": {
@@ -136341,12 +136341,16 @@
             [
                "2960074",
                1723711194
+            ],
+            [
+               "8883612",
+               1724243322
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 4,
-      "justified_votes": 4
+      "justified_rating": 5,
+      "justified_votes": 5
    },
    "1721400674": {
       "title": "煉",
