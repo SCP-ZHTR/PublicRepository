@@ -26730,8 +26730,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "6",
-      "votes": "6",
+      "rating": "7",
+      "votes": "7",
       "parent": null,
       "id": "1002112756",
       "detailed_rating": {
@@ -26759,12 +26759,16 @@
             [
                "3981670",
                1617120000
+            ],
+            [
+               "9340368",
+               1724260780
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 6,
-      "justified_votes": 6
+      "justified_rating": 7,
+      "justified_votes": 7
    },
    "1584372068": {
       "title": "派克先生",
@@ -33957,8 +33961,8 @@
          "_image"
       ],
       "comments": "3",
-      "rating": "7",
-      "votes": "7",
+      "rating": "8",
+      "votes": "8",
       "parent": null,
       "id": "1031594356",
       "detailed_rating": {
@@ -33990,12 +33994,16 @@
             [
                "5454699",
                1617120000
+            ],
+            [
+               "9340368",
+               1724260780
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 7,
-      "justified_votes": 7
+      "justified_rating": 8,
+      "justified_votes": 8
    },
    "1588262973": {
       "title": "7. ██先生",
