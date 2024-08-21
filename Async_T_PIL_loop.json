@@ -42712,8 +42712,8 @@
          "_cc"
       ],
       "comments": "3",
-      "rating": "33",
-      "votes": "33",
+      "rating": "34",
+      "votes": "34",
       "parent": null,
       "id": "1260816880",
       "detailed_rating": {
@@ -42849,12 +42849,16 @@
             [
                "7558128",
                1721714311
+            ],
+            [
+               "9311399",
+               1724234422
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 33,
-      "justified_votes": 33
+      "justified_rating": 34,
+      "justified_votes": 34
    },
    "1597653377": {
       "title": "舞台設置",
@@ -44092,8 +44096,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "7",
-      "votes": "7",
+      "rating": "8",
+      "votes": "8",
       "parent": "scpdeclassified",
       "id": "1267859172",
       "detailed_rating": {
@@ -44125,12 +44129,16 @@
             [
                "5223229",
                1673712000
+            ],
+            [
+               "9311399",
+               1724234422
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 7,
-      "justified_votes": 7
+      "justified_rating": 8,
+      "justified_votes": 8
    },
    "1599192255": {
       "title": "並未消逝",
