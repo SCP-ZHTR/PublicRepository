@@ -15749,5 +15749,22 @@
       "deleted": true,
       "justified_rating": 0,
       "justified_votes": 0
+   },
+   "1724256065": {
+      "title": "SCP-ZH-787 - 枝是「鐘點」",
+      "fullname": "scp-zh-787",
+      "created_at": "1724256065",
+      "created_by": "5338547",
+      "tags": [],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1456481157",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
