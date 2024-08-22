@@ -15766,5 +15766,22 @@
       "deleted": true,
       "justified_rating": 0,
       "justified_votes": 0
+   },
+   "1724342750": {
+      "title": "SCP-ZH-792 - 開是「鯨吞」",
+      "fullname": "scp-zh-792",
+      "created_at": "1724342750",
+      "created_by": "5370805",
+      "tags": [],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1456513082",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
