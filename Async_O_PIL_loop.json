@@ -63648,8 +63648,8 @@
          "_image"
       ],
       "comments": "3",
-      "rating": "22",
-      "votes": "22",
+      "rating": "23",
+      "votes": "23",
       "parent": null,
       "id": "1307050105",
       "detailed_rating": {
@@ -63741,12 +63741,16 @@
             [
                "6678442",
                1617120000
+            ],
+            [
+               "9075244",
+               1724320112
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 22,
-      "justified_votes": 22
+      "justified_rating": 23,
+      "justified_votes": 23
    },
    "1615184801": {
       "title": "2013年的雙人自拍",
