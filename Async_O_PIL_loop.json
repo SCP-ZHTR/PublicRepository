@@ -138607,10 +138607,10 @@
       "created_at": "1724342750",
       "created_by": "5370805",
       "tags": [
+         "2024中元恐怖",
          "euclid",
          "meta",
          "scp",
-         "中元恐怖2024",
          "原創",
          "型態變化",
          "屍體",
@@ -138624,13 +138624,24 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "0",
-      "votes": "0",
+      "rating": "1",
+      "votes": "1",
       "parent": null,
       "id": "1456513082",
-      "detailed_rating": {},
+      "detailed_rating": {
+         "+": [
+            [
+               "6217438",
+               1724344210
+            ],
+            [
+               "5435485",
+               1724344210
+            ]
+         ]
+      },
       "deleted": false,
-      "justified_rating": 0,
-      "justified_votes": 0
+      "justified_rating": 2,
+      "justified_votes": 2
    }
 }
