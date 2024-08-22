@@ -138447,8 +138447,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "5",
-      "votes": "5",
+      "rating": "6",
+      "votes": "6",
       "parent": null,
       "id": "1456479158",
       "detailed_rating": {
@@ -138472,12 +138472,16 @@
             [
                "5435485",
                1724285240
+            ],
+            [
+               "2960074",
+               1724297457
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 5,
-      "justified_votes": 5
+      "justified_rating": 6,
+      "justified_votes": 6
    },
    "1724256065": {
       "title": "SCP-ZH-787 - 枝是「鐘點」",
