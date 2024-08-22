@@ -64406,8 +64406,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "5",
-      "votes": "5",
+      "rating": "6",
+      "votes": "6",
       "parent": null,
       "id": "1307189362",
       "detailed_rating": {
@@ -64431,12 +64431,16 @@
             [
                "5415046",
                1617120000
+            ],
+            [
+               "9075244",
+               1724336827
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 5,
-      "justified_votes": 5
+      "justified_rating": 6,
+      "justified_votes": 6
    },
    "1615732270": {
       "title": "Ctrl Z博士的SCP-ZH記錄-2",
@@ -76596,8 +76600,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "7",
-      "votes": "7",
+      "rating": "8",
+      "votes": "8",
       "parent": null,
       "id": "1312507845",
       "detailed_rating": {
@@ -76608,10 +76612,6 @@
             ],
             [
                "5402841",
-               1628006400
-            ],
-            [
-               "7521095",
                1628006400
             ],
             [
@@ -76629,6 +76629,14 @@
             [
                "DELETED",
                1695270804
+            ],
+            [
+               "9075244",
+               1724336827
+            ],
+            [
+               "DELETED",
+               1724336827
             ]
          ]
       },
