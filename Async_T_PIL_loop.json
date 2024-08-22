@@ -35390,8 +35390,8 @@
       ],
       "hidden_tags": [],
       "comments": "4",
-      "rating": "18",
-      "votes": "18",
+      "rating": "19",
+      "votes": "19",
       "parent": null,
       "id": "1035248260",
       "detailed_rating": {
@@ -35467,12 +35467,16 @@
             [
                "DELETED",
                "[UNKNOWN]"
+            ],
+            [
+               "9340368",
+               1724312262
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 17,
-      "justified_votes": 17
+      "justified_rating": 18,
+      "justified_votes": 18
    },
    "1588920695": {
       "title": "這裡沒什麼好看的",
