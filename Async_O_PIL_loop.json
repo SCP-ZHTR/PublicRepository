@@ -43606,8 +43606,8 @@
       ],
       "hidden_tags": [],
       "comments": "3",
-      "rating": "24",
-      "votes": "24",
+      "rating": "25",
+      "votes": "25",
       "parent": null,
       "id": "1165968744",
       "detailed_rating": {
@@ -43707,12 +43707,16 @@
             [
                "8319365",
                1709736266
+            ],
+            [
+               "9075244",
+               1724292643
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 23,
-      "justified_votes": 23
+      "justified_rating": 24,
+      "justified_votes": 24
    },
    "1593788317": {
       "title": "無處不在，無法忘懷。",
