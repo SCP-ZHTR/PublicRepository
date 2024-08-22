@@ -7548,8 +7548,8 @@
          "_info"
       ],
       "comments": "7",
-      "rating": "25",
-      "votes": "25",
+      "rating": "26",
+      "votes": "26",
       "parent": null,
       "id": "790259427",
       "detailed_rating": {
@@ -7653,12 +7653,16 @@
             [
                "DELETED",
                "[UNKNOWN]"
+            ],
+            [
+               "9075244",
+               1724292914
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 24,
-      "justified_votes": 24
+      "justified_rating": 25,
+      "justified_votes": 25
    },
    "1557681386": {
       "title": "維安設施檔案：Site-ZH-25",
