@@ -138458,6 +138458,7 @@
          "scp",
          "site-zh-50",
          "原創",
+         "植物",
          "熱力學",
          "食物"
       ],
@@ -138599,5 +138600,37 @@
       "deleted": false,
       "justified_rating": 7,
       "justified_votes": 7
+   },
+   "1724342750": {
+      "title": "SCP-ZH-792 - 開是「鯨吞」",
+      "fullname": "scp-zh-792",
+      "created_at": "1724342750",
+      "created_by": "5370805",
+      "tags": [
+         "euclid",
+         "meta",
+         "scp",
+         "中元恐怖2024",
+         "原創",
+         "型態變化",
+         "屍體",
+         "建築物",
+         "敵意",
+         "機密分級",
+         "空間影響",
+         "資訊危害",
+         "門徑",
+         "鯨類"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1456513082",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
