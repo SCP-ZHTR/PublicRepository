@@ -41628,8 +41628,8 @@
       ],
       "hidden_tags": [],
       "comments": "2",
-      "rating": "10",
-      "votes": "12",
+      "rating": "11",
+      "votes": "13",
       "parent": null,
       "id": "1142988169",
       "detailed_rating": {
@@ -41677,6 +41677,10 @@
             [
                "5454699",
                1617120000
+            ],
+            [
+               "9075244",
+               1724327289
             ]
          ],
          "-": [
@@ -41687,8 +41691,8 @@
          ]
       },
       "deleted": false,
-      "justified_rating": 10,
-      "justified_votes": 12
+      "justified_rating": 11,
+      "justified_votes": 13
    },
    "1591453243": {
       "title": "SCP-ZH-007 - 幾何鯊魚",
