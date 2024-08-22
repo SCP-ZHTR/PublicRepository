@@ -11537,8 +11537,8 @@
          "_info"
       ],
       "comments": "0",
-      "rating": "12",
-      "votes": "12",
+      "rating": "13",
+      "votes": "13",
       "parent": null,
       "id": "842744588",
       "detailed_rating": {
@@ -11590,12 +11590,16 @@
             [
                "DELETED",
                "[UNKNOWN]"
+            ],
+            [
+               "9075244",
+               1724319300
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 11,
-      "justified_votes": 11
+      "justified_rating": 12,
+      "justified_votes": 12
    },
    "1563003780": {
       "title": "直面恐懼的足跡",
@@ -24392,8 +24396,8 @@
          "_info"
       ],
       "comments": "2",
-      "rating": "11",
-      "votes": "11",
+      "rating": "12",
+      "votes": "12",
       "parent": null,
       "id": "985899780",
       "detailed_rating": {
@@ -24441,12 +24445,16 @@
             [
                "3981670",
                1617120000
+            ],
+            [
+               "9075244",
+               1724319300
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 11,
-      "justified_votes": 11
+      "justified_rating": 12,
+      "justified_votes": 12
    },
    "1577156063": {
       "title": "誰把聖誕樹上的星星拿走了？",
