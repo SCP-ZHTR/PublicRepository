@@ -140051,8 +140051,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "1",
-      "votes": "1",
+      "rating": "2",
+      "votes": "2",
       "parent": null,
       "id": "1456444130",
       "detailed_rating": {
@@ -140060,12 +140060,16 @@
             [
                "6981058",
                1724173402
+            ],
+            [
+               "8033564",
+               1724286720
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 1,
-      "justified_votes": 1
+      "justified_rating": 2,
+      "justified_votes": 2
    },
    "1724146562": {
       "title": "SCP-3114 - 會不會稍微冷顫了點？",
