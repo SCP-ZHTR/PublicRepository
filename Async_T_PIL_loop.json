@@ -19401,8 +19401,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "7",
-      "votes": "7",
+      "rating": "8",
+      "votes": "8",
       "parent": null,
       "id": "933184690",
       "detailed_rating": {
@@ -19434,12 +19434,16 @@
             [
                "5981123",
                1721753037
+            ],
+            [
+               "9340368",
+               1724336003
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 7,
-      "justified_votes": 7
+      "justified_rating": 8,
+      "justified_votes": 8
    },
    "1573738359": {
       "title": "翻譯預約處",
