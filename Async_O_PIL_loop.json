@@ -138288,8 +138288,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "10",
-      "votes": "10",
+      "rating": "11",
+      "votes": "11",
       "parent": null,
       "id": "1456473643",
       "detailed_rating": {
@@ -138333,12 +138333,16 @@
             [
                "6217438",
                1724241827
+            ],
+            [
+               "5251681",
+               1724285240
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 10,
-      "justified_votes": 10
+      "justified_rating": 11,
+      "justified_votes": 11
    },
    "1724235199": {
       "title": "不和諧晴雨",
@@ -138391,8 +138395,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "1",
-      "votes": "1",
+      "rating": "2",
+      "votes": "2",
       "parent": null,
       "id": "1456477755",
       "detailed_rating": {
@@ -138400,12 +138404,16 @@
             [
                "8452537",
                1724239941
+            ],
+            [
+               "5435485",
+               1724285240
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 1,
-      "justified_votes": 1
+      "justified_rating": 2,
+      "justified_votes": 2
    },
    "1724249205": {
       "title": "SCP-ZH-784 - 一是「意識流」",
@@ -138423,8 +138431,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "4",
-      "votes": "4",
+      "rating": "5",
+      "votes": "5",
       "parent": null,
       "id": "1456479158",
       "detailed_rating": {
@@ -138444,12 +138452,16 @@
             [
                "8404617",
                1724261320
+            ],
+            [
+               "5435485",
+               1724285240
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 4,
-      "justified_votes": 4
+      "justified_rating": 5,
+      "justified_votes": 5
    },
    "1724256065": {
       "title": "SCP-ZH-787 - 枝是「鐘點」",
@@ -138468,8 +138480,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "4",
-      "votes": "4",
+      "rating": "5",
+      "votes": "5",
       "parent": null,
       "id": "1456481157",
       "detailed_rating": {
@@ -138489,11 +138501,15 @@
             [
                "5370805",
                1724261593
+            ],
+            [
+               "5435485",
+               1724285240
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 4,
-      "justified_votes": 4
+      "justified_rating": 5,
+      "justified_votes": 5
    }
 }
