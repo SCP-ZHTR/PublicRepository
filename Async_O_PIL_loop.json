@@ -138364,8 +138364,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "11",
-      "votes": "11",
+      "rating": "12",
+      "votes": "12",
       "parent": null,
       "id": "1456473643",
       "detailed_rating": {
@@ -138413,12 +138413,16 @@
             [
                "5251681",
                1724285240
+            ],
+            [
+               "8846720",
+               1724402173
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 11,
-      "justified_votes": 11
+      "justified_rating": 12,
+      "justified_votes": 12
    },
    "1724235199": {
       "title": "不和諧晴雨",
