@@ -138472,8 +138472,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "5",
-      "votes": "5",
+      "rating": "6",
+      "votes": "6",
       "parent": null,
       "id": "1456477755",
       "detailed_rating": {
@@ -138497,12 +138497,16 @@
             [
                "4990678",
                1724361574
+            ],
+            [
+               "9075244",
+               1724382217
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 5,
-      "justified_votes": 5
+      "justified_rating": 6,
+      "justified_votes": 6
    },
    "1724249205": {
       "title": "SCP-ZH-784 - 一是「意識流」",
