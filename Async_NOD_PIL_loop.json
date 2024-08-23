@@ -27164,13 +27164,12 @@
       "created_at": "1724425487",
       "created_by": "8273427",
       "tags": [
-         "個人檔案",
          "原創"
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "-1",
-      "votes": "1",
+      "rating": "-2",
+      "votes": "2",
       "parent": null,
       "id": "1456525985",
       "detailed_rating": {
@@ -27178,11 +27177,15 @@
             [
                "7840542",
                1724455648
+            ],
+            [
+               "5370805",
+               1724457269
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": -1,
-      "justified_votes": 1
+      "justified_rating": -2,
+      "justified_votes": 2
    }
 }
