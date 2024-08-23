@@ -137432,8 +137432,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "19",
-      "votes": "19",
+      "rating": "20",
+      "votes": "20",
       "parent": null,
       "id": "1456189215",
       "detailed_rating": {
@@ -137513,12 +137513,16 @@
             [
                "5435485",
                1723736395
+            ],
+            [
+               "7064164",
+               1724393249
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 19,
-      "justified_votes": 19
+      "justified_rating": 20,
+      "justified_votes": 20
    },
    "1723653516": {
       "title": "SCP-ZH-420 - 風是「法槌」",
