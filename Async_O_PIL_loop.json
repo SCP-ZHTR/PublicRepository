@@ -138557,8 +138557,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "9",
-      "votes": "9",
+      "rating": "10",
+      "votes": "10",
       "parent": null,
       "id": "1456479158",
       "detailed_rating": {
@@ -138598,12 +138598,16 @@
             [
                "5013754",
                1724424457
+            ],
+            [
+               "6952002",
+               1724440897
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 9,
-      "justified_votes": 9
+      "justified_rating": 10,
+      "justified_votes": 10
    },
    "1724256065": {
       "title": "SCP-ZH-787 - 枝是「鐘點」",
@@ -138623,8 +138627,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "9",
-      "votes": "9",
+      "rating": "10",
+      "votes": "10",
       "parent": null,
       "id": "1456481157",
       "detailed_rating": {
@@ -138664,12 +138668,16 @@
             [
                "7605593",
                1724426358
+            ],
+            [
+               "6952002",
+               1724440897
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 9,
-      "justified_votes": 9
+      "justified_rating": 10,
+      "justified_votes": 10
    },
    "1724342750": {
       "title": "SCP-ZH-792 - 開是「鯨吞」",
@@ -138696,8 +138704,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "9",
-      "votes": "9",
+      "rating": "10",
+      "votes": "10",
       "parent": null,
       "id": "1456513082",
       "detailed_rating": {
@@ -138737,12 +138745,16 @@
             [
                "7605593",
                1724426358
+            ],
+            [
+               "6952002",
+               1724440897
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 9,
-      "justified_votes": 9
+      "justified_rating": 10,
+      "justified_votes": 10
    },
    "1724428818": {
       "title": "SCP-ZH-809 - 冰是「半衰期」",
