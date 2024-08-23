@@ -27163,7 +27163,10 @@
       "fullname": "foundational-personal-decomunt:scepter-56",
       "created_at": "1724425487",
       "created_by": "8273427",
-      "tags": [],
+      "tags": [
+         "個人檔案",
+         "原創"
+      ],
       "hidden_tags": [],
       "comments": "0",
       "rating": "0",
