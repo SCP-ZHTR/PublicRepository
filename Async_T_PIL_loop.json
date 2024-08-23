@@ -140180,8 +140180,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "3",
-      "votes": "3",
+      "rating": "4",
+      "votes": "4",
       "parent": null,
       "id": "1456475154",
       "detailed_rating": {
@@ -140197,12 +140197,16 @@
             [
                "4357011",
                1724303600
+            ],
+            [
+               "7073060",
+               1724406278
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 3,
-      "justified_votes": 3
+      "justified_rating": 4,
+      "justified_votes": 4
    },
    "1724194805": {
       "title": "SCP-3427-JP - 強迫同殉",
