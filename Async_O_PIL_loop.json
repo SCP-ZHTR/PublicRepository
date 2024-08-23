@@ -138739,5 +138739,33 @@
       "deleted": false,
       "justified_rating": 9,
       "justified_votes": 9
+   },
+   "1724428818": {
+      "title": "scp-zh-809",
+      "fullname": "scp-zh-809",
+      "created_at": "1724428818",
+      "created_by": "5013754",
+      "tags": [
+         "2024中元恐怖",
+         "metha博士",
+         "safe",
+         "scp",
+         "人造物品",
+         "原創",
+         "地下",
+         "建築物",
+         "放射性",
+         "生物危害"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1456527759",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
