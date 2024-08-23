@@ -138677,8 +138677,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "6",
-      "votes": "6",
+      "rating": "7",
+      "votes": "7",
       "parent": null,
       "id": "1456513082",
       "detailed_rating": {
@@ -138706,11 +138706,15 @@
             [
                "6503482",
                1724407089
+            ],
+            [
+               "5013754",
+               1724424317
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 6,
-      "justified_votes": 6
+      "justified_rating": 7,
+      "justified_votes": 7
    }
 }
