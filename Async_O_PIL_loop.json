@@ -138017,8 +138017,8 @@
       ],
       "hidden_tags": [],
       "comments": "4",
-      "rating": "6",
-      "votes": "6",
+      "rating": "7",
+      "votes": "7",
       "parent": null,
       "id": "1456374926",
       "detailed_rating": {
@@ -138046,12 +138046,16 @@
             [
                "5435485",
                1724122680
+            ],
+            [
+               "6503482",
+               1724494992
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 6,
-      "justified_votes": 6
+      "justified_rating": 7,
+      "justified_votes": 7
    },
    "1723941451": {
       "title": "破是「Professional」",
@@ -138157,8 +138161,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "7",
-      "votes": "7",
+      "rating": "8",
+      "votes": "8",
       "parent": null,
       "id": "1456384302",
       "detailed_rating": {
@@ -138190,12 +138194,16 @@
             [
                "8404617",
                1724033835
+            ],
+            [
+               "6503482",
+               1724494992
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 7,
-      "justified_votes": 7
+      "justified_rating": 8,
+      "justified_votes": 8
    },
    "1724033299": {
       "title": "SCP-ZH-737 - 向是「新建項目」",
