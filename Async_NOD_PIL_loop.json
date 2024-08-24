@@ -26950,7 +26950,7 @@
       "parent": null,
       "id": "1456384368",
       "detailed_rating": {},
-      "deleted": false,
+      "deleted": true,
       "justified_rating": 0,
       "justified_votes": 0
    },
@@ -27167,7 +27167,7 @@
          "原創"
       ],
       "hidden_tags": [],
-      "comments": "0",
+      "comments": "1",
       "rating": "-2",
       "votes": "2",
       "parent": null,
