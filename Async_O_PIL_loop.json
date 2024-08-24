@@ -138363,8 +138363,8 @@
       ],
       "hidden_tags": [],
       "comments": "2",
-      "rating": "8",
-      "votes": "8",
+      "rating": "9",
+      "votes": "9",
       "parent": null,
       "id": "1456442964",
       "detailed_rating": {
@@ -138400,12 +138400,16 @@
             [
                "8404617",
                1724167769
+            ],
+            [
+               "6503482",
+               1724494853
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 8,
-      "justified_votes": 8
+      "justified_rating": 9,
+      "justified_votes": 9
    },
    "1724167040": {
       "title": "SCP-ZH-802 - 利刃所向",
