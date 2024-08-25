@@ -137347,8 +137347,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "8",
-      "votes": "8",
+      "rating": "9",
+      "votes": "9",
       "parent": "scp-zh-209",
       "id": "1456170249",
       "detailed_rating": {
@@ -137384,12 +137384,16 @@
             [
                "6503482",
                1724495133
+            ],
+            [
+               "8404617",
+               1724548599
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 8,
-      "justified_votes": 8
+      "justified_rating": 9,
+      "justified_votes": 9
    },
    "1723557861": {
       "title": "SCP-ZH-498 - 割勿骨",
