@@ -80987,8 +80987,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "6",
-      "votes": "6",
+      "rating": "7",
+      "votes": "7",
       "parent": null,
       "id": "1329663441",
       "detailed_rating": {
@@ -81016,12 +81016,16 @@
             [
                "5981123",
                1721096463
+            ],
+            [
+               "6418659",
+               1724581223
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 6,
-      "justified_votes": 6
+      "justified_rating": 7,
+      "justified_votes": 7
    },
    "1635165448": {
       "title": "SCP-ZH-057 - 暴躁小行星",
