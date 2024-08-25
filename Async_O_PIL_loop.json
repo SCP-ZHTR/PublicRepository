@@ -139052,8 +139052,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "3",
-      "votes": "3",
+      "rating": "4",
+      "votes": "4",
       "parent": "like-clockwork-hub",
       "id": "1456577289",
       "detailed_rating": {
@@ -139069,11 +139069,15 @@
             [
                "5251681",
                1724606942
+            ],
+            [
+               "8404617",
+               1724614766
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 3,
-      "justified_votes": 3
+      "justified_rating": 4,
+      "justified_votes": 4
    }
 }
