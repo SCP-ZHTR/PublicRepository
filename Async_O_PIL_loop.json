@@ -47922,8 +47922,8 @@
          "_賞金k級情景"
       ],
       "comments": "4",
-      "rating": "24",
-      "votes": "26",
+      "rating": "25",
+      "votes": "27",
       "parent": null,
       "id": "1260738308",
       "detailed_rating": {
@@ -48027,6 +48027,10 @@
             [
                "DELETED",
                "[UNKNOWN]"
+            ],
+            [
+               "6418659",
+               1724612333
             ]
          ],
          "-": [
@@ -48037,8 +48041,8 @@
          ]
       },
       "deleted": false,
-      "justified_rating": 23,
-      "justified_votes": 25
+      "justified_rating": 24,
+      "justified_votes": 26
    },
    "1596982643": {
       "title": "SCP-ZH-451 - 反對者與蠕蟲",
