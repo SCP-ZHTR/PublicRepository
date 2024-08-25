@@ -31927,8 +31927,8 @@
          "_cc"
       ],
       "comments": "0",
-      "rating": "10",
-      "votes": "10",
+      "rating": "11",
+      "votes": "11",
       "parent": null,
       "id": "1024259338",
       "detailed_rating": {
@@ -31972,12 +31972,16 @@
             [
                "8854072",
                1713499596
+            ],
+            [
+               "6418659",
+               1724563998
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 10,
-      "justified_votes": 10
+      "justified_rating": 11,
+      "justified_votes": 11
    },
    "1586540886": {
       "title": "SCP-1317 - 工廠化妝品",
