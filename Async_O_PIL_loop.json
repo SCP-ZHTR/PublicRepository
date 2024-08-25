@@ -138804,8 +138804,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "11",
-      "votes": "11",
+      "rating": "12",
+      "votes": "12",
       "parent": null,
       "id": "1456513082",
       "detailed_rating": {
@@ -138853,12 +138853,16 @@
             [
                "4990678",
                1724513995
+            ],
+            [
+               "6152598",
+               1724553041
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 11,
-      "justified_votes": 11
+      "justified_rating": 12,
+      "justified_votes": 12
    },
    "1724428818": {
       "title": "SCP-ZH-809 - 冰是「半衰期」",
