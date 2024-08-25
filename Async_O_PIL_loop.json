@@ -139006,5 +139006,35 @@
       "deleted": false,
       "justified_rating": 10,
       "justified_votes": 10
+   },
+   "1724602182": {
+      "title": "SCP-ZH-840 - 無是「妄滅」",
+      "fullname": "scp-zh-840",
+      "created_at": "1724602182",
+      "created_by": "7073060",
+      "tags": [
+         "2024中元恐怖",
+         "meta",
+         "scp",
+         "共感",
+         "原創",
+         "反常部",
+         "塔羅蘭研究員",
+         "屍體",
+         "敘述性",
+         "概念",
+         "機密分級",
+         "精神影響"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1456577289",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
