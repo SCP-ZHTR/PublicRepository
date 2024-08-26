@@ -138979,8 +138979,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "11",
-      "votes": "11",
+      "rating": "12",
+      "votes": "12",
       "parent": null,
       "id": "1456553831",
       "detailed_rating": {
@@ -139028,12 +139028,16 @@
             [
                "5435485",
                1724605452
+            ],
+            [
+               "4990678",
+               1724690130
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 11,
-      "justified_votes": 11
+      "justified_rating": 12,
+      "justified_votes": 12
    },
    "1724602182": {
       "title": "SCP-ZH-840 - 無是「妄滅」",
