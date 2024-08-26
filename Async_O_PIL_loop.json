@@ -138915,8 +138915,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "10",
-      "votes": "10",
+      "rating": "11",
+      "votes": "11",
       "parent": null,
       "id": "1456527759",
       "detailed_rating": {
@@ -138960,12 +138960,16 @@
             [
                "5435485",
                1724605452
+            ],
+            [
+               "7605593",
+               1724699171
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 10,
-      "justified_votes": 10
+      "justified_rating": 11,
+      "justified_votes": 11
    },
    "1724519044": {
       "title": "SCP-ZH-819 - 雪是「囚因」",
@@ -138983,8 +138987,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "12",
-      "votes": "12",
+      "rating": "13",
+      "votes": "13",
       "parent": null,
       "id": "1456553831",
       "detailed_rating": {
@@ -139036,12 +139040,16 @@
             [
                "4990678",
                1724690130
+            ],
+            [
+               "7605593",
+               1724699171
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 12,
-      "justified_votes": 12
+      "justified_rating": 13,
+      "justified_votes": 13
    },
    "1724602182": {
       "title": "SCP-ZH-840 - 無是「妄滅」",
