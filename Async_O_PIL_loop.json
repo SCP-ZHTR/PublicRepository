@@ -138803,8 +138803,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "10",
-      "votes": "10",
+      "rating": "11",
+      "votes": "11",
       "parent": null,
       "id": "1456481157",
       "detailed_rating": {
@@ -138848,12 +138848,16 @@
             [
                "6952002",
                1724440897
+            ],
+            [
+               "5413616",
+               1724773421
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 10,
-      "justified_votes": 10
+      "justified_rating": 11,
+      "justified_votes": 11
    },
    "1724342750": {
       "title": "SCP-ZH-792 - 開是「鯨吞」",
