@@ -130462,8 +130462,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "4",
-      "votes": "4",
+      "rating": "5",
+      "votes": "5",
       "parent": null,
       "id": "1452616576",
       "detailed_rating": {
@@ -130483,12 +130483,16 @@
             [
                "6503482",
                1710824850
+            ],
+            [
+               "5370805",
+               1724750412
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 4,
-      "justified_votes": 4
+      "justified_rating": 5,
+      "justified_votes": 5
    },
    "1708684236": {
       "title": "MALENLEN",
