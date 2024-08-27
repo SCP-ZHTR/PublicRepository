@@ -139168,8 +139168,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "5",
-      "votes": "5",
+      "rating": "6",
+      "votes": "6",
       "parent": "zhongyuan-2024",
       "id": "1456581392",
       "detailed_rating": {
@@ -139193,11 +139193,15 @@
             [
                "6152598",
                1724720583
+            ],
+            [
+               "6217438",
+               1724757492
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 5,
-      "justified_votes": 5
+      "justified_rating": 6,
+      "justified_votes": 6
    }
 }
