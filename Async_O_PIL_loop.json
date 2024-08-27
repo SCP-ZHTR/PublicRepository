@@ -136617,8 +136617,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "5",
-      "votes": "5",
+      "rating": "6",
+      "votes": "6",
       "parent": null,
       "id": "1455944524",
       "detailed_rating": {
@@ -136642,12 +136642,16 @@
             [
                "8846720",
                1723556164
+            ],
+            [
+               "7605593",
+               1724751357
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 5,
-      "justified_votes": 5
+      "justified_rating": 6,
+      "justified_votes": 6
    },
    "1721826609": {
       "title": "特殊貨運公共有限公司 （Special Cargo PLC）｜商店及服務評論 - 評價網",
@@ -138633,8 +138637,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "8",
-      "votes": "8",
+      "rating": "9",
+      "votes": "9",
       "parent": null,
       "id": "1456477755",
       "detailed_rating": {
@@ -138670,12 +138674,16 @@
             [
                "4239775",
                1724750818
+            ],
+            [
+               "7605593",
+               1724751357
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 8,
-      "justified_votes": 8
+      "justified_rating": 9,
+      "justified_votes": 9
    },
    "1724249205": {
       "title": "SCP-ZH-784 - 一是「意識流」",
