@@ -137007,8 +137007,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "6",
-      "votes": "6",
+      "rating": "7",
+      "votes": "7",
       "parent": null,
       "id": "1455998578",
       "detailed_rating": {
@@ -137036,12 +137036,16 @@
             [
                "2960074",
                1723711334
+            ],
+            [
+               "7513990",
+               1724863460
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 6,
-      "justified_votes": 6
+      "justified_rating": 7,
+      "justified_votes": 7
    },
    "1722613819": {
       "title": "SCP-ZH-267 - 有緣有故",
