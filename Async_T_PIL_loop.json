@@ -140077,7 +140077,9 @@
          "活物",
          "翻譯"
       ],
-      "hidden_tags": [],
+      "hidden_tags": [
+         "_licensebox"
+      ],
       "comments": "1",
       "rating": "0",
       "votes": "0",
