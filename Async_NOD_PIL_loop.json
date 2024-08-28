@@ -26352,7 +26352,7 @@
    },
    "1720842304": {
       "title": "scp-4910",
-      "fullname": "reserve:scp-4910",
+      "fullname": "deleted:reserve:scp-4910",
       "created_at": "1720842304",
       "created_by": "8452537",
       "tags": [],
@@ -26380,7 +26380,7 @@
       "parent": null,
       "id": "1455887380",
       "detailed_rating": {},
-      "deleted": false,
+      "deleted": true,
       "justified_rating": 0,
       "justified_votes": 0
    },
