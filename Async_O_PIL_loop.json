@@ -139243,5 +139243,36 @@
       "deleted": false,
       "justified_rating": 7,
       "justified_votes": 7
+   },
+   "1724808603": {
+      "title": "SCP-ZH-854 - 見是「忌日」",
+      "fullname": "scp-zh-854",
+      "created_at": "1724808603",
+      "created_by": "3981670",
+      "tags": [
+         "2024中元恐怖",
+         "euclid",
+         "meta",
+         "scp",
+         "原創",
+         "循環",
+         "念力",
+         "掠食性",
+         "擬態",
+         "敵意",
+         "無形",
+         "自主",
+         "誤傳部"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1456586789",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
