@@ -108338,8 +108338,8 @@
       ],
       "hidden_tags": [],
       "comments": "3",
-      "rating": "20",
-      "votes": "20",
+      "rating": "21",
+      "votes": "21",
       "parent": null,
       "id": "1437472553",
       "detailed_rating": {
@@ -108423,12 +108423,16 @@
             [
                "6152598",
                1723347146
+            ],
+            [
+               "8846720",
+               1724857665
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 19,
-      "justified_votes": 19
+      "justified_rating": 20,
+      "justified_votes": 20
    },
    "1669829735": {
       "title": "回山，回家",
