@@ -7327,8 +7327,8 @@
          "_禁黑"
       ],
       "comments": "21",
-      "rating": "35",
-      "votes": "35",
+      "rating": "36",
+      "votes": "36",
       "parent": null,
       "id": "1308457939",
       "detailed_rating": {
@@ -7363,10 +7363,6 @@
             ],
             [
                "7655555",
-               1689143977
-            ],
-            [
-               "7521095",
                1689143977
             ],
             [
@@ -7472,6 +7468,14 @@
             [
                "8883612",
                1723615858
+            ],
+            [
+               "4239775",
+               1724944627
+            ],
+            [
+               "DELETED",
+               1724944627
             ]
          ]
       },
@@ -9607,8 +9611,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "5",
-      "votes": "5",
+      "rating": "6",
+      "votes": "6",
       "parent": null,
       "id": "1402051320",
       "detailed_rating": {
@@ -9632,12 +9636,16 @@
             [
                "5454699",
                1689143977
+            ],
+            [
+               "8854072",
+               1724944627
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 5,
-      "justified_votes": 5
+      "justified_rating": 6,
+      "justified_votes": 6
    },
    "1651495346": {
       "title": "基金會月刊 第078期",
@@ -15850,6 +15858,23 @@
       "id": "1456589530",
       "detailed_rating": {},
       "deleted": true,
+      "justified_rating": 0,
+      "justified_votes": 0
+   },
+   "1724944475": {
+      "title": "Halewen的作者頁兼SCP ILLUSTRATED影片翻譯",
+      "fullname": "halewen",
+      "created_at": "1724944475",
+      "created_by": "6088232",
+      "tags": [],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1456605577",
+      "detailed_rating": {},
+      "deleted": false,
       "justified_rating": 0,
       "justified_votes": 0
    }
