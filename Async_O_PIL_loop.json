@@ -139373,8 +139373,8 @@
          "_禁黑"
       ],
       "comments": "0",
-      "rating": "12",
-      "votes": "12",
+      "rating": "13",
+      "votes": "13",
       "parent": null,
       "id": "1456601049",
       "detailed_rating": {
@@ -139426,12 +139426,16 @@
             [
                "7840542",
                1725009983
+            ],
+            [
+               "4990678",
+               1725035296
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 12,
-      "justified_votes": 12
+      "justified_rating": 13,
+      "justified_votes": 13
    },
    "1725032206": {
       "title": "SCP-ZH-891 - 從是「侵入」",
@@ -139481,5 +139485,35 @@
       "deleted": false,
       "justified_rating": 4,
       "justified_votes": 4
+   },
+   "1725034801": {
+      "title": "SCP-ZH-897 - 天是「停下來，拜託。」",
+      "fullname": "scp-zh-897",
+      "created_at": "1725034801",
+      "created_by": "5435485",
+      "tags": [
+         "2024中元恐怖",
+         "keter",
+         "scp",
+         "人造物品",
+         "傳染性",
+         "原創",
+         "寄生性",
+         "成人內容",
+         "敵意",
+         "未收容",
+         "無定形",
+         "精神影響"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1456611205",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
