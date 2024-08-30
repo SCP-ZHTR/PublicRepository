@@ -139507,8 +139507,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "8",
-      "votes": "8",
+      "rating": "9",
+      "votes": "9",
       "parent": null,
       "id": "1456611205",
       "detailed_rating": {
@@ -139544,12 +139544,16 @@
             [
                "7605593",
                1725037553
+            ],
+            [
+               "8846720",
+               1725056878
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 8,
-      "justified_votes": 8
+      "justified_rating": 9,
+      "justified_votes": 9
    },
    "1725035922": {
       "title": "SCP-ZH-891 - 從是「侵入」",
