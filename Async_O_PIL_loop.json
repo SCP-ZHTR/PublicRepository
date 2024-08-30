@@ -139482,7 +139482,7 @@
             ]
          ]
       },
-      "deleted": false,
+      "deleted": true,
       "justified_rating": 4,
       "justified_votes": 4
    },
@@ -139507,8 +139507,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "1",
-      "votes": "1",
+      "rating": "2",
+      "votes": "2",
       "parent": null,
       "id": "1456611205",
       "detailed_rating": {
@@ -139516,11 +139516,15 @@
             [
                "6217438",
                1725035581
+            ],
+            [
+               "8883612",
+               1725035997
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 1,
-      "justified_votes": 1
+      "justified_rating": 2,
+      "justified_votes": 2
    }
 }
