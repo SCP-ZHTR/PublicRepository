@@ -139298,8 +139298,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "9",
-      "votes": "9",
+      "rating": "10",
+      "votes": "10",
       "parent": null,
       "id": "1456586789",
       "detailed_rating": {
@@ -139339,12 +139339,16 @@
             [
                "5013754",
                1725009289
+            ],
+            [
+               "5435485",
+               1725026870
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 9,
-      "justified_votes": 9
+      "justified_rating": 10,
+      "justified_votes": 10
    },
    "1724864364": {
       "title": "SCP-ZH-865 - 春是「雛鳥」",
