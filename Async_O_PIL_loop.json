@@ -139507,8 +139507,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "2",
-      "votes": "2",
+      "rating": "4",
+      "votes": "4",
       "parent": null,
       "id": "1456611205",
       "detailed_rating": {
@@ -139520,11 +139520,23 @@
             [
                "8883612",
                1725035997
+            ],
+            [
+               "5565302",
+               1725036141
+            ],
+            [
+               "8452537",
+               1725036141
+            ],
+            [
+               "4990678",
+               1725036141
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 2,
-      "justified_votes": 2
+      "justified_rating": 5,
+      "justified_votes": 5
    }
 }
