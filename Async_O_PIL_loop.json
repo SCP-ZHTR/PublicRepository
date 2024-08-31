@@ -136861,8 +136861,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "22",
-      "votes": "22",
+      "rating": "23",
+      "votes": "23",
       "parent": null,
       "id": "1455950469",
       "detailed_rating": {
@@ -136954,12 +136954,16 @@
             [
                "6152598",
                1722825059
+            ],
+            [
+               "8854072",
+               1725103418
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 22,
-      "justified_votes": 22
+      "justified_rating": 23,
+      "justified_votes": 23
    },
    "1722024424": {
       "title": "SCP-ZH-924 - 殘局",
@@ -138507,8 +138511,8 @@
       ],
       "hidden_tags": [],
       "comments": "2",
-      "rating": "11",
-      "votes": "11",
+      "rating": "12",
+      "votes": "12",
       "parent": null,
       "id": "1456442964",
       "detailed_rating": {
@@ -138556,12 +138560,16 @@
             [
                "4990678",
                1725103012
+            ],
+            [
+               "8854072",
+               1725103418
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 11,
-      "justified_votes": 11
+      "justified_rating": 12,
+      "justified_votes": 12
    },
    "1724167040": {
       "title": "SCP-ZH-802 - 利刃所向",
