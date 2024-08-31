@@ -139240,8 +139240,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "11",
-      "votes": "11",
+      "rating": "12",
+      "votes": "12",
       "parent": "like-clockwork-hub",
       "id": "1456577289",
       "detailed_rating": {
@@ -139289,12 +139289,16 @@
             [
                "5013754",
                1725008065
+            ],
+            [
+               "8846720",
+               1725115296
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 11,
-      "justified_votes": 11
+      "justified_rating": 12,
+      "justified_votes": 12
    },
    "1724698000": {
       "title": "SCP-ZH-850 - 人是「人間曆」",
