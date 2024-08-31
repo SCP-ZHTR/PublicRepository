@@ -136861,8 +136861,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "23",
-      "votes": "23",
+      "rating": "24",
+      "votes": "24",
       "parent": null,
       "id": "1455950469",
       "detailed_rating": {
@@ -136958,12 +136958,16 @@
             [
                "8854072",
                1725103418
+            ],
+            [
+               "5062193",
+               1725111374
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 23,
-      "justified_votes": 23
+      "justified_rating": 24,
+      "justified_votes": 24
    },
    "1722024424": {
       "title": "SCP-ZH-924 - 殘局",
@@ -137027,8 +137031,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "9",
-      "votes": "9",
+      "rating": "10",
+      "votes": "10",
       "parent": null,
       "id": "1455998578",
       "detailed_rating": {
@@ -137068,12 +137072,16 @@
             [
                "4990678",
                1725104488
+            ],
+            [
+               "5062193",
+               1725111374
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 9,
-      "justified_votes": 9
+      "justified_rating": 10,
+      "justified_votes": 10
    },
    "1722613819": {
       "title": "SCP-ZH-267 - 有緣有故",
