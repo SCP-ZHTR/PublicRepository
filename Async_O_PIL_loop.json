@@ -139643,5 +139643,27 @@
       "deleted": false,
       "justified_rating": 6,
       "justified_votes": 6
+   },
+   "1725076815": {
+      "title": "西加走灣輓歌・上：群島再現",
+      "fullname": "radiw-no-kitakit-1",
+      "created_at": "1725076815",
+      "created_by": "5435485",
+      "tags": [
+         "cidal-dongi",
+         "site-zh-44",
+         "原創",
+         "故事"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1456612849",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
