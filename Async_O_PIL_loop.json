@@ -63185,8 +63185,8 @@
          "_cc"
       ],
       "comments": "11",
-      "rating": "26",
-      "votes": "28",
+      "rating": "27",
+      "votes": "29",
       "parent": null,
       "id": "1307007683",
       "detailed_rating": {
@@ -63298,6 +63298,10 @@
             [
                "9340368",
                1723835911
+            ],
+            [
+               "9079426",
+               1725091418
             ]
          ],
          "-": [
@@ -63308,8 +63312,8 @@
          ]
       },
       "deleted": false,
-      "justified_rating": 26,
-      "justified_votes": 28
+      "justified_rating": 27,
+      "justified_votes": 29
    },
    "1614696592": {
       "title": "SCP-ZH-240 - 明燈",
