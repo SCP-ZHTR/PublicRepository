@@ -140438,5 +140438,33 @@
       "deleted": false,
       "justified_rating": 2,
       "justified_votes": 2
+   },
+   "1725089893": {
+      "title": "SCP-8916 - 異果",
+      "fullname": "scp-8916",
+      "created_at": "1725089893",
+      "created_by": "6217438",
+      "tags": [
+         "en",
+         "safe",
+         "scp",
+         "儀式性",
+         "植物",
+         "樹木",
+         "歷史性",
+         "生物性",
+         "翻譯",
+         "肢體"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1456613832",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
