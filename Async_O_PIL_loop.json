@@ -139705,8 +139705,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "8",
-      "votes": "8",
+      "rating": "9",
+      "votes": "9",
       "parent": null,
       "id": "1456611282",
       "detailed_rating": {
@@ -139742,12 +139742,16 @@
             [
                "8546930",
                1725117459
+            ],
+            [
+               "5013754",
+               1725185595
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 8,
-      "justified_votes": 8
+      "justified_rating": 9,
+      "justified_votes": 9
    },
    "1725076815": {
       "title": "西加走灣輓歌・上：群島再現",
