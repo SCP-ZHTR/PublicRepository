@@ -2047,8 +2047,8 @@
       ],
       "hidden_tags": [],
       "comments": "2",
-      "rating": "7",
-      "votes": "9",
+      "rating": "8",
+      "votes": "10",
       "parent": null,
       "id": "674451005",
       "detailed_rating": {
@@ -2084,6 +2084,10 @@
             [
                "6655922",
                1617120000
+            ],
+            [
+               "9311399",
+               1725155330
             ]
          ],
          "-": [
@@ -2094,8 +2098,8 @@
          ]
       },
       "deleted": false,
-      "justified_rating": 7,
-      "justified_votes": 9
+      "justified_rating": 8,
+      "justified_votes": 10
    },
    "1554388633": {
       "title": "SCP-300 - 瓶中桃園",
