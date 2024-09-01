@@ -139486,8 +139486,8 @@
          "_禁黑"
       ],
       "comments": "0",
-      "rating": "14",
-      "votes": "14",
+      "rating": "15",
+      "votes": "15",
       "parent": null,
       "id": "1456601049",
       "detailed_rating": {
@@ -139547,12 +139547,16 @@
             [
                "5413616",
                1725201387
+            ],
+            [
+               "5370805",
+               1725202885
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 14,
-      "justified_votes": 14
+      "justified_rating": 15,
+      "justified_votes": 15
    },
    "1725032206": {
       "title": "SCP-ZH-891 - 從是「侵入」",
@@ -139819,14 +139823,16 @@
          "原創",
          "合著",
          "城市",
+         "敵意",
+         "氣象",
          "第八處",
          "繁廣",
          "超維度"
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "3",
-      "votes": "3",
+      "rating": "5",
+      "votes": "5",
       "parent": null,
       "id": "1456621632",
       "detailed_rating": {
@@ -139842,11 +139848,19 @@
             [
                "5415046",
                1725202469
+            ],
+            [
+               "7605593",
+               1725202885
+            ],
+            [
+               "5435485",
+               1725202885
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 3,
-      "justified_votes": 3
+      "justified_rating": 5,
+      "justified_votes": 5
    }
 }
