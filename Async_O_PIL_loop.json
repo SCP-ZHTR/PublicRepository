@@ -94359,8 +94359,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "18",
-      "votes": "18",
+      "rating": "19",
+      "votes": "19",
       "parent": "scp-zh-922",
       "id": "1401999559",
       "detailed_rating": {
@@ -94436,12 +94436,16 @@
             [
                "DELETED",
                1725171736
+            ],
+            [
+               "4206567",
+               1725173621
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 17,
-      "justified_votes": 17
+      "justified_rating": 18,
+      "justified_votes": 18
    },
    "1648649421": {
       "title": "易羅欣、卷一",
