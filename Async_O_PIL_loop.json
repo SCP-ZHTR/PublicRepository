@@ -139836,8 +139836,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "6",
-      "votes": "6",
+      "rating": "7",
+      "votes": "7",
       "parent": null,
       "id": "1456621632",
       "detailed_rating": {
@@ -139865,12 +139865,16 @@
             [
                "7073060",
                1725215195
+            ],
+            [
+               "6503482",
+               1725235820
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 6,
-      "justified_votes": 6
+      "justified_rating": 7,
+      "justified_votes": 7
    },
    "1725215952": {
       "title": "SCP-ZH-975 - 來是「蓮皿」",
@@ -139895,8 +139899,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "3",
-      "votes": "3",
+      "rating": "4",
+      "votes": "4",
       "parent": null,
       "id": "1456623366",
       "detailed_rating": {
@@ -139912,11 +139916,15 @@
             [
                "5435485",
                1725235413
+            ],
+            [
+               "6503482",
+               1725235820
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 3,
-      "justified_votes": 3
+      "justified_rating": 4,
+      "justified_votes": 4
    }
 }
