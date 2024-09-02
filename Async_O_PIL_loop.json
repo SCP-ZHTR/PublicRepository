@@ -61482,8 +61482,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "60",
-      "votes": "62",
+      "rating": "61",
+      "votes": "63",
       "parent": null,
       "id": "1306901310",
       "detailed_rating": {
@@ -61731,6 +61731,10 @@
             [
                "9340368",
                1723840159
+            ],
+            [
+               "6418659",
+               1725302987
             ]
          ],
          "-": [
@@ -61741,8 +61745,8 @@
          ]
       },
       "deleted": false,
-      "justified_rating": 58,
-      "justified_votes": 60
+      "justified_rating": 59,
+      "justified_votes": 61
    },
    "1613313860": {
       "title": "沒什麼，只是一張老照片",
