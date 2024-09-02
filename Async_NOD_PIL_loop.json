@@ -27399,5 +27399,32 @@
       "deleted": false,
       "justified_rating": 0,
       "justified_votes": 0
+   },
+   "1581148862": {
+      "title": "SCP-ZH-168 - 下雨喝奉茶",
+      "fullname": "deleted:scp-zh-168",
+      "created_at": "1581148862",
+      "created_by": "5956873",
+      "tags": [
+         "2020冬季競賽",
+         "euclid",
+         "scp",
+         "原創",
+         "工具",
+         "氣象",
+         "食物"
+      ],
+      "hidden_tags": [
+         "_info"
+      ],
+      "comments": "2",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "986640596",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
