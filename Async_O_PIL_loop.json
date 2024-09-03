@@ -139984,8 +139984,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "8",
-      "votes": "8",
+      "rating": "9",
+      "votes": "9",
       "parent": null,
       "id": "1456623366",
       "detailed_rating": {
@@ -140021,12 +140021,16 @@
             [
                "7605593",
                1725340097
+            ],
+            [
+               "5370805",
+               1725370116
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 8,
-      "justified_votes": 8
+      "justified_rating": 9,
+      "justified_votes": 9
    },
    "1725322917": {
       "title": "拼圖零片",
@@ -140043,8 +140047,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "8",
-      "votes": "8",
+      "rating": "9",
+      "votes": "9",
       "parent": null,
       "id": "1456628509",
       "detailed_rating": {
@@ -140080,11 +140084,15 @@
             [
                "4990678",
                1725344625
+            ],
+            [
+               "5370805",
+               1725370116
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 8,
-      "justified_votes": 8
+      "justified_rating": 9,
+      "justified_votes": 9
    }
 }
