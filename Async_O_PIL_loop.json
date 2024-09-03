@@ -138432,8 +138432,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "12",
-      "votes": "12",
+      "rating": "13",
+      "votes": "13",
       "parent": null,
       "id": "1456415751",
       "detailed_rating": {
@@ -138485,12 +138485,16 @@
             [
                "4239775",
                1724591666
+            ],
+            [
+               "6418659",
+               1725350738
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 12,
-      "justified_votes": 12
+      "justified_rating": 13,
+      "justified_votes": 13
    },
    "1724103117": {
       "title": "SCP-ZH-754 - 暖是「您的話語」",
