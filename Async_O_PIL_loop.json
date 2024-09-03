@@ -139827,8 +139827,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "7",
-      "votes": "7",
+      "rating": "8",
+      "votes": "8",
       "parent": null,
       "id": "1456612849",
       "detailed_rating": {
@@ -139860,12 +139860,16 @@
             [
                "7571354",
                1725292957
+            ],
+            [
+               "6091157",
+               1725322676
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 7,
-      "justified_votes": 7
+      "justified_rating": 8,
+      "justified_votes": 8
    },
    "1725200315": {
       "title": "SCP-ZH-904 - 上是「失鄉」",
