@@ -137759,8 +137759,8 @@
       ],
       "hidden_tags": [],
       "comments": "5",
-      "rating": "25",
-      "votes": "25",
+      "rating": "26",
+      "votes": "26",
       "parent": null,
       "id": "1456250184",
       "detailed_rating": {
@@ -137864,12 +137864,16 @@
             [
                "5413616",
                1724771795
+            ],
+            [
+               "6418659",
+               1725352118
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 25,
-      "justified_votes": 25
+      "justified_rating": 26,
+      "justified_votes": 26
    },
    "1723737330": {
       "title": "SCP-ZH-425 - 破是「破洞」",
