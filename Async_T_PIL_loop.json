@@ -110716,33 +110716,37 @@
          "_image"
       ],
       "comments": "0",
-      "rating": "4",
-      "votes": "4",
+      "rating": "5",
+      "votes": "5",
       "parent": null,
       "id": "1445523652",
       "detailed_rating": {
          "+": [
             [
-               "7469850",
-               1676131200
-            ],
-            [
                "6503482",
                1676563200
             ],
             [
-               "7521095",
-               1674144000
-            ],
-            [
                "8033564",
                1674316800
+            ],
+            [
+               "7513990",
+               1725385190
+            ],
+            [
+               "DELETED",
+               1725385190
+            ],
+            [
+               "DELETED",
+               1725385190
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 4,
-      "justified_votes": 4
+      "justified_rating": 3,
+      "justified_votes": 3
    },
    "1674143327": {
       "title": "SCP-3930 - 相嘯魔",
