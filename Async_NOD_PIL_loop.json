@@ -27487,6 +27487,23 @@
       "parent": null,
       "id": "1456628603",
       "detailed_rating": {},
+      "deleted": true,
+      "justified_rating": 0,
+      "justified_votes": 0
+   },
+   "1725326191": {
+      "title": "https://scpwiki.com/scp-6068",
+      "fullname": "reserve:https:scpwiki-com-scp-6068",
+      "created_at": "1725326191",
+      "created_by": "9083658",
+      "tags": [],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1456628606",
+      "detailed_rating": {},
       "deleted": false,
       "justified_rating": 0,
       "justified_votes": 0
