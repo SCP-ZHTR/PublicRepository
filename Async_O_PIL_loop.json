@@ -84382,8 +84382,8 @@
          "_image"
       ],
       "comments": "19",
-      "rating": "8",
-      "votes": "30",
+      "rating": "9",
+      "votes": "31",
       "parent": null,
       "id": "1331199053",
       "detailed_rating": {
@@ -84463,6 +84463,10 @@
             [
                "DELETED",
                1724849310
+            ],
+            [
+               "6418659",
+               1725382743
             ]
          ],
          "-": [
@@ -84513,8 +84517,8 @@
          ]
       },
       "deleted": false,
-      "justified_rating": 7,
-      "justified_votes": 29
+      "justified_rating": 8,
+      "justified_votes": 30
    },
    "1640740185": {
       "title": "SCP-999-JP - 第九號自當述以九言",
