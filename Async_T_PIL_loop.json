@@ -124607,8 +124607,8 @@
          "_cc"
       ],
       "comments": "0",
-      "rating": "5",
-      "votes": "5",
+      "rating": "6",
+      "votes": "6",
       "parent": null,
       "id": "1449843654",
       "detailed_rating": {
@@ -124632,12 +124632,16 @@
             [
                "5435485",
                1721398929
+            ],
+            [
+               "6418659",
+               1725372653
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 5,
-      "justified_votes": 5
+      "justified_rating": 6,
+      "justified_votes": 6
    },
    "1693762070": {
       "title": "SCP-372 - 視外幻獸",
