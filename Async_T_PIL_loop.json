@@ -4502,8 +4502,8 @@
          "_info"
       ],
       "comments": "1",
-      "rating": "12",
-      "votes": "12",
+      "rating": "13",
+      "votes": "13",
       "parent": null,
       "id": "747886386",
       "detailed_rating": {
@@ -4555,12 +4555,16 @@
             [
                "3981670",
                1617120000
+            ],
+            [
+               "6418659",
+               1725373595
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 12,
-      "justified_votes": 12
+      "justified_rating": 13,
+      "justified_votes": 13
    },
    "1555849623": {
       "title": "SCP-901-TH",
