@@ -62225,8 +62225,8 @@
       ],
       "hidden_tags": [],
       "comments": "2",
-      "rating": "8",
-      "votes": "8",
+      "rating": "9",
+      "votes": "9",
       "parent": null,
       "id": "1308491977",
       "detailed_rating": {
@@ -62262,12 +62262,16 @@
             [
                "4442284",
                1617811200
+            ],
+            [
+               "6418659",
+               1725471218
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 8,
-      "justified_votes": 8
+      "justified_rating": 9,
+      "justified_votes": 9
    },
    "1617923667": {
       "title": "Jonathan Ball的提案",
