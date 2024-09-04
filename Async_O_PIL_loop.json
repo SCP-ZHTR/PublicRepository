@@ -55719,8 +55719,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "38",
-      "votes": "38",
+      "rating": "39",
+      "votes": "39",
       "parent": null,
       "id": "1305843907",
       "detailed_rating": {
@@ -55876,12 +55876,16 @@
             [
                "8319365",
                1718405449
+            ],
+            [
+               "6418659",
+               1725472857
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 38,
-      "justified_votes": 38
+      "justified_rating": 39,
+      "justified_votes": 39
    },
    "1605784210": {
       "title": "沙皇先知協會擬人-奇術講解篇",
@@ -65627,8 +65631,8 @@
          "_cc"
       ],
       "comments": "7",
-      "rating": "5",
-      "votes": "33",
+      "rating": "6",
+      "votes": "34",
       "parent": null,
       "id": "1308448059",
       "detailed_rating": {
@@ -65708,6 +65712,10 @@
             [
                "8910058",
                1701618527
+            ],
+            [
+               "6418659",
+               1725472857
             ]
          ],
          "-": [
@@ -65722,10 +65730,6 @@
             [
                "4990678",
                1617120000
-            ],
-            [
-               "7521095",
-               1627833600
             ],
             [
                "7840542",
@@ -65766,11 +65770,15 @@
             [
                "7513990",
                1718622268
+            ],
+            [
+               "DELETED",
+               1725472857
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 4,
+      "justified_rating": 6,
       "justified_votes": 30
    },
    "1617094555": {
