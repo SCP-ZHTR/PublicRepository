@@ -4567,8 +4567,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "3",
-      "votes": "3",
+      "rating": "4",
+      "votes": "4",
       "parent": "scp-261",
       "id": "1002303807",
       "detailed_rating": {
@@ -4584,12 +4584,16 @@
             [
                "4442284",
                1689143977
+            ],
+            [
+               "6418659",
+               1725474900
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 3,
-      "justified_votes": 3
+      "justified_rating": 4,
+      "justified_votes": 4
    },
    "1585237011": {
       "title": "SCP系列5故事版",
