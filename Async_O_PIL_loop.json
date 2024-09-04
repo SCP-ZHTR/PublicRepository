@@ -140144,9 +140144,9 @@
          "肉食性"
       ],
       "hidden_tags": [],
-      "comments": "1",
-      "rating": "5",
-      "votes": "5",
+      "comments": "2",
+      "rating": "6",
+      "votes": "6",
       "parent": null,
       "id": "1456664039",
       "detailed_rating": {
@@ -140170,11 +140170,15 @@
             [
                "7073060",
                1725438050
+            ],
+            [
+               "5435485",
+               1725439799
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 5,
-      "justified_votes": 5
+      "justified_rating": 6,
+      "justified_votes": 6
    }
 }
