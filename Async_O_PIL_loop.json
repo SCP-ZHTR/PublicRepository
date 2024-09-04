@@ -136922,8 +136922,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "24",
-      "votes": "24",
+      "rating": "25",
+      "votes": "25",
       "parent": null,
       "id": "1455950469",
       "detailed_rating": {
@@ -137023,12 +137023,16 @@
             [
                "5062193",
                1725111374
+            ],
+            [
+               "7852233",
+               1725456301
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 24,
-      "justified_votes": 24
+      "justified_rating": 25,
+      "justified_votes": 25
    },
    "1722024424": {
       "title": "SCP-ZH-924 - 殘局",
