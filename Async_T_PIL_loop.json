@@ -47377,8 +47377,8 @@
          "_cc"
       ],
       "comments": "2",
-      "rating": "12",
-      "votes": "12",
+      "rating": "13",
+      "votes": "13",
       "parent": null,
       "id": "1305376765",
       "detailed_rating": {
@@ -47430,12 +47430,16 @@
             [
                "3981670",
                1617120000
+            ],
+            [
+               "6418659",
+               1725474220
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 12,
-      "justified_votes": 12
+      "justified_rating": 13,
+      "justified_votes": 13
    },
    "1602953625": {
       "title": "SCP-198 - 來杯咖啡",
