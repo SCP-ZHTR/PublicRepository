@@ -140122,5 +140122,35 @@
       "deleted": false,
       "justified_rating": 9,
       "justified_votes": 9
+   },
+   "1725433876": {
+      "title": "SCP-ZH-845 - 蟻屍",
+      "fullname": "scp-zh-845",
+      "created_at": "1725433876",
+      "created_by": "7655555",
+      "tags": [
+         "scp",
+         "動物",
+         "原創",
+         "寄生性",
+         "屍體",
+         "昆蟲",
+         "機密分級",
+         "物種",
+         "生物危害",
+         "生物性",
+         "節肢動物",
+         "肉食性"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1456664039",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
