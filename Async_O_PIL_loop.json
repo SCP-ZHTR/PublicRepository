@@ -140012,8 +140012,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "10",
-      "votes": "10",
+      "rating": "11",
+      "votes": "11",
       "parent": null,
       "id": "1456623366",
       "detailed_rating": {
@@ -140057,12 +140057,16 @@
             [
                "6217438",
                1725380560
+            ],
+            [
+               "4990678",
+               1725464087
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 10,
-      "justified_votes": 10
+      "justified_rating": 11,
+      "justified_votes": 11
    },
    "1725322917": {
       "title": "拼圖零片",
