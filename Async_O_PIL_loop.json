@@ -5037,8 +5037,8 @@
          "_info"
       ],
       "comments": "0",
-      "rating": "28",
-      "votes": "28",
+      "rating": "29",
+      "votes": "29",
       "parent": null,
       "id": "656678394",
       "detailed_rating": {
@@ -5154,12 +5154,16 @@
             [
                "7226401",
                1617120000
+            ],
+            [
+               "6418659",
+               1725535349
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 28,
-      "justified_votes": 28
+      "justified_rating": 29,
+      "justified_votes": 29
    },
    "1553786767": {
       "title": "SCP-ZH-687 - 獨眼發條貓",
