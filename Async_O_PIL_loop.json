@@ -137689,8 +137689,8 @@
       ],
       "hidden_tags": [],
       "comments": "2",
-      "rating": "22",
-      "votes": "22",
+      "rating": "23",
+      "votes": "23",
       "parent": null,
       "id": "1456189215",
       "detailed_rating": {
@@ -137782,12 +137782,16 @@
             [
                "6418659",
                1725352520
+            ],
+            [
+               "7655555",
+               1725517319
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 22,
-      "justified_votes": 22
+      "justified_rating": 23,
+      "justified_votes": 23
    },
    "1723653516": {
       "title": "SCP-ZH-420 - 風是「法槌」",
@@ -137949,8 +137953,8 @@
       ],
       "hidden_tags": [],
       "comments": "2",
-      "rating": "25",
-      "votes": "25",
+      "rating": "26",
+      "votes": "26",
       "parent": null,
       "id": "1456300605",
       "detailed_rating": {
@@ -138054,12 +138058,16 @@
             [
                "6418659",
                1725351446
+            ],
+            [
+               "7655555",
+               1725517319
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 25,
-      "justified_votes": 25
+      "justified_rating": 26,
+      "justified_votes": 26
    },
    "1723867205": {
       "title": "SCP-ZH-454 - 早是「滋潤」",
