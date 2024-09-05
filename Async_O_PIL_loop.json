@@ -139041,8 +139041,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "12",
-      "votes": "12",
+      "rating": "13",
+      "votes": "13",
       "parent": null,
       "id": "1456481157",
       "detailed_rating": {
@@ -139094,12 +139094,16 @@
             [
                "6418659",
                1725296839
+            ],
+            [
+               "7655555",
+               1725517462
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 12,
-      "justified_votes": 12
+      "justified_rating": 13,
+      "justified_votes": 13
    },
    "1724342750": {
       "title": "SCP-ZH-792 - 開是「鯨吞」",
@@ -139209,8 +139213,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "12",
-      "votes": "12",
+      "rating": "13",
+      "votes": "13",
       "parent": null,
       "id": "1456527759",
       "detailed_rating": {
@@ -139262,12 +139266,16 @@
             [
                "5013754",
                1724924895
+            ],
+            [
+               "7655555",
+               1725517462
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 12,
-      "justified_votes": 12
+      "justified_rating": 13,
+      "justified_votes": 13
    },
    "1724519044": {
       "title": "SCP-ZH-819 - 雪是「囚因」",
