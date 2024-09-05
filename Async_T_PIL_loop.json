@@ -91471,8 +91471,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "2",
-      "votes": "2",
+      "rating": "3",
+      "votes": "3",
       "parent": null,
       "id": "1402842904",
       "detailed_rating": {
@@ -91484,12 +91484,16 @@
             [
                "4442284",
                1655308800
+            ],
+            [
+               "9311399",
+               1725547872
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 2,
-      "justified_votes": 2
+      "justified_rating": 3,
+      "justified_votes": 3
    },
    "1652153490": {
       "title": "SCP-372-JP - 火燙的拉麵",
