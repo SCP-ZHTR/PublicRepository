@@ -140688,9 +140688,9 @@
          "認知危害"
       ],
       "hidden_tags": [],
-      "comments": "1",
-      "rating": "4",
-      "votes": "4",
+      "comments": "2",
+      "rating": "5",
+      "votes": "5",
       "parent": null,
       "id": "1456693485",
       "detailed_rating": {
@@ -140710,12 +140710,16 @@
             [
                "8546930",
                1725763648
+            ],
+            [
+               "7504530",
+               1725787736
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 4,
-      "justified_votes": 4
+      "justified_rating": 5,
+      "justified_votes": 5
    },
    "1725787195": {
       "title": "SCP-3595 - 團結（Einheit）",
