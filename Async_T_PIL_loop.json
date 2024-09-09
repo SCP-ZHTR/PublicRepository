@@ -140774,5 +140774,26 @@
       "deleted": false,
       "justified_rating": 1,
       "justified_votes": 1
+   },
+   "1725889634": {
+      "title": "SCP-8147 - 世界建造者",
+      "fullname": "scp-8147",
+      "created_at": "1725889634",
+      "created_by": "6217438",
+      "tags": [
+         "en",
+         "scp",
+         "翻譯"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1456716715",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
