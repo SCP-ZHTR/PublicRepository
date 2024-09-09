@@ -140442,8 +140442,8 @@
          "_image"
       ],
       "comments": "0",
-      "rating": "2",
-      "votes": "2",
+      "rating": "3",
+      "votes": "3",
       "parent": null,
       "id": "1456716948",
       "detailed_rating": {
@@ -140455,11 +140455,15 @@
             [
                "8854072",
                1725892279
+            ],
+            [
+               "5370805",
+               1725892821
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 2,
-      "justified_votes": 2
+      "justified_rating": 3,
+      "justified_votes": 3
    }
 }
