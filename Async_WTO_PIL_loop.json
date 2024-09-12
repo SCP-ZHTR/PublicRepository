@@ -16044,7 +16044,7 @@
       "hidden_tags": [],
       "comments": "0",
       "rating": "-2",
-      "votes": "2",
+      "votes": "3",
       "parent": null,
       "id": "1456736624",
       "detailed_rating": {
@@ -16056,11 +16056,15 @@
             [
                "4239775",
                1726111754
+            ],
+            [
+               "7513990",
+               1726164719
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": -2,
-      "justified_votes": 2
+      "justified_rating": -3,
+      "justified_votes": 3
    }
 }
