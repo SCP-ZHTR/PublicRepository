@@ -27171,7 +27171,9 @@
       "fullname": "deleted:foundational-personal-decomunt:scepter-56",
       "created_at": "1724425487",
       "created_by": "8273427",
-      "tags": [],
+      "tags": [
+         "待刪除"
+      ],
       "hidden_tags": [],
       "comments": "1",
       "rating": "-4",
