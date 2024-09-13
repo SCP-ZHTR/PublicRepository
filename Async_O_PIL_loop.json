@@ -34927,8 +34927,8 @@
       ],
       "hidden_tags": [],
       "comments": "4",
-      "rating": "11",
-      "votes": "11",
+      "rating": "12",
+      "votes": "12",
       "parent": null,
       "id": "1024177077",
       "detailed_rating": {
@@ -34976,12 +34976,16 @@
             [
                "5454699",
                1657987200
+            ],
+            [
+               "7852233",
+               1726216934
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 11,
-      "justified_votes": 11
+      "justified_rating": 12,
+      "justified_votes": 12
    },
    "1586055934": {
       "title": "主站博士相關插圖",
