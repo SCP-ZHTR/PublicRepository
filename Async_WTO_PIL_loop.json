@@ -3150,8 +3150,8 @@
          "_cc"
       ],
       "comments": "2",
-      "rating": "11",
-      "votes": "11",
+      "rating": "12",
+      "votes": "12",
       "parent": null,
       "id": "860299307",
       "detailed_rating": {
@@ -3199,12 +3199,16 @@
             [
                "5817419",
                1689143977
+            ],
+            [
+               "9311399",
+               1726323391
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 11,
-      "justified_votes": 11
+      "justified_rating": 12,
+      "justified_votes": 12
    },
    "1566970261": {
       "title": "CSS政策修正案討論",
