@@ -16043,8 +16043,8 @@
       "tags": [],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "-4",
-      "votes": "4",
+      "rating": "-3",
+      "votes": "5",
       "parent": null,
       "id": "1456736624",
       "detailed_rating": {
@@ -16065,10 +16065,16 @@
                "5062193",
                1726190209
             ]
+         ],
+         "+": [
+            [
+               "9391645",
+               1726273232
+            ]
          ]
       },
       "deleted": false,
-      "justified_rating": -4,
-      "justified_votes": 4
+      "justified_rating": -3,
+      "justified_votes": 5
    }
 }
