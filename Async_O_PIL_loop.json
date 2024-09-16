@@ -140568,9 +140568,9 @@
          "資訊危害"
       ],
       "hidden_tags": [],
-      "comments": "2",
-      "rating": "1",
-      "votes": "1",
+      "comments": "3",
+      "rating": "2",
+      "votes": "2",
       "parent": null,
       "id": "1456805674",
       "detailed_rating": {
@@ -140578,11 +140578,15 @@
             [
                "6217438",
                1726504323
+            ],
+            [
+               "5435485",
+               1726508446
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 1,
-      "justified_votes": 1
+      "justified_rating": 2,
+      "justified_votes": 2
    }
 }
