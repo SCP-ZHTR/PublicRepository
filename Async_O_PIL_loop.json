@@ -140550,5 +140550,32 @@
       "deleted": false,
       "justified_rating": 6,
       "justified_votes": 6
+   },
+   "1726502400": {
+      "title": "SCP-ZH-851 - 人是「人言無常」",
+      "fullname": "scp-zh-851",
+      "created_at": "1726502400",
+      "created_by": "7605593",
+      "tags": [
+         "euclid",
+         "scp",
+         "原創",
+         "敘述性",
+         "時間影響",
+         "真紀博士",
+         "研究員knave",
+         "語言",
+         "資訊危害"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1456805674",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
