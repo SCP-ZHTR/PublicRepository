@@ -14145,8 +14145,8 @@
          "_info"
       ],
       "comments": "0",
-      "rating": "9",
-      "votes": "9",
+      "rating": "10",
+      "votes": "10",
       "parent": null,
       "id": "854828643",
       "detailed_rating": {
@@ -14186,12 +14186,16 @@
             [
                "5415046",
                1617120000
+            ],
+            [
+               "8418020",
+               1726490769
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 9,
-      "justified_votes": 9
+      "justified_rating": 10,
+      "justified_votes": 10
    },
    "1565354611": {
       "title": "Ctrl Z博士的SCP記錄：SCP-096 羞澀之人",
