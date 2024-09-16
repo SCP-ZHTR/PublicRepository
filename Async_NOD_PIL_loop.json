@@ -27560,13 +27560,42 @@
       "tags": [],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "0",
-      "votes": "0",
+      "rating": "-4",
+      "votes": "6",
       "parent": null,
       "id": "1456736624",
-      "detailed_rating": {},
+      "detailed_rating": {
+         "+": [
+            [
+               "9391645",
+               1726458109
+            ]
+         ],
+         "-": [
+            [
+               "7513990",
+               1726458109
+            ],
+            [
+               "5062193",
+               1726458109
+            ],
+            [
+               "7073060",
+               1726458109
+            ],
+            [
+               "4239775",
+               1726458109
+            ],
+            [
+               "8543386",
+               1726458109
+            ]
+         ]
+      },
       "deleted": false,
-      "justified_rating": 0,
-      "justified_votes": 0
+      "justified_rating": -4,
+      "justified_votes": 6
    }
 }
