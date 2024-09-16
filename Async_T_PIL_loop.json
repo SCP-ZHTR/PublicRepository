@@ -140930,5 +140930,40 @@
       "deleted": false,
       "justified_rating": 0,
       "justified_votes": 0
+   },
+   "1726491741": {
+      "title": "SCP-7701 - 征服者蠕蟲",
+      "fullname": "scp-7701",
+      "created_at": "1726491741",
+      "created_by": "6088232",
+      "tags": [
+         "en",
+         "illustrated",
+         "keter",
+         "scp",
+         "人形",
+         "受絞之王",
+         "地下",
+         "宇宙恐怖",
+         "建築物",
+         "心理恐怖",
+         "恐怖",
+         "悲戚",
+         "智能",
+         "翻譯",
+         "蠕蟲",
+         "表演",
+         "阿拉加達"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1456804468",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
