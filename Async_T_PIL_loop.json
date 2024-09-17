@@ -2849,8 +2849,8 @@
          "_info"
       ],
       "comments": "0",
-      "rating": "4",
-      "votes": "4",
+      "rating": "5",
+      "votes": "5",
       "parent": null,
       "id": "674800012",
       "detailed_rating": {
@@ -2870,12 +2870,16 @@
             [
                "3981670",
                1617120000
+            ],
+            [
+               "9311399",
+               1726583873
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 4,
-      "justified_votes": 4
+      "justified_rating": 5,
+      "justified_votes": 5
    },
    "1554566691": {
       "title": "SCP-1021 - 出口",
@@ -31434,8 +31438,8 @@
       ],
       "hidden_tags": [],
       "comments": "2",
-      "rating": "6",
-      "votes": "8",
+      "rating": "7",
+      "votes": "9",
       "parent": null,
       "id": "1024215116",
       "detailed_rating": {
@@ -31467,6 +31471,10 @@
             [
                "8854072",
                1713968661
+            ],
+            [
+               "9311399",
+               1726583873
             ]
          ],
          "-": [
@@ -31477,8 +31485,8 @@
          ]
       },
       "deleted": false,
-      "justified_rating": 6,
-      "justified_votes": 8
+      "justified_rating": 7,
+      "justified_votes": 9
    },
    "1586188160": {
       "title": "SCP-895 - 攝像擾動",
