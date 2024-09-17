@@ -85478,8 +85478,8 @@
       ],
       "hidden_tags": [],
       "comments": "2",
-      "rating": "10",
-      "votes": "10",
+      "rating": "11",
+      "votes": "11",
       "parent": null,
       "id": "1331351281",
       "detailed_rating": {
@@ -85523,12 +85523,16 @@
             [
                "DELETED",
                1695270378
+            ],
+            [
+               "6217438",
+               1726582349
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 9,
-      "justified_votes": 9
+      "justified_rating": 10,
+      "justified_votes": 10
    },
    "1641729421": {
       "title": "音樂律動加密程序",
