@@ -140632,8 +140632,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "1",
-      "votes": "1",
+      "rating": "2",
+      "votes": "2",
       "parent": null,
       "id": "1456810282",
       "detailed_rating": {
@@ -140641,11 +140641,15 @@
             [
                "7073060",
                1726547359
+            ],
+            [
+               "7605593",
+               1726547898
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 1,
-      "justified_votes": 1
+      "justified_rating": 2,
+      "justified_votes": 2
    }
 }
