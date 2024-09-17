@@ -117573,8 +117573,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "10",
-      "votes": "10",
+      "rating": "11",
+      "votes": "11",
       "parent": null,
       "id": "1449140727",
       "detailed_rating": {
@@ -117618,12 +117618,16 @@
             [
                "5435485",
                1690736254
+            ],
+            [
+               "9075244",
+               1726543030
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 10,
-      "justified_votes": 10
+      "justified_rating": 11,
+      "justified_votes": 11
    },
    "1690426452": {
       "title": "項目企劃書 2023-175：《迷失的薪水小偷》",
