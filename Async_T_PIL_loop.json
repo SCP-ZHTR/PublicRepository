@@ -49812,8 +49812,8 @@
       ],
       "hidden_tags": [],
       "comments": "2",
-      "rating": "9",
-      "votes": "9",
+      "rating": "10",
+      "votes": "10",
       "parent": null,
       "id": "1305758145",
       "detailed_rating": {
@@ -49853,12 +49853,16 @@
             [
                "5981123",
                1718924058
+            ],
+            [
+               "9311399",
+               1726583734
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 9,
-      "justified_votes": 9
+      "justified_rating": 10,
+      "justified_votes": 10
    },
    "1604947248": {
       "title": "SCP-1440 - 來歷不明的老人",
@@ -49882,8 +49886,8 @@
          "_cc"
       ],
       "comments": "1",
-      "rating": "9",
-      "votes": "9",
+      "rating": "10",
+      "votes": "10",
       "parent": null,
       "id": "1305760822",
       "detailed_rating": {
@@ -49923,12 +49927,16 @@
             [
                "5981123",
                1721305777
+            ],
+            [
+               "9311399",
+               1726583734
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 9,
-      "justified_votes": 9
+      "justified_rating": 10,
+      "justified_votes": 10
    },
    "1604971745": {
       "title": "世界線中心-JP",
