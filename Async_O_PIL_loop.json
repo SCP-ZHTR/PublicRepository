@@ -140608,5 +140608,37 @@
       "deleted": false,
       "justified_rating": 4,
       "justified_votes": 4
+   },
+   "1726546425": {
+      "title": "SCP-ZH-984 - 一是「一二」",
+      "fullname": "scp-zh-984",
+      "created_at": "1726546425",
+      "created_by": "6217438",
+      "tags": [
+         "scp",
+         "不可摧毀",
+         "不可移動",
+         "倫理委員會",
+         "原創",
+         "反熵",
+         "天紀-17",
+         "容器",
+         "廢除部",
+         "敵意",
+         "死亡終了",
+         "火",
+         "玻璃",
+         "第八處"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1456810282",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
