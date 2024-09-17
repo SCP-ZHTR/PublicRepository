@@ -36017,8 +36017,8 @@
          "_cc"
       ],
       "comments": "8",
-      "rating": "42",
-      "votes": "42",
+      "rating": "43",
+      "votes": "43",
       "parent": null,
       "id": "1024300553",
       "detailed_rating": {
@@ -36190,12 +36190,16 @@
             [
                "7827462",
                1713066982
+            ],
+            [
+               "9075244",
+               1726540051
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 42,
-      "justified_votes": 42
+      "justified_rating": 43,
+      "justified_votes": 43
    },
    "1586789522": {
       "title": "我的爺爺",
