@@ -41847,8 +41847,8 @@
          "_cc"
       ],
       "comments": "0",
-      "rating": "24",
-      "votes": "24",
+      "rating": "25",
+      "votes": "25",
       "parent": null,
       "id": "1144708088",
       "detailed_rating": {
@@ -41948,12 +41948,16 @@
             [
                "5454699",
                1617120000
+            ],
+            [
+               "9075244",
+               1726540465
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 24,
-      "justified_votes": 24
+      "justified_rating": 25,
+      "justified_votes": 25
    },
    "1591589945": {
       "title": "記憶的洪流",
