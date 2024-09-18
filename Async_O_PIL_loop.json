@@ -140597,8 +140597,8 @@
       ],
       "hidden_tags": [],
       "comments": "6",
-      "rating": "5",
-      "votes": "5",
+      "rating": "6",
+      "votes": "6",
       "parent": null,
       "id": "1456805674",
       "detailed_rating": {
@@ -140622,12 +140622,16 @@
             [
                "6152598",
                1726587411
+            ],
+            [
+               "4239775",
+               1726641915
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 5,
-      "justified_votes": 5
+      "justified_rating": 6,
+      "justified_votes": 6
    },
    "1726546425": {
       "title": "SCP-ZH-984 - 一是「一二」",
