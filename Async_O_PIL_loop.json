@@ -140497,8 +140497,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "5",
-      "votes": "5",
+      "rating": "6",
+      "votes": "6",
       "parent": null,
       "id": "1456705831",
       "detailed_rating": {
@@ -140522,12 +140522,16 @@
             [
                "6217438",
                1725860382
+            ],
+            [
+               "8883612",
+               1726740985
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 5,
-      "justified_votes": 5
+      "justified_rating": 6,
+      "justified_votes": 6
    },
    "1725891729": {
       "title": "「憂患之子」",
