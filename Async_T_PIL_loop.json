@@ -23636,8 +23636,8 @@
          "_cc"
       ],
       "comments": "1",
-      "rating": "18",
-      "votes": "18",
+      "rating": "19",
+      "votes": "19",
       "parent": null,
       "id": "995063621",
       "detailed_rating": {
@@ -23713,12 +23713,16 @@
             [
                "8883612",
                1710152121
+            ],
+            [
+               "9311399",
+               1726844502
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 18,
-      "justified_votes": 18
+      "justified_rating": 19,
+      "justified_votes": 19
    },
    "1582297930": {
       "title": "SCP-093「碧藍」測試",
