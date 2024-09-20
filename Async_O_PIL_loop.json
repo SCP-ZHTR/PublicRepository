@@ -140711,5 +140711,28 @@
       "deleted": false,
       "justified_rating": 8,
       "justified_votes": 8
+   },
+   "1726819254": {
+      "title": "西加走灣輓歌・中：部族瓦解",
+      "fullname": "radiw-no-kitakit-2",
+      "created_at": "1726819254",
+      "created_by": "5435485",
+      "tags": [
+         "ain博士",
+         "cidal-dongi",
+         "site-zh-44",
+         "原創",
+         "故事"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1456870548",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
