@@ -57077,8 +57077,8 @@
          "_cc"
       ],
       "comments": "2",
-      "rating": "4",
-      "votes": "4",
+      "rating": "5",
+      "votes": "5",
       "parent": null,
       "id": "1306983458",
       "detailed_rating": {
@@ -57098,12 +57098,16 @@
             [
                "4442284",
                1623168000
+            ],
+            [
+               "8854072",
+               1726828637
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 4,
-      "justified_votes": 4
+      "justified_rating": 5,
+      "justified_votes": 5
    },
    "1614171229": {
       "title": "SCP-3034 - 倒數站",
