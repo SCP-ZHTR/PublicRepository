@@ -140704,8 +140704,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "9",
-      "votes": "9",
+      "rating": "10",
+      "votes": "10",
       "parent": null,
       "id": "1456810282",
       "detailed_rating": {
@@ -140745,12 +140745,16 @@
             [
                "8854072",
                1726841828
+            ],
+            [
+               "5428435",
+               1727101679
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 9,
-      "justified_votes": 9
+      "justified_rating": 10,
+      "justified_votes": 10
    },
    "1726819254": {
       "title": "西加走灣輓歌・中：部族瓦解",
