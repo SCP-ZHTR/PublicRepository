@@ -129397,8 +129397,8 @@
          "_探險者mk"
       ],
       "comments": "0",
-      "rating": "13",
-      "votes": "13",
+      "rating": "14",
+      "votes": "14",
       "parent": null,
       "id": "1452566407",
       "detailed_rating": {
@@ -129454,12 +129454,16 @@
             [
                "DELETED",
                1719252366
+            ],
+            [
+               "9075244",
+               1727104094
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 12,
-      "justified_votes": 12
+      "justified_rating": 13,
+      "justified_votes": 13
    },
    "1707286026": {
       "title": "或許落雨不盡歸於海淵",
