@@ -39485,8 +39485,8 @@
          "_cc"
       ],
       "comments": "0",
-      "rating": "24",
-      "votes": "26",
+      "rating": "25",
+      "votes": "27",
       "parent": null,
       "id": "1040165930",
       "detailed_rating": {
@@ -39590,6 +39590,10 @@
             [
                "9311399",
                1723037319
+            ],
+            [
+               "9163798",
+               1727081971
             ]
          ],
          "-": [
@@ -39600,8 +39604,8 @@
          ]
       },
       "deleted": false,
-      "justified_rating": 23,
-      "justified_votes": 25
+      "justified_rating": 24,
+      "justified_votes": 26
    },
    "1589814178": {
       "title": "事件代號：核裂擠兌 蛛網裡的老鷹",
@@ -120281,8 +120285,8 @@
          "_cc"
       ],
       "comments": "0",
-      "rating": "16",
-      "votes": "16",
+      "rating": "17",
+      "votes": "17",
       "parent": null,
       "id": "1449977615",
       "detailed_rating": {
@@ -120350,12 +120354,16 @@
             [
                "8883612",
                1712995113
+            ],
+            [
+               "9075244",
+               1727081971
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 16,
-      "justified_votes": 16
+      "justified_rating": 17,
+      "justified_votes": 17
    },
    "1694846027": {
       "title": "SCP-ZH-020 - 追逐往昔的潮汐",
@@ -122495,8 +122503,8 @@
          "_你感覺到了嗎"
       ],
       "comments": "0",
-      "rating": "6",
-      "votes": "6",
+      "rating": "7",
+      "votes": "7",
       "parent": null,
       "id": "1450098507",
       "detailed_rating": {
@@ -122524,12 +122532,16 @@
             [
                "5338547",
                1695624632
+            ],
+            [
+               "7618181",
+               1727081971
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 6,
-      "justified_votes": 6
+      "justified_rating": 7,
+      "justified_votes": 7
    },
    "1695394407": {
       "title": "SCP-ZH-215 - 眼前瞬間的黑",
