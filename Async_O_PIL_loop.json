@@ -140872,5 +140872,27 @@
       "deleted": false,
       "justified_rating": 4,
       "justified_votes": 4
+   },
+   "1727149847": {
+      "title": "Cinamalay 急那麼來：繁中急迫競賽 3.0",
+      "fullname": "jamcon-zh-2024",
+      "created_at": "1727149847",
+      "created_by": "5435485",
+      "tags": [
+         "zh急迫競賽2024",
+         "中心",
+         "原創",
+         "競賽"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1456909402",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
