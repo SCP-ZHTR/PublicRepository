@@ -140786,8 +140786,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "7",
-      "votes": "7",
+      "rating": "8",
+      "votes": "8",
       "parent": null,
       "id": "1456870548",
       "detailed_rating": {
@@ -140819,12 +140819,16 @@
             [
                "4264056",
                1726892844
+            ],
+            [
+               "6503482",
+               1727149336
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 7,
-      "justified_votes": 7
+      "justified_rating": 8,
+      "justified_votes": 8
    },
    "1727017225": {
       "title": "西加走灣輓歌・下：靈魂崩碎",
