@@ -141107,5 +141107,36 @@
       "deleted": false,
       "justified_rating": 0,
       "justified_votes": 0
+   },
+   "1727229978": {
+      "title": "SCP-8372 - 永恆灰燼",
+      "fullname": "scp-8372",
+      "created_at": "1727229978",
+      "created_by": "6088232",
+      "tags": [
+         "en",
+         "safe",
+         "scp",
+         "來自120站的檔案",
+         "反常部",
+         "屍體",
+         "建築物",
+         "欲肉教",
+         "殆瓦",
+         "精神影響",
+         "翻譯",
+         "藝術性",
+         "觀察影響"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1456919270",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
