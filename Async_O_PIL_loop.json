@@ -140203,8 +140203,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "10",
-      "votes": "10",
+      "rating": "11",
+      "votes": "11",
       "parent": "scp-zh-728",
       "id": "1456612849",
       "detailed_rating": {
@@ -140248,12 +140248,16 @@
             [
                "5338547",
                1726832817
+            ],
+            [
+               "8846720",
+               1727355126
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 10,
-      "justified_votes": 10
+      "justified_rating": 11,
+      "justified_votes": 11
    },
    "1725200315": {
       "title": "SCP-ZH-904 - 上是「失鄉」",
@@ -140816,8 +140820,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "8",
-      "votes": "8",
+      "rating": "9",
+      "votes": "9",
       "parent": null,
       "id": "1456870548",
       "detailed_rating": {
@@ -140853,12 +140857,16 @@
             [
                "6503482",
                1727149336
+            ],
+            [
+               "8846720",
+               1727355126
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 8,
-      "justified_votes": 8
+      "justified_rating": 9,
+      "justified_votes": 9
    },
    "1727017225": {
       "title": "西加走灣輓歌・下：靈魂崩碎",
