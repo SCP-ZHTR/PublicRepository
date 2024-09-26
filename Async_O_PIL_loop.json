@@ -40022,8 +40022,8 @@
          "_cc"
       ],
       "comments": "2",
-      "rating": "9",
-      "votes": "9",
+      "rating": "10",
+      "votes": "10",
       "parent": null,
       "id": "1073202113",
       "detailed_rating": {
@@ -40063,12 +40063,16 @@
             [
                "4351112",
                1617120000
+            ],
+            [
+               "8418020",
+               1727354041
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 9,
-      "justified_votes": 9
+      "justified_rating": 10,
+      "justified_votes": 10
    },
    "1590364366": {
       "title": "SCP-ZH-291 - 謎之外星血晶螳螂蔓",
