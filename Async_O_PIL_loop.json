@@ -140887,8 +140887,8 @@
          "_禁黑"
       ],
       "comments": "0",
-      "rating": "7",
-      "votes": "7",
+      "rating": "8",
+      "votes": "8",
       "parent": null,
       "id": "1456892440",
       "detailed_rating": {
@@ -140920,12 +140920,16 @@
             [
                "8846720",
                1727354986
+            ],
+            [
+               "7605593",
+               1727358247
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 7,
-      "justified_votes": 7
+      "justified_rating": 8,
+      "justified_votes": 8
    },
    "1727149847": {
       "title": "Cinamalay 急那麼來：繁中急迫競賽 3.0",
@@ -140940,8 +140944,8 @@
       ],
       "hidden_tags": [],
       "comments": "6",
-      "rating": "4",
-      "votes": "4",
+      "rating": "5",
+      "votes": "5",
       "parent": null,
       "id": "1456909402",
       "detailed_rating": {
@@ -140961,11 +140965,15 @@
             [
                "4206567",
                1727162662
+            ],
+            [
+               "7605593",
+               1727358247
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 4,
-      "justified_votes": 4
+      "justified_rating": 5,
+      "justified_votes": 5
    }
 }
