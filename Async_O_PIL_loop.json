@@ -140975,5 +140975,29 @@
       "deleted": false,
       "justified_rating": 5,
       "justified_votes": 5
+   },
+   "1727368785": {
+      "title": "SCP-ZH-567 - 舊的不去",
+      "fullname": "scp-zh-567",
+      "created_at": "1727368785",
+      "created_by": "5338547",
+      "tags": [
+         "scp",
+         "zh急迫競賽2024",
+         "原創",
+         "無效化"
+      ],
+      "hidden_tags": [
+         "_新"
+      ],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1456938409",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
