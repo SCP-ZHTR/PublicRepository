@@ -141049,8 +141049,8 @@
          "_南"
       ],
       "comments": "0",
-      "rating": "2",
-      "votes": "2",
+      "rating": "3",
+      "votes": "3",
       "parent": null,
       "id": "1456941144",
       "detailed_rating": {
@@ -141062,11 +141062,15 @@
             [
                "8452537",
                1727424566
+            ],
+            [
+               "5435485",
+               1727428698
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 2,
-      "justified_votes": 2
+      "justified_rating": 3,
+      "justified_votes": 3
    }
 }
