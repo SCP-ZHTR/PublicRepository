@@ -46568,8 +46568,8 @@
          "_cc"
       ],
       "comments": "0",
-      "rating": "11",
-      "votes": "11",
+      "rating": "12",
+      "votes": "12",
       "parent": null,
       "id": "1305108379",
       "detailed_rating": {
@@ -46617,12 +46617,16 @@
             [
                "DELETED",
                "[UNKNOWN]"
+            ],
+            [
+               "9075244",
+               1727396427
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 10,
-      "justified_votes": 10
+      "justified_rating": 11,
+      "justified_votes": 11
    },
    "1602084306": {
       "title": "SCP-132-JP-2 收容用紙",
