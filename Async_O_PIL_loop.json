@@ -141072,5 +141072,28 @@
       "deleted": false,
       "justified_rating": 3,
       "justified_votes": 3
+   },
+   "1727435252": {
+      "title": "天涼時節",
+      "fullname": "keep-yourself-warm",
+      "created_at": "1727435252",
+      "created_by": "5338547",
+      "tags": [
+         "zh急迫競賽2024",
+         "原創",
+         "故事"
+      ],
+      "hidden_tags": [
+         "_南"
+      ],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1456941974",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
