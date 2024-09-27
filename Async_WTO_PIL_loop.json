@@ -16243,5 +16243,22 @@
       "deleted": true,
       "justified_rating": 0,
       "justified_votes": 0
+   },
+   "1727422422": {
+      "title": "SCP-ZH-597 - 透南風密碼",
+      "fullname": "scp-zh-597",
+      "created_at": "1727422422",
+      "created_by": "5338547",
+      "tags": [],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1456941144",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
