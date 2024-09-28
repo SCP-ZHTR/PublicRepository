@@ -140905,8 +140905,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "11",
-      "votes": "11",
+      "rating": "12",
+      "votes": "12",
       "parent": null,
       "id": "1456729411",
       "detailed_rating": {
@@ -140954,12 +140954,16 @@
             [
                "8854072",
                1726828912
+            ],
+            [
+               "7504530",
+               1727548646
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 11,
-      "justified_votes": 11
+      "justified_rating": 12,
+      "justified_votes": 12
    },
    "1726243165": {
       "title": "午夜遊行",
