@@ -141115,12 +141115,15 @@
          "safe",
          "scp",
          "site-zh-02",
+         "zh急迫競賽2024",
          "不可摧毀",
          "原創",
          "金屬",
          "銘文"
       ],
-      "hidden_tags": [],
+      "hidden_tags": [
+         "_重新開始"
+      ],
       "comments": "0",
       "rating": "0",
       "votes": "0",
