@@ -141275,9 +141275,9 @@
          "第一人稱"
       ],
       "hidden_tags": [],
-      "comments": "0",
-      "rating": "2",
-      "votes": "2",
+      "comments": "1",
+      "rating": "4",
+      "votes": "4",
       "parent": null,
       "id": "1456950769",
       "detailed_rating": {
@@ -141293,11 +141293,15 @@
             [
                "5435485",
                1727611897
+            ],
+            [
+               "5338547",
+               1727612037
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 3,
-      "justified_votes": 3
+      "justified_rating": 4,
+      "justified_votes": 4
    }
 }
