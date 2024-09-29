@@ -139124,8 +139124,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "11",
-      "votes": "11",
+      "rating": "12",
+      "votes": "12",
       "parent": null,
       "id": "1456477755",
       "detailed_rating": {
@@ -139173,12 +139173,16 @@
             [
                "5062193",
                1725106893
+            ],
+            [
+               "9079426",
+               1727611897
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 11,
-      "justified_votes": 11
+      "justified_rating": 12,
+      "justified_votes": 12
    },
    "1724249205": {
       "title": "SCP-ZH-784 - 一是「意識流」",
@@ -141272,8 +141276,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "1",
-      "votes": "1",
+      "rating": "2",
+      "votes": "2",
       "parent": null,
       "id": "1456950769",
       "detailed_rating": {
@@ -141281,11 +141285,19 @@
             [
                "7852233",
                1727611626
+            ],
+            [
+               "8177208",
+               1727611897
+            ],
+            [
+               "5435485",
+               1727611897
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 1,
-      "justified_votes": 1
+      "justified_rating": 3,
+      "justified_votes": 3
    }
 }
