@@ -16376,7 +16376,7 @@
       "parent": null,
       "id": "1456954689",
       "detailed_rating": {},
-      "deleted": false,
+      "deleted": true,
       "justified_rating": 0,
       "justified_votes": 0
    },
@@ -16393,7 +16393,7 @@
       "parent": null,
       "id": "1456954695",
       "detailed_rating": {},
-      "deleted": false,
+      "deleted": true,
       "justified_rating": 0,
       "justified_votes": 0
    }

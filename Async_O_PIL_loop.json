@@ -141526,14 +141526,21 @@
          "_重新出發"
       ],
       "comments": "0",
-      "rating": "0",
-      "votes": "0",
+      "rating": "1",
+      "votes": "1",
       "parent": null,
       "id": "1456954313",
-      "detailed_rating": {},
+      "detailed_rating": {
+         "+": [
+            [
+               "8404617",
+               1727706861
+            ]
+         ]
+      },
       "deleted": false,
-      "justified_rating": 0,
-      "justified_votes": 0
+      "justified_rating": 1,
+      "justified_votes": 1
    },
    "1727705128": {
       "title": "SCP-ZH-615 - 祈雨鯨",
@@ -141636,6 +141643,53 @@
       "votes": "0",
       "parent": null,
       "id": "1456954435",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
+   },
+   "1727706467": {
+      "title": "重來沒我份?",
+      "fullname": "and-from-the-ashes-a-new-hk-site-will-be-born",
+      "created_at": "1727706467",
+      "created_by": "5062193",
+      "tags": [
+         "site-zh-25",
+         "原創",
+         "故事"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1456954689",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
+   },
+   "1727706652": {
+      "title": "下一站：死線",
+      "fullname": "bokoichi-the-freightening-car",
+      "created_at": "1727706652",
+      "created_by": "8543386",
+      "tags": [
+         "ad博士",
+         "chrome博士",
+         "surge博士",
+         "tostren博士",
+         "zh急迫競賽2024",
+         "原創",
+         "真紀博士",
+         "藝術作品"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1456954695",
       "detailed_rating": {},
       "deleted": false,
       "justified_rating": 0,
