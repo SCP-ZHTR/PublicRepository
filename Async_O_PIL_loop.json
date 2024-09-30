@@ -142012,8 +142012,8 @@
          "_新"
       ],
       "comments": "1",
-      "rating": "7",
-      "votes": "7",
+      "rating": "8",
+      "votes": "8",
       "parent": null,
       "id": "1456955005",
       "detailed_rating": {
@@ -142045,11 +142045,15 @@
             [
                "4206567",
                1727718227
+            ],
+            [
+               "8177208",
+               1727738044
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 7,
-      "justified_votes": 7
+      "justified_rating": 8,
+      "justified_votes": 8
    }
 }
