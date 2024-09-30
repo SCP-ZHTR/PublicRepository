@@ -141636,8 +141636,8 @@
          "_重新出發"
       ],
       "comments": "0",
-      "rating": "1",
-      "votes": "1",
+      "rating": "2",
+      "votes": "2",
       "parent": null,
       "id": "1456954434",
       "detailed_rating": {
@@ -141645,12 +141645,16 @@
             [
                "8404617",
                1727707156
+            ],
+            [
+               "5435485",
+               1727715708
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 1,
-      "justified_votes": 1
+      "justified_rating": 2,
+      "justified_votes": 2
    },
    "1727705273": {
       "title": "SCP-ZH-250 - 會到的快一點",
@@ -141976,8 +141980,8 @@
          "_新"
       ],
       "comments": "1",
-      "rating": "4",
-      "votes": "4",
+      "rating": "5",
+      "votes": "5",
       "parent": null,
       "id": "1456955005",
       "detailed_rating": {
@@ -141997,11 +142001,15 @@
             [
                "5435485",
                1727713170
+            ],
+            [
+               "8404617",
+               1727715708
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 4,
-      "justified_votes": 4
+      "justified_rating": 5,
+      "justified_votes": 5
    }
 }
