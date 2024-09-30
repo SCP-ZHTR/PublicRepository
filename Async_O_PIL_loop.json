@@ -141902,8 +141902,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "3",
-      "votes": "3",
+      "rating": "4",
+      "votes": "4",
       "parent": null,
       "id": "1456954953",
       "detailed_rating": {
@@ -141919,12 +141919,16 @@
             [
                "5435485",
                1727713870
+            ],
+            [
+               "5370805",
+               1727716291
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 3,
-      "justified_votes": 3
+      "justified_rating": 4,
+      "justified_votes": 4
    },
    "1727710543": {
       "title": "SCP-ZH-955 - Consider a spherical human.",
@@ -141992,8 +141996,8 @@
          "_新"
       ],
       "comments": "1",
-      "rating": "5",
-      "votes": "5",
+      "rating": "6",
+      "votes": "6",
       "parent": null,
       "id": "1456955005",
       "detailed_rating": {
@@ -142017,11 +142021,15 @@
             [
                "8404617",
                1727715708
+            ],
+            [
+               "7827462",
+               1727716291
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 5,
-      "justified_votes": 5
+      "justified_rating": 6,
+      "justified_votes": 6
    }
 }
