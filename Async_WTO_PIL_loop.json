@@ -16402,8 +16402,14 @@
       "fullname": "scp-zh-579",
       "created_at": "1727707859",
       "created_by": "6787405",
-      "tags": [],
-      "hidden_tags": [],
+      "tags": [
+         "scp",
+         "zh急迫競賽2024",
+         "機密分級"
+      ],
+      "hidden_tags": [
+         "_新"
+      ],
       "comments": "0",
       "rating": "0",
       "votes": "0",
