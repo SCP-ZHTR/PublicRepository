@@ -141787,8 +141787,8 @@
          "_新"
       ],
       "comments": "0",
-      "rating": "1",
-      "votes": "1",
+      "rating": "0",
+      "votes": "2",
       "parent": null,
       "id": "1456954783",
       "detailed_rating": {
@@ -141797,10 +141797,16 @@
                "8404617",
                1727709361
             ]
+         ],
+         "-": [
+            [
+               "6981058",
+               1727711043
+            ]
          ]
       },
       "deleted": false,
-      "justified_rating": 1,
-      "justified_votes": 1
+      "justified_rating": 0,
+      "justified_votes": 2
    }
 }
