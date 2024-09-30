@@ -141353,8 +141353,8 @@
          "_南"
       ],
       "comments": "0",
-      "rating": "4",
-      "votes": "4",
+      "rating": "5",
+      "votes": "5",
       "parent": null,
       "id": "1456953999",
       "detailed_rating": {
@@ -141374,12 +141374,16 @@
             [
                "7073060",
                1727700654
+            ],
+            [
+               "5370805",
+               1727702832
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 4,
-      "justified_votes": 4
+      "justified_rating": 5,
+      "justified_votes": 5
    },
    "1727697616": {
       "title": "我們會再次見面",
