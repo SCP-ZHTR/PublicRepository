@@ -118770,8 +118770,8 @@
          "_licensebox"
       ],
       "comments": "0",
-      "rating": "3",
-      "votes": "3",
+      "rating": "4",
+      "votes": "4",
       "parent": null,
       "id": "1447511507",
       "detailed_rating": {
@@ -118787,12 +118787,16 @@
             [
                "6217438",
                1682498322
+            ],
+            [
+               "9075244",
+               1727714154
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 3,
-      "justified_votes": 3
+      "justified_rating": 4,
+      "justified_votes": 4
    },
    "1682516590": {
       "title": "SCP-631 - 懼暗的夜行捕食者",

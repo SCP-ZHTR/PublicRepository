@@ -141917,8 +141917,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "1",
-      "votes": "1",
+      "rating": "2",
+      "votes": "2",
       "parent": null,
       "id": "1456954955",
       "detailed_rating": {
@@ -141926,12 +141926,20 @@
             [
                "7073060",
                1727711750
+            ],
+            [
+               "8404617",
+               1727714152
+            ],
+            [
+               "5435485",
+               1727714152
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 1,
-      "justified_votes": 1
+      "justified_rating": 3,
+      "justified_votes": 3
    },
    "1727711949": {
       "title": "未知航程：海峽戰役2-4",
