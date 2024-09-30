@@ -141326,5 +141326,32 @@
       "deleted": false,
       "justified_rating": 7,
       "justified_votes": 7
+   },
+   "1727696348": {
+      "title": "皇民文學中的歧路：〈香楠枝〉與鹿野純平的「異觀點」書寫",
+      "fullname": "the-diverging-paths-of-koumin-literature",
+      "created_at": "1727696348",
+      "created_by": "5013754",
+      "tags": [
+         "cidal-dongi",
+         "zh急迫競賽2024",
+         "原創",
+         "故事",
+         "日奉一族",
+         "神異博覽會",
+         "蒐集院"
+      ],
+      "hidden_tags": [
+         "_南"
+      ],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1456953999",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
