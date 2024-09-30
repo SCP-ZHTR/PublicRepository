@@ -141732,10 +141732,12 @@
          "真紀博士",
          "藝術作品"
       ],
-      "hidden_tags": [],
+      "hidden_tags": [
+         "_南"
+      ],
       "comments": "0",
-      "rating": "5",
-      "votes": "5",
+      "rating": "6",
+      "votes": "6",
       "parent": null,
       "id": "1456954695",
       "detailed_rating": {
@@ -141759,11 +141761,39 @@
             [
                "9075244",
                1727707766
+            ],
+            [
+               "4206567",
+               1727709079
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 5,
-      "justified_votes": 5
+      "justified_rating": 6,
+      "justified_votes": 6
+   },
+   "1727707859": {
+      "title": "SCP-ZH-579 - 門",
+      "fullname": "scp-zh-579",
+      "created_at": "1727707859",
+      "created_by": "6787405",
+      "tags": [
+         "scp",
+         "zh急迫競賽2024",
+         "原創",
+         "機密分級"
+      ],
+      "hidden_tags": [
+         "_新"
+      ],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1456954783",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
