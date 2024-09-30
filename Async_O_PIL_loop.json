@@ -141419,8 +141419,8 @@
          "_重新出發"
       ],
       "comments": "0",
-      "rating": "1",
-      "votes": "1",
+      "rating": "2",
+      "votes": "2",
       "parent": null,
       "id": "1456954025",
       "detailed_rating": {
@@ -141428,12 +141428,16 @@
             [
                "8177208",
                1727703113
+            ],
+            [
+               "5435485",
+               1727715852
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 1,
-      "justified_votes": 1
+      "justified_rating": 2,
+      "justified_votes": 2
    },
    "1727703000": {
       "title": "SCP-ZH-707 - 如果真理有一個方位",
@@ -141456,8 +141460,8 @@
          "_南"
       ],
       "comments": "0",
-      "rating": "1",
-      "votes": "1",
+      "rating": "2",
+      "votes": "2",
       "parent": null,
       "id": "1456954311",
       "detailed_rating": {
@@ -141465,12 +141469,16 @@
             [
                "9075244",
                1727707607
+            ],
+            [
+               "5435485",
+               1727715852
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 1,
-      "justified_votes": 1
+      "justified_rating": 2,
+      "justified_votes": 2
    },
    "1727703003": {
       "title": "SCP-ZH-636 - 流光、幻影、半屏大仙",
