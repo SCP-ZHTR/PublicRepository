@@ -141024,8 +141024,8 @@
          "_新"
       ],
       "comments": "0",
-      "rating": "5",
-      "votes": "5",
+      "rating": "6",
+      "votes": "6",
       "parent": null,
       "id": "1456938409",
       "detailed_rating": {
@@ -141049,12 +141049,16 @@
             [
                "8177208",
                1727401896
+            ],
+            [
+               "7852233",
+               1727706557
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 5,
-      "justified_votes": 5
+      "justified_rating": 6,
+      "justified_votes": 6
    },
    "1727422422": {
       "title": "SCP-ZH-597 - 透南風密碼",
@@ -141177,8 +141181,8 @@
          "_重新出發"
       ],
       "comments": "0",
-      "rating": "3",
-      "votes": "3",
+      "rating": "4",
+      "votes": "4",
       "parent": null,
       "id": "1456945975",
       "detailed_rating": {
@@ -141194,12 +141198,16 @@
             [
                "7064164",
                1727572635
+            ],
+            [
+               "7852233",
+               1727706557
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 3,
-      "justified_votes": 3
+      "justified_rating": 4,
+      "justified_votes": 4
    },
    "1727527286": {
       "title": "不下雪的南國之境",
@@ -141479,14 +141487,21 @@
          "_新"
       ],
       "comments": "0",
-      "rating": "0",
-      "votes": "0",
+      "rating": "1",
+      "votes": "1",
       "parent": null,
       "id": "1456954312",
-      "detailed_rating": {},
+      "detailed_rating": {
+         "+": [
+            [
+               "8404617",
+               1727706557
+            ]
+         ]
+      },
       "deleted": false,
-      "justified_rating": 0,
-      "justified_votes": 0
+      "justified_rating": 1,
+      "justified_votes": 1
    },
    "1727703010": {
       "title": "SCP-ZH-565 - 無頭的愛德",
