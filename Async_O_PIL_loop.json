@@ -141412,5 +141412,100 @@
       "deleted": false,
       "justified_rating": 1,
       "justified_votes": 1
+   },
+   "1727703000": {
+      "title": "SCP-ZH-707 - 如果真理有一個方位",
+      "fullname": "scp-zh-707",
+      "created_at": "1727703000",
+      "created_by": "7605593",
+      "tags": [
+         "safe",
+         "scp",
+         "site-zh-11",
+         "zh急迫競賽2024",
+         "原創",
+         "強迫性",
+         "時間影響",
+         "真紀博士",
+         "研究員knave",
+         "空間影響"
+      ],
+      "hidden_tags": [
+         "_南"
+      ],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1456954311",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
+   },
+   "1727703003": {
+      "title": "SCP-ZH-636 - 流光、幻影、半屏大仙",
+      "fullname": "scp-zh-636",
+      "created_at": "1727703003",
+      "created_by": "7605593",
+      "tags": [
+         "euclid",
+         "scp",
+         "site-zh-11",
+         "zh急迫競賽2024",
+         "原創",
+         "心靈感應",
+         "無定形",
+         "真紀博士",
+         "研究員knave",
+         "空間影響",
+         "精神影響",
+         "非現實部",
+         "鬼魂"
+      ],
+      "hidden_tags": [
+         "_新"
+      ],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1456954312",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
+   },
+   "1727703010": {
+      "title": "SCP-ZH-565 - 無頭的愛德",
+      "fullname": "scp-zh-565",
+      "created_at": "1727703010",
+      "created_by": "7605593",
+      "tags": [
+         "scp",
+         "site-zh-02",
+         "site-zh-11",
+         "zh急迫競賽2024",
+         "光照影響",
+         "原創",
+         "模因效應",
+         "機密分級",
+         "無定形",
+         "真紀博士",
+         "研究員knave",
+         "空間影響"
+      ],
+      "hidden_tags": [
+         "_重新出發"
+      ],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1456954313",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
