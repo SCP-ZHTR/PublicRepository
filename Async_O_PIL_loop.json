@@ -141843,13 +141843,14 @@
       "created_by": "7655555",
       "tags": [
          "scp",
+         "site-zh-72",
          "thaumiel",
          "zh急迫競賽2024",
          "原創",
          "結構物"
       ],
       "hidden_tags": [],
-      "comments": "0",
+      "comments": "1",
       "rating": "0",
       "votes": "0",
       "parent": null,
@@ -141895,5 +141896,29 @@
       "deleted": false,
       "justified_rating": 1,
       "justified_votes": 1
+   },
+   "1727711949": {
+      "title": "未知航程：海峽戰役2-4",
+      "fullname": "red-earth-4",
+      "created_at": "1727711949",
+      "created_by": "4239775",
+      "tags": [
+         "zh急迫競賽2024",
+         "原創",
+         "故事",
+         "燦藍天穹"
+      ],
+      "hidden_tags": [
+         "_新"
+      ],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1456955005",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
