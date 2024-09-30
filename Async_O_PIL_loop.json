@@ -141511,5 +141511,35 @@
       "deleted": false,
       "justified_rating": 0,
       "justified_votes": 0
+   },
+   "1727705128": {
+      "title": "SCP-ZH-615 - 祈雨鯨",
+      "fullname": "scp-zh-615",
+      "created_at": "1727705128",
+      "created_by": "7852233",
+      "tags": [
+         "safe",
+         "scp",
+         "site-zh-47",
+         "zh急迫競賽2024",
+         "人造物品",
+         "原創",
+         "感知力",
+         "水棲",
+         "活物",
+         "鯨類"
+      ],
+      "hidden_tags": [
+         "_南"
+      ],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1456954394",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
