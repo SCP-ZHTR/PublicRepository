@@ -137102,7 +137102,7 @@
          "ain博士",
          "apoyn博士",
          "archon",
-         "chrome博士",
+         "chrome",
          "cidal-dongi",
          "ctrl-z博士",
          "euclid",
@@ -141715,7 +141715,7 @@
       "created_by": "8543386",
       "tags": [
          "ad博士",
-         "chrome博士",
+         "chrome",
          "surge博士",
          "tostren博士",
          "zh急迫競賽2024",
@@ -141725,8 +141725,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "3",
-      "votes": "3",
+      "rating": "4",
+      "votes": "4",
       "parent": null,
       "id": "1456954695",
       "detailed_rating": {
@@ -141742,11 +141742,19 @@
             [
                "8846720",
                1727707461
+            ],
+            [
+               "8404617",
+               1727707766
+            ],
+            [
+               "9075244",
+               1727707766
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 3,
-      "justified_votes": 3
+      "justified_rating": 5,
+      "justified_votes": 5
    }
 }
