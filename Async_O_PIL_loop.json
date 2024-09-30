@@ -141670,8 +141670,8 @@
          "_南"
       ],
       "comments": "0",
-      "rating": "2",
-      "votes": "2",
+      "rating": "3",
+      "votes": "3",
       "parent": null,
       "id": "1456954435",
       "detailed_rating": {
@@ -141683,12 +141683,16 @@
             [
                "7073060",
                1727712601
+            ],
+            [
+               "5435485",
+               1727715563
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 2,
-      "justified_votes": 2
+      "justified_rating": 3,
+      "justified_votes": 3
    },
    "1727706467": {
       "title": "重來沒我份?",
