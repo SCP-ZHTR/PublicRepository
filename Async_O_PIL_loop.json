@@ -141541,5 +141541,79 @@
       "deleted": false,
       "justified_rating": 0,
       "justified_votes": 0
+   },
+   "1727705174": {
+      "title": "舊的不去新的不來",
+      "fullname": "old-go-new-come",
+      "created_at": "1727705174",
+      "created_by": "7852233",
+      "tags": [
+         "chrome",
+         "site-zh-59",
+         "site-zh-88",
+         "zh急迫競賽2024",
+         "原創",
+         "故事"
+      ],
+      "hidden_tags": [
+         "_新"
+      ],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1456954397",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
+   },
+   "1727705250": {
+      "title": "末日來時能烤肉嗎",
+      "fullname": "can-have-a-barbecue-in-ends",
+      "created_at": "1727705250",
+      "created_by": "7852233",
+      "tags": [
+         "site-zh-59",
+         "zh急迫競賽2024",
+         "原創",
+         "故事"
+      ],
+      "hidden_tags": [
+         "_重新出發"
+      ],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1456954434",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
+   },
+   "1727705273": {
+      "title": "SCP-ZH-250 - 會到的快一點",
+      "fullname": "scp-zh-250",
+      "created_at": "1727705273",
+      "created_by": "6217438",
+      "tags": [
+         "euclid",
+         "scp",
+         "原創",
+         "智能",
+         "精神影響",
+         "載具"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1456954435",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
