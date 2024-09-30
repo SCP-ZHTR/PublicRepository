@@ -141415,7 +141415,9 @@
          "原創",
          "故事"
       ],
-      "hidden_tags": [],
+      "hidden_tags": [
+         "_重新出發"
+      ],
       "comments": "0",
       "rating": "1",
       "votes": "1",
@@ -141708,8 +141710,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "1",
-      "votes": "1",
+      "rating": "2",
+      "votes": "2",
       "parent": null,
       "id": "1456954695",
       "detailed_rating": {
@@ -141717,11 +141719,19 @@
             [
                "4239775",
                1727707299
+            ],
+            [
+               "6217438",
+               1727707461
+            ],
+            [
+               "8846720",
+               1727707461
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 1,
-      "justified_votes": 1
+      "justified_rating": 3,
+      "justified_votes": 3
    }
 }
