@@ -142020,8 +142020,8 @@
          "_新"
       ],
       "comments": "1",
-      "rating": "9",
-      "votes": "9",
+      "rating": "10",
+      "votes": "10",
       "parent": null,
       "id": "1456955005",
       "detailed_rating": {
@@ -142061,11 +142061,15 @@
             [
                "5370805",
                1727739566
+            ],
+            [
+               "5251681",
+               1727743692
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 9,
-      "justified_votes": 9
+      "justified_rating": 10,
+      "justified_votes": 10
    }
 }
