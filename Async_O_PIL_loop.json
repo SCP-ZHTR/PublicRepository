@@ -141146,8 +141146,8 @@
          "_南"
       ],
       "comments": "0",
-      "rating": "5",
-      "votes": "5",
+      "rating": "6",
+      "votes": "6",
       "parent": null,
       "id": "1456941974",
       "detailed_rating": {
@@ -141171,12 +141171,16 @@
             [
                "7064164",
                1727597966
+            ],
+            [
+               "7605593",
+               1727771945
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 5,
-      "justified_votes": 5
+      "justified_rating": 6,
+      "justified_votes": 6
    },
    "1727502290": {
       "title": "SCP-ZH-537 - 只要一口氣",
@@ -141323,8 +141327,8 @@
          "_重新出發"
       ],
       "comments": "1",
-      "rating": "8",
-      "votes": "8",
+      "rating": "9",
+      "votes": "9",
       "parent": null,
       "id": "1456950769",
       "detailed_rating": {
@@ -141360,12 +141364,16 @@
             [
                "8452537",
                1727700241
+            ],
+            [
+               "7605593",
+               1727771945
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 8,
-      "justified_votes": 8
+      "justified_rating": 9,
+      "justified_votes": 9
    },
    "1727696348": {
       "title": "皇民文學中的歧路：〈香楠枝〉與鹿野純平的「異觀點」書寫",
@@ -141385,8 +141393,8 @@
          "_南"
       ],
       "comments": "0",
-      "rating": "6",
-      "votes": "6",
+      "rating": "7",
+      "votes": "7",
       "parent": null,
       "id": "1456953999",
       "detailed_rating": {
@@ -141414,12 +141422,16 @@
             [
                "7852233",
                1727705973
+            ],
+            [
+               "7605593",
+               1727771945
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 6,
-      "justified_votes": 6
+      "justified_rating": 7,
+      "justified_votes": 7
    },
    "1727697616": {
       "title": "我們會再次見面",
@@ -141435,8 +141447,8 @@
          "_重新出發"
       ],
       "comments": "0",
-      "rating": "2",
-      "votes": "2",
+      "rating": "3",
+      "votes": "3",
       "parent": null,
       "id": "1456954025",
       "detailed_rating": {
@@ -141448,12 +141460,16 @@
             [
                "5435485",
                1727715852
+            ],
+            [
+               "7605593",
+               1727771945
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 2,
-      "justified_votes": 2
+      "justified_rating": 3,
+      "justified_votes": 3
    },
    "1727703000": {
       "title": "SCP-ZH-707 - 如果真理有一個方位",
@@ -141629,8 +141645,8 @@
          "_新"
       ],
       "comments": "0",
-      "rating": "1",
-      "votes": "1",
+      "rating": "2",
+      "votes": "2",
       "parent": null,
       "id": "1456954397",
       "detailed_rating": {
@@ -141638,12 +141654,16 @@
             [
                "8404617",
                1727707156
+            ],
+            [
+               "7605593",
+               1727771945
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 1,
-      "justified_votes": 1
+      "justified_rating": 2,
+      "justified_votes": 2
    },
    "1727705250": {
       "title": "末日來時能烤肉嗎",
@@ -141660,8 +141680,8 @@
          "_重新出發"
       ],
       "comments": "0",
-      "rating": "2",
-      "votes": "2",
+      "rating": "3",
+      "votes": "3",
       "parent": null,
       "id": "1456954434",
       "detailed_rating": {
@@ -141673,12 +141693,16 @@
             [
                "5435485",
                1727715708
+            ],
+            [
+               "7605593",
+               1727771945
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 2,
-      "justified_votes": 2
+      "justified_rating": 3,
+      "justified_votes": 3
    },
    "1727705273": {
       "title": "SCP-ZH-250 - 會到的快一點",
@@ -141749,8 +141773,8 @@
          "_重新出發"
       ],
       "comments": "2",
-      "rating": "3",
-      "votes": "3",
+      "rating": "4",
+      "votes": "4",
       "parent": null,
       "id": "1456954689",
       "detailed_rating": {
@@ -141766,12 +141790,16 @@
             [
                "7504530",
                1727762564
+            ],
+            [
+               "7605593",
+               1727771945
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 3,
-      "justified_votes": 3
+      "justified_rating": 4,
+      "justified_votes": 4
    },
    "1727706652": {
       "title": "下一站：死線",
