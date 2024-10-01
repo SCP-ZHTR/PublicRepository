@@ -141504,8 +141504,8 @@
          "_南"
       ],
       "comments": "0",
-      "rating": "2",
-      "votes": "2",
+      "rating": "3",
+      "votes": "3",
       "parent": null,
       "id": "1456954311",
       "detailed_rating": {
@@ -141517,12 +141517,16 @@
             [
                "5435485",
                1727715852
+            ],
+            [
+               "8452537",
+               1727795016
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 2,
-      "justified_votes": 2
+      "justified_rating": 3,
+      "justified_votes": 3
    },
    "1727703003": {
       "title": "SCP-ZH-636 - 流光、幻影、半屏大仙",
@@ -141548,8 +141552,8 @@
          "_新"
       ],
       "comments": "0",
-      "rating": "2",
-      "votes": "2",
+      "rating": "3",
+      "votes": "3",
       "parent": null,
       "id": "1456954312",
       "detailed_rating": {
@@ -141561,12 +141565,16 @@
             [
                "9075244",
                1727707607
+            ],
+            [
+               "8452537",
+               1727795016
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 2,
-      "justified_votes": 2
+      "justified_rating": 3,
+      "justified_votes": 3
    },
    "1727703010": {
       "title": "SCP-ZH-565 - 無頭的愛德",
@@ -141591,8 +141599,8 @@
          "_重新出發"
       ],
       "comments": "0",
-      "rating": "2",
-      "votes": "2",
+      "rating": "3",
+      "votes": "3",
       "parent": null,
       "id": "1456954313",
       "detailed_rating": {
@@ -141604,12 +141612,16 @@
             [
                "9075244",
                1727707607
+            ],
+            [
+               "8452537",
+               1727795016
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 2,
-      "justified_votes": 2
+      "justified_rating": 3,
+      "justified_votes": 3
    },
    "1727705128": {
       "title": "SCP-ZH-615 - 祈雨鯨",
