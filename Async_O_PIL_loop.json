@@ -141768,8 +141768,8 @@
          "_南"
       ],
       "comments": "0",
-      "rating": "8",
-      "votes": "8",
+      "rating": "9",
+      "votes": "9",
       "parent": null,
       "id": "1456954695",
       "detailed_rating": {
@@ -141805,12 +141805,16 @@
             [
                "7852233",
                1727742052
+            ],
+            [
+               "5251681",
+               1727746508
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 8,
-      "justified_votes": 8
+      "justified_rating": 9,
+      "justified_votes": 9
    },
    "1727707859": {
       "title": "SCP-ZH-579 - 門",
