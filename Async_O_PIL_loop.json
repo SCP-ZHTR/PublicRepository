@@ -141851,8 +141851,8 @@
          "_新"
       ],
       "comments": "2",
-      "rating": "1",
-      "votes": "3",
+      "rating": "0",
+      "votes": "4",
       "parent": null,
       "id": "1456954783",
       "detailed_rating": {
@@ -141870,12 +141870,16 @@
             [
                "6981058",
                1727711043
+            ],
+            [
+               "7840542",
+               1727757391
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 1,
-      "justified_votes": 3
+      "justified_rating": 0,
+      "justified_votes": 4
    },
    "1727710374": {
       "title": "SCP-ZH-624 - 南望",
@@ -142005,8 +142009,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "6",
-      "votes": "6",
+      "rating": "7",
+      "votes": "7",
       "parent": null,
       "id": "1456954955",
       "detailed_rating": {
@@ -142034,12 +142038,16 @@
             [
                "5370805",
                1727723569
+            ],
+            [
+               "8177208",
+               1727757391
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 6,
-      "justified_votes": 6
+      "justified_rating": 7,
+      "justified_votes": 7
    },
    "1727711949": {
       "title": "未知航程：海峽戰役2-4",
