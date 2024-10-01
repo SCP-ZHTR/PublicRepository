@@ -142298,5 +142298,57 @@
       "deleted": false,
       "justified_rating": -2,
       "justified_votes": 2
+   },
+   "1727798239": {
+      "title": "SCP-ZH-919 - 鈔票濕濕",
+      "fullname": "scp-zh-919",
+      "created_at": "1727798239",
+      "created_by": "6217438",
+      "tags": [
+         "euclid",
+         "scp",
+         "site-zh-88",
+         "zh急迫競賽2024",
+         "原創",
+         "屍體",
+         "活物",
+         "精神影響",
+         "貨幣"
+      ],
+      "hidden_tags": [
+         "_新"
+      ],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1456960314",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
+   },
+   "1727798330": {
+      "title": "太陽的故鄉",
+      "fullname": "o-nokay-ni-cidal",
+      "created_at": "1727798330",
+      "created_by": "5435485",
+      "tags": [
+         "cidal-dongi",
+         "site-zh-44",
+         "zh急迫競賽2024",
+         "原創",
+         "故事"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1456960318",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
