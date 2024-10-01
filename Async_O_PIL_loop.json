@@ -142400,8 +142400,8 @@
          "_重新出發"
       ],
       "comments": "0",
-      "rating": "9",
-      "votes": "9",
+      "rating": "10",
+      "votes": "10",
       "parent": null,
       "id": "1456960318",
       "detailed_rating": {
@@ -142441,11 +142441,15 @@
             [
                "8480087",
                1727811655
+            ],
+            [
+               "4990678",
+               1727821963
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 9,
-      "justified_votes": 9
+      "justified_rating": 10,
+      "justified_votes": 10
    }
 }
