@@ -141040,8 +141040,8 @@
          "_新"
       ],
       "comments": "0",
-      "rating": "6",
-      "votes": "6",
+      "rating": "7",
+      "votes": "7",
       "parent": null,
       "id": "1456938409",
       "detailed_rating": {
@@ -141069,12 +141069,16 @@
             [
                "7852233",
                1727706557
+            ],
+            [
+               "9075244",
+               1727792031
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 6,
-      "justified_votes": 6
+      "justified_rating": 7,
+      "justified_votes": 7
    },
    "1727422422": {
       "title": "SCP-ZH-597 - 透南風密碼",
