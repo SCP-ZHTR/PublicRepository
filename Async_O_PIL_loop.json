@@ -140225,8 +140225,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "11",
-      "votes": "11",
+      "rating": "12",
+      "votes": "12",
       "parent": "scp-zh-728",
       "id": "1456612849",
       "detailed_rating": {
@@ -140274,12 +140274,16 @@
             [
                "8846720",
                1727355126
+            ],
+            [
+               "5251681",
+               1727751001
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 11,
-      "justified_votes": 11
+      "justified_rating": 12,
+      "justified_votes": 12
    },
    "1725200315": {
       "title": "SCP-ZH-904 - 上是「失鄉」",
@@ -140846,8 +140850,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "10",
-      "votes": "10",
+      "rating": "11",
+      "votes": "11",
       "parent": null,
       "id": "1456870548",
       "detailed_rating": {
@@ -140891,12 +140895,16 @@
             [
                "7605593",
                1727357963
+            ],
+            [
+               "5251681",
+               1727751001
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 10,
-      "justified_votes": 10
+      "justified_rating": 11,
+      "justified_votes": 11
    },
    "1727017225": {
       "title": "西加走灣輓歌・下：靈魂崩碎",
@@ -140913,8 +140921,8 @@
          "_禁黑"
       ],
       "comments": "0",
-      "rating": "8",
-      "votes": "8",
+      "rating": "9",
+      "votes": "9",
       "parent": null,
       "id": "1456892440",
       "detailed_rating": {
@@ -140950,12 +140958,16 @@
             [
                "7605593",
                1727358247
+            ],
+            [
+               "5251681",
+               1727751001
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 8,
-      "justified_votes": 8
+      "justified_rating": 9,
+      "justified_votes": 9
    },
    "1727149847": {
       "title": "Cinamalay 急那麼來：繁中急迫競賽 3.0",
