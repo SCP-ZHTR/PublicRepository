@@ -141749,8 +141749,8 @@
          "_重新出發"
       ],
       "comments": "2",
-      "rating": "2",
-      "votes": "2",
+      "rating": "3",
+      "votes": "3",
       "parent": null,
       "id": "1456954689",
       "detailed_rating": {
@@ -141762,12 +141762,16 @@
             [
                "5435485",
                1727715417
+            ],
+            [
+               "7504530",
+               1727762564
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 2,
-      "justified_votes": 2
+      "justified_rating": 3,
+      "justified_votes": 3
    },
    "1727706652": {
       "title": "下一站：死線",
