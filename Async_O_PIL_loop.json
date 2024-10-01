@@ -142256,8 +142256,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "2",
-      "votes": "2",
+      "rating": "3",
+      "votes": "3",
       "parent": null,
       "id": "1456959751",
       "detailed_rating": {
@@ -142269,12 +142269,16 @@
             [
                "8404617",
                1727790545
+            ],
+            [
+               "7840542",
+               1727803586
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 2,
-      "justified_votes": 2
+      "justified_rating": 3,
+      "justified_votes": 3
    },
    "1727792115": {
       "title": "SCP-ZH-UMA-J - 新時代之門",
