@@ -142247,5 +142247,29 @@
       "deleted": false,
       "justified_rating": 2,
       "justified_votes": 2
+   },
+   "1727792115": {
+      "title": "SCP-ZH-UMA-J - 新時代之門",
+      "fullname": "uma",
+      "created_at": "1727792115",
+      "created_by": "4206567",
+      "tags": [
+         "site-zh-12",
+         "zh急迫競賽2024",
+         "原創",
+         "搞笑"
+      ],
+      "hidden_tags": [
+         "_新"
+      ],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1456959957",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
