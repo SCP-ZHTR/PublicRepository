@@ -141217,8 +141217,8 @@
          "_重新出發"
       ],
       "comments": "0",
-      "rating": "4",
-      "votes": "4",
+      "rating": "5",
+      "votes": "5",
       "parent": null,
       "id": "1456945975",
       "detailed_rating": {
@@ -141238,12 +141238,16 @@
             [
                "7852233",
                1727706557
+            ],
+            [
+               "6503482",
+               1727852610
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 4,
-      "justified_votes": 4
+      "justified_rating": 5,
+      "justified_votes": 5
    },
    "1727527286": {
       "title": "不下雪的南國之境",
@@ -141351,8 +141355,8 @@
          "_重新出發"
       ],
       "comments": "1",
-      "rating": "9",
-      "votes": "9",
+      "rating": "10",
+      "votes": "10",
       "parent": null,
       "id": "1456950769",
       "detailed_rating": {
@@ -141392,12 +141396,16 @@
             [
                "7605593",
                1727771945
+            ],
+            [
+               "6503482",
+               1727852610
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 9,
-      "justified_votes": 9
+      "justified_rating": 10,
+      "justified_votes": 10
    },
    "1727696348": {
       "title": "皇民文學中的歧路：〈香楠枝〉與鹿野純平的「異觀點」書寫",
