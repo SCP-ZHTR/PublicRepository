@@ -142253,8 +142253,8 @@
          "_新"
       ],
       "comments": "1",
-      "rating": "4",
-      "votes": "4",
+      "rating": "5",
+      "votes": "5",
       "parent": null,
       "id": "1456959665",
       "detailed_rating": {
@@ -142274,12 +142274,16 @@
             [
                "7571354",
                1727838490
+            ],
+            [
+               "5251681",
+               1727838904
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 4,
-      "justified_votes": 4
+      "justified_rating": 5,
+      "justified_votes": 5
    },
    "1727789400": {
       "title": "項目檔案圖像紀錄：「瓦巧鉤憚黃金殙」",
