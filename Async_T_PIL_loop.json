@@ -141392,5 +141392,31 @@
       "deleted": false,
       "justified_rating": 1,
       "justified_votes": 1
+   },
+   "1727862094": {
+      "title": "SCP-355-KO - ♪",
+      "fullname": "scp-355-ko",
+      "created_at": "1727862094",
+      "created_by": "4357011",
+      "tags": [
+         "en",
+         "keter",
+         "ko",
+         "scp",
+         "二次翻譯",
+         "翻譯",
+         "聽覺影響",
+         "音樂性"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1456963874",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
