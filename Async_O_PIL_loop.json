@@ -142309,8 +142309,8 @@
          "_新"
       ],
       "comments": "1",
-      "rating": "-1",
-      "votes": "5",
+      "rating": "-2",
+      "votes": "6",
       "parent": null,
       "id": "1456959957",
       "detailed_rating": {
@@ -142326,6 +142326,10 @@
             [
                "5370805",
                1727831106
+            ],
+            [
+               "5435485",
+               1727834238
             ]
          ],
          "+": [
@@ -142340,8 +142344,8 @@
          ]
       },
       "deleted": false,
-      "justified_rating": -1,
-      "justified_votes": 5
+      "justified_rating": -2,
+      "justified_votes": 6
    },
    "1727798239": {
       "title": "SCP-ZH-919 - 鈔票濕濕",
