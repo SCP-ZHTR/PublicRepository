@@ -141166,8 +141166,8 @@
          "_南"
       ],
       "comments": "0",
-      "rating": "7",
-      "votes": "7",
+      "rating": "8",
+      "votes": "8",
       "parent": null,
       "id": "1456941974",
       "detailed_rating": {
@@ -141199,12 +141199,16 @@
             [
                "9075244",
                1727794696
+            ],
+            [
+               "6503482",
+               1727854009
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 7,
-      "justified_votes": 7
+      "justified_rating": 8,
+      "justified_votes": 8
    },
    "1727502290": {
       "title": "SCP-ZH-537 - 只要一口氣",
@@ -141433,8 +141437,8 @@
          "_南"
       ],
       "comments": "0",
-      "rating": "7",
-      "votes": "7",
+      "rating": "8",
+      "votes": "8",
       "parent": null,
       "id": "1456953999",
       "detailed_rating": {
@@ -141466,12 +141470,16 @@
             [
                "7605593",
                1727771945
+            ],
+            [
+               "6503482",
+               1727854009
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 7,
-      "justified_votes": 7
+      "justified_rating": 8,
+      "justified_votes": 8
    },
    "1727697616": {
       "title": "我們會再次見面",
