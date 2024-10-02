@@ -142162,8 +142162,8 @@
          "_新"
       ],
       "comments": "1",
-      "rating": "7",
-      "votes": "7",
+      "rating": "8",
+      "votes": "8",
       "parent": null,
       "id": "1456954955",
       "detailed_rating": {
@@ -142195,12 +142195,16 @@
             [
                "8177208",
                1727757391
+            ],
+            [
+               "6503482",
+               1727853584
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 7,
-      "justified_votes": 7
+      "justified_rating": 8,
+      "justified_votes": 8
    },
    "1727711949": {
       "title": "未知航程：海峽戰役2-4",
