@@ -141688,8 +141688,8 @@
          "_新"
       ],
       "comments": "0",
-      "rating": "3",
-      "votes": "3",
+      "rating": "4",
+      "votes": "4",
       "parent": null,
       "id": "1456954397",
       "detailed_rating": {
@@ -141705,12 +141705,16 @@
             [
                "9075244",
                1727836578
+            ],
+            [
+               "7513990",
+               1727843739
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 3,
-      "justified_votes": 3
+      "justified_rating": 4,
+      "justified_votes": 4
    },
    "1727705250": {
       "title": "末日來時能烤肉嗎",
