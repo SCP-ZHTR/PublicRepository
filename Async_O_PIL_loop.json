@@ -142396,8 +142396,8 @@
          "_新"
       ],
       "comments": "1",
-      "rating": "5",
-      "votes": "5",
+      "rating": "6",
+      "votes": "6",
       "parent": null,
       "id": "1456960314",
       "detailed_rating": {
@@ -142421,12 +142421,16 @@
             [
                "5370805",
                1727829319
+            ],
+            [
+               "5251681",
+               1727838630
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 5,
-      "justified_votes": 5
+      "justified_rating": 6,
+      "justified_votes": 6
    },
    "1727798330": {
       "title": "太陽的故鄉",
