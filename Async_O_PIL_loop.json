@@ -93677,6 +93677,7 @@
          "反熵",
          "台灣原住民",
          "展出",
+         "山本五十嵐",
          "智能",
          "植物",
          "生物性",
@@ -94257,6 +94258,7 @@
          "site-zh-44",
          "原創",
          "台灣原住民",
+         "山本五十嵐",
          "故事"
       ],
       "hidden_tags": [],
@@ -94487,6 +94489,7 @@
          "site-zh-44",
          "原創",
          "台灣原住民",
+         "山本五十嵐",
          "故事"
       ],
       "hidden_tags": [],
@@ -141040,8 +141043,8 @@
          "_新"
       ],
       "comments": "0",
-      "rating": "8",
-      "votes": "8",
+      "rating": "9",
+      "votes": "9",
       "parent": null,
       "id": "1456938409",
       "detailed_rating": {
@@ -141077,12 +141080,16 @@
             [
                "6503482",
                1727853862
+            ],
+            [
+               "6217438",
+               1727885613
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 8,
-      "justified_votes": 8
+      "justified_rating": 9,
+      "justified_votes": 9
    },
    "1727422422": {
       "title": "SCP-ZH-597 - 透南風密碼",
@@ -141884,8 +141891,8 @@
          "_重新出發"
       ],
       "comments": "2",
-      "rating": "6",
-      "votes": "6",
+      "rating": "7",
+      "votes": "7",
       "parent": null,
       "id": "1456954689",
       "detailed_rating": {
@@ -141913,12 +141920,16 @@
             [
                "6503482",
                1727853031
+            ],
+            [
+               "6217438",
+               1727885613
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 6,
-      "justified_votes": 6
+      "justified_rating": 7,
+      "justified_votes": 7
    },
    "1727706652": {
       "title": "下一站：死線",
@@ -142065,8 +142076,8 @@
          "_南"
       ],
       "comments": "1",
-      "rating": "8",
-      "votes": "8",
+      "rating": "9",
+      "votes": "9",
       "parent": null,
       "id": "1456954951",
       "detailed_rating": {
@@ -142102,12 +142113,16 @@
             [
                "6503482",
                1727854150
+            ],
+            [
+               "6217438",
+               1727885613
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 8,
-      "justified_votes": 8
+      "justified_rating": 9,
+      "justified_votes": 9
    },
    "1727710469": {
       "title": "SCP-ZH-730 - 乙類人員通勤路線",

@@ -141165,8 +141165,8 @@
       ],
       "hidden_tags": [],
       "comments": "2",
-      "rating": "1",
-      "votes": "1",
+      "rating": "2",
+      "votes": "2",
       "parent": null,
       "id": "1456919270",
       "detailed_rating": {
@@ -141174,12 +141174,16 @@
             [
                "7605593",
                1727356908
+            ],
+            [
+               "5435485",
+               1727885616
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 1,
-      "justified_votes": 1
+      "justified_rating": 2,
+      "justified_votes": 2
    },
    "1727366400": {
       "title": "SCP-992 - 坤輿神使",
@@ -141327,8 +141331,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "2",
-      "votes": "2",
+      "rating": "3",
+      "votes": "3",
       "parent": null,
       "id": "1456954326",
       "detailed_rating": {
@@ -141340,12 +141344,16 @@
             [
                "6981058",
                1727712178
+            ],
+            [
+               "5435485",
+               1727885616
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 2,
-      "justified_votes": 2
+      "justified_rating": 3,
+      "justified_votes": 3
    },
    "1727705894": {
       "title": "Nico的提案二 - 從左舞台悄然退場",
