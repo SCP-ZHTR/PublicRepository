@@ -141747,8 +141747,8 @@
          "_重新出發"
       ],
       "comments": "0",
-      "rating": "6",
-      "votes": "6",
+      "rating": "7",
+      "votes": "7",
       "parent": null,
       "id": "1456954434",
       "detailed_rating": {
@@ -141776,12 +141776,16 @@
             [
                "7513990",
                1727843188
+            ],
+            [
+               "6503482",
+               1727852892
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 6,
-      "justified_votes": 6
+      "justified_rating": 7,
+      "justified_votes": 7
    },
    "1727705273": {
       "title": "SCP-ZH-250 - 會到得快一點",
