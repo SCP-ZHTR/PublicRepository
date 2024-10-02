@@ -141479,8 +141479,8 @@
          "_重新出發"
       ],
       "comments": "0",
-      "rating": "3",
-      "votes": "3",
+      "rating": "4",
+      "votes": "4",
       "parent": null,
       "id": "1456954025",
       "detailed_rating": {
@@ -141496,12 +141496,16 @@
             [
                "7605593",
                1727771945
+            ],
+            [
+               "6503482",
+               1727852750
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 3,
-      "justified_votes": 3
+      "justified_rating": 4,
+      "justified_votes": 4
    },
    "1727703000": {
       "title": "SCP-ZH-707 - 如果真理有一個方位",
@@ -141619,8 +141623,8 @@
          "_重新出發"
       ],
       "comments": "0",
-      "rating": "3",
-      "votes": "3",
+      "rating": "4",
+      "votes": "4",
       "parent": null,
       "id": "1456954313",
       "detailed_rating": {
@@ -141636,12 +141640,16 @@
             [
                "8452537",
                1727795016
+            ],
+            [
+               "6503482",
+               1727852750
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 3,
-      "justified_votes": 3
+      "justified_rating": 4,
+      "justified_votes": 4
    },
    "1727705128": {
       "title": "SCP-ZH-615 - 祈雨鯨",
