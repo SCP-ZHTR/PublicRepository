@@ -141864,8 +141864,8 @@
          "_重新出發"
       ],
       "comments": "2",
-      "rating": "5",
-      "votes": "5",
+      "rating": "6",
+      "votes": "6",
       "parent": null,
       "id": "1456954689",
       "detailed_rating": {
@@ -141889,12 +141889,16 @@
             [
                "9075244",
                1727791574
+            ],
+            [
+               "6503482",
+               1727853031
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 5,
-      "justified_votes": 5
+      "justified_rating": 6,
+      "justified_votes": 6
    },
    "1727706652": {
       "title": "下一站：死線",
@@ -142093,8 +142097,8 @@
          "_重新出發"
       ],
       "comments": "1",
-      "rating": "6",
-      "votes": "6",
+      "rating": "7",
+      "votes": "7",
       "parent": null,
       "id": "1456954953",
       "detailed_rating": {
@@ -142122,12 +142126,16 @@
             [
                "5251681",
                1727717655
+            ],
+            [
+               "6503482",
+               1727853031
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 6,
-      "justified_votes": 6
+      "justified_rating": 7,
+      "justified_votes": 7
    },
    "1727710543": {
       "title": "SCP-ZH-955 - Consider a spherical human.",
