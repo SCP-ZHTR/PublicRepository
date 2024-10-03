@@ -141108,8 +141108,8 @@
          "_新"
       ],
       "comments": "0",
-      "rating": "11",
-      "votes": "11",
+      "rating": "12",
+      "votes": "12",
       "parent": null,
       "id": "1456938409",
       "detailed_rating": {
@@ -141157,12 +141157,16 @@
             [
                "5062193",
                1727955312
+            ],
+            [
+               "7605593",
+               1727960929
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 11,
-      "justified_votes": 11
+      "justified_rating": 12,
+      "justified_votes": 12
    },
    "1727422422": {
       "title": "SCP-ZH-597 - 透南風密碼",
@@ -141184,8 +141188,8 @@
          "_南"
       ],
       "comments": "0",
-      "rating": "10",
-      "votes": "10",
+      "rating": "11",
+      "votes": "11",
       "parent": null,
       "id": "1456941144",
       "detailed_rating": {
@@ -141229,12 +141233,16 @@
             [
                "5062193",
                1727944798
+            ],
+            [
+               "7605593",
+               1727960929
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 10,
-      "justified_votes": 10
+      "justified_rating": 11,
+      "justified_votes": 11
    },
    "1727435252": {
       "title": "天涼時節",
@@ -141652,8 +141660,8 @@
          "_南"
       ],
       "comments": "0",
-      "rating": "4",
-      "votes": "4",
+      "rating": "5",
+      "votes": "5",
       "parent": null,
       "id": "1456954311",
       "detailed_rating": {
@@ -141673,12 +141681,16 @@
             [
                "5062193",
                1727956180
+            ],
+            [
+               "7605593",
+               1727960929
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 4,
-      "justified_votes": 4
+      "justified_rating": 5,
+      "justified_votes": 5
    },
    "1727703003": {
       "title": "SCP-ZH-636 - 流光、幻影、半屏大仙",
@@ -141704,8 +141716,8 @@
          "_新"
       ],
       "comments": "0",
-      "rating": "3",
-      "votes": "3",
+      "rating": "4",
+      "votes": "4",
       "parent": null,
       "id": "1456954312",
       "detailed_rating": {
@@ -141721,12 +141733,16 @@
             [
                "8452537",
                1727795016
+            ],
+            [
+               "7605593",
+               1727960929
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 3,
-      "justified_votes": 3
+      "justified_rating": 4,
+      "justified_votes": 4
    },
    "1727703010": {
       "title": "SCP-ZH-565 - 無頭的愛德",
@@ -141751,8 +141767,8 @@
          "_重新出發"
       ],
       "comments": "0",
-      "rating": "4",
-      "votes": "4",
+      "rating": "5",
+      "votes": "5",
       "parent": null,
       "id": "1456954313",
       "detailed_rating": {
@@ -141772,12 +141788,16 @@
             [
                "6503482",
                1727852750
+            ],
+            [
+               "7605593",
+               1727960929
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 4,
-      "justified_votes": 4
+      "justified_rating": 5,
+      "justified_votes": 5
    },
    "1727705128": {
       "title": "SCP-ZH-615 - 祈雨鯨",
@@ -141799,8 +141819,8 @@
          "_南"
       ],
       "comments": "0",
-      "rating": "1",
-      "votes": "1",
+      "rating": "2",
+      "votes": "2",
       "parent": null,
       "id": "1456954394",
       "detailed_rating": {
@@ -141808,12 +141828,16 @@
             [
                "9075244",
                1727791265
+            ],
+            [
+               "7605593",
+               1727960929
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 1,
-      "justified_votes": 1
+      "justified_rating": 2,
+      "justified_votes": 2
    },
    "1727705174": {
       "title": "舊的不去新的不來",
@@ -141937,8 +141961,8 @@
          "_南"
       ],
       "comments": "0",
-      "rating": "10",
-      "votes": "10",
+      "rating": "11",
+      "votes": "11",
       "parent": null,
       "id": "1456954435",
       "detailed_rating": {
@@ -141982,12 +142006,16 @@
             [
                "5062193",
                1727939768
+            ],
+            [
+               "7605593",
+               1727960929
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 10,
-      "justified_votes": 10
+      "justified_rating": 11,
+      "justified_votes": 11
    },
    "1727706467": {
       "title": "重來沒我份？",
@@ -142143,8 +142171,8 @@
          "_新"
       ],
       "comments": "2",
-      "rating": "0",
-      "votes": "4",
+      "rating": "1",
+      "votes": "5",
       "parent": null,
       "id": "1456954783",
       "detailed_rating": {
@@ -142156,6 +142184,10 @@
             [
                "5435485",
                1727715275
+            ],
+            [
+               "7605593",
+               1727960929
             ]
          ],
          "-": [
@@ -142170,8 +142202,8 @@
          ]
       },
       "deleted": false,
-      "justified_rating": 0,
-      "justified_votes": 4
+      "justified_rating": 1,
+      "justified_votes": 5
    },
    "1727710374": {
       "title": "SCP-ZH-624 - 南望",
@@ -142193,8 +142225,8 @@
          "_南"
       ],
       "comments": "1",
-      "rating": "12",
-      "votes": "12",
+      "rating": "13",
+      "votes": "13",
       "parent": null,
       "id": "1456954951",
       "detailed_rating": {
@@ -142246,12 +142278,16 @@
             [
                "5062193",
                1727939624
+            ],
+            [
+               "7605593",
+               1727960929
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 12,
-      "justified_votes": 12
+      "justified_rating": 13,
+      "justified_votes": 13
    },
    "1727710469": {
       "title": "SCP-ZH-730 - 乙類人員通勤路線",
@@ -142345,8 +142381,8 @@
          "_新"
       ],
       "comments": "1",
-      "rating": "9",
-      "votes": "9",
+      "rating": "10",
+      "votes": "10",
       "parent": null,
       "id": "1456954955",
       "detailed_rating": {
@@ -142386,12 +142422,16 @@
             [
                "5062193",
                1727953670
+            ],
+            [
+               "7605593",
+               1727960929
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 9,
-      "justified_votes": 9
+      "justified_rating": 10,
+      "justified_votes": 10
    },
    "1727711949": {
       "title": "未知航程：海峽戰役2-4",
@@ -142493,8 +142533,8 @@
          "_新"
       ],
       "comments": "1",
-      "rating": "6",
-      "votes": "6",
+      "rating": "7",
+      "votes": "7",
       "parent": null,
       "id": "1456959665",
       "detailed_rating": {
@@ -142522,12 +142562,16 @@
             [
                "6503482",
                1727853862
+            ],
+            [
+               "7605593",
+               1727960929
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 6,
-      "justified_votes": 6
+      "justified_rating": 7,
+      "justified_votes": 7
    },
    "1727789400": {
       "title": "項目檔案圖像紀錄：「瓦巧鉤憚黃金殙」",
@@ -142652,8 +142696,8 @@
          "_新"
       ],
       "comments": "1",
-      "rating": "9",
-      "votes": "9",
+      "rating": "10",
+      "votes": "10",
       "parent": null,
       "id": "1456960314",
       "detailed_rating": {
@@ -142693,12 +142737,16 @@
             [
                "5062193",
                1727952846
+            ],
+            [
+               "7605593",
+               1727960929
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 9,
-      "justified_votes": 9
+      "justified_rating": 10,
+      "justified_votes": 10
    },
    "1727798330": {
       "title": "太陽的歸鄉",
