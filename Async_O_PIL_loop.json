@@ -140302,8 +140302,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "12",
-      "votes": "12",
+      "rating": "13",
+      "votes": "13",
       "parent": "scp-zh-728",
       "id": "1456612849",
       "detailed_rating": {
@@ -140355,12 +140355,16 @@
             [
                "5251681",
                1727751001
+            ],
+            [
+               "7532608",
+               1727967533
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 12,
-      "justified_votes": 12
+      "justified_rating": 13,
+      "justified_votes": 13
    },
    "1725200315": {
       "title": "SCP-ZH-904 - 上是「失鄉」",
