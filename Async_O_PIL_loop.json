@@ -142417,8 +142417,8 @@
          "_重新出發"
       ],
       "comments": "1",
-      "rating": "9",
-      "votes": "9",
+      "rating": "11",
+      "votes": "11",
       "parent": null,
       "id": "1456954953",
       "detailed_rating": {
@@ -142458,12 +142458,20 @@
             [
                "7605593",
                1727960780
+            ],
+            [
+               "6217438",
+               1727967218
+            ],
+            [
+               "7513990",
+               1727967218
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 9,
-      "justified_votes": 9
+      "justified_rating": 11,
+      "justified_votes": 11
    },
    "1727710543": {
       "title": "SCP-ZH-955 - Consider a spherical human.",
