@@ -94267,8 +94267,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "23",
-      "votes": "23",
+      "rating": "24",
+      "votes": "24",
       "parent": "scp-zh-922",
       "id": "1401959907",
       "detailed_rating": {
@@ -94364,12 +94364,16 @@
             [
                "4206567",
                1725172540
+            ],
+            [
+               "7532608",
+               1727944115
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 22,
-      "justified_votes": 22
+      "justified_rating": 23,
+      "justified_votes": 23
    },
    "1648478593": {
       "title": "SCP-ZH-255 - 孤獨險",
