@@ -113769,8 +113769,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "19",
-      "votes": "19",
+      "rating": "20",
+      "votes": "20",
       "parent": "scp-zh-922",
       "id": "1446760211",
       "detailed_rating": {
@@ -113850,12 +113850,16 @@
             [
                "DELETED",
                1695207092
+            ],
+            [
+               "7532608",
+               1727952023
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 18,
-      "justified_votes": 18
+      "justified_rating": 19,
+      "justified_votes": 19
    },
    "1679250534": {
       "title": "日日是好日",
