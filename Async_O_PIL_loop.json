@@ -142679,8 +142679,8 @@
          "_重新出發"
       ],
       "comments": "0",
-      "rating": "18",
-      "votes": "18",
+      "rating": "19",
+      "votes": "19",
       "parent": null,
       "id": "1456960318",
       "detailed_rating": {
@@ -142756,12 +142756,16 @@
             [
                "7655555",
                1727946698
+            ],
+            [
+               "5062193",
+               1727955607
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 18,
-      "justified_votes": 18
+      "justified_rating": 19,
+      "justified_votes": 19
    },
    "1727854815": {
       "title": "SCP-ZH-375 - Site-ZH-47的末日",
