@@ -141270,8 +141270,8 @@
          "_南"
       ],
       "comments": "0",
-      "rating": "9",
-      "votes": "9",
+      "rating": "10",
+      "votes": "10",
       "parent": null,
       "id": "1456941974",
       "detailed_rating": {
@@ -141311,12 +141311,16 @@
             [
                "5062193",
                1727940727
+            ],
+            [
+               "4990678",
+               1727966772
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 9,
-      "justified_votes": 9
+      "justified_rating": 10,
+      "justified_votes": 10
    },
    "1727502290": {
       "title": "SCP-ZH-537 - 只要一口氣",
@@ -141561,8 +141565,8 @@
          "_南"
       ],
       "comments": "0",
-      "rating": "11",
-      "votes": "11",
+      "rating": "12",
+      "votes": "12",
       "parent": null,
       "id": "1456953999",
       "detailed_rating": {
@@ -141610,12 +141614,16 @@
             [
                "7655555",
                1727963489
+            ],
+            [
+               "4990678",
+               1727966772
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 11,
-      "justified_votes": 11
+      "justified_rating": 12,
+      "justified_votes": 12
    },
    "1727697616": {
       "title": "我們會再次見面",
@@ -141688,8 +141696,8 @@
          "_南"
       ],
       "comments": "0",
-      "rating": "6",
-      "votes": "6",
+      "rating": "7",
+      "votes": "7",
       "parent": null,
       "id": "1456954311",
       "detailed_rating": {
@@ -141717,12 +141725,16 @@
             [
                "5338547",
                1727961943
+            ],
+            [
+               "4990678",
+               1727966772
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 6,
-      "justified_votes": 6
+      "justified_rating": 7,
+      "justified_votes": 7
    },
    "1727703003": {
       "title": "SCP-ZH-636 - 流光、幻影、半屏大仙",
@@ -141863,8 +141875,8 @@
          "_南"
       ],
       "comments": "0",
-      "rating": "4",
-      "votes": "4",
+      "rating": "3",
+      "votes": "3",
       "parent": null,
       "id": "1456954394",
       "detailed_rating": {
