@@ -128201,8 +128201,8 @@
          "_cc"
       ],
       "comments": "1",
-      "rating": "18",
-      "votes": "18",
+      "rating": "19",
+      "votes": "19",
       "parent": null,
       "id": "1452234237",
       "detailed_rating": {
@@ -128278,12 +128278,16 @@
             [
                "7486905",
                1711214250
+            ],
+            [
+               "7532608",
+               1727961653
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 18,
-      "justified_votes": 18
+      "justified_rating": 19,
+      "justified_votes": 19
    },
    "1706255799": {
       "title": "犯安四十七：準備就緒",
