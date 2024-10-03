@@ -141744,8 +141744,8 @@
          "_新"
       ],
       "comments": "0",
-      "rating": "5",
-      "votes": "5",
+      "rating": "6",
+      "votes": "6",
       "parent": null,
       "id": "1456954312",
       "detailed_rating": {
@@ -141769,12 +141769,16 @@
             [
                "5338547",
                1727961943
+            ],
+            [
+               "6217438",
+               1727965194
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 5,
-      "justified_votes": 5
+      "justified_rating": 6,
+      "justified_votes": 6
    },
    "1727703010": {
       "title": "SCP-ZH-565 - 無頭的愛德",
