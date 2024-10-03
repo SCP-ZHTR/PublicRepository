@@ -112782,8 +112782,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "16",
-      "votes": "16",
+      "rating": "17",
+      "votes": "17",
       "parent": null,
       "id": "1446484343",
       "detailed_rating": {
@@ -112851,12 +112851,16 @@
             [
                "8854072",
                1727589439
+            ],
+            [
+               "7532608",
+               1727973517
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 16,
-      "justified_votes": 16
+      "justified_rating": 17,
+      "justified_votes": 17
    },
    "1677816654": {
       "title": "SCP-ZH-727 - 哈哈，俗投",
@@ -131195,8 +131199,8 @@
          "_cc"
       ],
       "comments": "0",
-      "rating": "15",
-      "votes": "15",
+      "rating": "16",
+      "votes": "16",
       "parent": null,
       "id": "1452878067",
       "detailed_rating": {
@@ -131238,10 +131242,6 @@
                1709417941
             ],
             [
-               "7521095",
-               1709474729
-            ],
-            [
                "8883612",
                1712991448
             ],
@@ -131260,6 +131260,14 @@
             [
                "8854072",
                1718900340
+            ],
+            [
+               "7532608",
+               1727973517
+            ],
+            [
+               "DELETED",
+               1727973517
             ]
          ]
       },
@@ -142979,8 +142987,8 @@
          "_重新出發"
       ],
       "comments": "0",
-      "rating": "19",
-      "votes": "19",
+      "rating": "20",
+      "votes": "20",
       "parent": null,
       "id": "1456960318",
       "detailed_rating": {
@@ -143060,12 +143068,16 @@
             [
                "5062193",
                1727955607
+            ],
+            [
+               "7532608",
+               1727973517
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 19,
-      "justified_votes": 19
+      "justified_rating": 20,
+      "justified_votes": 20
    },
    "1727854815": {
       "title": "SCP-ZH-375 - Site-ZH-47的末日",
@@ -143221,8 +143233,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "2",
-      "votes": "2",
+      "rating": "3",
+      "votes": "3",
       "parent": null,
       "id": "1456969943",
       "detailed_rating": {
@@ -143234,11 +143246,15 @@
             [
                "8543386",
                1727971319
+            ],
+            [
+               "7605593",
+               1727973517
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 2,
-      "justified_votes": 2
+      "justified_rating": 3,
+      "justified_votes": 3
    }
 }
