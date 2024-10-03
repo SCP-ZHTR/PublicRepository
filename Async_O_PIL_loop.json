@@ -141888,8 +141888,8 @@
          "_新"
       ],
       "comments": "0",
-      "rating": "5",
-      "votes": "5",
+      "rating": "6",
+      "votes": "6",
       "parent": null,
       "id": "1456954397",
       "detailed_rating": {
@@ -141913,12 +141913,16 @@
             [
                "5338547",
                1727961943
+            ],
+            [
+               "7852233",
+               1727963776
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 5,
-      "justified_votes": 5
+      "justified_rating": 6,
+      "justified_votes": 6
    },
    "1727705250": {
       "title": "末日來時能烤肉嗎",
@@ -141936,8 +141940,8 @@
          "_重新出發"
       ],
       "comments": "0",
-      "rating": "9",
-      "votes": "9",
+      "rating": "10",
+      "votes": "10",
       "parent": null,
       "id": "1456954434",
       "detailed_rating": {
@@ -141977,12 +141981,16 @@
             [
                "5338547",
                1727961943
+            ],
+            [
+               "7852233",
+               1727963776
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 9,
-      "justified_votes": 9
+      "justified_rating": 10,
+      "justified_votes": 10
    },
    "1727705273": {
       "title": "SCP-ZH-250 - 會到得快一點",
