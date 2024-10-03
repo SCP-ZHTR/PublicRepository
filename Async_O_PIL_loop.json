@@ -142001,8 +142001,8 @@
          "_重新出發"
       ],
       "comments": "0",
-      "rating": "10",
-      "votes": "10",
+      "rating": "11",
+      "votes": "11",
       "parent": null,
       "id": "1456954434",
       "detailed_rating": {
@@ -142046,12 +142046,16 @@
             [
                "7852233",
                1727963776
+            ],
+            [
+               "4990678",
+               1727967850
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 10,
-      "justified_votes": 10
+      "justified_rating": 11,
+      "justified_votes": 11
    },
    "1727705273": {
       "title": "SCP-ZH-250 - 會到得快一點",
@@ -142150,8 +142154,8 @@
          "_重新出發"
       ],
       "comments": "2",
-      "rating": "9",
-      "votes": "9",
+      "rating": "10",
+      "votes": "10",
       "parent": null,
       "id": "1456954689",
       "detailed_rating": {
@@ -142191,12 +142195,16 @@
             [
                "5370805",
                1727966337
+            ],
+            [
+               "4990678",
+               1727967850
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 9,
-      "justified_votes": 9
+      "justified_rating": 10,
+      "justified_votes": 10
    },
    "1727706652": {
       "title": "下一站：死線",
@@ -142442,8 +142450,8 @@
          "_重新出發"
       ],
       "comments": "1",
-      "rating": "11",
-      "votes": "11",
+      "rating": "12",
+      "votes": "12",
       "parent": null,
       "id": "1456954953",
       "detailed_rating": {
@@ -142491,12 +142499,16 @@
             [
                "7513990",
                1727967218
+            ],
+            [
+               "4990678",
+               1727967850
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 11,
-      "justified_votes": 11
+      "justified_rating": 12,
+      "justified_votes": 12
    },
    "1727710543": {
       "title": "SCP-ZH-955 - Consider a spherical human.",
