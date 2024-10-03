@@ -99267,8 +99267,8 @@
          "_cc"
       ],
       "comments": "1",
-      "rating": "25",
-      "votes": "25",
+      "rating": "26",
+      "votes": "26",
       "parent": null,
       "id": "1420385602",
       "detailed_rating": {
@@ -99372,12 +99372,16 @@
             [
                "7571354",
                1713084492
+            ],
+            [
+               "7532608",
+               1727960501
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 24,
-      "justified_votes": 24
+      "justified_rating": 25,
+      "justified_votes": 25
    },
    "1659111823": {
       "title": "SCP-ZH-304 - 行進插曲",
