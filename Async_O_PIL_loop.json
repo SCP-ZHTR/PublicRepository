@@ -141144,8 +141144,8 @@
          "_南"
       ],
       "comments": "0",
-      "rating": "9",
-      "votes": "9",
+      "rating": "10",
+      "votes": "10",
       "parent": null,
       "id": "1456941144",
       "detailed_rating": {
@@ -141185,12 +141185,16 @@
             [
                "6503482",
                1727853862
+            ],
+            [
+               "5062193",
+               1727944798
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 9,
-      "justified_votes": 9
+      "justified_rating": 10,
+      "justified_votes": 10
    },
    "1727435252": {
       "title": "天涼時節",
