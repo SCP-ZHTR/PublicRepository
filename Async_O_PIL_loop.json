@@ -142468,14 +142468,15 @@
          "site-zh-12",
          "zh急迫競賽2024",
          "原創",
+         "待刪除",
          "搞笑"
       ],
       "hidden_tags": [
          "_新"
       ],
-      "comments": "2",
-      "rating": "-2",
-      "votes": "6",
+      "comments": "3",
+      "rating": "-3",
+      "votes": "7",
       "parent": null,
       "id": "1456959957",
       "detailed_rating": {
@@ -142495,6 +142496,10 @@
             [
                "5435485",
                1727834238
+            ],
+            [
+               "3981670",
+               1727921141
             ]
          ],
          "+": [
@@ -142509,8 +142514,8 @@
          ]
       },
       "deleted": false,
-      "justified_rating": -2,
-      "justified_votes": 6
+      "justified_rating": -3,
+      "justified_votes": 7
    },
    "1727798239": {
       "title": "SCP-ZH-919 - 鈔票濕濕",
