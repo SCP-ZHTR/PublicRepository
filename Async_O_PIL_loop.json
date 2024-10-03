@@ -141979,8 +141979,8 @@
          "_南"
       ],
       "comments": "0",
-      "rating": "11",
-      "votes": "11",
+      "rating": "12",
+      "votes": "12",
       "parent": "jamcon-zh-2024",
       "id": "1456954695",
       "detailed_rating": {
@@ -142028,12 +142028,16 @@
             [
                "7605593",
                1727783477
+            ],
+            [
+               "7513990",
+               1727934834
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 11,
-      "justified_votes": 11
+      "justified_rating": 12,
+      "justified_votes": 12
    },
    "1727707859": {
       "title": "SCP-ZH-579 - 門",
