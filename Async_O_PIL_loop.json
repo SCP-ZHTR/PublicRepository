@@ -141317,8 +141317,8 @@
          "_重新出發"
       ],
       "comments": "0",
-      "rating": "6",
-      "votes": "6",
+      "rating": "7",
+      "votes": "7",
       "parent": null,
       "id": "1456945975",
       "detailed_rating": {
@@ -141346,12 +141346,16 @@
             [
                "5062193",
                1727956600
+            ],
+            [
+               "7605593",
+               1727960780
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 6,
-      "justified_votes": 6
+      "justified_rating": 7,
+      "justified_votes": 7
    },
    "1727527286": {
       "title": "不下雪的南國之境",
@@ -142267,8 +142271,8 @@
          "_重新出發"
       ],
       "comments": "1",
-      "rating": "8",
-      "votes": "8",
+      "rating": "9",
+      "votes": "9",
       "parent": null,
       "id": "1456954953",
       "detailed_rating": {
@@ -142304,12 +142308,16 @@
             [
                "5062193",
                1727955895
+            ],
+            [
+               "7605593",
+               1727960780
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 8,
-      "justified_votes": 8
+      "justified_rating": 9,
+      "justified_votes": 9
    },
    "1727710543": {
       "title": "SCP-ZH-955 - Consider a spherical human.",
@@ -142893,8 +142901,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "4",
-      "votes": "4",
+      "rating": "5",
+      "votes": "5",
       "parent": null,
       "id": "1456969436",
       "detailed_rating": {
@@ -142914,11 +142922,15 @@
             [
                "7073060",
                1727957295
+            ],
+            [
+               "7605593",
+               1727960780
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 4,
-      "justified_votes": 4
+      "justified_rating": 5,
+      "justified_votes": 5
    }
 }
