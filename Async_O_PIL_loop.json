@@ -131408,8 +131408,8 @@
          "_cc"
       ],
       "comments": "1",
-      "rating": "16",
-      "votes": "16",
+      "rating": "17",
+      "votes": "17",
       "parent": null,
       "id": "1452935663",
       "detailed_rating": {
@@ -131477,12 +131477,16 @@
             [
                "4442284",
                1715757974
+            ],
+            [
+               "7532608",
+               1727966045
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 16,
-      "justified_votes": 16
+      "justified_rating": 17,
+      "justified_votes": 17
    },
    "1709820080": {
       "title": "SCP-ZH-370 紅色圓圈",
