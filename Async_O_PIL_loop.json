@@ -132179,8 +132179,8 @@
          "_cc"
       ],
       "comments": "0",
-      "rating": "6",
-      "votes": "8",
+      "rating": "7",
+      "votes": "9",
       "parent": null,
       "id": "1453266520",
       "detailed_rating": {
@@ -132198,10 +132198,6 @@
                1712567921
             ],
             [
-               "7521095",
-               1712572910
-            ],
-            [
                "8543386",
                1712573805
             ],
@@ -132212,6 +132208,14 @@
             [
                "8792088",
                1713286767
+            ],
+            [
+               "9075244",
+               1727967685
+            ],
+            [
+               "DELETED",
+               1727967685
             ]
          ],
          "-": [
@@ -141349,8 +141353,8 @@
          "_重新出發"
       ],
       "comments": "0",
-      "rating": "8",
-      "votes": "8",
+      "rating": "9",
+      "votes": "9",
       "parent": null,
       "id": "1456945975",
       "detailed_rating": {
@@ -141386,12 +141390,16 @@
             [
                "6217438",
                1727965043
+            ],
+            [
+               "4990678",
+               1727967685
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 8,
-      "justified_votes": 8
+      "justified_rating": 9,
+      "justified_votes": 9
    },
    "1727527286": {
       "title": "不下雪的南國之境",
@@ -141496,11 +141504,12 @@
          "第一人稱"
       ],
       "hidden_tags": [
+         "_禁黑",
          "_重新出發"
       ],
       "comments": "1",
-      "rating": "11",
-      "votes": "11",
+      "rating": "12",
+      "votes": "12",
       "parent": null,
       "id": "1456950769",
       "detailed_rating": {
@@ -141548,12 +141557,16 @@
             [
                "7513990",
                1727937168
+            ],
+            [
+               "4990678",
+               1727967685
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 11,
-      "justified_votes": 11
+      "justified_rating": 12,
+      "justified_votes": 12
    },
    "1727696348": {
       "title": "皇民文學中的歧路：〈香楠枝〉與鹿野純平的「異觀點」書寫",
@@ -141647,8 +141660,8 @@
          "_重新出發"
       ],
       "comments": "0",
-      "rating": "6",
-      "votes": "6",
+      "rating": "7",
+      "votes": "7",
       "parent": null,
       "id": "1456954025",
       "detailed_rating": {
@@ -141676,12 +141689,16 @@
             [
                "5338547",
                1727961943
+            ],
+            [
+               "4990678",
+               1727967685
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 6,
-      "justified_votes": 6
+      "justified_rating": 7,
+      "justified_votes": 7
    },
    "1727703000": {
       "title": "SCP-ZH-707 - 如果真理有一個方位",
@@ -141831,8 +141848,8 @@
          "_重新出發"
       ],
       "comments": "0",
-      "rating": "6",
-      "votes": "6",
+      "rating": "7",
+      "votes": "7",
       "parent": null,
       "id": "1456954313",
       "detailed_rating": {
@@ -141860,12 +141877,16 @@
             [
                "5338547",
                1727961943
+            ],
+            [
+               "4990678",
+               1727967685
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 6,
-      "justified_votes": 6
+      "justified_rating": 7,
+      "justified_votes": 7
    },
    "1727705128": {
       "title": "SCP-ZH-615 - 祈雨鯨",
