@@ -130852,8 +130852,8 @@
          "_cc"
       ],
       "comments": "0",
-      "rating": "12",
-      "votes": "12",
+      "rating": "13",
+      "votes": "13",
       "parent": "i-lisin-cilangasan",
       "id": "1452768190",
       "detailed_rating": {
@@ -130905,12 +130905,16 @@
             [
                "4239775",
                1709219725
+            ],
+            [
+               "7532608",
+               1727964479
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 12,
-      "justified_votes": 12
+      "justified_rating": 13,
+      "justified_votes": 13
    },
    "1708865289": {
       "title": "劉勉色的快樂DnD時光",
