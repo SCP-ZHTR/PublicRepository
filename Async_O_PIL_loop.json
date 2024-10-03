@@ -141309,8 +141309,8 @@
          "_重新出發"
       ],
       "comments": "0",
-      "rating": "5",
-      "votes": "5",
+      "rating": "6",
+      "votes": "6",
       "parent": null,
       "id": "1456945975",
       "detailed_rating": {
@@ -141334,12 +141334,16 @@
             [
                "6503482",
                1727852610
+            ],
+            [
+               "5062193",
+               1727956600
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 5,
-      "justified_votes": 5
+      "justified_rating": 6,
+      "justified_votes": 6
    },
    "1727527286": {
       "title": "不下雪的南國之境",
@@ -142881,8 +142885,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "1",
-      "votes": "1",
+      "rating": "2",
+      "votes": "2",
       "parent": null,
       "id": "1456969436",
       "detailed_rating": {
@@ -142890,11 +142894,15 @@
             [
                "4239775",
                1727956323
+            ],
+            [
+               "4206567",
+               1727956600
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 1,
-      "justified_votes": 1
+      "justified_rating": 2,
+      "justified_votes": 2
    }
 }
