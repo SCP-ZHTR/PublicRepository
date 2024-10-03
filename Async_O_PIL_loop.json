@@ -141200,8 +141200,8 @@
          "_南"
       ],
       "comments": "0",
-      "rating": "11",
-      "votes": "11",
+      "rating": "12",
+      "votes": "12",
       "parent": null,
       "id": "1456941144",
       "detailed_rating": {
@@ -141249,12 +141249,16 @@
             [
                "7605593",
                1727960929
+            ],
+            [
+               "4990678",
+               1727966921
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 11,
-      "justified_votes": 11
+      "justified_rating": 12,
+      "justified_votes": 12
    },
    "1727435252": {
       "title": "天涼時節",
@@ -142806,11 +142810,12 @@
          "貨幣"
       ],
       "hidden_tags": [
-         "_新"
+         "_新",
+         "_禁黑"
       ],
       "comments": "1",
-      "rating": "11",
-      "votes": "11",
+      "rating": "12",
+      "votes": "12",
       "parent": null,
       "id": "1456960314",
       "detailed_rating": {
@@ -142858,12 +142863,16 @@
             [
                "5338547",
                1727961943
+            ],
+            [
+               "4990678",
+               1727966921
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 11,
-      "justified_votes": 11
+      "justified_rating": 12,
+      "justified_votes": 12
    },
    "1727798330": {
       "title": "太陽的歸鄉",
