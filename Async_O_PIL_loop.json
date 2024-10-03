@@ -142105,8 +142105,8 @@
          "_南"
       ],
       "comments": "1",
-      "rating": "9",
-      "votes": "9",
+      "rating": "10",
+      "votes": "10",
       "parent": null,
       "id": "1456954951",
       "detailed_rating": {
@@ -142146,12 +142146,16 @@
             [
                "6217438",
                1727885613
+            ],
+            [
+               "4239775",
+               1727921978
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 9,
-      "justified_votes": 9
+      "justified_rating": 10,
+      "justified_votes": 10
    },
    "1727710469": {
       "title": "SCP-ZH-730 - 乙類人員通勤路線",
