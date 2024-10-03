@@ -132249,7 +132249,7 @@
       "hidden_tags": [],
       "comments": "1",
       "rating": "10",
-      "votes": "10",
+      "votes": "11",
       "parent": null,
       "id": "1453276209",
       "detailed_rating": {
@@ -132271,10 +132271,6 @@
                1712567921
             ],
             [
-               "7521095",
-               1712572654
-            ],
-            [
                "5435485",
                1712578547
             ],
@@ -132287,18 +132283,26 @@
                1712833653
             ],
             [
-               "8283755",
-               1713687130
-            ],
-            [
                "8543386",
                1714202981
+            ],
+            [
+               "8404617",
+               1727971597
+            ],
+            [
+               "DELETED",
+               1727971597
+            ],
+            [
+               "DELETED",
+               1727971597
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 10,
-      "justified_votes": 10
+      "justified_rating": 9,
+      "justified_votes": 9
    },
    "1712678454": {
       "title": "SCP-ZH-293 - 使徒的抉擇",
@@ -143165,8 +143169,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "6",
-      "votes": "6",
+      "rating": "7",
+      "votes": "7",
       "parent": null,
       "id": "1456969436",
       "detailed_rating": {
@@ -143194,12 +143198,16 @@
             [
                "5338547",
                1727962105
+            ],
+            [
+               "7655555",
+               1727971597
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 6,
-      "justified_votes": 6
+      "justified_rating": 7,
+      "justified_votes": 7
    },
    "1727970820": {
       "title": "項目檔案圖像紀錄：「Site-ZH-47」",
@@ -143213,8 +143221,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "1",
-      "votes": "1",
+      "rating": "2",
+      "votes": "2",
       "parent": null,
       "id": "1456969943",
       "detailed_rating": {
