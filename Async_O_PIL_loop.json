@@ -141764,8 +141764,8 @@
          "_新"
       ],
       "comments": "0",
-      "rating": "6",
-      "votes": "6",
+      "rating": "7",
+      "votes": "7",
       "parent": null,
       "id": "1456954312",
       "detailed_rating": {
@@ -141793,12 +141793,16 @@
             [
                "6217438",
                1727965194
+            ],
+            [
+               "4990678",
+               1727967066
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 6,
-      "justified_votes": 6
+      "justified_rating": 7,
+      "justified_votes": 7
    },
    "1727703010": {
       "title": "SCP-ZH-565 - 無頭的愛德",
@@ -142265,7 +142269,8 @@
          "視覺性"
       ],
       "hidden_tags": [
-         "_新"
+         "_新",
+         "_禁黑"
       ],
       "comments": "2",
       "rating": "1",
@@ -142486,8 +142491,8 @@
          "_新"
       ],
       "comments": "1",
-      "rating": "12",
-      "votes": "12",
+      "rating": "13",
+      "votes": "13",
       "parent": null,
       "id": "1456954955",
       "detailed_rating": {
@@ -142539,12 +142544,16 @@
             [
                "7571354",
                1727966192
+            ],
+            [
+               "4990678",
+               1727967066
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 12,
-      "justified_votes": 12
+      "justified_rating": 13,
+      "justified_votes": 13
    },
    "1727711949": {
       "title": "未知航程：海峽戰役2-4",
@@ -142650,8 +142659,8 @@
          "_新"
       ],
       "comments": "1",
-      "rating": "7",
-      "votes": "7",
+      "rating": "8",
+      "votes": "8",
       "parent": null,
       "id": "1456959665",
       "detailed_rating": {
@@ -142683,12 +142692,16 @@
             [
                "7605593",
                1727960929
+            ],
+            [
+               "4990678",
+               1727967066
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 7,
-      "justified_votes": 7
+      "justified_rating": 8,
+      "justified_votes": 8
    },
    "1727789400": {
       "title": "項目檔案圖像紀錄：「瓦巧鉤憚黃金殙」",
