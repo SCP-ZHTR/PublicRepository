@@ -79428,8 +79428,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "18",
-      "votes": "18",
+      "rating": "19",
+      "votes": "19",
       "parent": null,
       "id": "1324116414",
       "detailed_rating": {
@@ -79505,12 +79505,16 @@
             [
                "9130820",
                1715483241
+            ],
+            [
+               "9075244",
+               1728047512
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 17,
-      "justified_votes": 17
+      "justified_rating": 18,
+      "justified_votes": 18
    },
    "1632336386": {
       "title": "末日邊緣的Perdu",
