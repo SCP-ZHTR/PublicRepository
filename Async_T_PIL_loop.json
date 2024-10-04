@@ -63832,8 +63832,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "2",
-      "votes": "2",
+      "rating": "3",
+      "votes": "3",
       "parent": null,
       "id": "1310919818",
       "detailed_rating": {
@@ -63843,8 +63843,12 @@
                1619884800
             ],
             [
-               "7521095",
-               1641052800
+               "9371222",
+               1728036294
+            ],
+            [
+               "DELETED",
+               1728036294
             ]
          ]
       },
@@ -64643,8 +64647,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "5",
-      "votes": "5",
+      "rating": "6",
+      "votes": "6",
       "parent": null,
       "id": "1310961702",
       "detailed_rating": {
@@ -64668,12 +64672,16 @@
             [
                "DELETED",
                1707292169
+            ],
+            [
+               "9371222",
+               1728036294
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 4,
-      "justified_votes": 4
+      "justified_rating": 5,
+      "justified_votes": 5
    },
    "1620281482": {
       "title": "SCP-046 -「掠食性」冬青灌木叢",
