@@ -141436,5 +141436,29 @@
       "deleted": false,
       "justified_rating": 2,
       "justified_votes": 2
+   },
+   "1728028904": {
+      "title": "8. 月亮先生",
+      "fullname": "8-mr-moon",
+      "created_at": "1728028904",
+      "created_by": "9371222",
+      "tags": [
+         "en",
+         "wondertainment博士",
+         "合作",
+         "小小先生",
+         "收藏家故事",
+         "翻譯"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1456973125",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
