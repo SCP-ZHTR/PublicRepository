@@ -105582,8 +105582,8 @@
          "_licensebox"
       ],
       "comments": "2",
-      "rating": "18",
-      "votes": "18",
+      "rating": "19",
+      "votes": "19",
       "parent": "scp-zh-649",
       "id": "1436271281",
       "detailed_rating": {
@@ -105659,12 +105659,16 @@
             [
                "DELETED",
                1710597726
+            ],
+            [
+               "9075244",
+               1728046610
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 17,
-      "justified_votes": 17
+      "justified_rating": 18,
+      "justified_votes": 18
    },
    "1664965267": {
       "title": "殘響",
