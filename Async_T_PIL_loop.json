@@ -139978,8 +139978,8 @@
       ],
       "hidden_tags": [],
       "comments": "3",
-      "rating": "3",
-      "votes": "3",
+      "rating": "4",
+      "votes": "4",
       "parent": null,
       "id": "1456182895",
       "detailed_rating": {
@@ -139995,12 +139995,16 @@
             [
                "7504530",
                1723687574
+            ],
+            [
+               "9371222",
+               1728133388
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 3,
-      "justified_votes": 3
+      "justified_rating": 4,
+      "justified_votes": 4
    },
    "1723888287": {
       "title": "......如同發條 中心頁",
