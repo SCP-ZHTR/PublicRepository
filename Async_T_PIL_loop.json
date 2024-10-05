@@ -6755,8 +6755,8 @@
          "_cc"
       ],
       "comments": "1",
-      "rating": "4",
-      "votes": "4",
+      "rating": "5",
+      "votes": "5",
       "parent": null,
       "id": "789932852",
       "detailed_rating": {
@@ -6776,12 +6776,16 @@
             [
                "8033564",
                1668528000
+            ],
+            [
+               "9371222",
+               1728132277
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 4,
-      "justified_votes": 4
+      "justified_rating": 5,
+      "justified_votes": 5
    },
    "1557318979": {
       "title": "小動物簡介：Wobbles！",
@@ -122989,8 +122993,8 @@
          "_cc"
       ],
       "comments": "0",
-      "rating": "7",
-      "votes": "7",
+      "rating": "8",
+      "votes": "8",
       "parent": null,
       "id": "1448755179",
       "detailed_rating": {
@@ -123022,12 +123026,16 @@
             [
                "8854072",
                1728131999
+            ],
+            [
+               "9371222",
+               1728132277
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 7,
-      "justified_votes": 7
+      "justified_rating": 8,
+      "justified_votes": 8
    },
    "1688589281": {
       "title": "日曆特工的火辣約會2：狂舞之夜",
