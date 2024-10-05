@@ -62113,8 +62113,8 @@
          "_licensebox"
       ],
       "comments": "0",
-      "rating": "1",
-      "votes": "1",
+      "rating": "2",
+      "votes": "2",
       "parent": null,
       "id": "1308485071",
       "detailed_rating": {
@@ -62122,12 +62122,16 @@
             [
                "5344757",
                1618934400
+            ],
+            [
+               "9371222",
+               1728135475
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 1,
-      "justified_votes": 1
+      "justified_rating": 2,
+      "justified_votes": 2
    },
    "1617708509": {
       "title": "SCP-2284",
