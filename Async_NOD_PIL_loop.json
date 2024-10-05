@@ -27818,5 +27818,22 @@
       "deleted": true,
       "justified_rating": 0,
       "justified_votes": 0
+   },
+   "1728134525": {
+      "title": "5. 憤怒先生",
+      "fullname": "deleted:5",
+      "created_at": "1728134525",
+      "created_by": "9371222",
+      "tags": [],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1457011982",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
