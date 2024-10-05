@@ -75309,8 +75309,8 @@
          "_licensebox"
       ],
       "comments": "1",
-      "rating": "8",
-      "votes": "8",
+      "rating": "9",
+      "votes": "9",
       "parent": null,
       "id": "1324319336",
       "detailed_rating": {
@@ -75346,12 +75346,16 @@
             [
                "DELETED",
                1728129112
+            ],
+            [
+               "8854072",
+               1728131999
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 6,
-      "justified_votes": 6
+      "justified_rating": 7,
+      "justified_votes": 7
    },
    "1633556717": {
       "title": "SCP-2337 - 「斯潘科博士」",
@@ -122985,8 +122989,8 @@
          "_cc"
       ],
       "comments": "0",
-      "rating": "6",
-      "votes": "6",
+      "rating": "7",
+      "votes": "7",
       "parent": null,
       "id": "1448755179",
       "detailed_rating": {
@@ -123014,12 +123018,16 @@
             [
                "6788064",
                1688564631
+            ],
+            [
+               "8854072",
+               1728131999
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 6,
-      "justified_votes": 6
+      "justified_rating": 7,
+      "justified_votes": 7
    },
    "1688589281": {
       "title": "日曆特工的火辣約會2：狂舞之夜",
