@@ -141514,5 +141514,29 @@
       "deleted": false,
       "justified_rating": 1,
       "justified_votes": 1
+   },
+   "1728134688": {
+      "title": "5. 憤怒先生",
+      "fullname": "5-mr-mad",
+      "created_at": "1728134688",
+      "created_by": "9371222",
+      "tags": [
+         "en",
+         "wondertainment博士",
+         "小小先生",
+         "收藏家故事",
+         "故事",
+         "翻譯"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1457011985",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
