@@ -141614,5 +141614,35 @@
       "deleted": false,
       "justified_rating": 5,
       "justified_votes": 5
+   },
+   "1728228621": {
+      "title": "SCP-5172 - 北美旅館製冰機（撒慕那與撒巴）。",
+      "fullname": "scp-5172",
+      "created_at": "1728228621",
+      "created_by": "6217438",
+      "tags": [
+         "en",
+         "keter",
+         "scp",
+         "人形",
+         "幻覺",
+         "掠食性",
+         "活物",
+         "現象",
+         "睡眠",
+         "翻譯",
+         "視覺性",
+         "記憶影響"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1457015626",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
