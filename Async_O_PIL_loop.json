@@ -67928,8 +67928,8 @@
       ],
       "hidden_tags": [],
       "comments": "12",
-      "rating": "28",
-      "votes": "28",
+      "rating": "29",
+      "votes": "29",
       "parent": null,
       "id": "1308645310",
       "detailed_rating": {
@@ -68045,12 +68045,16 @@
             [
                "7827462",
                1728216577
+            ],
+            [
+               "8543386",
+               1728221093
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 28,
-      "justified_votes": 28
+      "justified_rating": 29,
+      "justified_votes": 29
    },
    "1618752037": {
       "title": "鎖鏈的音竹",
