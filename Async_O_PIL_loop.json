@@ -142691,8 +142691,8 @@
          "_新"
       ],
       "comments": "1",
-      "rating": "16",
-      "votes": "16",
+      "rating": "17",
+      "votes": "17",
       "parent": null,
       "id": "1456955005",
       "detailed_rating": {
@@ -142760,12 +142760,16 @@
             [
                "4239775",
                1727970647
+            ],
+            [
+               "8883612",
+               1728221644
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 16,
-      "justified_votes": 16
+      "justified_rating": 17,
+      "justified_votes": 17
    },
    "1727787687": {
       "title": "SCP-ZH-557 - 白色油漆",
