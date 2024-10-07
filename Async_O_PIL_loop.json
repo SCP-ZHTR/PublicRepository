@@ -143344,5 +143344,26 @@
       "deleted": false,
       "justified_rating": 5,
       "justified_votes": 5
+   },
+   "1728283361": {
+      "title": "皮膚",
+      "fullname": "skin-of-soul",
+      "created_at": "1728283361",
+      "created_by": "5325850",
+      "tags": [
+         "wanderers",
+         "原創",
+         "故事"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1457018595",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
