@@ -141637,7 +141637,7 @@
       "hidden_tags": [],
       "comments": "1",
       "rating": "2",
-      "votes": "2",
+      "votes": "3",
       "parent": null,
       "id": "1457015626",
       "detailed_rating": {
@@ -141649,12 +141649,16 @@
             [
                "7655555",
                1728229762
+            ],
+            [
+               "6091157",
+               1728283158
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 2,
-      "justified_votes": 2
+      "justified_rating": 3,
+      "justified_votes": 3
    },
    "1728282721": {
       "title": "SCP-3922 - 給我停下來犯罪敗類！！！",
@@ -141675,13 +141679,24 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "0",
-      "votes": "0",
+      "rating": "2",
+      "votes": "2",
       "parent": null,
       "id": "1457018583",
-      "detailed_rating": {},
+      "detailed_rating": {
+         "+": [
+            [
+               "6217438",
+               1728283158
+            ],
+            [
+               "6091157",
+               1728283158
+            ]
+         ]
+      },
       "deleted": false,
-      "justified_rating": 0,
-      "justified_votes": 0
+      "justified_rating": 2,
+      "justified_votes": 2
    }
 }
