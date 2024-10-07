@@ -121717,6 +121717,7 @@
          "reynders博士",
          "scp",
          "simon-pietrykau",
+         "刪除部",
          "合著",
          "告誡",
          "廢除部",
@@ -129339,6 +129340,7 @@
       "tags": [
          "en",
          "中心",
+         "刪除部",
          "翻譯"
       ],
       "hidden_tags": [],
@@ -141710,5 +141712,30 @@
       "deleted": false,
       "justified_rating": 5,
       "justified_votes": 5
+   },
+   "1728341289": {
+      "title": "SCP-7959 - 封 閉 / 系 統",
+      "fullname": "scp-7959",
+      "created_at": "1728341289",
+      "created_by": "5370805",
+      "tags": [
+         "en",
+         "scp",
+         "ticonderoga",
+         "刪除部",
+         "敘述性",
+         "翻譯",
+         "通訊"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1457022211",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
