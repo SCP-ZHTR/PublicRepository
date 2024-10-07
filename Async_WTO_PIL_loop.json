@@ -16661,5 +16661,22 @@
       "deleted": true,
       "justified_rating": 0,
       "justified_votes": 0
+   },
+   "1728341289": {
+      "title": "SCP-7959 - 封 閉 / 系 統",
+      "fullname": "scp-7959",
+      "created_at": "1728341289",
+      "created_by": "5370805",
+      "tags": [],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1457022211",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
