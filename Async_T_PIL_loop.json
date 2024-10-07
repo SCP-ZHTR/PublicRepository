@@ -57020,8 +57020,8 @@
       ],
       "hidden_tags": [],
       "comments": "2",
-      "rating": "10",
-      "votes": "12",
+      "rating": "11",
+      "votes": "13",
       "parent": null,
       "id": "1306982784",
       "detailed_rating": {
@@ -57069,6 +57069,10 @@
             [
                "8064046",
                1656000000
+            ],
+            [
+               "9371222",
+               1728341741
             ]
          ],
          "-": [
@@ -57079,8 +57083,8 @@
          ]
       },
       "deleted": false,
-      "justified_rating": 11,
-      "justified_votes": 11
+      "justified_rating": 12,
+      "justified_votes": 12
    },
    "1614080010": {
       "title": "SCP-1903 - Jackie的秘密",
