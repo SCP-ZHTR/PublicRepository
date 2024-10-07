@@ -16644,5 +16644,22 @@
       "deleted": true,
       "justified_rating": 0,
       "justified_votes": 0
+   },
+   "1728282721": {
+      "title": "SCP-3922 - 給我停下來犯罪敗類！！！",
+      "fullname": "scp-3922",
+      "created_at": "1728282721",
+      "created_by": "6217438",
+      "tags": [],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1457018583",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
