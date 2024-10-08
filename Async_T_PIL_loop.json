@@ -141621,8 +141621,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "6",
-      "votes": "6",
+      "rating": "7",
+      "votes": "7",
       "parent": null,
       "id": "1457014276",
       "detailed_rating": {
@@ -141650,12 +141650,16 @@
             [
                "7840542",
                1728395288
+            ],
+            [
+               "5370805",
+               1728410407
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 6,
-      "justified_votes": 6
+      "justified_rating": 7,
+      "justified_votes": 7
    },
    "1728228621": {
       "title": "SCP-5172 - 北美旅館製冰機（撒慕那與撒巴）。",
