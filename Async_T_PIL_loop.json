@@ -116992,6 +116992,7 @@
          "jude-kriyot",
          "中心",
          "反大麻玩家",
+         "生活片段",
          "翻譯"
       ],
       "hidden_tags": [
@@ -121104,8 +121105,8 @@
          "_licensebox"
       ],
       "comments": "0",
-      "rating": "3",
-      "votes": "3",
+      "rating": "4",
+      "votes": "4",
       "parent": null,
       "id": "1448284098",
       "detailed_rating": {
@@ -121121,12 +121122,16 @@
             [
                "8033564",
                1685882620
+            ],
+            [
+               "9371222",
+               1728392063
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 3,
-      "justified_votes": 3
+      "justified_rating": 4,
+      "justified_votes": 4
    },
    "1686182235": {
       "title": "Bright列表的刪除公告",
