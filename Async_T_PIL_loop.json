@@ -10263,8 +10263,10 @@
       "tags": [
          "en",
          "faeowynn-wilson",
+         "lgbtq",
          "威爾遜生物應對組",
          "故事",
+         "溫馨",
          "美妙世界",
          "翻譯"
       ],
@@ -141611,8 +141613,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "5",
-      "votes": "5",
+      "rating": "6",
+      "votes": "6",
       "parent": null,
       "id": "1457014276",
       "detailed_rating": {
@@ -141636,12 +141638,16 @@
             [
                "8033564",
                1728226318
+            ],
+            [
+               "7840542",
+               1728395288
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 5,
-      "justified_votes": 5
+      "justified_rating": 6,
+      "justified_votes": 6
    },
    "1728228621": {
       "title": "SCP-5172 - 北美旅館製冰機（撒慕那與撒巴）。",
