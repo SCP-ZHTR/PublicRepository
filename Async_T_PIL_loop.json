@@ -141707,8 +141707,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "5",
-      "votes": "5",
+      "rating": "6",
+      "votes": "6",
       "parent": null,
       "id": "1457018583",
       "detailed_rating": {
@@ -141732,12 +141732,16 @@
             [
                "8854072",
                1728329903
+            ],
+            [
+               "7840542",
+               1728395145
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 5,
-      "justified_votes": 5
+      "justified_rating": 6,
+      "justified_votes": 6
    },
    "1728341289": {
       "title": "SCP-7959 - 封 閉 / 系 統",
