@@ -107549,8 +107549,8 @@
       ],
       "hidden_tags": [],
       "comments": "3",
-      "rating": "18",
-      "votes": "18",
+      "rating": "19",
+      "votes": "19",
       "parent": null,
       "id": "1437306629",
       "detailed_rating": {
@@ -107626,12 +107626,16 @@
             [
                "DELETED",
                1695207508
+            ],
+            [
+               "7827462",
+               1728415029
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 17,
-      "justified_votes": 17
+      "justified_rating": 18,
+      "justified_votes": 18
    },
    "1668870547": {
       "title": "黑色華爾滋",
