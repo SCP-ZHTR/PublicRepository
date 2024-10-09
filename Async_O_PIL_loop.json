@@ -4050,8 +4050,8 @@
          "_info"
       ],
       "comments": "1",
-      "rating": "13",
-      "votes": "17",
+      "rating": "14",
+      "votes": "18",
       "parent": null,
       "id": "639419299",
       "detailed_rating": {
@@ -4115,6 +4115,10 @@
             [
                "5223229",
                1617120000
+            ],
+            [
+               "9104873",
+               1728464166
             ]
          ],
          "-": [
@@ -4129,8 +4133,8 @@
          ]
       },
       "deleted": false,
-      "justified_rating": 13,
-      "justified_votes": 17
+      "justified_rating": 14,
+      "justified_votes": 18
    },
    "1553064752": {
       "title": "SCP-ZH-372 - 黑體群",
