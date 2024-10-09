@@ -57764,8 +57764,8 @@
          "_cc"
       ],
       "comments": "0",
-      "rating": "20",
-      "votes": "20",
+      "rating": "21",
+      "votes": "21",
       "parent": null,
       "id": "1306217823",
       "detailed_rating": {
@@ -57849,12 +57849,16 @@
             [
                "5454699",
                1627228800
+            ],
+            [
+               "9104873",
+               1728463757
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 20,
-      "justified_votes": 20
+      "justified_rating": 21,
+      "justified_votes": 21
    },
    "1608189390": {
       "title": "SCP-ZH-088 - 只有男子漢可以進入的門",
