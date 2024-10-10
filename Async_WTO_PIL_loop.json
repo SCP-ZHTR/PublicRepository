@@ -16678,5 +16678,22 @@
       "deleted": true,
       "justified_rating": 0,
       "justified_votes": 0
+   },
+   "1728526122": {
+      "title": "受絞之王宮廷裡的一名魔杖士",
+      "fullname": "a-wandsman-in-the-court-of-the-hanged-king",
+      "created_at": "1728526122",
+      "created_by": "6088232",
+      "tags": [],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1457048113",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
