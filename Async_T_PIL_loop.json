@@ -136702,8 +136702,8 @@
          "_cc"
       ],
       "comments": "0",
-      "rating": "4",
-      "votes": "4",
+      "rating": "5",
+      "votes": "5",
       "parent": null,
       "id": "1453625333",
       "detailed_rating": {
@@ -136723,12 +136723,16 @@
             [
                "7513990",
                1721061678
+            ],
+            [
+               "7064164",
+               1728573925
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 4,
-      "justified_votes": 4
+      "justified_rating": 5,
+      "justified_votes": 5
    },
    "1715529644": {
       "title": "SCP-PL-390 - 尤里卡！",
