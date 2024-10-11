@@ -127487,8 +127487,8 @@
       ],
       "hidden_tags": [],
       "comments": "3",
-      "rating": "7",
-      "votes": "7",
+      "rating": "8",
+      "votes": "8",
       "parent": null,
       "id": "1451984932",
       "detailed_rating": {
@@ -127520,12 +127520,16 @@
             [
                "5701756",
                1704166916
+            ],
+            [
+               "9104873",
+               1728616056
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 7,
-      "justified_votes": 7
+      "justified_rating": 8,
+      "justified_votes": 8
    },
    "1703861050": {
       "title": "聖夜地下街",
