@@ -3233,8 +3233,8 @@
          "_licensebox"
       ],
       "comments": "0",
-      "rating": "4",
-      "votes": "6",
+      "rating": "5",
+      "votes": "7",
       "parent": "scp-001",
       "id": "675055942",
       "detailed_rating": {
@@ -3258,6 +3258,10 @@
             [
                "7558128",
                1666108800
+            ],
+            [
+               "9428515",
+               1728650637
             ]
          ],
          "-": [
@@ -3268,8 +3272,8 @@
          ]
       },
       "deleted": false,
-      "justified_rating": 4,
-      "justified_votes": 6
+      "justified_rating": 5,
+      "justified_votes": 7
    },
    "1554641115": {
       "title": "SCP-790 - 血？",
@@ -4697,8 +4701,8 @@
          "_cc"
       ],
       "comments": "0",
-      "rating": "10",
-      "votes": "10",
+      "rating": "11",
+      "votes": "11",
       "parent": "ouroboros",
       "id": "756973906",
       "detailed_rating": {
@@ -4742,12 +4746,16 @@
             [
                "8452537",
                1714494702
+            ],
+            [
+               "9428515",
+               1728650637
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 10,
-      "justified_votes": 10
+      "justified_rating": 11,
+      "justified_votes": 11
    },
    "1555940678": {
       "title": "SCP-116 - 脆弱男孩",
@@ -128017,8 +128025,8 @@
          "_cc"
       ],
       "comments": "0",
-      "rating": "6",
-      "votes": "6",
+      "rating": "7",
+      "votes": "7",
       "parent": null,
       "id": "1450664903",
       "detailed_rating": {
@@ -128040,12 +128048,16 @@
                1699766982
             ],
             [
-               "7521095",
-               1716391703
-            ],
-            [
                "4239775",
                1720440922
+            ],
+            [
+               "9428515",
+               1728650637
+            ],
+            [
+               "DELETED",
+               1728650637
             ]
          ]
       },
