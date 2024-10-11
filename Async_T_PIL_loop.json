@@ -53421,8 +53421,8 @@
          "_licensebox"
       ],
       "comments": "1",
-      "rating": "12",
-      "votes": "12",
+      "rating": "13",
+      "votes": "13",
       "parent": null,
       "id": "1306292841",
       "detailed_rating": {
@@ -53474,12 +53474,16 @@
             [
                "8404617",
                1721705382
+            ],
+            [
+               "9428515",
+               1728650785
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 12,
-      "justified_votes": 12
+      "justified_rating": 13,
+      "justified_votes": 13
    },
    "1608558155": {
       "title": "宛如我們是幼稚園老師一樣",
