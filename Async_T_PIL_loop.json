@@ -128995,8 +128995,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "5",
-      "votes": "5",
+      "rating": "6",
+      "votes": "6",
       "parent": null,
       "id": "1450941181",
       "detailed_rating": {
@@ -129020,12 +129020,16 @@
             [
                "8452537",
                1709207580
+            ],
+            [
+               "9428515",
+               1728651463
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 5,
-      "justified_votes": 5
+      "justified_rating": 6,
+      "justified_votes": 6
    },
    "1698444093": {
       "title": "湮滅",
