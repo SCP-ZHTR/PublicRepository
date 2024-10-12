@@ -24585,7 +24585,9 @@
          "詩格蘿絲",
          "追與逃"
       ],
-      "hidden_tags": [],
+      "hidden_tags": [
+         "_info"
+      ],
       "comments": "1",
       "rating": "12",
       "votes": "12",
