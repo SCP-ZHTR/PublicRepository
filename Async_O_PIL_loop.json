@@ -69261,8 +69261,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "12",
-      "votes": "12",
+      "rating": "13",
+      "votes": "13",
       "parent": null,
       "id": "1310945221",
       "detailed_rating": {
@@ -69314,12 +69314,16 @@
             [
                "5223229",
                1620144000
+            ],
+            [
+               "9075244",
+               1728741136
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 12,
-      "justified_votes": 12
+      "justified_rating": 13,
+      "justified_votes": 13
    },
    "1619954214": {
       "title": "SCP-ZH-736 - 你不能再往前了",
@@ -98201,8 +98205,8 @@
          "_cc"
       ],
       "comments": "0",
-      "rating": "8",
-      "votes": "8",
+      "rating": "9",
+      "votes": "9",
       "parent": null,
       "id": "1416956431",
       "detailed_rating": {
@@ -98238,12 +98242,16 @@
             [
                "DELETED",
                1695208325
+            ],
+            [
+               "9075244",
+               1728741136
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 7,
-      "justified_votes": 7
+      "justified_rating": 8,
+      "justified_votes": 8
    },
    "1656772905": {
       "title": "惡意行為",
@@ -100026,8 +100034,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "6",
-      "votes": "6",
+      "rating": "7",
+      "votes": "7",
       "parent": null,
       "id": "1420479959",
       "detailed_rating": {
@@ -100055,12 +100063,16 @@
             [
                "DELETED",
                1695208325
+            ],
+            [
+               "9075244",
+               1728741136
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 5,
-      "justified_votes": 5
+      "justified_rating": 6,
+      "justified_votes": 6
    },
    "1659774882": {
       "title": "海棠依舊",
