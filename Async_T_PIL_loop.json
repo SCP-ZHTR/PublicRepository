@@ -141695,14 +141695,21 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "0",
-      "votes": "0",
+      "rating": "1",
+      "votes": "1",
       "parent": null,
       "id": "1457013614",
-      "detailed_rating": {},
+      "detailed_rating": {
+         "+": [
+            [
+               "9371222",
+               1728800882
+            ]
+         ]
+      },
       "deleted": false,
-      "justified_rating": 0,
-      "justified_votes": 0
+      "justified_rating": 1,
+      "justified_votes": 1
    },
    "1728198942": {
       "title": "SCP-7496 - 聯盟強大",
