@@ -117084,8 +117084,8 @@
          "_licensebox"
       ],
       "comments": "1",
-      "rating": "6",
-      "votes": "6",
+      "rating": "7",
+      "votes": "7",
       "parent": null,
       "id": "1447167042",
       "detailed_rating": {
@@ -117113,12 +117113,16 @@
             [
                "5338547",
                1680712214
+            ],
+            [
+               "9371222",
+               1728798805
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 6,
-      "justified_votes": 6
+      "justified_rating": 7,
+      "justified_votes": 7
    },
    "1680438949": {
       "title": "維安設施檔案：Site-64",
