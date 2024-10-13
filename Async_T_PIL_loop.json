@@ -141956,8 +141956,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "1",
-      "votes": "1",
+      "rating": "2",
+      "votes": "2",
       "parent": null,
       "id": "1457048113",
       "detailed_rating": {
@@ -141965,12 +141965,16 @@
             [
                "9371222",
                1728801026
+            ],
+            [
+               "7504530",
+               1728837525
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 1,
-      "justified_votes": 1
+      "justified_rating": 2,
+      "justified_votes": 2
    },
    "1728736346": {
       "title": "項目企劃書 2024-111：《全球暖化讓破冰變得更加容易》",
