@@ -27864,9 +27864,26 @@
       "rating": "0",
       "votes": "0",
       "parent": null,
-      "id": null,
+      "id": "UNSET",
       "detailed_rating": {},
       "deleted": true,
+      "justified_rating": 0,
+      "justified_votes": 0
+   },
+   "1728796760": {
+      "title": "the-assassination-of-beleaguered-normalcy-by-the-coward-game",
+      "fullname": "reserve:the-assassination-of-beleaguered-normalcy-by-the-cow",
+      "created_at": "1728796760",
+      "created_by": "9371222",
+      "tags": [],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1457090882",
+      "detailed_rating": {},
+      "deleted": false,
       "justified_rating": 0,
       "justified_votes": 0
    }
