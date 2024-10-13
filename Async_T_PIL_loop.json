@@ -25841,8 +25841,8 @@
          "_delicious"
       ],
       "comments": "1",
-      "rating": "6",
-      "votes": "6",
+      "rating": "7",
+      "votes": "7",
       "parent": null,
       "id": "999872964",
       "detailed_rating": {
@@ -25870,12 +25870,16 @@
             [
                "3981670",
                1617120000
+            ],
+            [
+               "9371222",
+               1728819013
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 6,
-      "justified_votes": 6
+      "justified_rating": 7,
+      "justified_votes": 7
    },
    "1584026079": {
       "title": "SCP-091 - 思舊成愁",
