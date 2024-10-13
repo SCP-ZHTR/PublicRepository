@@ -6655,8 +6655,8 @@
          "_info"
       ],
       "comments": "1",
-      "rating": "11",
-      "votes": "11",
+      "rating": "12",
+      "votes": "12",
       "parent": null,
       "id": "789932786",
       "detailed_rating": {
@@ -6704,12 +6704,16 @@
             [
                "9371222",
                1728818869
+            ],
+            [
+               "7504530",
+               1728834544
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 11,
-      "justified_votes": 11
+      "justified_rating": 12,
+      "justified_votes": 12
    },
    "1557232383": {
       "title": "項目企劃書 1994-87：《羅馬法庭的一天》",
@@ -141983,8 +141987,8 @@
          "_awcy"
       ],
       "comments": "0",
-      "rating": "5",
-      "votes": "5",
+      "rating": "6",
+      "votes": "6",
       "parent": null,
       "id": "1457089139",
       "detailed_rating": {
@@ -142008,11 +142012,15 @@
             [
                "9371222",
                1728818727
+            ],
+            [
+               "7504530",
+               1728834544
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 5,
-      "justified_votes": 5
+      "justified_rating": 6,
+      "justified_votes": 6
    }
 }
