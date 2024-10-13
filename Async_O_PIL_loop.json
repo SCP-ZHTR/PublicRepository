@@ -83116,8 +83116,8 @@
          "_cc"
       ],
       "comments": "3",
-      "rating": "25",
-      "votes": "25",
+      "rating": "26",
+      "votes": "26",
       "parent": null,
       "id": "1330534304",
       "detailed_rating": {
@@ -83128,10 +83128,6 @@
             ],
             [
                "4264056",
-               1638028800
-            ],
-            [
-               "7469850",
                1638028800
             ],
             [
@@ -83149,10 +83145,6 @@
             [
                "6217438",
                1679543573
-            ],
-            [
-               "7521095",
-               1638028800
             ],
             [
                "6952002",
@@ -83221,12 +83213,24 @@
             [
                "6678442",
                1638115200
+            ],
+            [
+               "9371222",
+               1728819433
+            ],
+            [
+               "DELETED",
+               1728819433
+            ],
+            [
+               "DELETED",
+               1728819433
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 25,
-      "justified_votes": 25
+      "justified_rating": 24,
+      "justified_votes": 24
    },
    "1638084946": {
       "title": "SCP-ZH-701 - 掠食性降雨",
@@ -134235,8 +134239,8 @@
       ],
       "hidden_tags": [],
       "comments": "2",
-      "rating": "2",
-      "votes": "2",
+      "rating": "3",
+      "votes": "3",
       "parent": "scp-zh-118",
       "id": "757305870",
       "detailed_rating": {
@@ -134248,12 +134252,16 @@
             [
                "8883612",
                1716127630
+            ],
+            [
+               "9371222",
+               1728819433
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 2,
-      "justified_votes": 2
+      "justified_rating": 3,
+      "justified_votes": 3
    },
    "1716365700": {
       "title": "你的心跳，就像爸爸一樣呢，醫生",
