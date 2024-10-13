@@ -66119,8 +66119,8 @@
          "_禁黑"
       ],
       "comments": "1",
-      "rating": "18",
-      "votes": "18",
+      "rating": "19",
+      "votes": "19",
       "parent": null,
       "id": "1311621010",
       "detailed_rating": {
@@ -66196,12 +66196,16 @@
             [
                "5981123",
                1719081427
+            ],
+            [
+               "9428515",
+               1728853184
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 17,
-      "justified_votes": 17
+      "justified_rating": 18,
+      "justified_votes": 18
    },
    "1621515195": {
       "title": "SCP-082-CS - 頻率的囚徒",
