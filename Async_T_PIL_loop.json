@@ -113909,8 +113909,8 @@
          "_licensebox"
       ],
       "comments": "0",
-      "rating": "12",
-      "votes": "12",
+      "rating": "13",
+      "votes": "13",
       "parent": null,
       "id": "1446475916",
       "detailed_rating": {
@@ -113962,12 +113962,16 @@
             [
                "DELETED",
                1725386282
+            ],
+            [
+               "7064164",
+               1728945859
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 10,
-      "justified_votes": 10
+      "justified_rating": 11,
+      "justified_votes": 11
    },
    "1677587914": {
       "title": "SCP-7113 - C是「封鎖」（Closers）",
