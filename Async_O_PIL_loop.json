@@ -134820,8 +134820,8 @@
          "_白磷時代"
       ],
       "comments": "1",
-      "rating": "20",
-      "votes": "20",
+      "rating": "21",
+      "votes": "21",
       "parent": null,
       "id": "1453807587",
       "detailed_rating": {
@@ -134905,12 +134905,16 @@
             [
                "7655555",
                1718467141
+            ],
+            [
+               "5701756",
+               1728982575
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 20,
-      "justified_votes": 20
+      "justified_rating": 21,
+      "justified_votes": 21
    },
    "1716988430": {
       "title": "SCP-ZH-888-J - 付錢！",
