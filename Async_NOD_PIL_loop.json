@@ -27886,5 +27886,22 @@
       "deleted": true,
       "justified_rating": 0,
       "justified_votes": 0
+   },
+   "1728999017": {
+      "title": "fragment:SCP-ZH-558-1",
+      "fullname": "fragment:scp-zh-558-1",
+      "created_at": "1728999017",
+      "created_by": "8962532",
+      "tags": [],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": null,
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
