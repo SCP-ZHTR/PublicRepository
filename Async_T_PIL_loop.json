@@ -140331,8 +140331,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "3",
-      "votes": "3",
+      "rating": "4",
+      "votes": "4",
       "parent": null,
       "id": "1456421420",
       "detailed_rating": {
@@ -140348,12 +140348,16 @@
             [
                "8033564",
                1724085837
+            ],
+            [
+               "8452537",
+               1728998644
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 3,
-      "justified_votes": 3
+      "justified_rating": 4,
+      "justified_votes": 4
    },
    "1724071247": {
       "title": "SCP-1266 – 二疊紀方舟",
