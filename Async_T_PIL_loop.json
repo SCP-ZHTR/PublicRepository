@@ -87817,8 +87817,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "3",
-      "votes": "3",
+      "rating": "4",
+      "votes": "4",
       "parent": null,
       "id": "1402036062",
       "detailed_rating": {
@@ -87834,12 +87834,16 @@
             [
                "DELETED",
                1725117185
+            ],
+            [
+               "7504530",
+               1728950444
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 2,
-      "justified_votes": 2
+      "justified_rating": 3,
+      "justified_votes": 3
    },
    "1648819346": {
       "title": "SCP-165 - 圖勒大漠的蠕行餓沙",
