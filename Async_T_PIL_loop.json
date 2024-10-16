@@ -142083,5 +142083,34 @@
       "deleted": false,
       "justified_rating": 1,
       "justified_votes": 1
+   },
+   "1729073902": {
+      "title": "SCP-1933-EX－███湖水怪",
+      "fullname": "scp-1933-ex",
+      "created_at": "1729073902",
+      "created_by": "4206567",
+      "tags": [
+         "en",
+         "euclid",
+         "scp",
+         "已解明",
+         "模因",
+         "水棲",
+         "活物",
+         "精神影響",
+         "翻譯",
+         "視覺性",
+         "認知危害"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1457106344",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
