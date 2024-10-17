@@ -26397,8 +26397,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "3",
-      "votes": "3",
+      "rating": "4",
+      "votes": "4",
       "parent": null,
       "id": "999949887",
       "detailed_rating": {
@@ -26414,12 +26414,16 @@
             [
                "6952002",
                1641225600
+            ],
+            [
+               "9371222",
+               1729156251
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 3,
-      "justified_votes": 3
+      "justified_rating": 4,
+      "justified_votes": 4
    },
    "1584201255": {
       "title": "SCP-1033 - 33秒男",
