@@ -368,8 +368,8 @@
          "_image"
       ],
       "comments": "3",
-      "rating": "71",
-      "votes": "73",
+      "rating": "72",
+      "votes": "74",
       "parent": null,
       "id": "639422039",
       "detailed_rating": {
@@ -661,6 +661,10 @@
             [
                "6459420",
                1714832091
+            ],
+            [
+               "9371222",
+               1729155568
             ]
          ],
          "-": [
@@ -671,8 +675,8 @@
          ]
       },
       "deleted": false,
-      "justified_rating": 70,
-      "justified_votes": 70
+      "justified_rating": 71,
+      "justified_votes": 71
    },
    "1553001898": {
       "title": "UIU檔案：1952-003",
@@ -23202,8 +23206,8 @@
          "_cc"
       ],
       "comments": "2",
-      "rating": "38",
-      "votes": "38",
+      "rating": "39",
+      "votes": "39",
       "parent": null,
       "id": "988784884",
       "detailed_rating": {
@@ -23359,12 +23363,16 @@
             [
                "8326759",
                1704772488
+            ],
+            [
+               "9371222",
+               1729155568
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 38,
-      "justified_votes": 38
+      "justified_rating": 39,
+      "justified_votes": 39
    },
    "1582045044": {
       "title": "SCP-ES-157",
@@ -51631,8 +51639,8 @@
          "_licensebox"
       ],
       "comments": "2",
-      "rating": "27",
-      "votes": "27",
+      "rating": "28",
+      "votes": "28",
       "parent": "scp-001",
       "id": "1305874329",
       "detailed_rating": {
@@ -51744,12 +51752,16 @@
             [
                "8172481",
                1714551858
+            ],
+            [
+               "9371222",
+               1729155568
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 26,
-      "justified_votes": 26
+      "justified_rating": 27,
+      "justified_votes": 27
    },
    "1606142045": {
       "title": "SCP-1410-RU",
