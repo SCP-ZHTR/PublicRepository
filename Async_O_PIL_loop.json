@@ -134957,8 +134957,8 @@
          "_白磷時代"
       ],
       "comments": "2",
-      "rating": "24",
-      "votes": "24",
+      "rating": "25",
+      "votes": "25",
       "parent": null,
       "id": "1453818696",
       "detailed_rating": {
@@ -135058,12 +135058,16 @@
             [
                "5701756",
                1728982715
+            ],
+            [
+               "9104873",
+               1729221013
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 24,
-      "justified_votes": 24
+      "justified_rating": 25,
+      "justified_votes": 25
    },
    "1717215988": {
       "title": "SCP-ZH-315 - 危機感",
