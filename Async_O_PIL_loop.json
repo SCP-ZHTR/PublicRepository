@@ -78582,8 +78582,8 @@
          "_cc"
       ],
       "comments": "3",
-      "rating": "25",
-      "votes": "27",
+      "rating": "26",
+      "votes": "28",
       "parent": null,
       "id": "1316881262",
       "detailed_rating": {
@@ -78691,6 +78691,10 @@
             [
                "8884787",
                1711029248
+            ],
+            [
+               "8846720",
+               1729294826
             ]
          ],
          "-": [
@@ -78701,8 +78705,8 @@
          ]
       },
       "deleted": false,
-      "justified_rating": 24,
-      "justified_votes": 26
+      "justified_rating": 25,
+      "justified_votes": 27
    },
    "1629646365": {
       "title": "SCP-ZH-613 - 血天使",
