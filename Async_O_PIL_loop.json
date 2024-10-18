@@ -11719,8 +11719,8 @@
          "_info"
       ],
       "comments": "4",
-      "rating": "49",
-      "votes": "49",
+      "rating": "50",
+      "votes": "50",
       "parent": null,
       "id": "844318614",
       "detailed_rating": {
@@ -11920,12 +11920,16 @@
             [
                "9104873",
                1715652593
+            ],
+            [
+               "8846720",
+               1729295243
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 48,
-      "justified_votes": 48
+      "justified_rating": 49,
+      "justified_votes": 49
    },
    "1563295447": {
       "title": "潮間時分",
