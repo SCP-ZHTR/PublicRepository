@@ -52281,8 +52281,8 @@
          "_licensebox"
       ],
       "comments": "1",
-      "rating": "5",
-      "votes": "5",
+      "rating": "6",
+      "votes": "6",
       "parent": null,
       "id": "1306013175",
       "detailed_rating": {
@@ -52306,12 +52306,16 @@
             [
                "7039934",
                1617120000
+            ],
+            [
+               "9428515",
+               1729317416
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 5,
-      "justified_votes": 5
+      "justified_rating": 6,
+      "justified_votes": 6
    },
    "1606827173": {
       "title": "SCP-5233 - 剪剪先生，剪刀蟲老師",
