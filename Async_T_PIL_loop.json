@@ -142179,8 +142179,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "3",
-      "votes": "3",
+      "rating": "4",
+      "votes": "4",
       "parent": "scp-3922",
       "id": "1457171519",
       "detailed_rating": {
@@ -142196,11 +142196,15 @@
             [
                "7504530",
                1729391413
+            ],
+            [
+               "8452537",
+               1729409277
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 3,
-      "justified_votes": 3
+      "justified_rating": 4,
+      "justified_votes": 4
    }
 }
