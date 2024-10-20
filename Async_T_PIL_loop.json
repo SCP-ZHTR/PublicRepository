@@ -17604,8 +17604,8 @@
          "_licensebox"
       ],
       "comments": "2",
-      "rating": "3",
-      "votes": "3",
+      "rating": "4",
+      "votes": "4",
       "parent": null,
       "id": "858422741",
       "detailed_rating": {
@@ -17621,12 +17621,16 @@
             [
                "6655922",
                1617120000
+            ],
+            [
+               "9428515",
+               1729415640
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 3,
-      "justified_votes": 3
+      "justified_rating": 4,
+      "justified_votes": 4
    },
    "1566476234": {
       "title": "SCP-093 - 紅海物件",
