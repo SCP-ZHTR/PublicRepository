@@ -923,8 +923,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "7",
-      "votes": "11",
+      "rating": "8",
+      "votes": "12",
       "parent": null,
       "id": "639658287",
       "detailed_rating": {
@@ -964,6 +964,10 @@
             [
                "7501004",
                1638288000
+            ],
+            [
+               "9428515",
+               1729395189
             ]
          ],
          "-": [
@@ -978,8 +982,8 @@
          ]
       },
       "deleted": false,
-      "justified_rating": 8,
-      "justified_votes": 10
+      "justified_rating": 9,
+      "justified_votes": 11
    },
    "1553182499": {
       "title": "圖像使用政策",
