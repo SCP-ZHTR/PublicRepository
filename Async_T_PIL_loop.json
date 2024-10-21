@@ -25507,8 +25507,8 @@
          "_cc"
       ],
       "comments": "2",
-      "rating": "3",
-      "votes": "3",
+      "rating": "4",
+      "votes": "4",
       "parent": null,
       "id": "999819421",
       "detailed_rating": {
@@ -25524,12 +25524,16 @@
             [
                "4990678",
                1617120000
+            ],
+            [
+               "9428515",
+               1729518539
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 3,
-      "justified_votes": 3
+      "justified_rating": 4,
+      "justified_votes": 4
    },
    "1583894326": {
       "title": "SCP-610 - 憎恨之血肉",
