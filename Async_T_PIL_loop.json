@@ -1382,8 +1382,8 @@
          "_licensebox"
       ],
       "comments": "1",
-      "rating": "6",
-      "votes": "6",
+      "rating": "7",
+      "votes": "7",
       "parent": null,
       "id": "663460408",
       "detailed_rating": {
@@ -1411,12 +1411,16 @@
             [
                "DELETED",
                "[UNKNOWN]"
+            ],
+            [
+               "9428515",
+               1729487003
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 5,
-      "justified_votes": 5
+      "justified_rating": 6,
+      "justified_votes": 6
    },
    "1553933521": {
       "title": "倫理委員會職前訓練",
