@@ -23687,8 +23687,8 @@
          "_info"
       ],
       "comments": "0",
-      "rating": "2",
-      "votes": "4",
+      "rating": "3",
+      "votes": "5",
       "parent": null,
       "id": "994832223",
       "detailed_rating": {
@@ -23704,6 +23704,10 @@
             [
                "5251681",
                1617120000
+            ],
+            [
+               "9428515",
+               1729498756
             ]
          ],
          "-": [
@@ -23714,8 +23718,8 @@
          ]
       },
       "deleted": false,
-      "justified_rating": 3,
-      "justified_votes": 3
+      "justified_rating": 4,
+      "justified_votes": 4
    },
    "1582291674": {
       "title": "SCP-4999 - 守望我等之人",
