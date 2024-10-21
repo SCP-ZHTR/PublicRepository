@@ -40790,8 +40790,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "2",
-      "votes": "2",
+      "rating": "3",
+      "votes": "3",
       "parent": null,
       "id": "1165210713",
       "detailed_rating": {
@@ -40803,12 +40803,16 @@
             [
                "5013754",
                1617120000
+            ],
+            [
+               "9428515",
+               1729519817
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 2,
-      "justified_votes": 2
+      "justified_rating": 3,
+      "justified_votes": 3
    },
    "1593564114": {
       "title": "SCP-041 - 思想傳播植物人",
