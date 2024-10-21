@@ -286,8 +286,8 @@
          "_info"
       ],
       "comments": "1",
-      "rating": "4",
-      "votes": "4",
+      "rating": "5",
+      "votes": "5",
       "parent": null,
       "id": "639227091",
       "detailed_rating": {
@@ -307,12 +307,16 @@
             [
                "5013754",
                1617120000
+            ],
+            [
+               "9428515",
+               1729486863
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 4,
-      "justified_votes": 4
+      "justified_rating": 5,
+      "justified_votes": 5
    },
    "1552764978": {
       "title": "維安權限分級",
