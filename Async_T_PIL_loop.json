@@ -23957,8 +23957,8 @@
          "_licensebox"
       ],
       "comments": "0",
-      "rating": "2",
-      "votes": "2",
+      "rating": "3",
+      "votes": "3",
       "parent": null,
       "id": "996944896",
       "detailed_rating": {
@@ -23970,12 +23970,16 @@
             [
                "4990678",
                1617120000
+            ],
+            [
+               "9428515",
+               1729487278
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 2,
-      "justified_votes": 2
+      "justified_rating": 3,
+      "justified_votes": 3
    },
    "1582374521": {
       "title": "SCP-014 - 混凝土雕像人",
