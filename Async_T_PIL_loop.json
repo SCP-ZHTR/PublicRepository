@@ -22772,8 +22772,8 @@
          "_licensebox"
       ],
       "comments": "0",
-      "rating": "5",
-      "votes": "7",
+      "rating": "6",
+      "votes": "8",
       "parent": null,
       "id": "986662786",
       "detailed_rating": {
@@ -22801,6 +22801,10 @@
             [
                "4442284",
                1617120000
+            ],
+            [
+               "9428515",
+               1729490210
             ]
          ],
          "-": [
@@ -22811,8 +22815,8 @@
          ]
       },
       "deleted": false,
-      "justified_rating": 6,
-      "justified_votes": 6
+      "justified_rating": 7,
+      "justified_votes": 7
    },
    "1581503056": {
       "title": "SCP-4574 - 石器時代的武器虎",
