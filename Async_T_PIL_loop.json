@@ -1323,8 +1323,8 @@
          "_licensebox"
       ],
       "comments": "0",
-      "rating": "7",
-      "votes": "7",
+      "rating": "8",
+      "votes": "8",
       "parent": null,
       "id": "659856731",
       "detailed_rating": {
@@ -1356,12 +1356,16 @@
             [
                "8452537",
                1714118798
+            ],
+            [
+               "9428515",
+               1729519105
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 7,
-      "justified_votes": 7
+      "justified_rating": 8,
+      "justified_votes": 8
    },
    "1553840577": {
       "title": "SCP-013 - 藍色女士香煙",
