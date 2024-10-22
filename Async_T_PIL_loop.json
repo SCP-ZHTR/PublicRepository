@@ -32776,8 +32776,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "4",
-      "votes": "4",
+      "rating": "5",
+      "votes": "5",
       "parent": null,
       "id": "1024508790",
       "detailed_rating": {
@@ -32797,12 +32797,16 @@
             [
                "5565302",
                1707797079
+            ],
+            [
+               "9428515",
+               1729572529
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 4,
-      "justified_votes": 4
+      "justified_rating": 5,
+      "justified_votes": 5
    },
    "1586872705": {
       "title": "SCP-026 - 留校察看",
