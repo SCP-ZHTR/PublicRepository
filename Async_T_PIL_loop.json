@@ -32549,8 +32549,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "3",
-      "votes": "3",
+      "rating": "4",
+      "votes": "4",
       "parent": null,
       "id": "1024392515",
       "detailed_rating": {
@@ -32566,12 +32566,16 @@
             [
                "3981670",
                1617120000
+            ],
+            [
+               "9428515",
+               1729558268
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 3,
-      "justified_votes": 3
+      "justified_rating": 4,
+      "justified_votes": 4
    },
    "1586786340": {
       "title": "SCP-4474 - 史提夫與01些神",
