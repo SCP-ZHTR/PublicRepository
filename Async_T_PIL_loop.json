@@ -56407,8 +56407,8 @@
          "_licensebox"
       ],
       "comments": "0",
-      "rating": "8",
-      "votes": "8",
+      "rating": "9",
+      "votes": "9",
       "parent": null,
       "id": "1306811292",
       "detailed_rating": {
@@ -56444,12 +56444,16 @@
             [
                "7852233",
                1698737141
+            ],
+            [
+               "9104873",
+               1729665546
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 8,
-      "justified_votes": 8
+      "justified_rating": 9,
+      "justified_votes": 9
    },
    "1613089993": {
       "title": "SCP-1032 - 預知鐘",
