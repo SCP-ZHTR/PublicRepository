@@ -11923,8 +11923,8 @@
          "_licensebox"
       ],
       "comments": "1",
-      "rating": "5",
-      "votes": "5",
+      "rating": "6",
+      "votes": "6",
       "parent": null,
       "id": "803135543",
       "detailed_rating": {
@@ -11948,12 +11948,16 @@
             [
                "4107284",
                1617120000
+            ],
+            [
+               "8742552",
+               1729756464
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 5,
-      "justified_votes": 5
+      "justified_rating": 6,
+      "justified_votes": 6
    },
    "1560533996": {
       "title": "SCP-1307 - 削人肉鉛筆機",
