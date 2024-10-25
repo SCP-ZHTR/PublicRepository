@@ -25640,8 +25640,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "5",
-      "votes": "5",
+      "rating": "6",
+      "votes": "6",
       "parent": null,
       "id": "999856191",
       "detailed_rating": {
@@ -25665,12 +25665,16 @@
             [
                "9371222",
                1728819574
+            ],
+            [
+               "9181068",
+               1729839577
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 5,
-      "justified_votes": 5
+      "justified_rating": 6,
+      "justified_votes": 6
    },
    "1583901240": {
       "title": "SCP-2924 - 漂泊者們",
