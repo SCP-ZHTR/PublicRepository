@@ -38951,8 +38951,8 @@
       ],
       "hidden_tags": [],
       "comments": "3",
-      "rating": "2",
-      "votes": "2",
+      "rating": "3",
+      "votes": "3",
       "parent": null,
       "id": "1133603360",
       "detailed_rating": {
@@ -38964,12 +38964,16 @@
             [
                "4990678",
                1617120000
+            ],
+            [
+               "9428515",
+               1729853343
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 2,
-      "justified_votes": 2
+      "justified_rating": 3,
+      "justified_votes": 3
    },
    "1590939527": {
       "title": "你最後一個第一天",
