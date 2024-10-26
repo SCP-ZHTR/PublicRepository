@@ -26651,8 +26651,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "17",
-      "votes": "17",
+      "rating": "18",
+      "votes": "18",
       "parent": null,
       "id": "1002084918",
       "detailed_rating": {
@@ -26724,12 +26724,16 @@
             [
                "7558128",
                1670342400
+            ],
+            [
+               "9371222",
+               1729925918
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 17,
-      "justified_votes": 17
+      "justified_rating": 18,
+      "justified_votes": 18
    },
    "1584329681": {
       "title": "SCP-038 - 樹成萬物",
@@ -26997,8 +27001,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "6",
-      "votes": "6",
+      "rating": "7",
+      "votes": "7",
       "parent": null,
       "id": "1002114287",
       "detailed_rating": {
@@ -27026,12 +27030,16 @@
             [
                "4239775",
                1715516199
+            ],
+            [
+               "9371222",
+               1729925918
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 6,
-      "justified_votes": 6
+      "justified_rating": 7,
+      "justified_votes": 7
    },
    "1584437202": {
       "title": "SCP-069 - 樂譜",
@@ -36345,8 +36353,8 @@
       ],
       "hidden_tags": [],
       "comments": "4",
-      "rating": "10",
-      "votes": "10",
+      "rating": "11",
+      "votes": "11",
       "parent": null,
       "id": "1039064714",
       "detailed_rating": {
@@ -36390,12 +36398,16 @@
             [
                "5454699",
                1617120000
+            ],
+            [
+               "9371222",
+               1729925918
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 10,
-      "justified_votes": 10
+      "justified_rating": 11,
+      "justified_votes": 11
    },
    "1589500889": {
       "title": "於其影中：插曲 1",
