@@ -3250,8 +3250,8 @@
          "_禁黑"
       ],
       "comments": "1",
-      "rating": "9",
-      "votes": "9",
+      "rating": "10",
+      "votes": "10",
       "parent": null,
       "id": "863744432",
       "detailed_rating": {
@@ -3291,12 +3291,16 @@
             [
                "8883612",
                1724947341
+            ],
+            [
+               "6473138",
+               1730043734
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 9,
-      "justified_votes": 9
+      "justified_rating": 10,
+      "justified_votes": 10
    },
    "1567090944": {
       "title": "最高分頁面",
