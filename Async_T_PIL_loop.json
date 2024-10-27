@@ -142462,5 +142462,35 @@
       "deleted": false,
       "justified_rating": 4,
       "justified_votes": 4
+   },
+   "1730044427": {
+      "title": "SCP-1981 - 「隆納．雷根在演說中被切」",
+      "fullname": "scp-1981",
+      "created_at": "1730044427",
+      "created_by": "6217438",
+      "tags": [
+         "en",
+         "illustrated",
+         "political",
+         "safe",
+         "scp",
+         "人形",
+         "型態變化",
+         "媒體",
+         "恐怖",
+         "神秘",
+         "翻譯",
+         "視覺性"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1457219728",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
