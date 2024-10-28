@@ -142435,8 +142435,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "4",
-      "votes": "4",
+      "rating": "5",
+      "votes": "5",
       "parent": null,
       "id": "1457214930",
       "detailed_rating": {
@@ -142456,12 +142456,16 @@
             [
                "6981058",
                1730042884
+            ],
+            [
+               "5435485",
+               1730088808
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 4,
-      "justified_votes": 4
+      "justified_rating": 5,
+      "justified_votes": 5
    },
    "1730044427": {
       "title": "SCP-1981 - 「隆納．雷根在演說中被切」",
@@ -142484,8 +142488,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "4",
-      "votes": "4",
+      "rating": "6",
+      "votes": "6",
       "parent": null,
       "id": "1457219728",
       "detailed_rating": {
@@ -142505,11 +142509,19 @@
             [
                "6981058",
                1730073841
+            ],
+            [
+               "4206567",
+               1730088808
+            ],
+            [
+               "5435485",
+               1730088808
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 4,
-      "justified_votes": 4
+      "justified_rating": 6,
+      "justified_votes": 6
    }
 }
