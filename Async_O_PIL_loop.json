@@ -143484,8 +143484,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "11",
-      "votes": "11",
+      "rating": "12",
+      "votes": "12",
       "parent": null,
       "id": "1456964332",
       "detailed_rating": {
@@ -143533,12 +143533,16 @@
             [
                "8846720",
                1728128969
+            ],
+            [
+               "7916187",
+               1730179483
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 11,
-      "justified_votes": 11
+      "justified_rating": 12,
+      "justified_votes": 12
    },
    "1727955036": {
       "title": "讓自己保持溫暖",
