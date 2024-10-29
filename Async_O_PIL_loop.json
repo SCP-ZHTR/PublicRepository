@@ -126568,8 +126568,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "7",
-      "votes": "7",
+      "rating": "8",
+      "votes": "8",
       "parent": null,
       "id": "1451317757",
       "detailed_rating": {
@@ -126601,12 +126601,16 @@
             [
                "6381244",
                1701073423
+            ],
+            [
+               "7916187",
+               1730179897
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 7,
-      "justified_votes": 7
+      "justified_rating": 8,
+      "justified_votes": 8
    },
    "1699672272": {
       "title": "維安設施檔案：Site-ZH-11",
