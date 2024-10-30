@@ -130538,8 +130538,8 @@
          "_licensebox"
       ],
       "comments": "1",
-      "rating": "1",
-      "votes": "1",
+      "rating": "2",
+      "votes": "2",
       "parent": null,
       "id": "1451405145",
       "detailed_rating": {
@@ -130547,12 +130547,16 @@
             [
                "8452537",
                1700152228
+            ],
+            [
+               "9428515",
+               1730291342
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 1,
-      "justified_votes": 1
+      "justified_rating": 2,
+      "justified_votes": 2
    },
    "1700133211": {
       "title": "SCP-173 但是是告誡中心頁",
