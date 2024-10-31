@@ -133179,8 +133179,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "7",
-      "votes": "7",
+      "rating": "8",
+      "votes": "8",
       "parent": null,
       "id": "1453349320",
       "detailed_rating": {
@@ -133212,12 +133212,16 @@
             [
                "5981123",
                1718646510
+            ],
+            [
+               "7532608",
+               1730374550
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 7,
-      "justified_votes": 7
+      "justified_rating": 8,
+      "justified_votes": 8
    },
    "1713603308": {
       "title": "SCP-ZH-683 - 中華雞蛇獸",
