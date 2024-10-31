@@ -142559,5 +142559,34 @@
       "deleted": false,
       "justified_rating": 8,
       "justified_votes": 8
+   },
+   "1730359180": {
+      "title": "SCP-2508 - 漫長等待",
+      "fullname": "scp-2508",
+      "created_at": "1730359180",
+      "created_by": "6217438",
+      "tags": [
+         "en",
+         "meta",
+         "scp",
+         "建築物",
+         "悖論",
+         "植物",
+         "機密分級",
+         "機械",
+         "活動展出",
+         "空間影響",
+         "翻譯"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1457234768",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
