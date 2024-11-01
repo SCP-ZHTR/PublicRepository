@@ -6974,8 +6974,8 @@
          "_info"
       ],
       "comments": "3",
-      "rating": "7",
-      "votes": "21",
+      "rating": "8",
+      "votes": "22",
       "parent": null,
       "id": "757305789",
       "detailed_rating": {
@@ -7035,6 +7035,10 @@
             [
                "DELETED",
                "[UNKNOWN]"
+            ],
+            [
+               "5701756",
+               1730488179
             ]
          ],
          "-": [
@@ -7069,8 +7073,8 @@
          ]
       },
       "deleted": false,
-      "justified_rating": 7,
-      "justified_votes": 19
+      "justified_rating": 8,
+      "justified_votes": 20
    },
    "1556181551": {
       "title": "SCP-ZH-583 - 壯烈成仁",
