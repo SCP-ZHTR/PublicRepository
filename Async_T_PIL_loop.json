@@ -121612,8 +121612,8 @@
       ],
       "hidden_tags": [],
       "comments": "2",
-      "rating": "5",
-      "votes": "5",
+      "rating": "6",
+      "votes": "6",
       "parent": null,
       "id": "1448372226",
       "detailed_rating": {
@@ -121637,12 +121637,16 @@
             [
                "8033564",
                1686371424
+            ],
+            [
+               "9371222",
+               1730547685
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 5,
-      "justified_votes": 5
+      "justified_rating": 6,
+      "justified_votes": 6
    },
    "1686368632": {
       "title": "SCP-573 - 斑衣者的魔笛",
