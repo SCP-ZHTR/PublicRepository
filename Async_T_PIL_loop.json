@@ -142655,5 +142655,35 @@
       "deleted": false,
       "justified_rating": 1,
       "justified_votes": 1
+   },
+   "1730628000": {
+      "title": "SCP-3546-JP - 真桑岼佳（競賽馬）",
+      "fullname": "scp-3546-jp",
+      "created_at": "1730628000",
+      "created_by": "7605593",
+      "tags": [
+         "euclid",
+         "jp",
+         "jp-恐怖競賽2024",
+         "scp",
+         "人形",
+         "屍體",
+         "屍體史體",
+         "幻覺",
+         "翻譯",
+         "記憶影響",
+         "認知危害",
+         "馬類"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": "corpse-corpus-hub",
+      "id": "1457268810",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
