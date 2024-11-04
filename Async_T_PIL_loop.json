@@ -142681,8 +142681,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "1",
-      "votes": "1",
+      "rating": "2",
+      "votes": "2",
       "parent": "corpse-corpus-hub",
       "id": "1457268810",
       "detailed_rating": {
@@ -142690,11 +142690,15 @@
             [
                "5370805",
                1730641984
+            ],
+            [
+               "7073060",
+               1730705766
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 1,
-      "justified_votes": 1
+      "justified_rating": 2,
+      "justified_votes": 2
    }
 }
