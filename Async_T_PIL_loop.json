@@ -142733,5 +142733,33 @@
       "deleted": false,
       "justified_rating": 2,
       "justified_votes": 2
+   },
+   "1730896090": {
+      "title": "SCP-8654 - 高處恐懼症：上即是下",
+      "fullname": "scp-8654",
+      "created_at": "1730896090",
+      "created_by": "6088232",
+      "tags": [
+         "apollyon",
+         "en",
+         "k級情景",
+         "phobia-anthology",
+         "scp",
+         "恐怖",
+         "悲戚",
+         "現象",
+         "翻譯",
+         "重力影響"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1457290917",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
