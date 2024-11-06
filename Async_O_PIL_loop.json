@@ -104908,8 +104908,8 @@
       ],
       "hidden_tags": [],
       "comments": "6",
-      "rating": "16",
-      "votes": "24",
+      "rating": "17",
+      "votes": "25",
       "parent": null,
       "id": "1436249822",
       "detailed_rating": {
@@ -104993,6 +104993,10 @@
             [
                "5338547",
                1664899200
+            ],
+            [
+               "8404617",
+               1730890458
             ]
          ],
          "-": [
@@ -105015,8 +105019,8 @@
          ]
       },
       "deleted": false,
-      "justified_rating": 17,
-      "justified_votes": 23
+      "justified_rating": 18,
+      "justified_votes": 24
    },
    "1664890480": {
       "title": "虛像綻放",
