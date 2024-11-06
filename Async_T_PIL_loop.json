@@ -142776,5 +142776,43 @@
       "deleted": false,
       "justified_rating": 2,
       "justified_votes": 2
+   },
+   "1730898118": {
+      "title": "重甲騎兵（倒吊人）",
+      "fullname": "wanderers:cataphract-the-hanged-man",
+      "created_at": "1730898118",
+      "created_by": "3766456",
+      "tags": [
+         "action-adventure",
+         "cosmic",
+         "death",
+         "drama",
+         "en",
+         "entry",
+         "future-earth",
+         "high-technology",
+         "image",
+         "lgbtq",
+         "no-fantasia",
+         "philosophical",
+         "prose",
+         "robots",
+         "tragedy",
+         "wanderers",
+         "wing-two",
+         "第二人稱",
+         "翻譯",
+         "軍事"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1457291054",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
