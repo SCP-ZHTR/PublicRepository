@@ -27954,5 +27954,39 @@
       "deleted": false,
       "justified_rating": 0,
       "justified_votes": 0
+   },
+   "1730901092": {
+      "title": "scp-8770",
+      "fullname": "reserve:scp-8770",
+      "created_at": "1730901092",
+      "created_by": "3690227",
+      "tags": [],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1457291293",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
+   },
+   "1730901200": {
+      "title": "scp-8339",
+      "fullname": "reserve:scp-8339",
+      "created_at": "1730901200",
+      "created_by": "6088232",
+      "tags": [],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1457291296",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
