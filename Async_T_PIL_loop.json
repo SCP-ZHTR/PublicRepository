@@ -142761,8 +142761,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "3",
-      "votes": "3",
+      "rating": "4",
+      "votes": "4",
       "parent": null,
       "id": "1457290917",
       "detailed_rating": {
@@ -142778,12 +142778,16 @@
             [
                "7840542",
                1730908255
+            ],
+            [
+               "5565302",
+               1730947492
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 3,
-      "justified_votes": 3
+      "justified_rating": 4,
+      "justified_votes": 4
    },
    "1730898118": {
       "title": "重甲騎兵（倒吊人）",
