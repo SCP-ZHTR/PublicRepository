@@ -142920,5 +142920,29 @@
       "deleted": false,
       "justified_rating": 1,
       "justified_votes": 1
+   },
+   "1731133906": {
+      "title": "虛假資訊部門講座",
+      "fullname": "disinformation-bureau-orientation",
+      "created_at": "1731133906",
+      "created_by": "6217438",
+      "tags": [
+         "en",
+         "悲戚",
+         "故事",
+         "翻譯",
+         "說明",
+         "諜報"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1457304331",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
