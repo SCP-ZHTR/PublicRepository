@@ -142999,5 +142999,32 @@
       "deleted": false,
       "justified_rating": 6,
       "justified_votes": 6
+   },
+   "1731167700": {
+      "title": "SCP-3984-JP - 三幕構成",
+      "fullname": "scp-3984-jp",
+      "created_at": "1731167700",
+      "created_by": "7605593",
+      "tags": [
+         "jp",
+         "jp-恐怖競賽2024",
+         "keter",
+         "meta",
+         "scp",
+         "屍體",
+         "屍體史體",
+         "精神影響",
+         "翻譯"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1457305813",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
