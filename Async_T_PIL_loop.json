@@ -11089,8 +11089,8 @@
          "_cc"
       ],
       "comments": "1",
-      "rating": "8",
-      "votes": "8",
+      "rating": "9",
+      "votes": "9",
       "parent": null,
       "id": "802236759",
       "detailed_rating": {
@@ -11126,12 +11126,16 @@
             [
                "5225164",
                1617120000
+            ],
+            [
+               "9371222",
+               1731157700
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 8,
-      "justified_votes": 8
+      "justified_rating": 9,
+      "justified_votes": 9
    },
    "1559634330": {
       "title": "SCP-239 - 巫術女孩",
@@ -84882,16 +84886,12 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "5",
-      "votes": "5",
+      "rating": "6",
+      "votes": "6",
       "parent": null,
       "id": "1333200897",
       "detailed_rating": {
          "+": [
-            [
-               "7469850",
-               1647100800
-            ],
             [
                "4990678",
                1646668800
@@ -84907,6 +84907,14 @@
             [
                "5435485",
                1646755200
+            ],
+            [
+               "9371222",
+               1731157700
+            ],
+            [
+               "DELETED",
+               1731157700
             ]
          ]
       },
