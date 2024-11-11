@@ -103730,8 +103730,8 @@
          "_cc"
       ],
       "comments": "2",
-      "rating": "46",
-      "votes": "46",
+      "rating": "47",
+      "votes": "47",
       "parent": null,
       "id": "1436218999",
       "detailed_rating": {
@@ -103919,12 +103919,16 @@
             [
                "DELETED",
                1726030178
+            ],
+            [
+               "7840542",
+               1731312364
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 44,
-      "justified_votes": 44
+      "justified_rating": 45,
+      "justified_votes": 45
    },
    "1664709120": {
       "title": "SCP-ZH-176 - 《海鷗的大撤退》",
