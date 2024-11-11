@@ -32392,8 +32392,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "5",
-      "votes": "5",
+      "rating": "6",
+      "votes": "6",
       "parent": null,
       "id": "1024297349",
       "detailed_rating": {
@@ -32417,12 +32417,16 @@
             [
                "5981123",
                1719301664
+            ],
+            [
+               "7840542",
+               1731320367
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 5,
-      "justified_votes": 5
+      "justified_rating": 6,
+      "justified_votes": 6
    },
    "1586694473": {
       "title": "SCP-600-KO",
@@ -65594,8 +65598,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "7",
-      "votes": "7",
+      "rating": "8",
+      "votes": "8",
       "parent": null,
       "id": "1311016338",
       "detailed_rating": {
@@ -65627,12 +65631,16 @@
             [
                "DELETED",
                1719427744
+            ],
+            [
+               "7840542",
+               1731320367
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 5,
-      "justified_votes": 5
+      "justified_rating": 6,
+      "justified_votes": 6
    },
    "1620703017": {
       "title": "SCP-051 - 日本產婦人偶",
