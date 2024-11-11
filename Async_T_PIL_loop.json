@@ -23673,8 +23673,8 @@
          "_cc"
       ],
       "comments": "3",
-      "rating": "8",
-      "votes": "8",
+      "rating": "9",
+      "votes": "9",
       "parent": null,
       "id": "994529566",
       "detailed_rating": {
@@ -23710,12 +23710,16 @@
             [
                "7226401",
                1617120000
+            ],
+            [
+               "7840542",
+               1731320508
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 8,
-      "justified_votes": 8
+      "justified_rating": 9,
+      "justified_votes": 9
    },
    "1582277900": {
       "title": "SCP-018 - 超級彈力球",
