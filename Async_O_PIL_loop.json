@@ -9301,8 +9301,8 @@
          "_info"
       ],
       "comments": "0",
-      "rating": "25",
-      "votes": "25",
+      "rating": "26",
+      "votes": "26",
       "parent": null,
       "id": "822916010",
       "detailed_rating": {
@@ -9406,12 +9406,16 @@
             [
                "DELETED",
                "[UNKNOWN]"
+            ],
+            [
+               "8884787",
+               1731308048
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 24,
-      "justified_votes": 24
+      "justified_rating": 25,
+      "justified_votes": 25
    },
    "1561394755": {
       "title": "SCP-ZH-511 - 期冀之鶴",
