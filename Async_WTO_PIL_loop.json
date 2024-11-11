@@ -16863,5 +16863,22 @@
       "deleted": true,
       "justified_rating": 0,
       "justified_votes": 0
+   },
+   "1731300323": {
+      "title": "SCP-O5-J - 抱歉，我無法瞭解這道指令",
+      "fullname": "scp-o5-j",
+      "created_at": "1731300323",
+      "created_by": "4206567",
+      "tags": [],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1457312093",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
