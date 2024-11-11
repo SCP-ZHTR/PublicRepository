@@ -32780,8 +32780,8 @@
       ],
       "hidden_tags": [],
       "comments": "2",
-      "rating": "5",
-      "votes": "5",
+      "rating": "6",
+      "votes": "6",
       "parent": null,
       "id": "1024494162",
       "detailed_rating": {
@@ -32805,12 +32805,16 @@
             [
                "9428515",
                1729561522
+            ],
+            [
+               "7840542",
+               1731319690
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 5,
-      "justified_votes": 5
+      "justified_rating": 6,
+      "justified_votes": 6
    },
    "1586863082": {
       "title": "SCP-025 - 破爛的衣櫃",
