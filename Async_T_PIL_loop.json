@@ -117718,8 +117718,8 @@
          "_licensebox"
       ],
       "comments": "1",
-      "rating": "5",
-      "votes": "5",
+      "rating": "6",
+      "votes": "6",
       "parent": null,
       "id": "1447184306",
       "detailed_rating": {
@@ -117743,12 +117743,16 @@
             [
                "7504530",
                1681171982
+            ],
+            [
+               "8637984",
+               1731410667
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 5,
-      "justified_votes": 5
+      "justified_rating": 6,
+      "justified_votes": 6
    },
    "1680620921": {
       "title": "SCP-026-J - 結冰的燈柱",
