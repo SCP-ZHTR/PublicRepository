@@ -143004,8 +143004,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "7",
-      "votes": "7",
+      "rating": "8",
+      "votes": "8",
       "parent": null,
       "id": "1457304331",
       "detailed_rating": {
@@ -143037,12 +143037,16 @@
             [
                "5370805",
                1731286794
+            ],
+            [
+               "7504530",
+               1731406531
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 7,
-      "justified_votes": 7
+      "justified_rating": 8,
+      "justified_votes": 8
    },
    "1731167700": {
       "title": "SCP-3984-JP - 三幕構成",
