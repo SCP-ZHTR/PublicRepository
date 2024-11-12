@@ -16886,7 +16886,9 @@
       "fullname": "scp-4791",
       "created_at": "1731410924",
       "created_by": "8637984",
-      "tags": [],
+      "tags": [
+         "scp"
+      ],
       "hidden_tags": [],
       "comments": "0",
       "rating": "0",
