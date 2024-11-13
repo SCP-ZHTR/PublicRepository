@@ -25344,8 +25344,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "4",
-      "votes": "4",
+      "rating": "5",
+      "votes": "5",
       "parent": null,
       "id": "999752253",
       "detailed_rating": {
@@ -25365,12 +25365,16 @@
             [
                "3981670",
                1617120000
+            ],
+            [
+               "8637984",
+               1731489781
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 4,
-      "justified_votes": 4
+      "justified_rating": 5,
+      "justified_votes": 5
    },
    "1583579419": {
       "title": "ListPages魔法與你",
