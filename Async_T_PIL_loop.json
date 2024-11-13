@@ -140255,8 +140255,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "1",
-      "votes": "1",
+      "rating": "2",
+      "votes": "2",
       "parent": null,
       "id": "1456114949",
       "detailed_rating": {
@@ -140264,12 +140264,16 @@
             [
                "4239775",
                1723074255
+            ],
+            [
+               "8637984",
+               1731460396
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 1,
-      "justified_votes": 1
+      "justified_rating": 2,
+      "justified_votes": 2
    },
    "1723131901": {
       "title": "SCP-8911 - Site-333開麥夜",
