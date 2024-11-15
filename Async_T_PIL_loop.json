@@ -143135,8 +143135,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "1",
-      "votes": "1",
+      "rating": "2",
+      "votes": "2",
       "parent": null,
       "id": "1457308102",
       "detailed_rating": {
@@ -143144,12 +143144,16 @@
             [
                "7840542",
                1731275667
+            ],
+            [
+               "9444432",
+               1731665888
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 1,
-      "justified_votes": 1
+      "justified_rating": 2,
+      "justified_votes": 2
    },
    "1731300323": {
       "title": "SCP-O5-J - 抱歉，我無法瞭解這道指令",
