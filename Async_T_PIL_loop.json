@@ -3845,7 +3845,7 @@
          "_image"
       ],
       "comments": "1",
-      "rating": "29",
+      "rating": "30",
       "votes": "30",
       "parent": null,
       "id": "695078130",
@@ -93678,8 +93678,8 @@
       ],
       "hidden_tags": [],
       "comments": "4",
-      "rating": "22",
-      "votes": "22",
+      "rating": "23",
+      "votes": "23",
       "parent": null,
       "id": "1403146800",
       "detailed_rating": {
@@ -93771,12 +93771,16 @@
             [
                "DELETED",
                1715428207
+            ],
+            [
+               "9371222",
+               1731736475
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 20,
-      "justified_votes": 20
+      "justified_rating": 21,
+      "justified_votes": 21
    },
    "1654393723": {
       "title": "SCP-6513 - 趾醬",
