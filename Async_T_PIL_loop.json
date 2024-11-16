@@ -141689,14 +141689,21 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "0",
-      "votes": "0",
+      "rating": "1",
+      "votes": "1",
       "parent": null,
       "id": "1456871036",
-      "detailed_rating": {},
+      "detailed_rating": {
+         "+": [
+            [
+               "7655555",
+               1731799511
+            ]
+         ]
+      },
       "deleted": false,
-      "justified_rating": 0,
-      "justified_votes": 0
+      "justified_rating": 1,
+      "justified_votes": 1
    },
    "1727178855": {
       "title": "SCP-5451 - 企鵝學院，北極最好的大學！",
