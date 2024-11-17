@@ -41074,8 +41074,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "1",
-      "votes": "1",
+      "rating": "2",
+      "votes": "2",
       "parent": null,
       "id": "1165221392",
       "detailed_rating": {
@@ -41083,12 +41083,16 @@
             [
                "5344757",
                1617120000
+            ],
+            [
+               "9428515",
+               1731867369
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 1,
-      "justified_votes": 1
+      "justified_rating": 2,
+      "justified_votes": 2
    },
    "1593684993": {
       "title": "將圈與叉並列",
