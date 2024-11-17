@@ -141160,8 +141160,8 @@
          "_image"
       ],
       "comments": "0",
-      "rating": "6",
-      "votes": "6",
+      "rating": "7",
+      "votes": "7",
       "parent": null,
       "id": "1456716948",
       "detailed_rating": {
@@ -141189,12 +141189,16 @@
             [
                "5338547",
                1726333693
+            ],
+            [
+               "6952002",
+               1731860834
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 6,
-      "justified_votes": 6
+      "justified_rating": 7,
+      "justified_votes": 7
    },
    "1726502400": {
       "title": "SCP-ZH-851 - 人是「人言無常」",
@@ -142674,8 +142678,8 @@
          "_南"
       ],
       "comments": "0",
-      "rating": "12",
-      "votes": "12",
+      "rating": "13",
+      "votes": "13",
       "parent": "jamcon-zh-2024",
       "id": "1456954695",
       "detailed_rating": {
@@ -142727,12 +142731,16 @@
             [
                "7513990",
                1727934834
+            ],
+            [
+               "6952002",
+               1731860834
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 12,
-      "justified_votes": 12
+      "justified_rating": 13,
+      "justified_votes": 13
    },
    "1727707859": {
       "title": "SCP-ZH-579 - 門",
