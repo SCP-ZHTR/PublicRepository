@@ -49293,8 +49293,8 @@
          "_禁黑"
       ],
       "comments": "0",
-      "rating": "7",
-      "votes": "7",
+      "rating": "8",
+      "votes": "8",
       "parent": "guide-hub",
       "id": "1261305994",
       "detailed_rating": {
@@ -49326,12 +49326,16 @@
             [
                "6799472",
                1617120000
+            ],
+            [
+               "9075244",
+               1731857233
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 7,
-      "justified_votes": 7
+      "justified_rating": 8,
+      "justified_votes": 8
    },
    "1597926370": {
       "title": "中國國安部，不應存在的十九局",
