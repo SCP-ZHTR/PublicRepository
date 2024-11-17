@@ -1077,8 +1077,8 @@
          "_cc"
       ],
       "comments": "2",
-      "rating": "3",
-      "votes": "3",
+      "rating": "4",
+      "votes": "4",
       "parent": null,
       "id": "649530448",
       "detailed_rating": {
@@ -1094,12 +1094,16 @@
             [
                "5338547",
                1659196800
+            ],
+            [
+               "9428515",
+               1731867508
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 3,
-      "justified_votes": 3
+      "justified_rating": 4,
+      "justified_votes": 4
    },
    "1553506008": {
       "title": "魔法講座",
