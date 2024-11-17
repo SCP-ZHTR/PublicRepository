@@ -40968,8 +40968,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "2",
-      "votes": "2",
+      "rating": "3",
+      "votes": "3",
       "parent": null,
       "id": "1165215211",
       "detailed_rating": {
@@ -40981,12 +40981,16 @@
             [
                "5013754",
                1617120000
+            ],
+            [
+               "9428515",
+               1731867230
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 2,
-      "justified_votes": 2
+      "justified_rating": 3,
+      "justified_votes": 3
    },
    "1593587012": {
       "title": "SCP-5805 - 不能回頭了",
