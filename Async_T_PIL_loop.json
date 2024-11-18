@@ -3072,8 +3072,8 @@
          "_info"
       ],
       "comments": "1",
-      "rating": "10",
-      "votes": "10",
+      "rating": "11",
+      "votes": "11",
       "parent": null,
       "id": "675053606",
       "detailed_rating": {
@@ -3117,12 +3117,16 @@
             [
                "7840542",
                1731319959
+            ],
+            [
+               "9428515",
+               1731891982
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 9,
-      "justified_votes": 9
+      "justified_rating": 10,
+      "justified_votes": 10
    },
    "1554608017": {
       "title": "SCP-395 - 罐裝胎兒",
