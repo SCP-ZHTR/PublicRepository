@@ -143282,5 +143282,34 @@
       "deleted": false,
       "justified_rating": -2,
       "justified_votes": 2
+   },
+   "1731934657": {
+      "title": "SCP-4633 - 剪刀、石頭、Yog-Sothoth",
+      "fullname": "scp-4633",
+      "created_at": "1731934657",
+      "created_by": "5370805",
+      "tags": [
+         "en",
+         "keter",
+         "scp",
+         "反熵",
+         "媒體",
+         "節肢動物",
+         "翻譯",
+         "肢體",
+         "變形",
+         "遊戲",
+         "頭足類"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1457400894",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
