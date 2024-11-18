@@ -1162,8 +1162,8 @@
          "_修復"
       ],
       "comments": "2",
-      "rating": "2",
-      "votes": "2",
+      "rating": "3",
+      "votes": "3",
       "parent": null,
       "id": "675055344",
       "detailed_rating": {
@@ -1175,12 +1175,16 @@
             [
                "6592438",
                1689143977
+            ],
+            [
+               "8637984",
+               1731914375
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 2,
-      "justified_votes": 2
+      "justified_rating": 3,
+      "justified_votes": 3
    },
    "1554615276": {
       "title": "SCP系列 2",
