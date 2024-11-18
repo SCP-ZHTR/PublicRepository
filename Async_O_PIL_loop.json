@@ -142767,8 +142767,8 @@
          "_禁黑"
       ],
       "comments": "2",
-      "rating": "2",
-      "votes": "6",
+      "rating": "3",
+      "votes": "7",
       "parent": null,
       "id": "1456954783",
       "detailed_rating": {
@@ -142788,6 +142788,10 @@
             [
                "6152598",
                1730380638
+            ],
+            [
+               "8637984",
+               1731920395
             ]
          ],
          "-": [
@@ -142802,8 +142806,8 @@
          ]
       },
       "deleted": false,
-      "justified_rating": 2,
-      "justified_votes": 6
+      "justified_rating": 3,
+      "justified_votes": 7
    },
    "1727710374": {
       "title": "SCP-ZH-624 - 南望",
