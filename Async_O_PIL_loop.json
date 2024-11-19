@@ -58230,8 +58230,8 @@
          "_cc"
       ],
       "comments": "2",
-      "rating": "17",
-      "votes": "17",
+      "rating": "18",
+      "votes": "18",
       "parent": null,
       "id": "1306313051",
       "detailed_rating": {
@@ -58303,12 +58303,16 @@
             [
                "8319365",
                1710155198
+            ],
+            [
+               "9075244",
+               1732024710
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 17,
-      "justified_votes": 17
+      "justified_rating": 18,
+      "justified_votes": 18
    },
    "1608801115": {
       "title": "聖誕清夢",
