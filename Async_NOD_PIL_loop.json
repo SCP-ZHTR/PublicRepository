@@ -27905,7 +27905,7 @@
       "parent": null,
       "id": "UNSET",
       "detailed_rating": {},
-      "deleted": false,
+      "deleted": true,
       "justified_rating": 0,
       "justified_votes": 0
    },
@@ -28041,7 +28041,7 @@
       "parent": null,
       "id": "1457291846",
       "detailed_rating": {},
-      "deleted": false,
+      "deleted": true,
       "justified_rating": 0,
       "justified_votes": 0
    },
@@ -28126,7 +28126,7 @@
       "parent": null,
       "id": "1457295436",
       "detailed_rating": {},
-      "deleted": false,
+      "deleted": true,
       "justified_rating": 0,
       "justified_votes": 0
    },
