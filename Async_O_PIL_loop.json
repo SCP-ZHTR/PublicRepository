@@ -114136,8 +114136,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "20",
-      "votes": "20",
+      "rating": "21",
+      "votes": "21",
       "parent": null,
       "id": "1446778201",
       "detailed_rating": {
@@ -114221,12 +114221,16 @@
             [
                "7532608",
                1727952987
+            ],
+            [
+               "9075244",
+               1732132790
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 19,
-      "justified_votes": 19
+      "justified_rating": 20,
+      "justified_votes": 20
    },
    "1679256757": {
       "title": "如果夏天有顏色",
