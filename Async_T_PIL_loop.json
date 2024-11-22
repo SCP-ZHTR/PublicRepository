@@ -143052,8 +143052,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "3",
-      "votes": "3",
+      "rating": "4",
+      "votes": "4",
       "parent": null,
       "id": "1457300324",
       "detailed_rating": {
@@ -143069,12 +143069,16 @@
             [
                "9371222",
                1731453776
+            ],
+            [
+               "7504530",
+               1732319301
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 3,
-      "justified_votes": 3
+      "justified_rating": 4,
+      "justified_votes": 4
    },
    "1731133906": {
       "title": "虛假資訊部門講座",
