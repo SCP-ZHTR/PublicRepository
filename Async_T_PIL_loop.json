@@ -143342,5 +143342,36 @@
       "deleted": false,
       "justified_rating": 6,
       "justified_votes": 6
+   },
+   "1732343323": {
+      "title": "DarkStuff的提案 - 失敗恐懼症（家庭生活）",
+      "fullname": "dr-frueh-s-proposal",
+      "created_at": "1732343323",
+      "created_by": "7605593",
+      "tags": [
+         "001提案",
+         "en",
+         "keter",
+         "scp",
+         "人形",
+         "工具",
+         "恐懼症驚選集",
+         "敵意",
+         "機械",
+         "結構物",
+         "翻譯",
+         "電子",
+         "電腦"
+      ],
+      "hidden_tags": [],
+      "comments": "1",
+      "rating": "0",
+      "votes": "0",
+      "parent": "scp-anthology-2024",
+      "id": "1457423643",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
