@@ -93608,8 +93608,8 @@
       ],
       "hidden_tags": [],
       "comments": "7",
-      "rating": "29",
-      "votes": "29",
+      "rating": "30",
+      "votes": "30",
       "parent": null,
       "id": "1340488357",
       "detailed_rating": {
@@ -93729,12 +93729,16 @@
             [
                "DELETED",
                1725472579
+            ],
+            [
+               "9075244",
+               1732474481
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 26,
-      "justified_votes": 26
+      "justified_rating": 27,
+      "justified_votes": 27
    },
    "1647184151": {
       "title": "酷酷的傳播等級圖標",
