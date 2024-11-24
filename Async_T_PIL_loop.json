@@ -143384,5 +143384,35 @@
       "deleted": false,
       "justified_rating": 1,
       "justified_votes": 1
+   },
+   "1732428999": {
+      "title": "SCP-8380 - 水恐懼症：表面張力",
+      "fullname": "scp-8380",
+      "created_at": "1732428999",
+      "created_by": "8452537",
+      "tags": [
+         "en",
+         "keter",
+         "scp",
+         "恐怖",
+         "恐懼症驚選集",
+         "悲戚",
+         "掠食性",
+         "水棲",
+         "液體",
+         "無形",
+         "現象",
+         "翻譯"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": "scp-anthology-2024",
+      "id": "1457428449",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
