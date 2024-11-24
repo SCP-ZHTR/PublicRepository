@@ -143235,8 +143235,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "2",
-      "votes": "2",
+      "rating": "3",
+      "votes": "3",
       "parent": null,
       "id": "1457312093",
       "detailed_rating": {
@@ -143248,12 +143248,16 @@
             [
                "8033564",
                1731812303
+            ],
+            [
+               "7064164",
+               1732445487
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 2,
-      "justified_votes": 2
+      "justified_rating": 3,
+      "justified_votes": 3
    },
    "1731410924": {
       "title": "SCP-4791 - 緩緩緩緩地劃過天，我對妳說著再見",
@@ -143418,14 +143422,21 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "0",
-      "votes": "0",
+      "rating": "1",
+      "votes": "1",
       "parent": "scp-anthology-2024",
       "id": "1457428449",
-      "detailed_rating": {},
+      "detailed_rating": {
+         "+": [
+            [
+               "7064164",
+               1732445487
+            ]
+         ]
+      },
       "deleted": false,
-      "justified_rating": 0,
-      "justified_votes": 0
+      "justified_rating": 1,
+      "justified_votes": 1
    },
    "1732436518": {
       "title": "SCP-3246 - 黑暗恐懼症：盲者被提",
