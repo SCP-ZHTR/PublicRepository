@@ -142865,8 +142865,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "5",
-      "votes": "5",
+      "rating": "6",
+      "votes": "6",
       "parent": null,
       "id": "1457289988",
       "detailed_rating": {
@@ -142890,12 +142890,16 @@
             [
                "8452537",
                1731060508
+            ],
+            [
+               "4206567",
+               1732436841
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 5,
-      "justified_votes": 5
+      "justified_rating": 6,
+      "justified_votes": 6
    },
    "1730896090": {
       "title": "SCP-8654 - 高處恐懼症：上即是下",
@@ -143414,6 +143418,34 @@
       "votes": "0",
       "parent": "scp-anthology-2024",
       "id": "1457428449",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
+   },
+   "1732436518": {
+      "title": "SCP-3246 - 黑暗恐懼症：盲者被提",
+      "fullname": "scp-3246",
+      "created_at": "1732436518",
+      "created_by": "4206567",
+      "tags": [
+         "en",
+         "keter",
+         "scp",
+         "光照影響",
+         "宇宙恐怖",
+         "恐怖",
+         "恐懼症驚選集",
+         "異常事件",
+         "翻譯",
+         "誤傳部"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1457429326",
       "detailed_rating": {},
       "deleted": false,
       "justified_rating": 0,
