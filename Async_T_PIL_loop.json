@@ -143373,8 +143373,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "2",
-      "votes": "2",
+      "rating": "3",
+      "votes": "3",
       "parent": "scp-anthology-2024",
       "id": "1457423643",
       "detailed_rating": {
@@ -143386,12 +143386,16 @@
             [
                "7073060",
                1732435461
+            ],
+            [
+               "8452537",
+               1732444659
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 2,
-      "justified_votes": 2
+      "justified_rating": 3,
+      "justified_votes": 3
    },
    "1732428999": {
       "title": "SCP-8380 - 水恐懼症：表面張力",
