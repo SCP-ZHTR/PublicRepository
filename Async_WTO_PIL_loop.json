@@ -16956,5 +16956,22 @@
       "deleted": false,
       "justified_rating": 1,
       "justified_votes": 1
+   },
+   "1732436518": {
+      "title": "SCP-3246 - 黑暗恐懼症：盲者被提",
+      "fullname": "scp-3246",
+      "created_at": "1732436518",
+      "created_by": "4206567",
+      "tags": [],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1457429326",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
