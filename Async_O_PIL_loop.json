@@ -143895,8 +143895,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "9",
-      "votes": "9",
+      "rating": "10",
+      "votes": "10",
       "parent": null,
       "id": "1457222795",
       "detailed_rating": {
@@ -143936,12 +143936,16 @@
             [
                "6952002",
                1731860973
+            ],
+            [
+               "7840542",
+               1732531236
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 9,
-      "justified_votes": 9
+      "justified_rating": 10,
+      "justified_votes": 10
    },
    "1732204764": {
       "title": "春是「遲到」",
@@ -143954,8 +143958,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "11",
-      "votes": "11",
+      "rating": "12",
+      "votes": "12",
       "parent": null,
       "id": "1457415607",
       "detailed_rating": {
@@ -144003,11 +144007,15 @@
             [
                "7073060",
                1732435459
+            ],
+            [
+               "7840542",
+               1732531236
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 11,
-      "justified_votes": 11
+      "justified_rating": 12,
+      "justified_votes": 12
    }
 }
