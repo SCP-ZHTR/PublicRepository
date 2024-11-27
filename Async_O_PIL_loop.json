@@ -144084,5 +144084,28 @@
       "deleted": false,
       "justified_rating": 7,
       "justified_votes": 7
+   },
+   "1732717100": {
+      "title": "SCP-ZH-467 - 破窗之後",
+      "fullname": "scp-zh-467",
+      "created_at": "1732717100",
+      "created_by": "5338547",
+      "tags": [
+         "euclid",
+         "scp",
+         "原創",
+         "異常移動",
+         "精神影響"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1457445317",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
