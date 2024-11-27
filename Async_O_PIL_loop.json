@@ -144129,5 +144129,31 @@
       "deleted": false,
       "justified_rating": 4,
       "justified_votes": 4
+   },
+   "1732723486": {
+      "title": "SCP-ZH-607 - 贗品正義",
+      "fullname": "scp-zh-607",
+      "created_at": "1732723486",
+      "created_by": "5338547",
+      "tags": [
+         "k級情景",
+         "safe",
+         "scp",
+         "site-zh-11",
+         "人造物品",
+         "原創",
+         "戰術神學部",
+         "真紀博士"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1457445511",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
