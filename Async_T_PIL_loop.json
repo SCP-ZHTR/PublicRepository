@@ -143545,5 +143545,36 @@
       "deleted": false,
       "justified_rating": 1,
       "justified_votes": 1
+   },
+   "1732690453": {
+      "title": "SCP-8339 - 光芒恐懼症：生於黑暗。死於光芒。",
+      "fullname": "scp-8339",
+      "created_at": "1732690453",
+      "created_by": "6088232",
+      "tags": [
+         "apollyon",
+         "en",
+         "k級情景",
+         "meta",
+         "scp",
+         "光照影響",
+         "恐怖",
+         "恐懼症驚選集",
+         "敵意",
+         "末日後",
+         "翻譯",
+         "肉體恐怖",
+         "詩歌"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1457443591",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
