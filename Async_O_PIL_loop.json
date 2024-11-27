@@ -144140,20 +144140,29 @@
          "safe",
          "scp",
          "site-zh-11",
-         "人造物品",
          "原創",
+         "工具",
          "戰術神學部",
+         "武器",
+         "法律性",
          "真紀博士"
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "0",
-      "votes": "0",
+      "rating": "1",
+      "votes": "1",
       "parent": null,
       "id": "1457445511",
-      "detailed_rating": {},
+      "detailed_rating": {
+         "+": [
+            [
+               "5370805",
+               1732739028
+            ]
+         ]
+      },
       "deleted": false,
-      "justified_rating": 0,
-      "justified_votes": 0
+      "justified_rating": 1,
+      "justified_votes": 1
    }
 }
