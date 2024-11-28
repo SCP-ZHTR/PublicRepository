@@ -144102,8 +144102,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "4",
-      "votes": "4",
+      "rating": "5",
+      "votes": "5",
       "parent": null,
       "id": "1457445317",
       "detailed_rating": {
@@ -144123,12 +144123,16 @@
             [
                "9075244",
                1732722142
+            ],
+            [
+               "4206567",
+               1732772461
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 4,
-      "justified_votes": 4
+      "justified_rating": 5,
+      "justified_votes": 5
    },
    "1732723486": {
       "title": "SCP-ZH-607 - 贗品正義",
