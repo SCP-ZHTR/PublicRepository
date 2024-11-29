@@ -28186,7 +28186,9 @@
       "fullname": "image:m3x46ryk",
       "created_at": "1732544473",
       "created_by": "4990678",
-      "tags": [],
+      "tags": [
+         "素材"
+      ],
       "hidden_tags": [],
       "comments": "0",
       "rating": "0",
