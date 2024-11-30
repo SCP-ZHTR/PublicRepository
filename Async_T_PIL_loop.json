@@ -142034,8 +142034,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "3",
-      "votes": "3",
+      "rating": "4",
+      "votes": "4",
       "parent": null,
       "id": "1456954326",
       "detailed_rating": {
@@ -142051,12 +142051,16 @@
             [
                "5435485",
                1727885616
+            ],
+            [
+               "8033564",
+               1732978366
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 3,
-      "justified_votes": 3
+      "justified_rating": 4,
+      "justified_votes": 4
    },
    "1727705894": {
       "title": "Nico的提案二 - 從左舞台悄然退場",
