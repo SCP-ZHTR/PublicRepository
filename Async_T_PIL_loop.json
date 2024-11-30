@@ -15386,8 +15386,8 @@
       ],
       "hidden_tags": [],
       "comments": "2",
-      "rating": "2",
-      "votes": "2",
+      "rating": "3",
+      "votes": "3",
       "parent": null,
       "id": "841913436",
       "detailed_rating": {
@@ -15399,12 +15399,16 @@
             [
                "4357011",
                1617120000
+            ],
+            [
+               "9371222",
+               1732965258
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 2,
-      "justified_votes": 2
+      "justified_rating": 3,
+      "justified_votes": 3
    },
    "1562925124": {
       "title": "權限不足",
