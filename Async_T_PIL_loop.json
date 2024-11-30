@@ -64383,13 +64383,15 @@
          "awcy",
          "en",
          "ruiz-duchamp",
+         "喜劇",
          "故事",
-         "翻譯"
+         "翻譯",
+         "黑色幽默"
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "3",
-      "votes": "3",
+      "rating": "4",
+      "votes": "4",
       "parent": null,
       "id": "1310925705",
       "detailed_rating": {
@@ -64405,12 +64407,16 @@
             [
                "6788064",
                1632412800
+            ],
+            [
+               "9371222",
+               1732963734
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 3,
-      "justified_votes": 3
+      "justified_rating": 4,
+      "justified_votes": 4
    },
    "1619700911": {
       "title": "就那麽分崩離析",
@@ -64422,12 +64428,13 @@
          "en",
          "green特工",
          "故事",
-         "翻譯"
+         "翻譯",
+         "諜報"
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "0",
-      "votes": "2",
+      "rating": "1",
+      "votes": "3",
       "parent": null,
       "id": "1310925858",
       "detailed_rating": {
@@ -64435,6 +64442,10 @@
             [
                "5344757",
                1620489600
+            ],
+            [
+               "9371222",
+               1732963734
             ]
          ],
          "-": [
@@ -64445,8 +64456,8 @@
          ]
       },
       "deleted": false,
-      "justified_rating": 0,
-      "justified_votes": 2
+      "justified_rating": 1,
+      "justified_votes": 3
    },
    "1619712018": {
       "title": "SCP-5023 - 人類的原始需求",
@@ -64498,8 +64509,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "2",
-      "votes": "2",
+      "rating": "3",
+      "votes": "3",
       "parent": null,
       "id": "1310928322",
       "detailed_rating": {
@@ -64511,12 +64522,16 @@
             [
                "8064046",
                1657382400
+            ],
+            [
+               "9371222",
+               1732963734
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 2,
-      "justified_votes": 2
+      "justified_rating": 3,
+      "justified_votes": 3
    },
    "1619757767": {
       "title": "咔嚓咔嚓剪",
