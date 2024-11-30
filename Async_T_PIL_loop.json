@@ -68819,13 +68819,16 @@
          "en",
          "green特工",
          "ruiz-duchamp",
+         "喜劇",
          "故事",
-         "翻譯"
+         "神秘",
+         "翻譯",
+         "諜報"
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "1",
-      "votes": "1",
+      "rating": "2",
+      "votes": "2",
       "parent": null,
       "id": "1311995345",
       "detailed_rating": {
@@ -68833,12 +68836,16 @@
             [
                "4990678",
                1622995200
+            ],
+            [
+               "9371222",
+               1732965118
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 1,
-      "justified_votes": 1
+      "justified_rating": 2,
+      "justified_votes": 2
    },
    "1622985785": {
       "title": "SCP-348 - 來自父親的禮物",
