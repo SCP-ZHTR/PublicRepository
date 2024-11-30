@@ -143599,5 +143599,33 @@
       "deleted": false,
       "justified_rating": 2,
       "justified_votes": 2
+   },
+   "1732957201": {
+      "title": "SCP-8906 - 假面恐懼症：臺上殺人",
+      "fullname": "scp-8906",
+      "created_at": "1732957201",
+      "created_by": "7605593",
+      "tags": [
+         "en",
+         "scp",
+         "thaumiel",
+         "儀式性",
+         "宇宙恐怖",
+         "恐怖",
+         "恐懼症驚選集",
+         "活物",
+         "無定形",
+         "翻譯"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": "scp-anthology-2024",
+      "id": "1457455672",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
