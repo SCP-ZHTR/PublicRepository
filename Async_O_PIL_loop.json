@@ -144045,8 +144045,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "7",
-      "votes": "7",
+      "rating": "8",
+      "votes": "8",
       "parent": null,
       "id": "1457436299",
       "detailed_rating": {
@@ -144078,12 +144078,16 @@
             [
                "4990678",
                1732640803
+            ],
+            [
+               "7476471",
+               1732997092
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 7,
-      "justified_votes": 7
+      "justified_rating": 8,
+      "justified_votes": 8
    },
    "1732717100": {
       "title": "SCP-ZH-467 - 破窗之後",
