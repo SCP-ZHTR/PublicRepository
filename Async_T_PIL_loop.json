@@ -71353,8 +71353,8 @@
          "_cc"
       ],
       "comments": "4",
-      "rating": "7",
-      "votes": "11",
+      "rating": "8",
+      "votes": "12",
       "parent": null,
       "id": "1312398011",
       "detailed_rating": {
@@ -71394,6 +71394,10 @@
             [
                "9163798",
                1718118647
+            ],
+            [
+               "8792088",
+               1733067295
             ]
          ],
          "-": [
@@ -71408,8 +71412,8 @@
          ]
       },
       "deleted": false,
-      "justified_rating": 7,
-      "justified_votes": 9
+      "justified_rating": 8,
+      "justified_votes": 10
    },
    "1627041798": {
       "title": "Mackenzie博士的素描本",
