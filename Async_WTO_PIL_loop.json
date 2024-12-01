@@ -17032,5 +17032,22 @@
       "deleted": true,
       "justified_rating": 0,
       "justified_votes": 0
+   },
+   "1733051564": {
+      "title": "SCP-1004-KO-J - 少女的魔法棒",
+      "fullname": "scp-1004-ko-j",
+      "created_at": "1733051564",
+      "created_by": "8637984",
+      "tags": [],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1457459515",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
