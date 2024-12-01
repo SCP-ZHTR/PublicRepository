@@ -84265,8 +84265,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "7",
-      "votes": "7",
+      "rating": "8",
+      "votes": "8",
       "parent": null,
       "id": "1331789777",
       "detailed_rating": {
@@ -84298,12 +84298,16 @@
             [
                "DELETED",
                1720165567
+            ],
+            [
+               "9371222",
+               1733060214
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 5,
-      "justified_votes": 5
+      "justified_rating": 6,
+      "justified_votes": 6
    },
    "1645948547": {
       "title": "SCP-248 - 110%",
