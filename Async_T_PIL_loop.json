@@ -143676,13 +143676,20 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "0",
-      "votes": "0",
+      "rating": "1",
+      "votes": "1",
       "parent": "scp-anthology-2024",
       "id": "1457455672",
-      "detailed_rating": {},
+      "detailed_rating": {
+         "+": [
+            [
+               "6088232",
+               1733031766
+            ]
+         ]
+      },
       "deleted": false,
-      "justified_rating": 0,
-      "justified_votes": 0
+      "justified_rating": 1,
+      "justified_votes": 1
    }
 }
