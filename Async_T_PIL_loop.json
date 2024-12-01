@@ -48308,8 +48308,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "6",
-      "votes": "6",
+      "rating": "7",
+      "votes": "7",
       "parent": null,
       "id": "1305426505",
       "detailed_rating": {
@@ -48337,12 +48337,16 @@
             [
                "3981670",
                1619884800
+            ],
+            [
+               "9371222",
+               1733093002
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 6,
-      "justified_votes": 6
+      "justified_rating": 7,
+      "justified_votes": 7
    },
    "1603163041": {
       "title": "SCP-3519 - 這些寧靜的日子",
