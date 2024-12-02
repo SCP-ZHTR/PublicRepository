@@ -28120,8 +28120,8 @@
          "_cc"
       ],
       "comments": "0",
-      "rating": "17",
-      "votes": "17",
+      "rating": "18",
+      "votes": "18",
       "parent": null,
       "id": "1002188229",
       "detailed_rating": {
@@ -28193,12 +28193,16 @@
             [
                "5454699",
                1617120000
+            ],
+            [
+               "9075244",
+               1733106395
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 17,
-      "justified_votes": 17
+      "justified_rating": 18,
+      "justified_votes": 18
    },
    "1584660774": {
       "title": "SCP-2874 - Don-Burten爆炸13裝置",
