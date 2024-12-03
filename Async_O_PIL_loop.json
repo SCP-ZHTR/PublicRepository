@@ -13148,8 +13148,8 @@
          "_零號專隊-goi格式"
       ],
       "comments": "1",
-      "rating": "15",
-      "votes": "15",
+      "rating": "16",
+      "votes": "16",
       "parent": null,
       "id": "847100791",
       "detailed_rating": {
@@ -13213,12 +13213,16 @@
             [
                "DELETED",
                "[UNKNOWN]"
+            ],
+            [
+               "8418020",
+               1733231639
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 13,
-      "justified_votes": 13
+      "justified_rating": 14,
+      "justified_votes": 14
    },
    "1564234138": {
       "title": "認識段落寫作",
@@ -47936,8 +47940,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "6",
-      "votes": "6",
+      "rating": "7",
+      "votes": "7",
       "parent": null,
       "id": "1260657684",
       "detailed_rating": {
@@ -47965,12 +47969,16 @@
             [
                "5013754",
                1617120000
+            ],
+            [
+               "8418020",
+               1733231639
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 6,
-      "justified_votes": 6
+      "justified_rating": 7,
+      "justified_votes": 7
    },
    "1596784466": {
       "title": "聖誕禮物",
