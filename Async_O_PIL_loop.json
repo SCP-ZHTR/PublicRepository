@@ -47134,8 +47134,8 @@
          "_賞金k級情景"
       ],
       "comments": "3",
-      "rating": "4",
-      "votes": "4",
+      "rating": "5",
+      "votes": "5",
       "parent": null,
       "id": "1260590036",
       "detailed_rating": {
@@ -47155,12 +47155,16 @@
             [
                "5013754",
                1617120000
+            ],
+            [
+               "8418020",
+               1733187634
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 4,
-      "justified_votes": 4
+      "justified_rating": 5,
+      "justified_votes": 5
    },
    "1596280752": {
       "title": "AO-ZH-252 全智教的磨豆機",
