@@ -17067,6 +17067,23 @@
       "parent": null,
       "id": null,
       "detailed_rating": {},
+      "deleted": true,
+      "justified_rating": 0,
+      "justified_votes": 0
+   },
+   "1733238199": {
+      "title": "聖夜相守虹光夜",
+      "fullname": "christmas-event6",
+      "created_at": "1733238199",
+      "created_by": "4990678",
+      "tags": [],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1457503231",
+      "detailed_rating": {},
       "deleted": false,
       "justified_rating": 0,
       "justified_votes": 0
