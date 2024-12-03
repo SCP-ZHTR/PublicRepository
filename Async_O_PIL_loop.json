@@ -32126,8 +32126,8 @@
          "_info"
       ],
       "comments": "5",
-      "rating": "21",
-      "votes": "21",
+      "rating": "22",
+      "votes": "22",
       "parent": null,
       "id": "999245306",
       "detailed_rating": {
@@ -32215,12 +32215,16 @@
             [
                "5454699",
                1617120000
+            ],
+            [
+               "8418020",
+               1733187220
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 21,
-      "justified_votes": 21
+      "justified_rating": 22,
+      "justified_votes": 22
    },
    "1583068115": {
       "title": "SCP-ZH-262 - 竹解",
