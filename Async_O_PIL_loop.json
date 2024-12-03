@@ -116550,8 +116550,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "12",
-      "votes": "12",
+      "rating": "13",
+      "votes": "13",
       "parent": null,
       "id": "1448467907",
       "detailed_rating": {
@@ -116603,12 +116603,16 @@
             [
                "9075244",
                1712583672
+            ],
+            [
+               "8418020",
+               1733187776
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 12,
-      "justified_votes": 12
+      "justified_rating": 13,
+      "justified_votes": 13
    },
    "1686724662": {
       "title": "滿桌的○○",
