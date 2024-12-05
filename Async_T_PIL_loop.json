@@ -140106,8 +140106,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "9",
-      "votes": "9",
+      "rating": "10",
+      "votes": "10",
       "parent": null,
       "id": "1456004555",
       "detailed_rating": {
@@ -140147,12 +140147,16 @@
             [
                "9340368",
                1723912044
+            ],
+            [
+               "6981058",
+               1733408635
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 9,
-      "justified_votes": 9
+      "justified_rating": 10,
+      "justified_votes": 10
    },
    "1722747370": {
       "title": "SCP-2753 - 來玩疊疊樂！",
