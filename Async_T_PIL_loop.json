@@ -143813,5 +143813,38 @@
       "deleted": false,
       "justified_rating": 5,
       "justified_votes": 5
+   },
+   "1733386641": {
+      "title": "SCP-1342-致作曲者",
+      "fullname": "scp-1342",
+      "created_at": "1733386641",
+      "created_by": "5334590",
+      "tags": [
+         "en",
+         "euclid",
+         "scp",
+         "媒體",
+         "悖論",
+         "星際",
+         "時間影響",
+         "未來",
+         "機器人",
+         "海姆達爾",
+         "科幻",
+         "翻譯",
+         "聽覺影響",
+         "視覺性",
+         "頻"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1457540172",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
