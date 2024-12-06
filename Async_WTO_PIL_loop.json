@@ -8759,8 +8759,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "8",
-      "votes": "8",
+      "rating": "9",
+      "votes": "9",
       "parent": null,
       "id": "1324148438",
       "detailed_rating": {
@@ -8796,12 +8796,16 @@
             [
                "8319365",
                1715782388
+            ],
+            [
+               "8792088",
+               1733469628
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 8,
-      "justified_votes": 8
+      "justified_rating": 9,
+      "justified_votes": 9
    },
    "1632508477": {
       "title": "基金會週刊 第060期",
