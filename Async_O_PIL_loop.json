@@ -140313,8 +140313,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "10",
-      "votes": "10",
+      "rating": "11",
+      "votes": "11",
       "parent": "zhongyuan-2024",
       "id": "1456581392",
       "detailed_rating": {
@@ -140358,12 +140358,16 @@
             [
                "6381244",
                1731531792
+            ],
+            [
+               "8792088",
+               1733468680
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 10,
-      "justified_votes": 10
+      "justified_rating": 11,
+      "justified_votes": 11
    },
    "1724808603": {
       "title": "SCP-ZH-854 - 見是「忌日」",
