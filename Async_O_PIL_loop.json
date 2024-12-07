@@ -143690,8 +143690,8 @@
       ],
       "hidden_tags": [],
       "comments": "2",
-      "rating": "3",
-      "votes": "3",
+      "rating": "2",
+      "votes": "4",
       "parent": null,
       "id": "1456963398",
       "detailed_rating": {
@@ -143708,11 +143708,17 @@
                "7064164",
                1729332370
             ]
+         ],
+         "-": [
+            [
+               "8982806",
+               1733565524
+            ]
          ]
       },
       "deleted": false,
-      "justified_rating": 3,
-      "justified_votes": 3
+      "justified_rating": 2,
+      "justified_votes": 4
    },
    "1727869856": {
       "title": "機殼",
