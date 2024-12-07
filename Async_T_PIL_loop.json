@@ -85103,8 +85103,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "6",
-      "votes": "6",
+      "rating": "7",
+      "votes": "7",
       "parent": "scpdeclassified",
       "id": "1333206552",
       "detailed_rating": {
@@ -85132,12 +85132,16 @@
             [
                "DELETED",
                1720159629
+            ],
+            [
+               "8546930",
+               1733552745
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 5,
-      "justified_votes": 5
+      "justified_rating": 6,
+      "justified_votes": 6
    },
    "1646742223": {
       "title": "SCP-086 - ［刪減內容］博士的辦公室",
