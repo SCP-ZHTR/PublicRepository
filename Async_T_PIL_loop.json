@@ -140922,8 +140922,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "1",
-      "votes": "1",
+      "rating": "2",
+      "votes": "2",
       "parent": null,
       "id": "1456444076",
       "detailed_rating": {
@@ -140931,12 +140931,16 @@
             [
                "8033564",
                1724232631
+            ],
+            [
+               "8792088",
+               1733919189
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 1,
-      "justified_votes": 1
+      "justified_rating": 2,
+      "justified_votes": 2
    },
    "1724145728": {
       "title": "SCP-4364 - 何不食肉糜",
