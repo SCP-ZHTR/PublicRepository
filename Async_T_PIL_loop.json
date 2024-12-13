@@ -124217,8 +124217,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "2",
-      "votes": "2",
+      "rating": "3",
+      "votes": "3",
       "parent": null,
       "id": "1449135942",
       "detailed_rating": {
@@ -124230,12 +124230,16 @@
             [
                "8033564",
                1690299031
+            ],
+            [
+               "9075244",
+               1734071365
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 2,
-      "justified_votes": 2
+      "justified_rating": 3,
+      "justified_votes": 3
    },
    "1690631730": {
       "title": "零號事件 - 第一部分",
