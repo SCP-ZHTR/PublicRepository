@@ -143456,8 +143456,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "8",
-      "votes": "8",
+      "rating": "9",
+      "votes": "9",
       "parent": null,
       "id": "1457400894",
       "detailed_rating": {
@@ -143493,12 +143493,16 @@
             [
                "4206567",
                1732684893
+            ],
+            [
+               "7504530",
+               1734151615
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 8,
-      "justified_votes": 8
+      "justified_rating": 9,
+      "justified_votes": 9
    },
    "1732343323": {
       "title": "DarkStuff的提案 - 失敗恐懼症（家庭生活）",
