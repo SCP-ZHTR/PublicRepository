@@ -28117,7 +28117,7 @@
    },
    "1730901092": {
       "title": "scp-8770",
-      "fullname": "reserve:scp-8770",
+      "fullname": "deleted:reserve:scp-8770",
       "created_at": "1730901092",
       "created_by": "3690227",
       "tags": [],
@@ -28213,7 +28213,7 @@
       "parent": null,
       "id": "1457291848",
       "detailed_rating": {},
-      "deleted": false,
+      "deleted": true,
       "justified_rating": 0,
       "justified_votes": 0
    },
@@ -28264,7 +28264,7 @@
       "parent": null,
       "id": "1457293112",
       "detailed_rating": {},
-      "deleted": false,
+      "deleted": true,
       "justified_rating": 0,
       "justified_votes": 0
    },
@@ -28298,7 +28298,7 @@
       "parent": null,
       "id": "1457295439",
       "detailed_rating": {},
-      "deleted": false,
+      "deleted": true,
       "justified_rating": 0,
       "justified_votes": 0
    },
