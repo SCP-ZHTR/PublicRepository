@@ -27839,7 +27839,7 @@
       "parent": null,
       "id": "1456937307",
       "detailed_rating": {},
-      "deleted": false,
+      "deleted": true,
       "justified_rating": 0,
       "justified_votes": 0
    },
@@ -28077,7 +28077,7 @@
       "parent": null,
       "id": "1457193186",
       "detailed_rating": {},
-      "deleted": false,
+      "deleted": true,
       "justified_rating": 0,
       "justified_votes": 0
    },
