@@ -27771,7 +27771,7 @@
       "parent": null,
       "id": "1456809663",
       "detailed_rating": {},
-      "deleted": false,
+      "deleted": true,
       "justified_rating": 0,
       "justified_votes": 0
    },
@@ -28066,7 +28066,7 @@
    },
    "1729786478": {
       "title": "http://www.scpwiki.com/SCP-2624en",
-      "fullname": "reserve:http:www-scpwiki-com-scp-2624en",
+      "fullname": "deleted:reserve:http:www-scpwiki-com-scp-2624en",
       "created_at": "1729786478",
       "created_by": "5508700",
       "tags": [],
@@ -29161,7 +29161,7 @@
       "rating": "0",
       "votes": "0",
       "parent": null,
-      "id": null,
+      "id": "UNSET",
       "detailed_rating": {},
       "deleted": true,
       "justified_rating": 0,
