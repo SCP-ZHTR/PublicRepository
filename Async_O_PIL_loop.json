@@ -44583,8 +44583,8 @@
          "_cc"
       ],
       "comments": "0",
-      "rating": "8",
-      "votes": "8",
+      "rating": "9",
+      "votes": "9",
       "parent": null,
       "id": "1174018138",
       "detailed_rating": {
@@ -44620,12 +44620,16 @@
             [
                "3266034",
                1617120000
+            ],
+            [
+               "8452537",
+               1734617448
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 8,
-      "justified_votes": 8
+      "justified_rating": 9,
+      "justified_votes": 9
    },
    "1594301240": {
       "title": "異常蕈類資料單-漁民香菇",
