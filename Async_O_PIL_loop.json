@@ -74526,8 +74526,8 @@
          "_a4"
       ],
       "comments": "1",
-      "rating": "17",
-      "votes": "17",
+      "rating": "18",
+      "votes": "18",
       "parent": null,
       "id": "1312332681",
       "detailed_rating": {
@@ -74599,12 +74599,16 @@
             [
                "DELETED",
                1727952846
+            ],
+            [
+               "8792088",
+               1734683264
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 14,
-      "justified_votes": 14
+      "justified_rating": 15,
+      "justified_votes": 15
    },
    "1626000559": {
       "title": "SCP-ZH-096 - 紅移破滅",
