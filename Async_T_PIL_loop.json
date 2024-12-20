@@ -143967,5 +143967,37 @@
       "deleted": false,
       "justified_rating": 2,
       "justified_votes": 2
+   },
+   "1734710558": {
+      "title": "SCP-8976 - 資料丟失恐懼症：碎片化",
+      "fullname": "scp-8976",
+      "created_at": "1734710558",
+      "created_by": "6088232",
+      "tags": [
+         "en",
+         "keter",
+         "maria-jones",
+         "meta",
+         "scp",
+         "心理恐怖",
+         "恐怖",
+         "恐懼症驚選集",
+         "悲戚",
+         "知識",
+         "翻譯",
+         "觀察影響",
+         "記憶影響",
+         "適應性"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": "scp-anthology-2024",
+      "id": "1458037640",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
