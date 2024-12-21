@@ -4509,8 +4509,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "12",
-      "votes": "12",
+      "rating": "13",
+      "votes": "13",
       "parent": null,
       "id": "1002247907",
       "detailed_rating": {
@@ -4562,12 +4562,16 @@
             [
                "5981123",
                1716319177
+            ],
+            [
+               "4206567",
+               1734756218
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 12,
-      "justified_votes": 12
+      "justified_rating": 13,
+      "justified_votes": 13
    },
    "1584865573": {
       "title": "超常事件紀錄",
@@ -8763,8 +8767,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "9",
-      "votes": "9",
+      "rating": "10",
+      "votes": "10",
       "parent": null,
       "id": "1324148438",
       "detailed_rating": {
@@ -8804,12 +8808,16 @@
             [
                "8792088",
                1733469628
+            ],
+            [
+               "4206567",
+               1734756218
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 9,
-      "justified_votes": 9
+      "justified_rating": 10,
+      "justified_votes": 10
    },
    "1632508477": {
       "title": "基金會週刊 第060期",
