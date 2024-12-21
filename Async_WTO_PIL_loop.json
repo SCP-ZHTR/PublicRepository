@@ -14985,8 +14985,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "3",
-      "votes": "3",
+      "rating": "4",
+      "votes": "4",
       "parent": null,
       "id": "1454066697",
       "detailed_rating": {
@@ -15002,12 +15002,16 @@
             [
                "4990678",
                1727339305
+            ],
+            [
+               "7605593",
+               1734754965
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 3,
-      "justified_votes": 3
+      "justified_rating": 4,
+      "justified_votes": 4
    },
    "1718629813": {
       "title": "SCP-8833 - 一九七六",
@@ -16965,8 +16969,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "1",
-      "votes": "1",
+      "rating": "2",
+      "votes": "2",
       "parent": null,
       "id": "1457399812",
       "detailed_rating": {
@@ -16974,12 +16978,16 @@
             [
                "8854072",
                1732023869
+            ],
+            [
+               "7605593",
+               1734754965
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 1,
-      "justified_votes": 1
+      "justified_rating": 2,
+      "justified_votes": 2
    },
    "1732436518": {
       "title": "SCP-3246 - 黑暗恐懼症：盲者被提",
@@ -17127,8 +17135,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "2",
-      "votes": "2",
+      "rating": "3",
+      "votes": "3",
       "parent": null,
       "id": "1458032242",
       "detailed_rating": {
@@ -17140,12 +17148,16 @@
             [
                "6088232",
                1734668765
+            ],
+            [
+               "7605593",
+               1734754965
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 2,
-      "justified_votes": 2
+      "justified_rating": 3,
+      "justified_votes": 3
    },
    "1734710558": {
       "title": "SCP-8976 - 資料丟失恐懼症：碎片化",
