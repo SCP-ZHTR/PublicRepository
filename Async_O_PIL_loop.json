@@ -19371,8 +19371,8 @@
          "_info"
       ],
       "comments": "1",
-      "rating": "18",
-      "votes": "18",
+      "rating": "19",
+      "votes": "19",
       "parent": null,
       "id": "924622420",
       "detailed_rating": {
@@ -19448,12 +19448,16 @@
             [
                "3981670",
                1617120000
+            ],
+            [
+               "9075244",
+               1734830908
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 18,
-      "justified_votes": 18
+      "justified_rating": 19,
+      "justified_votes": 19
    },
    "1572499734": {
       "title": "2019年區議會選舉 茶嶺議員參選單張",
