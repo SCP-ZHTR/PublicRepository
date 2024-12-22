@@ -115234,8 +115234,8 @@
          "_licensebox"
       ],
       "comments": "0",
-      "rating": "11",
-      "votes": "11",
+      "rating": "12",
+      "votes": "12",
       "parent": null,
       "id": "1447406140",
       "detailed_rating": {
@@ -115283,12 +115283,16 @@
             [
                "DELETED",
                1695206965
+            ],
+            [
+               "9075244",
+               1734881910
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 10,
-      "justified_votes": 10
+      "justified_rating": 11,
+      "justified_votes": 11
    },
    "1681898544": {
       "title": "不默而生",
