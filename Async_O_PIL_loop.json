@@ -100284,8 +100284,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "26",
-      "votes": "26",
+      "rating": "27",
+      "votes": "27",
       "parent": null,
       "id": "1420528612",
       "detailed_rating": {
@@ -100393,12 +100393,16 @@
             [
                "4206567",
                1719419774
+            ],
+            [
+               "9075244",
+               1734883554
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 25,
-      "justified_votes": 25
+      "justified_rating": 26,
+      "justified_votes": 26
    },
    "1659795937": {
       "title": "SCP-ZH-184 - 奔車朽索",
@@ -107083,8 +107087,8 @@
          "_禁黑"
       ],
       "comments": "1",
-      "rating": "24",
-      "votes": "24",
+      "rating": "25",
+      "votes": "25",
       "parent": null,
       "id": "1437136446",
       "detailed_rating": {
@@ -107184,12 +107188,16 @@
             [
                "5981123",
                1718645399
+            ],
+            [
+               "9075244",
+               1734883554
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 23,
-      "justified_votes": 23
+      "justified_rating": 24,
+      "justified_votes": 24
    },
    "1668440275": {
       "title": "三色豆戰爭！",
