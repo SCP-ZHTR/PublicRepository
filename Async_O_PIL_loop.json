@@ -126365,8 +126365,8 @@
          "_cc"
       ],
       "comments": "0",
-      "rating": "20",
-      "votes": "20",
+      "rating": "21",
+      "votes": "21",
       "parent": null,
       "id": "1451120178",
       "detailed_rating": {
@@ -126450,12 +126450,16 @@
             [
                "5338547",
                1698510194
+            ],
+            [
+               "9075244",
+               1734880248
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 20,
-      "justified_votes": 20
+      "justified_rating": 21,
+      "justified_votes": 21
    },
    "1698508719": {
       "title": "仿造的意識",
