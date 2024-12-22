@@ -126474,8 +126474,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "19",
-      "votes": "19",
+      "rating": "20",
+      "votes": "20",
       "parent": null,
       "id": "1451120187",
       "detailed_rating": {
@@ -126555,12 +126555,16 @@
             [
                "5338547",
                1698510194
+            ],
+            [
+               "9075244",
+               1734880389
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 19,
-      "justified_votes": 19
+      "justified_rating": 20,
+      "justified_votes": 20
    },
    "1698508811": {
       "title": "SCP-ZH-512 - 歲月靜好",
