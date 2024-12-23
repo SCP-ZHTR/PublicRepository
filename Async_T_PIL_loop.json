@@ -63826,8 +63826,8 @@
       ],
       "hidden_tags": [],
       "comments": "2",
-      "rating": "8",
-      "votes": "12",
+      "rating": "9",
+      "votes": "13",
       "parent": null,
       "id": "1310883771",
       "detailed_rating": {
@@ -63871,6 +63871,10 @@
             [
                "5414791",
                1619884800
+            ],
+            [
+               "8394471",
+               1734937031
             ]
          ],
          "-": [
@@ -63885,8 +63889,8 @@
          ]
       },
       "deleted": false,
-      "justified_rating": 9,
-      "justified_votes": 11
+      "justified_rating": 10,
+      "justified_votes": 12
    },
    "1619196600": {
       "title": "SCP-4465 - 人不能獨自而活",
@@ -143995,8 +143999,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "2",
-      "votes": "2",
+      "rating": "3",
+      "votes": "3",
       "parent": "scp-anthology-2024",
       "id": "1458037640",
       "detailed_rating": {
@@ -144008,11 +144012,15 @@
             [
                "8792088",
                1734790876
+            ],
+            [
+               "9485590",
+               1734937031
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 2,
-      "justified_votes": 2
+      "justified_rating": 3,
+      "justified_votes": 3
    }
 }
