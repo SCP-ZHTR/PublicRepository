@@ -17223,7 +17223,7 @@
       "justified_votes": 0
    },
    "1735134114": {
-      "title": "聖誕快樂，Jude Kriyot。",
+      "title": "聖誕快樂，Jude Kriyot",
       "fullname": "merry-christmas-jude-kriyot",
       "created_at": "1735134114",
       "created_by": "9371222",
@@ -17235,7 +17235,7 @@
       "parent": null,
       "id": "1458095788",
       "detailed_rating": {},
-      "deleted": true,
+      "deleted": false,
       "justified_rating": 0,
       "justified_votes": 0
    }
