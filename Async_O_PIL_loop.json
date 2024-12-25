@@ -116310,8 +116310,8 @@
       ],
       "hidden_tags": [],
       "comments": "2",
-      "rating": "13",
-      "votes": "13",
+      "rating": "14",
+      "votes": "14",
       "parent": null,
       "id": "1448306404",
       "detailed_rating": {
@@ -116367,12 +116367,16 @@
             [
                "DELETED",
                1689414025
+            ],
+            [
+               "8792088",
+               1735136661
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 12,
-      "justified_votes": 12
+      "justified_rating": 13,
+      "justified_votes": 13
    },
    "1686400391": {
       "title": "苦海無明",
