@@ -144071,5 +144071,30 @@
       "deleted": false,
       "justified_rating": 3,
       "justified_votes": 3
+   },
+   "1735168683": {
+      "title": "SCP-005-VN - 基金會如何與聖誕節競賽",
+      "fullname": "scp-005-vn",
+      "created_at": "1735168683",
+      "created_by": "5370805",
+      "tags": [
+         "keter",
+         "vn",
+         "人形",
+         "合著",
+         "復活",
+         "翻譯",
+         "載具"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1458096550",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
