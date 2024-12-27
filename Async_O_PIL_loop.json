@@ -128020,8 +128020,8 @@
          "_cc"
       ],
       "comments": "0",
-      "rating": "5",
-      "votes": "5",
+      "rating": "6",
+      "votes": "6",
       "parent": null,
       "id": "1451998942",
       "detailed_rating": {
@@ -128045,12 +128045,16 @@
             [
                "5370805",
                1704657809
+            ],
+            [
+               "9075244",
+               1735271703
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 5,
-      "justified_votes": 5
+      "justified_rating": 6,
+      "justified_votes": 6
    },
    "1703920808": {
       "title": "今夜的空氣中",
