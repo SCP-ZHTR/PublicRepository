@@ -144007,8 +144007,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "3",
-      "votes": "3",
+      "rating": "4",
+      "votes": "4",
       "parent": "scp-anthology-2024",
       "id": "1458037640",
       "detailed_rating": {
@@ -144024,12 +144024,16 @@
             [
                "9485590",
                1734937031
+            ],
+            [
+               "6381244",
+               1735324598
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 3,
-      "justified_votes": 3
+      "justified_rating": 4,
+      "justified_votes": 4
    },
    "1735134114": {
       "title": "聖誕快樂，Jude Kriyot",
