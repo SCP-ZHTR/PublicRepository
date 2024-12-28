@@ -139393,14 +139393,21 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "0",
-      "votes": "0",
+      "rating": "1",
+      "votes": "1",
       "parent": null,
       "id": "1455889349",
-      "detailed_rating": {},
+      "detailed_rating": {
+         "+": [
+            [
+               "8846720",
+               1735360299
+            ]
+         ]
+      },
       "deleted": false,
-      "justified_rating": 0,
-      "justified_votes": 0
+      "justified_rating": 1,
+      "justified_votes": 1
    },
    "1720966629": {
       "title": "SCP-7242 - 受詛咒的潛艦",
