@@ -126446,8 +126446,8 @@
          "_licensebox"
       ],
       "comments": "0",
-      "rating": "10",
-      "votes": "10",
+      "rating": "11",
+      "votes": "11",
       "parent": null,
       "id": "1450050176",
       "detailed_rating": {
@@ -126491,12 +126491,16 @@
             [
                "8177208",
                1722141981
+            ],
+            [
+               "9371222",
+               1735357552
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 10,
-      "justified_votes": 10
+      "justified_rating": 11,
+      "justified_votes": 11
    },
    "1695314997": {
       "title": "紅縟帶中心頁",
