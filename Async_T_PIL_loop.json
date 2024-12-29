@@ -63452,8 +63452,8 @@
       ],
       "hidden_tags": [],
       "comments": "7",
-      "rating": "20",
-      "votes": "20",
+      "rating": "21",
+      "votes": "21",
       "parent": null,
       "id": "1308618286",
       "detailed_rating": {
@@ -63537,12 +63537,16 @@
             [
                "8452537",
                1701766260
+            ],
+            [
+               "7504530",
+               1735435447
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 19,
-      "justified_votes": 19
+      "justified_rating": 20,
+      "justified_votes": 20
    },
    "1618824563": {
       "title": "SCP-4646 - 為了世界的終末而替我大聲歌頌",
