@@ -144162,5 +144162,39 @@
       "deleted": false,
       "justified_rating": 7,
       "justified_votes": 7
+   },
+   "1735481755": {
+      "title": "SCP-8430 - 發展恐懼症：充實貫徹",
+      "fullname": "scp-8430",
+      "created_at": "1735481755",
+      "created_by": "7504530",
+      "tags": [
+         "artificial-intelligence",
+         "en",
+         "euclid",
+         "scp",
+         "公司",
+         "建築物",
+         "恐怖",
+         "恐懼症驚選集",
+         "悲戚",
+         "時間影響",
+         "智能",
+         "現實扭曲",
+         "科幻",
+         "空間影響",
+         "翻譯",
+         "醫學性"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1458148905",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
