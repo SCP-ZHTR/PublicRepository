@@ -57282,8 +57282,8 @@
          "_cc"
       ],
       "comments": "1",
-      "rating": "12",
-      "votes": "12",
+      "rating": "13",
+      "votes": "13",
       "parent": null,
       "id": "1306954955",
       "detailed_rating": {
@@ -57335,12 +57335,16 @@
             [
                "5981123",
                1719301664
+            ],
+            [
+               "9075244",
+               1735543745
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 12,
-      "justified_votes": 12
+      "justified_rating": 13,
+      "justified_votes": 13
    },
    "1613912679": {
       "title": "波蘭異常蕈類採摘協會 中心頁",
