@@ -144290,5 +144290,33 @@
       "deleted": false,
       "justified_rating": 0,
       "justified_votes": 0
+   },
+   "1735661505": {
+      "title": "SCP-7939 - 新沖水秩序",
+      "fullname": "scp-7939",
+      "created_at": "1735661505",
+      "created_by": "4206567",
+      "tags": [
+         "en",
+         "euclid",
+         "scp",
+         "倫理委員會",
+         "家用品大戰爭",
+         "家電用品",
+         "智能",
+         "熱力學",
+         "翻譯",
+         "觸覺影響"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1458159790",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
