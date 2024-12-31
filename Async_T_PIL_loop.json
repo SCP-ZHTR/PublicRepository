@@ -144241,5 +144241,54 @@
       "deleted": false,
       "justified_rating": 0,
       "justified_votes": 0
+   },
+   "1735651800": {
+      "title": "阿瑪浪納語（阿狄泰語）",
+      "fullname": "old-adytite-language",
+      "created_at": "1735651800",
+      "created_by": "7605593",
+      "tags": [
+         "en",
+         "世界觀建設",
+         "故事",
+         "欲肉教",
+         "翻譯"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1458159155",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
+   },
+   "1735651803": {
+      "title": "納餓卡語文課程213：彼列薩蘭文與孫訥薩蘭文",
+      "fullname": "nsl213-pilesaran-and-soonesaran",
+      "created_at": "1735651803",
+      "created_by": "7605593",
+      "tags": [
+         "en",
+         "illustrated",
+         "世界觀建設",
+         "宗教",
+         "故事",
+         "欲肉教",
+         "翻譯",
+         "諜報"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1458159156",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
