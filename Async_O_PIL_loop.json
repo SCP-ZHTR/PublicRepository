@@ -144472,8 +144472,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "2",
-      "votes": "2",
+      "rating": "3",
+      "votes": "3",
       "parent": null,
       "id": "1458093069",
       "detailed_rating": {
@@ -144485,12 +144485,16 @@
             [
                "4264056",
                1735480036
+            ],
+            [
+               "5435485",
+               1735621611
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 2,
-      "justified_votes": 2
+      "justified_rating": 3,
+      "justified_votes": 3
    },
    "1735056231": {
       "title": "X是「Xmas」",
