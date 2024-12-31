@@ -17318,5 +17318,22 @@
       "deleted": true,
       "justified_rating": 0,
       "justified_votes": 0
+   },
+   "1735660469": {
+      "title": "SCP-ZH-239 - 贈送幸福的小女孩",
+      "fullname": "scp-zh-239",
+      "created_at": "1735660469",
+      "created_by": "8792088",
+      "tags": [],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1458159746",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
