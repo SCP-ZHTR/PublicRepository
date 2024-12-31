@@ -144737,14 +144737,25 @@
          "聖夜虹光"
       ],
       "hidden_tags": [],
-      "comments": "1",
-      "rating": "0",
-      "votes": "0",
+      "comments": "2",
+      "rating": "1",
+      "votes": "1",
       "parent": null,
       "id": "1458159746",
-      "detailed_rating": {},
+      "detailed_rating": {
+         "+": [
+            [
+               "8452537",
+               1735661224
+            ],
+            [
+               "7073060",
+               1735661224
+            ]
+         ]
+      },
       "deleted": false,
-      "justified_rating": 0,
-      "justified_votes": 0
+      "justified_rating": 2,
+      "justified_votes": 2
    }
 }
