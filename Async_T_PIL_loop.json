@@ -144214,5 +144214,32 @@
       "deleted": false,
       "justified_rating": 0,
       "justified_votes": 0
+   },
+   "1735638924": {
+      "title": "SCP-8798 - 故鄉",
+      "fullname": "scp-8798",
+      "created_at": "1735638924",
+      "created_by": "6088232",
+      "tags": [
+         "en",
+         "scp",
+         "thaumiel",
+         "不可移動",
+         "光照影響",
+         "地下",
+         "地點",
+         "屍體",
+         "翻譯"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1458157901",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
