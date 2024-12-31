@@ -144719,5 +144719,32 @@
       "deleted": false,
       "justified_rating": 4,
       "justified_votes": 4
+   },
+   "1735660469": {
+      "title": "SCP-ZH-239 - 贈送幸福的小女孩",
+      "fullname": "scp-zh-239",
+      "created_at": "1735660469",
+      "created_by": "8792088",
+      "tags": [
+         "archon",
+         "scp",
+         "site-zh-12",
+         "site-zh-25",
+         "site-zh-44",
+         "site-zh-50",
+         "人形",
+         "原創",
+         "聖夜虹光"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1458159746",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
