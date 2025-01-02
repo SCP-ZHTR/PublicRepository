@@ -28332,7 +28332,7 @@
       "parent": null,
       "id": "1457400910",
       "detailed_rating": {},
-      "deleted": false,
+      "deleted": true,
       "justified_rating": 0,
       "justified_votes": 0
    },
@@ -29146,7 +29146,7 @@
       "parent": null,
       "id": "1457456691",
       "detailed_rating": {},
-      "deleted": false,
+      "deleted": true,
       "justified_rating": 0,
       "justified_votes": 0
    },
