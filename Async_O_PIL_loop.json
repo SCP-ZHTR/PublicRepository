@@ -144199,8 +144199,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "12",
-      "votes": "12",
+      "rating": "13",
+      "votes": "13",
       "parent": null,
       "id": "1457415607",
       "detailed_rating": {
@@ -144252,12 +144252,16 @@
             [
                "7840542",
                1732531236
+            ],
+            [
+               "6952002",
+               1735840868
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 12,
-      "justified_votes": 12
+      "justified_rating": 13,
+      "justified_votes": 13
    },
    "1732550352": {
       "title": "未命名資料夾（SCP - LOGO）",
@@ -144270,8 +144274,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "9",
-      "votes": "9",
+      "rating": "10",
+      "votes": "10",
       "parent": null,
       "id": "1457436299",
       "detailed_rating": {
@@ -144311,12 +144315,16 @@
             [
                "7605593",
                1734755113
+            ],
+            [
+               "6952002",
+               1735840868
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 9,
-      "justified_votes": 9
+      "justified_rating": 10,
+      "justified_votes": 10
    },
    "1732717100": {
       "title": "SCP-ZH-467 - 破窗之後",
