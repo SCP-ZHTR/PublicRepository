@@ -77214,20 +77214,12 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "6",
-      "votes": "6",
+      "rating": "7",
+      "votes": "7",
       "parent": null,
       "id": "1329867757",
       "detailed_rating": {
          "+": [
-            [
-               "7469850",
-               1635696000
-            ],
-            [
-               "7521095",
-               1635696000
-            ],
             [
                "6952002",
                1635696000
@@ -77243,12 +77235,24 @@
             [
                "6788064",
                1635696000
+            ],
+            [
+               "9371222",
+               1735979349
+            ],
+            [
+               "DELETED",
+               1735979349
+            ],
+            [
+               "DELETED",
+               1735979349
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 6,
-      "justified_votes": 6
+      "justified_rating": 5,
+      "justified_votes": 5
    },
    "1635771665": {
       "title": "SCP-4087 - 不在場的刀",
