@@ -70488,8 +70488,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "7",
-      "votes": "7",
+      "rating": "8",
+      "votes": "8",
       "parent": "scp-zh-231",
       "id": "1311086381",
       "detailed_rating": {
@@ -70521,12 +70521,16 @@
             [
                "DELETED",
                1695271138
+            ],
+            [
+               "5255954",
+               1735996147
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 6,
-      "justified_votes": 6
+      "justified_rating": 7,
+      "justified_votes": 7
    },
    "1621164241": {
       "title": "好餓好餓的克里斯博士",
