@@ -29223,7 +29223,11 @@
       "fullname": "theme:nebulae",
       "created_at": "1735991823",
       "created_by": "4990678",
-      "tags": [],
+      "tags": [
+         "jp",
+         "外觀主題",
+         "翻譯"
+      ],
       "hidden_tags": [],
       "comments": "0",
       "rating": "0",
