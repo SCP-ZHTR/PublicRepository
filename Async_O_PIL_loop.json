@@ -144865,8 +144865,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "2",
-      "votes": "2",
+      "rating": "3",
+      "votes": "3",
       "parent": null,
       "id": "1458184221",
       "detailed_rating": {
@@ -144878,12 +144878,16 @@
             [
                "9075244",
                1736094061
+            ],
+            [
+               "7655555",
+               1736104959
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 2,
-      "justified_votes": 2
+      "justified_rating": 3,
+      "justified_votes": 3
    },
    "1736094973": {
       "title": "SCP-ZH-606 - 子虛烏有",
