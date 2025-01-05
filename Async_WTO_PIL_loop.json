@@ -106,8 +106,8 @@
          "_禁黑"
       ],
       "comments": "3",
-      "rating": "46",
-      "votes": "56",
+      "rating": "47",
+      "votes": "57",
       "parent": null,
       "id": "633995256",
       "detailed_rating": {
@@ -315,6 +315,10 @@
             [
                "5981123",
                1712069417
+            ],
+            [
+               "5560659",
+               1736039276
             ]
          ],
          "-": [
@@ -341,8 +345,8 @@
          ]
       },
       "deleted": false,
-      "justified_rating": 43,
-      "justified_votes": 51
+      "justified_rating": 44,
+      "justified_votes": 52
    },
    "1552130110": {
       "title": "GoI 格式",
