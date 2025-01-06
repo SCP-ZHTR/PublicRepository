@@ -144347,8 +144347,8 @@
       ],
       "hidden_tags": [],
       "comments": "3",
-      "rating": "3",
-      "votes": "3",
+      "rating": "4",
+      "votes": "4",
       "parent": null,
       "id": "1458159790",
       "detailed_rating": {
@@ -144364,12 +144364,16 @@
             [
                "8033564",
                1735866749
+            ],
+            [
+               "6217438",
+               1736165874
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 3,
-      "justified_votes": 3
+      "justified_rating": 4,
+      "justified_votes": 4
    },
    "1736003455": {
       "title": "SCP-118 - 核能原生生物",
