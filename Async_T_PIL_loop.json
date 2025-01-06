@@ -144401,5 +144401,34 @@
       "deleted": true,
       "justified_rating": 0,
       "justified_votes": 0
+   },
+   "1736169833": {
+      "title": "SCP-4848 - 鐵十字",
+      "fullname": "scp-4848",
+      "created_at": "1736169833",
+      "created_by": "7504530",
+      "tags": [
+         "en",
+         "en-4000",
+         "keter",
+         "scp",
+         "格魯烏-p-部門",
+         "模因",
+         "歷史性",
+         "翻譯",
+         "聽覺影響",
+         "視覺性",
+         "認知危害"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1458204631",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
