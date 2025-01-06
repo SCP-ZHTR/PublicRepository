@@ -97714,8 +97714,8 @@
       ],
       "hidden_tags": [],
       "comments": "3",
-      "rating": "7",
-      "votes": "7",
+      "rating": "8",
+      "votes": "8",
       "parent": null,
       "id": "1420230151",
       "detailed_rating": {
@@ -97747,12 +97747,16 @@
             [
                "9079426",
                1716416112
+            ],
+            [
+               "9485590",
+               1736148913
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 6,
-      "justified_votes": 6
+      "justified_rating": 7,
+      "justified_votes": 7
    },
    "1658231472": {
       "title": "SCP-787 - 未曾存在的飛機",
