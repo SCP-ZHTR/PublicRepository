@@ -144939,5 +144939,29 @@
       "deleted": false,
       "justified_rating": 7,
       "justified_votes": 7
+   },
+   "1736458125": {
+      "title": "2025冬季競賽《絕望與希望》",
+      "fullname": "winter-ace-2025",
+      "created_at": "1736458125",
+      "created_by": "4990678",
+      "tags": [
+         "2025冬季競賽",
+         "中心",
+         "原創",
+         "競賽"
+      ],
+      "hidden_tags": [
+         "_禁黑"
+      ],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1458221121",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }

@@ -17387,7 +17387,7 @@
       "parent": null,
       "id": "1458221121",
       "detailed_rating": {},
-      "deleted": false,
+      "deleted": true,
       "justified_rating": 0,
       "justified_votes": 0
    },
@@ -17396,7 +17396,9 @@
       "fullname": "there-is-the-image2",
       "created_at": "1736458351",
       "created_by": "4990678",
-      "tags": [],
+      "tags": [
+         "附加資料"
+      ],
       "hidden_tags": [],
       "comments": "0",
       "rating": "0",
