@@ -144037,8 +144037,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "2",
-      "votes": "2",
+      "rating": "3",
+      "votes": "3",
       "parent": null,
       "id": "1458023009",
       "detailed_rating": {
@@ -144050,12 +144050,16 @@
             [
                "4357011",
                1734494397
+            ],
+            [
+               "4990678",
+               1736513193
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 2,
-      "justified_votes": 2
+      "justified_rating": 3,
+      "justified_votes": 3
    },
    "1734710558": {
       "title": "SCP-8976 - 資料丟失恐懼症：碎片化",
