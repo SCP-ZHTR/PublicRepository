@@ -143983,8 +143983,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "6",
-      "votes": "6",
+      "rating": "7",
+      "votes": "7",
       "parent": null,
       "id": "1457540172",
       "detailed_rating": {
@@ -144012,12 +144012,16 @@
             [
                "9485590",
                1734322288
+            ],
+            [
+               "8546930",
+               1736725710
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 6,
-      "justified_votes": 6
+      "justified_rating": 7,
+      "justified_votes": 7
    },
    "1734488987": {
       "title": "Kate McTiriss的提案",
