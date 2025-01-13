@@ -3117,8 +3117,8 @@
          "_禁黑"
       ],
       "comments": "4",
-      "rating": "7",
-      "votes": "31",
+      "rating": "6",
+      "votes": "32",
       "parent": null,
       "id": "639227193",
       "detailed_rating": {
@@ -3248,12 +3248,16 @@
             [
                "5370805",
                1717867704
+            ],
+            [
+               "9519446",
+               1736769971
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 6,
-      "justified_votes": 30
+      "justified_rating": 5,
+      "justified_votes": 31
    },
    "1552735620": {
       "title": "UIU檔案：1970-005",
