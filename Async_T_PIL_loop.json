@@ -144303,8 +144303,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "1",
-      "votes": "1",
+      "rating": "2",
+      "votes": "2",
       "parent": null,
       "id": "1458159155",
       "detailed_rating": {
@@ -144312,12 +144312,16 @@
             [
                "5370805",
                1735775882
+            ],
+            [
+               "7504530",
+               1736728907
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 1,
-      "justified_votes": 1
+      "justified_rating": 2,
+      "justified_votes": 2
    },
    "1735651803": {
       "title": "納餓卡語文課程213：彼列薩蘭文與孫訥薩蘭文",
