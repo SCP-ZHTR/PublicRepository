@@ -83308,8 +83308,8 @@
          "_cc"
       ],
       "comments": "3",
-      "rating": "26",
-      "votes": "26",
+      "rating": "27",
+      "votes": "27",
       "parent": null,
       "id": "1330534304",
       "detailed_rating": {
@@ -83417,12 +83417,16 @@
             [
                "DELETED",
                1728819433
+            ],
+            [
+               "9075244",
+               1737112506
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 24,
-      "justified_votes": 24
+      "justified_rating": 25,
+      "justified_votes": 25
    },
    "1638084946": {
       "title": "SCP-ZH-701 - 掠食性降雨",
