@@ -3302,7 +3302,7 @@
       ],
       "comments": "0",
       "rating": "5",
-      "votes": "7",
+      "votes": "8",
       "parent": "scp-001",
       "id": "675055942",
       "detailed_rating": {
@@ -3330,6 +3330,10 @@
             [
                "9428515",
                1728650637
+            ],
+            [
+               "9447838",
+               1737170948
             ]
          ],
          "-": [
@@ -3340,8 +3344,8 @@
          ]
       },
       "deleted": false,
-      "justified_rating": 5,
-      "justified_votes": 7
+      "justified_rating": 6,
+      "justified_votes": 8
    },
    "1554641115": {
       "title": "SCP-790 - 血？",
@@ -66510,8 +66514,8 @@
          "_禁黑"
       ],
       "comments": "1",
-      "rating": "19",
-      "votes": "19",
+      "rating": "20",
+      "votes": "20",
       "parent": null,
       "id": "1311621010",
       "detailed_rating": {
@@ -66591,12 +66595,16 @@
             [
                "9428515",
                1728853184
+            ],
+            [
+               "9447838",
+               1737170948
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 18,
-      "justified_votes": 18
+      "justified_rating": 19,
+      "justified_votes": 19
    },
    "1621515195": {
       "title": "SCP-082-CS - 頻率的囚徒",
@@ -125136,8 +125144,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "6",
-      "votes": "6",
+      "rating": "7",
+      "votes": "7",
       "parent": null,
       "id": "1449652626",
       "detailed_rating": {
@@ -125165,12 +125173,16 @@
             [
                "DELETED",
                1729430247
+            ],
+            [
+               "9447838",
+               1737170948
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 5,
-      "justified_votes": 5
+      "justified_rating": 6,
+      "justified_votes": 6
    },
    "1693508895": {
       "title": "直面錄像：周末晚餐",
