@@ -143945,8 +143945,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "12",
-      "votes": "12",
+      "rating": "13",
+      "votes": "13",
       "parent": null,
       "id": "1456964332",
       "detailed_rating": {
@@ -143998,12 +143998,16 @@
             [
                "7916187",
                1730179483
+            ],
+            [
+               "8319365",
+               1737288388
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 12,
-      "justified_votes": 12
+      "justified_rating": 13,
+      "justified_votes": 13
    },
    "1727955036": {
       "title": "讓自己保持溫暖",
@@ -144966,8 +144970,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "8",
-      "votes": "8",
+      "rating": "9",
+      "votes": "9",
       "parent": null,
       "id": "1458184550",
       "detailed_rating": {
@@ -145003,12 +145007,16 @@
             [
                "7064164",
                1736940622
+            ],
+            [
+               "8319365",
+               1737288388
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 8,
-      "justified_votes": 8
+      "justified_rating": 9,
+      "justified_votes": 9
    },
    "1736458125": {
       "title": "2025冬季競賽《絕望與希望》",
