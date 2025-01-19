@@ -34002,8 +34002,8 @@
       ],
       "hidden_tags": [],
       "comments": "2",
-      "rating": "4",
-      "votes": "4",
+      "rating": "5",
+      "votes": "5",
       "parent": "antimemetics-division-hub",
       "id": "1026201444",
       "detailed_rating": {
@@ -34023,12 +34023,16 @@
             [
                "4107284",
                1617120000
+            ],
+            [
+               "2975927",
+               1737272351
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 4,
-      "justified_votes": 4
+      "justified_rating": 5,
+      "justified_votes": 5
    },
    "1587969554": {
       "title": "SCP-5290 - 多重稜鏡",
