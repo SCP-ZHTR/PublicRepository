@@ -107585,8 +107585,8 @@
          "_licensebox"
       ],
       "comments": "0",
-      "rating": "4",
-      "votes": "4",
+      "rating": "5",
+      "votes": "5",
       "parent": null,
       "id": "1437482064",
       "detailed_rating": {
@@ -107606,12 +107606,16 @@
             [
                "DELETED",
                1727104639
+            ],
+            [
+               "7064164",
+               1737465381
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 3,
-      "justified_votes": 3
+      "justified_rating": 4,
+      "justified_votes": 4
    },
    "1669823978": {
       "title": "SCP-5801 - 雪人天堂",
