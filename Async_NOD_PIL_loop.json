@@ -30061,5 +30061,22 @@
       "deleted": false,
       "justified_rating": 0,
       "justified_votes": 0
+   },
+   "1737561908": {
+      "title": "fragment:scp-8066-3",
+      "fullname": "fragment:scp-8066-3",
+      "created_at": "1737561908",
+      "created_by": "6088232",
+      "tags": [],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1458295098",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
