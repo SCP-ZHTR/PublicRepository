@@ -80405,8 +80405,8 @@
          "_licensebox"
       ],
       "comments": "0",
-      "rating": "8",
-      "votes": "8",
+      "rating": "9",
+      "votes": "9",
       "parent": "antimemetics-division-hub",
       "id": "1331213438",
       "detailed_rating": {
@@ -80442,12 +80442,16 @@
             [
                "DELETED",
                1723096988
+            ],
+            [
+               "2975927",
+               1737567230
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 7,
-      "justified_votes": 7
+      "justified_rating": 8,
+      "justified_votes": 8
    },
    "1640856661": {
       "title": "逆模因部時間線",
