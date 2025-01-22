@@ -144566,5 +144566,42 @@
       "deleted": false,
       "justified_rating": 2,
       "justified_votes": 2
+   },
+   "1737562009": {
+      "title": "SCP-8066 - 恐懼恐懼症：唯一值得恐懼之物",
+      "fullname": "scp-8066",
+      "created_at": "1737562009",
+      "created_by": "6088232",
+      "tags": [
+         "en",
+         "scp",
+         "不可摧毀",
+         "人形",
+         "型態變化",
+         "宇宙恐怖",
+         "強迫性",
+         "心理恐怖",
+         "恐怖",
+         "恐懼症驚選集",
+         "悲戚",
+         "智能",
+         "未收容",
+         "機密分級",
+         "無名",
+         "現實扭曲",
+         "翻譯",
+         "肉體恐怖",
+         "詭厄老者"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1458295099",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
