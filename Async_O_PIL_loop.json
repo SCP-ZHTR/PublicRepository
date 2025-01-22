@@ -145120,11 +145120,13 @@
       "created_at": "1737508608",
       "created_by": "9519446",
       "tags": [
+         "euclid",
          "scp",
-         "原創"
+         "原創",
+         "待刪除"
       ],
       "hidden_tags": [],
-      "comments": "0",
+      "comments": "1",
       "rating": "-4",
       "votes": "4",
       "parent": null,
