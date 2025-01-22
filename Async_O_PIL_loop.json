@@ -132478,8 +132478,8 @@
          "_image"
       ],
       "comments": "0",
-      "rating": "17",
-      "votes": "17",
+      "rating": "18",
+      "votes": "18",
       "parent": null,
       "id": "1453116640",
       "detailed_rating": {
@@ -132551,12 +132551,16 @@
             [
                "6303274",
                1725089386
+            ],
+            [
+               "6152598",
+               1737553734
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 17,
-      "justified_votes": 17
+      "justified_rating": 18,
+      "justified_votes": 18
    },
    "1711548608": {
       "title": "四倍役滿將死UNO！",
