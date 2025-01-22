@@ -43218,8 +43218,8 @@
          "_cc"
       ],
       "comments": "3",
-      "rating": "34",
-      "votes": "34",
+      "rating": "35",
+      "votes": "35",
       "parent": null,
       "id": "1260816880",
       "detailed_rating": {
@@ -43359,12 +43359,16 @@
             [
                "9311399",
                1724234422
+            ],
+            [
+               "9447838",
+               1737525873
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 34,
-      "justified_votes": 34
+      "justified_rating": 35,
+      "justified_votes": 35
    },
    "1597653377": {
       "title": "舞台設置",
@@ -100444,8 +100448,8 @@
          "_禁黑"
       ],
       "comments": "1",
-      "rating": "25",
-      "votes": "25",
+      "rating": "26",
+      "votes": "26",
       "parent": null,
       "id": "1420857329",
       "detailed_rating": {
@@ -100549,12 +100553,16 @@
             [
                "8884787",
                1711037214
+            ],
+            [
+               "9447838",
+               1737525873
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 24,
-      "justified_votes": 24
+      "justified_rating": 25,
+      "justified_votes": 25
    },
    "1661018931": {
       "title": "SCP-5417 - 歡迎回家",
