@@ -144858,8 +144858,8 @@
       ],
       "hidden_tags": [],
       "comments": "12",
-      "rating": "1",
-      "votes": "13",
+      "rating": "2",
+      "votes": "14",
       "parent": null,
       "id": "1458159746",
       "detailed_rating": {
@@ -144891,6 +144891,10 @@
             [
                "5338547",
                1735712978
+            ],
+            [
+               "8319365",
+               1737645400
             ]
          ],
          "-": [
@@ -144921,8 +144925,8 @@
          ]
       },
       "deleted": false,
-      "justified_rating": 1,
-      "justified_votes": 13
+      "justified_rating": 2,
+      "justified_votes": 14
    },
    "1736092955": {
       "title": "車次［106］．車種［自強］．（誤點146640分）",
