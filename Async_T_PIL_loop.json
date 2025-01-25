@@ -132790,8 +132790,8 @@
          "_licensebox"
       ],
       "comments": "0",
-      "rating": "1",
-      "votes": "1",
+      "rating": "2",
+      "votes": "2",
       "parent": null,
       "id": "1451978082",
       "detailed_rating": {
@@ -132799,12 +132799,16 @@
             [
                "8607832",
                1714330404
+            ],
+            [
+               "7605593",
+               1737812996
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 1,
-      "justified_votes": 1
+      "justified_rating": 2,
+      "justified_votes": 2
    },
    "1703750400": {
       "title": "SCP-5693 - 欲知上帝理財觀念，觀其所贈之人足矣",
