@@ -52782,8 +52782,8 @@
          "_image"
       ],
       "comments": "1",
-      "rating": "33",
-      "votes": "33",
+      "rating": "34",
+      "votes": "34",
       "parent": null,
       "id": "1306056546",
       "detailed_rating": {
@@ -52919,12 +52919,16 @@
             [
                "5370805",
                1736952066
+            ],
+            [
+               "4206567",
+               1737887480
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 33,
-      "justified_votes": 33
+      "justified_rating": 34,
+      "justified_votes": 34
    },
    "1607087373": {
       "title": "SCP-:3-J",
