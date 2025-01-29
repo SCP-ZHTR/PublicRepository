@@ -145205,5 +145205,27 @@
       "deleted": false,
       "justified_rating": -8,
       "justified_votes": 8
+   },
+   "1738155517": {
+      "title": "SCP-ZH-422",
+      "fullname": "scp-zh-422",
+      "created_at": "1738155517",
+      "created_by": "5348516",
+      "tags": [
+         "safe",
+         "scp",
+         "原創",
+         "貓類"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1458333535",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
