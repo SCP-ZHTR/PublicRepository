@@ -136203,8 +136203,8 @@
          "_第一使命"
       ],
       "comments": "1",
-      "rating": "24",
-      "votes": "24",
+      "rating": "25",
+      "votes": "25",
       "parent": null,
       "id": "1453836594",
       "detailed_rating": {
@@ -136304,12 +136304,16 @@
             [
                "8033564",
                1722219869
+            ],
+            [
+               "9553480",
+               1738267654
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 24,
-      "justified_votes": 24
+      "justified_rating": 25,
+      "justified_votes": 25
    },
    "1717256456": {
       "title": "SCP-ZH-457 - 在林裡待一下",
@@ -139904,8 +139908,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "13",
-      "votes": "13",
+      "rating": "14",
+      "votes": "14",
       "parent": null,
       "id": "1456477755",
       "detailed_rating": {
@@ -139961,12 +139965,16 @@
             [
                "8319365",
                1737297383
+            ],
+            [
+               "9553480",
+               1738267654
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 13,
-      "justified_votes": 13
+      "justified_rating": 14,
+      "justified_votes": 14
    },
    "1724249205": {
       "title": "SCP-ZH-784 - 一是「意識流」",
