@@ -143929,8 +143929,8 @@
       ],
       "hidden_tags": [],
       "comments": "2",
-      "rating": "2",
-      "votes": "4",
+      "rating": "1",
+      "votes": "5",
       "parent": null,
       "id": "1456963398",
       "detailed_rating": {
@@ -143952,12 +143952,16 @@
             [
                "8982806",
                1733565524
+            ],
+            [
+               "9553480",
+               1738267359
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 2,
-      "justified_votes": 4
+      "justified_rating": 1,
+      "justified_votes": 5
    },
    "1727869856": {
       "title": "機殼",
@@ -144475,8 +144479,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "4",
-      "votes": "4",
+      "rating": "3",
+      "votes": "5",
       "parent": null,
       "id": "1457445511",
       "detailed_rating": {
@@ -144497,11 +144501,17 @@
                "8177208",
                1734002435
             ]
+         ],
+         "-": [
+            [
+               "9553480",
+               1738267359
+            ]
          ]
       },
       "deleted": false,
-      "justified_rating": 4,
-      "justified_votes": 4
+      "justified_rating": 3,
+      "justified_votes": 5
    },
    "1733238199": {
       "title": "聖夜相守虹光夜",
