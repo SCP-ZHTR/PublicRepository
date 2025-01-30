@@ -3532,8 +3532,8 @@
          "_info"
       ],
       "comments": "1",
-      "rating": "7",
-      "votes": "17",
+      "rating": "6",
+      "votes": "18",
       "parent": null,
       "id": "639393206",
       "detailed_rating": {
@@ -3607,12 +3607,16 @@
             [
                "DELETED",
                "[UNKNOWN]"
+            ],
+            [
+               "9553480",
+               1738268941
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 6,
-      "justified_votes": 14
+      "justified_rating": 5,
+      "justified_votes": 15
    },
    "1552837081": {
       "title": "SCP-ZH-439 - 嵌合機車",
@@ -15826,8 +15830,8 @@
          "_info"
       ],
       "comments": "1",
-      "rating": "2",
-      "votes": "10",
+      "rating": "1",
+      "votes": "11",
       "parent": null,
       "id": "858383485",
       "detailed_rating": {
@@ -15873,12 +15877,16 @@
             [
                "3981670",
                1629734400
+            ],
+            [
+               "9553480",
+               1738268941
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 2,
-      "justified_votes": 10
+      "justified_rating": 1,
+      "justified_votes": 11
    },
    "1566314967": {
       "title": "Ctrl Z博士的SCP記錄：SCP-166 少女魅魔",
@@ -118546,8 +118554,8 @@
       ],
       "hidden_tags": [],
       "comments": "2",
-      "rating": "2",
-      "votes": "12",
+      "rating": "1",
+      "votes": "13",
       "parent": null,
       "id": "1449212130",
       "detailed_rating": {
@@ -118601,12 +118609,16 @@
             [
                "3356098",
                1690793433
+            ],
+            [
+               "9553480",
+               1738268941
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 2,
-      "justified_votes": 12
+      "justified_rating": 1,
+      "justified_votes": 13
    },
    "1690729287": {
       "title": "SCP-ZH-662 - 食人瑪瑙",
