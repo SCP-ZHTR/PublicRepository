@@ -1789,8 +1789,8 @@
          "_info"
       ],
       "comments": "5",
-      "rating": "1",
-      "votes": "9",
+      "rating": "0",
+      "votes": "10",
       "parent": null,
       "id": "637424151",
       "detailed_rating": {
@@ -1832,12 +1832,16 @@
             [
                "5454699",
                1617120000
+            ],
+            [
+               "8982806",
+               1738291153
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 1,
-      "justified_votes": 9
+      "justified_rating": 0,
+      "justified_votes": 10
    },
    "1552261860": {
       "title": "SCP-ZH-349 - 天已遊憩廳",
@@ -48252,8 +48256,8 @@
          "_賞金反"
       ],
       "comments": "7",
-      "rating": "0",
-      "votes": "46",
+      "rating": "-1",
+      "votes": "47",
       "parent": null,
       "id": "1260739510",
       "detailed_rating": {
@@ -48443,12 +48447,16 @@
             [
                "9553480",
                1738268223
+            ],
+            [
+               "8982806",
+               1738291153
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 10,
-      "justified_votes": 36
+      "justified_rating": 9,
+      "justified_votes": 37
    },
    "1597039724": {
       "title": "沒有人要帶家人逃難。",
@@ -145348,8 +145356,8 @@
          "_絕望"
       ],
       "comments": "0",
-      "rating": "1",
-      "votes": "1",
+      "rating": "0",
+      "votes": "2",
       "parent": null,
       "id": "1458333535",
       "detailed_rating": {
@@ -145358,10 +145366,16 @@
                "4990678",
                1738164855
             ]
+         ],
+         "-": [
+            [
+               "8982806",
+               1738291153
+            ]
          ]
       },
       "deleted": false,
-      "justified_rating": 1,
-      "justified_votes": 1
+      "justified_rating": 0,
+      "justified_votes": 2
    }
 }
