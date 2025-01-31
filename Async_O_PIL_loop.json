@@ -35604,8 +35604,8 @@
       ],
       "hidden_tags": [],
       "comments": "2",
-      "rating": "2",
-      "votes": "6",
+      "rating": "1",
+      "votes": "7",
       "parent": null,
       "id": "1024272433",
       "detailed_rating": {
@@ -35635,12 +35635,16 @@
             [
                "8982806",
                1719562652
+            ],
+            [
+               "9553480",
+               1738292184
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 2,
-      "justified_votes": 6
+      "justified_rating": 1,
+      "justified_votes": 7
    },
    "1586534118": {
       "title": "SCP-ZH-150 - 悖論甜甜圈",
@@ -81623,18 +81627,14 @@
          "_cc"
       ],
       "comments": "0",
-      "rating": "9",
-      "votes": "9",
+      "rating": "8",
+      "votes": "10",
       "parent": null,
       "id": "1329679087",
       "detailed_rating": {
          "+": [
             [
                "4990678",
-               1635264000
-            ],
-            [
-               "7521095",
                1635264000
             ],
             [
@@ -81664,11 +81664,21 @@
             [
                "DELETED",
                1695270461
+            ],
+            [
+               "DELETED",
+               1738292184
+            ]
+         ],
+         "-": [
+            [
+               "9553480",
+               1738292184
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 8,
+      "justified_rating": 6,
       "justified_votes": 8
    },
    "1635433795": {
@@ -139431,8 +139441,8 @@
       ],
       "hidden_tags": [],
       "comments": "4",
-      "rating": "7",
-      "votes": "7",
+      "rating": "6",
+      "votes": "8",
       "parent": null,
       "id": "1456374926",
       "detailed_rating": {
@@ -139465,11 +139475,17 @@
                "6503482",
                1724494992
             ]
+         ],
+         "-": [
+            [
+               "9553480",
+               1738292184
+            ]
          ]
       },
       "deleted": false,
-      "justified_rating": 7,
-      "justified_votes": 7
+      "justified_rating": 6,
+      "justified_votes": 8
    },
    "1723941451": {
       "title": "破是「Professional」",
