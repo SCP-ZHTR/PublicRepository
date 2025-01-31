@@ -3121,8 +3121,8 @@
          "_禁黑"
       ],
       "comments": "4",
-      "rating": "6",
-      "votes": "32",
+      "rating": "4",
+      "votes": "34",
       "parent": null,
       "id": "639227193",
       "detailed_rating": {
@@ -3256,12 +3256,20 @@
             [
                "9519446",
                1736769971
+            ],
+            [
+               "9553480",
+               1738292031
+            ],
+            [
+               "8982806",
+               1738292031
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 5,
-      "justified_votes": 31
+      "justified_rating": 3,
+      "justified_votes": 33
    },
    "1552735620": {
       "title": "UIU檔案：1970-005",
@@ -18897,8 +18905,8 @@
          "_info"
       ],
       "comments": "3",
-      "rating": "6",
-      "votes": "12",
+      "rating": "5",
+      "votes": "13",
       "parent": null,
       "id": "923203046",
       "detailed_rating": {
@@ -18952,12 +18960,16 @@
             [
                "5230135",
                1617120000
+            ],
+            [
+               "9553480",
+               1738292031
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 6,
-      "justified_votes": 12
+      "justified_rating": 5,
+      "justified_votes": 13
    },
    "1571640848": {
       "title": "SCP-ZH-047 - 你的所作所為",
@@ -31640,7 +31652,7 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "7",
+      "rating": "6",
       "votes": "10",
       "parent": null,
       "id": "998752513",
@@ -81676,8 +81688,8 @@
          "_cc"
       ],
       "comments": "4",
-      "rating": "6",
-      "votes": "12",
+      "rating": "5",
+      "votes": "13",
       "parent": null,
       "id": "1329831795",
       "detailed_rating": {
@@ -81731,12 +81743,16 @@
             [
                "8982806",
                1738291010
+            ],
+            [
+               "9553480",
+               1738292031
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 5,
-      "justified_votes": 11
+      "justified_rating": 4,
+      "justified_votes": 12
    },
    "1635441415": {
       "title": "百花魔女的愛之書",
