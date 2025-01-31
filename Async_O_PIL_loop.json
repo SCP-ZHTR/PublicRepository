@@ -144541,8 +144541,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "3",
-      "votes": "5",
+      "rating": "2",
+      "votes": "6",
       "parent": null,
       "id": "1457445511",
       "detailed_rating": {
@@ -144568,12 +144568,16 @@
             [
                "9553480",
                1738267359
+            ],
+            [
+               "8982806",
+               1738290293
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 3,
-      "justified_votes": 5
+      "justified_rating": 2,
+      "justified_votes": 6
    },
    "1733238199": {
       "title": "聖夜相守虹光夜",
@@ -144637,8 +144641,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "2",
-      "votes": "4",
+      "rating": "1",
+      "votes": "5",
       "parent": null,
       "id": "1458093069",
       "detailed_rating": {
@@ -144660,12 +144664,16 @@
             [
                "9553480",
                1738259726
+            ],
+            [
+               "8982806",
+               1738290293
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 2,
-      "justified_votes": 4
+      "justified_rating": 1,
+      "justified_votes": 5
    },
    "1735056231": {
       "title": "X是「Xmas」",
@@ -144880,8 +144888,8 @@
       ],
       "hidden_tags": [],
       "comments": "7",
-      "rating": "2",
-      "votes": "10",
+      "rating": "1",
+      "votes": "11",
       "parent": null,
       "id": "1458153853",
       "detailed_rating": {
@@ -144927,12 +144935,16 @@
             [
                "9553480",
                1738269530
+            ],
+            [
+               "8982806",
+               1738290293
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 2,
-      "justified_votes": 10
+      "justified_rating": 1,
+      "justified_votes": 11
    },
    "1735660469": {
       "title": "SCP-ZH-239 - 贈送幸福的小女孩",
