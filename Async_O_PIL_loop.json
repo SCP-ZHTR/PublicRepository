@@ -31641,7 +31641,7 @@
       "hidden_tags": [],
       "comments": "0",
       "rating": "7",
-      "votes": "9",
+      "votes": "10",
       "parent": null,
       "id": "998752513",
       "detailed_rating": {
@@ -31683,12 +31683,16 @@
             [
                "DELETED",
                "[UNKNOWN]"
+            ],
+            [
+               "8982806",
+               1738291878
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 8,
-      "justified_votes": 8
+      "justified_rating": 7,
+      "justified_votes": 9
    },
    "1582809307": {
       "title": "SCP-ZH-445 - 手動填墨",
@@ -32095,8 +32099,8 @@
          "_info"
       ],
       "comments": "0",
-      "rating": "7",
-      "votes": "13",
+      "rating": "6",
+      "votes": "14",
       "parent": null,
       "id": "999244821",
       "detailed_rating": {
@@ -32112,10 +32116,6 @@
             [
                "5956873",
                1617120000
-            ],
-            [
-               "7521095",
-               1641744000
             ],
             [
                "5252281",
@@ -32140,6 +32140,10 @@
             [
                "5454699",
                1617120000
+            ],
+            [
+               "DELETED",
+               1738291878
             ]
          ],
          "-": [
@@ -32154,11 +32158,15 @@
             [
                "4351112",
                1617120000
+            ],
+            [
+               "8982806",
+               1738291878
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 7,
+      "justified_rating": 5,
       "justified_votes": 13
    },
    "1583065123": {
@@ -46079,8 +46087,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "8",
-      "votes": "8",
+      "rating": "7",
+      "votes": "9",
       "parent": null,
       "id": "1194520961",
       "detailed_rating": {
@@ -46117,11 +46125,17 @@
                "5415046",
                1617120000
             ]
+         ],
+         "-": [
+            [
+               "8982806",
+               1738291878
+            ]
          ]
       },
       "deleted": false,
-      "justified_rating": 8,
-      "justified_votes": 8
+      "justified_rating": 7,
+      "justified_votes": 9
    },
    "1595000245": {
       "title": "SCP-ZH-141 - 放射線症候群治療劑",
@@ -80564,8 +80578,8 @@
          "_cc"
       ],
       "comments": "4",
-      "rating": "11",
-      "votes": "11",
+      "rating": "10",
+      "votes": "12",
       "parent": null,
       "id": "1329340684",
       "detailed_rating": {
@@ -80581,10 +80595,6 @@
             [
                "6217438",
                1634140800
-            ],
-            [
-               "7521095",
-               1641052800
             ],
             [
                "6091157",
@@ -80613,11 +80623,21 @@
             [
                "8319365",
                1718405312
+            ],
+            [
+               "DELETED",
+               1738291878
+            ]
+         ],
+         "-": [
+            [
+               "8982806",
+               1738291878
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 9,
+      "justified_rating": 7,
       "justified_votes": 9
    },
    "1634278821": {
