@@ -32368,8 +32368,8 @@
          "_cc"
       ],
       "comments": "0",
-      "rating": "9",
-      "votes": "11",
+      "rating": "8",
+      "votes": "12",
       "parent": null,
       "id": "999245668",
       "detailed_rating": {
@@ -32419,12 +32419,16 @@
             [
                "3356098",
                1683019688
+            ],
+            [
+               "8982806",
+               1738290728
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 9,
-      "justified_votes": 11
+      "justified_rating": 8,
+      "justified_votes": 12
    },
    "1583068632": {
       "title": "SCP-ZH-747 - 趨凶避凶",
@@ -86217,16 +86221,12 @@
          "_cc"
       ],
       "comments": "4",
-      "rating": "10",
-      "votes": "12",
+      "rating": "9",
+      "votes": "13",
       "parent": null,
       "id": "1331352622",
       "detailed_rating": {
          "+": [
-            [
-               "7469850",
-               1641744000
-            ],
             [
                "6503482",
                1641744000
@@ -86234,10 +86234,6 @@
             [
                "6217438",
                1641744000
-            ],
-            [
-               "7521095",
-               1642003200
             ],
             [
                "5684299",
@@ -86266,18 +86262,30 @@
             [
                "5454699",
                1647360000
+            ],
+            [
+               "DELETED",
+               1738290728
+            ],
+            [
+               "DELETED",
+               1738290728
             ]
          ],
          "-": [
             [
                "5415046",
                1641916800
+            ],
+            [
+               "8982806",
+               1738290728
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 10,
-      "justified_votes": 12
+      "justified_rating": 7,
+      "justified_votes": 11
    },
    "1641743743": {
       "title": "天亮前的禮物",
