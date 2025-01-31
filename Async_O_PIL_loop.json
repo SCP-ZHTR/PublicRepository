@@ -15842,8 +15842,8 @@
          "_info"
       ],
       "comments": "1",
-      "rating": "1",
-      "votes": "11",
+      "rating": "0",
+      "votes": "12",
       "parent": null,
       "id": "858383485",
       "detailed_rating": {
@@ -15893,12 +15893,16 @@
             [
                "9553480",
                1738268941
+            ],
+            [
+               "8982806",
+               1738291733
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 1,
-      "justified_votes": 11
+      "justified_rating": 0,
+      "justified_votes": 12
    },
    "1566314967": {
       "title": "Ctrl Z博士的SCP記錄：SCP-166 少女魅魔",
@@ -137719,8 +137723,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "7",
-      "votes": "7",
+      "rating": "6",
+      "votes": "8",
       "parent": null,
       "id": "1455942931",
       "detailed_rating": {
@@ -137753,11 +137757,17 @@
                "4990678",
                1722114823
             ]
+         ],
+         "-": [
+            [
+               "8982806",
+               1738291733
+            ]
          ]
       },
       "deleted": false,
-      "justified_rating": 7,
-      "justified_votes": 7
+      "justified_rating": 6,
+      "justified_votes": 8
    },
    "1721804644": {
       "title": "冰肌玉骨",
