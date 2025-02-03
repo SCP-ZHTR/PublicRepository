@@ -143187,8 +143187,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "7",
-      "votes": "7",
+      "rating": "8",
+      "votes": "8",
       "parent": null,
       "id": "1457289988",
       "detailed_rating": {
@@ -143220,12 +143220,16 @@
             [
                "7504530",
                1735396831
+            ],
+            [
+               "7476471",
+               1738591664
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 7,
-      "justified_votes": 7
+      "justified_rating": 8,
+      "justified_votes": 8
    },
    "1730896090": {
       "title": "SCP-8654 - 高處恐懼症：上即是下",
