@@ -145342,8 +145342,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "7",
-      "votes": "7",
+      "rating": "8",
+      "votes": "8",
       "parent": null,
       "id": "1458287736",
       "detailed_rating": {
@@ -145375,12 +145375,16 @@
             [
                "3995762",
                1737810644
+            ],
+            [
+               "8319365",
+               1738567127
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 7,
-      "justified_votes": 7
+      "justified_rating": 8,
+      "justified_votes": 8
    },
    "1737508608": {
       "title": "SCP-ZH-918 異界殘響",
