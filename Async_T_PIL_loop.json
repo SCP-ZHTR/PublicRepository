@@ -33107,8 +33107,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "2",
-      "votes": "2",
+      "rating": "3",
+      "votes": "3",
       "parent": null,
       "id": "1024556670",
       "detailed_rating": {
@@ -33120,12 +33120,16 @@
             [
                "9428515",
                1729595799
+            ],
+            [
+               "7476471",
+               1738591810
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 2,
-      "justified_votes": 2
+      "justified_rating": 3,
+      "justified_votes": 3
    },
    "1586967699": {
       "title": "SCP-4026 - 守護「天使」",
