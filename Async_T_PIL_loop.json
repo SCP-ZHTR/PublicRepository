@@ -90502,8 +90502,8 @@
          "_cc"
       ],
       "comments": "0",
-      "rating": "3",
-      "votes": "3",
+      "rating": "4",
+      "votes": "4",
       "parent": null,
       "id": "1402282491",
       "detailed_rating": {
@@ -90519,12 +90519,16 @@
             [
                "7064164",
                1650124800
+            ],
+            [
+               "7605593",
+               1738644949
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 3,
-      "justified_votes": 3
+      "justified_rating": 4,
+      "justified_votes": 4
    },
    "1650087613": {
       "title": "SCP-885 - 活真空",
