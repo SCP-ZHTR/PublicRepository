@@ -70051,8 +70051,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "5",
-      "votes": "5",
+      "rating": "6",
+      "votes": "6",
       "parent": null,
       "id": "1310961959",
       "detailed_rating": {
@@ -70076,12 +70076,16 @@
             [
                "5415046",
                1620230400
+            ],
+            [
+               "9371222",
+               1738648093
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 5,
-      "justified_votes": 5
+      "justified_rating": 6,
+      "justified_votes": 6
    },
    "1620400114": {
       "title": "所有的橋都被燒掉了",
