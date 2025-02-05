@@ -78808,8 +78808,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "3",
-      "votes": "5",
+      "rating": "4",
+      "votes": "6",
       "parent": null,
       "id": "1316869550",
       "detailed_rating": {
@@ -78829,6 +78829,10 @@
             [
                "DELETED",
                1695270804
+            ],
+            [
+               "9075244",
+               1738755623
             ]
          ],
          "-": [
@@ -78839,8 +78843,8 @@
          ]
       },
       "deleted": false,
-      "justified_rating": 2,
-      "justified_votes": 4
+      "justified_rating": 3,
+      "justified_votes": 5
    },
    "1629644608": {
       "title": "SCP-ZH-048 - 劍與魔法與茶之魔手",
