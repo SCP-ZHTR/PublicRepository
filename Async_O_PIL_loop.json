@@ -145475,8 +145475,8 @@
          "_絕望"
       ],
       "comments": "0",
-      "rating": "6",
-      "votes": "8",
+      "rating": "7",
+      "votes": "9",
       "parent": null,
       "id": "1458333535",
       "detailed_rating": {
@@ -145508,6 +145508,10 @@
             [
                "7513990",
                1738664743
+            ],
+            [
+               "8452537",
+               1738743011
             ]
          ],
          "-": [
@@ -145518,7 +145522,7 @@
          ]
       },
       "deleted": false,
-      "justified_rating": 6,
-      "justified_votes": 8
+      "justified_rating": 7,
+      "justified_votes": 9
    }
 }
