@@ -145639,5 +145639,36 @@
       "deleted": false,
       "justified_rating": 3,
       "justified_votes": 3
+   },
+   "1738859658": {
+      "title": "SCP-ZH-417 - 希望的調味料",
+      "fullname": "scp-zh-417",
+      "created_at": "1738859658",
+      "created_by": "5338547",
+      "tags": [
+         "2025冬季競賽",
+         "awcy",
+         "safe",
+         "scp",
+         "site-zh-11",
+         "原創",
+         "成癮性",
+         "機械",
+         "藝術性",
+         "金屬",
+         "電子"
+      ],
+      "hidden_tags": [
+         "_希望"
+      ],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1458374579",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
