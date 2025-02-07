@@ -84137,8 +84137,8 @@
          "_cc"
       ],
       "comments": "0",
-      "rating": "36",
-      "votes": "36",
+      "rating": "37",
+      "votes": "37",
       "parent": null,
       "id": "1331159816",
       "detailed_rating": {
@@ -84170,10 +84170,6 @@
             [
                "6217438",
                1641744000
-            ],
-            [
-               "7521095",
-               1640188800
             ],
             [
                "5987568",
@@ -84286,6 +84282,14 @@
             [
                "DELETED",
                1714033819
+            ],
+            [
+               "9555530",
+               1738924413
+            ],
+            [
+               "DELETED",
+               1738924413
             ]
          ]
       },
@@ -126535,8 +126539,8 @@
          "_cc"
       ],
       "comments": "4",
-      "rating": "28",
-      "votes": "28",
+      "rating": "29",
+      "votes": "29",
       "parent": null,
       "id": "1451120156",
       "detailed_rating": {
@@ -126652,12 +126656,16 @@
             [
                "DELETED",
                1738268076
+            ],
+            [
+               "9555530",
+               1738924413
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 27,
-      "justified_votes": 27
+      "justified_rating": 28,
+      "justified_votes": 28
    },
    "1698508591": {
       "title": "偽造的記憶",
