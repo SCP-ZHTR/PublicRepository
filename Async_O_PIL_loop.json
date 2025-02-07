@@ -145874,8 +145874,8 @@
          "_絕望"
       ],
       "comments": "0",
-      "rating": "3",
-      "votes": "3",
+      "rating": "4",
+      "votes": "4",
       "parent": null,
       "id": "1458378392",
       "detailed_rating": {
@@ -145891,12 +145891,16 @@
             [
                "8846720",
                1738928586
+            ],
+            [
+               "6217438",
+               1738932830
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 3,
-      "justified_votes": 3
+      "justified_rating": 4,
+      "justified_votes": 4
    },
    "1738930308": {
       "title": "SCP-ZH-386 - 廢紙堆下",
