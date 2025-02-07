@@ -118438,8 +118438,8 @@
          "_cc"
       ],
       "comments": "0",
-      "rating": "17",
-      "votes": "17",
+      "rating": "18",
+      "votes": "18",
       "parent": null,
       "id": "1449152943",
       "detailed_rating": {
@@ -118511,12 +118511,16 @@
             [
                "9553480",
                1738269680
+            ],
+            [
+               "9555530",
+               1738924692
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 16,
-      "justified_votes": 16
+      "justified_rating": 17,
+      "justified_votes": 17
    },
    "1690515022": {
       "title": "SCP-ZH-698 - 女神玳米雅贊與奧摩奇亞海嘯",
@@ -136397,8 +136401,8 @@
          "_第一使命"
       ],
       "comments": "1",
-      "rating": "25",
-      "votes": "25",
+      "rating": "26",
+      "votes": "26",
       "parent": null,
       "id": "1453836594",
       "detailed_rating": {
@@ -136502,12 +136506,16 @@
             [
                "9553480",
                1738267654
+            ],
+            [
+               "9555530",
+               1738924692
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 25,
-      "justified_votes": 25
+      "justified_rating": 26,
+      "justified_votes": 26
    },
    "1717256456": {
       "title": "SCP-ZH-457 - 在林裡待一下",
