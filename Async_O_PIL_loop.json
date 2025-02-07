@@ -145936,5 +145936,34 @@
       "deleted": false,
       "justified_rating": 2,
       "justified_votes": 2
+   },
+   "1738930903": {
+      "title": "SCP-ZH-778 - 局內人模擬器",
+      "fullname": "scp-zh-778",
+      "created_at": "1738930903",
+      "created_by": "6217438",
+      "tags": [
+         "2025冬季競賽",
+         "safe",
+         "scp",
+         "原創",
+         "城市",
+         "媒體",
+         "家電用品",
+         "研究員knave",
+         "超維度"
+      ],
+      "hidden_tags": [
+         "_絕望"
+      ],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1458379368",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
