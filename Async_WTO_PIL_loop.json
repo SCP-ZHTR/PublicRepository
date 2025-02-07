@@ -17583,5 +17583,22 @@
       "deleted": true,
       "justified_rating": 0,
       "justified_votes": 0
+   },
+   "1738921889": {
+      "title": "重新編織乙太質以無效化綠型和藍型異常性質之嘗試",
+      "fullname": "attempt-of-type-green-and-bluenullification-via-aether-rewea",
+      "created_at": "1738921889",
+      "created_by": "5370805",
+      "tags": [],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1458378392",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
