@@ -145755,7 +145755,7 @@
       "hidden_tags": [
          "_希望"
       ],
-      "comments": "2",
+      "comments": "3",
       "rating": "2",
       "votes": "2",
       "parent": null,
@@ -145775,5 +145775,32 @@
       "deleted": false,
       "justified_rating": 2,
       "justified_votes": 2
+   },
+   "1738920600": {
+      "title": "SCP-ZH-558 - 裂紙大逆",
+      "fullname": "scp-zh-558",
+      "created_at": "1738920600",
+      "created_by": "7605593",
+      "tags": [
+         "2025冬季競賽",
+         "safe",
+         "scp",
+         "人造物品",
+         "原創",
+         "精神影響",
+         "藝術性"
+      ],
+      "hidden_tags": [
+         "_絕望"
+      ],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1458377885",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
