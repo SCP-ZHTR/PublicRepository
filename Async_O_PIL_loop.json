@@ -145957,8 +145957,8 @@
          "_絕望"
       ],
       "comments": "0",
-      "rating": "5",
-      "votes": "5",
+      "rating": "6",
+      "votes": "6",
       "parent": null,
       "id": "1458379333",
       "detailed_rating": {
@@ -145982,12 +145982,16 @@
             [
                "5338547",
                1738946139
+            ],
+            [
+               "4206567",
+               1738946722
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 5,
-      "justified_votes": 5
+      "justified_rating": 6,
+      "justified_votes": 6
    },
    "1738930903": {
       "title": "SCP-ZH-778 - 局內人模擬器",
