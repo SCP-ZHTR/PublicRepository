@@ -67901,8 +67901,8 @@
       ],
       "hidden_tags": [],
       "comments": "2",
-      "rating": "33",
-      "votes": "33",
+      "rating": "34",
+      "votes": "34",
       "parent": null,
       "id": "1308613950",
       "detailed_rating": {
@@ -68038,12 +68038,16 @@
             [
                "8814983",
                1715830733
+            ],
+            [
+               "4206567",
+               1738948511
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 33,
-      "justified_votes": 33
+      "justified_rating": 34,
+      "justified_votes": 34
    },
    "1618587573": {
       "title": "SCP-ZH-162 - TEIC演算法",
