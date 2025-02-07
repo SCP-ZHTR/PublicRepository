@@ -145890,8 +145890,8 @@
          "_絕望"
       ],
       "comments": "1",
-      "rating": "4",
-      "votes": "4",
+      "rating": "5",
+      "votes": "5",
       "parent": null,
       "id": "1458378392",
       "detailed_rating": {
@@ -145911,12 +145911,16 @@
             [
                "6217438",
                1738932830
+            ],
+            [
+               "5338547",
+               1738946139
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 4,
-      "justified_votes": 4
+      "justified_rating": 5,
+      "justified_votes": 5
    },
    "1738930308": {
       "title": "SCP-ZH-386 - 廢紙堆下",
@@ -145937,8 +145941,8 @@
          "_絕望"
       ],
       "comments": "0",
-      "rating": "4",
-      "votes": "4",
+      "rating": "5",
+      "votes": "5",
       "parent": null,
       "id": "1458379333",
       "detailed_rating": {
@@ -145958,12 +145962,16 @@
             [
                "5565302",
                1738945559
+            ],
+            [
+               "5338547",
+               1738946139
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 4,
-      "justified_votes": 4
+      "justified_rating": 5,
+      "justified_votes": 5
    },
    "1738930903": {
       "title": "SCP-ZH-778 - 局內人模擬器",
