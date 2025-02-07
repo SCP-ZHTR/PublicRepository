@@ -144696,8 +144696,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "2",
-      "votes": "6",
+      "rating": "3",
+      "votes": "7",
       "parent": null,
       "id": "1457445511",
       "detailed_rating": {
@@ -144717,6 +144717,10 @@
             [
                "8177208",
                1734002435
+            ],
+            [
+               "7605593",
+               1738915069
             ]
          ],
          "-": [
@@ -144731,8 +144735,8 @@
          ]
       },
       "deleted": false,
-      "justified_rating": 2,
-      "justified_votes": 6
+      "justified_rating": 3,
+      "justified_votes": 7
    },
    "1733238199": {
       "title": "聖夜相守虹光夜",
