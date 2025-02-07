@@ -145970,8 +145970,8 @@
          "_絕望"
       ],
       "comments": "2",
-      "rating": "5",
-      "votes": "5",
+      "rating": "6",
+      "votes": "6",
       "parent": null,
       "id": "1458379368",
       "detailed_rating": {
@@ -145995,11 +145995,15 @@
             [
                "8846720",
                1738936251
+            ],
+            [
+               "4990678",
+               1738936902
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 5,
-      "justified_votes": 5
+      "justified_rating": 6,
+      "justified_votes": 6
    }
 }
