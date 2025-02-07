@@ -145733,5 +145733,32 @@
       "deleted": false,
       "justified_rating": 4,
       "justified_votes": 4
+   },
+   "1738919554": {
+      "title": "SCP-ZH-797 - 破財消災",
+      "fullname": "scp-zh-797",
+      "created_at": "1738919554",
+      "created_by": "4206567",
+      "tags": [
+         "2025冬季競賽",
+         "scp",
+         "原創",
+         "強迫性",
+         "概念",
+         "遊戲",
+         "電子"
+      ],
+      "hidden_tags": [
+         "_希望"
+      ],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1458377607",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
