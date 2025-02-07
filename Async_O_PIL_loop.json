@@ -145626,8 +145626,8 @@
          "_絕望"
       ],
       "comments": "1",
-      "rating": "10",
-      "votes": "10",
+      "rating": "11",
+      "votes": "11",
       "parent": null,
       "id": "1458373248",
       "detailed_rating": {
@@ -145671,12 +145671,16 @@
             [
                "6217438",
                1738935554
+            ],
+            [
+               "5338547",
+               1738946287
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 10,
-      "justified_votes": 10
+      "justified_rating": 11,
+      "justified_votes": 11
    },
    "1738855785": {
       "title": "松木林之外",
@@ -145692,8 +145696,8 @@
          "_絕望"
       ],
       "comments": "0",
-      "rating": "6",
-      "votes": "6",
+      "rating": "7",
+      "votes": "7",
       "parent": null,
       "id": "1458374351",
       "detailed_rating": {
@@ -145721,12 +145725,16 @@
             [
                "8452537",
                1738921796
+            ],
+            [
+               "5338547",
+               1738946287
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 6,
-      "justified_votes": 6
+      "justified_rating": 7,
+      "justified_votes": 7
    },
    "1738859658": {
       "title": "SCP-ZH-417 - 希望的調味料",
@@ -145850,8 +145858,8 @@
          "_絕望"
       ],
       "comments": "0",
-      "rating": "3",
-      "votes": "3",
+      "rating": "4",
+      "votes": "4",
       "parent": null,
       "id": "1458377885",
       "detailed_rating": {
@@ -145867,12 +145875,16 @@
             [
                "5370805",
                1738925397
+            ],
+            [
+               "5338547",
+               1738946287
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 3,
-      "justified_votes": 3
+      "justified_rating": 4,
+      "justified_votes": 4
    },
    "1738921889": {
       "title": "重新編織乙太質以無效化綠型和藍型異常性質之嘗試",
