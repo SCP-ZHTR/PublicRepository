@@ -145622,8 +145622,8 @@
          "_絕望"
       ],
       "comments": "1",
-      "rating": "9",
-      "votes": "9",
+      "rating": "10",
+      "votes": "10",
       "parent": null,
       "id": "1458373248",
       "detailed_rating": {
@@ -145663,12 +145663,16 @@
             [
                "8319365",
                1738894353
+            ],
+            [
+               "6217438",
+               1738935554
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 9,
-      "justified_votes": 9
+      "justified_rating": 10,
+      "justified_votes": 10
    },
    "1738855785": {
       "title": "松木林之外",
