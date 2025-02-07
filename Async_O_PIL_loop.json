@@ -145543,8 +145543,8 @@
          "_絕望"
       ],
       "comments": "3",
-      "rating": "10",
-      "votes": "12",
+      "rating": "11",
+      "votes": "13",
       "parent": null,
       "id": "1458333535",
       "detailed_rating": {
@@ -145592,6 +145592,10 @@
             [
                "8319365",
                1738911893
+            ],
+            [
+               "6217438",
+               1738944267
             ]
          ],
          "-": [
@@ -145602,8 +145606,8 @@
          ]
       },
       "deleted": false,
-      "justified_rating": 10,
-      "justified_votes": 12
+      "justified_rating": 11,
+      "justified_votes": 13
    },
    "1738841506": {
       "title": "永久花",
@@ -146037,8 +146041,8 @@
          "_絕望"
       ],
       "comments": "0",
-      "rating": "1",
-      "votes": "1",
+      "rating": "2",
+      "votes": "2",
       "parent": null,
       "id": "1458380117",
       "detailed_rating": {
