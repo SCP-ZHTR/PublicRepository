@@ -144641,8 +144641,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "7",
-      "votes": "7",
+      "rating": "8",
+      "votes": "8",
       "parent": null,
       "id": "1457445317",
       "detailed_rating": {
@@ -144674,12 +144674,16 @@
             [
                "7827462",
                1733245179
+            ],
+            [
+               "9555530",
+               1738921239
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 7,
-      "justified_votes": 7
+      "justified_rating": 8,
+      "justified_votes": 8
    },
    "1732723486": {
       "title": "SCP-ZH-607 - 贗品正義",
@@ -144804,8 +144808,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "2",
-      "votes": "6",
+      "rating": "3",
+      "votes": "7",
       "parent": null,
       "id": "1458093069",
       "detailed_rating": {
@@ -144825,6 +144829,10 @@
             [
                "7605593",
                1738914928
+            ],
+            [
+               "9555530",
+               1738921239
             ]
          ],
          "-": [
@@ -144839,8 +144847,8 @@
          ]
       },
       "deleted": false,
-      "justified_rating": 2,
-      "justified_votes": 6
+      "justified_rating": 3,
+      "justified_votes": 7
    },
    "1735056231": {
       "title": "X是「Xmas」",
