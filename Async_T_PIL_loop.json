@@ -142847,8 +142847,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "1",
-      "votes": "1",
+      "rating": "2",
+      "votes": "2",
       "parent": null,
       "id": "1457106344",
       "detailed_rating": {
@@ -142856,12 +142856,16 @@
             [
                "5435485",
                1729078882
+            ],
+            [
+               "5544112",
+               1738980487
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 1,
-      "justified_votes": 1
+      "justified_rating": 2,
+      "justified_votes": 2
    },
    "1729350420": {
       "title": "SCP-3922延伸測試紀錄",
