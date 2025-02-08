@@ -7391,8 +7391,8 @@
          "_禁黑"
       ],
       "comments": "21",
-      "rating": "38",
-      "votes": "38",
+      "rating": "39",
+      "votes": "39",
       "parent": null,
       "id": "1308457939",
       "detailed_rating": {
@@ -7548,12 +7548,16 @@
             [
                "4206567",
                1735120650
+            ],
+            [
+               "8319365",
+               1739015212
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 37,
-      "justified_votes": 37
+      "justified_rating": 38,
+      "justified_votes": 38
    },
    "1617389623": {
       "title": "基金會周刊 第035期",
