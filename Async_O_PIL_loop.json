@@ -145700,8 +145700,8 @@
          "_絕望"
       ],
       "comments": "0",
-      "rating": "7",
-      "votes": "7",
+      "rating": "8",
+      "votes": "8",
       "parent": null,
       "id": "1458374351",
       "detailed_rating": {
@@ -145733,12 +145733,16 @@
             [
                "5338547",
                1738946287
+            ],
+            [
+               "7605593",
+               1738994396
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 7,
-      "justified_votes": 7
+      "justified_rating": 8,
+      "justified_votes": 8
    },
    "1738859658": {
       "title": "SCP-ZH-417 - 希望的調味料",
@@ -145820,8 +145824,8 @@
          "_希望"
       ],
       "comments": "3",
-      "rating": "7",
-      "votes": "7",
+      "rating": "8",
+      "votes": "8",
       "parent": null,
       "id": "1458377607",
       "detailed_rating": {
@@ -145853,12 +145857,16 @@
             [
                "6152598",
                1738992144
+            ],
+            [
+               "7605593",
+               1738994396
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 7,
-      "justified_votes": 7
+      "justified_rating": 8,
+      "justified_votes": 8
    },
    "1738920600": {
       "title": "SCP-ZH-558 - 裂紙大逆",
@@ -145926,8 +145934,8 @@
          "_絕望"
       ],
       "comments": "1",
-      "rating": "6",
-      "votes": "6",
+      "rating": "7",
+      "votes": "7",
       "parent": null,
       "id": "1458378392",
       "detailed_rating": {
@@ -145955,12 +145963,16 @@
             [
                "8177208",
                1738983736
+            ],
+            [
+               "7605593",
+               1738994396
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 6,
-      "justified_votes": 6
+      "justified_rating": 7,
+      "justified_votes": 7
    },
    "1738930308": {
       "title": "SCP-ZH-386 - 廢紙堆下",
@@ -145981,8 +145993,8 @@
          "_絕望"
       ],
       "comments": "0",
-      "rating": "7",
-      "votes": "7",
+      "rating": "8",
+      "votes": "8",
       "parent": null,
       "id": "1458379333",
       "detailed_rating": {
@@ -146014,12 +146026,16 @@
             [
                "6217438",
                1738981683
+            ],
+            [
+               "7605593",
+               1738994396
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 7,
-      "justified_votes": 7
+      "justified_rating": 8,
+      "justified_votes": 8
    },
    "1738930903": {
       "title": "SCP-ZH-778 - 局內人模擬器",
@@ -146041,8 +146057,8 @@
          "_絕望"
       ],
       "comments": "2",
-      "rating": "9",
-      "votes": "9",
+      "rating": "10",
+      "votes": "10",
       "parent": null,
       "id": "1458379368",
       "detailed_rating": {
@@ -146082,12 +146098,16 @@
             [
                "6152598",
                1738955156
+            ],
+            [
+               "7605593",
+               1738994396
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 9,
-      "justified_votes": 9
+      "justified_rating": 10,
+      "justified_votes": 10
    },
    "1738943334": {
       "title": "SCP-ZH-437 - 無味恐懼",
@@ -146108,8 +146128,8 @@
          "_絕望"
       ],
       "comments": "1",
-      "rating": "6",
-      "votes": "6",
+      "rating": "7",
+      "votes": "7",
       "parent": null,
       "id": "1458380117",
       "detailed_rating": {
@@ -146137,11 +146157,15 @@
             [
                "6152598",
                1738988192
+            ],
+            [
+               "7605593",
+               1738994396
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 6,
-      "justified_votes": 6
+      "justified_rating": 7,
+      "justified_votes": 7
    }
 }
