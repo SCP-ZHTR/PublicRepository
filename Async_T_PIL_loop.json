@@ -21130,8 +21130,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "15",
-      "votes": "15",
+      "rating": "16",
+      "votes": "16",
       "parent": "antimemetics-division-hub",
       "id": "986153734",
       "detailed_rating": {
@@ -21195,12 +21195,16 @@
             [
                "7840542",
                1731320098
+            ],
+            [
+               "5544112",
+               1738980635
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 15,
-      "justified_votes": 15
+      "justified_rating": 16,
+      "justified_votes": 16
    },
    "1579083323": {
       "title": "SCP-SPOOKY-J",
@@ -29917,8 +29921,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "17",
-      "votes": "17",
+      "rating": "18",
+      "votes": "18",
       "parent": "series-archive",
       "id": "1014599013",
       "detailed_rating": {
@@ -29990,12 +29994,16 @@
             [
                "2975927",
                1737271639
+            ],
+            [
+               "5544112",
+               1738980635
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 17,
-      "justified_votes": 17
+      "justified_rating": 18,
+      "justified_votes": 18
    },
    "1585632788": {
       "title": "SCP-3008 - 一間毫無異狀的典型IKEA",
@@ -30482,8 +30490,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "10",
-      "votes": "10",
+      "rating": "11",
+      "votes": "11",
       "parent": "antimemetics-division-hub",
       "id": "1019312040",
       "detailed_rating": {
@@ -30527,12 +30535,16 @@
             [
                "4273918",
                1709890820
+            ],
+            [
+               "5544112",
+               1738980635
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 10,
-      "justified_votes": 10
+      "justified_rating": 11,
+      "justified_votes": 11
    },
    "1585798154": {
       "title": "SCP-403 - 漸進打火機",
