@@ -141580,8 +141580,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "6",
-      "votes": "6",
+      "rating": "7",
+      "votes": "7",
       "parent": null,
       "id": "1456550500",
       "detailed_rating": {
@@ -141609,12 +141609,16 @@
             [
                "9104873",
                1729072290
+            ],
+            [
+               "8319365",
+               1739033674
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 6,
-      "justified_votes": 6
+      "justified_rating": 7,
+      "justified_votes": 7
    },
    "1724833641": {
       "title": "SCP-2399 - 故障的毀滅者",
