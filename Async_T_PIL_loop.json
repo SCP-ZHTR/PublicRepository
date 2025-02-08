@@ -31541,8 +31541,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "6",
-      "votes": "6",
+      "rating": "7",
+      "votes": "7",
       "parent": "antimemetics-division-hub",
       "id": "1024197275",
       "detailed_rating": {
@@ -31570,12 +31570,16 @@
             [
                "5565302",
                1711979928
+            ],
+            [
+               "5544112",
+               1738980790
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 6,
-      "justified_votes": 6
+      "justified_rating": 7,
+      "justified_votes": 7
    },
    "1586101409": {
       "title": "SCP-2690 - 天使之舌",
@@ -34026,8 +34030,8 @@
       ],
       "hidden_tags": [],
       "comments": "2",
-      "rating": "5",
-      "votes": "5",
+      "rating": "6",
+      "votes": "6",
       "parent": "antimemetics-division-hub",
       "id": "1026201444",
       "detailed_rating": {
@@ -34051,12 +34055,16 @@
             [
                "2975927",
                1737272351
+            ],
+            [
+               "5544112",
+               1738980790
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 5,
-      "justified_votes": 5
+      "justified_rating": 6,
+      "justified_votes": 6
    },
    "1587969554": {
       "title": "SCP-5290 - 多重稜鏡",
@@ -38102,8 +38110,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "4",
-      "votes": "4",
+      "rating": "5",
+      "votes": "5",
       "parent": "antimemetics-division-hub",
       "id": "1068187726",
       "detailed_rating": {
@@ -38123,12 +38131,16 @@
             [
                "4442284",
                1617120000
+            ],
+            [
+               "5544112",
+               1738980790
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 4,
-      "justified_votes": 4
+      "justified_rating": 5,
+      "justified_votes": 5
    },
    "1590299938": {
       "title": "特工AA的個人日誌",
@@ -39160,8 +39172,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "9",
-      "votes": "9",
+      "rating": "10",
+      "votes": "10",
       "parent": "antimemetics-division-hub",
       "id": "1134607517",
       "detailed_rating": {
@@ -39201,12 +39213,16 @@
             [
                "5344651",
                1617120000
+            ],
+            [
+               "5544112",
+               1738980790
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 9,
-      "justified_votes": 9
+      "justified_rating": 10,
+      "justified_votes": 10
    },
    "1590988981": {
       "title": "qntm的人事頁",
