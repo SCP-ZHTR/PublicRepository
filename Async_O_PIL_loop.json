@@ -145649,8 +145649,8 @@
          "_絕望"
       ],
       "comments": "1",
-      "rating": "12",
-      "votes": "12",
+      "rating": "13",
+      "votes": "13",
       "parent": null,
       "id": "1458373248",
       "detailed_rating": {
@@ -145702,12 +145702,16 @@
             [
                "7605593",
                1738995059
+            ],
+            [
+               "5334590",
+               1739118735
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 12,
-      "justified_votes": 12
+      "justified_rating": 13,
+      "justified_votes": 13
    },
    "1738855785": {
       "title": "松木林之外",
@@ -146230,8 +146234,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "3",
-      "votes": "3",
+      "rating": "4",
+      "votes": "4",
       "parent": null,
       "id": "1458404549",
       "detailed_rating": {
@@ -146247,11 +146251,15 @@
             [
                "9555530",
                1739086151
+            ],
+            [
+               "5334590",
+               1739118735
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 3,
-      "justified_votes": 3
+      "justified_rating": 4,
+      "justified_votes": 4
    }
 }
