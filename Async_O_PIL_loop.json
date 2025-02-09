@@ -118389,8 +118389,8 @@
          "_cc"
       ],
       "comments": "0",
-      "rating": "10",
-      "votes": "10",
+      "rating": "11",
+      "votes": "11",
       "parent": null,
       "id": "1449152924",
       "detailed_rating": {
@@ -118434,12 +118434,16 @@
             [
                "5415046",
                1690428798
+            ],
+            [
+               "7840542",
+               1739110590
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 10,
-      "justified_votes": 10
+      "justified_rating": 11,
+      "justified_votes": 11
    },
    "1690426752": {
       "title": "SCP-ZH-961 - 控制，收容，保護",
