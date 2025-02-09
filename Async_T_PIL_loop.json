@@ -41821,8 +41821,8 @@
       ],
       "hidden_tags": [],
       "comments": "2",
-      "rating": "10",
-      "votes": "10",
+      "rating": "11",
+      "votes": "11",
       "parent": null,
       "id": "1194518597",
       "detailed_rating": {
@@ -41866,12 +41866,16 @@
             [
                "7504530",
                1715825434
+            ],
+            [
+               "5544112",
+               1739079928
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 10,
-      "justified_votes": 10
+      "justified_rating": 11,
+      "justified_votes": 11
    },
    "1595059124": {
       "title": "SCP-PL-173",
