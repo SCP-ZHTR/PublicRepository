@@ -18760,8 +18760,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "6",
-      "votes": "6",
+      "rating": "7",
+      "votes": "7",
       "parent": null,
       "id": "904858355",
       "detailed_rating": {
@@ -18789,12 +18789,16 @@
             [
                "5817419",
                1617120000
+            ],
+            [
+               "5544112",
+               1739079642
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 6,
-      "justified_votes": 6
+      "justified_rating": 7,
+      "justified_votes": 7
    },
    "1569064287": {
       "title": "有關批准開發定位時空動盪地區工具的申請",
