@@ -146147,9 +146147,9 @@
       "hidden_tags": [
          "_絕望"
       ],
-      "comments": "1",
-      "rating": "7",
-      "votes": "7",
+      "comments": "2",
+      "rating": "8",
+      "votes": "8",
       "parent": null,
       "id": "1458380117",
       "detailed_rating": {
@@ -146181,11 +146181,15 @@
             [
                "7605593",
                1738994396
+            ],
+            [
+               "9447838",
+               1739065363
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 7,
-      "justified_votes": 7
+      "justified_rating": 8,
+      "justified_votes": 8
    }
 }
