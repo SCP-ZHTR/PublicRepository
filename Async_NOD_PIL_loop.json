@@ -30551,7 +30551,11 @@
       "fullname": "theme:twin-files",
       "created_at": "1739089871",
       "created_by": "6503482",
-      "tags": [],
+      "tags": [
+         "en",
+         "外觀主題",
+         "翻譯"
+      ],
       "hidden_tags": [],
       "comments": "0",
       "rating": "0",
