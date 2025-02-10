@@ -40091,8 +40091,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "11",
-      "votes": "11",
+      "rating": "12",
+      "votes": "12",
       "parent": null,
       "id": "1147135953",
       "detailed_rating": {
@@ -40140,12 +40140,16 @@
             [
                "5454699",
                1620835200
+            ],
+            [
+               "5544112",
+               1739175449
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 11,
-      "justified_votes": 11
+      "justified_rating": 12,
+      "justified_votes": 12
    },
    "1591810117": {
       "title": "SCP-212的改良紀錄",
