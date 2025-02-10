@@ -145929,8 +145929,8 @@
          "_絕望"
       ],
       "comments": "0",
-      "rating": "6",
-      "votes": "6",
+      "rating": "7",
+      "votes": "7",
       "parent": null,
       "id": "1458377885",
       "detailed_rating": {
@@ -145958,12 +145958,16 @@
             [
                "6217438",
                1739193548
+            ],
+            [
+               "6503482",
+               1739199082
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 6,
-      "justified_votes": 6
+      "justified_rating": 7,
+      "justified_votes": 7
    },
    "1738921889": {
       "title": "重新編織乙太質以無效化綠型和藍型異常性質之嘗試",
@@ -145981,8 +145985,8 @@
          "_絕望"
       ],
       "comments": "1",
-      "rating": "8",
-      "votes": "8",
+      "rating": "9",
+      "votes": "9",
       "parent": null,
       "id": "1458378392",
       "detailed_rating": {
@@ -146018,12 +146022,16 @@
             [
                "7504530",
                1739090733
+            ],
+            [
+               "6503482",
+               1739199082
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 8,
-      "justified_votes": 8
+      "justified_rating": 9,
+      "justified_votes": 9
    },
    "1738930308": {
       "title": "SCP-ZH-386 - 廢紙堆下",
@@ -146044,8 +146052,8 @@
          "_絕望"
       ],
       "comments": "0",
-      "rating": "10",
-      "votes": "10",
+      "rating": "11",
+      "votes": "11",
       "parent": null,
       "id": "1458379333",
       "detailed_rating": {
@@ -146089,12 +146097,16 @@
             [
                "7840542",
                1739110445
+            ],
+            [
+               "6503482",
+               1739199082
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 10,
-      "justified_votes": 10
+      "justified_rating": 11,
+      "justified_votes": 11
    },
    "1738930903": {
       "title": "SCP-ZH-778 - 局內人模擬器",
