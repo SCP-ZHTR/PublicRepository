@@ -144771,8 +144771,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "3",
-      "votes": "3",
+      "rating": "4",
+      "votes": "4",
       "parent": null,
       "id": "1458295099",
       "detailed_rating": {
@@ -144788,12 +144788,16 @@
             [
                "7064164",
                1737773937
+            ],
+            [
+               "7840542",
+               1739149590
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 3,
-      "justified_votes": 3
+      "justified_rating": 4,
+      "justified_votes": 4
    },
    "1738498802": {
       "title": "SCP-8822 - 真相恐懼症：腦內補完從頭歸正",
