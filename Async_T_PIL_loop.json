@@ -19436,8 +19436,8 @@
          "_cc"
       ],
       "comments": "1",
-      "rating": "6",
-      "votes": "6",
+      "rating": "7",
+      "votes": "7",
       "parent": null,
       "id": "924630686",
       "detailed_rating": {
@@ -19465,12 +19465,16 @@
             [
                "DELETED",
                "[UNKNOWN]"
+            ],
+            [
+               "5544112",
+               1739188128
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 5,
-      "justified_votes": 5
+      "justified_rating": 6,
+      "justified_votes": 6
    },
    "1572500804": {
       "title": "SCP-2412 - 先知機械",
