@@ -145917,8 +145917,8 @@
          "_絕望"
       ],
       "comments": "0",
-      "rating": "5",
-      "votes": "5",
+      "rating": "6",
+      "votes": "6",
       "parent": null,
       "id": "1458377885",
       "detailed_rating": {
@@ -145942,12 +145942,16 @@
             [
                "4206567",
                1738946575
+            ],
+            [
+               "6217438",
+               1739193548
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 5,
-      "justified_votes": 5
+      "justified_rating": 6,
+      "justified_votes": 6
    },
    "1738921889": {
       "title": "重新編織乙太質以無效化綠型和藍型異常性質之嘗試",
