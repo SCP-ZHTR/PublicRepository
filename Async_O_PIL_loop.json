@@ -145653,8 +145653,8 @@
          "_絕望"
       ],
       "comments": "1",
-      "rating": "13",
-      "votes": "13",
+      "rating": "14",
+      "votes": "14",
       "parent": null,
       "id": "1458373248",
       "detailed_rating": {
@@ -145710,12 +145710,16 @@
             [
                "5334590",
                1739118735
+            ],
+            [
+               "6503482",
+               1739198935
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 13,
-      "justified_votes": 13
+      "justified_rating": 14,
+      "justified_votes": 14
    },
    "1738855785": {
       "title": "松木林之外",
@@ -145731,8 +145735,8 @@
          "_絕望"
       ],
       "comments": "0",
-      "rating": "8",
-      "votes": "8",
+      "rating": "9",
+      "votes": "9",
       "parent": null,
       "id": "1458374351",
       "detailed_rating": {
@@ -145768,12 +145772,16 @@
             [
                "7605593",
                1738994396
+            ],
+            [
+               "6503482",
+               1739198935
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 8,
-      "justified_votes": 8
+      "justified_rating": 9,
+      "justified_votes": 9
    },
    "1738859658": {
       "title": "SCP-ZH-417 - 希望的調味料",
