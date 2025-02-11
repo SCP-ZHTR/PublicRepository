@@ -144868,5 +144868,33 @@
       "deleted": false,
       "justified_rating": 3,
       "justified_votes": 3
+   },
+   "1739285363": {
+      "title": "格魯烏P個案卷宗 「巨人魷魚」",
+      "fullname": "squid-ispolin",
+      "created_at": "1739285363",
+      "created_by": "7504530",
+      "tags": [
+         "en",
+         "goi格式",
+         "全線戰爭",
+         "奇幻",
+         "普羅米修斯實驗室",
+         "格魯烏-p-部門",
+         "歷史",
+         "科幻",
+         "翻譯",
+         "諜報"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1458417320",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
