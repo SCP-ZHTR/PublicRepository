@@ -116335,8 +116335,8 @@
          "_禁黑"
       ],
       "comments": "0",
-      "rating": "11",
-      "votes": "11",
+      "rating": "12",
+      "votes": "12",
       "parent": null,
       "id": "1447981998",
       "detailed_rating": {
@@ -116384,12 +116384,16 @@
             [
                "8177208",
                1706369073
+            ],
+            [
+               "8319365",
+               1739290947
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 10,
-      "justified_votes": 10
+      "justified_rating": 11,
+      "justified_votes": 11
    },
    "1685886442": {
       "title": "阿我們贏了/輸了，然後勒？",
