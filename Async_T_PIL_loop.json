@@ -144888,10 +144888,47 @@
       ],
       "hidden_tags": [],
       "comments": "0",
+      "rating": "1",
+      "votes": "1",
+      "parent": null,
+      "id": "1458417320",
+      "detailed_rating": {
+         "+": [
+            [
+               "8452537",
+               1739285647
+            ]
+         ]
+      },
+      "deleted": false,
+      "justified_rating": 1,
+      "justified_votes": 1
+   },
+   "1739285502": {
+      "title": "『怪獸魚子醬』（OCN39/T5FG6/7HJL2）",
+      "fullname": "kaiju-caviar-ocn39-t5fg6-7hjl2",
+      "created_at": "1739285502",
+      "created_by": "7504530",
+      "tags": [
+         "en",
+         "goi格式",
+         "mc&d",
+         "percival-darke",
+         "全球超自然聯盟",
+         "全線戰爭",
+         "公司",
+         "動作",
+         "奇幻",
+         "帕西法爾-達克",
+         "恐懼與雜技",
+         "翻譯"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
       "rating": "0",
       "votes": "0",
       "parent": null,
-      "id": "1458417320",
+      "id": "1458417327",
       "detailed_rating": {},
       "deleted": false,
       "justified_rating": 0,
