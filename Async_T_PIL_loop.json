@@ -27003,8 +27003,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "12",
-      "votes": "12",
+      "rating": "13",
+      "votes": "13",
       "parent": null,
       "id": "1002112281",
       "detailed_rating": {
@@ -27056,12 +27056,16 @@
             [
                "6082642",
                1617120000
+            ],
+            [
+               "5544112",
+               1739367529
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 12,
-      "justified_votes": 12
+      "justified_rating": 13,
+      "justified_votes": 13
    },
    "1584365952": {
       "title": "SCP-7000-J",
