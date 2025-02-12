@@ -136016,8 +136016,8 @@
          "_licensebox"
       ],
       "comments": "0",
-      "rating": "4",
-      "votes": "4",
+      "rating": "5",
+      "votes": "5",
       "parent": null,
       "id": "1453165997",
       "detailed_rating": {
@@ -136037,12 +136037,16 @@
             [
                "6952002",
                1712683480
+            ],
+            [
+               "5544112",
+               1739356228
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 4,
-      "justified_votes": 4
+      "justified_rating": 5,
+      "justified_votes": 5
    },
    "1712065871": {
       "title": "2024年愚人節",
