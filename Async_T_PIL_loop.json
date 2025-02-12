@@ -76007,8 +76007,8 @@
          "_licensebox"
       ],
       "comments": "1",
-      "rating": "9",
-      "votes": "9",
+      "rating": "10",
+      "votes": "10",
       "parent": null,
       "id": "1324319336",
       "detailed_rating": {
@@ -76048,12 +76048,16 @@
             [
                "8854072",
                1728131999
+            ],
+            [
+               "5544112",
+               1739318716
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 7,
-      "justified_votes": 7
+      "justified_rating": 8,
+      "justified_votes": 8
    },
    "1633556717": {
       "title": "SCP-2337 - 「斯潘科博士」",
