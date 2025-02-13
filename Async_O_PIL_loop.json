@@ -9948,8 +9948,8 @@
          "_info"
       ],
       "comments": "0",
-      "rating": "80",
-      "votes": "82",
+      "rating": "81",
+      "votes": "83",
       "parent": null,
       "id": "832673262",
       "detailed_rating": {
@@ -10277,6 +10277,10 @@
             [
                "4206567",
                1731922975
+            ],
+            [
+               "9447838",
+               1739457702
             ]
          ],
          "-": [
@@ -10287,8 +10291,8 @@
          ]
       },
       "deleted": false,
-      "justified_rating": 76,
-      "justified_votes": 78
+      "justified_rating": 77,
+      "justified_votes": 79
    },
    "1561980796": {
       "title": "SCP-ZH-199 - 中永和迷宮",
@@ -51147,8 +51151,8 @@
          "_威爾遜生物應對組-goi格式"
       ],
       "comments": "2",
-      "rating": "29",
-      "votes": "29",
+      "rating": "30",
+      "votes": "30",
       "parent": null,
       "id": "1267859415",
       "detailed_rating": {
@@ -51268,12 +51272,16 @@
             [
                "4206567",
                1734625018
+            ],
+            [
+               "9447838",
+               1739457702
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 29,
-      "justified_votes": 29
+      "justified_rating": 30,
+      "justified_votes": 30
    },
    "1599546675": {
       "title": "台灣鐵道飯店的安布羅斯餐廳",
@@ -88417,8 +88425,8 @@
          "_image"
       ],
       "comments": "3",
-      "rating": "42",
-      "votes": "42",
+      "rating": "43",
+      "votes": "43",
       "parent": "scp-zh-001",
       "id": "1331683018",
       "detailed_rating": {
@@ -88590,12 +88598,16 @@
             [
                "DELETED",
                1725302848
+            ],
+            [
+               "9447838",
+               1739457702
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 40,
-      "justified_votes": 40
+      "justified_rating": 41,
+      "justified_votes": 41
    },
    "1644753667": {
       "title": "Neviim.aic，攝於2022年2月",
@@ -144102,8 +144114,8 @@
          "_重新出發"
       ],
       "comments": "0",
-      "rating": "21",
-      "votes": "21",
+      "rating": "22",
+      "votes": "22",
       "parent": "radiw",
       "id": "1456960318",
       "detailed_rating": {
@@ -144191,12 +144203,16 @@
             [
                "8033564",
                1728140966
+            ],
+            [
+               "9447838",
+               1739457702
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 21,
-      "justified_votes": 21
+      "justified_rating": 22,
+      "justified_votes": 22
    },
    "1727854815": {
       "title": "SCP-ZH-375 - Site-ZH-47的末日",
