@@ -380,8 +380,8 @@
          "_image"
       ],
       "comments": "3",
-      "rating": "73",
-      "votes": "75",
+      "rating": "74",
+      "votes": "76",
       "parent": null,
       "id": "639422039",
       "detailed_rating": {
@@ -681,6 +681,10 @@
             [
                "8259679",
                1729879189
+            ],
+            [
+               "9447838",
+               1739457555
             ]
          ],
          "-": [
@@ -691,8 +695,8 @@
          ]
       },
       "deleted": false,
-      "justified_rating": 72,
-      "justified_votes": 72
+      "justified_rating": 73,
+      "justified_votes": 73
    },
    "1553001898": {
       "title": "UIU檔案：1952-003",
