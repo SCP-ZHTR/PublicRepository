@@ -36076,8 +36076,8 @@
          "_cc"
       ],
       "comments": "2",
-      "rating": "20",
-      "votes": "20",
+      "rating": "21",
+      "votes": "21",
       "parent": null,
       "id": "1024297195",
       "detailed_rating": {
@@ -36161,12 +36161,16 @@
             [
                "5817419",
                1617120000
+            ],
+            [
+               "7975483",
+               1739430895
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 20,
-      "justified_votes": 20
+      "justified_rating": 21,
+      "justified_votes": 21
    },
    "1586704239": {
       "title": "我在萬物之中",
