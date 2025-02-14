@@ -145873,8 +145873,8 @@
          "_希望"
       ],
       "comments": "0",
-      "rating": "7",
-      "votes": "7",
+      "rating": "8",
+      "votes": "8",
       "parent": null,
       "id": "1458374579",
       "detailed_rating": {
@@ -145906,12 +145906,16 @@
             [
                "7605593",
                1738994239
+            ],
+            [
+               "7064164",
+               1739547830
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 7,
-      "justified_votes": 7
+      "justified_rating": 8,
+      "justified_votes": 8
    },
    "1738919554": {
       "title": "SCP-ZH-797 - 破財消災",
