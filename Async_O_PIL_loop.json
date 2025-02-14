@@ -145610,8 +145610,8 @@
          "_絕望"
       ],
       "comments": "3",
-      "rating": "13",
-      "votes": "15",
+      "rating": "14",
+      "votes": "16",
       "parent": null,
       "id": "1458333535",
       "detailed_rating": {
@@ -145671,6 +145671,10 @@
             [
                "7486905",
                1739523439
+            ],
+            [
+               "9079426",
+               1739542474
             ]
          ],
          "-": [
@@ -145681,8 +145685,8 @@
          ]
       },
       "deleted": false,
-      "justified_rating": 13,
-      "justified_votes": 15
+      "justified_rating": 14,
+      "justified_votes": 16
    },
    "1738841506": {
       "title": "永久花",
@@ -145997,8 +146001,8 @@
          "_絕望"
       ],
       "comments": "0",
-      "rating": "8",
-      "votes": "8",
+      "rating": "9",
+      "votes": "9",
       "parent": null,
       "id": "1458377885",
       "detailed_rating": {
@@ -146034,12 +146038,16 @@
             [
                "9075244",
                1739276476
+            ],
+            [
+               "9079426",
+               1739542474
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 8,
-      "justified_votes": 8
+      "justified_rating": 9,
+      "justified_votes": 9
    },
    "1738921889": {
       "title": "重新編織乙太質以無效化綠型和藍型異常性質之嘗試",
@@ -146057,8 +146065,8 @@
          "_絕望"
       ],
       "comments": "1",
-      "rating": "10",
-      "votes": "10",
+      "rating": "11",
+      "votes": "11",
       "parent": null,
       "id": "1458378392",
       "detailed_rating": {
@@ -146102,12 +146110,16 @@
             [
                "5415046",
                1739532604
+            ],
+            [
+               "9079426",
+               1739542474
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 10,
-      "justified_votes": 10
+      "justified_rating": 11,
+      "justified_votes": 11
    },
    "1738930308": {
       "title": "SCP-ZH-386 - 廢紙堆下",
