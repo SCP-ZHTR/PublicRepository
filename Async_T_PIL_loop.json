@@ -66115,8 +66115,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "2",
-      "votes": "2",
+      "rating": "3",
+      "votes": "3",
       "parent": null,
       "id": "1311018313",
       "detailed_rating": {
@@ -66128,12 +66128,16 @@
             [
                "DELETED",
                1732964558
+            ],
+            [
+               "5544112",
+               1739509390
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 1,
-      "justified_votes": 1
+      "justified_rating": 2,
+      "justified_votes": 2
    },
    "1620736609": {
       "title": "新奇品種",
