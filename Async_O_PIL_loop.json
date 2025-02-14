@@ -145931,8 +145931,8 @@
          "_希望"
       ],
       "comments": "3",
-      "rating": "11",
-      "votes": "11",
+      "rating": "12",
+      "votes": "12",
       "parent": null,
       "id": "1458377607",
       "detailed_rating": {
@@ -145980,12 +145980,16 @@
             [
                "9079426",
                1739542626
+            ],
+            [
+               "7064164",
+               1739547677
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 11,
-      "justified_votes": 11
+      "justified_rating": 12,
+      "justified_votes": 12
    },
    "1738920600": {
       "title": "SCP-ZH-558 - 裂紙大逆",
