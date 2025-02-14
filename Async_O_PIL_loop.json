@@ -145911,8 +145911,8 @@
          "_希望"
       ],
       "comments": "3",
-      "rating": "9",
-      "votes": "9",
+      "rating": "10",
+      "votes": "10",
       "parent": null,
       "id": "1458377607",
       "detailed_rating": {
@@ -145952,12 +145952,16 @@
             [
                "6503482",
                1739198792
+            ],
+            [
+               "7486905",
+               1739522799
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 9,
-      "justified_votes": 9
+      "justified_rating": 10,
+      "justified_votes": 10
    },
    "1738920600": {
       "title": "SCP-ZH-558 - 裂紙大逆",
@@ -146104,8 +146108,8 @@
          "_絕望"
       ],
       "comments": "0",
-      "rating": "11",
-      "votes": "11",
+      "rating": "12",
+      "votes": "12",
       "parent": null,
       "id": "1458379333",
       "detailed_rating": {
@@ -146153,12 +146157,16 @@
             [
                "6503482",
                1739199082
+            ],
+            [
+               "7486905",
+               1739522799
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 11,
-      "justified_votes": 11
+      "justified_rating": 12,
+      "justified_votes": 12
    },
    "1738930903": {
       "title": "SCP-ZH-778 - 局內人模擬器",
