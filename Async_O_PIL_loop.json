@@ -146025,8 +146025,8 @@
          "_絕望"
       ],
       "comments": "0",
-      "rating": "9",
-      "votes": "9",
+      "rating": "10",
+      "votes": "10",
       "parent": null,
       "id": "1458377885",
       "detailed_rating": {
@@ -146066,12 +146066,16 @@
             [
                "9079426",
                1739542474
+            ],
+            [
+               "4990678",
+               1739619448
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 9,
-      "justified_votes": 9
+      "justified_rating": 10,
+      "justified_votes": 10
    },
    "1738921889": {
       "title": "重新編織乙太質以無效化綠型和藍型異常性質之嘗試",
@@ -146089,8 +146093,8 @@
          "_絕望"
       ],
       "comments": "1",
-      "rating": "11",
-      "votes": "11",
+      "rating": "12",
+      "votes": "12",
       "parent": null,
       "id": "1458378392",
       "detailed_rating": {
@@ -146138,12 +146142,16 @@
             [
                "9079426",
                1739542474
+            ],
+            [
+               "4990678",
+               1739619448
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 11,
-      "justified_votes": 11
+      "justified_rating": 12,
+      "justified_votes": 12
    },
    "1738930308": {
       "title": "SCP-ZH-386 - 廢紙堆下",
