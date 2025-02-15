@@ -145610,8 +145610,8 @@
          "_絕望"
       ],
       "comments": "3",
-      "rating": "14",
-      "votes": "16",
+      "rating": "15",
+      "votes": "17",
       "parent": null,
       "id": "1458333535",
       "detailed_rating": {
@@ -145675,6 +145675,10 @@
             [
                "9079426",
                1739542474
+            ],
+            [
+               "5327537",
+               1739629919
             ]
          ],
          "-": [
@@ -145685,8 +145689,8 @@
          ]
       },
       "deleted": false,
-      "justified_rating": 14,
-      "justified_votes": 16
+      "justified_rating": 15,
+      "justified_votes": 17
    },
    "1738841506": {
       "title": "永久花",
