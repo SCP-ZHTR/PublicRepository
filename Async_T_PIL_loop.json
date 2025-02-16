@@ -23385,8 +23385,8 @@
          "_cc"
       ],
       "comments": "2",
-      "rating": "40",
-      "votes": "40",
+      "rating": "41",
+      "votes": "41",
       "parent": null,
       "id": "988784884",
       "detailed_rating": {
@@ -23550,12 +23550,16 @@
             [
                "5544112",
                1738998292
+            ],
+            [
+               "8319365",
+               1739717401
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 40,
-      "justified_votes": 40
+      "justified_rating": 41,
+      "justified_votes": 41
    },
    "1582045044": {
       "title": "SCP-ES-157",
