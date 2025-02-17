@@ -24389,8 +24389,8 @@
          "_cc"
       ],
       "comments": "0",
-      "rating": "9",
-      "votes": "9",
+      "rating": "10",
+      "votes": "10",
       "parent": null,
       "id": "998680728",
       "detailed_rating": {
@@ -24430,12 +24430,16 @@
             [
                "6690335",
                1617120000
+            ],
+            [
+               "5544112",
+               1739780111
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 9,
-      "justified_votes": 9
+      "justified_rating": 10,
+      "justified_votes": 10
    },
    "1582538171": {
       "title": "SCP-5998 - 人類，揚升",
