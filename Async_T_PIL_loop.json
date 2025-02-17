@@ -141446,8 +141446,8 @@
       ],
       "hidden_tags": [],
       "comments": "4",
-      "rating": "3",
-      "votes": "3",
+      "rating": "4",
+      "votes": "4",
       "parent": null,
       "id": "1456444138",
       "detailed_rating": {
@@ -141463,12 +141463,16 @@
             [
                "8452537",
                1724416802
+            ],
+            [
+               "9079426",
+               1739789162
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 3,
-      "justified_votes": 3
+      "justified_rating": 4,
+      "justified_votes": 4
    },
    "1724146937": {
       "title": "SCP-1788 - 成人",
