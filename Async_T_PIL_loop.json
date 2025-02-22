@@ -114072,8 +114072,8 @@
          "_licensebox"
       ],
       "comments": "0",
-      "rating": "7",
-      "votes": "7",
+      "rating": "8",
+      "votes": "8",
       "parent": null,
       "id": "1446260963",
       "detailed_rating": {
@@ -114105,12 +114105,16 @@
             [
                "DELETED",
                1717821658
+            ],
+            [
+               "8319365",
+               1740186487
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 6,
-      "justified_votes": 6
+      "justified_rating": 7,
+      "justified_votes": 7
    },
    "1676784721": {
       "title": "SCP-268 - 忽視之帽",
