@@ -95196,8 +95196,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "8",
-      "votes": "8",
+      "rating": "9",
+      "votes": "9",
       "parent": null,
       "id": "1403631344",
       "detailed_rating": {
@@ -95233,12 +95233,16 @@
             [
                "7064164",
                1739104244
+            ],
+            [
+               "5981123",
+               1740512607
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 8,
-      "justified_votes": 8
+      "justified_rating": 9,
+      "justified_votes": 9
    },
    "1655728116": {
       "title": "SCP-5524 - 不饜語義",
