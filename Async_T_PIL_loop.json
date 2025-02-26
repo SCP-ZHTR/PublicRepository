@@ -31401,8 +31401,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "3",
-      "votes": "3",
+      "rating": "4",
+      "votes": "4",
       "parent": null,
       "id": "1024189313",
       "detailed_rating": {
@@ -31418,12 +31418,16 @@
             [
                "4128767",
                1617120000
+            ],
+            [
+               "8319365",
+               1740580861
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 3,
-      "justified_votes": 3
+      "justified_rating": 4,
+      "justified_votes": 4
    },
    "1586015041": {
       "title": "Are We Christmas Yet？",
@@ -55404,8 +55408,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "7",
-      "votes": "7",
+      "rating": "8",
+      "votes": "8",
       "parent": null,
       "id": "1306555302",
       "detailed_rating": {
@@ -55437,12 +55441,16 @@
             [
                "6678442",
                1617120000
+            ],
+            [
+               "8319365",
+               1740580861
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 7,
-      "justified_votes": 7
+      "justified_rating": 8,
+      "justified_votes": 8
    },
    "1610861985": {
       "title": "SCP-PL-貓-J",
