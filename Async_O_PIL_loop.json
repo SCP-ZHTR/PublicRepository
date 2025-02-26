@@ -13404,8 +13404,8 @@
          "_info"
       ],
       "comments": "0",
-      "rating": "13",
-      "votes": "13",
+      "rating": "14",
+      "votes": "14",
       "parent": null,
       "id": "849400333",
       "detailed_rating": {
@@ -13461,12 +13461,16 @@
             [
                "5981123",
                1718519432
+            ],
+            [
+               "8418020",
+               1740551201
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 11,
-      "justified_votes": 11
+      "justified_rating": 12,
+      "justified_votes": 12
    },
    "1564584158": {
       "title": "一次興衰",
