@@ -43706,8 +43706,8 @@
          "_禁黑"
       ],
       "comments": "2",
-      "rating": "24",
-      "votes": "24",
+      "rating": "25",
+      "votes": "25",
       "parent": null,
       "id": "1263411017",
       "detailed_rating": {
@@ -43807,12 +43807,16 @@
             [
                "4351112",
                1617120000
+            ],
+            [
+               "8418020",
+               1740560581
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 24,
-      "justified_votes": 24
+      "justified_rating": 25,
+      "justified_votes": 25
    },
    "1598160967": {
       "title": "The “F” 10月號",
