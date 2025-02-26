@@ -19221,8 +19221,8 @@
          "_info"
       ],
       "comments": "1",
-      "rating": "12",
-      "votes": "12",
+      "rating": "13",
+      "votes": "13",
       "parent": null,
       "id": "924563819",
       "detailed_rating": {
@@ -19274,12 +19274,16 @@
             [
                "5415046",
                1617120000
+            ],
+            [
+               "8418020",
+               1740553699
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 12,
-      "justified_votes": 12
+      "justified_rating": 13,
+      "justified_votes": 13
    },
    "1572274996": {
       "title": "SCP-ZH-100",
