@@ -78795,8 +78795,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "11",
-      "votes": "11",
+      "rating": "12",
+      "votes": "12",
       "parent": null,
       "id": "1316864562",
       "detailed_rating": {
@@ -78844,12 +78844,16 @@
             [
                "DELETED",
                1695270804
+            ],
+            [
+               "8418020",
+               1740556047
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 10,
-      "justified_votes": 10
+      "justified_rating": 11,
+      "justified_votes": 11
    },
    "1629481091": {
       "title": "赤染櫻",
