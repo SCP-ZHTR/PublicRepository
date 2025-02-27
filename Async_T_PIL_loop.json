@@ -145091,5 +145091,43 @@
       "deleted": false,
       "justified_rating": 3,
       "justified_votes": 3
+   },
+   "1740657895": {
+      "title": "SCP-8980 - 工作恐懼症：無可感荷",
+      "fullname": "scp-8980",
+      "created_at": "1740657895",
+      "created_by": "6088232",
+      "tags": [
+         "bureaucracy",
+         "director-graham",
+         "en",
+         "euclid",
+         "odongo-tejani",
+         "scp",
+         "spook-nico-2024-unofficial",
+         "人形",
+         "倫理委員會",
+         "心理恐怖",
+         "恐怖",
+         "恐懼症驚選集",
+         "悲戚",
+         "智能",
+         "活物",
+         "深井目錄",
+         "火勢遏阻部",
+         "翻譯",
+         "電力",
+         "電腦"
+      ],
+      "hidden_tags": [],
+      "comments": "1",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1458609080",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
