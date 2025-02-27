@@ -30594,5 +30594,22 @@
       "deleted": false,
       "justified_rating": 0,
       "justified_votes": 0
+   },
+   "1740658037": {
+      "title": "fragment:scp-8980-1",
+      "fullname": "fragment:scp-8980-1",
+      "created_at": "1740658037",
+      "created_by": "6088232",
+      "tags": [],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": "scp-8980",
+      "id": "1458609083",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
