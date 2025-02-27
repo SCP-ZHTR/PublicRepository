@@ -30600,7 +30600,9 @@
       "fullname": "fragment:scp-8980-1",
       "created_at": "1740658037",
       "created_by": "6088232",
-      "tags": [],
+      "tags": [
+         "段落"
+      ],
       "hidden_tags": [],
       "comments": "0",
       "rating": "0",
@@ -30617,7 +30619,9 @@
       "fullname": "fragment:scp-8980-2",
       "created_at": "1740658175",
       "created_by": "6088232",
-      "tags": [],
+      "tags": [
+         "段落"
+      ],
       "hidden_tags": [],
       "comments": "0",
       "rating": "0",
