@@ -145122,9 +145122,9 @@
          "電腦"
       ],
       "hidden_tags": [],
-      "comments": "3",
-      "rating": "6",
-      "votes": "6",
+      "comments": "4",
+      "rating": "7",
+      "votes": "7",
       "parent": "scp-anthology-2024",
       "id": "1458609080",
       "detailed_rating": {
@@ -145152,11 +145152,15 @@
             [
                "8846720",
                1740724600
+            ],
+            [
+               "9075244",
+               1740733942
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 6,
-      "justified_votes": 6
+      "justified_rating": 7,
+      "justified_votes": 7
    }
 }
