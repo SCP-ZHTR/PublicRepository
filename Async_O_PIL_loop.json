@@ -12828,8 +12828,8 @@
          "_零號專隊-goi格式"
       ],
       "comments": "0",
-      "rating": "10",
-      "votes": "10",
+      "rating": "11",
+      "votes": "11",
       "parent": null,
       "id": "846789219",
       "detailed_rating": {
@@ -12873,12 +12873,16 @@
             [
                "DELETED",
                "[UNKNOWN]"
+            ],
+            [
+               "8418020",
+               1740733034
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 9,
-      "justified_votes": 9
+      "justified_rating": 10,
+      "justified_votes": 10
    },
    "1563891711": {
       "title": "洗衣部門",
@@ -13361,8 +13365,8 @@
          "_零號專隊-goi格式"
       ],
       "comments": "0",
-      "rating": "4",
-      "votes": "4",
+      "rating": "5",
+      "votes": "5",
       "parent": null,
       "id": "849206150",
       "detailed_rating": {
@@ -13382,12 +13386,16 @@
             [
                "5415046",
                1617120000
+            ],
+            [
+               "8418020",
+               1740733034
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 4,
-      "justified_votes": 4
+      "justified_rating": 5,
+      "justified_votes": 5
    },
    "1564506236": {
       "title": "皇家香港警察隊零號專隊 中心頁",
