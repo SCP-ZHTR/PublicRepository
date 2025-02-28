@@ -17697,8 +17697,8 @@
          "_info"
       ],
       "comments": "8",
-      "rating": "38",
-      "votes": "38",
+      "rating": "39",
+      "votes": "39",
       "parent": null,
       "id": "906030138",
       "detailed_rating": {
@@ -17854,12 +17854,16 @@
             [
                "7513990",
                1729434822
+            ],
+            [
+               "8418020",
+               1740723766
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 37,
-      "justified_votes": 37
+      "justified_rating": 38,
+      "justified_votes": 38
    },
    "1569155808": {
       "title": "有關批准開發從基準世界連接至異常空間水管之申請",
