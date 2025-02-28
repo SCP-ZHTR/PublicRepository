@@ -7998,8 +7998,8 @@
          "_cc"
       ],
       "comments": "1",
-      "rating": "4",
-      "votes": "4",
+      "rating": "5",
+      "votes": "5",
       "parent": null,
       "id": "795301008",
       "detailed_rating": {
@@ -8019,12 +8019,16 @@
             [
                "5225164",
                1617120000
+            ],
+            [
+               "9079426",
+               1740735641
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 4,
-      "justified_votes": 4
+      "justified_rating": 5,
+      "justified_votes": 5
    },
    "1557986987": {
       "title": "控制",
