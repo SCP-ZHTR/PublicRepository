@@ -18114,8 +18114,8 @@
          "_cc"
       ],
       "comments": "1",
-      "rating": "5",
-      "votes": "5",
+      "rating": "6",
+      "votes": "6",
       "parent": null,
       "id": "863672920",
       "detailed_rating": {
@@ -18139,12 +18139,16 @@
             [
                "5415046",
                1617120000
+            ],
+            [
+               "5544112",
+               1740810482
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 5,
-      "justified_votes": 5
+      "justified_rating": 6,
+      "justified_votes": 6
    },
    "1567160363": {
       "title": "歡迎來到 SCP 基金會！",
