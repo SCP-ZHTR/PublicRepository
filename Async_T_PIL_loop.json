@@ -145131,8 +145131,8 @@
       ],
       "hidden_tags": [],
       "comments": "4",
-      "rating": "7",
-      "votes": "7",
+      "rating": "8",
+      "votes": "8",
       "parent": "scp-anthology-2024",
       "id": "1458609080",
       "detailed_rating": {
@@ -145164,11 +145164,15 @@
             [
                "9075244",
                1740733942
+            ],
+            [
+               "5370805",
+               1740794584
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 7,
-      "justified_votes": 7
+      "justified_rating": 8,
+      "justified_votes": 8
    }
 }
