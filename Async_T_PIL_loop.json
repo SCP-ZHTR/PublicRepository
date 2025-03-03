@@ -145022,10 +145022,12 @@
          "翻譯",
          "諜報"
       ],
-      "hidden_tags": [],
+      "hidden_tags": [
+         "_禁黑"
+      ],
       "comments": "0",
-      "rating": "1",
-      "votes": "1",
+      "rating": "2",
+      "votes": "2",
       "parent": null,
       "id": "1458417320",
       "detailed_rating": {
@@ -145033,12 +145035,16 @@
             [
                "8452537",
                1739285647
+            ],
+            [
+               "4990678",
+               1741012167
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 1,
-      "justified_votes": 1
+      "justified_rating": 2,
+      "justified_votes": 2
    },
    "1739285502": {
       "title": "『怪獸魚子醬』（OCN39/T5FG6/7HJL2）",
