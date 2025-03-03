@@ -144111,8 +144111,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "1",
-      "votes": "1",
+      "rating": "2",
+      "votes": "2",
       "parent": null,
       "id": "1457429326",
       "detailed_rating": {
@@ -144120,12 +144120,16 @@
             [
                "7064164",
                1732445344
+            ],
+            [
+               "9447838",
+               1741017335
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 1,
-      "justified_votes": 1
+      "justified_rating": 2,
+      "justified_votes": 2
    },
    "1732541470": {
       "title": "SCP-8217 - 傷口恐懼症：他們承擔總比我們承擔好",
