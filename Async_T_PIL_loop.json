@@ -142134,8 +142134,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "12",
-      "votes": "12",
+      "rating": "13",
+      "votes": "13",
       "parent": null,
       "id": "1456729411",
       "detailed_rating": {
@@ -142187,12 +142187,16 @@
             [
                "7504530",
                1727548646
+            ],
+            [
+               "9447838",
+               1741017188
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 12,
-      "justified_votes": 12
+      "justified_rating": 13,
+      "justified_votes": 13
    },
    "1726243165": {
       "title": "午夜遊行",
@@ -143463,8 +143467,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "8",
-      "votes": "8",
+      "rating": "9",
+      "votes": "9",
       "parent": null,
       "id": "1457289988",
       "detailed_rating": {
@@ -143500,12 +143504,16 @@
             [
                "7476471",
                1738591664
+            ],
+            [
+               "9447838",
+               1741017188
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 8,
-      "justified_votes": 8
+      "justified_rating": 9,
+      "justified_votes": 9
    },
    "1730896090": {
       "title": "SCP-8654 - 高處恐懼症：上即是下",
