@@ -145441,8 +145441,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "11",
-      "votes": "11",
+      "rating": "12",
+      "votes": "12",
       "parent": null,
       "id": "1458184550",
       "detailed_rating": {
@@ -145490,12 +145490,16 @@
             [
                "5981123",
                1740513442
+            ],
+            [
+               "8536616",
+               1741134566
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 11,
-      "justified_votes": 11
+      "justified_rating": 12,
+      "justified_votes": 12
    },
    "1736458125": {
       "title": "2025冬季競賽《絕望與希望》",
