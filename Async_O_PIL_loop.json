@@ -82612,8 +82612,8 @@
          "_cc"
       ],
       "comments": "5",
-      "rating": "17",
-      "votes": "17",
+      "rating": "18",
+      "votes": "18",
       "parent": null,
       "id": "1329972903",
       "detailed_rating": {
@@ -82685,12 +82685,16 @@
             [
                "6152598",
                1737968536
+            ],
+            [
+               "9555530",
+               1741296534
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 16,
-      "justified_votes": 16
+      "justified_rating": 17,
+      "justified_votes": 17
    },
    "1636552793": {
       "title": "布魯克林第零區：天堂",
