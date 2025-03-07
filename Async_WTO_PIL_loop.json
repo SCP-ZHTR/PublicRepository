@@ -17731,5 +17731,22 @@
       "deleted": true,
       "justified_rating": 0,
       "justified_votes": 0
+   },
+   "1741328339": {
+      "title": "SCP-1730 Site-13 出了什麼事",
+      "fullname": "scp-1730",
+      "created_at": "1741328339",
+      "created_by": "5415046",
+      "tags": [],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1458665581",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
