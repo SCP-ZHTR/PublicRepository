@@ -125407,8 +125407,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "20",
-      "votes": "20",
+      "rating": "21",
+      "votes": "21",
       "parent": null,
       "id": "1450991492",
       "detailed_rating": {
@@ -125492,12 +125492,16 @@
             [
                "5338547",
                1698377312
+            ],
+            [
+               "8394471",
+               1741363397
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 20,
-      "justified_votes": 20
+      "justified_rating": 21,
+      "justified_votes": 21
    },
    "1698333844": {
       "title": "SCP-ZH-838 - 謝幕",
