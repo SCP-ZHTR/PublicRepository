@@ -74206,8 +74206,11 @@
       "tags": [
          "en",
          "goc檔案",
+         "世界觀建設",
          "全球超自然聯盟",
+         "奇幻",
          "故事",
+         "科幻",
          "翻譯"
       ],
       "hidden_tags": [],
@@ -90905,8 +90908,11 @@
       "tags": [
          "en",
          "goc檔案",
+         "世界觀建設",
          "全球超自然聯盟",
+         "奇幻",
          "故事",
+         "科幻",
          "翻譯"
       ],
       "hidden_tags": [],
@@ -145327,5 +145333,31 @@
       "deleted": false,
       "justified_rating": 7,
       "justified_votes": 7
+   },
+   "1741524013": {
+      "title": "結論和問與答逐字稿　講者：████████████教授",
+      "fullname": "goc-supplemental-qandq",
+      "created_at": "1741524013",
+      "created_by": "7504530",
+      "tags": [
+         "en",
+         "goc檔案",
+         "世界觀建設",
+         "全球超自然聯盟",
+         "奇幻",
+         "故事",
+         "科幻",
+         "翻譯"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1458684332",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
