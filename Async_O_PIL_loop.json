@@ -146533,8 +146533,8 @@
       ],
       "hidden_tags": [],
       "comments": "2",
-      "rating": "3",
-      "votes": "3",
+      "rating": "4",
+      "votes": "4",
       "parent": "scpdeclassified",
       "id": "1458688171",
       "detailed_rating": {
@@ -146550,11 +146550,15 @@
             [
                "9437829",
                1741601310
+            ],
+            [
+               "8452537",
+               1741632985
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 3,
-      "justified_votes": 3
+      "justified_rating": 4,
+      "justified_votes": 4
    }
 }
