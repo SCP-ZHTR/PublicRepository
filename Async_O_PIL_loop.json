@@ -146532,9 +146532,9 @@
          "用戶解密"
       ],
       "hidden_tags": [],
-      "comments": "1",
-      "rating": "2",
-      "votes": "2",
+      "comments": "2",
+      "rating": "3",
+      "votes": "3",
       "parent": "scpdeclassified",
       "id": "1458688171",
       "detailed_rating": {
@@ -146546,11 +146546,15 @@
             [
                "7073060",
                1741591169
+            ],
+            [
+               "9437829",
+               1741601310
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 2,
-      "justified_votes": 2
+      "justified_rating": 3,
+      "justified_votes": 3
    }
 }
