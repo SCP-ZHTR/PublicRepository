@@ -25336,8 +25336,8 @@
       ],
       "hidden_tags": [],
       "comments": "47",
-      "rating": "72",
-      "votes": "74",
+      "rating": "73",
+      "votes": "75",
       "parent": null,
       "id": "630645654",
       "detailed_rating": {
@@ -25633,6 +25633,10 @@
             [
                "8697665",
                1737191054
+            ],
+            [
+               "9335666",
+               1741694937
             ]
          ],
          "-": [
@@ -25643,8 +25647,8 @@
          ]
       },
       "deleted": false,
-      "justified_rating": 68,
-      "justified_votes": 70
+      "justified_rating": 69,
+      "justified_votes": 71
    },
    "1551955249_630645655": {
       "title": "討論區各分類",
