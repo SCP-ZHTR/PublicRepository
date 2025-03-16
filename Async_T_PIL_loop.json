@@ -109313,16 +109313,12 @@
          "_licensebox"
       ],
       "comments": "0",
-      "rating": "4",
-      "votes": "4",
+      "rating": "5",
+      "votes": "5",
       "parent": null,
       "id": "1444659328",
       "detailed_rating": {
          "+": [
-            [
-               "7469850",
-               1672588800
-            ],
             [
                "7605593",
                1671984000
@@ -109334,6 +109330,14 @@
             [
                "5435485",
                1672156800
+            ],
+            [
+               "7724052",
+               1742112097
+            ],
+            [
+               "DELETED",
+               1742112097
             ]
          ]
       },
@@ -145131,8 +145135,8 @@
          "_禁黑"
       ],
       "comments": "0",
-      "rating": "4",
-      "votes": "4",
+      "rating": "5",
+      "votes": "5",
       "parent": null,
       "id": "1458500002",
       "detailed_rating": {
@@ -145152,12 +145156,16 @@
             [
                "6048746",
                1741107177
+            ],
+            [
+               "7724052",
+               1742112097
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 4,
-      "justified_votes": 4
+      "justified_rating": 5,
+      "justified_votes": 5
    },
    "1740657895": {
       "title": "SCP-8980 - 工作恐懼症：無可感荷",
