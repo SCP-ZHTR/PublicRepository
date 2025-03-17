@@ -12339,8 +12339,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "12",
-      "votes": "12",
+      "rating": "13",
+      "votes": "13",
       "parent": "guide-hub",
       "id": "806917228",
       "detailed_rating": {
@@ -12392,12 +12392,16 @@
             [
                "5225164",
                1617120000
+            ],
+            [
+               "9075244",
+               1742178846
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 12,
-      "justified_votes": 12
+      "justified_rating": 13,
+      "justified_votes": 13
    },
    "1560698313": {
       "title": "SCP-4930 - 列儂/麥卡特尼",
