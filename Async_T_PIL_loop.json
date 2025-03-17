@@ -145445,5 +145445,34 @@
       "deleted": false,
       "justified_rating": 2,
       "justified_votes": 2
+   },
+   "1742220891": {
+      "title": "███-3955 - 八音符",
+      "fullname": "scp-3955",
+      "created_at": "1742220891",
+      "created_by": "5370805",
+      "tags": [
+         "apollyon",
+         "en",
+         "en-交換藝術",
+         "meta",
+         "scp",
+         "時間影響",
+         "翻譯",
+         "誤傳部",
+         "電腦",
+         "音樂性",
+         "音頻"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1458730234",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
