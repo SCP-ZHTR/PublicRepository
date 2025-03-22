@@ -144434,8 +144434,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "7",
-      "votes": "7",
+      "rating": "8",
+      "votes": "8",
       "parent": null,
       "id": "1456969436",
       "detailed_rating": {
@@ -144467,12 +144467,16 @@
             [
                "7655555",
                1727971597
+            ],
+            [
+               "8846720",
+               1742654530
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 7,
-      "justified_votes": 7
+      "justified_rating": 8,
+      "justified_votes": 8
    },
    "1727970820": {
       "title": "項目檔案圖像紀錄：「Site-ZH-47」",
