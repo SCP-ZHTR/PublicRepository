@@ -30772,5 +30772,22 @@
       "deleted": false,
       "justified_rating": 0,
       "justified_votes": 0
+   },
+   "1742824787": {
+      "title": "Front Page Artist Showcase",
+      "fullname": "fragment:front-page-artist-showcase",
+      "created_at": "1742824787",
+      "created_by": "5415046",
+      "tags": [],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1458784238",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
