@@ -145530,5 +145530,38 @@
       "deleted": false,
       "justified_rating": 2,
       "justified_votes": 2
+   },
+   "1743084514": {
+      "title": "SCP-2332 - 思想傳遞者",
+      "fullname": "scp-2332",
+      "created_at": "1743084514",
+      "created_by": "7504530",
+      "tags": [
+         "en",
+         "euclid",
+         "scp",
+         "光照影響",
+         "動物",
+         "昆蟲",
+         "智能",
+         "活物",
+         "知識",
+         "空中",
+         "翻譯",
+         "蝴蝶",
+         "超維度",
+         "電磁",
+         "馬克．桐生"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1459023154",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
