@@ -35233,8 +35233,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "8",
-      "votes": "8",
+      "rating": "9",
+      "votes": "9",
       "parent": null,
       "id": "1035140851",
       "detailed_rating": {
@@ -35270,12 +35270,16 @@
             [
                "6980791",
                1617120000
+            ],
+            [
+               "6647056",
+               1743246626
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 8,
-      "justified_votes": 8
+      "justified_rating": 9,
+      "justified_votes": 9
    },
    "1588579198": {
       "title": "SCP-939 - 引渡他聲",
