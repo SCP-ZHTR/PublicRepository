@@ -10316,8 +10316,8 @@
          "_info"
       ],
       "comments": "8",
-      "rating": "24",
-      "votes": "24",
+      "rating": "25",
+      "votes": "25",
       "parent": null,
       "id": "832674072",
       "detailed_rating": {
@@ -10417,12 +10417,16 @@
             [
                "DELETED",
                "[UNKNOWN]"
+            ],
+            [
+               "5483179",
+               1743416810
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 23,
-      "justified_votes": 23
+      "justified_rating": 24,
+      "justified_votes": 24
    },
    "1561996393": {
       "title": "SCP-ZH-006 - 真正意義上的爆米花",
