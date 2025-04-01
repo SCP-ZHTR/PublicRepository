@@ -116273,8 +116273,8 @@
          "_licensebox"
       ],
       "comments": "0",
-      "rating": "8",
-      "votes": "8",
+      "rating": "9",
+      "votes": "9",
       "parent": null,
       "id": "1446727692",
       "detailed_rating": {
@@ -116310,12 +116310,16 @@
             [
                "DELETED",
                1693562046
+            ],
+            [
+               "9447838",
+               1743492968
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 7,
-      "justified_votes": 7
+      "justified_rating": 8,
+      "justified_votes": 8
    },
    "1679053047": {
       "title": "SCP-1203 - 銜尾蛇",
