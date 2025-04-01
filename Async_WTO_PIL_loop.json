@@ -17816,8 +17816,8 @@
       "tags": [],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "3",
-      "votes": "3",
+      "rating": "4",
+      "votes": "4",
       "parent": null,
       "id": "1459052537",
       "detailed_rating": {
@@ -17833,11 +17833,15 @@
             [
                "8883612",
                1743470880
+            ],
+            [
+               "7504530",
+               1743481353
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 3,
-      "justified_votes": 3
+      "justified_rating": 4,
+      "justified_votes": 4
    }
 }
