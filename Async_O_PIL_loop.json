@@ -146646,5 +146646,30 @@
       "deleted": false,
       "justified_rating": 6,
       "justified_votes": 6
+   },
+   "1743416842": {
+      "title": "茶嶺警署專隊卷宗：E-927",
+      "fullname": "e-927",
+      "created_at": "1743416842",
+      "created_by": "8418020",
+      "tags": [
+         "goi格式",
+         "全球超自然聯盟",
+         "原創",
+         "新茶嶺",
+         "極冷戰",
+         "英國神秘情報局",
+         "零號專隊"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1459050253",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
