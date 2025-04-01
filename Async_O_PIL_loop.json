@@ -118818,8 +118818,8 @@
       ],
       "hidden_tags": [],
       "comments": "2",
-      "rating": "-1",
-      "votes": "13",
+      "rating": "-2",
+      "votes": "14",
       "parent": null,
       "id": "1449212130",
       "detailed_rating": {
@@ -118877,12 +118877,16 @@
             [
                "8982806",
                1738291304
+            ],
+            [
+               "3981670",
+               1743513593
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": -1,
-      "justified_votes": 13
+      "justified_rating": -2,
+      "justified_votes": 14
    },
    "1690729287": {
       "title": "SCP-ZH-662 - 食人瑪瑙",
