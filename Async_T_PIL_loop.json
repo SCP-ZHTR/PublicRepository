@@ -145535,8 +145535,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "2",
-      "votes": "2",
+      "rating": "3",
+      "votes": "3",
       "parent": null,
       "id": "1459020197",
       "detailed_rating": {
@@ -145548,12 +145548,16 @@
             [
                "4990678",
                1743038035
+            ],
+            [
+               "9447838",
+               1743494627
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 2,
-      "justified_votes": 2
+      "justified_rating": 3,
+      "justified_votes": 3
    },
    "1743084514": {
       "title": "SCP-2332 - 思想傳遞者",
