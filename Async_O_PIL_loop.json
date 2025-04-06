@@ -74849,8 +74849,8 @@
          "_cc"
       ],
       "comments": "2",
-      "rating": "28",
-      "votes": "28",
+      "rating": "29",
+      "votes": "29",
       "parent": null,
       "id": "1312335999",
       "detailed_rating": {
@@ -74966,12 +74966,16 @@
             [
                "DELETED",
                1725868703
+            ],
+            [
+               "5981123",
+               1743951675
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 26,
-      "justified_votes": 26
+      "justified_rating": 27,
+      "justified_votes": 27
    },
    "1626012403": {
       "title": "Ctrl Z博士的鉛筆塗鴉",
