@@ -69284,8 +69284,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "30",
-      "votes": "30",
+      "rating": "31",
+      "votes": "31",
       "parent": null,
       "id": "1310909645",
       "detailed_rating": {
@@ -69409,12 +69409,16 @@
             [
                "8546930",
                1733582311
+            ],
+            [
+               "5981123",
+               1743954024
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 29,
-      "justified_votes": 29
+      "justified_rating": 30,
+      "justified_votes": 30
    },
    "1619600860": {
       "title": "行動代號：0428突襲計畫",
