@@ -146796,5 +146796,25 @@
       "deleted": false,
       "justified_rating": 12,
       "justified_votes": 12
+   },
+   "1743983629": {
+      "title": "助理日誌7795",
+      "fullname": "assistantlog7795",
+      "created_at": "1743983629",
+      "created_by": "8279761",
+      "tags": [
+         "原創",
+         "故事"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1459109746",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
