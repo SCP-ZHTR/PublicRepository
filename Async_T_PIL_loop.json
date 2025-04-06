@@ -1132,8 +1132,8 @@
          "_info"
       ],
       "comments": "0",
-      "rating": "12",
-      "votes": "12",
+      "rating": "13",
+      "votes": "13",
       "parent": null,
       "id": "649844060",
       "detailed_rating": {
@@ -1185,12 +1185,16 @@
             [
                "5013754",
                1617120000
+            ],
+            [
+               "5981123",
+               1743954166
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 12,
-      "justified_votes": 12
+      "justified_rating": 13,
+      "justified_votes": 13
    },
    "1553560615": {
       "title": "網站守則",
