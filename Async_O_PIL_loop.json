@@ -75211,8 +75211,8 @@
          "_image"
       ],
       "comments": "4",
-      "rating": "18",
-      "votes": "18",
+      "rating": "19",
+      "votes": "19",
       "parent": "scpdeclassified",
       "id": "1312339925",
       "detailed_rating": {
@@ -75288,12 +75288,16 @@
             [
                "DELETED",
                1725868703
+            ],
+            [
+               "5981123",
+               1743951954
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 16,
-      "justified_votes": 16
+      "justified_rating": 17,
+      "justified_votes": 17
    },
    "1626086883": {
       "title": "SCP-ZH-339 - 避風港",
