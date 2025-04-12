@@ -123468,8 +123468,8 @@
          "_cc"
       ],
       "comments": "0",
-      "rating": "4",
-      "votes": "4",
+      "rating": "5",
+      "votes": "5",
       "parent": null,
       "id": "1448648300",
       "detailed_rating": {
@@ -123489,12 +123489,16 @@
             [
                "5435485",
                1687877630
+            ],
+            [
+               "9083658",
+               1744466376
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 4,
-      "justified_votes": 4
+      "justified_rating": 5,
+      "justified_votes": 5
    },
    "1687920893": {
       "title": "德文分部關注組織",
@@ -140372,8 +140376,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "1",
-      "votes": "1",
+      "rating": "2",
+      "votes": "2",
       "parent": null,
       "id": "1455938710",
       "detailed_rating": {
@@ -140381,12 +140385,16 @@
             [
                "5435485",
                1721705240
+            ],
+            [
+               "9083658",
+               1744466376
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 1,
-      "justified_votes": 1
+      "justified_rating": 2,
+      "justified_votes": 2
    },
    "1721728586": {
       "title": "空虛之夜",
