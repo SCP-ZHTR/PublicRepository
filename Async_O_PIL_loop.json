@@ -146736,14 +146736,21 @@
       ],
       "hidden_tags": [],
       "comments": "2",
-      "rating": "0",
-      "votes": "0",
+      "rating": "1",
+      "votes": "1",
       "parent": null,
       "id": "1459050253",
-      "detailed_rating": {},
+      "detailed_rating": {
+         "+": [
+            [
+               "5338547",
+               1744502114
+            ]
+         ]
+      },
       "deleted": false,
-      "justified_rating": 0,
-      "justified_votes": 0
+      "justified_rating": 1,
+      "justified_votes": 1
    },
    "1743448332": {
       "title": "2025愚人節主頁",
