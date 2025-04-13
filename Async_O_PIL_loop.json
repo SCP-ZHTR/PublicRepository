@@ -146892,5 +146892,31 @@
       "deleted": false,
       "justified_rating": 8,
       "justified_votes": 8
+   },
+   "1744573432": {
+      "title": "SCP-ZH-605 - 殍烏，或稱三杯大怪鳥",
+      "fullname": "scp-zh-605",
+      "created_at": "1744573432",
+      "created_by": "5334590",
+      "tags": [
+         "euclid",
+         "scp",
+         "site-zh-11",
+         "動物",
+         "原創",
+         "掠食性",
+         "逆模因",
+         "鳥類"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1459206375",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
