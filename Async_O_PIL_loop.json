@@ -117883,8 +117883,8 @@
       ],
       "hidden_tags": [],
       "comments": "3",
-      "rating": "36",
-      "votes": "36",
+      "rating": "37",
+      "votes": "37",
       "parent": null,
       "id": "1449046433",
       "detailed_rating": {
@@ -118032,12 +118032,16 @@
             [
                "8792088",
                1734632104
+            ],
+            [
+               "4206567",
+               1744565091
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 35,
-      "justified_votes": 35
+      "justified_rating": 36,
+      "justified_votes": 36
    },
    "1689606932": {
       "title": "SCP-ZH-275 - 火珀",
