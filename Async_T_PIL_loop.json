@@ -4536,8 +4536,8 @@
          "_info"
       ],
       "comments": "0",
-      "rating": "7",
-      "votes": "7",
+      "rating": "8",
+      "votes": "8",
       "parent": null,
       "id": "746892752",
       "detailed_rating": {
@@ -4569,12 +4569,16 @@
             [
                "8319365",
                1718289915
+            ],
+            [
+               "4206567",
+               1744565649
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 7,
-      "justified_votes": 7
+      "justified_rating": 8,
+      "justified_votes": 8
    },
    "1555760023": {
       "title": "SCP-404-JP - Not found",
