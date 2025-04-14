@@ -146578,8 +146578,8 @@
          "_絕望"
       ],
       "comments": "3",
-      "rating": "12",
-      "votes": "12",
+      "rating": "13",
+      "votes": "13",
       "parent": null,
       "id": "1458380117",
       "detailed_rating": {
@@ -146631,12 +146631,16 @@
             [
                "9335666",
                1741857213
+            ],
+            [
+               "8418020",
+               1744607666
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 12,
-      "justified_votes": 12
+      "justified_rating": 13,
+      "justified_votes": 13
    },
    "1739075679": {
       "title": "「無色的畫室」",

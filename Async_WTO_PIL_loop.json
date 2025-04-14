@@ -17922,8 +17922,8 @@
          "_禁黑"
       ],
       "comments": "1",
-      "rating": "2",
-      "votes": "2",
+      "rating": "3",
+      "votes": "3",
       "parent": null,
       "id": "1459150148",
       "detailed_rating": {
@@ -17935,12 +17935,16 @@
             [
                "8404617",
                1744432665
+            ],
+            [
+               "8418020",
+               1744607668
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 2,
-      "justified_votes": 2
+      "justified_rating": 3,
+      "justified_votes": 3
    },
    "1744573432": {
       "title": "SCP-ZH-605 - 殍烏，或稱三杯大怪鳥",
