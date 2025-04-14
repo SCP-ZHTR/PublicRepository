@@ -135461,8 +135461,8 @@
          "_白磷時代"
       ],
       "comments": "1",
-      "rating": "23",
-      "votes": "23",
+      "rating": "24",
+      "votes": "24",
       "parent": null,
       "id": "1453799489",
       "detailed_rating": {
@@ -135558,12 +135558,16 @@
             [
                "9104873",
                1729221699
+            ],
+            [
+               "8536616",
+               1744612574
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 22,
-      "justified_votes": 22
+      "justified_rating": 23,
+      "justified_votes": 23
    },
    "1716741134": {
       "title": "SCP-TW-242",
