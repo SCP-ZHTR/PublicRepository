@@ -13979,8 +13979,8 @@
          "_info"
       ],
       "comments": "0",
-      "rating": "11",
-      "votes": "13",
+      "rating": "12",
+      "votes": "14",
       "parent": null,
       "id": "854102626",
       "detailed_rating": {
@@ -14032,6 +14032,10 @@
             [
                "8883612",
                1702776772
+            ],
+            [
+               "7504530",
+               1744829997
             ]
          ],
          "-": [
@@ -14042,8 +14046,8 @@
          ]
       },
       "deleted": false,
-      "justified_rating": 10,
-      "justified_votes": 12
+      "justified_rating": 11,
+      "justified_votes": 13
    },
    "1565102111": {
       "title": "Ctrl Z博士的SCP記錄：SCP-076 亞伯",
