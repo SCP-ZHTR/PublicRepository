@@ -46178,8 +46178,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "7",
-      "votes": "9",
+      "rating": "8",
+      "votes": "10",
       "parent": null,
       "id": "1194520961",
       "detailed_rating": {
@@ -46215,6 +46215,10 @@
             [
                "5415046",
                1617120000
+            ],
+            [
+               "7504530",
+               1744916077
             ]
          ],
          "-": [
@@ -46225,8 +46229,8 @@
          ]
       },
       "deleted": false,
-      "justified_rating": 7,
-      "justified_votes": 9
+      "justified_rating": 8,
+      "justified_votes": 10
    },
    "1595000245": {
       "title": "SCP-ZH-141 - 放射線症候群治療劑",
