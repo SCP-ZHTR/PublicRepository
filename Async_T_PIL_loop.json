@@ -145640,8 +145640,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "1",
-      "votes": "1",
+      "rating": "2",
+      "votes": "2",
       "parent": null,
       "id": "1459279807",
       "detailed_rating": {
@@ -145649,12 +145649,16 @@
             [
                "6217438",
                1744956505
+            ],
+            [
+               "5370805",
+               1744982244
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 1,
-      "justified_votes": 1
+      "justified_rating": 2,
+      "justified_votes": 2
    },
    "1744965963": {
       "title": "SCP-8566 - 存在乃強制",
@@ -145679,8 +145683,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "2",
-      "votes": "2",
+      "rating": "3",
+      "votes": "3",
       "parent": null,
       "id": "1459280078",
       "detailed_rating": {
@@ -145692,11 +145696,15 @@
             [
                "8177208",
                1744966585
+            ],
+            [
+               "5370805",
+               1744982244
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 2,
-      "justified_votes": 2
+      "justified_rating": 3,
+      "justified_votes": 3
    }
 }
