@@ -146728,8 +146728,8 @@
       ],
       "hidden_tags": [],
       "comments": "2",
-      "rating": "7",
-      "votes": "7",
+      "rating": "8",
+      "votes": "8",
       "parent": "scpdeclassified",
       "id": "1458688171",
       "detailed_rating": {
@@ -146761,12 +146761,16 @@
             [
                "7064164",
                1744008768
+            ],
+            [
+               "6217438",
+               1744974589
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 7,
-      "justified_votes": 7
+      "justified_rating": 8,
+      "justified_votes": 8
    },
    "1743416842": {
       "title": "茶嶺警署專隊卷宗：E-927",
