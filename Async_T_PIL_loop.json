@@ -81945,8 +81945,8 @@
          "_licensebox"
       ],
       "comments": "0",
-      "rating": "5",
-      "votes": "5",
+      "rating": "6",
+      "votes": "6",
       "parent": null,
       "id": "1331483557",
       "detailed_rating": {
@@ -81970,12 +81970,16 @@
             [
                "DELETED",
                1745023573
+            ],
+            [
+               "8177208",
+               1745027090
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 4,
-      "justified_votes": 4
+      "justified_rating": 5,
+      "justified_votes": 5
    },
    "1643608415": {
       "title": "SCP-2790 - 我是你值得擁有的烏賊",
