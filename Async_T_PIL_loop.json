@@ -145743,5 +145743,30 @@
       "deleted": false,
       "justified_rating": 2,
       "justified_votes": 2
+   },
+   "1745041896": {
+      "title": "不要死掉：滅殺劑與你",
+      "fullname": "kill-agents-and-you",
+      "created_at": "1745041896",
+      "created_by": "6217438",
+      "tags": [
+         "en",
+         "forgotten-memories",
+         "世界觀建設",
+         "喜劇",
+         "故事",
+         "科幻",
+         "翻譯"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1459283577",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
