@@ -145779,5 +145779,38 @@
       "deleted": false,
       "justified_rating": 2,
       "justified_votes": 2
+   },
+   "1745124607": {
+      "title": "加菲貓時間線",
+      "fullname": "garfield-timeline",
+      "created_at": "1745124607",
+      "created_by": "6217438",
+      "tags": [
+         "absurdism",
+         "en",
+         "giftschreiber",
+         "lillihammer博士",
+         "thilo-zwist",
+         "世界觀建設",
+         "保衛43",
+         "喜劇",
+         "地平線倡議",
+         "宗教",
+         "戰術神學部",
+         "故事",
+         "無對白",
+         "翻譯",
+         "黑色幽默"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1459288428",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
