@@ -145919,5 +145919,32 @@
       "deleted": false,
       "justified_rating": 1,
       "justified_votes": 1
+   },
+   "1745162078": {
+      "title": "SCP-6861 - 這就是暴龍的下場",
+      "fullname": "scp-6861",
+      "created_at": "1745162078",
+      "created_by": "6217438",
+      "tags": [
+         "asci",
+         "en",
+         "political",
+         "scp",
+         "恐龍",
+         "歷史性",
+         "無效化",
+         "翻譯",
+         "視覺性"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1459296944",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
