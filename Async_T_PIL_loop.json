@@ -145823,5 +145823,33 @@
       "deleted": false,
       "justified_rating": 2,
       "justified_votes": 2
+   },
+   "1745147915": {
+      "title": "SCP-6598 - 輕率彈幣",
+      "fullname": "scp-6598",
+      "created_at": "1745147915",
+      "created_by": "6217438",
+      "tags": [
+         "en",
+         "safe",
+         "scp",
+         "人造物品",
+         "合著",
+         "智能",
+         "翻譯",
+         "貨幣",
+         "重寫",
+         "預測性"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1459289485",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
