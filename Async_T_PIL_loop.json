@@ -145886,5 +145886,31 @@
       "deleted": false,
       "justified_rating": 4,
       "justified_votes": 4
+   },
+   "1745159836": {
+      "title": "SCP-6794 - 五疊之道",
+      "fullname": "scp-6794",
+      "created_at": "1745159836",
+      "created_by": "6217438",
+      "tags": [
+         "en",
+         "euclid",
+         "scp",
+         "強迫性",
+         "第五教會",
+         "精神影響",
+         "翻譯",
+         "認知危害"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1459296763",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
