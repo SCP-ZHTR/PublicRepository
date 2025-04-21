@@ -146113,5 +146113,32 @@
       "deleted": false,
       "justified_rating": 2,
       "justified_votes": 2
+   },
+   "1745248923": {
+      "title": "SCP-5062 - 潔淨室",
+      "fullname": "scp-5062",
+      "created_at": "1745248923",
+      "created_by": "6217438",
+      "tags": [
+         "en",
+         "safe",
+         "scp",
+         "共感",
+         "建築物",
+         "強迫性",
+         "精神影響",
+         "翻譯",
+         "觀察影響"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1459303258",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
