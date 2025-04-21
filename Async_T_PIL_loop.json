@@ -145969,5 +145969,33 @@
       "deleted": false,
       "justified_rating": 3,
       "justified_votes": 3
+   },
+   "1745199826": {
+      "title": "SCP-5022 - 子首",
+      "fullname": "scp-5022",
+      "created_at": "1745199826",
+      "created_by": "6217438",
+      "tags": [
+         "en",
+         "safe",
+         "scp",
+         "人形",
+         "屍體",
+         "復活",
+         "異常移動",
+         "翻譯",
+         "聲音",
+         "觀察影響"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1459299157",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
