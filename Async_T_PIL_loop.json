@@ -146042,8 +146042,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "7",
-      "votes": "7",
+      "rating": "8",
+      "votes": "8",
       "parent": null,
       "id": "1459300068",
       "detailed_rating": {
@@ -146075,12 +146075,16 @@
             [
                "5370805",
                1745250907
+            ],
+            [
+               "7840542",
+               1745319005
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 7,
-      "justified_votes": 7
+      "justified_rating": 8,
+      "justified_votes": 8
    },
    "1745235032": {
       "title": "SCP-4256 - 私酒販的印刷機",
