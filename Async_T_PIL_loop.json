@@ -145859,8 +145859,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "4",
-      "votes": "4",
+      "rating": "5",
+      "votes": "5",
       "parent": null,
       "id": "1459289485",
       "detailed_rating": {
@@ -145880,12 +145880,16 @@
             [
                "5370805",
                1745158986
+            ],
+            [
+               "8033564",
+               1745419960
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 4,
-      "justified_votes": 4
+      "justified_rating": 5,
+      "justified_votes": 5
    },
    "1745159836": {
       "title": "SCP-6794 - 五疊之道",
