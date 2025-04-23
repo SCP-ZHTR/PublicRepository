@@ -145904,8 +145904,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "6",
-      "votes": "6",
+      "rating": "7",
+      "votes": "7",
       "parent": null,
       "id": "1459296763",
       "detailed_rating": {
@@ -145933,12 +145933,16 @@
             [
                "7840542",
                1745318167
+            ],
+            [
+               "7504530",
+               1745393064
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 6,
-      "justified_votes": 6
+      "justified_rating": 7,
+      "justified_votes": 7
    },
    "1745162078": {
       "title": "SCP-6861 - 這就是暴龍的下場",
