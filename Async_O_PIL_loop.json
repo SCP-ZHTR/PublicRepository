@@ -139519,9 +139519,9 @@
          "晶體"
       ],
       "hidden_tags": [],
-      "comments": "3",
-      "rating": "19",
-      "votes": "19",
+      "comments": "4",
+      "rating": "20",
+      "votes": "20",
       "parent": null,
       "id": "1456346392",
       "detailed_rating": {
@@ -139601,12 +139601,16 @@
             [
                "8418020",
                1744560494
+            ],
+            [
+               "9447838",
+               1745648855
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 19,
-      "justified_votes": 19
+      "justified_rating": 20,
+      "justified_votes": 20
    },
    "1723910407": {
       "title": "SCP-ZH-715 - 梅是「門禁」",
