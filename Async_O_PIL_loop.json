@@ -147035,5 +147035,27 @@
       "deleted": false,
       "justified_rating": 13,
       "justified_votes": 13
+   },
+   "1745769684": {
+      "title": "三起刺殺與你的夜晚",
+      "fullname": "three-assassinations-and-your-night",
+      "created_at": "1745769684",
+      "created_by": "6217438",
+      "tags": [
+         "site-zh-11",
+         "原創",
+         "故事",
+         "真紀博士"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1459413676",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
