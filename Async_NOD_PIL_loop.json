@@ -31214,13 +31214,24 @@
       "tags": [],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "0",
-      "votes": "0",
+      "rating": "-2",
+      "votes": "2",
       "parent": null,
       "id": "1459412286",
-      "detailed_rating": {},
+      "detailed_rating": {
+         "-": [
+            [
+               "4990678",
+               1745749483
+            ],
+            [
+               "8543386",
+               1745749483
+            ]
+         ]
+      },
       "deleted": false,
-      "justified_rating": 0,
-      "justified_votes": 0
+      "justified_rating": -2,
+      "justified_votes": 2
    }
 }
