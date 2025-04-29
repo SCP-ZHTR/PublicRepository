@@ -5154,8 +5154,8 @@
          "_蛇之手-goi格式"
       ],
       "comments": "1",
-      "rating": "4",
-      "votes": "4",
+      "rating": "5",
+      "votes": "5",
       "parent": null,
       "id": "758820290",
       "detailed_rating": {
@@ -5175,12 +5175,16 @@
             [
                "3981670",
                1617120000
+            ],
+            [
+               "7504530",
+               1745925758
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 4,
-      "justified_votes": 4
+      "justified_rating": 5,
+      "justified_votes": 5
    },
    "1556531100": {
       "title": "代表作，又名為：為陳腔濫調辯護的斥責",
