@@ -23065,8 +23065,8 @@
          "_info"
       ],
       "comments": "3",
-      "rating": "12",
-      "votes": "12",
+      "rating": "13",
+      "votes": "13",
       "parent": "antimemetics-division-hub",
       "id": "987062274",
       "detailed_rating": {
@@ -23118,12 +23118,16 @@
             [
                "5544112",
                1738980955
+            ],
+            [
+               "7504530",
+               1745933576
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 12,
-      "justified_votes": 12
+      "justified_rating": 13,
+      "justified_votes": 13
    },
    "1581530088": {
       "title": "SCP-3582 - 多元宇宙正在痙攣",
