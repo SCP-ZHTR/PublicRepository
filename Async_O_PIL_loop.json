@@ -147085,5 +147085,26 @@
       "deleted": false,
       "justified_rating": 6,
       "justified_votes": 6
+   },
+   "1746252169": {
+      "title": "閃光劃破天際。",
+      "fullname": "a-precise-bombing-art",
+      "created_at": "1746252169",
+      "created_by": "8177208",
+      "tags": [
+         "原創",
+         "燦藍天穹",
+         "藝術作品"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1459595074",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
