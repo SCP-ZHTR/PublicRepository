@@ -41439,8 +41439,8 @@
          "_tropical"
       ],
       "comments": "0",
-      "rating": "3",
-      "votes": "3",
+      "rating": "4",
+      "votes": "4",
       "parent": null,
       "id": "1168809342",
       "detailed_rating": {
@@ -41456,12 +41456,16 @@
             [
                "DELETED",
                "[UNKNOWN]"
+            ],
+            [
+               "8177208",
+               1746320555
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 2,
-      "justified_votes": 2
+      "justified_rating": 3,
+      "justified_votes": 3
    },
    "1593946398": {
       "title": "SCP-686 - 泌乳感染",
