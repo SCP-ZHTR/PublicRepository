@@ -146197,5 +146197,29 @@
       "deleted": false,
       "justified_rating": 4,
       "justified_votes": 4
+   },
+   "1746443191": {
+      "title": "事故報告　SCP-701-19██-1",
+      "fullname": "incident-report-scp70119971",
+      "created_at": "1746443191",
+      "created_by": "5415046",
+      "tags": [
+         "en",
+         "事故",
+         "受絞之王",
+         "翻譯",
+         "阿拉加達",
+         "附加資料"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1459651970",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
