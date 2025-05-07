@@ -1918,8 +1918,8 @@
          "_info"
       ],
       "comments": "2",
-      "rating": "28",
-      "votes": "30",
+      "rating": "29",
+      "votes": "31",
       "parent": null,
       "id": "674303030",
       "detailed_rating": {
@@ -2039,6 +2039,10 @@
             [
                "7840542",
                1724424045
+            ],
+            [
+               "8319365",
+               1746621100
             ]
          ],
          "-": [
@@ -2049,8 +2053,8 @@
          ]
       },
       "deleted": false,
-      "justified_rating": 28,
-      "justified_votes": 28
+      "justified_rating": 29,
+      "justified_votes": 29
    },
    "1554374175": {
       "title": "SCP-010 - 操縱項圈",
