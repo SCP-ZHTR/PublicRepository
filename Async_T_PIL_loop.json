@@ -146289,5 +146289,33 @@
       "deleted": false,
       "justified_rating": 1,
       "justified_votes": 1
+   },
+   "1747055905": {
+      "title": "SCP-2432 - 客房服務",
+      "fullname": "scp-2432",
+      "created_at": "1747055905",
+      "created_by": "6217438",
+      "tags": [
+         "en",
+         "euclid",
+         "scp",
+         "媒體",
+         "建築物",
+         "文獻",
+         "模因",
+         "翻譯",
+         "變形",
+         "震動"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1459705291",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
