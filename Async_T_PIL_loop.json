@@ -146364,5 +146364,32 @@
       "deleted": false,
       "justified_rating": 0,
       "justified_votes": 0
+   },
+   "1747127015": {
+      "title": "SCP-118 - 核能原蟲",
+      "fullname": "scp-118",
+      "created_at": "1747127015",
+      "created_by": "5415046",
+      "tags": [
+         "en",
+         "euclid",
+         "scp",
+         "微觀",
+         "水棲",
+         "活物",
+         "物種",
+         "翻譯",
+         "自我複製"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1459708305",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
