@@ -5622,8 +5622,8 @@
          "_cc"
       ],
       "comments": "2",
-      "rating": "5",
-      "votes": "5",
+      "rating": "6",
+      "votes": "6",
       "parent": null,
       "id": "1213919219",
       "detailed_rating": {
@@ -5647,12 +5647,16 @@
             [
                "4107284",
                1689145478
+            ],
+            [
+               "6217438",
+               1747145985
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 5,
-      "justified_votes": 5
+      "justified_rating": 6,
+      "justified_votes": 6
    },
    "1595848147": {
       "title": "fragment:ting129-s-ko-proposal-1",
