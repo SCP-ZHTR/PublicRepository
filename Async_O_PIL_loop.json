@@ -147282,8 +147282,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "-3",
-      "votes": "5",
+      "rating": "-4",
+      "votes": "6",
       "parent": null,
       "id": "1459708375",
       "detailed_rating": {
@@ -147309,12 +147309,16 @@
             [
                "7840542",
                1747133768
+            ],
+            [
+               "8543386",
+               1747134312
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": -3,
-      "justified_votes": 5
+      "justified_rating": -4,
+      "justified_votes": 6
    },
    "1747131957": {
       "title": "Scp Zh 288",

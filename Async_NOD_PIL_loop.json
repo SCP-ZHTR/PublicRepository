@@ -21204,8 +21204,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "2",
-      "votes": "2",
+      "rating": "3",
+      "votes": "3",
       "parent": null,
       "id": "1446776946",
       "detailed_rating": {
@@ -21217,12 +21217,16 @@
             [
                "5435485",
                1689145478
+            ],
+            [
+               "8319365",
+               1747134316
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 2,
-      "justified_votes": 2
+      "justified_rating": 3,
+      "justified_votes": 3
    },
    "1679236221": {
       "title": "浩瀚宇宙 外觀主題",
@@ -31309,5 +31313,24 @@
       "deleted": false,
       "justified_rating": -3,
       "justified_votes": 5
+   },
+   "1747131957": {
+      "title": "Scp Zh 288",
+      "fullname": "deleted:scp-zh-288",
+      "created_at": "1747131957",
+      "created_by": "9443485",
+      "tags": [
+         "原創，scp"
+      ],
+      "hidden_tags": [],
+      "comments": "2",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1459708396",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
