@@ -146309,8 +146309,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "3",
-      "votes": "3",
+      "rating": "4",
+      "votes": "4",
       "parent": null,
       "id": "1459705291",
       "detailed_rating": {
@@ -146326,12 +146326,16 @@
             [
                "4990678",
                1747057379
+            ],
+            [
+               "7504530",
+               1747111936
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 3,
-      "justified_votes": 3
+      "justified_rating": 4,
+      "justified_votes": 4
    },
    "1747059147": {
       "title": "藍百合花鏈",
