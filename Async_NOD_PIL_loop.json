@@ -31272,12 +31272,10 @@
    },
    "1747130911": {
       "title": "Scp Zh 939",
-      "fullname": "deleted:deleted:scp-zh-939",
+      "fullname": "deleted:scp-zh-939",
       "created_at": "1747130911",
       "created_by": "9443485",
-      "tags": [
-         "原創"
-      ],
+      "tags": [],
       "hidden_tags": [],
       "comments": "0",
       "rating": "-3",
@@ -31319,15 +31317,57 @@
       "fullname": "deleted:scp-zh-288",
       "created_at": "1747131957",
       "created_by": "9443485",
-      "tags": [
-         "原創，scp"
-      ],
+      "tags": [],
       "hidden_tags": [],
       "comments": "2",
+      "rating": "-3",
+      "votes": "5",
+      "parent": null,
+      "id": "1459708396",
+      "detailed_rating": {
+         "+": [
+            [
+               "9443485",
+               1747134464
+            ]
+         ],
+         "-": [
+            [
+               "5325850",
+               1747134464
+            ],
+            [
+               "8177208",
+               1747134464
+            ],
+            [
+               "8543386",
+               1747134464
+            ],
+            [
+               "5415046",
+               1747134464
+            ]
+         ]
+      },
+      "deleted": false,
+      "justified_rating": -3,
+      "justified_votes": 5
+   },
+   "1747130989": {
+      "title": "Scp Zh 983",
+      "fullname": "deleted:scp-zh-983",
+      "created_at": "1747130989",
+      "created_by": "9443485",
+      "tags": [
+         "原創"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
       "rating": "0",
       "votes": "0",
       "parent": null,
-      "id": "1459708396",
+      "id": "1459708375",
       "detailed_rating": {},
       "deleted": false,
       "justified_rating": 0,
