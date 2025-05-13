@@ -147238,8 +147238,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "-1",
-      "votes": "1",
+      "rating": "-2",
+      "votes": "2",
       "parent": null,
       "id": "1459708373",
       "detailed_rating": {
@@ -147252,11 +147252,17 @@
                "5415046",
                1747132774
             ]
+         ],
+         "+": [
+            [
+               "9443485",
+               1747132919
+            ]
          ]
       },
       "deleted": false,
-      "justified_rating": -2,
-      "justified_votes": 2
+      "justified_rating": -1,
+      "justified_votes": 3
    },
    "1747130989": {
       "title": "Scp Zh 983",
@@ -147268,14 +147274,27 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "0",
-      "votes": "0",
+      "rating": "-1",
+      "votes": "1",
       "parent": null,
       "id": "1459708375",
-      "detailed_rating": {},
+      "detailed_rating": {
+         "+": [
+            [
+               "9443485",
+               1747132919
+            ]
+         ],
+         "-": [
+            [
+               "5415046",
+               1747132919
+            ]
+         ]
+      },
       "deleted": false,
       "justified_rating": 0,
-      "justified_votes": 0
+      "justified_votes": 2
    },
    "1747131957": {
       "title": "Scp Zh 288",
@@ -147292,7 +147311,7 @@
       "parent": null,
       "id": "1459708396",
       "detailed_rating": {},
-      "deleted": false,
+      "deleted": true,
       "justified_rating": 0,
       "justified_votes": 0
    }
