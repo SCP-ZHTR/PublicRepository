@@ -31364,13 +31364,46 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "0",
-      "votes": "0",
+      "rating": "-5",
+      "votes": "7",
       "parent": null,
       "id": "1459708375",
-      "detailed_rating": {},
+      "detailed_rating": {
+         "+": [
+            [
+               "9443485",
+               1747134608
+            ]
+         ],
+         "-": [
+            [
+               "5325850",
+               1747134608
+            ],
+            [
+               "8177208",
+               1747134608
+            ],
+            [
+               "7840542",
+               1747134608
+            ],
+            [
+               "5370805",
+               1747134608
+            ],
+            [
+               "8543386",
+               1747134608
+            ],
+            [
+               "5415046",
+               1747134608
+            ]
+         ]
+      },
       "deleted": false,
-      "justified_rating": 0,
-      "justified_votes": 0
+      "justified_rating": -5,
+      "justified_votes": 7
    }
 }
