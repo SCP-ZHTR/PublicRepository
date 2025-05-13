@@ -147264,7 +147264,7 @@
             ]
          ]
       },
-      "deleted": false,
+      "deleted": true,
       "justified_rating": -2,
       "justified_votes": 4
    },
@@ -147278,8 +147278,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "0",
-      "votes": "2",
+      "rating": "-2",
+      "votes": "4",
       "parent": null,
       "id": "1459708375",
       "detailed_rating": {
@@ -147297,12 +147297,16 @@
             [
                "5325850",
                1747133064
+            ],
+            [
+               "8177208",
+               1747133214
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": -1,
-      "justified_votes": 3
+      "justified_rating": -2,
+      "justified_votes": 4
    },
    "1747131957": {
       "title": "Scp Zh 288",
