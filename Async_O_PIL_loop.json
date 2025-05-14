@@ -108124,8 +108124,8 @@
       ],
       "hidden_tags": [],
       "comments": "2",
-      "rating": "17",
-      "votes": "17",
+      "rating": "18",
+      "votes": "18",
       "parent": null,
       "id": "1437254599",
       "detailed_rating": {
@@ -108197,12 +108197,16 @@
             [
                "DELETED",
                1695207508
+            ],
+            [
+               "9670949",
+               1747213886
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 16,
-      "justified_votes": 16
+      "justified_rating": 17,
+      "justified_votes": 17
    },
    "1668859725": {
       "title": "歡迎回家",
