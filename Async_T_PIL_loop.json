@@ -146362,10 +146362,12 @@
          "翻譯",
          "蛇之手"
       ],
-      "hidden_tags": [],
+      "hidden_tags": [
+         "_禁黑"
+      ],
       "comments": "0",
-      "rating": "1",
-      "votes": "1",
+      "rating": "2",
+      "votes": "2",
       "parent": null,
       "id": "1459705568",
       "detailed_rating": {
@@ -146373,12 +146375,16 @@
             [
                "9670949",
                1747258902
+            ],
+            [
+               "4990678",
+               1747259043
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 1,
-      "justified_votes": 1
+      "justified_rating": 2,
+      "justified_votes": 2
    },
    "1747127015": {
       "title": "SCP-118 - 核能原蟲",
