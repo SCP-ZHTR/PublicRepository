@@ -147200,8 +147200,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "9",
-      "votes": "9",
+      "rating": "10",
+      "votes": "10",
       "parent": null,
       "id": "1459616225",
       "detailed_rating": {
@@ -147241,12 +147241,16 @@
             [
                "7513990",
                1746955514
+            ],
+            [
+               "5435485",
+               1747337388
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 9,
-      "justified_votes": 9
+      "justified_rating": 10,
+      "justified_votes": 10
    },
    "1747130911": {
       "title": "Scp Zh 939",
