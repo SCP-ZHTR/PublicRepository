@@ -146486,5 +146486,30 @@
       "deleted": false,
       "justified_rating": 1,
       "justified_votes": 1
+   },
+   "1747310045": {
+      "title": "SCP-197 - 溫室",
+      "fullname": "scp-197",
+      "created_at": "1747310045",
+      "created_by": "6503482",
+      "tags": [
+         "en",
+         "safe",
+         "scp",
+         "建築物",
+         "智能",
+         "植物",
+         "翻譯"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1459712254",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
