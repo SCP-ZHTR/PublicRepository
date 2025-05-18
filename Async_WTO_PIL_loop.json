@@ -18286,16 +18286,41 @@
       "fullname": "scp-zh-703",
       "created_at": "1747571277",
       "created_by": "9662963",
-      "tags": [],
+      "tags": [
+         "待刪除"
+      ],
       "hidden_tags": [],
-      "comments": "0",
-      "rating": "0",
-      "votes": "0",
+      "comments": "1",
+      "rating": "-5",
+      "votes": "5",
       "parent": null,
       "id": "1459718890",
-      "detailed_rating": {},
-      "deleted": true,
-      "justified_rating": 0,
-      "justified_votes": 0
+      "detailed_rating": {
+         "-": [
+            [
+               "7827462",
+               1747579836
+            ],
+            [
+               "9437829",
+               1747579836
+            ],
+            [
+               "8177208",
+               1747579836
+            ],
+            [
+               "7064164",
+               1747579836
+            ],
+            [
+               "8480087",
+               1747579836
+            ]
+         ]
+      },
+      "deleted": false,
+      "justified_rating": -5,
+      "justified_votes": 5
    }
 }
