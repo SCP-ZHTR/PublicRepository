@@ -9819,8 +9819,8 @@
          "_info"
       ],
       "comments": "2",
-      "rating": "27",
-      "votes": "27",
+      "rating": "28",
+      "votes": "28",
       "parent": null,
       "id": "830838488",
       "detailed_rating": {
@@ -9932,12 +9932,16 @@
             [
                "8846720",
                1709126768
+            ],
+            [
+               "9670949",
+               1747609896
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 27,
-      "justified_votes": 27
+      "justified_rating": 28,
+      "justified_votes": 28
    },
    "1561976884": {
       "title": "SCP-ZH-005 - 假如你沒有轉發這篇文檔給十個朋友，那麼…………",
