@@ -147376,10 +147376,11 @@
       "tags": [
          "keter",
          "scp",
-         "原創"
+         "原創",
+         "待刪除"
       ],
       "hidden_tags": [],
-      "comments": "0",
+      "comments": "1",
       "rating": "-5",
       "votes": "5",
       "parent": null,
@@ -147408,7 +147409,7 @@
             ]
          ]
       },
-      "deleted": true,
+      "deleted": false,
       "justified_rating": -5,
       "justified_votes": 5
    }
