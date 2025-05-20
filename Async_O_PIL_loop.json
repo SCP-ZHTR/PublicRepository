@@ -103646,8 +103646,8 @@
          "_cc"
       ],
       "comments": "0",
-      "rating": "18",
-      "votes": "18",
+      "rating": "19",
+      "votes": "19",
       "parent": null,
       "id": "1435932139",
       "detailed_rating": {
@@ -103723,12 +103723,16 @@
             [
                "8319365",
                1715870055
+            ],
+            [
+               "9670949",
+               1747781861
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 17,
-      "justified_votes": 17
+      "justified_rating": 18,
+      "justified_votes": 18
    },
    "1663675812": {
       "title": "Negative",
