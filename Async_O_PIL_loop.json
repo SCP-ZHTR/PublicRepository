@@ -120781,8 +120781,8 @@
          "_cc"
       ],
       "comments": "2",
-      "rating": "14",
-      "votes": "16",
+      "rating": "15",
+      "votes": "17",
       "parent": null,
       "id": "1449608901",
       "detailed_rating": {
@@ -120846,6 +120846,10 @@
             [
                "5701756",
                1701161943
+            ],
+            [
+               "8177208",
+               1747840595
             ]
          ],
          "-": [
@@ -120856,8 +120860,8 @@
          ]
       },
       "deleted": false,
-      "justified_rating": 14,
-      "justified_votes": 16
+      "justified_rating": 15,
+      "justified_votes": 17
    },
    "1693324216": {
       "title": "馬蘭女王",
