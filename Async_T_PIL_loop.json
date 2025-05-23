@@ -146515,5 +146515,33 @@
       "deleted": false,
       "justified_rating": 0,
       "justified_votes": 0
+   },
+   "1748001220": {
+      "title": "SCP-8270 - 幻牙",
+      "fullname": "scp-8270",
+      "created_at": "1748001220",
+      "created_by": "6217438",
+      "tags": [
+         "en",
+         "euclid",
+         "scp",
+         "傳送",
+         "屍體",
+         "恐怖",
+         "牙齒",
+         "犯罪",
+         "神秘",
+         "翻譯"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1459726674",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
