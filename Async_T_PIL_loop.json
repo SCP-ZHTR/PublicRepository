@@ -146535,5 +146535,31 @@
       "deleted": false,
       "justified_rating": 2,
       "justified_votes": 2
+   },
+   "1748082953": {
+      "title": "SCP-3546 - 狗娘養的，老娘棄牌！",
+      "fullname": "scp-3546",
+      "created_at": "1748082953",
+      "created_by": "6217438",
+      "tags": [
+         "en",
+         "euclid",
+         "scp",
+         "人形",
+         "智能",
+         "無效化",
+         "翻譯",
+         "藝術性"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1459728512",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
