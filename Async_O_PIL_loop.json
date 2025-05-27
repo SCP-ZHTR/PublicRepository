@@ -147120,8 +147120,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "9",
-      "votes": "9",
+      "rating": "10",
+      "votes": "10",
       "parent": null,
       "id": "1459413676",
       "detailed_rating": {
@@ -147161,12 +147161,16 @@
             [
                "5981123",
                1748345983
+            ],
+            [
+               "7064164",
+               1748356269
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 9,
-      "justified_votes": 9
+      "justified_rating": 10,
+      "justified_votes": 10
    },
    "1746252169": {
       "title": "閃光劃破天際。",
