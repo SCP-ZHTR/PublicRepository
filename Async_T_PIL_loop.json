@@ -8151,8 +8151,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "6",
-      "votes": "6",
+      "rating": "7",
+      "votes": "7",
       "parent": "guide-hub",
       "id": "799574250",
       "detailed_rating": {
@@ -8180,12 +8180,16 @@
             [
                "6082642",
                1617120000
+            ],
+            [
+               "9443485",
+               1748425861
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 6,
-      "justified_votes": 6
+      "justified_rating": 7,
+      "justified_votes": 7
    },
    "1558104039": {
       "title": "蛇說神幻經",
