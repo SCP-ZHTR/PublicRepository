@@ -66643,16 +66643,12 @@
          "_licensebox"
       ],
       "comments": "2",
-      "rating": "10",
-      "votes": "10",
+      "rating": "11",
+      "votes": "11",
       "parent": null,
       "id": "1311502361",
       "detailed_rating": {
          "+": [
-            [
-               "7469850",
-               1622131200
-            ],
             [
                "4990678",
                1621094400
@@ -66688,6 +66684,14 @@
             [
                "7618181",
                1655913600
+            ],
+            [
+               "9443485",
+               1748426435
+            ],
+            [
+               "DELETED",
+               1748426435
             ]
          ]
       },
@@ -133273,14 +133277,21 @@
          "_禁黑"
       ],
       "comments": "0",
-      "rating": "0",
-      "votes": "0",
+      "rating": "1",
+      "votes": "1",
       "parent": null,
       "id": "1451988426",
-      "detailed_rating": {},
+      "detailed_rating": {
+         "+": [
+            [
+               "9443485",
+               1748426435
+            ]
+         ]
+      },
       "deleted": false,
-      "justified_rating": 0,
-      "justified_votes": 0
+      "justified_rating": 1,
+      "justified_votes": 1
    },
    "1703750412": {
       "title": "SCP-6760 - 祝下次好運",
