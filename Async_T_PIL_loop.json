@@ -146424,8 +146424,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "1",
-      "votes": "1",
+      "rating": "2",
+      "votes": "2",
       "parent": null,
       "id": "1459708305",
       "detailed_rating": {
@@ -146433,12 +146433,16 @@
             [
                "9075244",
                1747128221
+            ],
+            [
+               "7504530",
+               1748452817
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 1,
-      "justified_votes": 1
+      "justified_rating": 2,
+      "justified_votes": 2
    },
    "1747231772": {
       "title": "SCP-125 - 感染性倒影",
