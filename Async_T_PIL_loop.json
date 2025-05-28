@@ -145834,8 +145834,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "3",
-      "votes": "3",
+      "rating": "4",
+      "votes": "4",
       "parent": null,
       "id": "1459283577",
       "detailed_rating": {
@@ -145851,12 +145851,16 @@
             [
                "7840542",
                1745152547
+            ],
+            [
+               "7504530",
+               1748470758
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 3,
-      "justified_votes": 3
+      "justified_rating": 4,
+      "justified_votes": 4
    },
    "1745124607": {
       "title": "加菲貓時間線",
@@ -145882,8 +145886,8 @@
       ],
       "hidden_tags": [],
       "comments": "2",
-      "rating": "2",
-      "votes": "2",
+      "rating": "3",
+      "votes": "3",
       "parent": null,
       "id": "1459288428",
       "detailed_rating": {
@@ -145895,12 +145899,16 @@
             [
                "5370805",
                1745147297
+            ],
+            [
+               "7504530",
+               1748470758
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 2,
-      "justified_votes": 2
+      "justified_rating": 3,
+      "justified_votes": 3
    },
    "1745147915": {
       "title": "SCP-6598 - 輕率彈幣",
