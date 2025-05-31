@@ -147034,8 +147034,8 @@
       ],
       "hidden_tags": [],
       "comments": "5",
-      "rating": "17",
-      "votes": "17",
+      "rating": "18",
+      "votes": "18",
       "parent": null,
       "id": "1459206375",
       "detailed_rating": {
@@ -147107,12 +147107,16 @@
             [
                "8546930",
                1748498316
+            ],
+            [
+               "4000297",
+               1748662402
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 17,
-      "justified_votes": 17
+      "justified_rating": 18,
+      "justified_votes": 18
    },
    "1745769684": {
       "title": "三起刺殺與你的夜晚",
