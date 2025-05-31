@@ -146357,8 +146357,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "4",
-      "votes": "4",
+      "rating": "5",
+      "votes": "5",
       "parent": null,
       "id": "1459705291",
       "detailed_rating": {
@@ -146378,12 +146378,16 @@
             [
                "7504530",
                1747111936
+            ],
+            [
+               "4000297",
+               1748662121
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 4,
-      "justified_votes": 4
+      "justified_rating": 5,
+      "justified_votes": 5
    },
    "1747059147": {
       "title": "藍百合花鏈",
@@ -146623,8 +146627,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "6",
-      "votes": "6",
+      "rating": "7",
+      "votes": "7",
       "parent": null,
       "id": "1459728512",
       "detailed_rating": {
@@ -146652,11 +146656,15 @@
             [
                "7504530",
                1748450466
+            ],
+            [
+               "4000297",
+               1748662121
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 6,
-      "justified_votes": 6
+      "justified_rating": 7,
+      "justified_votes": 7
    }
 }
