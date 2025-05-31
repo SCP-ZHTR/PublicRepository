@@ -146670,5 +146670,40 @@
       "deleted": false,
       "justified_rating": 7,
       "justified_votes": 7
+   },
+   "1748690864": {
+      "title": "SCP-8607 - 信任恐懼症：露西的家",
+      "fullname": "scp-8607",
+      "created_at": "1748690864",
+      "created_by": "6381244",
+      "tags": [
+         "en",
+         "meta",
+         "scp",
+         "建築物",
+         "心理恐怖",
+         "恐怖",
+         "恐懼症驚選集",
+         "悲戚",
+         "未收容",
+         "標籤",
+         "機密分級",
+         "翻譯",
+         "視覺性",
+         "記憶影響",
+         "逆模因"
+      ],
+      "hidden_tags": [
+         "_licensebox"
+      ],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1459742445",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
