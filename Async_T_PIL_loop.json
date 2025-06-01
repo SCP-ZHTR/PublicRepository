@@ -15093,8 +15093,8 @@
          "_info"
       ],
       "comments": "0",
-      "rating": "11",
-      "votes": "11",
+      "rating": "12",
+      "votes": "12",
       "parent": "guide-hub",
       "id": "835229564",
       "detailed_rating": {
@@ -15142,12 +15142,16 @@
             [
                "8319365",
                1708521867
+            ],
+            [
+               "9443485",
+               1748790004
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 11,
-      "justified_votes": 11
+      "justified_rating": 12,
+      "justified_votes": 12
    },
    "1562677140": {
       "title": "SCP-008-J",
@@ -90284,16 +90288,12 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "3",
-      "votes": "3",
+      "rating": "4",
+      "votes": "4",
       "parent": "guide-for-newcomers",
       "id": "1402221817",
       "detailed_rating": {
          "+": [
-            [
-               "7469850",
-               1649952000
-            ],
             [
                "6217438",
                1649952000
@@ -90301,6 +90301,14 @@
             [
                "7504530",
                1649692800
+            ],
+            [
+               "9443485",
+               1748790004
+            ],
+            [
+               "DELETED",
+               1748790004
             ]
          ]
       },
