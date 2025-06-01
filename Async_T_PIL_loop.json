@@ -146696,8 +146696,8 @@
          "_licensebox"
       ],
       "comments": "0",
-      "rating": "1",
-      "votes": "1",
+      "rating": "2",
+      "votes": "2",
       "parent": "scp-anthology-2024",
       "id": "1459742445",
       "detailed_rating": {
@@ -146705,11 +146705,15 @@
             [
                "5370805",
                1748707612
+            ],
+            [
+               "7064164",
+               1748757846
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 1,
-      "justified_votes": 1
+      "justified_rating": 2,
+      "justified_votes": 2
    }
 }
