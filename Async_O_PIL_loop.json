@@ -71570,8 +71570,8 @@
          "_cc"
       ],
       "comments": "1",
-      "rating": "9",
-      "votes": "9",
+      "rating": "10",
+      "votes": "10",
       "parent": null,
       "id": "1311637866",
       "detailed_rating": {
@@ -71611,12 +71611,16 @@
             [
                "9104873",
                1716367856
+            ],
+            [
+               "8404617",
+               1748777427
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 9,
-      "justified_votes": 9
+      "justified_rating": 10,
+      "justified_votes": 10
    },
    "1621607627": {
       "title": "你是啥物人？",
