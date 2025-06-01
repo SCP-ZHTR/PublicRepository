@@ -147487,7 +147487,7 @@
       "justified_votes": 7
    },
    "1748781545": {
-      "title": "2025夏季競賽",
+      "title": "2025夏季競賽《異常之局》",
       "fullname": "summer-contest-2025",
       "created_at": "1748781545",
       "created_by": "4990678",
@@ -147499,13 +147499,20 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "0",
-      "votes": "0",
+      "rating": "1",
+      "votes": "1",
       "parent": null,
       "id": "1459744513",
-      "detailed_rating": {},
+      "detailed_rating": {
+         "+": [
+            [
+               "4990678",
+               1748781945
+            ]
+         ]
+      },
       "deleted": false,
-      "justified_rating": 0,
-      "justified_votes": 0
+      "justified_rating": 1,
+      "justified_votes": 1
    }
 }
