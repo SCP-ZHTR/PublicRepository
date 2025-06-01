@@ -94505,8 +94505,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "12",
-      "votes": "12",
+      "rating": "13",
+      "votes": "13",
       "parent": null,
       "id": "1403319592",
       "detailed_rating": {
@@ -94558,12 +94558,16 @@
             [
                "DELETED",
                1716565520
+            ],
+            [
+               "9443485",
+               1748790569
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 11,
-      "justified_votes": 11
+      "justified_rating": 12,
+      "justified_votes": 12
    },
    "1654660517": {
       "title": "100分ROUNDERHOUSE的100項：絕對主流中SCP作者分享如何使你成功最大化的建議",
