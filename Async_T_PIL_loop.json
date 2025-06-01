@@ -135680,7 +135680,7 @@
       ],
       "comments": "1",
       "rating": "9",
-      "votes": "9",
+      "votes": "10",
       "parent": null,
       "id": "1452775665",
       "detailed_rating": {
@@ -135720,12 +135720,16 @@
             [
                "8962532",
                1728999334
+            ],
+            [
+               "4000297",
+               1748811946
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 9,
-      "justified_votes": 9
+      "justified_rating": 10,
+      "justified_votes": 10
    },
    "1708865999": {
       "title": "豺犬遇挾譚",
