@@ -147485,5 +147485,27 @@
       "deleted": true,
       "justified_rating": -5,
       "justified_votes": 7
+   },
+   "1748781545": {
+      "title": "2025夏季競賽",
+      "fullname": "summer-contest-2025",
+      "created_at": "1748781545",
+      "created_by": "4990678",
+      "tags": [
+         "2025夏季競賽",
+         "中心",
+         "原創",
+         "競賽"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1459744513",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
