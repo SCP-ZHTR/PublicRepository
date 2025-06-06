@@ -144744,8 +144744,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "10",
-      "votes": "10",
+      "rating": "11",
+      "votes": "11",
       "parent": null,
       "id": "1457018595",
       "detailed_rating": {
@@ -144789,12 +144789,16 @@
             [
                "6091157",
                1728480714
+            ],
+            [
+               "6141493",
+               1749240034
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 10,
-      "justified_votes": 10
+      "justified_rating": 11,
+      "justified_votes": 11
    },
    "1730112185": {
       "title": "Site-ZH-59......的站徽",
