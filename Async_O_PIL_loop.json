@@ -9961,8 +9961,8 @@
          "_info"
       ],
       "comments": "0",
-      "rating": "82",
-      "votes": "84",
+      "rating": "83",
+      "votes": "85",
       "parent": null,
       "id": "832673262",
       "detailed_rating": {
@@ -10298,6 +10298,10 @@
             [
                "5981123",
                1743944230
+            ],
+            [
+               "6815728",
+               1749486982
             ]
          ],
          "-": [
@@ -10308,8 +10312,8 @@
          ]
       },
       "deleted": false,
-      "justified_rating": 78,
-      "justified_votes": 80
+      "justified_rating": 79,
+      "justified_votes": 81
    },
    "1561980796": {
       "title": "SCP-ZH-199 - 中永和迷宮",
@@ -10604,8 +10608,8 @@
          "_info"
       ],
       "comments": "5",
-      "rating": "79",
-      "votes": "79",
+      "rating": "80",
+      "votes": "80",
       "parent": null,
       "id": "833420456",
       "detailed_rating": {
@@ -10925,12 +10929,16 @@
             [
                "9555530",
                1738807020
+            ],
+            [
+               "6815728",
+               1749486982
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 77,
-      "justified_votes": 77
+      "justified_rating": 78,
+      "justified_votes": 78
    },
    "1562467167": {
       "title": "NSB-8新進人員教程: 何謂colony",
