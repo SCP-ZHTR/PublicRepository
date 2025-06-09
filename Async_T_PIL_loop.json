@@ -57201,8 +57201,8 @@
          "_禁黑"
       ],
       "comments": "0",
-      "rating": "17",
-      "votes": "17",
+      "rating": "18",
+      "votes": "18",
       "parent": null,
       "id": "1306901203",
       "detailed_rating": {
@@ -57274,12 +57274,16 @@
             [
                "6624115",
                1652371200
+            ],
+            [
+               "9075244",
+               1749479913
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 17,
-      "justified_votes": 17
+      "justified_rating": 18,
+      "justified_votes": 18
    },
    "1613353008": {
       "title": "SCP-711 - 悖謬保險",
