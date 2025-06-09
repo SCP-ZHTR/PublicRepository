@@ -71396,8 +71396,8 @@
          "_cc"
       ],
       "comments": "9",
-      "rating": "18",
-      "votes": "18",
+      "rating": "19",
+      "votes": "19",
       "parent": null,
       "id": "1311599251",
       "detailed_rating": {
@@ -71473,12 +71473,16 @@
             [
                "DELETED",
                1715441806
+            ],
+            [
+               "9075244",
+               1749479766
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 17,
-      "justified_votes": 17
+      "justified_rating": 18,
+      "justified_votes": 18
    },
    "1621519917": {
       "title": "SCP-ZH-533 - 惡性聯結車",
