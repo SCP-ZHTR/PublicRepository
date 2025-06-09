@@ -56100,8 +56100,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "39",
-      "votes": "39",
+      "rating": "38",
+      "votes": "40",
       "parent": null,
       "id": "1305843907",
       "detailed_rating": {
@@ -56261,12 +56261,16 @@
             [
                "6418659",
                1725472857
+            ],
+            [
+               "6815728",
+               1749494608
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 39,
-      "justified_votes": 39
+      "justified_rating": 40,
+      "justified_votes": 40
    },
    "1605784210": {
       "title": "沙皇先知協會擬人-奇術講解篇",
@@ -102320,8 +102324,8 @@
          "_cc"
       ],
       "comments": "6",
-      "rating": "41",
-      "votes": "41",
+      "rating": "42",
+      "votes": "42",
       "parent": null,
       "id": "1435461511",
       "detailed_rating": {
@@ -102489,12 +102493,16 @@
             [
                "5981123",
                1717675146
+            ],
+            [
+               "6815728",
+               1749494608
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 40,
-      "justified_votes": 40
+      "justified_rating": 41,
+      "justified_votes": 41
    },
    "1662187896": {
       "title": "SCP-ZH-441 - 只能以這種方式錯誤地惦記被碾壓而亡的屍體",
