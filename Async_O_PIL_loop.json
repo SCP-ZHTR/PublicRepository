@@ -146655,8 +146655,8 @@
          "_絕望"
       ],
       "comments": "2",
-      "rating": "24",
-      "votes": "24",
+      "rating": "25",
+      "votes": "25",
       "parent": null,
       "id": "1458379368",
       "detailed_rating": {
@@ -146756,12 +146756,16 @@
             [
                "8404617",
                1748776467
+            ],
+            [
+               "6815728",
+               1749564792
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 24,
-      "justified_votes": 24
+      "justified_rating": 25,
+      "justified_votes": 25
    },
    "1738943334": {
       "title": "SCP-ZH-437 - 無味恐懼",
