@@ -12735,8 +12735,8 @@
          "_info"
       ],
       "comments": "0",
-      "rating": "16",
-      "votes": "22",
+      "rating": "17",
+      "votes": "23",
       "parent": null,
       "id": "846787781",
       "detailed_rating": {
@@ -12816,6 +12816,10 @@
             [
                "DELETED",
                "[UNKNOWN]"
+            ],
+            [
+               "9075244",
+               1749533921
             ]
          ],
          "-": [
@@ -12834,8 +12838,8 @@
          ]
       },
       "deleted": false,
-      "justified_rating": 15,
-      "justified_votes": 21
+      "justified_rating": 16,
+      "justified_votes": 22
    },
    "1563802701": {
       "title": "遠東零號專隊卷宗：E-0249",
