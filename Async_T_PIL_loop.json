@@ -47395,8 +47395,8 @@
          "_cc"
       ],
       "comments": "0",
-      "rating": "4",
-      "votes": "4",
+      "rating": "5",
+      "votes": "5",
       "parent": null,
       "id": "1305270044",
       "detailed_rating": {
@@ -47416,12 +47416,16 @@
             [
                "5435485",
                1617120000
+            ],
+            [
+               "7504530",
+               1749551145
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 4,
-      "justified_votes": 4
+      "justified_rating": 5,
+      "justified_votes": 5
    },
    "1602576480": {
       "title": "SCP-3074 - 卡夫卡停車場",
