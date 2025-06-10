@@ -61081,8 +61081,8 @@
          "_cc"
       ],
       "comments": "3",
-      "rating": "24",
-      "votes": "24",
+      "rating": "25",
+      "votes": "25",
       "parent": null,
       "id": "1306714921",
       "detailed_rating": {
@@ -61182,12 +61182,16 @@
             [
                "8884787",
                1711696169
+            ],
+            [
+               "6815728",
+               1749564065
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 24,
-      "justified_votes": 24
+      "justified_rating": 25,
+      "justified_votes": 25
    },
    "1611856301": {
       "title": "SCP-ZH-140 - 字義相悖",
