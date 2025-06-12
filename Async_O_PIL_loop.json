@@ -78194,8 +78194,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "22",
-      "votes": "22",
+      "rating": "23",
+      "votes": "23",
       "parent": null,
       "id": "1316053301",
       "detailed_rating": {
@@ -78287,12 +78287,16 @@
             [
                "DELETED",
                1695270804
+            ],
+            [
+               "6815728",
+               1749730052
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 21,
-      "justified_votes": 21
+      "justified_rating": 22,
+      "justified_votes": 22
    },
    "1629172693": {
       "title": "追求死亡之人",
