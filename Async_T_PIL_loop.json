@@ -130983,8 +130983,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "3",
-      "votes": "3",
+      "rating": "4",
+      "votes": "4",
       "parent": null,
       "id": "1451362643",
       "detailed_rating": {
@@ -131000,12 +131000,16 @@
             [
                "8221044",
                1703199095
+            ],
+            [
+               "7840542",
+               1749701526
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 3,
-      "justified_votes": 3
+      "justified_rating": 4,
+      "justified_votes": 4
    },
    "1699668883": {
       "title": "SCP-5871 - 因果逆行之刀",
