@@ -65889,8 +65889,8 @@
          "_cc"
       ],
       "comments": "20",
-      "rating": "44",
-      "votes": "44",
+      "rating": "45",
+      "votes": "45",
       "parent": null,
       "id": "1308330268",
       "detailed_rating": {
@@ -66070,12 +66070,16 @@
             [
                "7486905",
                1731291101
+            ],
+            [
+               "6815728",
+               1749718947
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 44,
-      "justified_votes": 44
+      "justified_rating": 45,
+      "justified_votes": 45
    },
    "1617038537": {
       "title": "SCP-ZH-033 - ◉",
@@ -129600,8 +129604,8 @@
          "_探險者mk"
       ],
       "comments": "1",
-      "rating": "27",
-      "votes": "27",
+      "rating": "28",
+      "votes": "28",
       "parent": null,
       "id": "1452503843",
       "detailed_rating": {
@@ -129713,12 +129717,16 @@
             [
                "DELETED",
                1718175105
+            ],
+            [
+               "6815728",
+               1749718947
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 26,
-      "justified_votes": 26
+      "justified_rating": 27,
+      "justified_votes": 27
    },
    "1706777299": {
       "title": "插曲：大麻煩",
