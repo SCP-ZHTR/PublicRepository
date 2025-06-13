@@ -146782,5 +146782,34 @@
       "deleted": false,
       "justified_rating": 4,
       "justified_votes": 4
+   },
+   "1749802508": {
+      "title": "SCP-8356 - 深海恐懼症：潛人入溟",
+      "fullname": "scp-8356",
+      "created_at": "1749802508",
+      "created_by": "6217438",
+      "tags": [
+         "en",
+         "safe",
+         "scp",
+         "地下",
+         "地點",
+         "恐怖",
+         "恐懼症驚選集",
+         "悲戚",
+         "結構物",
+         "翻譯",
+         "超維度"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1459792708",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
