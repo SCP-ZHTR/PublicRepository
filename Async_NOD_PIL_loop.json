@@ -31556,7 +31556,7 @@
    },
    "1749709479": {
       "title": "SCP-8084-1",
-      "fullname": "deleted:scp-8084-1",
+      "fullname": "fragment:scp-8084-1",
       "created_at": "1749709479",
       "created_by": "7504530",
       "tags": [
@@ -31566,8 +31566,27 @@
       "comments": "0",
       "rating": "0",
       "votes": "0",
-      "parent": "scp-8084-0",
+      "parent": "fragment:scp-8084-0",
       "id": "1459788270",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
+   },
+   "1749709429": {
+      "title": "SCP-8084-0",
+      "fullname": "fragment:scp-8084-0",
+      "created_at": "1749709429",
+      "created_by": "7504530",
+      "tags": [
+         "段落"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": "scp-8084",
+      "id": "1459788268",
       "detailed_rating": {},
       "deleted": false,
       "justified_rating": 0,
