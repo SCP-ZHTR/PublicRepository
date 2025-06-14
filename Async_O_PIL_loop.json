@@ -74127,8 +74127,8 @@
       ],
       "hidden_tags": [],
       "comments": "3",
-      "rating": "25",
-      "votes": "25",
+      "rating": "26",
+      "votes": "26",
       "parent": null,
       "id": "1312292800",
       "detailed_rating": {
@@ -74232,12 +74232,16 @@
             [
                "DELETED",
                "[UNKNOWN]"
+            ],
+            [
+               "6815728",
+               1749930105
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 23,
-      "justified_votes": 23
+      "justified_rating": 24,
+      "justified_votes": 24
    },
    "1625628581": {
       "title": "溫和的人，待在溫和的地方即可",
