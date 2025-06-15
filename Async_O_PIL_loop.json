@@ -33431,8 +33431,8 @@
          "_info"
       ],
       "comments": "3",
-      "rating": "19",
-      "votes": "19",
+      "rating": "20",
+      "votes": "20",
       "parent": null,
       "id": "999430989",
       "detailed_rating": {
@@ -33512,12 +33512,16 @@
             [
                "5454699",
                1617120000
+            ],
+            [
+               "6815728",
+               1749975996
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 19,
-      "justified_votes": 19
+      "justified_rating": 20,
+      "justified_votes": 20
    },
    "1583245622": {
       "title": "在那之後的另一個可能",
