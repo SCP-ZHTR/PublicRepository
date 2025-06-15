@@ -94365,8 +94365,8 @@
          "_cc"
       ],
       "comments": "2",
-      "rating": "38",
-      "votes": "38",
+      "rating": "39",
+      "votes": "39",
       "parent": null,
       "id": "1384675590",
       "detailed_rating": {
@@ -94522,12 +94522,16 @@
             [
                "9555530",
                1738924838
+            ],
+            [
+               "6815728",
+               1749993377
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 37,
-      "justified_votes": 37
+      "justified_rating": 38,
+      "justified_votes": 38
    },
    "1647761273": {
       "title": "藝術作品：SCP-ZH-922（SamScript版）",
