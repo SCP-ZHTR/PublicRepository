@@ -23570,8 +23570,8 @@
          "_cc"
       ],
       "comments": "2",
-      "rating": "15",
-      "votes": "15",
+      "rating": "16",
+      "votes": "16",
       "parent": null,
       "id": "977284153",
       "detailed_rating": {
@@ -23635,12 +23635,16 @@
             [
                "5454699",
                1617120000
+            ],
+            [
+               "6815728",
+               1749970852
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 15,
-      "justified_votes": 15
+      "justified_rating": 16,
+      "justified_votes": 16
    },
    "1576653375": {
       "title": "尋獲物品編號：065",
