@@ -84351,8 +84351,8 @@
          "_cc"
       ],
       "comments": "0",
-      "rating": "37",
-      "votes": "37",
+      "rating": "38",
+      "votes": "38",
       "parent": null,
       "id": "1331159816",
       "detailed_rating": {
@@ -84504,12 +84504,16 @@
             [
                "DELETED",
                1738924413
+            ],
+            [
+               "6815728",
+               1750089328
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 35,
-      "justified_votes": 35
+      "justified_rating": 36,
+      "justified_votes": 36
    },
    "1640272952": {
       "title": "聖誕EVE",
