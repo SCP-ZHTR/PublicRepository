@@ -59589,8 +59589,8 @@
          "_cc"
       ],
       "comments": "5",
-      "rating": "35",
-      "votes": "35",
+      "rating": "36",
+      "votes": "36",
       "parent": null,
       "id": "1306373728",
       "detailed_rating": {
@@ -59734,12 +59734,16 @@
             [
                "DELETED",
                "[UNKNOWN]"
+            ],
+            [
+               "6815728",
+               1750086557
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 34,
-      "justified_votes": 34
+      "justified_rating": 35,
+      "justified_votes": 35
    },
    "1609424721": {
       "title": "總之這是份遲交的聖誕禮物",
