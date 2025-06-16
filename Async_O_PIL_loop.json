@@ -69755,8 +69755,8 @@
       ],
       "hidden_tags": [],
       "comments": "15",
-      "rating": "36",
-      "votes": "38",
+      "rating": "37",
+      "votes": "39",
       "parent": null,
       "id": "1310945225",
       "detailed_rating": {
@@ -69908,6 +69908,10 @@
             [
                "DELETED",
                "[UNKNOWN]"
+            ],
+            [
+               "6815728",
+               1750082686
             ]
          ],
          "-": [
@@ -69918,8 +69922,8 @@
          ]
       },
       "deleted": false,
-      "justified_rating": 35,
-      "justified_votes": 37
+      "justified_rating": 36,
+      "justified_votes": 38
    },
    "1620130918": {
       "title": "炙熱的午後時光",
