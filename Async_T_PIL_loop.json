@@ -146819,8 +146819,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "3",
-      "votes": "3",
+      "rating": "4",
+      "votes": "4",
       "parent": null,
       "id": "1459792708",
       "detailed_rating": {
@@ -146836,12 +146836,16 @@
             [
                "5251681",
                1750038523
+            ],
+            [
+               "7064164",
+               1750150163
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 3,
-      "justified_votes": 3
+      "justified_rating": 4,
+      "justified_votes": 4
    },
    "1749709346": {
       "title": "SCP-8084 - 核武恐懼症：文化上的完全勝利",
