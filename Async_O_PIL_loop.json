@@ -147713,8 +147713,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "6",
-      "votes": "6",
+      "rating": "7",
+      "votes": "7",
       "parent": "scp-6416",
       "id": "1459817943",
       "detailed_rating": {
@@ -147742,11 +147742,15 @@
             [
                "4990678",
                1750413120
+            ],
+            [
+               "7840542",
+               1750416239
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 6,
-      "justified_votes": 6
+      "justified_rating": 7,
+      "justified_votes": 7
    }
 }
