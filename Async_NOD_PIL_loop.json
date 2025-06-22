@@ -31591,5 +31591,42 @@
       "deleted": false,
       "justified_rating": 0,
       "justified_votes": 0
+   },
+   "1750597749": {
+      "title": "Trout的提案 - 血、汗、淚（被刪除）",
+      "fullname": "deleted:troutsproposal",
+      "created_at": "1750597749",
+      "created_by": "7605593",
+      "tags": [
+         "001提案",
+         "en",
+         "lgbtq",
+         "pridefest2025",
+         "scp",
+         "the-administrator",
+         "人形",
+         "屍體",
+         "恐怖",
+         "悲戚",
+         "成人內容",
+         "智能",
+         "機密分級",
+         "翻譯",
+         "肉體恐怖",
+         "被刪除"
+      ],
+      "hidden_tags": [
+         "_adult",
+         "_cc"
+      ],
+      "comments": "1",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1459830381",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
