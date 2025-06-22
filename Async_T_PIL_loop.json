@@ -146928,13 +146928,20 @@
          "_cc"
       ],
       "comments": "1",
-      "rating": "0",
-      "votes": "0",
+      "rating": "1",
+      "votes": "1",
       "parent": null,
       "id": "1459830381",
-      "detailed_rating": {},
+      "detailed_rating": {
+         "+": [
+            [
+               "7064164",
+               1750598307
+            ]
+         ]
+      },
       "deleted": false,
-      "justified_rating": 0,
-      "justified_votes": 0
+      "justified_rating": 1,
+      "justified_votes": 1
    }
 }
