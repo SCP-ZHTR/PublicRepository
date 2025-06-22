@@ -31620,8 +31620,8 @@
          "_cc"
       ],
       "comments": "1",
-      "rating": "2",
-      "votes": "2",
+      "rating": "3",
+      "votes": "3",
       "parent": null,
       "id": "1459830381",
       "detailed_rating": {
@@ -31633,11 +31633,15 @@
             [
                "7064164",
                1750598873
+            ],
+            [
+               "9075244",
+               1750599293
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 2,
-      "justified_votes": 2
+      "justified_rating": 3,
+      "justified_votes": 3
    }
 }
