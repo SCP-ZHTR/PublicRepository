@@ -139568,8 +139568,8 @@
       ],
       "hidden_tags": [],
       "comments": "2",
-      "rating": "29",
-      "votes": "29",
+      "rating": "30",
+      "votes": "30",
       "parent": null,
       "id": "1456300605",
       "detailed_rating": {
@@ -139689,12 +139689,16 @@
             [
                "8536616",
                1741848792
+            ],
+            [
+               "6815728",
+               1750602609
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 29,
-      "justified_votes": 29
+      "justified_rating": 30,
+      "justified_votes": 30
    },
    "1723867205": {
       "title": "SCP-ZH-454 - 早是「滋潤」",
