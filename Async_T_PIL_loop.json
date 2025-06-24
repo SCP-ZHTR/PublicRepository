@@ -38552,8 +38552,8 @@
       ],
       "hidden_tags": [],
       "comments": "4",
-      "rating": "5",
-      "votes": "5",
+      "rating": "6",
+      "votes": "6",
       "parent": null,
       "id": "1088618146",
       "detailed_rating": {
@@ -38577,12 +38577,16 @@
             [
                "5981123",
                1719254950
+            ],
+            [
+               "8394471",
+               1750798654
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 5,
-      "justified_votes": 5
+      "justified_rating": 6,
+      "justified_votes": 6
    },
    "1590436069": {
       "title": "宛若漆黑洞中之闇",
