@@ -21247,8 +21247,8 @@
          "_licensebox"
       ],
       "comments": "0",
-      "rating": "7",
-      "votes": "7",
+      "rating": "8",
+      "votes": "8",
       "parent": null,
       "id": "1446776959",
       "detailed_rating": {
@@ -21280,12 +21280,16 @@
             [
                "6277235",
                1689145478
+            ],
+            [
+               "7513990",
+               1750760848
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 7,
-      "justified_votes": 7
+      "justified_rating": 8,
+      "justified_votes": 8
    },
    "1679764679": {
       "title": "fragment:scp-2343-1",
