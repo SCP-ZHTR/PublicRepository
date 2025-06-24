@@ -60744,8 +60744,8 @@
       ],
       "hidden_tags": [],
       "comments": "3",
-      "rating": "11",
-      "votes": "11",
+      "rating": "12",
+      "votes": "12",
       "parent": null,
       "id": "1306663682",
       "detailed_rating": {
@@ -60793,12 +60793,16 @@
             [
                "3981670",
                1617120000
+            ],
+            [
+               "8394471",
+               1750803823
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 11,
-      "justified_votes": 11
+      "justified_rating": 12,
+      "justified_votes": 12
    },
    "1611468135": {
       "title": "萬丈深淵",
