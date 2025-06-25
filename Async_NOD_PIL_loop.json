@@ -11358,8 +11358,8 @@
       ],
       "hidden_tags": [],
       "comments": "3",
-      "rating": "8",
-      "votes": "8",
+      "rating": "9",
+      "votes": "9",
       "parent": null,
       "id": "1312337198",
       "detailed_rating": {
@@ -11395,12 +11395,16 @@
             [
                "8543386",
                1707922115
+            ],
+            [
+               "9075244",
+               1750851751
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 8,
-      "justified_votes": 8
+      "justified_rating": 9,
+      "justified_votes": 9
    },
    "1626176991": {
       "title": "拋鈴人 CSS模板",
