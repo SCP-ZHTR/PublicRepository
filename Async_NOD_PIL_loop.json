@@ -10950,8 +10950,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "3",
-      "votes": "3",
+      "rating": "2",
+      "votes": "2",
       "parent": null,
       "id": "1312090826",
       "detailed_rating": {
@@ -10963,16 +10963,12 @@
             [
                "4239775",
                1689145478
-            ],
-            [
-               "9075244",
-               1750811432
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 3,
-      "justified_votes": 3
+      "justified_rating": 2,
+      "justified_votes": 2
    },
    "1624113961": {
       "title": "SCP-1397-RU - ⬤",
