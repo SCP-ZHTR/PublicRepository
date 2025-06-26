@@ -147808,5 +147808,33 @@
       "deleted": false,
       "justified_rating": 11,
       "justified_votes": 11
+   },
+   "1750927875": {
+      "title": "SCP-ZH-232 - 幽靈船的逃犯",
+      "fullname": "scp-zh-232",
+      "created_at": "1750927875",
+      "created_by": "5415046",
+      "tags": [
+         "euclid",
+         "scp",
+         "傳染性",
+         "原創",
+         "幻覺",
+         "智能",
+         "生物危害",
+         "精神影響",
+         "細菌",
+         "門徑"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1459844364",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
