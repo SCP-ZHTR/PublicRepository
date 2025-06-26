@@ -147753,8 +147753,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "11",
-      "votes": "11",
+      "rating": "12",
+      "votes": "12",
       "parent": "scp-6416",
       "id": "1459817943",
       "detailed_rating": {
@@ -147802,12 +147802,16 @@
             [
                "9075244",
                1750501115
+            ],
+            [
+               "5251681",
+               1750967115
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 11,
-      "justified_votes": 11
+      "justified_rating": 12,
+      "justified_votes": 12
    },
    "1750927875": {
       "title": "SCP-ZH-232 - 幽靈船的逃犯",
