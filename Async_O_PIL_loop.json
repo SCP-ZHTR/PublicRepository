@@ -45033,8 +45033,8 @@
          "_a3"
       ],
       "comments": "2",
-      "rating": "8",
-      "votes": "10",
+      "rating": "9",
+      "votes": "11",
       "parent": null,
       "id": "1174024731",
       "detailed_rating": {
@@ -45074,6 +45074,10 @@
             [
                "4351112",
                1617120000
+            ],
+            [
+               "7513990",
+               1751187957
             ]
          ],
          "-": [
@@ -45084,8 +45088,8 @@
          ]
       },
       "deleted": false,
-      "justified_rating": 8,
-      "justified_votes": 10
+      "justified_rating": 9,
+      "justified_votes": 11
    },
    "1594378929": {
       "title": "蛛網國際安保報告書 CI-S-057：霓虹兔電子遊樂場",
