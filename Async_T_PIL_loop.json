@@ -108411,8 +108411,8 @@
          "_licensebox"
       ],
       "comments": "0",
-      "rating": "12",
-      "votes": "12",
+      "rating": "13",
+      "votes": "13",
       "parent": null,
       "id": "1444260101",
       "detailed_rating": {
@@ -108464,12 +108464,16 @@
             [
                "DELETED",
                1698549724
+            ],
+            [
+               "8319365",
+               1751266726
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 11,
-      "justified_votes": 11
+      "justified_rating": 12,
+      "justified_votes": 12
    },
    "1671027070": {
       "title": "SCP-848 - 跨維度蜘蛛網",
