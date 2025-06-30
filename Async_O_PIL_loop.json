@@ -20917,8 +20917,8 @@
          "_禁黑"
       ],
       "comments": "0",
-      "rating": "24",
-      "votes": "24",
+      "rating": "25",
+      "votes": "25",
       "parent": null,
       "id": "938849739",
       "detailed_rating": {
@@ -21018,12 +21018,16 @@
             [
                "8846720",
                1717899774
+            ],
+            [
+               "5483179",
+               1751309204
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 23,
-      "justified_votes": 23
+      "justified_rating": 24,
+      "justified_votes": 24
    },
    "1574243813": {
       "title": "SCP-ZH-301 - 馬斯列尼查",
@@ -24429,8 +24433,8 @@
          "_info"
       ],
       "comments": "7",
-      "rating": "25",
-      "votes": "25",
+      "rating": "26",
+      "votes": "26",
       "parent": null,
       "id": "985828979",
       "detailed_rating": {
@@ -24534,12 +24538,16 @@
             [
                "8418020",
                1710347077
+            ],
+            [
+               "5483179",
+               1751309204
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 25,
-      "justified_votes": 25
+      "justified_rating": 26,
+      "justified_votes": 26
    },
    "1576930745": {
       "title": "Site-ZH-17 Ananke區標誌",
