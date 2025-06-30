@@ -22686,8 +22686,8 @@
          "_禁黑"
       ],
       "comments": "0",
-      "rating": "18",
-      "votes": "18",
+      "rating": "19",
+      "votes": "19",
       "parent": null,
       "id": "963215301",
       "detailed_rating": {
@@ -22763,12 +22763,16 @@
             [
                "8883612",
                1702777158
+            ],
+            [
+               "9443485",
+               1751304591
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 17,
-      "justified_votes": 17
+      "justified_rating": 18,
+      "justified_votes": 18
    },
    "1576022690": {
       "title": "初次見面",
