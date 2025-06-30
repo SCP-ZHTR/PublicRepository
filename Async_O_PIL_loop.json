@@ -28715,8 +28715,8 @@
          "_安布羅斯餐廳-goi格式"
       ],
       "comments": "9",
-      "rating": "28",
-      "votes": "28",
+      "rating": "29",
+      "votes": "29",
       "parent": null,
       "id": "986319616",
       "detailed_rating": {
@@ -28832,12 +28832,16 @@
             [
                "5981123",
                1719427601
+            ],
+            [
+               "5483179",
+               1751320764
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 28,
-      "justified_votes": 28
+      "justified_rating": 29,
+      "justified_votes": 29
    },
    "1580059446": {
       "title": "SCP-ZH-591 - 血源之包",
