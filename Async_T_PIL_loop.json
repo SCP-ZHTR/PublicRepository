@@ -75218,8 +75218,8 @@
          "_cc"
       ],
       "comments": "1",
-      "rating": "10",
-      "votes": "10",
+      "rating": "11",
+      "votes": "11",
       "parent": null,
       "id": "1324122302",
       "detailed_rating": {
@@ -75263,12 +75263,16 @@
             [
                "6678442",
                1632326400
+            ],
+            [
+               "9443485",
+               1751282883
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 10,
-      "justified_votes": 10
+      "justified_rating": 11,
+      "justified_votes": 11
    },
    "1632406643": {
       "title": "遺落的插圖：小紅帽",
