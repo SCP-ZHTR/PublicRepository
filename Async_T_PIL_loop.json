@@ -33103,8 +33103,8 @@
       ],
       "hidden_tags": [],
       "comments": "4",
-      "rating": "3",
-      "votes": "3",
+      "rating": "4",
+      "votes": "4",
       "parent": null,
       "id": "1024513369",
       "detailed_rating": {
@@ -33120,12 +33120,16 @@
             [
                "9428515",
                1729574275
+            ],
+            [
+               "9371222",
+               1751365246
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 3,
-      "justified_votes": 3
+      "justified_rating": 4,
+      "justified_votes": 4
    },
    "1586878197": {
       "title": "SCP-060 - 煉獄骷髏",
