@@ -146983,5 +146983,36 @@
       "deleted": true,
       "justified_rating": 1,
       "justified_votes": 1
+   },
+   "1751365676": {
+      "title": "SCP-4493",
+      "fullname": "scp-4493",
+      "created_at": "1751365676",
+      "created_by": "9371222",
+      "tags": [
+         "en",
+         "jude-kriyot",
+         "keter",
+         "mc&d",
+         "meta",
+         "scp",
+         "wondertainment博士",
+         "不可摧毀",
+         "反大麻玩家",
+         "知識",
+         "翻譯",
+         "藝術性",
+         "電子"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1459863375",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
