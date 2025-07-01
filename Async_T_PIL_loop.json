@@ -62552,8 +62552,8 @@
          "_licensebox"
       ],
       "comments": "2",
-      "rating": "2",
-      "votes": "2",
+      "rating": "3",
+      "votes": "3",
       "parent": null,
       "id": "1308473305",
       "detailed_rating": {
@@ -62565,12 +62565,16 @@
             [
                "8064046",
                1657468800
+            ],
+            [
+               "9371222",
+               1751365391
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 2,
-      "justified_votes": 2
+      "justified_rating": 3,
+      "justified_votes": 3
    },
    "1617502114": {
       "title": "寄給 SCP 基金會的六封信（以及一封家書）",
