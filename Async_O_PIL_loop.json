@@ -139616,8 +139616,8 @@
       ],
       "hidden_tags": [],
       "comments": "2",
-      "rating": "30",
-      "votes": "30",
+      "rating": "31",
+      "votes": "31",
       "parent": null,
       "id": "1456300605",
       "detailed_rating": {
@@ -139741,12 +139741,16 @@
             [
                "6815728",
                1750602609
+            ],
+            [
+               "5956873",
+               1751335376
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 30,
-      "justified_votes": 30
+      "justified_rating": 31,
+      "justified_votes": 31
    },
    "1723867205": {
       "title": "SCP-ZH-454 - 早是「滋潤」",
@@ -139764,8 +139768,8 @@
       ],
       "hidden_tags": [],
       "comments": "4",
-      "rating": "20",
-      "votes": "20",
+      "rating": "21",
+      "votes": "21",
       "parent": null,
       "id": "1456346392",
       "detailed_rating": {
@@ -139849,12 +139853,16 @@
             [
                "9447838",
                1745648855
+            ],
+            [
+               "5956873",
+               1751335376
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 20,
-      "justified_votes": 20
+      "justified_rating": 21,
+      "justified_votes": 21
    },
    "1723910407": {
       "title": "SCP-ZH-715 - 梅是「門禁」",
@@ -139871,8 +139879,8 @@
       ],
       "hidden_tags": [],
       "comments": "2",
-      "rating": "22",
-      "votes": "22",
+      "rating": "23",
+      "votes": "23",
       "parent": null,
       "id": "1456371039",
       "detailed_rating": {
@@ -139964,12 +139972,16 @@
             [
                "8377183",
                1747202853
+            ],
+            [
+               "5956873",
+               1751335376
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 22,
-      "justified_votes": 22
+      "justified_rating": 23,
+      "justified_votes": 23
    },
    "1723917039": {
       "title": "SCP-ZH-068 - 霧中泡影",
