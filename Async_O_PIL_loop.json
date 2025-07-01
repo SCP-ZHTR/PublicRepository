@@ -141885,8 +141885,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "9",
-      "votes": "9",
+      "rating": "10",
+      "votes": "10",
       "parent": null,
       "id": "1456621632",
       "detailed_rating": {
@@ -141926,12 +141926,16 @@
             [
                "6418659",
                1725419722
+            ],
+            [
+               "5956873",
+               1751349086
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 9,
-      "justified_votes": 9
+      "justified_rating": 10,
+      "justified_votes": 10
    },
    "1725215952": {
       "title": "SCP-ZH-975 - 來是「蓮皿」",
