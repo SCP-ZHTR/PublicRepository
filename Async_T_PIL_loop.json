@@ -44823,8 +44823,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "8",
-      "votes": "8",
+      "rating": "9",
+      "votes": "9",
       "parent": "scpdeclassified",
       "id": "1267859172",
       "detailed_rating": {
@@ -44860,12 +44860,16 @@
             [
                "9311399",
                1724234422
+            ],
+            [
+               "9558349",
+               1751462209
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 8,
-      "justified_votes": 8
+      "justified_rating": 9,
+      "justified_votes": 9
    },
    "1599192255": {
       "title": "並未消逝",
