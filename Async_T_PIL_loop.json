@@ -46464,8 +46464,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "7",
-      "votes": "7",
+      "rating": "8",
+      "votes": "8",
       "parent": "scpdeclassified",
       "id": "1304973737",
       "detailed_rating": {
@@ -46497,12 +46497,16 @@
             [
                "5013754",
                1617120000
+            ],
+            [
+               "9311399",
+               1751606216
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 7,
-      "justified_votes": 7
+      "justified_rating": 8,
+      "justified_votes": 8
    },
    "1601140105": {
       "title": "1998年，初夏",
