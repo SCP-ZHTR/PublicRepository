@@ -82079,8 +82079,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "13",
-      "votes": "13",
+      "rating": "14",
+      "votes": "14",
       "parent": null,
       "id": "1329832612",
       "detailed_rating": {
@@ -82136,12 +82136,16 @@
             [
                "DELETED",
                1695270461
+            ],
+            [
+               "9075244",
+               1751595552
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 12,
-      "justified_votes": 12
+      "justified_rating": 13,
+      "justified_votes": 13
    },
    "1635587325": {
       "title": "代達洛斯計畫",
