@@ -60138,8 +60138,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "6",
-      "votes": "6",
+      "rating": "7",
+      "votes": "7",
       "parent": "antimemetics-division-hub",
       "id": "1307460475",
       "detailed_rating": {
@@ -60167,12 +60167,16 @@
             [
                "5544112",
                1738980955
+            ],
+            [
+               "7064164",
+               1751692423
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 6,
-      "justified_votes": 6
+      "justified_rating": 7,
+      "justified_votes": 7
    },
    "1616026391": {
       "title": "SCP-3002 - 活埋想法的嘗試",
