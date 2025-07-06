@@ -123029,8 +123029,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "2",
-      "votes": "2",
+      "rating": "3",
+      "votes": "3",
       "parent": null,
       "id": "1448578227",
       "detailed_rating": {
@@ -123042,12 +123042,16 @@
             [
                "7504530",
                1687406851
+            ],
+            [
+               "9670949",
+               1751842659
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 2,
-      "justified_votes": 2
+      "justified_rating": 3,
+      "justified_votes": 3
    },
    "1687411999": {
       "title": "工廠中心頁",
