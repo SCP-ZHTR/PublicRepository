@@ -147129,5 +147129,41 @@
       "deleted": false,
       "justified_rating": 5,
       "justified_votes": 5
+   },
+   "1751785826": {
+      "title": "SCP-8490 - 死物恐懼症：存放屍骨之所",
+      "fullname": "scp-8490",
+      "created_at": "1751785826",
+      "created_by": "6217438",
+      "tags": [
+         "classiccon2025 en",
+         "keter",
+         "scp",
+         "傳染性",
+         "型態變化",
+         "屍體",
+         "復活",
+         "悖論",
+         "敵意",
+         "時間影響",
+         "未來",
+         "未收容",
+         "生物性",
+         "翻譯",
+         "視覺性",
+         "觀察影響",
+         "認知危害",
+         "資訊危害"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1459882945",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
