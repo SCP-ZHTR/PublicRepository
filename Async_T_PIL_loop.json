@@ -147172,5 +147172,38 @@
       "deleted": false,
       "justified_rating": 1,
       "justified_votes": 1
+   },
+   "1751790365": {
+      "title": "SCP-8893 - 向佐伊．奎因致歉",
+      "fullname": "scp-8893",
+      "created_at": "1751790365",
+      "created_by": "6217438",
+      "tags": [
+         "classiccon2025 en",
+         "scp",
+         "人形",
+         "反大麻玩家",
+         "反熵",
+         "性",
+         "昆蟲",
+         "未收容",
+         "機密分級",
+         "活物",
+         "物種",
+         "現象",
+         "生殖性",
+         "線上",
+         "翻譯"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1459882991",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
