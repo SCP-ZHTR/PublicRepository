@@ -18492,5 +18492,22 @@
       "deleted": true,
       "justified_rating": 0,
       "justified_votes": 0
+   },
+   "1751785826": {
+      "title": "SCP-8490 - 死物恐懼症：存放屍骨之所",
+      "fullname": "scp-8490",
+      "created_at": "1751785826",
+      "created_by": "6217438",
+      "tags": [],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1459882945",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
