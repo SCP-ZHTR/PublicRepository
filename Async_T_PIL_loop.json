@@ -147255,5 +147255,35 @@
       "deleted": false,
       "justified_rating": 1,
       "justified_votes": 1
+   },
+   "1751875633": {
+      "title": "SCP-8955 - 好人不長命",
+      "fullname": "scp-8955",
+      "created_at": "1751875633",
+      "created_by": "6217438",
+      "tags": [
+         "classiccon2025 en",
+         "euclid",
+         "scp",
+         "人形",
+         "恐怖",
+         "智能",
+         "現象",
+         "精神影響",
+         "翻譯",
+         "視覺性",
+         "觀察影響",
+         "鬼魂"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1459886253",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
