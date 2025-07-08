@@ -145933,8 +145933,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "6",
-      "votes": "6",
+      "rating": "7",
+      "votes": "7",
       "parent": null,
       "id": "1459280078",
       "detailed_rating": {
@@ -145962,12 +145962,16 @@
             [
                "5981123",
                1748345841
+            ],
+            [
+               "6381244",
+               1752007679
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 6,
-      "justified_votes": 6
+      "justified_rating": 7,
+      "justified_votes": 7
    },
    "1745023848": {
       "title": "Scp 8510",
