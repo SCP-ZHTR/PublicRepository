@@ -147445,7 +147445,7 @@
       "justified_votes": 8
    },
    "1752017875": {
-      "title": "SCP-8513 - 賓夕法尼亞十六人失蹤案",
+      "title": "SCP-8805 - 賓夕法尼亞十六人失蹤案",
       "fullname": "scp-8805",
       "created_at": "1752017875",
       "created_by": "6217438",
@@ -147461,13 +147461,24 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "0",
-      "votes": "0",
+      "rating": "2",
+      "votes": "2",
       "parent": null,
       "id": "1459893307",
-      "detailed_rating": {},
+      "detailed_rating": {
+         "+": [
+            [
+               "6217438",
+               1752018176
+            ],
+            [
+               "5370805",
+               1752018176
+            ]
+         ]
+      },
       "deleted": false,
-      "justified_rating": 0,
-      "justified_votes": 0
+      "justified_rating": 2,
+      "justified_votes": 2
    }
 }
