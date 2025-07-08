@@ -46328,8 +46328,8 @@
       ],
       "hidden_tags": [],
       "comments": "2",
-      "rating": "11",
-      "votes": "11",
+      "rating": "12",
+      "votes": "12",
       "parent": null,
       "id": "1194681860",
       "detailed_rating": {
@@ -46377,12 +46377,16 @@
             [
                "5454699",
                1617120000
+            ],
+            [
+               "9443485",
+               1751991250
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 11,
-      "justified_votes": 11
+      "justified_rating": 12,
+      "justified_votes": 12
    },
    "1595062560": {
       "title": "你不應在溫室裏說冷笑話",
@@ -73140,8 +73144,8 @@
          "_cc"
       ],
       "comments": "7",
-      "rating": "16",
-      "votes": "16",
+      "rating": "17",
+      "votes": "17",
       "parent": null,
       "id": "1312150356",
       "detailed_rating": {
@@ -73209,12 +73213,16 @@
             [
                "9075244",
                1732581612
+            ],
+            [
+               "9443485",
+               1751991250
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 15,
-      "justified_votes": 15
+      "justified_rating": 16,
+      "justified_votes": 16
    },
    "1624412657": {
       "title": "SCP-ZH-390 - 臺灣寫作測驗",
