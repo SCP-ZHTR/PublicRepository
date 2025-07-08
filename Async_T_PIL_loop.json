@@ -147371,5 +147371,34 @@
       "deleted": false,
       "justified_rating": 3,
       "justified_votes": 3
+   },
+   "1751976634": {
+      "title": "SCP-8513 - 不得釋放",
+      "fullname": "scp-8513",
+      "created_at": "1751976634",
+      "created_by": "6217438",
+      "tags": [
+         "apocalyptic",
+         "classiccon2025 en",
+         "keter",
+         "scp",
+         "屍體",
+         "復活",
+         "恐怖",
+         "悲戚",
+         "未收容",
+         "現象",
+         "翻譯"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1459891651",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
