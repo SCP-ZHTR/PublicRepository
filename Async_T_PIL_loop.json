@@ -147392,8 +147392,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "3",
-      "votes": "3",
+      "rating": "7",
+      "votes": "7",
       "parent": null,
       "id": "1459891651",
       "detailed_rating": {
@@ -147409,11 +147409,27 @@
             [
                "7064164",
                1751981641
+            ],
+            [
+               "8854072",
+               1751982206
+            ],
+            [
+               "5334590",
+               1751982206
+            ],
+            [
+               "5413616",
+               1751982206
+            ],
+            [
+               "5338547",
+               1751982206
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 3,
-      "justified_votes": 3
+      "justified_rating": 7,
+      "justified_votes": 7
    }
 }
