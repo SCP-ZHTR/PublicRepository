@@ -25242,8 +25242,8 @@
          "_info"
       ],
       "comments": "0",
-      "rating": "2",
-      "votes": "2",
+      "rating": "3",
+      "votes": "3",
       "parent": null,
       "id": "999695571",
       "detailed_rating": {
@@ -25255,12 +25255,16 @@
             [
                "3981670",
                1617120000
+            ],
+            [
+               "9443485",
+               1751936724
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 2,
-      "justified_votes": 2
+      "justified_rating": 3,
+      "justified_votes": 3
    },
    "1583289789": {
       "title": "SCP-689 - 黑暗中的崇神",
