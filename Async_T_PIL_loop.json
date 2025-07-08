@@ -147443,5 +147443,31 @@
       "deleted": false,
       "justified_rating": 8,
       "justified_votes": 8
+   },
+   "1752017875": {
+      "title": "SCP-8513 - 賓夕法尼亞十六人失蹤案",
+      "fullname": "scp-8805",
+      "created_at": "1752017875",
+      "created_by": "6217438",
+      "tags": [
+         "classiccon2025 en",
+         "euclid",
+         "scp",
+         "恐怖",
+         "現象",
+         "生殖性",
+         "翻譯",
+         "鹿類"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1459893307",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
