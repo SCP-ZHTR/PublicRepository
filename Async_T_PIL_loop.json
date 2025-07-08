@@ -114720,8 +114720,8 @@
          "_licensebox"
       ],
       "comments": "0",
-      "rating": "8",
-      "votes": "8",
+      "rating": "9",
+      "votes": "9",
       "parent": "scp-anthology-hub",
       "id": "1446427212",
       "detailed_rating": {
@@ -114757,12 +114757,16 @@
             [
                "DELETED",
                1698328761
+            ],
+            [
+               "5251681",
+               1751941286
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 7,
-      "justified_votes": 7
+      "justified_rating": 8,
+      "justified_votes": 8
    },
    "1677520706": {
       "title": "SCP-7725 - S是「聖潔」（Saintly）",
