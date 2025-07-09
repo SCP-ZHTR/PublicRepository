@@ -148069,5 +148069,31 @@
       "deleted": false,
       "justified_rating": 8,
       "justified_votes": 8
+   },
+   "1752065382": {
+      "title": "SCP-ZH-334 - 好會數數",
+      "fullname": "scp-zh-334",
+      "created_at": "1752065382",
+      "created_by": "6217438",
+      "tags": [
+         "scp",
+         "site-zh-11",
+         "site-zh-16",
+         "原創",
+         "反大麻玩家",
+         "機密分級",
+         "玩具",
+         "記憶影響"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1459896237",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
