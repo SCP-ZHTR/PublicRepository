@@ -147517,5 +147517,35 @@
       "deleted": false,
       "justified_rating": 1,
       "justified_votes": 1
+   },
+   "1752030792": {
+      "title": "SCP-8411 - 樺木蹤跡",
+      "fullname": "scp-8411",
+      "created_at": "1752030792",
+      "created_by": "6217438",
+      "tags": [
+         "classiccon2025 en",
+         "illustrated",
+         "safe",
+         "scp",
+         "共感",
+         "恐怖",
+         "模因",
+         "樹木",
+         "知識",
+         "神秘",
+         "翻譯",
+         "語言"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1459893702",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
