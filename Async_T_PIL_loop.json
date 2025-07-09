@@ -20584,8 +20584,8 @@
          "_地平線倡議-goi格式"
       ],
       "comments": "0",
-      "rating": "7",
-      "votes": "7",
+      "rating": "8",
+      "votes": "8",
       "parent": null,
       "id": "963389868",
       "detailed_rating": {
@@ -20617,12 +20617,16 @@
             [
                "5013754",
                1617120000
+            ],
+            [
+               "9443485",
+               1752035177
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 7,
-      "justified_votes": 7
+      "justified_rating": 8,
+      "justified_votes": 8
    },
    "1576602432": {
       "title": "夢神關注組織中心頁",
