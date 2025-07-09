@@ -147547,8 +147547,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "2",
-      "votes": "2",
+      "rating": "3",
+      "votes": "3",
       "parent": null,
       "id": "1459893702",
       "detailed_rating": {
@@ -147560,12 +147560,16 @@
             [
                "8177208",
                1752032143
+            ],
+            [
+               "7064164",
+               1752052535
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 2,
-      "justified_votes": 2
+      "justified_rating": 3,
+      "justified_votes": 3
    },
    "1752034952": {
       "title": "SCP-8975 - 家中深淵",
@@ -147623,8 +147627,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "2",
-      "votes": "2",
+      "rating": "3",
+      "votes": "3",
       "parent": null,
       "id": "1459894268",
       "detailed_rating": {
@@ -147636,11 +147640,15 @@
             [
                "8177208",
                1752043512
+            ],
+            [
+               "7064164",
+               1752052535
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 2,
-      "justified_votes": 2
+      "justified_rating": 3,
+      "justified_votes": 3
    }
 }
