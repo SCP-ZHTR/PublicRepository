@@ -147716,5 +147716,28 @@
       "deleted": false,
       "justified_rating": 4,
       "justified_votes": 4
+   },
+   "1752074233": {
+      "title": "經典競賽",
+      "fullname": "classic-con",
+      "created_at": "1752074233",
+      "created_by": "5370805",
+      "tags": [
+         "en",
+         "en-經典競賽2025",
+         "中心",
+         "競賽",
+         "翻譯"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1459896770",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
