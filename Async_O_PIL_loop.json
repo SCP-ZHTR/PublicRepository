@@ -147959,8 +147959,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "9",
-      "votes": "9",
+      "rating": "10",
+      "votes": "10",
       "parent": null,
       "id": "1459844364",
       "detailed_rating": {
@@ -148000,12 +148000,16 @@
             [
                "5981123",
                1751886388
+            ],
+            [
+               "7571354",
+               1752065069
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 9,
-      "justified_votes": 9
+      "justified_rating": 10,
+      "justified_votes": 10
    },
    "1751470166": {
       "title": "因非獨行",
