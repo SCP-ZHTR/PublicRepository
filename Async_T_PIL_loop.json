@@ -147333,8 +147333,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "4",
-      "votes": "4",
+      "rating": "5",
+      "votes": "5",
       "parent": null,
       "id": "1459886253",
       "detailed_rating": {
@@ -147354,12 +147354,16 @@
             [
                "7840542",
                1751973471
+            ],
+            [
+               "7571354",
+               1752070015
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 4,
-      "justified_votes": 4
+      "justified_rating": 5,
+      "justified_votes": 5
    },
    "1751890422": {
       "title": "SCP-8329 - 獎品人",
@@ -147380,8 +147384,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "3",
-      "votes": "3",
+      "rating": "4",
+      "votes": "4",
       "parent": null,
       "id": "1459887286",
       "detailed_rating": {
@@ -147397,12 +147401,16 @@
             [
                "7840542",
                1751973749
+            ],
+            [
+               "7571354",
+               1752070015
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 3,
-      "justified_votes": 3
+      "justified_rating": 4,
+      "justified_votes": 4
    },
    "1751976634": {
       "title": "SCP-8513 - 不得釋放",

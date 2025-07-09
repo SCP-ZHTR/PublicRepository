@@ -145566,8 +145566,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "17",
-      "votes": "17",
+      "rating": "18",
+      "votes": "18",
       "parent": null,
       "id": "1458136412",
       "detailed_rating": {
@@ -145639,12 +145639,16 @@
             [
                "7504530",
                1737518691
+            ],
+            [
+               "7064164",
+               1752070013
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 17,
-      "justified_votes": 17
+      "justified_rating": 18,
+      "justified_votes": 18
    },
    "1735438687": {
       "title": "辦公桌上一份已刪除文件",
