@@ -39782,8 +39782,8 @@
          "_cc"
       ],
       "comments": "0",
-      "rating": "25",
-      "votes": "27",
+      "rating": "26",
+      "votes": "28",
       "parent": null,
       "id": "1040165930",
       "detailed_rating": {
@@ -39891,6 +39891,10 @@
             [
                "9163798",
                1727081971
+            ],
+            [
+               "9443485",
+               1752035322
             ]
          ],
          "-": [
@@ -39901,8 +39905,8 @@
          ]
       },
       "deleted": false,
-      "justified_rating": 24,
-      "justified_votes": 26
+      "justified_rating": 25,
+      "justified_votes": 27
    },
    "1589814178": {
       "title": "事件代號：核裂擠兌 蛛網裡的老鷹",
