@@ -147255,8 +147255,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "3",
-      "votes": "3",
+      "rating": "4",
+      "votes": "4",
       "parent": null,
       "id": "1459882991",
       "detailed_rating": {
@@ -147272,12 +147272,16 @@
             [
                "7571354",
                1752069866
+            ],
+            [
+               "7064164",
+               1752076366
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 3,
-      "justified_votes": 3
+      "justified_rating": 4,
+      "justified_votes": 4
    },
    "1751806042": {
       "title": "SCP-8618 - 牆上蜘蛛",
