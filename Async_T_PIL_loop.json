@@ -58000,8 +58000,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "9",
-      "votes": "9",
+      "rating": "10",
+      "votes": "10",
       "parent": null,
       "id": "1306990879",
       "detailed_rating": {
@@ -58041,12 +58041,16 @@
             [
                "4442284",
                1627747200
+            ],
+            [
+               "7064164",
+               1752067744
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 9,
-      "justified_votes": 9
+      "justified_rating": 10,
+      "justified_votes": 10
    },
    "1614218170": {
       "title": "收容危害控制",
