@@ -147461,8 +147461,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "2",
-      "votes": "2",
+      "rating": "3",
+      "votes": "3",
       "parent": null,
       "id": "1459893307",
       "detailed_rating": {
@@ -147474,12 +147474,16 @@
             [
                "5370805",
                1752018176
+            ],
+            [
+               "8177208",
+               1752032143
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 2,
-      "justified_votes": 2
+      "justified_rating": 3,
+      "justified_votes": 3
    },
    "1752023999": {
       "title": "SCP-7823 - 登陸月球",
@@ -147539,8 +147543,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "1",
-      "votes": "1",
+      "rating": "2",
+      "votes": "2",
       "parent": null,
       "id": "1459893702",
       "detailed_rating": {
@@ -147548,11 +147552,15 @@
             [
                "6217438",
                1752031034
+            ],
+            [
+               "8177208",
+               1752032143
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 1,
-      "justified_votes": 1
+      "justified_rating": 2,
+      "justified_votes": 2
    }
 }
