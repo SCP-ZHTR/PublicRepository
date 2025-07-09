@@ -147598,5 +147598,34 @@
       "deleted": false,
       "justified_rating": 1,
       "justified_votes": 1
+   },
+   "1752042718": {
+      "title": "SCP-8294 - 焚屋",
+      "fullname": "scp-8294",
+      "created_at": "1752042718",
+      "created_by": "6217438",
+      "tags": [
+         "classiccon2025 en",
+         "keter",
+         "scp",
+         "傳染性",
+         "恐怖",
+         "悲戚",
+         "智能",
+         "未收容",
+         "火",
+         "翻譯",
+         "肉體恐怖"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1459894268",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
