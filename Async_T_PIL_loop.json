@@ -147142,8 +147142,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "5",
-      "votes": "5",
+      "rating": "6",
+      "votes": "6",
       "parent": null,
       "id": "1459878286",
       "detailed_rating": {
@@ -147167,12 +147167,16 @@
             [
                "8033564",
                1751711149
+            ],
+            [
+               "7571354",
+               1752069581
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 5,
-      "justified_votes": 5
+      "justified_rating": 6,
+      "justified_votes": 6
    },
    "1751785826": {
       "title": "SCP-8490 - 死物恐懼症：存放屍骨之所",
