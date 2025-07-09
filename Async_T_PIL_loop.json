@@ -147388,8 +147388,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "4",
-      "votes": "4",
+      "rating": "5",
+      "votes": "5",
       "parent": null,
       "id": "1459887286",
       "detailed_rating": {
@@ -147409,12 +147409,16 @@
             [
                "7571354",
                1752070015
+            ],
+            [
+               "7064164",
+               1752076081
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 4,
-      "justified_votes": 4
+      "justified_rating": 5,
+      "justified_votes": 5
    },
    "1751976634": {
       "title": "SCP-8513 - 不得釋放",
