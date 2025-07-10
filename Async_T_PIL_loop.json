@@ -147804,5 +147804,26 @@
       "deleted": false,
       "justified_rating": 0,
       "justified_votes": 0
+   },
+   "1752160442": {
+      "title": "SCP-KO系列",
+      "fullname": "scp-series-ko",
+      "created_at": "1752160442",
+      "created_by": "4990678",
+      "tags": [
+         "ko",
+         "中心",
+         "翻譯"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1459901322",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
