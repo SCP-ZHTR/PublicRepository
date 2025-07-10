@@ -147445,8 +147445,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "9",
-      "votes": "9",
+      "rating": "10",
+      "votes": "10",
       "parent": null,
       "id": "1459891651",
       "detailed_rating": {
@@ -147486,12 +147486,16 @@
             [
                "7571354",
                1752070874
+            ],
+            [
+               "7840542",
+               1752114410
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 9,
-      "justified_votes": 9
+      "justified_rating": 10,
+      "justified_votes": 10
    },
    "1752017875": {
       "title": "SCP-8805 - 賓夕法尼亞十六人失蹤案",
