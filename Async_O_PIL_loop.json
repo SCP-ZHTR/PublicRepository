@@ -148163,13 +148163,28 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "0",
-      "votes": "0",
+      "rating": "-2",
+      "votes": "2",
       "parent": null,
       "id": "1459901222",
-      "detailed_rating": {},
+      "detailed_rating": {
+         "-": [
+            [
+               "8177208",
+               1752159558
+            ],
+            [
+               "7064164",
+               1752159558
+            ],
+            [
+               "5415046",
+               1752159558
+            ]
+         ]
+      },
       "deleted": false,
-      "justified_rating": 0,
-      "justified_votes": 0
+      "justified_rating": -3,
+      "justified_votes": 3
    }
 }
