@@ -147511,8 +147511,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "5",
-      "votes": "5",
+      "rating": "6",
+      "votes": "6",
       "parent": null,
       "id": "1459893307",
       "detailed_rating": {
@@ -147536,12 +147536,16 @@
             [
                "7571354",
                1752070729
+            ],
+            [
+               "7840542",
+               1752114127
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 5,
-      "justified_votes": 5
+      "justified_rating": 6,
+      "justified_votes": 6
    },
    "1752023999": {
       "title": "SCP-7823 - 登陸月球",
@@ -147565,8 +147569,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "2",
-      "votes": "2",
+      "rating": "3",
+      "votes": "3",
       "parent": null,
       "id": "1459893473",
       "detailed_rating": {
@@ -147578,12 +147582,16 @@
             [
                "7064164",
                1752052682
+            ],
+            [
+               "7840542",
+               1752114127
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 2,
-      "justified_votes": 2
+      "justified_rating": 3,
+      "justified_votes": 3
    },
    "1752030792": {
       "title": "SCP-8411 - 樺木蹤跡",
@@ -147607,8 +147615,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "4",
-      "votes": "4",
+      "rating": "5",
+      "votes": "5",
       "parent": null,
       "id": "1459893702",
       "detailed_rating": {
@@ -147628,12 +147636,16 @@
             [
                "7571354",
                1752070303
+            ],
+            [
+               "7840542",
+               1752114127
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 4,
-      "justified_votes": 4
+      "justified_rating": 5,
+      "justified_votes": 5
    },
    "1752034952": {
       "title": "SCP-8975 - 家中深淵",
