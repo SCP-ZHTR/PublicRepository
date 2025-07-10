@@ -18611,9 +18611,9 @@
          "待刪除"
       ],
       "hidden_tags": [],
-      "comments": "1",
-      "rating": "-3",
-      "votes": "3",
+      "comments": "2",
+      "rating": "-4",
+      "votes": "4",
       "parent": null,
       "id": "1459901222",
       "detailed_rating": {
@@ -18629,12 +18629,16 @@
             [
                "5415046",
                1752162272
+            ],
+            [
+               "5370805",
+               1752189795
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": -3,
-      "justified_votes": 3
+      "justified_rating": -4,
+      "justified_votes": 4
    },
    "1752160442": {
       "title": "SCP-KO系列",
