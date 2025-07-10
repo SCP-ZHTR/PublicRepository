@@ -54009,8 +54009,8 @@
          "_cc"
       ],
       "comments": "0",
-      "rating": "7",
-      "votes": "7",
+      "rating": "8",
+      "votes": "8",
       "parent": null,
       "id": "1306283200",
       "detailed_rating": {
@@ -54042,12 +54042,16 @@
             [
                "5013754",
                1617120000
+            ],
+            [
+               "4990678",
+               1752160427
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 7,
-      "justified_votes": 7
+      "justified_rating": 8,
+      "justified_votes": 8
    },
    "1608552642": {
       "title": "spikebrennan的提案",
