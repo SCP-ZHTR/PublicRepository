@@ -15755,7 +15755,7 @@
       ],
       "comments": "0",
       "rating": "2",
-      "votes": "2",
+      "votes": "3",
       "parent": null,
       "id": "1403503530",
       "detailed_rating": {
@@ -15767,12 +15767,16 @@
             [
                "6952002",
                1689145478
+            ],
+            [
+               "4990678",
+               1752153780
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 2,
-      "justified_votes": 2
+      "justified_rating": 3,
+      "justified_votes": 3
    },
    "1655190685": {
       "title": "Татьяны Квитковской的藝作頁",
