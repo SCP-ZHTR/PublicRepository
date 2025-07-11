@@ -18673,5 +18673,22 @@
       "deleted": true,
       "justified_rating": 0,
       "justified_votes": 0
+   },
+   "1752227829": {
+      "title": "SCP-8908 - 我希望早晨能更好你卻給我更壞的夜晚",
+      "fullname": "scp-8908",
+      "created_at": "1752227829",
+      "created_by": "6217438",
+      "tags": [],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1459904665",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
