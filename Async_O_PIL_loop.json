@@ -127700,8 +127700,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "9",
-      "votes": "9",
+      "rating": "10",
+      "votes": "10",
       "parent": null,
       "id": "1451389045",
       "detailed_rating": {
@@ -127741,12 +127741,16 @@
             [
                "9083658",
                1713013618
+            ],
+            [
+               "8319365",
+               1752248355
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 9,
-      "justified_votes": 9
+      "justified_rating": 10,
+      "justified_votes": 10
    },
    "1699962061": {
       "title": "藝術創作：SCP-ZH-086-1",
