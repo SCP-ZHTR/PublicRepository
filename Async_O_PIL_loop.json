@@ -118321,8 +118321,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "21",
-      "votes": "21",
+      "rating": "22",
+      "votes": "22",
       "parent": null,
       "id": "1449063469",
       "detailed_rating": {
@@ -118410,12 +118410,16 @@
             [
                "9443485",
                1751908700
+            ],
+            [
+               "8319365",
+               1752246465
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 21,
-      "justified_votes": 21
+      "justified_rating": 22,
+      "justified_votes": 22
    },
    "1689609601": {
       "title": "SCP-ZH-649 - 補經",
