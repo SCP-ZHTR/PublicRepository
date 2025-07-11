@@ -38566,8 +38566,8 @@
       ],
       "hidden_tags": [],
       "comments": "5",
-      "rating": "19",
-      "votes": "19",
+      "rating": "20",
+      "votes": "20",
       "parent": null,
       "id": "1026219156",
       "detailed_rating": {
@@ -38647,12 +38647,16 @@
             [
                "8418020",
                1710346462
+            ],
+            [
+               "8319365",
+               1752242541
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 19,
-      "justified_votes": 19
+      "justified_rating": 20,
+      "justified_votes": 20
    },
    "1588167747": {
       "title": "香脆夏威夷披薩",
