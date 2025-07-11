@@ -147979,8 +147979,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "10",
-      "votes": "10",
+      "rating": "11",
+      "votes": "11",
       "parent": null,
       "id": "1459844364",
       "detailed_rating": {
@@ -148024,12 +148024,16 @@
             [
                "7571354",
                1752065069
+            ],
+            [
+               "9766355",
+               1752218702
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 10,
-      "justified_votes": 10
+      "justified_rating": 11,
+      "justified_votes": 11
    },
    "1751470166": {
       "title": "因非獨行",
@@ -148112,8 +148116,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "7",
-      "votes": "7",
+      "rating": "8",
+      "votes": "8",
       "parent": null,
       "id": "1459896237",
       "detailed_rating": {
@@ -148145,12 +148149,16 @@
             [
                "7840542",
                1752113979
+            ],
+            [
+               "9766355",
+               1752218702
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 7,
-      "justified_votes": 7
+      "justified_rating": 8,
+      "justified_votes": 8
    },
    "1752158817": {
       "title": "Scp-Zh-474",
