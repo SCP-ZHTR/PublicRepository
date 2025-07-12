@@ -145464,8 +145464,8 @@
          "_禁黑"
       ],
       "comments": "0",
-      "rating": "5",
-      "votes": "5",
+      "rating": "6",
+      "votes": "6",
       "parent": null,
       "id": "1458500002",
       "detailed_rating": {
@@ -145489,12 +145489,16 @@
             [
                "7724052",
                1742112097
+            ],
+            [
+               "6217438",
+               1752280056
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 5,
-      "justified_votes": 5
+      "justified_rating": 6,
+      "justified_votes": 6
    },
    "1740657895": {
       "title": "SCP-8980 - 工作恐懼症：無可感荷",
