@@ -50535,8 +50535,8 @@
       ],
       "hidden_tags": [],
       "comments": "2",
-      "rating": "10",
-      "votes": "10",
+      "rating": "9",
+      "votes": "11",
       "parent": null,
       "id": "1305758145",
       "detailed_rating": {
@@ -50581,11 +50581,17 @@
                "9311399",
                1726583734
             ]
+         ],
+         "-": [
+            [
+               "7858492",
+               1752442718
+            ]
          ]
       },
       "deleted": false,
-      "justified_rating": 10,
-      "justified_votes": 10
+      "justified_rating": 9,
+      "justified_votes": 11
    },
    "1604947248": {
       "title": "SCP-1440 - 來歷不明的老人",
