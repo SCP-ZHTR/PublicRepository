@@ -31662,7 +31662,7 @@
    },
    "1752158817": {
       "title": "Scp-Zh-474",
-      "fullname": "deleted:scp-zh-474",
+      "fullname": "deleted:deleted:scp-zh-474",
       "created_at": "1752158817",
       "created_by": "9443485",
       "tags": [
@@ -31670,13 +31670,36 @@
       ],
       "hidden_tags": [],
       "comments": "2",
-      "rating": "0",
-      "votes": "0",
+      "rating": "-5",
+      "votes": "5",
       "parent": null,
       "id": "1459901222",
-      "detailed_rating": {},
+      "detailed_rating": {
+         "-": [
+            [
+               "4352548",
+               1752405685
+            ],
+            [
+               "8177208",
+               1752405685
+            ],
+            [
+               "5370805",
+               1752405685
+            ],
+            [
+               "7064164",
+               1752405685
+            ],
+            [
+               "5415046",
+               1752405685
+            ]
+         ]
+      },
       "deleted": false,
-      "justified_rating": 0,
-      "justified_votes": 0
+      "justified_rating": -5,
+      "justified_votes": 5
    }
 }
