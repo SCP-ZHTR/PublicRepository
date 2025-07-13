@@ -147909,5 +147909,31 @@
       "deleted": false,
       "justified_rating": 3,
       "justified_votes": 3
+   },
+   "1752406123": {
+      "title": "SCP-8376 - 鏟子給我，你下去",
+      "fullname": "scp-8376",
+      "created_at": "1752406123",
+      "created_by": "6217438",
+      "tags": [
+         "en",
+         "en-經典競賽2025",
+         "safe",
+         "scp",
+         "工具",
+         "強迫性",
+         "恐怖",
+         "翻譯"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1459912260",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
