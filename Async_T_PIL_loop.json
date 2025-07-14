@@ -147980,5 +147980,31 @@
       "deleted": false,
       "justified_rating": 3,
       "justified_votes": 3
+   },
+   "1752489336": {
+      "title": "SCP-8742 - 溺亡深淵",
+      "fullname": "scp-8742",
+      "created_at": "1752489336",
+      "created_by": "6217438",
+      "tags": [
+         "en",
+         "en-經典競賽2025",
+         "keter",
+         "scp",
+         "傳送",
+         "水棲",
+         "現象",
+         "翻譯"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1459916008",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
