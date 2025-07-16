@@ -145384,8 +145384,8 @@
       ],
       "hidden_tags": [],
       "comments": "3",
-      "rating": "3",
-      "votes": "3",
+      "rating": "4",
+      "votes": "4",
       "parent": "scp-anthology-2024",
       "id": "1458354538",
       "detailed_rating": {
@@ -145401,12 +145401,16 @@
             [
                "5370805",
                1738925256
+            ],
+            [
+               "5413616",
+               1752672617
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 3,
-      "justified_votes": 3
+      "justified_rating": 4,
+      "justified_votes": 4
    },
    "1739285363": {
       "title": "格魯烏P個案卷宗 「巨人魷魚」",
