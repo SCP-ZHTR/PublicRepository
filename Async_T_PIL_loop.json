@@ -37444,8 +37444,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "9",
-      "votes": "9",
+      "rating": "10",
+      "votes": "10",
       "parent": null,
       "id": "1040178047",
       "detailed_rating": {
@@ -37485,12 +37485,16 @@
             [
                "5981123",
                1720522966
+            ],
+            [
+               "9075244",
+               1752767037
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 9,
-      "justified_votes": 9
+      "justified_rating": 10,
+      "justified_votes": 10
    },
    "1589715032": {
       "title": "第三次約會",
@@ -37509,8 +37513,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "9",
-      "votes": "9",
+      "rating": "10",
+      "votes": "10",
       "parent": null,
       "id": "1040180668",
       "detailed_rating": {
@@ -37550,12 +37554,16 @@
             [
                "9371222",
                1728391619
+            ],
+            [
+               "9075244",
+               1752767037
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 9,
-      "justified_votes": 9
+      "justified_rating": 10,
+      "justified_votes": 10
    },
    "1589803192": {
       "title": "工作中禁止約會",
