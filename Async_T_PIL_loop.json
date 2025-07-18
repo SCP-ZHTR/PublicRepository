@@ -148093,5 +148093,34 @@
       "deleted": false,
       "justified_rating": 2,
       "justified_votes": 2
+   },
+   "1752852397": {
+      "title": "SCP-8706 - 沒有天使的世界",
+      "fullname": "scp-8706",
+      "created_at": "1752852397",
+      "created_by": "6217438",
+      "tags": [
+         "en",
+         "en-經典競賽2025",
+         "scp",
+         "傳染性",
+         "心理恐怖",
+         "恐怖",
+         "未收容",
+         "模因",
+         "翻譯",
+         "資訊危害",
+         "雕像"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1459934204",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
