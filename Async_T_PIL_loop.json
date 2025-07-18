@@ -148074,8 +148074,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "2",
-      "votes": "2",
+      "rating": "3",
+      "votes": "3",
       "parent": null,
       "id": "1459933473",
       "detailed_rating": {
@@ -148087,12 +148087,16 @@
             [
                "8177208",
                1752839608
+            ],
+            [
+               "7064164",
+               1752854182
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 2,
-      "justified_votes": 2
+      "justified_rating": 3,
+      "justified_votes": 3
    },
    "1752852397": {
       "title": "SCP-8706 - 沒有天使的世界",
