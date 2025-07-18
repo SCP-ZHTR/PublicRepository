@@ -37817,8 +37817,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "6",
-      "votes": "6",
+      "rating": "7",
+      "votes": "7",
       "parent": null,
       "id": "1043589326",
       "detailed_rating": {
@@ -37846,12 +37846,16 @@
             [
                "5981123",
                1720524164
+            ],
+            [
+               "9075244",
+               1752805048
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 6,
-      "justified_votes": 6
+      "justified_rating": 7,
+      "justified_votes": 7
    },
    "1589917570": {
       "title": "「就像一場夢一樣……」",
