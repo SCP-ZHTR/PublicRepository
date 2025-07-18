@@ -148053,5 +148053,34 @@
       "deleted": false,
       "justified_rating": 1,
       "justified_votes": 1
+   },
+   "1752838886": {
+      "title": "SCP-8948 - 什麼時候房子不再是家了？",
+      "fullname": "scp-8948",
+      "created_at": "1752838886",
+      "created_by": "6217438",
+      "tags": [
+         "en",
+         "en-經典競賽2025",
+         "euclid",
+         "scp",
+         "建築物",
+         "恐怖",
+         "生物性",
+         "神秘",
+         "空間影響",
+         "翻譯",
+         "肉體恐怖"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1459933473",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
