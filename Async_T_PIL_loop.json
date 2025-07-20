@@ -147997,8 +147997,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "3",
-      "votes": "3",
+      "rating": "4",
+      "votes": "4",
       "parent": null,
       "id": "1459912260",
       "detailed_rating": {
@@ -148014,12 +148014,16 @@
             [
                "9443485",
                1752419717
+            ],
+            [
+               "4206567",
+               1752980501
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 3,
-      "justified_votes": 3
+      "justified_rating": 4,
+      "justified_votes": 4
    },
    "1752489336": {
       "title": "SCP-8742 - 溺亡深淵",
