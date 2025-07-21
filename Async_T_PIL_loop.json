@@ -113975,8 +113975,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "6",
-      "votes": "6",
+      "rating": "7",
+      "votes": "7",
       "parent": "scp-anthology-hub",
       "id": "1446193779",
       "detailed_rating": {
@@ -114004,12 +114004,16 @@
             [
                "5981123",
                1717279320
+            ],
+            [
+               "9075244",
+               1753115894
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 6,
-      "justified_votes": 6
+      "justified_rating": 7,
+      "justified_votes": 7
    },
    "1676467955": {
       "title": "SCP-7091 - B是「血源」（Blood-Borne）",
