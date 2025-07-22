@@ -138846,8 +138846,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "3",
-      "votes": "3",
+      "rating": "4",
+      "votes": "4",
       "parent": null,
       "id": "1453765650",
       "detailed_rating": {
@@ -138863,12 +138863,16 @@
             [
                "5435485",
                1718058298
+            ],
+            [
+               "8854072",
+               1753176240
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 3,
-      "justified_votes": 3
+      "justified_rating": 4,
+      "justified_votes": 4
    },
    "1716383523": {
       "title": "SCP-4763 - 落入悲劇之井",
