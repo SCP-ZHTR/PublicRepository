@@ -127612,8 +127612,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "11",
-      "votes": "11",
+      "rating": "12",
+      "votes": "12",
       "parent": null,
       "id": "1451365239",
       "detailed_rating": {
@@ -127661,12 +127661,16 @@
             [
                "6952002",
                1701012434
+            ],
+            [
+               "4206567",
+               1753166380
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 11,
-      "justified_votes": 11
+      "justified_rating": 12,
+      "justified_votes": 12
    },
    "1699804332": {
       "title": "《極短篇合集》節錄之三",
