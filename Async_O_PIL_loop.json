@@ -80928,8 +80928,8 @@
          "_cc"
       ],
       "comments": "4",
-      "rating": "10",
-      "votes": "12",
+      "rating": "11",
+      "votes": "13",
       "parent": null,
       "id": "1329340684",
       "detailed_rating": {
@@ -80977,6 +80977,10 @@
             [
                "DELETED",
                1738291878
+            ],
+            [
+               "9754566",
+               1753324078
             ]
          ],
          "-": [
@@ -80987,8 +80991,8 @@
          ]
       },
       "deleted": false,
-      "justified_rating": 7,
-      "justified_votes": 9
+      "justified_rating": 8,
+      "justified_votes": 10
    },
    "1634278821": {
       "title": "SCP-ZH-068 - 自然色彩之戰",
