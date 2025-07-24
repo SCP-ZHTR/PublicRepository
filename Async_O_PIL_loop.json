@@ -110395,8 +110395,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "9",
-      "votes": "9",
+      "rating": "10",
+      "votes": "10",
       "parent": null,
       "id": "1444617452",
       "detailed_rating": {
@@ -110436,12 +110436,16 @@
             [
                "9075244",
                1716121236
+            ],
+            [
+               "8319365",
+               1753368613
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 8,
-      "justified_votes": 8
+      "justified_rating": 9,
+      "justified_votes": 9
    },
    "1672117105": {
       "title": "真紀與禮竺",
