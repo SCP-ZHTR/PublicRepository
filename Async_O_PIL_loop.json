@@ -97225,8 +97225,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "25",
-      "votes": "25",
+      "rating": "26",
+      "votes": "26",
       "parent": null,
       "id": "1403077988",
       "detailed_rating": {
@@ -97330,12 +97330,16 @@
             [
                "8177208",
                1718001194
+            ],
+            [
+               "8319365",
+               1753453417
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 24,
-      "justified_votes": 24
+      "justified_rating": 25,
+      "justified_votes": 25
    },
    "1654007268": {
       "title": "佩森尼爾的社交媒體頭像",
