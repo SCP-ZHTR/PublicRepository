@@ -139985,8 +139985,8 @@
       ],
       "hidden_tags": [],
       "comments": "2",
-      "rating": "23",
-      "votes": "23",
+      "rating": "24",
+      "votes": "24",
       "parent": null,
       "id": "1456371039",
       "detailed_rating": {
@@ -140082,12 +140082,16 @@
             [
                "5956873",
                1751335376
+            ],
+            [
+               "6381244",
+               1753440266
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 23,
-      "justified_votes": 23
+      "justified_rating": 24,
+      "justified_votes": 24
    },
    "1723917039": {
       "title": "SCP-ZH-068 - 霧中泡影",
