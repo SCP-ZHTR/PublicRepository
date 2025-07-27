@@ -57752,8 +57752,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "12",
-      "votes": "12",
+      "rating": "13",
+      "votes": "13",
       "parent": null,
       "id": "1306158680",
       "detailed_rating": {
@@ -57805,12 +57805,16 @@
             [
                "5454699",
                1617120000
+            ],
+            [
+               "9075244",
+               1753615826
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 12,
-      "justified_votes": 12
+      "justified_rating": 13,
+      "justified_votes": 13
    },
    "1607674420": {
       "title": "鏡中的我如是說",
