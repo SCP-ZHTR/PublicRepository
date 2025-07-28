@@ -68344,23 +68344,15 @@
          "_licensebox"
       ],
       "comments": "1",
-      "rating": "7",
-      "votes": "7",
+      "rating": "8",
+      "votes": "8",
       "parent": null,
       "id": "1311872393",
       "detailed_rating": {
          "+": [
             [
-               "7469850",
-               1623081600
-            ],
-            [
                "6217438",
                1628784000
-            ],
-            [
-               "7521095",
-               1629302400
             ],
             [
                "6091157",
@@ -68377,12 +68369,24 @@
             [
                "7221555",
                1661097600
+            ],
+            [
+               "9311399",
+               1753697139
+            ],
+            [
+               "DELETED",
+               1753697139
+            ],
+            [
+               "DELETED",
+               1753697139
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 7,
-      "justified_votes": 7
+      "justified_rating": 6,
+      "justified_votes": 6
    },
    "1622278118": {
       "title": "突發事件",
