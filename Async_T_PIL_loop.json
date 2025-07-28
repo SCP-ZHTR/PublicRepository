@@ -82428,8 +82428,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "8",
-      "votes": "8",
+      "rating": "9",
+      "votes": "9",
       "parent": null,
       "id": "1331546999",
       "detailed_rating": {
@@ -82465,12 +82465,16 @@
             [
                "DELETED",
                1718985572
+            ],
+            [
+               "9311399",
+               1753697558
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 7,
-      "justified_votes": 7
+      "justified_rating": 8,
+      "justified_votes": 8
    },
    "1644157539": {
       "title": "SCP-152 - 終末之書",
