@@ -25125,8 +25125,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "3",
-      "votes": "3",
+      "rating": "4",
+      "votes": "4",
       "parent": null,
       "id": "999664744",
       "detailed_rating": {
@@ -25142,12 +25142,16 @@
             [
                "2960074",
                1691123779
+            ],
+            [
+               "9371222",
+               1753676327
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 3,
-      "justified_votes": 3
+      "justified_rating": 4,
+      "justified_votes": 4
    },
    "1583231567": {
       "title": "SCP-999 - 癢癢怪",
