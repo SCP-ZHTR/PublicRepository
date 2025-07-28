@@ -136873,8 +136873,8 @@
          "_cc"
       ],
       "comments": "0",
-      "rating": "5",
-      "votes": "5",
+      "rating": "6",
+      "votes": "6",
       "parent": null,
       "id": "1453319734",
       "detailed_rating": {
@@ -136898,12 +136898,16 @@
             [
                "6981058",
                1712893816
+            ],
+            [
+               "6381244",
+               1753684311
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 5,
-      "justified_votes": 5
+      "justified_rating": 6,
+      "justified_votes": 6
    },
    "1712916000": {
       "title": "SCP-6670 - 「媽媽？」",
@@ -148256,8 +148260,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "5",
-      "votes": "5",
+      "rating": "6",
+      "votes": "6",
       "parent": null,
       "id": "1459943721",
       "detailed_rating": {
@@ -148281,11 +148285,15 @@
             [
                "8546930",
                1753635622
+            ],
+            [
+               "6381244",
+               1753684311
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 5,
-      "justified_votes": 5
+      "justified_rating": 6,
+      "justified_votes": 6
    }
 }
