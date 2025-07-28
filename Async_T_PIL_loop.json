@@ -67110,8 +67110,8 @@
          "_cc"
       ],
       "comments": "1",
-      "rating": "7",
-      "votes": "7",
+      "rating": "8",
+      "votes": "8",
       "parent": null,
       "id": "1311635028",
       "detailed_rating": {
@@ -67143,12 +67143,16 @@
             [
                "5981123",
                1719214462
+            ],
+            [
+               "5013754",
+               1753689985
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 6,
-      "justified_votes": 6
+      "justified_rating": 7,
+      "justified_votes": 7
    },
    "1621554915": {
       "title": "SCP-整數",
