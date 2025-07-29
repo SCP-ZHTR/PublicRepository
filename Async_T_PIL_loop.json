@@ -148315,5 +148315,38 @@
       "deleted": false,
       "justified_rating": 6,
       "justified_votes": 6
+   },
+   "1753798862": {
+      "title": "SCP-8557 - 又來了，納西瑟斯？",
+      "fullname": "scp-8557",
+      "created_at": "1753798862",
+      "created_by": "6088232",
+      "tags": [
+         "en",
+         "en-經典競賽2025",
+         "euclid",
+         "lgbtq",
+         "scp",
+         "心理恐怖",
+         "恐怖",
+         "愛情",
+         "智能",
+         "現象",
+         "生物性",
+         "翻譯",
+         "聽覺影響",
+         "肉體恐怖",
+         "觸覺影響"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1459979301",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
