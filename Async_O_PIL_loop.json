@@ -136364,8 +136364,8 @@
          "_白磷時代"
       ],
       "comments": "2",
-      "rating": "29",
-      "votes": "29",
+      "rating": "30",
+      "votes": "30",
       "parent": null,
       "id": "1453835544",
       "detailed_rating": {
@@ -136485,12 +136485,16 @@
             [
                "DELETED",
                1728983121
+            ],
+            [
+               "4206567",
+               1753796357
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 28,
-      "justified_votes": 28
+      "justified_rating": 29,
+      "justified_votes": 29
    },
    "1717239466": {
       "title": "SCP-ZH-412 - 失效求救",
