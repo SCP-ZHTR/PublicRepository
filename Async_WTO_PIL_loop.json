@@ -18719,5 +18719,22 @@
       "deleted": true,
       "justified_rating": 0,
       "justified_votes": 0
+   },
+   "1753770693": {
+      "title": "SCP-ZH-970 - 錢少的很可憐的藝術家",
+      "fullname": "scp-zh-970",
+      "created_at": "1753770693",
+      "created_by": "5348516",
+      "tags": [],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1459977565",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
