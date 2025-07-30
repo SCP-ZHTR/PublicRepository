@@ -39426,8 +39426,8 @@
       ],
       "hidden_tags": [],
       "comments": "2",
-      "rating": "22",
-      "votes": "22",
+      "rating": "23",
+      "votes": "23",
       "parent": null,
       "id": "1035246634",
       "detailed_rating": {
@@ -39519,12 +39519,16 @@
             [
                "5981123",
                1721096862
+            ],
+            [
+               "9075244",
+               1753870743
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 22,
-      "justified_votes": 22
+      "justified_rating": 23,
+      "justified_votes": 23
    },
    "1588855350": {
       "title": "機動特遣隊速查-ZH",
