@@ -148454,5 +148454,27 @@
       "deleted": false,
       "justified_rating": 3,
       "justified_votes": 3
+   },
+   "1753858441": {
+      "title": "項目企劃書 2025-36：《那就讓金魚活在果汁機裡吧！》",
+      "fullname": "project-proposal-2025-36-zh",
+      "created_at": "1753858441",
+      "created_by": "5325850",
+      "tags": [
+         "2025夏季競賽",
+         "awcy",
+         "goi格式",
+         "原創"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1459981599",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
