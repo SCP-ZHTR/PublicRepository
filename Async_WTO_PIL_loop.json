@@ -18736,5 +18736,22 @@
       "deleted": true,
       "justified_rating": 0,
       "justified_votes": 0
+   },
+   "1753877159": {
+      "title": "SCP-ZH-867 - 回收就是資源",
+      "fullname": "scp-zh-867",
+      "created_at": "1753877159",
+      "created_by": "5338547",
+      "tags": [],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1459982736",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
