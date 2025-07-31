@@ -75742,8 +75742,8 @@
       ],
       "hidden_tags": [],
       "comments": "3",
-      "rating": "17",
-      "votes": "17",
+      "rating": "18",
+      "votes": "18",
       "parent": null,
       "id": "1312355525",
       "detailed_rating": {
@@ -75815,12 +75815,16 @@
             [
                "5981123",
                1718013538
+            ],
+            [
+               "9075244",
+               1753968826
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 16,
-      "justified_votes": 16
+      "justified_rating": 17,
+      "justified_votes": 17
    },
    "1626416691": {
       "title": "Ctrl Z博士的旅行記事本",
