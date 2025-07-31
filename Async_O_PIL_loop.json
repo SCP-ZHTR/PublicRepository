@@ -69216,8 +69216,8 @@
       ],
       "hidden_tags": [],
       "comments": "5",
-      "rating": "8",
-      "votes": "8",
+      "rating": "9",
+      "votes": "9",
       "parent": null,
       "id": "1310880915",
       "detailed_rating": {
@@ -69253,12 +69253,16 @@
             [
                "6678442",
                1619193600
+            ],
+            [
+               "9075244",
+               1753969107
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 8,
-      "justified_votes": 8
+      "justified_rating": 9,
+      "justified_votes": 9
    },
    "1619459761": {
       "title": "Surge的提案一",
