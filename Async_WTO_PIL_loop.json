@@ -18712,21 +18712,38 @@
       "justified_votes": 0
    },
    "1753595253": {
-      "title": "Scp Zh 269",
+      "title": "SCP-ZH-269",
       "fullname": "scp-zh-269",
       "created_at": "1753595253",
       "created_by": "9452991",
-      "tags": [],
+      "tags": [
+         "待刪除"
+      ],
       "hidden_tags": [],
-      "comments": "0",
-      "rating": "0",
-      "votes": "0",
+      "comments": "2",
+      "rating": "-3",
+      "votes": "3",
       "parent": null,
       "id": "1459968983",
-      "detailed_rating": {},
-      "deleted": true,
-      "justified_rating": 0,
-      "justified_votes": 0
+      "detailed_rating": {
+         "-": [
+            [
+               "6709715",
+               1753962940
+            ],
+            [
+               "7486905",
+               1753962940
+            ],
+            [
+               "5338547",
+               1753962940
+            ]
+         ]
+      },
+      "deleted": false,
+      "justified_rating": -3,
+      "justified_votes": 3
    },
    "1753770693": {
       "title": "SCP-ZH-970 - 錢少的很可憐的藝術家",
