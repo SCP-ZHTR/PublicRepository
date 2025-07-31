@@ -5998,8 +5998,8 @@
          "_夢神-goi格式"
       ],
       "comments": "1",
-      "rating": "4",
-      "votes": "4",
+      "rating": "5",
+      "votes": "5",
       "parent": null,
       "id": "765077305",
       "detailed_rating": {
@@ -6019,12 +6019,16 @@
             [
                "5013754",
                1617120000
+            ],
+            [
+               "5370805",
+               1753994344
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 4,
-      "justified_votes": 4
+      "justified_rating": 5,
+      "justified_votes": 5
    },
    "1556895574": {
       "title": "沉眠於眾星之下",
