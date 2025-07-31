@@ -148484,8 +148484,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "12",
-      "votes": "12",
+      "rating": "13",
+      "votes": "13",
       "parent": null,
       "id": "1459981599",
       "detailed_rating": {
@@ -148537,12 +148537,16 @@
             [
                "9371222",
                1753886640
+            ],
+            [
+               "7840542",
+               1753964750
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 12,
-      "justified_votes": 12
+      "justified_rating": 13,
+      "justified_votes": 13
    },
    "1753877159": {
       "title": "SCP-ZH-867 - 回收就是資源",
