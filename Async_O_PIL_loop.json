@@ -148459,8 +148459,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "4",
-      "votes": "4",
+      "rating": "3",
+      "votes": "5",
       "parent": null,
       "id": "1459979331",
       "detailed_rating": {
@@ -148481,11 +148481,17 @@
                "4990678",
                1753879286
             ]
+         ],
+         "-": [
+            [
+               "7827462",
+               1754040317
+            ]
          ]
       },
       "deleted": false,
-      "justified_rating": 4,
-      "justified_votes": 4
+      "justified_rating": 3,
+      "justified_votes": 5
    },
    "1753858441": {
       "title": "項目企劃書 2025-36：《那就讓金魚活在果汁機裡吧！》",
