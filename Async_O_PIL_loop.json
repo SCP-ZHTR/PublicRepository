@@ -23758,8 +23758,8 @@
          "_info"
       ],
       "comments": "13",
-      "rating": "45",
-      "votes": "45",
+      "rating": "46",
+      "votes": "46",
       "parent": null,
       "id": "985711822",
       "detailed_rating": {
@@ -23943,12 +23943,16 @@
             [
                "DELETED",
                1716731827
+            ],
+            [
+               "9792558",
+               1754013781
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 43,
-      "justified_votes": 43
+      "justified_rating": 44,
+      "justified_votes": 44
    },
    "1576667584": {
       "title": "Dr.Ray的異常項目分級圖標 - Apollyon",
