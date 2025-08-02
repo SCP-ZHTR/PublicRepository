@@ -148279,8 +148279,8 @@
       ],
       "hidden_tags": [],
       "comments": "3",
-      "rating": "10",
-      "votes": "10",
+      "rating": "11",
+      "votes": "11",
       "parent": null,
       "id": "1459896237",
       "detailed_rating": {
@@ -148324,12 +148324,16 @@
             [
                "8854072",
                1753803112
+            ],
+            [
+               "5325850",
+               1754131316
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 10,
-      "justified_votes": 10
+      "justified_rating": 11,
+      "justified_votes": 11
    },
    "1752158817": {
       "title": "Scp-Zh-474",
