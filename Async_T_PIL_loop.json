@@ -125957,8 +125957,8 @@
          "_licensebox"
       ],
       "comments": "0",
-      "rating": "3",
-      "votes": "3",
+      "rating": "4",
+      "votes": "4",
       "parent": null,
       "id": "1449830108",
       "detailed_rating": {
@@ -125974,12 +125974,16 @@
             [
                "8543386",
                1707724621
+            ],
+            [
+               "8319365",
+               1754093767
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 3,
-      "justified_votes": 3
+      "justified_rating": 4,
+      "justified_votes": 4
    },
    "1693659206": {
       "title": "SCP-966 - 弑眠人",
