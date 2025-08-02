@@ -11138,8 +11138,8 @@
          "_禁黑"
       ],
       "comments": "0",
-      "rating": "1",
-      "votes": "1",
+      "rating": "2",
+      "votes": "2",
       "parent": null,
       "id": "1449965581",
       "detailed_rating": {
@@ -11147,12 +11147,16 @@
             [
                "7605593",
                1694598307
+            ],
+            [
+               "8319365",
+               1754093622
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 1,
-      "justified_votes": 1
+      "justified_rating": 2,
+      "justified_votes": 2
    },
    "1697877315": {
       "title": "吐司的烘焙坊（超級讚）",
