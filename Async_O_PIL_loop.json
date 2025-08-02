@@ -148400,8 +148400,8 @@
       ],
       "hidden_tags": [],
       "comments": "2",
-      "rating": "5",
-      "votes": "7",
+      "rating": "6",
+      "votes": "8",
       "parent": null,
       "id": "1459977565",
       "detailed_rating": {
@@ -148429,6 +148429,10 @@
             [
                "7064164",
                1753790222
+            ],
+            [
+               "8319365",
+               1754092911
             ]
          ],
          "-": [
@@ -148439,8 +148443,8 @@
          ]
       },
       "deleted": false,
-      "justified_rating": 5,
-      "justified_votes": 7
+      "justified_rating": 6,
+      "justified_votes": 8
    },
    "1753800056": {
       "title": "項目企劃書 2021-39：《踏入克蘇魯恐怖的世界》",
