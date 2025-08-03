@@ -149028,7 +149028,10 @@
          "研究員knave",
          "蛇之手"
       ],
-      "hidden_tags": [],
+      "hidden_tags": [
+         "_木易-goi格式",
+         "_蛇之手-goi格式"
+      ],
       "comments": "0",
       "rating": "2",
       "votes": "2",
