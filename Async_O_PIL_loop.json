@@ -148967,8 +148967,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "2",
-      "votes": "2",
+      "rating": "3",
+      "votes": "3",
       "parent": null,
       "id": "1459998325",
       "detailed_rating": {
@@ -148980,11 +148980,40 @@
             [
                "5413616",
                1754230543
+            ],
+            [
+               "9075244",
+               1754231116
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 2,
-      "justified_votes": 2
+      "justified_rating": 3,
+      "justified_votes": 3
+   },
+   "1754230942": {
+      "title": "木易藏書閣目錄 偽-八二四《枷項筆》",
+      "fullname": "mu-yi-f-824",
+      "created_at": "1754230942",
+      "created_by": "7605593",
+      "tags": [
+         "2025夏季競賽",
+         "goi格式",
+         "原創",
+         "木易",
+         "燦藍天穹",
+         "研究員knave",
+         "蛇之手"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1459998360",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
