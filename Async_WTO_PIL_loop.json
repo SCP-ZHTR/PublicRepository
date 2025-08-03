@@ -18897,14 +18897,39 @@
          "故事"
       ],
       "hidden_tags": [],
-      "comments": "2",
-      "rating": "0",
-      "votes": "0",
+      "comments": "3",
+      "rating": "3",
+      "votes": "5",
       "parent": null,
       "id": "1459979331",
-      "detailed_rating": {},
+      "detailed_rating": {
+         "+": [
+            [
+               "4206567",
+               1754229531
+            ],
+            [
+               "4990678",
+               1754229531
+            ],
+            [
+               "9075244",
+               1754229531
+            ],
+            [
+               "5415046",
+               1754229531
+            ]
+         ],
+         "-": [
+            [
+               "7827462",
+               1754229531
+            ]
+         ]
+      },
       "deleted": false,
-      "justified_rating": 0,
-      "justified_votes": 0
+      "justified_rating": 3,
+      "justified_votes": 5
    }
 }
