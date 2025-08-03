@@ -146805,7 +146805,8 @@
          "蛇之手"
       ],
       "hidden_tags": [
-         "_禁黑"
+         "_禁黑",
+         "_蛇之手-goi格式"
       ],
       "comments": "0",
       "rating": "2",
@@ -148420,7 +148421,9 @@
          "夢神",
          "翻譯"
       ],
-      "hidden_tags": [],
+      "hidden_tags": [
+         "_夢神-goi格式"
+      ],
       "comments": "1",
       "rating": "1",
       "votes": "1",
