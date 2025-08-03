@@ -148857,5 +148857,32 @@
       "deleted": false,
       "justified_rating": 3,
       "justified_votes": 3
+   },
+   "1754227456": {
+      "title": "SCP-ZH-837 - 重返光明",
+      "fullname": "scp-zh-837",
+      "created_at": "1754227456",
+      "created_by": "5338547",
+      "tags": [
+         "2025夏季競賽",
+         "nobody",
+         "scp",
+         "原創",
+         "反常部",
+         "地下",
+         "基金會製造",
+         "無效化",
+         "結構物"
+      ],
+      "hidden_tags": [],
+      "comments": "1",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1459998197",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
