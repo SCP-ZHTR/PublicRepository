@@ -18982,5 +18982,22 @@
       "deleted": true,
       "justified_rating": 0,
       "justified_votes": 0
+   },
+   "1754234848": {
+      "title": "繁廣化工新人講座逐字稿",
+      "fullname": "for-new-employees",
+      "created_at": "1754234848",
+      "created_by": "7504530",
+      "tags": [],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1459998441",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
