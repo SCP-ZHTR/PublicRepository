@@ -148479,24 +148479,11 @@
          "2025夏季競賽",
          "awcy",
          "goi格式",
-         "人造物品",
-         "動物",
          "原創",
-         "幻覺",
-         "心理恐怖",
-         "恐怖",
-         "探索",
-         "搞笑",
-         "故事",
-         "神秘",
-         "空間",
-         "競賽",
-         "藝術性",
-         "記憶影響",
-         "認知危害"
+         "故事"
       ],
       "hidden_tags": [],
-      "comments": "2",
+      "comments": "3",
       "rating": "3",
       "votes": "5",
       "parent": null,
@@ -148527,7 +148514,7 @@
             ]
          ]
       },
-      "deleted": true,
+      "deleted": false,
       "justified_rating": 3,
       "justified_votes": 5
    },
