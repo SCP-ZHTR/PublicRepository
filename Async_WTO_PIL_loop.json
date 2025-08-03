@@ -18945,6 +18945,23 @@
       "parent": null,
       "id": "1459998306",
       "detailed_rating": {},
+      "deleted": true,
+      "justified_rating": 0,
+      "justified_votes": 0
+   },
+   "1754229767": {
+      "title": "尋獲資料U-054-AU 「獅鬃合唱團存在之謎」",
+      "fullname": "founded-media-u-054-au-zh",
+      "created_at": "1754229767",
+      "created_by": "5334590",
+      "tags": [],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1459998318",
+      "detailed_rating": {},
       "deleted": false,
       "justified_rating": 0,
       "justified_votes": 0

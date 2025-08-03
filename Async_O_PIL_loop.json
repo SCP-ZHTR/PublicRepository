@@ -148884,5 +148884,27 @@
       "deleted": false,
       "justified_rating": 0,
       "justified_votes": 0
+   },
+   "1754229515": {
+      "title": "鏡子裡的怪影像",
+      "fullname": "parawatch-shadow",
+      "created_at": "1754229515",
+      "created_by": "9075244",
+      "tags": [
+         "2025夏季競賽",
+         "原創",
+         "故事",
+         "異視維基"
+      ],
+      "hidden_tags": [],
+      "comments": "1",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1459998306",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
