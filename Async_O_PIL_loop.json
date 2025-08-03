@@ -148834,13 +148834,24 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "0",
-      "votes": "0",
+      "rating": "1",
+      "votes": "1",
       "parent": null,
       "id": "1459997979",
-      "detailed_rating": {},
+      "detailed_rating": {
+         "+": [
+            [
+               "4206567",
+               1754224458
+            ],
+            [
+               "9075244",
+               1754224458
+            ]
+         ]
+      },
       "deleted": false,
-      "justified_rating": 0,
-      "justified_votes": 0
+      "justified_rating": 2,
+      "justified_votes": 2
    }
 }
