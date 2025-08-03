@@ -148913,14 +148913,44 @@
       "created_at": "1754229767",
       "created_by": "5334590",
       "tags": [
+         "2025夏季競賽",
          "原創"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "1",
+      "votes": "1",
+      "parent": null,
+      "id": "1459998318",
+      "detailed_rating": {
+         "+": [
+            [
+               "5325850",
+               1754230116
+            ]
+         ]
+      },
+      "deleted": false,
+      "justified_rating": 1,
+      "justified_votes": 1
+   },
+   "1754230011": {
+      "title": "「報社」發現與調查史（2016-2018）",
+      "fullname": "history-of-discovery-and-investigation-of-publisher",
+      "created_at": "1754230011",
+      "created_by": "6217438",
+      "tags": [
+         "2025夏季競賽",
+         "原創",
+         "故事",
+         "說明"
       ],
       "hidden_tags": [],
       "comments": "0",
       "rating": "0",
       "votes": "0",
       "parent": null,
-      "id": "1459998318",
+      "id": "1459998325",
       "detailed_rating": {},
       "deleted": false,
       "justified_rating": 0,
