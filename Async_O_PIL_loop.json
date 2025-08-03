@@ -148731,8 +148731,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "6",
-      "votes": "6",
+      "rating": "7",
+      "votes": "7",
       "parent": null,
       "id": "1459997579",
       "detailed_rating": {
@@ -148760,12 +148760,16 @@
             [
                "5251681",
                1754237768
+            ],
+            [
+               "5370805",
+               1754241416
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 6,
-      "justified_votes": 6
+      "justified_rating": 7,
+      "justified_votes": 7
    },
    "1754214372": {
       "title": "SCP-ZH-779 - 佛眼金睛",
