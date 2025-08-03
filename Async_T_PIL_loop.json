@@ -135141,7 +135141,9 @@
          "機櫃建造",
          "翻譯"
       ],
-      "hidden_tags": [],
+      "hidden_tags": [
+         "_普羅米修斯實驗室-goi格式"
+      ],
       "comments": "0",
       "rating": "4",
       "votes": "4",
@@ -145558,6 +145560,7 @@
          "諜報"
       ],
       "hidden_tags": [
+         "_格魯烏p部門-goi格式",
          "_禁黑"
       ],
       "comments": "0",
