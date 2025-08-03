@@ -148923,12 +148923,13 @@
       "created_by": "5334590",
       "tags": [
          "2025夏季競賽",
-         "原創"
+         "原創",
+         "故事"
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "6",
-      "votes": "6",
+      "rating": "7",
+      "votes": "7",
       "parent": null,
       "id": "1459998318",
       "detailed_rating": {
@@ -148956,12 +148957,16 @@
             [
                "8177208",
                1754230969
+            ],
+            [
+               "5370805",
+               1754236352
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 6,
-      "justified_votes": 6
+      "justified_rating": 7,
+      "justified_votes": 7
    },
    "1754230011": {
       "title": "「報社」發現與調查史（2016-2018）",
@@ -149060,8 +149065,8 @@
          "_夢神-goi格式"
       ],
       "comments": "0",
-      "rating": "1",
-      "votes": "1",
+      "rating": "3",
+      "votes": "3",
       "parent": null,
       "id": "1459998396",
       "detailed_rating": {
@@ -149069,12 +149074,20 @@
             [
                "9075244",
                1754234327
+            ],
+            [
+               "5325850",
+               1754236352
+            ],
+            [
+               "5251681",
+               1754236352
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 1,
-      "justified_votes": 1
+      "justified_rating": 3,
+      "justified_votes": 3
    },
    "1754234848": {
       "title": "繁廣化工新人講座逐字稿",
