@@ -148900,8 +148900,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "1",
-      "votes": "1",
+      "rating": "0",
+      "votes": "2",
       "parent": null,
       "id": "1459998306",
       "detailed_rating": {
@@ -148910,11 +148910,17 @@
                "9183877",
                1754234031
             ]
+         ],
+         "-": [
+            [
+               "7827462",
+               1754236778
+            ]
          ]
       },
       "deleted": false,
-      "justified_rating": 1,
-      "justified_votes": 1
+      "justified_rating": 0,
+      "justified_votes": 2
    },
    "1754229767": {
       "title": "尋獲資料U-054-AU 「獅鬃合唱團存在之謎」",
