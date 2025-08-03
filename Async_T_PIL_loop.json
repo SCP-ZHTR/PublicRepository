@@ -6047,8 +6047,8 @@
          "_夢神-goi格式"
       ],
       "comments": "1",
-      "rating": "4",
-      "votes": "4",
+      "rating": "5",
+      "votes": "5",
       "parent": null,
       "id": "765128447",
       "detailed_rating": {
@@ -6068,12 +6068,16 @@
             [
                "5013754",
                1626192000
+            ],
+            [
+               "9803088",
+               1754201832
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 4,
-      "justified_votes": 4
+      "justified_rating": 5,
+      "justified_votes": 5
    },
    "1556953000": {
       "title": "更新版記憶消除劑指南",
