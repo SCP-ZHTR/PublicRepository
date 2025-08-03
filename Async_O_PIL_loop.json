@@ -148626,8 +148626,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "7",
-      "votes": "9",
+      "rating": "8",
+      "votes": "10",
       "parent": null,
       "id": "1459982736",
       "detailed_rating": {
@@ -148663,6 +148663,10 @@
             [
                "5415046",
                1754129087
+            ],
+            [
+               "9075244",
+               1754193911
             ]
          ],
          "-": [
@@ -148673,8 +148677,8 @@
          ]
       },
       "deleted": false,
-      "justified_rating": 7,
-      "justified_votes": 9
+      "justified_rating": 8,
+      "justified_votes": 10
    },
    "1754187793": {
       "title": "收屍人",
@@ -148687,8 +148691,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "2",
-      "votes": "2",
+      "rating": "3",
+      "votes": "3",
       "parent": null,
       "id": "1459996460",
       "detailed_rating": {
@@ -148700,11 +148704,15 @@
             [
                "5415046",
                1754193076
+            ],
+            [
+               "9075244",
+               1754193911
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 2,
-      "justified_votes": 2
+      "justified_rating": 3,
+      "justified_votes": 3
    }
 }
