@@ -148488,8 +148488,8 @@
          "_awcy-goi格式"
       ],
       "comments": "3",
-      "rating": "2",
-      "votes": "6",
+      "rating": "3",
+      "votes": "7",
       "parent": null,
       "id": "1459979331",
       "detailed_rating": {
@@ -148509,6 +148509,10 @@
             [
                "4990678",
                1753879286
+            ],
+            [
+               "7605593",
+               1754282022
             ]
          ],
          "-": [
@@ -148523,8 +148527,8 @@
          ]
       },
       "deleted": false,
-      "justified_rating": 2,
-      "justified_votes": 6
+      "justified_rating": 3,
+      "justified_votes": 7
    },
    "1753858441": {
       "title": "項目企劃書 2025-36：《那就讓金魚活在果汁機裡吧！》",
@@ -148801,8 +148805,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "3",
-      "votes": "3",
+      "rating": "4",
+      "votes": "4",
       "parent": null,
       "id": "1459997590",
       "detailed_rating": {
@@ -148818,12 +148822,16 @@
             [
                "9075244",
                1754216508
+            ],
+            [
+               "7605593",
+               1754282022
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 3,
-      "justified_votes": 3
+      "justified_rating": 4,
+      "justified_votes": 4
    },
    "1754223772": {
       "title": "洗標編號：黑5723 金屬黑框玻璃眼鏡",
@@ -148840,8 +148848,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "4",
-      "votes": "4",
+      "rating": "5",
+      "votes": "5",
       "parent": null,
       "id": "1459997979",
       "detailed_rating": {
@@ -148861,12 +148869,16 @@
             [
                "5251681",
                1754238053
+            ],
+            [
+               "7605593",
+               1754282022
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 4,
-      "justified_votes": 4
+      "justified_rating": 5,
+      "justified_votes": 5
    },
    "1754227456": {
       "title": "SCP-ZH-837 - 重返光明",
@@ -148886,8 +148898,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "3",
-      "votes": "3",
+      "rating": "4",
+      "votes": "4",
       "parent": null,
       "id": "1459998197",
       "detailed_rating": {
@@ -148903,12 +148915,16 @@
             [
                "5370805",
                1754242398
+            ],
+            [
+               "7605593",
+               1754282022
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 3,
-      "justified_votes": 3
+      "justified_rating": 4,
+      "justified_votes": 4
    },
    "1754229515": {
       "title": "鏡子裡的怪影像",
@@ -149163,8 +149179,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "1",
-      "votes": "1",
+      "rating": "2",
+      "votes": "2",
       "parent": null,
       "id": "1459998441",
       "detailed_rating": {
@@ -149172,11 +149188,15 @@
             [
                "9075244",
                1754235348
+            ],
+            [
+               "7605593",
+               1754282022
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 1,
-      "justified_votes": 1
+      "justified_rating": 2,
+      "justified_votes": 2
    }
 }
