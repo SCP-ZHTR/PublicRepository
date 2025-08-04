@@ -148716,8 +148716,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "5",
-      "votes": "5",
+      "rating": "6",
+      "votes": "6",
       "parent": null,
       "id": "1459996460",
       "detailed_rating": {
@@ -148741,12 +148741,16 @@
             [
                "7827462",
                1754295574
+            ],
+            [
+               "7064164",
+               1754319013
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 5,
-      "justified_votes": 5
+      "justified_rating": 6,
+      "justified_votes": 6
    },
    "1754213881": {
       "title": "小動物簡介：Fogs！",
@@ -148763,8 +148767,8 @@
          "_威爾遜生物應對組-goi格式"
       ],
       "comments": "0",
-      "rating": "8",
-      "votes": "8",
+      "rating": "9",
+      "votes": "9",
       "parent": null,
       "id": "1459997579",
       "detailed_rating": {
@@ -148800,12 +148804,16 @@
             [
                "7827462",
                1754286774
+            ],
+            [
+               "7064164",
+               1754319013
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 8,
-      "justified_votes": 8
+      "justified_rating": 9,
+      "justified_votes": 9
    },
    "1754214372": {
       "title": "SCP-ZH-779 - 佛眼金睛",
