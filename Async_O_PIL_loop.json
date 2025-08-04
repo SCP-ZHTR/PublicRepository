@@ -106183,18 +106183,14 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "19",
-      "votes": "19",
+      "rating": "20",
+      "votes": "20",
       "parent": null,
       "id": "1436251674",
       "detailed_rating": {
          "+": [
             [
                "4264056",
-               1665072000
-            ],
-            [
-               "7469850",
                1665072000
             ],
             [
@@ -106264,6 +106260,14 @@
             [
                "5454699",
                1664899200
+            ],
+            [
+               "4206567",
+               1754288306
+            ],
+            [
+               "DELETED",
+               1754288306
             ]
          ]
       },
@@ -148813,8 +148817,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "5",
-      "votes": "5",
+      "rating": "6",
+      "votes": "6",
       "parent": null,
       "id": "1459997590",
       "detailed_rating": {
@@ -148838,12 +148842,16 @@
             [
                "7827462",
                1754286491
+            ],
+            [
+               "6217438",
+               1754288306
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 5,
-      "justified_votes": 5
+      "justified_rating": 6,
+      "justified_votes": 6
    },
    "1754223772": {
       "title": "洗標編號：黑5723 金屬黑框玻璃眼鏡",
