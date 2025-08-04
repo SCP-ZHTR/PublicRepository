@@ -149109,8 +149109,8 @@
          "_夢神-goi格式"
       ],
       "comments": "1",
-      "rating": "5",
-      "votes": "5",
+      "rating": "6",
+      "votes": "6",
       "parent": null,
       "id": "1459998396",
       "detailed_rating": {
@@ -149134,12 +149134,16 @@
             [
                "5338547",
                1754242682
+            ],
+            [
+               "4206567",
+               1754280897
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 5,
-      "justified_votes": 5
+      "justified_rating": 6,
+      "justified_votes": 6
    },
    "1754234848": {
       "title": "繁廣化工新人講座逐字稿",
