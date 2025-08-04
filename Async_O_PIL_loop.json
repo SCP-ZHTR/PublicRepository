@@ -148946,8 +148946,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "4",
-      "votes": "4",
+      "rating": "5",
+      "votes": "5",
       "parent": null,
       "id": "1459998197",
       "detailed_rating": {
@@ -148967,12 +148967,16 @@
             [
                "7605593",
                1754282022
+            ],
+            [
+               "7064164",
+               1754321422
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 4,
-      "justified_votes": 4
+      "justified_rating": 5,
+      "justified_votes": 5
    },
    "1754229515": {
       "title": "鏡子裡的怪影像",
