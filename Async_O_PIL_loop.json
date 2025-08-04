@@ -149001,8 +149001,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "8",
-      "votes": "8",
+      "rating": "9",
+      "votes": "9",
       "parent": null,
       "id": "1459998318",
       "detailed_rating": {
@@ -149038,12 +149038,16 @@
             [
                "7827462",
                1754238618
+            ],
+            [
+               "5251681",
+               1754292923
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 8,
-      "justified_votes": 8
+      "justified_rating": 9,
+      "justified_votes": 9
    },
    "1754230011": {
       "title": "「報社」發現與調查史（2016-2018）",
