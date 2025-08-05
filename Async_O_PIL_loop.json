@@ -103564,8 +103564,8 @@
          "_licensebox"
       ],
       "comments": "1",
-      "rating": "12",
-      "votes": "12",
+      "rating": "13",
+      "votes": "13",
       "parent": null,
       "id": "1435500023",
       "detailed_rating": {
@@ -103617,12 +103617,16 @@
             [
                "9075244",
                1727087202
+            ],
+            [
+               "9501997",
+               1754413732
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 11,
-      "justified_votes": 11
+      "justified_rating": 12,
+      "justified_votes": 12
    },
    "1662914129": {
       "title": "SCP-ZH-180 - 安 妮 :-)",
