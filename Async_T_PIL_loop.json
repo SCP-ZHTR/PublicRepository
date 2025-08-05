@@ -47631,6 +47631,7 @@
       "created_at": "1602613388",
       "created_by": "5415046",
       "tags": [
+         "+_普羅米修斯實驗室-goi格式",
          "1998年",
          "goi格式",
          "jp",
@@ -49358,7 +49359,9 @@
          "mc&d",
          "翻譯"
       ],
-      "hidden_tags": [],
+      "hidden_tags": [
+         "_mc&d-goi格式"
+      ],
       "comments": "1",
       "rating": "4",
       "votes": "4",
