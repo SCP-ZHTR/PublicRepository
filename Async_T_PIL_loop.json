@@ -148453,5 +148453,25 @@
       "deleted": false,
       "justified_rating": 1,
       "justified_votes": 1
+   },
+   "1754477589": {
+      "title": "重要全能實體列表",
+      "fullname": "divine-dossier",
+      "created_at": "1754477589",
+      "created_by": "9437829",
+      "tags": [
+         "en",
+         "翻譯"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1460012029",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
