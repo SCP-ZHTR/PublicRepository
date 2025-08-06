@@ -148873,8 +148873,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "8",
-      "votes": "8",
+      "rating": "9",
+      "votes": "9",
       "parent": null,
       "id": "1459997590",
       "detailed_rating": {
@@ -148910,12 +148910,16 @@
             [
                "5435485",
                1754373096
+            ],
+            [
+               "4990678",
+               1754483321
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 8,
-      "justified_votes": 8
+      "justified_rating": 9,
+      "justified_votes": 9
    },
    "1754223772": {
       "title": "洗標編號：黑5723 金屬黑框玻璃眼鏡",
@@ -148932,8 +148936,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "6",
-      "votes": "6",
+      "rating": "7",
+      "votes": "7",
       "parent": null,
       "id": "1459997979",
       "detailed_rating": {
@@ -148961,12 +148965,16 @@
             [
                "6217438",
                1754288591
+            ],
+            [
+               "4990678",
+               1754483321
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 6,
-      "justified_votes": 6
+      "justified_rating": 7,
+      "justified_votes": 7
    },
    "1754227456": {
       "title": "SCP-ZH-837 - 重返光明",
@@ -148986,8 +148994,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "6",
-      "votes": "6",
+      "rating": "7",
+      "votes": "7",
       "parent": null,
       "id": "1459998197",
       "detailed_rating": {
@@ -149015,12 +149023,16 @@
             [
                "5435485",
                1754372667
+            ],
+            [
+               "4990678",
+               1754483321
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 6,
-      "justified_votes": 6
+      "justified_rating": 7,
+      "justified_votes": 7
    },
    "1754229515": {
       "title": "鏡子裡的怪影像",
