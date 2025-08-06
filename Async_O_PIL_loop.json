@@ -149069,8 +149069,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "11",
-      "votes": "11",
+      "rating": "12",
+      "votes": "12",
       "parent": null,
       "id": "1459998318",
       "detailed_rating": {
@@ -149118,12 +149118,16 @@
             [
                "6091157",
                1754420333
+            ],
+            [
+               "5338547",
+               1754465455
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 11,
-      "justified_votes": 11
+      "justified_rating": 12,
+      "justified_votes": 12
    },
    "1754230011": {
       "title": "「報社」發現與調查史（2016-2018）",
@@ -149138,8 +149142,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "10",
-      "votes": "10",
+      "rating": "11",
+      "votes": "11",
       "parent": null,
       "id": "1459998325",
       "detailed_rating": {
@@ -149183,12 +149187,16 @@
             [
                "5435485",
                1754372951
+            ],
+            [
+               "5338547",
+               1754465455
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 10,
-      "justified_votes": 10
+      "justified_rating": 11,
+      "justified_votes": 11
    },
    "1754230942": {
       "title": "木易藏書閣目錄 偽-八二四《枷項筆》",
