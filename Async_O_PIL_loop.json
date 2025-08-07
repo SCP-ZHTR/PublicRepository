@@ -96153,8 +96153,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "13",
-      "votes": "13",
+      "rating": "14",
+      "votes": "14",
       "parent": null,
       "id": "1402544601",
       "detailed_rating": {
@@ -96210,12 +96210,16 @@
             [
                "DELETED",
                1730807365
+            ],
+            [
+               "6217438",
+               1754584228
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 12,
-      "justified_votes": 12
+      "justified_rating": 13,
+      "justified_votes": 13
    },
    "1651073362": {
       "title": "歡迎，敬啟者",
