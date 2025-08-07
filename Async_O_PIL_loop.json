@@ -148837,8 +148837,8 @@
          "_威爾遜生物應對組-goi格式"
       ],
       "comments": "0",
-      "rating": "9",
-      "votes": "11",
+      "rating": "10",
+      "votes": "12",
       "parent": null,
       "id": "1459997579",
       "detailed_rating": {
@@ -148882,6 +148882,10 @@
             [
                "8846720",
                1754481643
+            ],
+            [
+               "5252281",
+               1754578272
             ]
          ],
          "-": [
@@ -148892,8 +148896,8 @@
          ]
       },
       "deleted": false,
-      "justified_rating": 9,
-      "justified_votes": 11
+      "justified_rating": 10,
+      "justified_votes": 12
    },
    "1754214372": {
       "title": "SCP-ZH-779 - 佛眼金睛",
@@ -148984,8 +148988,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "7",
-      "votes": "7",
+      "rating": "8",
+      "votes": "8",
       "parent": null,
       "id": "1459997979",
       "detailed_rating": {
@@ -149017,12 +149021,16 @@
             [
                "4990678",
                1754483321
+            ],
+            [
+               "5252281",
+               1754578272
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 7,
-      "justified_votes": 7
+      "justified_rating": 8,
+      "justified_votes": 8
    },
    "1754227456": {
       "title": "SCP-ZH-837 - 重返光明",
@@ -149042,8 +149050,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "7",
-      "votes": "7",
+      "rating": "8",
+      "votes": "8",
       "parent": null,
       "id": "1459998197",
       "detailed_rating": {
@@ -149075,12 +149083,16 @@
             [
                "4990678",
                1754483321
+            ],
+            [
+               "5252281",
+               1754578272
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 7,
-      "justified_votes": 7
+      "justified_rating": 8,
+      "justified_votes": 8
    },
    "1754229515": {
       "title": "鏡子裡的怪影像",
