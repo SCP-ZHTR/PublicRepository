@@ -148044,8 +148044,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "3",
-      "votes": "3",
+      "rating": "4",
+      "votes": "4",
       "parent": null,
       "id": "1459744513",
       "detailed_rating": {
@@ -148061,12 +148061,16 @@
             [
                "7840542",
                1748797021
+            ],
+            [
+               "9075244",
+               1754577975
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 3,
-      "justified_votes": 3
+      "justified_rating": 4,
+      "justified_votes": 4
    },
    "1750345712": {
       "title": "4x4x4的囚籠",
@@ -148534,8 +148538,8 @@
          "_awcy-goi格式"
       ],
       "comments": "4",
-      "rating": "6",
-      "votes": "8",
+      "rating": "7",
+      "votes": "9",
       "parent": null,
       "id": "1459979331",
       "detailed_rating": {
@@ -148567,6 +148571,10 @@
             [
                "4239775",
                1754550512
+            ],
+            [
+               "7064164",
+               1754577975
             ]
          ],
          "-": [
@@ -148577,8 +148585,8 @@
          ]
       },
       "deleted": false,
-      "justified_rating": 6,
-      "justified_votes": 8
+      "justified_rating": 7,
+      "justified_votes": 9
    },
    "1753858441": {
       "title": "項目企劃書 2025-36：《那就讓金魚活在果汁機裡吧！》",
