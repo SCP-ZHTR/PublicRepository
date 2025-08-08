@@ -27941,7 +27941,7 @@
       "comments": "0",
       "rating": "0",
       "votes": "0",
-      "parent": "o-nokay-ni-cidal",
+      "parent": "deleted:o-nokay-ni-cidal",
       "id": "1456960309",
       "detailed_rating": {},
       "deleted": false,
@@ -27958,7 +27958,7 @@
       "comments": "0",
       "rating": "0",
       "votes": "0",
-      "parent": "o-nokay-ni-cidal",
+      "parent": "deleted:o-nokay-ni-cidal",
       "id": "1456960311",
       "detailed_rating": {},
       "deleted": false,
@@ -27975,7 +27975,7 @@
       "comments": "0",
       "rating": "0",
       "votes": "0",
-      "parent": "o-nokay-ni-cidal",
+      "parent": "deleted:o-nokay-ni-cidal",
       "id": "1456960313",
       "detailed_rating": {},
       "deleted": false,
@@ -32458,5 +32458,34 @@
       "deleted": false,
       "justified_rating": 10,
       "justified_votes": 10
+   },
+   "1727798330": {
+      "title": "太陽的歸鄉",
+      "fullname": "deleted:o-nokay-ni-cidal",
+      "created_at": "1727798330",
+      "created_by": "5435485",
+      "tags": [
+         "cidal-dongi",
+         "site-zh-44",
+         "surge博士",
+         "zh急迫競賽2024",
+         "三垣",
+         "原創",
+         "展出",
+         "山本五十嵐",
+         "故事"
+      ],
+      "hidden_tags": [
+         "_重新出發"
+      ],
+      "comments": "1",
+      "rating": "0",
+      "votes": "0",
+      "parent": "radiw",
+      "id": "1456960318",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
