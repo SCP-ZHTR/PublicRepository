@@ -27536,7 +27536,7 @@
       "comments": "0",
       "rating": "0",
       "votes": "0",
-      "parent": "radiw-no-kitakit-1",
+      "parent": "deleted:radiw-no-kitakit-1",
       "id": "1456612584",
       "detailed_rating": {},
       "deleted": false,
@@ -27553,7 +27553,7 @@
       "comments": "0",
       "rating": "0",
       "votes": "0",
-      "parent": "radiw-no-kitakit-1",
+      "parent": "deleted:radiw-no-kitakit-1",
       "id": "1456612585",
       "detailed_rating": {},
       "deleted": false,
@@ -27570,7 +27570,7 @@
       "comments": "0",
       "rating": "0",
       "votes": "0",
-      "parent": "radiw-no-kitakit-1",
+      "parent": "deleted:radiw-no-kitakit-1",
       "id": "1456612587",
       "detailed_rating": {},
       "deleted": false,
@@ -27587,7 +27587,7 @@
       "comments": "0",
       "rating": "0",
       "votes": "0",
-      "parent": "radiw-no-kitakit-1",
+      "parent": "deleted:radiw-no-kitakit-1",
       "id": "1456612591",
       "detailed_rating": {},
       "deleted": false,
@@ -27604,7 +27604,7 @@
       "comments": "0",
       "rating": "0",
       "votes": "0",
-      "parent": "radiw-no-kitakit-1",
+      "parent": "deleted:radiw-no-kitakit-1",
       "id": "1456612596",
       "detailed_rating": {},
       "deleted": false,
@@ -27621,7 +27621,7 @@
       "comments": "0",
       "rating": "0",
       "votes": "0",
-      "parent": "radiw-no-kitakit-1",
+      "parent": "deleted:radiw-no-kitakit-1",
       "id": "1456612597",
       "detailed_rating": {},
       "deleted": false,
@@ -31977,14 +31977,69 @@
          "_cc"
       ],
       "comments": "1",
-      "rating": "0",
-      "votes": "0",
+      "rating": "13",
+      "votes": "13",
       "parent": "deleted:i-lisin-tafalong",
       "id": "1452351179",
-      "detailed_rating": {},
+      "detailed_rating": {
+         "+": [
+            [
+               "7827462",
+               1754663027
+            ],
+            [
+               "4990678",
+               1754663027
+            ],
+            [
+               "6503482",
+               1754663027
+            ],
+            [
+               "8404617",
+               1754663027
+            ],
+            [
+               "7655555",
+               1754663027
+            ],
+            [
+               "8883612",
+               1754663027
+            ],
+            [
+               "8177208",
+               1754663027
+            ],
+            [
+               "6350786",
+               1754663027
+            ],
+            [
+               "6091157",
+               1754663027
+            ],
+            [
+               "8982806",
+               1754663027
+            ],
+            [
+               "7064164",
+               1754663027
+            ],
+            [
+               "7571354",
+               1754663027
+            ],
+            [
+               "5338547",
+               1754663027
+            ]
+         ]
+      },
       "deleted": false,
-      "justified_rating": 0,
-      "justified_votes": 0
+      "justified_rating": 13,
+      "justified_votes": 13
    },
    "1708684236": {
       "title": "MALENLEN",
@@ -32002,10 +32057,175 @@
          "_cc"
       ],
       "comments": "0",
-      "rating": "0",
-      "votes": "0",
+      "rating": "13",
+      "votes": "13",
       "parent": "deleted:i-lisin-cilangasan",
       "id": "1452768190",
+      "detailed_rating": {
+         "+": [
+            [
+               "8452537",
+               1754663027
+            ],
+            [
+               "4990678",
+               1754663027
+            ],
+            [
+               "6503482",
+               1754663027
+            ],
+            [
+               "8404617",
+               1754663027
+            ],
+            [
+               "7655555",
+               1754663027
+            ],
+            [
+               "8177208",
+               1754663027
+            ],
+            [
+               "8854072",
+               1754663027
+            ],
+            [
+               "5370805",
+               1754663027
+            ],
+            [
+               "7946145",
+               1754663027
+            ],
+            [
+               "6091157",
+               1754663027
+            ],
+            [
+               "7532608",
+               1754663027
+            ],
+            [
+               "4239775",
+               1754663027
+            ],
+            [
+               "7571354",
+               1754663027
+            ]
+         ]
+      },
+      "deleted": false,
+      "justified_rating": 13,
+      "justified_votes": 13
+   },
+   "1709708404": {
+      "title": "SCP-ZH-728 - 夜之方舟與日之使徒",
+      "fullname": "deleted:scp-zh-728",
+      "created_at": "1709708404",
+      "created_by": "5435485",
+      "tags": [
+         "ain博士",
+         "cidal-dongi",
+         "scp",
+         "site-zh-44",
+         "surge博士",
+         "thaumiel",
+         "人造物品",
+         "原創",
+         "夜之子",
+         "山本五十嵐",
+         "智能",
+         "機械",
+         "自主",
+         "載具",
+         "門徑"
+      ],
+      "hidden_tags": [
+         "_cc"
+      ],
+      "comments": "1",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1452935663",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
+   },
+   "1725076815": {
+      "title": "西加走灣輓歌・上：群島再現",
+      "fullname": "deleted:radiw-no-kitakit-1",
+      "created_at": "1725076815",
+      "created_by": "5435485",
+      "tags": [
+         "ain博士",
+         "cidal-dongi",
+         "site-zh-44",
+         "surge博士",
+         "原創",
+         "山本五十嵐",
+         "故事"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": "deleted:scp-zh-728",
+      "id": "1456612849",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
+   },
+   "1726819254": {
+      "title": "西加走灣輓歌・中：部族瓦解",
+      "fullname": "deleted:radiw-no-kitakit-2",
+      "created_at": "1726819254",
+      "created_by": "5435485",
+      "tags": [
+         "ain博士",
+         "cidal-dongi",
+         "site-zh-44",
+         "surge博士",
+         "原創",
+         "山本五十嵐",
+         "故事"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1456870548",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
+   },
+   "1727017225": {
+      "title": "西加走灣輓歌・下：靈魂崩碎",
+      "fullname": "deleted:radiw-no-kitakit-3",
+      "created_at": "1727017225",
+      "created_by": "5435485",
+      "tags": [
+         "cidal-dongi",
+         "site-zh-44",
+         "原創",
+         "山本五十嵐",
+         "故事"
+      ],
+      "hidden_tags": [
+         "_禁黑"
+      ],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1456892440",
       "detailed_rating": {},
       "deleted": false,
       "justified_rating": 0,
