@@ -31872,10 +31872,140 @@
          "_cc"
       ],
       "comments": "1",
-      "rating": "0",
-      "votes": "0",
+      "rating": "19",
+      "votes": "19",
       "parent": null,
       "id": "1452234237",
+      "detailed_rating": {
+         "+": [
+            [
+               "4990678",
+               1754662872
+            ],
+            [
+               "7605593",
+               1754662872
+            ],
+            [
+               "6503482",
+               1754662872
+            ],
+            [
+               "8404617",
+               1754662872
+            ],
+            [
+               "7655555",
+               1754662872
+            ],
+            [
+               "8883612",
+               1754662872
+            ],
+            [
+               "8177208",
+               1754662872
+            ],
+            [
+               "5370805",
+               1754662872
+            ],
+            [
+               "6350786",
+               1754662872
+            ],
+            [
+               "7946145",
+               1754662872
+            ],
+            [
+               "6091157",
+               1754662872
+            ],
+            [
+               "8982806",
+               1754662872
+            ],
+            [
+               "7532608",
+               1754662872
+            ],
+            [
+               "7073060",
+               1754662872
+            ],
+            [
+               "7064164",
+               1754662872
+            ],
+            [
+               "7571354",
+               1754662872
+            ],
+            [
+               "5013754",
+               1754662872
+            ],
+            [
+               "7486905",
+               1754662872
+            ],
+            [
+               "5338547",
+               1754662872
+            ]
+         ]
+      },
+      "deleted": false,
+      "justified_rating": 19,
+      "justified_votes": 19
+   },
+   "1706274005": {
+      "title": "在禁忌中：下集・殛人山",
+      "fullname": "deleted:i-lisin-cilangasan",
+      "created_at": "1706274005",
+      "created_by": "5435485",
+      "tags": [
+         "cidal-dongi",
+         "site-zh-44",
+         "原創",
+         "台灣原住民",
+         "山本五十嵐",
+         "故事"
+      ],
+      "hidden_tags": [
+         "_cc"
+      ],
+      "comments": "1",
+      "rating": "0",
+      "votes": "0",
+      "parent": "deleted:i-lisin-tafalong",
+      "id": "1452351179",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
+   },
+   "1708684236": {
+      "title": "MALENLEN",
+      "fullname": "deleted:malenlen",
+      "created_at": "1708684236",
+      "created_by": "5435485",
+      "tags": [
+         "cidal-dongi",
+         "site-zh-44",
+         "原創",
+         "山本五十嵐",
+         "故事"
+      ],
+      "hidden_tags": [
+         "_cc"
+      ],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": "deleted:i-lisin-cilangasan",
+      "id": "1452768190",
       "detailed_rating": {},
       "deleted": false,
       "justified_rating": 0,

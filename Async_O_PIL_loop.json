@@ -129718,7 +129718,7 @@
             ]
          ]
       },
-      "deleted": false,
+      "deleted": true,
       "justified_rating": 13,
       "justified_votes": 13
    },
@@ -132196,7 +132196,7 @@
       "comments": "0",
       "rating": "13",
       "votes": "13",
-      "parent": "i-lisin-cilangasan",
+      "parent": "deleted:i-lisin-cilangasan",
       "id": "1452768190",
       "detailed_rating": {
          "+": [
