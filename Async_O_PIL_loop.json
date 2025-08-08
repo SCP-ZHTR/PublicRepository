@@ -148635,8 +148635,8 @@
          "_awcy-goi格式"
       ],
       "comments": "1",
-      "rating": "19",
-      "votes": "19",
+      "rating": "20",
+      "votes": "20",
       "parent": null,
       "id": "1459981599",
       "detailed_rating": {
@@ -148716,12 +148716,16 @@
             [
                "7605593",
                1754648320
+            ],
+            [
+               "5237516",
+               1754659894
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 19,
-      "justified_votes": 19
+      "justified_rating": 20,
+      "justified_votes": 20
    },
    "1753877159": {
       "title": "SCP-ZH-867 - 回收就是資源",
@@ -148741,8 +148745,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "10",
-      "votes": "12",
+      "rating": "11",
+      "votes": "13",
       "parent": null,
       "id": "1459982736",
       "detailed_rating": {
@@ -148790,6 +148794,10 @@
             [
                "7605593",
                1754648320
+            ],
+            [
+               "7571354",
+               1754659894
             ]
          ],
          "-": [
@@ -148800,8 +148808,8 @@
          ]
       },
       "deleted": false,
-      "justified_rating": 10,
-      "justified_votes": 12
+      "justified_rating": 11,
+      "justified_votes": 13
    },
    "1754187793": {
       "title": "收屍人",
