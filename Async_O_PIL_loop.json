@@ -129595,7 +129595,7 @@
             ]
          ]
       },
-      "deleted": false,
+      "deleted": true,
       "justified_rating": 19,
       "justified_votes": 19
    },
@@ -129660,7 +129660,7 @@
       "comments": "1",
       "rating": "13",
       "votes": "13",
-      "parent": "i-lisin-tafalong",
+      "parent": "deleted:i-lisin-tafalong",
       "id": "1452351179",
       "detailed_rating": {
          "+": [

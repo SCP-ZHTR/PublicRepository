@@ -31854,5 +31854,31 @@
       "deleted": false,
       "justified_rating": 5,
       "justified_votes": 5
+   },
+   "1705737592": {
+      "title": "在禁忌中：上集・太巴塱",
+      "fullname": "deleted:i-lisin-tafalong",
+      "created_at": "1705737592",
+      "created_by": "5435485",
+      "tags": [
+         "cidal-dongi",
+         "site-zh-44",
+         "原創",
+         "台灣原住民",
+         "山本五十嵐",
+         "故事"
+      ],
+      "hidden_tags": [
+         "_cc"
+      ],
+      "comments": "1",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1452234237",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
