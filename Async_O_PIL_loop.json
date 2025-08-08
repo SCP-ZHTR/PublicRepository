@@ -148873,8 +148873,8 @@
          "_威爾遜生物應對組-goi格式"
       ],
       "comments": "1",
-      "rating": "11",
-      "votes": "13",
+      "rating": "12",
+      "votes": "14",
       "parent": null,
       "id": "1459997579",
       "detailed_rating": {
@@ -148926,6 +148926,10 @@
             [
                "7605593",
                1754648320
+            ],
+            [
+               "7571354",
+               1754660039
             ]
          ],
          "-": [
@@ -148936,8 +148940,8 @@
          ]
       },
       "deleted": false,
-      "justified_rating": 11,
-      "justified_votes": 13
+      "justified_rating": 12,
+      "justified_votes": 14
    },
    "1754214372": {
       "title": "SCP-ZH-779 - 佛眼金睛",
@@ -148961,8 +148965,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "10",
-      "votes": "10",
+      "rating": "11",
+      "votes": "11",
       "parent": null,
       "id": "1459997590",
       "detailed_rating": {
@@ -149006,12 +149010,16 @@
             [
                "8846720",
                1754488202
+            ],
+            [
+               "7571354",
+               1754660039
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 10,
-      "justified_votes": 10
+      "justified_rating": 11,
+      "justified_votes": 11
    },
    "1754223772": {
       "title": "洗標編號：黑5723 金屬黑框玻璃眼鏡",
@@ -149090,8 +149098,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "8",
-      "votes": "8",
+      "rating": "9",
+      "votes": "9",
       "parent": null,
       "id": "1459998197",
       "detailed_rating": {
@@ -149127,12 +149135,16 @@
             [
                "5252281",
                1754578272
+            ],
+            [
+               "5237516",
+               1754660039
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 8,
-      "justified_votes": 8
+      "justified_rating": 9,
+      "justified_votes": 9
    },
    "1754229515": {
       "title": "鏡子裡的怪影像",
@@ -149147,8 +149159,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "2",
-      "votes": "4",
+      "rating": "1",
+      "votes": "5",
       "parent": null,
       "id": "1459998306",
       "detailed_rating": {
@@ -149170,12 +149182,16 @@
             [
                "7827462",
                1754236778
+            ],
+            [
+               "5237516",
+               1754660039
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 2,
-      "justified_votes": 4
+      "justified_rating": 1,
+      "justified_votes": 5
    },
    "1754229767": {
       "title": "尋獲資料U-054-AU 「獅鬃合唱團存在之謎」",
