@@ -149531,8 +149531,8 @@
       ],
       "hidden_tags": [],
       "comments": "4",
-      "rating": "7",
-      "votes": "7",
+      "rating": "8",
+      "votes": "8",
       "parent": null,
       "id": "1459998441",
       "detailed_rating": {
@@ -149564,12 +149564,16 @@
             [
                "5252281",
                1754578118
+            ],
+            [
+               "7571354",
+               1754661182
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 7,
-      "justified_votes": 7
+      "justified_rating": 8,
+      "justified_votes": 8
    },
    "1754488972": {
       "title": "SCP-ZH-269 - 反熵手電筒",
