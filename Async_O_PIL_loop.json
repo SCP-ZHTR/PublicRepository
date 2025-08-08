@@ -148578,8 +148578,8 @@
          "_awcy-goi格式"
       ],
       "comments": "4",
-      "rating": "8",
-      "votes": "10",
+      "rating": "9",
+      "votes": "11",
       "parent": null,
       "id": "1459979331",
       "detailed_rating": {
@@ -148619,6 +148619,10 @@
             [
                "5252281",
                1754578118
+            ],
+            [
+               "5338547",
+               1754671623
             ]
          ],
          "-": [
@@ -148629,8 +148633,8 @@
          ]
       },
       "deleted": false,
-      "justified_rating": 8,
-      "justified_votes": 10
+      "justified_rating": 9,
+      "justified_votes": 11
    },
    "1753858441": {
       "title": "項目企劃書 2025-36：《那就讓金魚活在果汁機裡吧！》",
@@ -149052,8 +149056,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "8",
-      "votes": "8",
+      "rating": "9",
+      "votes": "9",
       "parent": null,
       "id": "1459997979",
       "detailed_rating": {
@@ -149089,12 +149093,16 @@
             [
                "5252281",
                1754578272
+            ],
+            [
+               "5338547",
+               1754671623
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 8,
-      "justified_votes": 8
+      "justified_rating": 9,
+      "justified_votes": 9
    },
    "1754227456": {
       "title": "SCP-ZH-837 - 重返光明",
