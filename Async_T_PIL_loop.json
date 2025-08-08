@@ -42272,7 +42272,7 @@
       ],
       "comments": "0",
       "rating": "11",
-      "votes": "11",
+      "votes": "12",
       "parent": "guide-hub",
       "id": "1219397722",
       "detailed_rating": {
@@ -42320,12 +42320,16 @@
             [
                "9443485",
                1748426293
+            ],
+            [
+               "9163798",
+               1754667439
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 11,
-      "justified_votes": 11
+      "justified_rating": 12,
+      "justified_votes": 12
    },
    "1595683289": {
       "title": "泛空（中心頁）",
