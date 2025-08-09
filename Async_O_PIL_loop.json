@@ -148520,8 +148520,8 @@
       ],
       "hidden_tags": [],
       "comments": "2",
-      "rating": "13",
-      "votes": "15",
+      "rating": "14",
+      "votes": "16",
       "parent": null,
       "id": "1459977565",
       "detailed_rating": {
@@ -148581,6 +148581,10 @@
             [
                "9628870",
                1754741283
+            ],
+            [
+               "5413616",
+               1754748028
             ]
          ],
          "-": [
@@ -148591,8 +148595,8 @@
          ]
       },
       "deleted": false,
-      "justified_rating": 13,
-      "justified_votes": 15
+      "justified_rating": 14,
+      "justified_votes": 16
    },
    "1753800056": {
       "title": "項目企劃書 2021-39：《踏入克蘇魯恐怖的世界》",
@@ -148825,8 +148829,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "14",
-      "votes": "16",
+      "rating": "15",
+      "votes": "17",
       "parent": null,
       "id": "1459982736",
       "detailed_rating": {
@@ -148890,6 +148894,10 @@
             [
                "5413616",
                1754747597
+            ],
+            [
+               "5237516",
+               1754748028
             ]
          ],
          "-": [
@@ -148900,8 +148908,8 @@
          ]
       },
       "deleted": false,
-      "justified_rating": 14,
-      "justified_votes": 16
+      "justified_rating": 15,
+      "justified_votes": 17
    },
    "1754187793": {
       "title": "收屍人",
