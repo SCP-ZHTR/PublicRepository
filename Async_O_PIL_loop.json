@@ -148578,8 +148578,8 @@
          "_awcy-goi格式"
       ],
       "comments": "4",
-      "rating": "9",
-      "votes": "11",
+      "rating": "10",
+      "votes": "12",
       "parent": null,
       "id": "1459979331",
       "detailed_rating": {
@@ -148623,6 +148623,10 @@
             [
                "5338547",
                1754671623
+            ],
+            [
+               "8177208",
+               1754707254
             ]
          ],
          "-": [
@@ -148633,8 +148637,8 @@
          ]
       },
       "deleted": false,
-      "justified_rating": 9,
-      "justified_votes": 11
+      "justified_rating": 10,
+      "justified_votes": 12
    },
    "1753858441": {
       "title": "項目企劃書 2025-36：《那就讓金魚活在果汁機裡吧！》",
