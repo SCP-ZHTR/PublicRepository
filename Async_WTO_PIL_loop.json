@@ -9408,8 +9408,8 @@
          "_下沉"
       ],
       "comments": "0",
-      "rating": "2",
-      "votes": "2",
+      "rating": "3",
+      "votes": "3",
       "parent": "valentine-00",
       "id": "1331475117",
       "detailed_rating": {
@@ -9421,12 +9421,16 @@
             [
                "7840542",
                1689143977
+            ],
+            [
+               "8319365",
+               1754783400
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 2,
-      "justified_votes": 2
+      "justified_rating": 3,
+      "justified_votes": 3
    },
    "1643733930": {
       "title": "基金會月刊 第075期",
