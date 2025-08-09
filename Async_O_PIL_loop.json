@@ -149124,8 +149124,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "11",
-      "votes": "11",
+      "rating": "12",
+      "votes": "12",
       "parent": null,
       "id": "1459997979",
       "detailed_rating": {
@@ -149173,12 +149173,16 @@
             [
                "6503482",
                1754717096
+            ],
+            [
+               "9628870",
+               1754741428
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 11,
-      "justified_votes": 11
+      "justified_rating": 12,
+      "justified_votes": 12
    },
    "1754227456": {
       "title": "SCP-ZH-837 - 重返光明",
