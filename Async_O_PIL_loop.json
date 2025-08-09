@@ -148052,8 +148052,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "5",
-      "votes": "5",
+      "rating": "6",
+      "votes": "6",
       "parent": null,
       "id": "1459744513",
       "detailed_rating": {
@@ -148077,12 +148077,16 @@
             [
                "7605593",
                1754648320
+            ],
+            [
+               "8319365",
+               1754782967
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 5,
-      "justified_votes": 5
+      "justified_rating": 6,
+      "justified_votes": 6
    },
    "1750345712": {
       "title": "4x4x4的囚籠",
@@ -148715,8 +148719,8 @@
          "_awcy-goi格式"
       ],
       "comments": "1",
-      "rating": "24",
-      "votes": "24",
+      "rating": "25",
+      "votes": "25",
       "parent": null,
       "id": "1459981599",
       "detailed_rating": {
@@ -148816,12 +148820,16 @@
             [
                "5413616",
                1754747742
+            ],
+            [
+               "8319365",
+               1754782967
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 24,
-      "justified_votes": 24
+      "justified_rating": 25,
+      "justified_votes": 25
    },
    "1753877159": {
       "title": "SCP-ZH-867 - 回收就是資源",
@@ -149802,8 +149810,8 @@
       ],
       "hidden_tags": [],
       "comments": "5",
-      "rating": "11",
-      "votes": "11",
+      "rating": "12",
+      "votes": "12",
       "parent": null,
       "id": "1459998441",
       "detailed_rating": {
@@ -149851,12 +149859,16 @@
             [
                "8854072",
                1754751708
+            ],
+            [
+               "8319365",
+               1754782967
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 11,
-      "justified_votes": 11
+      "justified_rating": 12,
+      "justified_votes": 12
    },
    "1754488972": {
       "title": "SCP-ZH-269 - 反熵手電筒",
