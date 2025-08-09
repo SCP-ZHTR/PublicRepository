@@ -148493,5 +148493,42 @@
       "deleted": false,
       "justified_rating": 0,
       "justified_votes": 0
+   },
+   "1754740059": {
+      "title": "良秀的提案",
+      "fullname": "yoshihides-proposal",
+      "created_at": "1754740059",
+      "created_by": "6088232",
+      "tags": [
+         "001提案",
+         "en",
+         "keter",
+         "publicdomaincon2025",
+         "scp",
+         "the-administrator",
+         "合著",
+         "宗教",
+         "屍體",
+         "幻覺",
+         "循環",
+         "心靈感應",
+         "恐怖",
+         "悲戚",
+         "未收容",
+         "機密分級",
+         "火",
+         "翻譯",
+         "身後之地"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1460024142",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
