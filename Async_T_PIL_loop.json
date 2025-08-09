@@ -29290,8 +29290,8 @@
          "_licensebox"
       ],
       "comments": "1",
-      "rating": "4",
-      "votes": "4",
+      "rating": "3",
+      "votes": "5",
       "parent": null,
       "id": "1002320730",
       "detailed_rating": {
@@ -29312,11 +29312,17 @@
                "4107284",
                1617120000
             ]
+         ],
+         "-": [
+            [
+               "9670949",
+               1754763897
+            ]
          ]
       },
       "deleted": false,
-      "justified_rating": 4,
-      "justified_votes": 4
+      "justified_rating": 3,
+      "justified_votes": 5
    },
    "1585228834": {
       "title": "SCP-991 - 針筒",
