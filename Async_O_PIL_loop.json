@@ -149170,8 +149170,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "11",
-      "votes": "11",
+      "rating": "12",
+      "votes": "12",
       "parent": null,
       "id": "1459998197",
       "detailed_rating": {
@@ -149219,12 +149219,16 @@
             [
                "5334590",
                1754684204
+            ],
+            [
+               "6503482",
+               1754717385
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 11,
-      "justified_votes": 11
+      "justified_rating": 12,
+      "justified_votes": 12
    },
    "1754229515": {
       "title": "鏡子裡的怪影像",
@@ -149239,8 +149243,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "4",
-      "votes": "8",
+      "rating": "5",
+      "votes": "9",
       "parent": null,
       "id": "1459998306",
       "detailed_rating": {
@@ -149268,6 +149272,10 @@
             [
                "8846720",
                1754714122
+            ],
+            [
+               "6503482",
+               1754717385
             ]
          ],
          "-": [
@@ -149282,8 +149290,8 @@
          ]
       },
       "deleted": false,
-      "justified_rating": 4,
-      "justified_votes": 8
+      "justified_rating": 5,
+      "justified_votes": 9
    },
    "1754229767": {
       "title": "尋獲資料U-054-AU 「獅鬃合唱團存在之謎」",
