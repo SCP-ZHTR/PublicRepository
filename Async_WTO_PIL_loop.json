@@ -3133,8 +3133,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "9",
-      "votes": "9",
+      "rating": "10",
+      "votes": "10",
       "parent": null,
       "id": "860293607",
       "detailed_rating": {
@@ -3174,12 +3174,16 @@
             [
                "4206567",
                1722239691
+            ],
+            [
+               "8319365",
+               1754783684
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 9,
-      "justified_votes": 9
+      "justified_rating": 10,
+      "justified_votes": 10
    },
    "1566804212": {
       "title": "Ctrl Z博士的辦公室",
