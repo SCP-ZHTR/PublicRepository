@@ -148793,8 +148793,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "11",
-      "votes": "13",
+      "rating": "12",
+      "votes": "14",
       "parent": null,
       "id": "1459982736",
       "detailed_rating": {
@@ -148846,6 +148846,10 @@
             [
                "7571354",
                1754659894
+            ],
+            [
+               "6503482",
+               1754716802
             ]
          ],
          "-": [
@@ -148856,8 +148860,8 @@
          ]
       },
       "deleted": false,
-      "justified_rating": 11,
-      "justified_votes": 13
+      "justified_rating": 12,
+      "justified_votes": 14
    },
    "1754187793": {
       "title": "收屍人",
