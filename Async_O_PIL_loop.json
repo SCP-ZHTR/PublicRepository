@@ -148248,8 +148248,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "18",
-      "votes": "18",
+      "rating": "19",
+      "votes": "19",
       "parent": null,
       "id": "1459868557",
       "detailed_rating": {
@@ -148325,12 +148325,16 @@
             [
                "9628870",
                1754737095
+            ],
+            [
+               "5413616",
+               1754748451
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 18,
-      "justified_votes": 18
+      "justified_rating": 19,
+      "justified_votes": 19
    },
    "1752065382": {
       "title": "SCP-ZH-334 - 好會數數",
