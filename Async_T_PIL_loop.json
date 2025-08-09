@@ -109730,8 +109730,8 @@
          "_cc"
       ],
       "comments": "0",
-      "rating": "8",
-      "votes": "10",
+      "rating": "9",
+      "votes": "11",
       "parent": null,
       "id": "1444665302",
       "detailed_rating": {
@@ -109771,6 +109771,10 @@
             [
                "DELETED",
                1708825763
+            ],
+            [
+               "8319365",
+               1754783254
             ]
          ],
          "-": [
@@ -109781,8 +109785,8 @@
          ]
       },
       "deleted": false,
-      "justified_rating": 7,
-      "justified_votes": 9
+      "justified_rating": 8,
+      "justified_votes": 10
    },
    "1672137185": {
       "title": "波蘭分部關注組織",
