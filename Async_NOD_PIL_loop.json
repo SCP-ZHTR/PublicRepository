@@ -31822,9 +31822,9 @@
          "外觀主題"
       ],
       "hidden_tags": [],
-      "comments": "3",
-      "rating": "4",
-      "votes": "6",
+      "comments": "4",
+      "rating": "5",
+      "votes": "7",
       "parent": null,
       "id": "1460017052",
       "detailed_rating": {
@@ -31848,6 +31848,10 @@
             [
                "7605593",
                1754648175
+            ],
+            [
+               "8177208",
+               1754750984
             ]
          ],
          "-": [
@@ -31858,8 +31862,8 @@
          ]
       },
       "deleted": false,
-      "justified_rating": 4,
-      "justified_votes": 6
+      "justified_rating": 5,
+      "justified_votes": 7
    },
    "1705737592": {
       "title": "在禁忌中：上集・太巴塱",
