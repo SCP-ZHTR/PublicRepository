@@ -15562,8 +15562,8 @@
       ],
       "hidden_tags": [],
       "comments": "2",
-      "rating": "5",
-      "votes": "5",
+      "rating": "6",
+      "votes": "6",
       "parent": null,
       "id": "842846744",
       "detailed_rating": {
@@ -15587,12 +15587,16 @@
             [
                "5981123",
                1720519012
+            ],
+            [
+               "7133565",
+               1754763614
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 5,
-      "justified_votes": 5
+      "justified_rating": 6,
+      "justified_votes": 6
    },
    "1563007858": {
       "title": "SCP-330 - 只能拿兩個",
