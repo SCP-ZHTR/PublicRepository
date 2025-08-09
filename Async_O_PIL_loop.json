@@ -148957,8 +148957,8 @@
          "_威爾遜生物應對組-goi格式"
       ],
       "comments": "1",
-      "rating": "15",
-      "votes": "17",
+      "rating": "16",
+      "votes": "18",
       "parent": null,
       "id": "1459997579",
       "detailed_rating": {
@@ -149026,6 +149026,10 @@
             [
                "3981670",
                1754743683
+            ],
+            [
+               "5413616",
+               1754747032
             ]
          ],
          "-": [
@@ -149036,8 +149040,8 @@
          ]
       },
       "deleted": false,
-      "justified_rating": 15,
-      "justified_votes": 17
+      "justified_rating": 16,
+      "justified_votes": 18
    },
    "1754214372": {
       "title": "SCP-ZH-779 - 佛眼金睛",
@@ -149631,8 +149635,8 @@
          "_夢神-goi格式"
       ],
       "comments": "2",
-      "rating": "20",
-      "votes": "20",
+      "rating": "21",
+      "votes": "21",
       "parent": null,
       "id": "1459998396",
       "detailed_rating": {
@@ -149716,12 +149720,16 @@
             [
                "3981670",
                1754742973
+            ],
+            [
+               "5237516",
+               1754747032
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 20,
-      "justified_votes": 20
+      "justified_rating": 21,
+      "justified_votes": 21
    },
    "1754234848": {
       "title": "繁廣化工新人講座逐字稿",
