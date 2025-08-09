@@ -134181,8 +134181,8 @@
          "_licensebox"
       ],
       "comments": "1",
-      "rating": "3",
-      "votes": "3",
+      "rating": "4",
+      "votes": "4",
       "parent": "anthology-2023-hub",
       "id": "1452163913",
       "detailed_rating": {
@@ -134198,12 +134198,16 @@
             [
                "6217438",
                1705583194
+            ],
+            [
+               "7064164",
+               1754748595
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 3,
-      "justified_votes": 3
+      "justified_rating": 4,
+      "justified_votes": 4
    },
    "1705149804": {
       "title": "SCP-6067 - 回旋風",
