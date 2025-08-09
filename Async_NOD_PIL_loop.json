@@ -31823,8 +31823,8 @@
       ],
       "hidden_tags": [],
       "comments": "5",
-      "rating": "5",
-      "votes": "7",
+      "rating": "6",
+      "votes": "8",
       "parent": null,
       "id": "1460017052",
       "detailed_rating": {
@@ -31852,6 +31852,10 @@
             [
                "8177208",
                1754750984
+            ],
+            [
+               "7064164",
+               1754751710
             ]
          ],
          "-": [
@@ -31862,8 +31866,8 @@
          ]
       },
       "deleted": false,
-      "justified_rating": 5,
-      "justified_votes": 7
+      "justified_rating": 6,
+      "justified_votes": 8
    },
    "1705737592": {
       "title": "在禁忌中：上集・太巴塱",
