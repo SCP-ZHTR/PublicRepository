@@ -148699,8 +148699,8 @@
          "_awcy-goi格式"
       ],
       "comments": "1",
-      "rating": "23",
-      "votes": "23",
+      "rating": "24",
+      "votes": "24",
       "parent": null,
       "id": "1459981599",
       "detailed_rating": {
@@ -148796,12 +148796,16 @@
             [
                "3981670",
                1754743263
+            ],
+            [
+               "5413616",
+               1754747742
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 23,
-      "justified_votes": 23
+      "justified_rating": 24,
+      "justified_votes": 24
    },
    "1753877159": {
       "title": "SCP-ZH-867 - 回收就是資源",
@@ -149482,8 +149486,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "19",
-      "votes": "19",
+      "rating": "18",
+      "votes": "18",
       "parent": null,
       "id": "1459998325",
       "detailed_rating": {
@@ -149559,16 +149563,12 @@
             [
                "9628870",
                1754735019
-            ],
-            [
-               "8480087",
-               1754747453
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 19,
-      "justified_votes": 19
+      "justified_rating": 18,
+      "justified_votes": 18
    },
    "1754230942": {
       "title": "木易藏書閣目錄 偽-八二四《枷項筆》",
