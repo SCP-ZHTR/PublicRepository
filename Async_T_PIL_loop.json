@@ -148086,8 +148086,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "3",
-      "votes": "3",
+      "rating": "4",
+      "votes": "4",
       "parent": null,
       "id": "1459904665",
       "detailed_rating": {
@@ -148103,12 +148103,16 @@
             [
                "7840542",
                1752230572
+            ],
+            [
+               "8854072",
+               1754753296
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 3,
-      "justified_votes": 3
+      "justified_rating": 4,
+      "justified_votes": 4
    },
    "1752406123": {
       "title": "SCP-8376 - 鏟子給我，你下去",
