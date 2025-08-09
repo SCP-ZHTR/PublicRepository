@@ -147799,8 +147799,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "3",
-      "votes": "3",
+      "rating": "4",
+      "votes": "4",
       "parent": null,
       "id": "1459893473",
       "detailed_rating": {
@@ -147816,12 +147816,16 @@
             [
                "7840542",
                1752114127
+            ],
+            [
+               "8854072",
+               1754753439
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 3,
-      "justified_votes": 3
+      "justified_rating": 4,
+      "justified_votes": 4
    },
    "1752030792": {
       "title": "SCP-8411 - 樺木蹤跡",
