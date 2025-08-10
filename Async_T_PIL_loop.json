@@ -2651,8 +2651,8 @@
          "_licensebox"
       ],
       "comments": "3",
-      "rating": "27",
-      "votes": "27",
+      "rating": "28",
+      "votes": "28",
       "parent": null,
       "id": "674798877",
       "detailed_rating": {
@@ -2764,12 +2764,16 @@
             [
                "9311399",
                1724850257
+            ],
+            [
+               "6329328",
+               1754827507
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 25,
-      "justified_votes": 25
+      "justified_rating": 26,
+      "justified_votes": 26
    },
    "1554558543": {
       "title": "SCP-3022 - 掛鉤傳送器",
