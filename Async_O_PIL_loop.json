@@ -148260,8 +148260,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "21",
-      "votes": "21",
+      "rating": "22",
+      "votes": "22",
       "parent": null,
       "id": "1459868557",
       "detailed_rating": {
@@ -148349,12 +148349,16 @@
             [
                "5334590",
                1754825552
+            ],
+            [
+               "5062193",
+               1754830878
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 21,
-      "justified_votes": 21
+      "justified_rating": 22,
+      "justified_votes": 22
    },
    "1752065382": {
       "title": "SCP-ZH-334 - 好會數數",
@@ -149950,8 +149954,8 @@
       ],
       "hidden_tags": [],
       "comments": "5",
-      "rating": "12",
-      "votes": "14",
+      "rating": "13",
+      "votes": "15",
       "parent": null,
       "id": "1459998441",
       "detailed_rating": {
@@ -150007,6 +150011,10 @@
             [
                "9501997",
                1754828884
+            ],
+            [
+               "5062193",
+               1754830878
             ]
          ],
          "-": [
@@ -150017,8 +150025,8 @@
          ]
       },
       "deleted": false,
-      "justified_rating": 12,
-      "justified_votes": 14
+      "justified_rating": 13,
+      "justified_votes": 15
    },
    "1754488972": {
       "title": "SCP-ZH-269 - 反熵手電筒",
