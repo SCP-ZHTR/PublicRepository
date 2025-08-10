@@ -148260,8 +148260,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "20",
-      "votes": "20",
+      "rating": "21",
+      "votes": "21",
       "parent": null,
       "id": "1459868557",
       "detailed_rating": {
@@ -148345,12 +148345,16 @@
             [
                "6381244",
                1754817749
+            ],
+            [
+               "5334590",
+               1754825552
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 20,
-      "justified_votes": 20
+      "justified_rating": 21,
+      "justified_votes": 21
    },
    "1752065382": {
       "title": "SCP-ZH-334 - 好會數數",
@@ -149220,8 +149224,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "14",
-      "votes": "14",
+      "rating": "15",
+      "votes": "15",
       "parent": null,
       "id": "1459997979",
       "detailed_rating": {
@@ -149281,12 +149285,16 @@
             [
                "6381244",
                1754814327
+            ],
+            [
+               "5334590",
+               1754825552
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 14,
-      "justified_votes": 14
+      "justified_rating": 15,
+      "justified_votes": 15
    },
    "1754227456": {
       "title": "SCP-ZH-837 - 重返光明",
@@ -149699,8 +149707,8 @@
          "_蛇之手-goi格式"
       ],
       "comments": "2",
-      "rating": "6",
-      "votes": "8",
+      "rating": "7",
+      "votes": "9",
       "parent": null,
       "id": "1459998360",
       "detailed_rating": {
@@ -149732,6 +149740,10 @@
             [
                "9628870",
                1754816616
+            ],
+            [
+               "5334590",
+               1754825552
             ]
          ],
          "-": [
@@ -149742,8 +149754,8 @@
          ]
       },
       "deleted": false,
-      "justified_rating": 6,
-      "justified_votes": 8
+      "justified_rating": 7,
+      "justified_votes": 9
    },
    "1754233374": {
       "title": "沙甸魚從地裏鑽了出來",
@@ -149760,8 +149772,8 @@
          "_夢神-goi格式"
       ],
       "comments": "2",
-      "rating": "23",
-      "votes": "23",
+      "rating": "24",
+      "votes": "24",
       "parent": null,
       "id": "1459998396",
       "detailed_rating": {
@@ -149857,12 +149869,16 @@
             [
                "6381244",
                1754813891
+            ],
+            [
+               "5334590",
+               1754825552
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 23,
-      "justified_votes": 23
+      "justified_rating": 24,
+      "justified_votes": 24
    },
    "1754234848": {
       "title": "繁廣化工新人講座逐字稿",
