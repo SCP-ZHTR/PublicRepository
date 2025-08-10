@@ -19130,7 +19130,9 @@
       "fullname": "scp-zh-323",
       "created_at": "1754852200",
       "created_by": "9798112",
-      "tags": [],
+      "tags": [
+         "safe"
+      ],
       "hidden_tags": [],
       "comments": "0",
       "rating": "0",
