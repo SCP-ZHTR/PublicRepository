@@ -148853,8 +148853,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "16",
-      "votes": "18",
+      "rating": "17",
+      "votes": "19",
       "parent": null,
       "id": "1459982736",
       "detailed_rating": {
@@ -148926,6 +148926,10 @@
             [
                "8854072",
                1754754978
+            ],
+            [
+               "6381244",
+               1754814327
             ]
          ],
          "-": [
@@ -148936,8 +148940,8 @@
          ]
       },
       "deleted": false,
-      "justified_rating": 16,
-      "justified_votes": 18
+      "justified_rating": 17,
+      "justified_votes": 19
    },
    "1754187793": {
       "title": "收屍人",
@@ -149001,8 +149005,8 @@
          "_威爾遜生物應對組-goi格式"
       ],
       "comments": "1",
-      "rating": "17",
-      "votes": "19",
+      "rating": "18",
+      "votes": "20",
       "parent": null,
       "id": "1459997579",
       "detailed_rating": {
@@ -149078,6 +149082,10 @@
             [
                "8854072",
                1754751409
+            ],
+            [
+               "6381244",
+               1754814327
             ]
          ],
          "-": [
@@ -149088,8 +149096,8 @@
          ]
       },
       "deleted": false,
-      "justified_rating": 17,
-      "justified_votes": 19
+      "justified_rating": 18,
+      "justified_votes": 20
    },
    "1754214372": {
       "title": "SCP-ZH-779 - 佛眼金睛",
@@ -149192,8 +149200,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "13",
-      "votes": "13",
+      "rating": "14",
+      "votes": "14",
       "parent": null,
       "id": "1459997979",
       "detailed_rating": {
@@ -149249,12 +149257,16 @@
             [
                "8854072",
                1754751409
+            ],
+            [
+               "6381244",
+               1754814327
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 13,
-      "justified_votes": 13
+      "justified_rating": 14,
+      "justified_votes": 14
    },
    "1754227456": {
       "title": "SCP-ZH-837 - 重返光明",
