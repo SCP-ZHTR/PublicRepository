@@ -149647,8 +149647,8 @@
          "_蛇之手-goi格式"
       ],
       "comments": "2",
-      "rating": "4",
-      "votes": "6",
+      "rating": "5",
+      "votes": "7",
       "parent": null,
       "id": "1459998360",
       "detailed_rating": {
@@ -149672,6 +149672,10 @@
             [
                "6503482",
                1754717974
+            ],
+            [
+               "6381244",
+               1754813891
             ]
          ],
          "-": [
@@ -149682,8 +149686,8 @@
          ]
       },
       "deleted": false,
-      "justified_rating": 4,
-      "justified_votes": 6
+      "justified_rating": 5,
+      "justified_votes": 7
    },
    "1754233374": {
       "title": "沙甸魚從地裏鑽了出來",
@@ -149700,8 +149704,8 @@
          "_夢神-goi格式"
       ],
       "comments": "2",
-      "rating": "22",
-      "votes": "22",
+      "rating": "23",
+      "votes": "23",
       "parent": null,
       "id": "1459998396",
       "detailed_rating": {
@@ -149793,12 +149797,16 @@
             [
                "8854072",
                1754750554
+            ],
+            [
+               "6381244",
+               1754813891
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 22,
-      "justified_votes": 22
+      "justified_rating": 23,
+      "justified_votes": 23
    },
    "1754234848": {
       "title": "繁廣化工新人講座逐字稿",
@@ -149814,8 +149822,8 @@
       ],
       "hidden_tags": [],
       "comments": "5",
-      "rating": "12",
-      "votes": "12",
+      "rating": "11",
+      "votes": "13",
       "parent": null,
       "id": "1459998441",
       "detailed_rating": {
@@ -149868,11 +149876,17 @@
                "8319365",
                1754782967
             ]
+         ],
+         "-": [
+            [
+               "6381244",
+               1754813891
+            ]
          ]
       },
       "deleted": false,
-      "justified_rating": 12,
-      "justified_votes": 12
+      "justified_rating": 11,
+      "justified_votes": 13
    },
    "1754488972": {
       "title": "SCP-ZH-269 - 反熵手電筒",
