@@ -149360,8 +149360,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "5",
-      "votes": "9",
+      "rating": "4",
+      "votes": "10",
       "parent": null,
       "id": "1459998306",
       "detailed_rating": {
@@ -149403,12 +149403,16 @@
             [
                "5237516",
                1754660039
+            ],
+            [
+               "6381244",
+               1754814181
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 5,
-      "justified_votes": 9
+      "justified_rating": 4,
+      "justified_votes": 10
    },
    "1754229767": {
       "title": "尋獲資料U-054-AU 「獅鬃合唱團存在之謎」",
@@ -149535,8 +149539,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "20",
-      "votes": "20",
+      "rating": "21",
+      "votes": "21",
       "parent": null,
       "id": "1459998325",
       "detailed_rating": {
@@ -149620,12 +149624,16 @@
             [
                "8319365",
                1754780706
+            ],
+            [
+               "6381244",
+               1754814181
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 20,
-      "justified_votes": 20
+      "justified_rating": 21,
+      "justified_votes": 21
    },
    "1754230942": {
       "title": "木易藏書閣目錄 偽-八二四《枷項筆》",
