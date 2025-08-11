@@ -32549,5 +32549,30 @@
       "deleted": false,
       "justified_rating": 0,
       "justified_votes": 0
+   },
+   "1754852200": {
+      "title": "SCP-ZH-323 - 一隻膠鯊",
+      "fullname": "deleted:scp-zh-323",
+      "created_at": "1754852200",
+      "created_by": "9798112",
+      "tags": [
+         "safe",
+         "scp",
+         "原創",
+         "嗅覺影響",
+         "工具",
+         "車肆-8",
+         "食物"
+      ],
+      "hidden_tags": [],
+      "comments": "2",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1460028038",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
