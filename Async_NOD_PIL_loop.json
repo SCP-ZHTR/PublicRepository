@@ -32566,13 +32566,46 @@
       ],
       "hidden_tags": [],
       "comments": "2",
-      "rating": "0",
-      "votes": "0",
+      "rating": "-5",
+      "votes": "7",
       "parent": null,
       "id": "1460028038",
-      "detailed_rating": {},
+      "detailed_rating": {
+         "+": [
+            [
+               "9798112",
+               1754904926
+            ]
+         ],
+         "-": [
+            [
+               "4206567",
+               1754904926
+            ],
+            [
+               "4533697",
+               1754904926
+            ],
+            [
+               "8404617",
+               1754904926
+            ],
+            [
+               "7840542",
+               1754904926
+            ],
+            [
+               "5413616",
+               1754904926
+            ],
+            [
+               "7486905",
+               1754904926
+            ]
+         ]
+      },
       "deleted": false,
-      "justified_rating": 0,
-      "justified_votes": 0
+      "justified_rating": -5,
+      "justified_votes": 7
    }
 }
