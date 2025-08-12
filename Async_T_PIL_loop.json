@@ -113553,8 +113553,8 @@
          "_licensebox"
       ],
       "comments": "0",
-      "rating": "8",
-      "votes": "8",
+      "rating": "9",
+      "votes": "9",
       "parent": null,
       "id": "1446080644",
       "detailed_rating": {
@@ -113590,12 +113590,16 @@
             [
                "DELETED",
                1730242981
+            ],
+            [
+               "8854072",
+               1755012343
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 7,
-      "justified_votes": 7
+      "justified_rating": 8,
+      "justified_votes": 8
    },
    "1676030705": {
       "title": "SCP-7399 - 來自紀錄、檔案與資訊安全管理部的通知",
