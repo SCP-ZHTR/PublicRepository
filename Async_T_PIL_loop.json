@@ -148355,8 +148355,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "2",
-      "votes": "2",
+      "rating": "3",
+      "votes": "3",
       "parent": null,
       "id": "1459941798",
       "detailed_rating": {
@@ -148368,12 +148368,16 @@
             [
                "7840542",
                1753127376
+            ],
+            [
+               "8319365",
+               1754961037
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 2,
-      "justified_votes": 2
+      "justified_rating": 3,
+      "justified_votes": 3
    },
    "1753086141": {
       "title": "錯倒序順 1097-PCS",
