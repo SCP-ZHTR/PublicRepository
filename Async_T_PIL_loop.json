@@ -42177,8 +42177,8 @@
       ],
       "hidden_tags": [],
       "comments": "2",
-      "rating": "-4",
-      "votes": "8",
+      "rating": "-3",
+      "votes": "9",
       "parent": null,
       "id": "1210877385",
       "detailed_rating": {
@@ -42190,6 +42190,10 @@
             [
                "5981123",
                1719254009
+            ],
+            [
+               "9792558",
+               1755144691
             ]
          ],
          "-": [
@@ -42220,8 +42224,8 @@
          ]
       },
       "deleted": false,
-      "justified_rating": -3,
-      "justified_votes": 7
+      "justified_rating": -2,
+      "justified_votes": 8
    },
    "1595357085": {
       "title": "王已死",
