@@ -689,8 +689,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "17",
-      "votes": "19",
+      "rating": "18",
+      "votes": "20",
       "parent": "guide-hub",
       "id": "639485644",
       "detailed_rating": {
@@ -766,6 +766,10 @@
             [
                "8548656",
                1706624253
+            ],
+            [
+               "9754566",
+               1755270230
             ]
          ],
          "-": [
@@ -776,8 +780,8 @@
          ]
       },
       "deleted": false,
-      "justified_rating": 14,
-      "justified_votes": 16
+      "justified_rating": 15,
+      "justified_votes": 17
    },
    "1553177135": {
       "title": "常見問題與解答",
