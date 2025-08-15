@@ -43535,8 +43535,8 @@
          "_cc"
       ],
       "comments": "3",
-      "rating": "38",
-      "votes": "38",
+      "rating": "39",
+      "votes": "39",
       "parent": null,
       "id": "1260816880",
       "detailed_rating": {
@@ -43692,12 +43692,16 @@
             [
                "9558349",
                1751462355
+            ],
+            [
+               "9798112",
+               1755272893
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 38,
-      "justified_votes": 38
+      "justified_rating": 39,
+      "justified_votes": 39
    },
    "1597653377": {
       "title": "舞台設置",
