@@ -19157,7 +19157,9 @@
       "fullname": "scp-10006",
       "created_at": "1755356373",
       "created_by": "9799771",
-      "tags": [],
+      "tags": [
+         "scp-10006"
+      ],
       "hidden_tags": [],
       "comments": "0",
       "rating": "1",
