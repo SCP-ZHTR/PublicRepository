@@ -150256,14 +150256,31 @@
          "原創"
       ],
       "hidden_tags": [],
-      "comments": "0",
-      "rating": "0",
-      "votes": "0",
+      "comments": "1",
+      "rating": "-1",
+      "votes": "3",
       "parent": null,
       "id": "1460068741",
-      "detailed_rating": {},
+      "detailed_rating": {
+         "+": [
+            [
+               "9799771",
+               1755357701
+            ]
+         ],
+         "-": [
+            [
+               "5370805",
+               1755357701
+            ],
+            [
+               "5413616",
+               1755357701
+            ]
+         ]
+      },
       "deleted": false,
-      "justified_rating": 0,
-      "justified_votes": 0
+      "justified_rating": -1,
+      "justified_votes": 3
    }
 }
