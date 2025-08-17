@@ -55922,8 +55922,8 @@
       ],
       "hidden_tags": [],
       "comments": "2",
-      "rating": "5",
-      "votes": "5",
+      "rating": "6",
+      "votes": "6",
       "parent": null,
       "id": "1306655866",
       "detailed_rating": {
@@ -55947,12 +55947,16 @@
             [
                "5435485",
                1617120000
+            ],
+            [
+               "7064164",
+               1755446302
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 5,
-      "justified_votes": 5
+      "justified_rating": 6,
+      "justified_votes": 6
    },
    "1611316089": {
       "title": "SCP-3001 - 紅色現實",
@@ -56409,8 +56413,8 @@
          "_cc"
       ],
       "comments": "3",
-      "rating": "3",
-      "votes": "3",
+      "rating": "4",
+      "votes": "4",
       "parent": null,
       "id": "1306677185",
       "detailed_rating": {
@@ -56426,12 +56430,16 @@
             [
                "7073060",
                1617120000
+            ],
+            [
+               "7064164",
+               1755446302
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 3,
-      "justified_votes": 3
+      "justified_rating": 4,
+      "justified_votes": 4
    },
    "1611925059": {
       "title": "黑暗之子",
