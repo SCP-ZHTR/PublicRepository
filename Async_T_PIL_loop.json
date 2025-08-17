@@ -148800,5 +148800,33 @@
       "deleted": false,
       "justified_rating": 1,
       "justified_votes": 1
+   },
+   "1755445000": {
+      "title": "SCP-7639 - 你可以把屁股往水裡泡但這樣是擦不乾淨的",
+      "fullname": "scp-7639",
+      "created_at": "1755445000",
+      "created_by": "4206567",
+      "tags": [
+         "en",
+         "keter",
+         "scp",
+         "家用品大戰爭",
+         "家電用品",
+         "敵意",
+         "未收容",
+         "甲殼類",
+         "翻譯",
+         "自主"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1460072023",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
