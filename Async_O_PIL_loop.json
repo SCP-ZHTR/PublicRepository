@@ -150263,7 +150263,7 @@
       "hidden_tags": [],
       "comments": "2",
       "rating": "-4",
-      "votes": "6",
+      "votes": "7",
       "parent": null,
       "id": "1460068741",
       "detailed_rating": {
@@ -150293,11 +150293,15 @@
             [
                "5251681",
                1755365963
+            ],
+            [
+               "7840542",
+               1755407960
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": -4,
-      "justified_votes": 6
+      "justified_rating": -5,
+      "justified_votes": 7
    }
 }
