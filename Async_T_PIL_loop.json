@@ -22383,8 +22383,8 @@
          "_cc"
       ],
       "comments": "0",
-      "rating": "3",
-      "votes": "3",
+      "rating": "4",
+      "votes": "4",
       "parent": null,
       "id": "986506258",
       "detailed_rating": {
@@ -22400,12 +22400,16 @@
             [
                "5435485",
                1617724800
+            ],
+            [
+               "7064164",
+               1755446148
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 3,
-      "justified_votes": 3
+      "justified_rating": 4,
+      "justified_votes": 4
    },
    "1580555926": {
       "title": "SCP-3528 - 女巫狩獵者",
