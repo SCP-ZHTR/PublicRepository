@@ -60705,8 +60705,8 @@
          "_cc"
       ],
       "comments": "1",
-      "rating": "10",
-      "votes": "10",
+      "rating": "11",
+      "votes": "11",
       "parent": null,
       "id": "1308319344",
       "detailed_rating": {
@@ -60750,12 +60750,16 @@
             [
                "7504530",
                1723036372
+            ],
+            [
+               "7064164",
+               1755446450
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 9,
-      "justified_votes": 9
+      "justified_rating": 10,
+      "justified_votes": 10
    },
    "1616514274": {
       "title": "SCP-5609 - 光蟲",
@@ -61499,8 +61503,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "10",
-      "votes": "10",
+      "rating": "11",
+      "votes": "11",
       "parent": "scpdeclassified",
       "id": "1308449113",
       "detailed_rating": {
@@ -61544,12 +61548,16 @@
             [
                "DELETED",
                1740020267
+            ],
+            [
+               "7064164",
+               1755446450
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 9,
-      "justified_votes": 9
+      "justified_rating": 10,
+      "justified_votes": 10
    },
    "1617096774": {
       "title": "一個能幫助那些懶骨頭們更新人事頁的超簡易工具",
