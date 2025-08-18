@@ -133710,8 +133710,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "14",
-      "votes": "16",
+      "rating": "15",
+      "votes": "17",
       "parent": null,
       "id": "1453306838",
       "detailed_rating": {
@@ -133775,6 +133775,10 @@
             [
                "4239775",
                1721994794
+            ],
+            [
+               "6217438",
+               1755520639
             ]
          ],
          "-": [
@@ -133785,8 +133789,8 @@
          ]
       },
       "deleted": false,
-      "justified_rating": 14,
-      "justified_votes": 16
+      "justified_rating": 15,
+      "justified_votes": 17
    },
    "1675932552": {
       "title": "佔位符 藝作",
