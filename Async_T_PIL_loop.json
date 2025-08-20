@@ -17728,8 +17728,8 @@
          "_licensebox"
       ],
       "comments": "0",
-      "rating": "5",
-      "votes": "5",
+      "rating": "6",
+      "votes": "6",
       "parent": null,
       "id": "858387462",
       "detailed_rating": {
@@ -17753,12 +17753,16 @@
             [
                "8319365",
                1718289915
+            ],
+            [
+               "9163798",
+               1755711391
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 5,
-      "justified_votes": 5
+      "justified_rating": 6,
+      "justified_votes": 6
    },
    "1566425115": {
       "title": "SCP-011 - 有感知的內戰紀念雕像",
