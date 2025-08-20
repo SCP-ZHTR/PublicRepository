@@ -32629,8 +32629,8 @@
       ],
       "hidden_tags": [],
       "comments": "2",
-      "rating": "-7",
-      "votes": "9",
+      "rating": "-8",
+      "votes": "10",
       "parent": null,
       "id": "1460068741",
       "detailed_rating": {
@@ -32672,11 +32672,15 @@
             [
                "9766355",
                1755424447
+            ],
+            [
+               "7858492",
+               1755708659
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": -7,
-      "justified_votes": 9
+      "justified_rating": -8,
+      "justified_votes": 10
    }
 }
