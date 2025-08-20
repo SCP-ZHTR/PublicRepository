@@ -24126,8 +24126,8 @@
          "_禁黑"
       ],
       "comments": "0",
-      "rating": "21",
-      "votes": "21",
+      "rating": "22",
+      "votes": "22",
       "parent": null,
       "id": "985819442",
       "detailed_rating": {
@@ -24215,12 +24215,16 @@
             [
                "3981670",
                1617120000
+            ],
+            [
+               "9163798",
+               1755709616
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 20,
-      "justified_votes": 20
+      "justified_rating": 21,
+      "justified_votes": 21
    },
    "1576771199": {
       "title": "SCP-ZH-670 - 明知故犯",
