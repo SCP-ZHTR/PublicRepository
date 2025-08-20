@@ -148877,5 +148877,28 @@
       "deleted": false,
       "justified_rating": 2,
       "justified_votes": 2
+   },
+   "1755691561": {
+      "title": "單色",
+      "fullname": "monochrome",
+      "created_at": "1755691561",
+      "created_by": "6088232",
+      "tags": [
+         "en",
+         "illustrated",
+         "悲喜",
+         "故事",
+         "翻譯"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1460086123",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
