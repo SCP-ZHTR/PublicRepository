@@ -100128,8 +100128,8 @@
          "_image"
       ],
       "comments": "0",
-      "rating": "17",
-      "votes": "17",
+      "rating": "18",
+      "votes": "18",
       "parent": null,
       "id": "1420554905",
       "detailed_rating": {
@@ -100201,12 +100201,16 @@
             [
                "5981123",
                1718046504
+            ],
+            [
+               "7858492",
+               1755722405
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 17,
-      "justified_votes": 17
+      "justified_rating": 18,
+      "justified_votes": 18
    },
    "1659879558": {
       "title": "SCP-7999 - 來星星間找我",
