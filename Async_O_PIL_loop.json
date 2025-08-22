@@ -150164,8 +150164,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "9",
-      "votes": "9",
+      "rating": "10",
+      "votes": "10",
       "parent": null,
       "id": "1460020410",
       "detailed_rating": {
@@ -150205,12 +150205,16 @@
             [
                "9075244",
                1754752584
+            ],
+            [
+               "7513990",
+               1755856597
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 9,
-      "justified_votes": 9
+      "justified_rating": 10,
+      "justified_votes": 10
    },
    "1754852200": {
       "title": "SCP-ZH-323 - 一隻膠鯊",
