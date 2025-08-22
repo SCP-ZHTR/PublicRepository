@@ -43877,8 +43877,8 @@
       ],
       "hidden_tags": [],
       "comments": "3",
-      "rating": "22",
-      "votes": "22",
+      "rating": "23",
+      "votes": "23",
       "parent": null,
       "id": "1165217017",
       "detailed_rating": {
@@ -43970,12 +43970,16 @@
             [
                "6556914",
                1731905735
+            ],
+            [
+               "7133565",
+               1755857545
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 22,
-      "justified_votes": 22
+      "justified_rating": 23,
+      "justified_votes": 23
    },
    "1593697117": {
       "title": "Colmod 組件指南",
