@@ -141485,8 +141485,8 @@
       ],
       "hidden_tags": [],
       "comments": "2",
-      "rating": "3",
-      "votes": "3",
+      "rating": "4",
+      "votes": "4",
       "parent": null,
       "id": "1456114347",
       "detailed_rating": {
@@ -141502,12 +141502,16 @@
             [
                "8883612",
                1723203629
+            ],
+            [
+               "6088232",
+               1755831839
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 3,
-      "justified_votes": 3
+      "justified_rating": 4,
+      "justified_votes": 4
    },
    "1723042872": {
       "title": "SCP-1178 - 漂浮的洲際彈道飛彈",
@@ -142530,8 +142534,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "9",
-      "votes": "9",
+      "rating": "10",
+      "votes": "10",
       "parent": null,
       "id": "1456613832",
       "detailed_rating": {
@@ -142571,12 +142575,16 @@
             [
                "7655555",
                1731800448
+            ],
+            [
+               "7513990",
+               1755831839
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 9,
-      "justified_votes": 9
+      "justified_rating": 10,
+      "justified_votes": 10
    },
    "1725283061": {
       "title": "SCP-2577 - 落下的船隻",
