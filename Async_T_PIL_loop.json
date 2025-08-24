@@ -148788,8 +148788,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "5",
-      "votes": "5",
+      "rating": "6",
+      "votes": "6",
       "parent": null,
       "id": "1460070328",
       "detailed_rating": {
@@ -148813,12 +148813,16 @@
             [
                "7840542",
                1755568505
+            ],
+            [
+               "8033564",
+               1756031975
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 5,
-      "justified_votes": 5
+      "justified_rating": 6,
+      "justified_votes": 6
    },
    "1755427223": {
       "title": "SCP-8368 - 平靜的夜晚",
