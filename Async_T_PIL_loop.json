@@ -149059,5 +149059,28 @@
       "deleted": false,
       "justified_rating": 1,
       "justified_votes": 1
+   },
+   "1756291112": {
+      "title": "一燈",
+      "fullname": "alight",
+      "created_at": "1756291112",
+      "created_by": "4206567",
+      "tags": [
+         "en",
+         "家用品大戰爭",
+         "故事",
+         "翻譯",
+         "詩歌"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1460115272",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
