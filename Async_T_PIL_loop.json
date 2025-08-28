@@ -35300,8 +35300,8 @@
          "_cc"
       ],
       "comments": "3",
-      "rating": "12",
-      "votes": "12",
+      "rating": "13",
+      "votes": "13",
       "parent": null,
       "id": "1035075807",
       "detailed_rating": {
@@ -35353,12 +35353,16 @@
             [
                "5415046",
                1617120000
+            ],
+            [
+               "9163798",
+               1756365887
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 12,
-      "justified_votes": 12
+      "justified_rating": 13,
+      "justified_votes": 13
    },
    "1588570630": {
       "title": "SCP-033 - 丟失的數字",
