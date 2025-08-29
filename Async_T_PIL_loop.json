@@ -149034,8 +149034,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "4",
-      "votes": "4",
+      "rating": "5",
+      "votes": "5",
       "parent": null,
       "id": "1460098517",
       "detailed_rating": {
@@ -149055,12 +149055,16 @@
             [
                "7504530",
                1756352694
+            ],
+            [
+               "9766355",
+               1756465076
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 4,
-      "justified_votes": 4
+      "justified_rating": 5,
+      "justified_votes": 5
    },
    "1756280045": {
       "title": "SCP-722 - 耶夢加德",
