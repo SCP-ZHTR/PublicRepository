@@ -86720,8 +86720,8 @@
          "_image"
       ],
       "comments": "1",
-      "rating": "8",
-      "votes": "8",
+      "rating": "9",
+      "votes": "9",
       "parent": null,
       "id": "1339267402",
       "detailed_rating": {
@@ -86757,12 +86757,16 @@
             [
                "DELETED",
                1756312126
+            ],
+            [
+               "6381244",
+               1756463565
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 7,
-      "justified_votes": 7
+      "justified_rating": 8,
+      "justified_votes": 8
    },
    "1647182974": {
       "title": "與Keter一起快樂度過情人節！！",
