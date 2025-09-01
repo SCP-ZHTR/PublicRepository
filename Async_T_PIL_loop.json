@@ -135254,8 +135254,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "9",
-      "votes": "9",
+      "rating": "10",
+      "votes": "10",
       "parent": null,
       "id": "1452521511",
       "detailed_rating": {
@@ -135295,12 +135295,16 @@
             [
                "9447838",
                1743494195
+            ],
+            [
+               "9163798",
+               1756712457
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 9,
-      "justified_votes": 9
+      "justified_rating": 10,
+      "justified_votes": 10
    },
    "1706970688": {
       "title": "SCP-6718 - 但要是另一邊什麼也沒有呢？",
