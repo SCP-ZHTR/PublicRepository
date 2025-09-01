@@ -83644,8 +83644,8 @@
          "_cc"
       ],
       "comments": "4",
-      "rating": "20",
-      "votes": "20",
+      "rating": "21",
+      "votes": "21",
       "parent": null,
       "id": "1330501064",
       "detailed_rating": {
@@ -83729,12 +83729,16 @@
             [
                "DELETED",
                1726914933
+            ],
+            [
+               "9163798",
+               1756711627
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 18,
-      "justified_votes": 18
+      "justified_rating": 19,
+      "justified_votes": 19
    },
    "1638004602": {
       "title": "Ｓ之死",
