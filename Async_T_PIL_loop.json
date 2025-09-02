@@ -83412,8 +83412,8 @@
       ],
       "hidden_tags": [],
       "comments": "2",
-      "rating": "8",
-      "votes": "8",
+      "rating": "9",
+      "votes": "9",
       "parent": null,
       "id": "1331721237",
       "detailed_rating": {
@@ -83449,12 +83449,16 @@
             [
                "5223229",
                1728404045
+            ],
+            [
+               "9163798",
+               1756774150
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 7,
-      "justified_votes": 7
+      "justified_rating": 8,
+      "justified_votes": 8
    },
    "1645148016": {
       "title": "反常-6219",
