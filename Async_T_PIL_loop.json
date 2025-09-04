@@ -122184,8 +122184,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "19",
-      "votes": "19",
+      "rating": "20",
+      "votes": "20",
       "parent": null,
       "id": "1447966741",
       "detailed_rating": {
@@ -122265,12 +122265,16 @@
             [
                "9075244",
                1729694502
+            ],
+            [
+               "9163798",
+               1756955813
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 19,
-      "justified_votes": 19
+      "justified_rating": 20,
+      "justified_votes": 20
    },
    "1685415634": {
       "title": "揮別群臂",
