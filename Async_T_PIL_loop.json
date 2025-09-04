@@ -128637,8 +128637,8 @@
          "_cc"
       ],
       "comments": "0",
-      "rating": "5",
-      "votes": "5",
+      "rating": "6",
+      "votes": "6",
       "parent": null,
       "id": "1450501532",
       "detailed_rating": {
@@ -128662,12 +128662,16 @@
             [
                "8543386",
                1712379085
+            ],
+            [
+               "6381244",
+               1756991242
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 5,
-      "justified_votes": 5
+      "justified_rating": 6,
+      "justified_votes": 6
    },
    "1696869219": {
       "title": "都會好起來的",
