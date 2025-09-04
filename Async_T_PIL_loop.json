@@ -148936,8 +148936,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "0",
-      "votes": "2",
+      "rating": "1",
+      "votes": "3",
       "parent": null,
       "id": "1460070959",
       "detailed_rating": {
@@ -148945,6 +148945,10 @@
             [
                "6217438",
                1755427575
+            ],
+            [
+               "5013754",
+               1756965339
             ]
          ],
          "-": [
@@ -148955,8 +148959,8 @@
          ]
       },
       "deleted": false,
-      "justified_rating": 0,
-      "justified_votes": 2
+      "justified_rating": 1,
+      "justified_votes": 3
    },
    "1755445000": {
       "title": "SCP-7639 - 你可以把屁股往水裡泡但這樣是擦不乾淨的",
