@@ -14898,8 +14898,8 @@
          "_info"
       ],
       "comments": "0",
-      "rating": "9",
-      "votes": "9",
+      "rating": "10",
+      "votes": "10",
       "parent": "guide-hub",
       "id": "834608956",
       "detailed_rating": {
@@ -14939,12 +14939,16 @@
             [
                "5225164",
                1617120000
+            ],
+            [
+               "9163798",
+               1756951900
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 9,
-      "justified_votes": 9
+      "justified_rating": 10,
+      "justified_votes": 10
    },
    "1562518732": {
       "title": "SCP-355 - 鋸刃草皮",
