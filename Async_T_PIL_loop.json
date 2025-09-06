@@ -149290,5 +149290,31 @@
       "deleted": false,
       "justified_rating": 1,
       "justified_votes": 1
+   },
+   "1757166925": {
+      "title": "SCP-8262 - 若我早逝",
+      "fullname": "scp-8262",
+      "created_at": "1757166925",
+      "created_by": "6217438",
+      "tags": [
+         "en",
+         "scp",
+         "合著",
+         "屍體",
+         "機率性",
+         "無效化",
+         "現象",
+         "翻譯"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1460353603",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
