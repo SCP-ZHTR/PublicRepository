@@ -149376,9 +149376,9 @@
          "視覺性"
       ],
       "hidden_tags": [],
-      "comments": "1",
-      "rating": "1",
-      "votes": "1",
+      "comments": "2",
+      "rating": "2",
+      "votes": "2",
       "parent": null,
       "id": "1460354862",
       "detailed_rating": {
@@ -149386,12 +149386,16 @@
             [
                "6217438",
                1757220925
+            ],
+            [
+               "4206567",
+               1757261795
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 1,
-      "justified_votes": 1
+      "justified_rating": 2,
+      "justified_votes": 2
    },
    "1757239779": {
       "title": "SCP-8304 - 現代慰藉",
