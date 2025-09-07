@@ -19409,5 +19409,22 @@
       "deleted": true,
       "justified_rating": 0,
       "justified_votes": 0
+   },
+   "1757260962": {
+      "title": "SCP-ZH-935 起始：登堂入室",
+      "fullname": "scp-zh-935",
+      "created_at": "1757260962",
+      "created_by": "5956873",
+      "tags": [],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1460357743",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
