@@ -149388,5 +149388,36 @@
       "deleted": false,
       "justified_rating": 1,
       "justified_votes": 1
+   },
+   "1757239779": {
+      "title": "SCP-8304 - 現代慰藉",
+      "fullname": "scp-8304",
+      "created_at": "1757239779",
+      "created_by": "6217438",
+      "tags": [
+         "en",
+         "en-經典競賽2025",
+         "scp",
+         "thaumiel",
+         "儀式性",
+         "動物",
+         "恐怖",
+         "牛類",
+         "結構物",
+         "翻譯",
+         "肉體恐怖",
+         "變形",
+         "鳥類"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1460356666",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
