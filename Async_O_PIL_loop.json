@@ -150550,5 +150550,26 @@
       "deleted": false,
       "justified_rating": 4,
       "justified_votes": 4
+   },
+   "1757347208": {
+      "title": "SCP-ZH-906 - 距離21.87公里：大都會系統",
+      "fullname": "scp-zh-906",
+      "created_at": "1757347208",
+      "created_by": "5325850",
+      "tags": [
+         "2025中元恐怖",
+         "scp",
+         "原創"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1460362717",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
