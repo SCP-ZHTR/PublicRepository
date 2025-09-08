@@ -149454,5 +149454,34 @@
       "deleted": false,
       "justified_rating": 5,
       "justified_votes": 5
+   },
+   "1757341564": {
+      "title": "SCP-8201 - 末日恐懼症：唯一出路",
+      "fullname": "scp-8201",
+      "created_at": "1757341564",
+      "created_by": "7504530",
+      "tags": [
+         "en",
+         "keter",
+         "mc&d",
+         "scp",
+         "傳送",
+         "喜劇",
+         "強迫性",
+         "恐懼症驚選集",
+         "翻譯",
+         "載具",
+         "黑色幽默"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1460362371",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
