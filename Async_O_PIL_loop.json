@@ -150622,5 +150622,25 @@
       "deleted": false,
       "justified_rating": 8,
       "justified_votes": 8
+   },
+   "1757433679": {
+      "title": "SCP-ZH-881 - 距離9.90公里：人去城留",
+      "fullname": "scp-zh-881",
+      "created_at": "1757433679",
+      "created_by": "5251681",
+      "tags": [
+         "scp",
+         "原創"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1460368997",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
