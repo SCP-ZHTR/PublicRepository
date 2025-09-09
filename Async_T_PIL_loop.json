@@ -18242,8 +18242,8 @@
          "_手動"
       ],
       "comments": "9",
-      "rating": "42",
-      "votes": "44",
+      "rating": "43",
+      "votes": "45",
       "parent": null,
       "id": "867661679",
       "detailed_rating": {
@@ -18419,6 +18419,10 @@
             [
                "7858492",
                1753560964
+            ],
+            [
+               "9163798",
+               1757434476
             ]
          ],
          "-": [
@@ -18429,8 +18433,8 @@
          ]
       },
       "deleted": false,
-      "justified_rating": 40,
-      "justified_votes": 42
+      "justified_rating": 41,
+      "justified_votes": 43
    },
    "1567166874": {
       "title": "Are We Cool Yet? 中心頁",
