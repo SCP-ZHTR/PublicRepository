@@ -2780,8 +2780,8 @@
       "tags": [],
       "hidden_tags": [],
       "comments": "3",
-      "rating": "17",
-      "votes": "23",
+      "rating": "18",
+      "votes": "24",
       "parent": null,
       "id": "868653159",
       "detailed_rating": {
@@ -2865,6 +2865,10 @@
             [
                "8962532",
                1704096539
+            ],
+            [
+               "4206567",
+               1757403846
             ]
          ],
          "-": [
@@ -2883,8 +2887,8 @@
          ]
       },
       "deleted": false,
-      "justified_rating": 16,
-      "justified_votes": 22
+      "justified_rating": 17,
+      "justified_votes": 23
    },
    "1567519439": {
       "title": "芝加哥鬼靈主題代碼",
