@@ -150535,8 +150535,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "5",
-      "votes": "5",
+      "rating": "6",
+      "votes": "6",
       "parent": null,
       "id": "1460357743",
       "detailed_rating": {
@@ -150560,12 +150560,16 @@
             [
                "5338547",
                1757349882
+            ],
+            [
+               "5251681",
+               1757460715
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 5,
-      "justified_votes": 5
+      "justified_rating": 6,
+      "justified_votes": 6
    },
    "1757347208": {
       "title": "SCP-ZH-906 - 距離21.87公里：大都會系統",
