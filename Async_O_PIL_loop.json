@@ -150629,18 +150629,30 @@
       "created_at": "1757433679",
       "created_by": "5251681",
       "tags": [
+         "2025中元恐怖",
          "scp",
          "原創"
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "0",
-      "votes": "0",
+      "rating": "1",
+      "votes": "1",
       "parent": null,
       "id": "1460368997",
-      "detailed_rating": {},
+      "detailed_rating": {
+         "+": [
+            [
+               "6217438",
+               1757438204
+            ],
+            [
+               "5334590",
+               1757438204
+            ]
+         ]
+      },
       "deleted": false,
-      "justified_rating": 0,
-      "justified_votes": 0
+      "justified_rating": 2,
+      "justified_votes": 2
    }
 }
