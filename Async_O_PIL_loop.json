@@ -150579,8 +150579,8 @@
       ],
       "hidden_tags": [],
       "comments": "2",
-      "rating": "8",
-      "votes": "8",
+      "rating": "9",
+      "votes": "9",
       "parent": null,
       "id": "1460362717",
       "detailed_rating": {
@@ -150616,12 +150616,16 @@
             [
                "7827462",
                1757359550
+            ],
+            [
+               "5251681",
+               1757438795
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 8,
-      "justified_votes": 8
+      "justified_rating": 9,
+      "justified_votes": 9
    },
    "1757433679": {
       "title": "SCP-ZH-881 - 距離9.90公里：人去城留",
