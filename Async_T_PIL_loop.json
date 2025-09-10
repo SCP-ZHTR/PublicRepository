@@ -24967,8 +24967,8 @@
          "_info"
       ],
       "comments": "1",
-      "rating": "12",
-      "votes": "12",
+      "rating": "13",
+      "votes": "13",
       "parent": null,
       "id": "998805193",
       "detailed_rating": {
@@ -25020,12 +25020,16 @@
             [
                "9371222",
                1728700727
+            ],
+            [
+               "5327537",
+               1757475509
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 12,
-      "justified_votes": 12
+      "justified_rating": 13,
+      "justified_votes": 13
    },
    "1582982741": {
       "title": "SCP-732 - 同人創作瘟疫",
