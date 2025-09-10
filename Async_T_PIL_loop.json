@@ -149288,8 +149288,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "2",
-      "votes": "2",
+      "rating": "3",
+      "votes": "3",
       "parent": null,
       "id": "1460319159",
       "detailed_rating": {
@@ -149301,12 +149301,16 @@
             [
                "6217438",
                1757242777
+            ],
+            [
+               "7504530",
+               1757471766
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 2,
-      "justified_votes": 2
+      "justified_rating": 3,
+      "justified_votes": 3
    },
    "1757166925": {
       "title": "SCP-8262 - 若我早逝",
