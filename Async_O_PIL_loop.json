@@ -107359,8 +107359,8 @@
          "_禁黑"
       ],
       "comments": "0",
-      "rating": "8",
-      "votes": "8",
+      "rating": "9",
+      "votes": "9",
       "parent": null,
       "id": "1436919877",
       "detailed_rating": {
@@ -107396,12 +107396,16 @@
             [
                "DELETED",
                1695207508
+            ],
+            [
+               "8418020",
+               1757490314
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 7,
-      "justified_votes": 7
+      "justified_rating": 8,
+      "justified_votes": 8
    },
    "1667214195": {
       "title": "2022萬聖事件",
