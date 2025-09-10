@@ -150718,5 +150718,27 @@
       "deleted": false,
       "justified_rating": 9,
       "justified_votes": 9
+   },
+   "1757523922": {
+      "title": "SCP-ZH-616 - 距離8.27公里：叢枝體",
+      "fullname": "scp-zh-616",
+      "created_at": "1757523922",
+      "created_by": "7655555",
+      "tags": [
+         "2025中元恐怖",
+         "keter",
+         "scp",
+         "原創"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1460374707",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
