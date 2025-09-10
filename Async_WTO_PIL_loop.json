@@ -19450,5 +19450,22 @@
       "deleted": true,
       "justified_rating": 1,
       "justified_votes": 1
+   },
+   "1757523922": {
+      "title": "SCP-ZH-616 - 距離8.27公里：叢枝體",
+      "fullname": "scp-zh-616",
+      "created_at": "1757523922",
+      "created_by": "7655555",
+      "tags": [],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1460374707",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
