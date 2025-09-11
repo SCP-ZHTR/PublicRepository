@@ -32801,5 +32801,42 @@
       "deleted": false,
       "justified_rating": 0,
       "justified_votes": 0
+   },
+   "1757606409": {
+      "title": "fragment:scp-zh-702-1",
+      "fullname": "fragment:scp-zh-702-1",
+      "created_at": "1757606409",
+      "created_by": "5987568",
+      "tags": [
+         "原創",
+         "段落"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": "scp-zh-702",
+      "id": "1460380144",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
+   },
+   "1757606499": {
+      "title": "fragment:scp-zh-702-2",
+      "fullname": "fragment:scp-zh-702-2",
+      "created_at": "1757606499",
+      "created_by": "5987568",
+      "tags": [],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1460380145",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
