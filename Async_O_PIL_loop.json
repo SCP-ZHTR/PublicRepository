@@ -150675,8 +150675,8 @@
       ],
       "hidden_tags": [],
       "comments": "2",
-      "rating": "10",
-      "votes": "10",
+      "rating": "11",
+      "votes": "11",
       "parent": null,
       "id": "1460368997",
       "detailed_rating": {
@@ -150720,12 +150720,16 @@
             [
                "9786435",
                1757593505
+            ],
+            [
+               "7840542",
+               1757595506
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 10,
-      "justified_votes": 10
+      "justified_rating": 11,
+      "justified_votes": 11
    },
    "1757523922": {
       "title": "SCP-ZH-616 - 距離8.27公里：叢枝體",
