@@ -32881,5 +32881,45 @@
       "deleted": false,
       "justified_rating": 0,
       "justified_votes": 0
+   },
+   "1757681550": {
+      "title": "SCP-PL-253",
+      "fullname": "fragment:scp-pl-253-1",
+      "created_at": "1757681550",
+      "created_by": "6217438",
+      "tags": [
+         "段落",
+         "翻譯"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": "scp-pl-253",
+      "id": "1460384961",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
+   },
+   "1757681643": {
+      "title": "SCP-PL-253",
+      "fullname": "fragment:scp-pl-253-2",
+      "created_at": "1757681643",
+      "created_by": "6217438",
+      "tags": [
+         "段落",
+         "翻譯"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1460384967",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
