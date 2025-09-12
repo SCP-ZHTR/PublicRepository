@@ -19501,5 +19501,22 @@
       "deleted": true,
       "justified_rating": 0,
       "justified_votes": 0
+   },
+   "1757694314": {
+      "title": "SCP-ZH-918 - 距離73.72公里：九彎十八拐",
+      "fullname": "scp-zh-918",
+      "created_at": "1757694314",
+      "created_by": "4990678",
+      "tags": [],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1460385690",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
