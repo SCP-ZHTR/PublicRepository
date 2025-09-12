@@ -149514,5 +149514,35 @@
       "deleted": false,
       "justified_rating": 3,
       "justified_votes": 3
+   },
+   "1757681503": {
+      "title": "SCP-PL-253 - 肯德基幹三小",
+      "fullname": "scp-pl-253",
+      "created_at": "1757681503",
+      "created_by": "6217438",
+      "tags": [
+         "en",
+         "int",
+         "k級情景",
+         "meta",
+         "scp",
+         "來自120站的檔案",
+         "未收容",
+         "機密分級",
+         "無名",
+         "翻譯",
+         "資訊危害",
+         "食物"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1460384958",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
