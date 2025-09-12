@@ -150801,8 +150801,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "0",
-      "votes": "6",
+      "rating": "-1",
+      "votes": "7",
       "parent": null,
       "id": "1460380142",
       "detailed_rating": {
@@ -150832,11 +150832,37 @@
             [
                "7840542",
                1757692807
+            ],
+            [
+               "9555530",
+               1757694553
             ]
          ]
       },
       "deleted": false,
+      "justified_rating": -1,
+      "justified_votes": 7
+   },
+   "1757694314": {
+      "title": "SCP-ZH-918 - 距離73.72公里：九彎十八拐",
+      "fullname": "scp-zh-918",
+      "created_at": "1757694314",
+      "created_by": "4990678",
+      "tags": [
+         "2025中元恐怖",
+         "euclid",
+         "scp",
+         "原創"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1460385690",
+      "detailed_rating": {},
+      "deleted": false,
       "justified_rating": 0,
-      "justified_votes": 6
+      "justified_votes": 0
    }
 }
