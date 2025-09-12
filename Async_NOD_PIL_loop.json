@@ -11454,8 +11454,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "12",
-      "votes": "12",
+      "rating": "13",
+      "votes": "13",
       "parent": null,
       "id": "1312347774",
       "detailed_rating": {
@@ -11507,12 +11507,16 @@
             [
                "DELETED",
                1711206181
+            ],
+            [
+               "9163798",
+               1757687134
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 11,
-      "justified_votes": 11
+      "justified_rating": 12,
+      "justified_votes": 12
    },
    "1626251100": {
       "title": "SCP-ZH-1000-EX",
