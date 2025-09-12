@@ -149521,11 +149521,11 @@
       "created_at": "1757681503",
       "created_by": "6217438",
       "tags": [
-         "en",
-         "int",
          "k級情景",
          "meta",
+         "pl",
          "scp",
+         "二次翻譯",
          "來自120站的檔案",
          "未收容",
          "機密分級",
@@ -149536,13 +149536,20 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "0",
-      "votes": "0",
+      "rating": "1",
+      "votes": "1",
       "parent": null,
       "id": "1460384958",
-      "detailed_rating": {},
+      "detailed_rating": {
+         "+": [
+            [
+               "6217438",
+               1757682142
+            ]
+         ]
+      },
       "deleted": false,
-      "justified_rating": 0,
-      "justified_votes": 0
+      "justified_rating": 1,
+      "justified_votes": 1
    }
 }
