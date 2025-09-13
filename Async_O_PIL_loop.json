@@ -150911,5 +150911,27 @@
       "deleted": false,
       "justified_rating": 6,
       "justified_votes": 6
+   },
+   "1757779407": {
+      "title": "距離136.74公里：抬頭可見的死亡",
+      "fullname": "scp-zh-414",
+      "created_at": "1757779407",
+      "created_by": "5413616",
+      "tags": [
+         "2025中元恐怖",
+         "keter",
+         "scp",
+         "原創"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1460391088",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
