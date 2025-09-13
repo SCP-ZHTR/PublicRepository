@@ -150756,8 +150756,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "6",
-      "votes": "6",
+      "rating": "7",
+      "votes": "7",
       "parent": null,
       "id": "1460374707",
       "detailed_rating": {
@@ -150785,12 +150785,16 @@
             [
                "8177208",
                1757650833
+            ],
+            [
+               "9075244",
+               1757727334
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 6,
-      "justified_votes": 6
+      "justified_rating": 7,
+      "justified_votes": 7
    },
    "1757606401": {
       "title": "SCP-ZH-702 - 距離60.30公里：瀆神血肉",
