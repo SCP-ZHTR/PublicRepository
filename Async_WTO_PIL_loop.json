@@ -19537,20 +19537,27 @@
       "justified_votes": 0
    },
    "1757835184": {
-      "title": "SCP-C-001 概念",
+      "title": "SCP-C-001",
       "fullname": "scp-c-001",
       "created_at": "1757835184",
       "created_by": "9771249",
       "tags": [],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "0",
-      "votes": "0",
+      "rating": "1",
+      "votes": "1",
       "parent": null,
       "id": "1460393066",
-      "detailed_rating": {},
+      "detailed_rating": {
+         "+": [
+            [
+               "9771249",
+               1757835408
+            ]
+         ]
+      },
       "deleted": false,
-      "justified_rating": 0,
-      "justified_votes": 0
+      "justified_rating": 1,
+      "justified_votes": 1
    }
 }
