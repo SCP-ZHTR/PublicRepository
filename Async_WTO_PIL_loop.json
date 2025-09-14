@@ -19543,9 +19543,9 @@
       "created_by": "9771249",
       "tags": [],
       "hidden_tags": [],
-      "comments": "0",
-      "rating": "-2",
-      "votes": "4",
+      "comments": "1",
+      "rating": "-3",
+      "votes": "5",
       "parent": null,
       "id": "1460393066",
       "detailed_rating": {
@@ -19567,12 +19567,16 @@
             [
                "4239775",
                1757854764
+            ],
+            [
+               "8543386",
+               1757860440
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": -2,
-      "justified_votes": 4
+      "justified_rating": -3,
+      "justified_votes": 5
    },
    "1757836720": {
       "title": "Scp-zh-992",
