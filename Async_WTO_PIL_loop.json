@@ -19568,8 +19568,8 @@
       "tags": [],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "1",
-      "votes": "1",
+      "rating": "0",
+      "votes": "2",
       "parent": null,
       "id": "1460393091",
       "detailed_rating": {
@@ -19578,10 +19578,16 @@
                "9771249",
                1757836990
             ]
+         ],
+         "-": [
+            [
+               "4990678",
+               1757839538
+            ]
          ]
       },
       "deleted": false,
-      "justified_rating": 1,
-      "justified_votes": 1
+      "justified_rating": 0,
+      "justified_votes": 2
    }
 }
