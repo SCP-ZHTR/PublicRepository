@@ -150825,8 +150825,8 @@
       ],
       "hidden_tags": [],
       "comments": "3",
-      "rating": "0",
-      "votes": "8",
+      "rating": "1",
+      "votes": "7",
       "parent": null,
       "id": "1460380142",
       "detailed_rating": {
@@ -150858,18 +150858,14 @@
                1757667998
             ],
             [
-               "7840542",
-               1757692807
-            ],
-            [
                "9555530",
                1757694553
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 0,
-      "justified_votes": 8
+      "justified_rating": 1,
+      "justified_votes": 7
    },
    "1757694314": {
       "title": "SCP-ZH-918 - 距離73.72公里：九彎十八拐",
