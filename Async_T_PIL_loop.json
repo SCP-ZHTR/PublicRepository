@@ -21496,8 +21496,8 @@
          "_image"
       ],
       "comments": "3",
-      "rating": "-9",
-      "votes": "11",
+      "rating": "-8",
+      "votes": "12",
       "parent": null,
       "id": "986217853",
       "detailed_rating": {
@@ -21505,6 +21505,10 @@
             [
                "5684299",
                1617120000
+            ],
+            [
+               "9771249",
+               1757853068
             ]
          ],
          "-": [
@@ -21551,8 +21555,8 @@
          ]
       },
       "deleted": false,
-      "justified_rating": -9,
-      "justified_votes": 11
+      "justified_rating": -8,
+      "justified_votes": 12
    },
    "1579338084": {
       "title": "SCP-RO-007-ARC",
@@ -91934,17 +91938,11 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "-2",
-      "votes": "4",
+      "rating": "-1",
+      "votes": "5",
       "parent": null,
       "id": "1402702687",
       "detailed_rating": {
-         "+": [
-            [
-               "7469850",
-               1651420800
-            ]
-         ],
          "-": [
             [
                "6952002",
@@ -91957,6 +91955,16 @@
             [
                "DELETED",
                "[UNKNOWN]"
+            ]
+         ],
+         "+": [
+            [
+               "9771249",
+               1757853068
+            ],
+            [
+               "DELETED",
+               1757853068
             ]
          ]
       },
@@ -132260,8 +132268,8 @@
       ],
       "hidden_tags": [],
       "comments": "2",
-      "rating": "-6",
-      "votes": "6",
+      "rating": "-5",
+      "votes": "7",
       "parent": null,
       "id": "1451544916",
       "detailed_rating": {
@@ -132290,11 +132298,17 @@
                "8319365",
                1716216455
             ]
+         ],
+         "+": [
+            [
+               "9771249",
+               1757853068
+            ]
          ]
       },
       "deleted": false,
-      "justified_rating": -6,
-      "justified_votes": 6
+      "justified_rating": -5,
+      "justified_votes": 7
    },
    "1700992004": {
       "title": "SCP-1915 - 維持現狀",
