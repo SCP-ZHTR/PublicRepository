@@ -26104,8 +26104,8 @@
       ],
       "hidden_tags": [],
       "comments": "7",
-      "rating": "8",
-      "votes": "8",
+      "rating": "9",
+      "votes": "9",
       "parent": null,
       "id": "1308485298",
       "detailed_rating": {
@@ -26141,12 +26141,16 @@
             [
                "6678442",
                1717571352
+            ],
+            [
+               "9771249",
+               1757855757
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 8,
-      "justified_votes": 8
+      "justified_rating": 9,
+      "justified_votes": 9
    },
    "1717769088": {
       "title": "SCP-7542",
