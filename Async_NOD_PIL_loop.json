@@ -24897,8 +24897,8 @@
       ],
       "hidden_tags": [],
       "comments": "6",
-      "rating": "9",
-      "votes": "9",
+      "rating": "10",
+      "votes": "10",
       "parent": null,
       "id": "1308602997",
       "detailed_rating": {
@@ -24938,12 +24938,16 @@
             [
                "6678442",
                1707826060
+            ],
+            [
+               "9771249",
+               1757869225
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 9,
-      "justified_votes": 9
+      "justified_rating": 10,
+      "justified_votes": 10
    },
    "1708141506": {
       "title": "8000contestoritiefling",
