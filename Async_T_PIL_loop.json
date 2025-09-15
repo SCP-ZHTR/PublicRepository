@@ -14325,8 +14325,8 @@
          "_地平線倡議-goi格式"
       ],
       "comments": "1",
-      "rating": "9",
-      "votes": "9",
+      "rating": "10",
+      "votes": "10",
       "parent": null,
       "id": "822916714",
       "detailed_rating": {
@@ -14366,12 +14366,16 @@
             [
                "5415046",
                1676131200
+            ],
+            [
+               "7504530",
+               1757907460
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 9,
-      "justified_votes": 9
+      "justified_rating": 10,
+      "justified_votes": 10
    },
    "1561441723": {
       "title": "SCP-500 - 萬靈藥",
