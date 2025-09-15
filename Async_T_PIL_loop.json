@@ -32746,8 +32746,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "6",
-      "votes": "6",
+      "rating": "7",
+      "votes": "7",
       "parent": null,
       "id": "1024297349",
       "detailed_rating": {
@@ -32775,12 +32775,16 @@
             [
                "7840542",
                1731320367
+            ],
+            [
+               "9771249",
+               1757937931
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 6,
-      "justified_votes": 6
+      "justified_rating": 7,
+      "justified_votes": 7
    },
    "1586694473": {
       "title": "SCP-600-KO",

@@ -19639,5 +19639,22 @@
       "deleted": true,
       "justified_rating": 1,
       "justified_votes": 1
+   },
+   "1757937834": {
+      "title": "SCP-ZH-143 - 距離49.41公里：星期六，猴子去斗六",
+      "fullname": "scp-zh-143",
+      "created_at": "1757937834",
+      "created_by": "5565302",
+      "tags": [],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1460398272",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
