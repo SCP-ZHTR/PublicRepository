@@ -150784,8 +150784,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "8",
-      "votes": "8",
+      "rating": "9",
+      "votes": "9",
       "parent": null,
       "id": "1460374707",
       "detailed_rating": {
@@ -150821,12 +150821,16 @@
             [
                "6152598",
                1757776920
+            ],
+            [
+               "7605593",
+               1757910582
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 8,
-      "justified_votes": 8
+      "justified_rating": 9,
+      "justified_votes": 9
    },
    "1757606401": {
       "title": "SCP-ZH-702 - 距離60.30公里：瀆神血肉",
@@ -150841,8 +150845,8 @@
       ],
       "hidden_tags": [],
       "comments": "3",
-      "rating": "1",
-      "votes": "7",
+      "rating": "2",
+      "votes": "8",
       "parent": null,
       "id": "1460380142",
       "detailed_rating": {
@@ -150862,6 +150866,10 @@
             [
                "4990678",
                1757836413
+            ],
+            [
+               "7605593",
+               1757910582
             ]
          ],
          "-": [
@@ -150880,8 +150888,8 @@
          ]
       },
       "deleted": false,
-      "justified_rating": 1,
-      "justified_votes": 7
+      "justified_rating": 2,
+      "justified_votes": 8
    },
    "1757694314": {
       "title": "SCP-ZH-918 - 距離73.72公里：九彎十八拐",
@@ -150896,8 +150904,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "7",
-      "votes": "7",
+      "rating": "8",
+      "votes": "8",
       "parent": null,
       "id": "1460385690",
       "detailed_rating": {
@@ -150929,12 +150937,16 @@
             [
                "5251681",
                1757810433
+            ],
+            [
+               "7605593",
+               1757910582
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 7,
-      "justified_votes": 7
+      "justified_rating": 8,
+      "justified_votes": 8
    },
    "1757779407": {
       "title": "SCP-ZH-414 - 距離136.74公里：抬頭可見的死亡",
@@ -150949,8 +150961,8 @@
       ],
       "hidden_tags": [],
       "comments": "3",
-      "rating": "-2",
-      "votes": "8",
+      "rating": "-1",
+      "votes": "9",
       "parent": null,
       "id": "1460391088",
       "detailed_rating": {
@@ -150966,6 +150978,10 @@
             [
                "5413616",
                1757845177
+            ],
+            [
+               "7605593",
+               1757910582
             ]
          ],
          "-": [
@@ -150992,8 +151008,8 @@
          ]
       },
       "deleted": false,
-      "justified_rating": -2,
-      "justified_votes": 8
+      "justified_rating": -1,
+      "justified_votes": 9
    },
    "1757836720": {
       "title": "SCP-ZH-992 概念 concept",
