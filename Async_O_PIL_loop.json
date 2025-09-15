@@ -150555,8 +150555,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "9",
-      "votes": "9",
+      "rating": "10",
+      "votes": "10",
       "parent": null,
       "id": "1460357743",
       "detailed_rating": {
@@ -150596,12 +150596,16 @@
             [
                "7504530",
                1757593947
+            ],
+            [
+               "7605593",
+               1757910433
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 9,
-      "justified_votes": 9
+      "justified_rating": 10,
+      "justified_votes": 10
    },
    "1757347208": {
       "title": "SCP-ZH-906 - 距離21.87公里：大都會系統",
@@ -150615,8 +150619,8 @@
       ],
       "hidden_tags": [],
       "comments": "2",
-      "rating": "12",
-      "votes": "12",
+      "rating": "13",
+      "votes": "13",
       "parent": null,
       "id": "1460362717",
       "detailed_rating": {
@@ -150668,12 +150672,16 @@
             [
                "9075244",
                1757510510
+            ],
+            [
+               "7605593",
+               1757910433
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 12,
-      "justified_votes": 12
+      "justified_rating": 13,
+      "justified_votes": 13
    },
    "1757433679": {
       "title": "SCP-ZH-881 - 距離9.90公里：人去城留",
@@ -150687,8 +150695,8 @@
       ],
       "hidden_tags": [],
       "comments": "3",
-      "rating": "15",
-      "votes": "15",
+      "rating": "16",
+      "votes": "16",
       "parent": null,
       "id": "1460368997",
       "detailed_rating": {
@@ -150752,12 +150760,16 @@
             [
                "9555530",
                1757770896
+            ],
+            [
+               "7605593",
+               1757910433
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 15,
-      "justified_votes": 15
+      "justified_rating": 16,
+      "justified_votes": 16
    },
    "1757523922": {
       "title": "SCP-ZH-616 - 距離8.27公里：叢枝體",
