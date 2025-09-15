@@ -23770,8 +23770,8 @@
          "_info"
       ],
       "comments": "13",
-      "rating": "47",
-      "votes": "47",
+      "rating": "48",
+      "votes": "48",
       "parent": null,
       "id": "985711822",
       "detailed_rating": {
@@ -23963,12 +23963,16 @@
             [
                "7044900",
                1755402304
+            ],
+            [
+               "9771249",
+               1757940769
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 45,
-      "justified_votes": 45
+      "justified_rating": 46,
+      "justified_votes": 46
    },
    "1576667584": {
       "title": "Dr.Ray的異常項目分級圖標 - Apollyon",
@@ -121519,8 +121523,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "1",
-      "votes": "9",
+      "rating": "2",
+      "votes": "10",
       "parent": null,
       "id": "1449953430",
       "detailed_rating": {
@@ -121544,6 +121548,10 @@
             [
                "7073060",
                1718816858
+            ],
+            [
+               "9771249",
+               1757940769
             ]
          ],
          "-": [
@@ -121566,8 +121574,8 @@
          ]
       },
       "deleted": false,
-      "justified_rating": 1,
-      "justified_votes": 9
+      "justified_rating": 2,
+      "justified_votes": 10
    },
    "1694685612": {
       "title": "拜請！高速寶山大王：繁中急迫競賽 2.0",
