@@ -88867,8 +88867,8 @@
          "_licensebox"
       ],
       "comments": "0",
-      "rating": "7",
-      "votes": "7",
+      "rating": "8",
+      "votes": "8",
       "parent": null,
       "id": "1402005990",
       "detailed_rating": {
@@ -88900,12 +88900,16 @@
             [
                "5565302",
                1718175380
+            ],
+            [
+               "9763414",
+               1757947632
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 6,
-      "justified_votes": 6
+      "justified_rating": 7,
+      "justified_votes": 7
    },
    "1648705450": {
       "title": "SCP-136 - 裸身偶人",
