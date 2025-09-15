@@ -66265,8 +66265,8 @@
          "_cc"
       ],
       "comments": "7",
-      "rating": "7",
-      "votes": "35",
+      "rating": "6",
+      "votes": "36",
       "parent": null,
       "id": "1308448059",
       "detailed_rating": {
@@ -66412,12 +66412,16 @@
             [
                "DELETED",
                1725472857
+            ],
+            [
+               "9763414",
+               1757948497
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 7,
-      "justified_votes": 31
+      "justified_rating": 6,
+      "justified_votes": 32
    },
    "1617094555": {
       "title": "SCP-ZH-066 - 有借有還",
