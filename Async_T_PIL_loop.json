@@ -133243,8 +133243,8 @@
          "_licensebox"
       ],
       "comments": "0",
-      "rating": "6",
-      "votes": "6",
+      "rating": "7",
+      "votes": "7",
       "parent": null,
       "id": "1451879210",
       "detailed_rating": {
@@ -133272,12 +133272,16 @@
             [
                "3981670",
                1715829377
+            ],
+            [
+               "5413616",
+               1757947335
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 6,
-      "justified_votes": 6
+      "justified_rating": 7,
+      "justified_votes": 7
    },
    "1702901091": {
       "title": "SCP-3001-J - 褐現實",
