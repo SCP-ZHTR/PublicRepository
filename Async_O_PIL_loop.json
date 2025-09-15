@@ -150933,8 +150933,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "-1",
-      "votes": "7",
+      "rating": "-2",
+      "votes": "8",
       "parent": null,
       "id": "1460391088",
       "detailed_rating": {
@@ -150968,12 +150968,16 @@
             [
                "7840542",
                1757841379
+            ],
+            [
+               "5370805",
+               1757897473
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": -1,
-      "justified_votes": 7
+      "justified_rating": -2,
+      "justified_votes": 8
    },
    "1757836720": {
       "title": "SCP-ZH-992 概念 concept",
