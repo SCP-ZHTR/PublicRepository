@@ -150904,8 +150904,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "8",
-      "votes": "8",
+      "rating": "9",
+      "votes": "9",
       "parent": null,
       "id": "1460385690",
       "detailed_rating": {
@@ -150941,12 +150941,16 @@
             [
                "7605593",
                1757910582
+            ],
+            [
+               "7840542",
+               1757934717
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 8,
-      "justified_votes": 8
+      "justified_rating": 9,
+      "justified_votes": 9
    },
    "1757779407": {
       "title": "SCP-ZH-414 - 距離136.74公里：抬頭可見的死亡",
