@@ -150965,8 +150965,8 @@
       ],
       "hidden_tags": [],
       "comments": "3",
-      "rating": "-1",
-      "votes": "9",
+      "rating": "0",
+      "votes": "10",
       "parent": null,
       "id": "1460391088",
       "detailed_rating": {
@@ -150986,6 +150986,10 @@
             [
                "7605593",
                1757910582
+            ],
+            [
+               "9771249",
+               1757938079
             ]
          ],
          "-": [
@@ -151012,8 +151016,8 @@
          ]
       },
       "deleted": false,
-      "justified_rating": -1,
-      "justified_votes": 9
+      "justified_rating": 0,
+      "justified_votes": 10
    },
    "1757836720": {
       "title": "SCP-ZH-992 概念 concept",
@@ -151112,5 +151116,27 @@
       "deleted": false,
       "justified_rating": -3,
       "justified_votes": 5
+   },
+   "1757937834": {
+      "title": "SCP-ZH-143 - 距離49.41公里：星期六，猴子去斗六",
+      "fullname": "scp-zh-143",
+      "created_at": "1757937834",
+      "created_by": "5565302",
+      "tags": [
+         "2025中元恐怖",
+         "keter",
+         "scp",
+         "原創"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1460398272",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
