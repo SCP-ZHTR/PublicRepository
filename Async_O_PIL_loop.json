@@ -151178,5 +151178,40 @@
       "deleted": false,
       "justified_rating": 3,
       "justified_votes": 3
+   },
+   "1757952325": {
+      "title": "SCP-ZH-841 - 距離92.21公里：校後",
+      "fullname": "scp-zh-841",
+      "created_at": "1757952325",
+      "created_by": "6217438",
+      "tags": [
+         "2025中元恐怖",
+         "meta",
+         "scp",
+         "site-zh-11",
+         "動物",
+         "原創",
+         "屍體",
+         "幻覺",
+         "掠食性",
+         "智能",
+         "活物",
+         "精神影響",
+         "結構物",
+         "視覺影響",
+         "記憶影響",
+         "認知危害",
+         "逆模因"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1460399151",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
