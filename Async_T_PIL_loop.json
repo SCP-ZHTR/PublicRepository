@@ -125613,8 +125613,8 @@
          "_licensebox"
       ],
       "comments": "0",
-      "rating": "7",
-      "votes": "7",
+      "rating": "8",
+      "votes": "8",
       "parent": null,
       "id": "1449353129",
       "detailed_rating": {
@@ -125646,12 +125646,16 @@
             [
                "5701756",
                1701152426
+            ],
+            [
+               "9763414",
+               1757945455
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 7,
-      "justified_votes": 7
+      "justified_rating": 8,
+      "justified_votes": 8
    },
    "1691942401": {
       "title": "SCP-7785 - 橫緯先生與縱維先生",
