@@ -151045,17 +151045,11 @@
       ],
       "hidden_tags": [],
       "comments": "5",
-      "rating": "-4",
-      "votes": "6",
+      "rating": "-5",
+      "votes": "5",
       "parent": null,
       "id": "1460393091",
       "detailed_rating": {
-         "+": [
-            [
-               "9771249",
-               1757852203
-            ]
-         ],
          "-": [
             [
                "5325850",
@@ -151080,8 +151074,8 @@
          ]
       },
       "deleted": false,
-      "justified_rating": -4,
-      "justified_votes": 6
+      "justified_rating": -5,
+      "justified_votes": 5
    },
    "1757876119": {
       "title": "SCP-ZH-309 人工智能",
@@ -151143,8 +151137,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "1",
-      "votes": "1",
+      "rating": "2",
+      "votes": "2",
       "parent": null,
       "id": "1460398272",
       "detailed_rating": {
@@ -151152,11 +151146,15 @@
             [
                "4239775",
                1757939069
+            ],
+            [
+               "9771249",
+               1757940915
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 1,
-      "justified_votes": 1
+      "justified_rating": 2,
+      "justified_votes": 2
    }
 }
