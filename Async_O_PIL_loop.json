@@ -143648,8 +143648,8 @@
          "_南"
       ],
       "comments": "0",
-      "rating": "7",
-      "votes": "7",
+      "rating": "6",
+      "votes": "6",
       "parent": null,
       "id": "1456954311",
       "detailed_rating": {
@@ -143661,10 +143661,6 @@
             [
                "5435485",
                1727715852
-            ],
-            [
-               "8452537",
-               1727795016
             ],
             [
                "5062193",
@@ -143685,8 +143681,8 @@
          ]
       },
       "deleted": false,
-      "justified_rating": 7,
-      "justified_votes": 7
+      "justified_rating": 6,
+      "justified_votes": 6
    },
    "1727703003": {
       "title": "SCP-ZH-636 - 流光、幻影、半屏大仙",
@@ -150857,8 +150853,8 @@
       ],
       "hidden_tags": [],
       "comments": "3",
-      "rating": "2",
-      "votes": "8",
+      "rating": "3",
+      "votes": "9",
       "parent": null,
       "id": "1460380142",
       "detailed_rating": {
@@ -150882,6 +150878,10 @@
             [
                "7605593",
                1757910582
+            ],
+            [
+               "5413616",
+               1757947032
             ]
          ],
          "-": [
@@ -150900,8 +150900,8 @@
          ]
       },
       "deleted": false,
-      "justified_rating": 2,
-      "justified_votes": 8
+      "justified_rating": 3,
+      "justified_votes": 9
    },
    "1757694314": {
       "title": "SCP-ZH-918 - 距離73.72公里：九彎十八拐",
