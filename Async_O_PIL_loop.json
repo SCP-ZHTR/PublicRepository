@@ -151220,10 +151220,12 @@
          "認知危害",
          "逆模因"
       ],
-      "hidden_tags": [],
+      "hidden_tags": [
+         "_禁黑"
+      ],
       "comments": "0",
-      "rating": "3",
-      "votes": "3",
+      "rating": "4",
+      "votes": "4",
       "parent": null,
       "id": "1460399151",
       "detailed_rating": {
@@ -151239,11 +151241,15 @@
             [
                "5251681",
                1757971742
+            ],
+            [
+               "4990678",
+               1757994947
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 3,
-      "justified_votes": 3
+      "justified_rating": 4,
+      "justified_votes": 4
    }
 }
