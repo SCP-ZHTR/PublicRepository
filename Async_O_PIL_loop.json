@@ -151307,8 +151307,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "1",
-      "votes": "1",
+      "rating": "2",
+      "votes": "2",
       "parent": null,
       "id": "1460404772",
       "detailed_rating": {
@@ -151316,11 +151316,19 @@
             [
                "6217438",
                1758038666
+            ],
+            [
+               "5325850",
+               1758038952
+            ],
+            [
+               "4206567",
+               1758038952
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 1,
-      "justified_votes": 1
+      "justified_rating": 3,
+      "justified_votes": 3
    }
 }
