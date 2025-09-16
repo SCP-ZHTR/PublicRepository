@@ -19656,5 +19656,22 @@
       "deleted": true,
       "justified_rating": 0,
       "justified_votes": 0
+   },
+   "1758035053": {
+      "title": "Scp Zh 241 災難發生",
+      "fullname": "scp-zh-241",
+      "created_at": "1758035053",
+      "created_by": "9771249",
+      "tags": [],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1460404476",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
