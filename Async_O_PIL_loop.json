@@ -151267,5 +151267,26 @@
       "deleted": false,
       "justified_rating": 7,
       "justified_votes": 7
+   },
+   "1758035053": {
+      "title": "SCP-ZH-241災難發生",
+      "fullname": "scp-zh-241",
+      "created_at": "1758035053",
+      "created_by": "9771249",
+      "tags": [
+         "keter",
+         "scp",
+         "原創"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1460404476",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
