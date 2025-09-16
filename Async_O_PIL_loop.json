@@ -151167,8 +151167,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "4",
-      "votes": "4",
+      "rating": "5",
+      "votes": "5",
       "parent": null,
       "id": "1460398272",
       "detailed_rating": {
@@ -151188,12 +151188,16 @@
             [
                "7064164",
                1757994518
+            ],
+            [
+               "7605593",
+               1758021771
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 4,
-      "justified_votes": 4
+      "justified_rating": 5,
+      "justified_votes": 5
    },
    "1757952325": {
       "title": "SCP-ZH-841 - 距離92.21公里：校後",
@@ -151224,8 +151228,8 @@
          "_禁黑"
       ],
       "comments": "0",
-      "rating": "5",
-      "votes": "5",
+      "rating": "6",
+      "votes": "6",
       "parent": null,
       "id": "1460399151",
       "detailed_rating": {
@@ -151249,11 +151253,15 @@
             [
                "7064164",
                1757995933
+            ],
+            [
+               "7605593",
+               1758021771
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 5,
-      "justified_votes": 5
+      "justified_rating": 6,
+      "justified_votes": 6
    }
 }
