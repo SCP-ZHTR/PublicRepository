@@ -151288,5 +151288,32 @@
       "deleted": false,
       "justified_rating": 0,
       "justified_votes": 0
+   },
+   "1758038404": {
+      "title": "SCP-ZH-979 - 距離31.23公里：化繭",
+      "fullname": "scp-zh-979",
+      "created_at": "1758038404",
+      "created_by": "3981670",
+      "tags": [
+         "2025中元恐怖",
+         "safe",
+         "scp",
+         "原創",
+         "反熵",
+         "地點",
+         "強迫性",
+         "現象",
+         "睡眠"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1460404772",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
