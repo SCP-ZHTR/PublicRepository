@@ -31855,8 +31855,8 @@
          "_licensebox"
       ],
       "comments": "0",
-      "rating": "1",
-      "votes": "3",
+      "rating": "2",
+      "votes": "4",
       "parent": null,
       "id": "1024197591",
       "detailed_rating": {
@@ -31868,6 +31868,10 @@
             [
                "4990678",
                1617120000
+            ],
+            [
+               "9771249",
+               1758036135
             ]
          ],
          "-": [
@@ -31878,8 +31882,8 @@
          ]
       },
       "deleted": false,
-      "justified_rating": 2,
-      "justified_votes": 2
+      "justified_rating": 3,
+      "justified_votes": 3
    },
    "1586148182": {
       "title": "SCP-049 - 瘟疫醫生",
