@@ -142828,8 +142828,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "1",
-      "votes": "1",
+      "rating": "2",
+      "votes": "2",
       "parent": null,
       "id": "1456660545",
       "detailed_rating": {
@@ -142837,12 +142837,16 @@
             [
                "4990678",
                1725380701
+            ],
+            [
+               "7504530",
+               1758031665
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 1,
-      "justified_votes": 1
+      "justified_rating": 2,
+      "justified_votes": 2
    },
    "1725602859": {
       "title": "最後一人",
