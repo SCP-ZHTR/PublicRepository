@@ -149726,5 +149726,32 @@
       "deleted": false,
       "justified_rating": 6,
       "justified_votes": 6
+   },
+   "1758119027": {
+      "title": "SCP-6764 - 梅狄",
+      "fullname": "scp-6764",
+      "created_at": "1758119027",
+      "created_by": "8033564",
+      "tags": [
+         "en",
+         "safe",
+         "scp",
+         "媒體",
+         "智能",
+         "無形",
+         "線上",
+         "翻譯",
+         "鬼魂"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1460408937",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
