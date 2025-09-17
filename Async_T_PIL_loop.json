@@ -149768,5 +149768,31 @@
       "deleted": false,
       "justified_rating": 3,
       "justified_votes": 3
+   },
+   "1758120544": {
+      "title": "維安設施檔案：遺跡無人區Area-27",
+      "fullname": "secure-facility-dossier-reliquary-area-27",
+      "created_at": "1758120544",
+      "created_by": "6217438",
+      "tags": [
+         "en",
+         "en-世界線2020",
+         "中心",
+         "戰術神學部",
+         "末世論之爭",
+         "站點",
+         "翻譯",
+         "藍寶石"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1460409040",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
