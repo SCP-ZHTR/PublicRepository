@@ -151292,8 +151292,8 @@
       ],
       "hidden_tags": [],
       "comments": "2",
-      "rating": "-2",
-      "votes": "4",
+      "rating": "-3",
+      "votes": "5",
       "parent": null,
       "id": "1460404476",
       "detailed_rating": {
@@ -151309,6 +151309,10 @@
             [
                "8543386",
                1758080305
+            ],
+            [
+               "7486905",
+               1758103309
             ]
          ],
          "+": [
@@ -151319,8 +151323,8 @@
          ]
       },
       "deleted": false,
-      "justified_rating": -2,
-      "justified_votes": 4
+      "justified_rating": -3,
+      "justified_votes": 5
    },
    "1758038404": {
       "title": "SCP-ZH-979 - 距離31.23公里：化繭",
