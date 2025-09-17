@@ -42437,8 +42437,8 @@
       ],
       "hidden_tags": [],
       "comments": "2",
-      "rating": "11",
-      "votes": "11",
+      "rating": "12",
+      "votes": "12",
       "parent": null,
       "id": "1147123263",
       "detailed_rating": {
@@ -42486,12 +42486,16 @@
             [
                "6082642",
                1617120000
+            ],
+            [
+               "5327537",
+               1758080733
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 11,
-      "justified_votes": 11
+      "justified_rating": 12,
+      "justified_votes": 12
    },
    "1591679504": {
       "title": "47",
