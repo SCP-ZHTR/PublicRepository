@@ -48217,8 +48217,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "10",
-      "votes": "10",
+      "rating": "11",
+      "votes": "11",
       "parent": null,
       "id": "1305348525",
       "detailed_rating": {
@@ -48262,12 +48262,16 @@
             [
                "5981123",
                1719254146
+            ],
+            [
+               "5327537",
+               1758076647
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 10,
-      "justified_votes": 10
+      "justified_rating": 11,
+      "justified_votes": 11
    },
    "1602946550": {
       "title": "SCP-231 - 特殊人員需求",
