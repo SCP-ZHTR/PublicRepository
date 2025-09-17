@@ -32957,13 +32957,36 @@
       ],
       "hidden_tags": [],
       "comments": "2",
-      "rating": "0",
-      "votes": "0",
+      "rating": "-5",
+      "votes": "5",
       "parent": null,
       "id": "1460406932",
-      "detailed_rating": {},
+      "detailed_rating": {
+         "-": [
+            [
+               "5325850",
+               1758111264
+            ],
+            [
+               "4206567",
+               1758111264
+            ],
+            [
+               "7840542",
+               1758111264
+            ],
+            [
+               "8543386",
+               1758111264
+            ],
+            [
+               "5415046",
+               1758111264
+            ]
+         ]
+      },
       "deleted": false,
-      "justified_rating": 0,
-      "justified_votes": 0
+      "justified_rating": -5,
+      "justified_votes": 5
    }
 }
