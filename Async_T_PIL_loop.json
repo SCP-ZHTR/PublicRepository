@@ -6329,8 +6329,8 @@
          "_cc"
       ],
       "comments": "3",
-      "rating": "18",
-      "votes": "18",
+      "rating": "19",
+      "votes": "19",
       "parent": "scp-001",
       "id": "786276784",
       "detailed_rating": {
@@ -6406,12 +6406,16 @@
             [
                "5415940",
                1617120000
+            ],
+            [
+               "9763414",
+               1758089536
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 18,
-      "justified_votes": 18
+      "justified_rating": 19,
+      "justified_votes": 19
    },
    "1557063820": {
       "title": "別想拿200塊",
