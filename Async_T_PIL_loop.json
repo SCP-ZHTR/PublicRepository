@@ -97318,8 +97318,8 @@
          "_禁黑"
       ],
       "comments": "0",
-      "rating": "19",
-      "votes": "19",
+      "rating": "20",
+      "votes": "20",
       "parent": null,
       "id": "1420057069",
       "detailed_rating": {
@@ -97399,12 +97399,16 @@
             [
                "DELETED",
                1718558212
+            ],
+            [
+               "9763414",
+               1758088547
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 18,
-      "justified_votes": 18
+      "justified_rating": 19,
+      "justified_votes": 19
    },
    "1657457058": {
       "title": "SCP-6377 - 水平之門",
