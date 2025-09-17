@@ -5872,8 +5872,8 @@
       ],
       "hidden_tags": [],
       "comments": "5",
-      "rating": "5",
-      "votes": "5",
+      "rating": "6",
+      "votes": "6",
       "parent": null,
       "id": "763147505",
       "detailed_rating": {
@@ -5897,12 +5897,16 @@
             [
                "6788064",
                1617120000
+            ],
+            [
+               "5327537",
+               1758078748
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 5,
-      "justified_votes": 5
+      "justified_rating": 6,
+      "justified_votes": 6
    },
    "1556888823": {
       "title": "三波特蘭德比隊",
