@@ -964,8 +964,8 @@
          "_info"
       ],
       "comments": "6",
-      "rating": "9",
-      "votes": "9",
+      "rating": "10",
+      "votes": "10",
       "parent": null,
       "id": "637417315",
       "detailed_rating": {
@@ -1005,12 +1005,16 @@
             [
                "5223229",
                1617120000
+            ],
+            [
+               "9555530",
+               1758215720
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 9,
-      "justified_votes": 9
+      "justified_rating": 10,
+      "justified_votes": 10
    },
    "1552188302": {
       "title": "SCP-ZH-551 - 小石潭記",
