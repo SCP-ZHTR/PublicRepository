@@ -21508,8 +21508,8 @@
          "_info"
       ],
       "comments": "5",
-      "rating": "49",
-      "votes": "49",
+      "rating": "50",
+      "votes": "50",
       "parent": null,
       "id": "939748592",
       "detailed_rating": {
@@ -21709,12 +21709,16 @@
             [
                "5981123",
                1719424131
+            ],
+            [
+               "9763414",
+               1758199000
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 48,
-      "justified_votes": 48
+      "justified_rating": 49,
+      "justified_votes": 49
    },
    "1575214469": {
       "title": "SCP-ZH-762 - 感同曾受",
