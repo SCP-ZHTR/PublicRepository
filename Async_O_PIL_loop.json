@@ -48292,8 +48292,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "7",
-      "votes": "7",
+      "rating": "8",
+      "votes": "8",
       "parent": null,
       "id": "1260657684",
       "detailed_rating": {
@@ -48325,12 +48325,16 @@
             [
                "8418020",
                1733231639
+            ],
+            [
+               "9163798",
+               1758164459
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 7,
-      "justified_votes": 7
+      "justified_rating": 8,
+      "justified_votes": 8
    },
    "1596784466": {
       "title": "聖誕禮物",
