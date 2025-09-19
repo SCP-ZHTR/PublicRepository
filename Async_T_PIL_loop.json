@@ -32157,8 +32157,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "3",
-      "votes": "3",
+      "rating": "4",
+      "votes": "4",
       "parent": null,
       "id": "1024216358",
       "detailed_rating": {
@@ -32174,12 +32174,16 @@
             [
                "3981670",
                1617120000
+            ],
+            [
+               "9763414",
+               1758305057
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 3,
-      "justified_votes": 3
+      "justified_rating": 4,
+      "justified_votes": 4
    },
    "1586254383": {
       "title": "阿卡迪亞 說明手冊",
