@@ -37542,8 +37542,8 @@
          "_fix"
       ],
       "comments": "2",
-      "rating": "6",
-      "votes": "6",
+      "rating": "7",
+      "votes": "7",
       "parent": null,
       "id": "1040176876",
       "detailed_rating": {
@@ -37571,12 +37571,16 @@
             [
                "8452537",
                1709209032
+            ],
+            [
+               "8033564",
+               1758274600
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 6,
-      "justified_votes": 6
+      "justified_rating": 7,
+      "justified_votes": 7
    },
    "1589702039": {
       "title": "第二次約會",
