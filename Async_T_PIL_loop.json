@@ -51372,8 +51372,8 @@
          "_licensebox"
       ],
       "comments": "1",
-      "rating": "11",
-      "votes": "11",
+      "rating": "12",
+      "votes": "12",
       "parent": null,
       "id": "1305797620",
       "detailed_rating": {
@@ -51421,12 +51421,16 @@
             [
                "9311399",
                1727099478
+            ],
+            [
+               "9763414",
+               1758305337
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 10,
-      "justified_votes": 10
+      "justified_rating": 11,
+      "justified_votes": 11
    },
    "1605333502": {
       "title": "Alto Clef的墓碑",
