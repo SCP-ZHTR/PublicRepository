@@ -151385,8 +151385,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "8",
-      "votes": "8",
+      "rating": "9",
+      "votes": "9",
       "parent": null,
       "id": "1460404772",
       "detailed_rating": {
@@ -151422,12 +151422,16 @@
             [
                "6503482",
                1758282712
+            ],
+            [
+               "5370805",
+               1758318067
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 8,
-      "justified_votes": 8
+      "justified_rating": 9,
+      "justified_votes": 9
    },
    "1758084707": {
       "title": "概念 concept",
