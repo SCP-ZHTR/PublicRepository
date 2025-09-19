@@ -151551,5 +151551,40 @@
       "deleted": false,
       "justified_rating": 0,
       "justified_votes": 0
+   },
+   "1758244765": {
+      "title": "SCP-ZH-823 - 距離8.50公里：禁止應對",
+      "fullname": "scp-zh-823",
+      "created_at": "1758244765",
+      "created_by": "7605593",
+      "tags": [
+         "2025中元恐怖",
+         "ettra",
+         "meta",
+         "scp",
+         "site-zh-25",
+         "儀式性",
+         "刪除部",
+         "原創",
+         "敘述性",
+         "概念",
+         "機密分級",
+         "法律性",
+         "真紀博士",
+         "研究員knave",
+         "精神影響",
+         "誤傳部",
+         "適應性"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1460415776",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
