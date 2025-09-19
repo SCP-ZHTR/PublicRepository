@@ -19738,5 +19738,22 @@
       "deleted": true,
       "justified_rating": 0,
       "justified_votes": 0
+   },
+   "1758243633": {
+      "title": "SCP-ZH-596 - 距離550.65公里：太平山鼠王",
+      "fullname": "scp-zh-596",
+      "created_at": "1758243633",
+      "created_by": "6787405",
+      "tags": [],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1460415667",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
