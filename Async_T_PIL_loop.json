@@ -47761,8 +47761,8 @@
          "_licensebox"
       ],
       "comments": "1",
-      "rating": "7",
-      "votes": "7",
+      "rating": "8",
+      "votes": "8",
       "parent": null,
       "id": "1305305755",
       "detailed_rating": {
@@ -47794,12 +47794,16 @@
             [
                "3981670",
                1617120000
+            ],
+            [
+               "9763414",
+               1758319876
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 7,
-      "justified_votes": 7
+      "justified_rating": 8,
+      "justified_votes": 8
    },
    "1602613388": {
       "title": "核准應用阻念合金並具備妨礙奇蹟工程作用的新材料之申請",
