@@ -151514,8 +151514,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "4",
-      "votes": "4",
+      "rating": "5",
+      "votes": "5",
       "parent": null,
       "id": "1460410831",
       "detailed_rating": {
@@ -151535,12 +151535,16 @@
             [
                "6217438",
                1758181981
+            ],
+            [
+               "6503482",
+               1758282855
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 4,
-      "justified_votes": 4
+      "justified_rating": 5,
+      "justified_votes": 5
    },
    "1758243633": {
       "title": "SCP-ZH-596 - 距離550.65公里：太平山鼠王",
