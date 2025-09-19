@@ -92815,8 +92815,8 @@
          "_cc"
       ],
       "comments": "0",
-      "rating": "5",
-      "votes": "5",
+      "rating": "6",
+      "votes": "6",
       "parent": null,
       "id": "1402788267",
       "detailed_rating": {
@@ -92840,12 +92840,16 @@
             [
                "4442284",
                1655308800
+            ],
+            [
+               "9763414",
+               1758322659
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 5,
-      "justified_votes": 5
+      "justified_rating": 6,
+      "justified_votes": 6
    },
    "1651805147": {
       "title": "SCP-931 - 俳句碗",
