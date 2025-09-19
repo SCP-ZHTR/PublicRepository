@@ -26776,8 +26776,8 @@
          "_cc"
       ],
       "comments": "2",
-      "rating": "11",
-      "votes": "11",
+      "rating": "12",
+      "votes": "12",
       "parent": null,
       "id": "999943730",
       "detailed_rating": {
@@ -26825,12 +26825,16 @@
             [
                "8064046",
                1658592000
+            ],
+            [
+               "9763414",
+               1758321962
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 11,
-      "justified_votes": 11
+      "justified_rating": 12,
+      "justified_votes": 12
    },
    "1584192005": {
       "title": "採訪紀錄882-1",
