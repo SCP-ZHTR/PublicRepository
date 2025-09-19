@@ -44660,8 +44660,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "17",
-      "votes": "17",
+      "rating": "18",
+      "votes": "18",
       "parent": null,
       "id": "1267789177",
       "detailed_rating": {
@@ -44733,12 +44733,16 @@
             [
                "7558128",
                1718704762
+            ],
+            [
+               "9763414",
+               1758320160
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 16,
-      "justified_votes": 16
+      "justified_rating": 17,
+      "justified_votes": 17
    },
    "1598633788": {
       "title": "SCP-036 - 亞茲迪信徒的重生朝聖",
