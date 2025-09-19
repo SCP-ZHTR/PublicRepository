@@ -27024,8 +27024,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "18",
-      "votes": "18",
+      "rating": "19",
+      "votes": "19",
       "parent": null,
       "id": "1002084918",
       "detailed_rating": {
@@ -27101,12 +27101,16 @@
             [
                "9371222",
                1729925918
+            ],
+            [
+               "9763414",
+               1758322801
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 18,
-      "justified_votes": 18
+      "justified_rating": 19,
+      "justified_votes": 19
    },
    "1584329681": {
       "title": "SCP-038 - 樹成萬物",
