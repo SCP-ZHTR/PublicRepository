@@ -151547,8 +151547,8 @@
       ],
       "hidden_tags": [],
       "comments": "2",
-      "rating": "-3",
-      "votes": "3",
+      "rating": "-4",
+      "votes": "4",
       "parent": null,
       "id": "1460415667",
       "detailed_rating": {
@@ -151564,12 +151564,16 @@
             [
                "7486905",
                1758278438
+            ],
+            [
+               "8452537",
+               1758279817
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": -3,
-      "justified_votes": 3
+      "justified_rating": -4,
+      "justified_votes": 4
    },
    "1758244765": {
       "title": "SCP-ZH-823 - 距離8.50公里：禁止應對",
