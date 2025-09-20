@@ -151687,7 +151687,7 @@
       "hidden_tags": [],
       "comments": "1",
       "rating": "5",
-      "votes": "5",
+      "votes": "6",
       "parent": null,
       "id": "1460418897",
       "detailed_rating": {
@@ -151711,11 +151711,15 @@
             [
                "8452537",
                1758325300
+            ],
+            [
+               "8177208",
+               1758330808
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 5,
-      "justified_votes": 5
+      "justified_rating": 6,
+      "justified_votes": 6
    }
 }
