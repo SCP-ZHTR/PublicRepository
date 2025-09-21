@@ -151553,8 +151553,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "5",
-      "votes": "5",
+      "rating": "6",
+      "votes": "6",
       "parent": null,
       "id": "1460410831",
       "detailed_rating": {
@@ -151578,12 +151578,16 @@
             [
                "6503482",
                1758282855
+            ],
+            [
+               "7605593",
+               1758441217
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 5,
-      "justified_votes": 5
+      "justified_rating": 6,
+      "justified_votes": 6
    },
    "1758243633": {
       "title": "SCP-ZH-596 - 距離550.65公里：太平山鼠王",
@@ -151599,8 +151603,8 @@
       ],
       "hidden_tags": [],
       "comments": "4",
-      "rating": "-2",
-      "votes": "8",
+      "rating": "-1",
+      "votes": "9",
       "parent": null,
       "id": "1460415667",
       "detailed_rating": {
@@ -151638,12 +151642,16 @@
             [
                "5251681",
                1758290761
+            ],
+            [
+               "7605593",
+               1758441217
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": -2,
-      "justified_votes": 8
+      "justified_rating": -1,
+      "justified_votes": 9
    },
    "1758244765": {
       "title": "SCP-ZH-823 - 距離8.50公里：禁止應對",
@@ -151714,8 +151722,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "10",
-      "votes": "10",
+      "rating": "11",
+      "votes": "11",
       "parent": null,
       "id": "1460418897",
       "detailed_rating": {
@@ -151759,12 +151767,16 @@
             [
                "5013754",
                1758420034
+            ],
+            [
+               "7605593",
+               1758441217
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 10,
-      "justified_votes": 10
+      "justified_rating": 11,
+      "justified_votes": 11
    },
    "1758420011": {
       "title": "SCP-ZH-481 - 距離3040.02公里：無菌地",
@@ -151782,8 +151794,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "5",
-      "votes": "5",
+      "rating": "6",
+      "votes": "6",
       "parent": null,
       "id": "1460425623",
       "detailed_rating": {
@@ -151807,11 +151819,15 @@
             [
                "7840542",
                1758433241
+            ],
+            [
+               "7605593",
+               1758441217
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 5,
-      "justified_votes": 5
+      "justified_rating": 6,
+      "justified_votes": 6
    }
 }
