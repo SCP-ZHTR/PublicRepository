@@ -151782,8 +151782,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "3",
-      "votes": "3",
+      "rating": "4",
+      "votes": "4",
       "parent": null,
       "id": "1460425623",
       "detailed_rating": {
@@ -151799,11 +151799,15 @@
             [
                "5325850",
                1758422026
+            ],
+            [
+               "7064164",
+               1758425379
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 3,
-      "justified_votes": 3
+      "justified_rating": 4,
+      "justified_votes": 4
    }
 }
