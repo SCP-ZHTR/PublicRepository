@@ -70637,8 +70637,8 @@
       ],
       "hidden_tags": [],
       "comments": "4",
-      "rating": "18",
-      "votes": "18",
+      "rating": "19",
+      "votes": "19",
       "parent": null,
       "id": "1311001581",
       "detailed_rating": {
@@ -70714,12 +70714,16 @@
             [
                "DELETED",
                "[UNKNOWN]"
+            ],
+            [
+               "8452537",
+               1758453694
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 17,
-      "justified_votes": 17
+      "justified_rating": 18,
+      "justified_votes": 18
    },
    "1620514889": {
       "title": "SCP-ZH-509 - 噬人肉團咽苦吐肉",
