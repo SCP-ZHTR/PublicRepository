@@ -149963,5 +149963,27 @@
       "deleted": false,
       "justified_rating": 0,
       "justified_votes": 0
+   },
+   "1758464449": {
+      "title": "你把馬歇爾、卡特與達克有限公司想錯了",
+      "fullname": "youre-wrong-about-mcd",
+      "created_at": "1758464449",
+      "created_by": "7504530",
+      "tags": [
+         "en",
+         "mc&d",
+         "心得",
+         "翻譯"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1460427726",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
