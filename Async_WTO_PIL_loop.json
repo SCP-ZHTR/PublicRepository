@@ -19755,5 +19755,22 @@
       "deleted": true,
       "justified_rating": 0,
       "justified_votes": 0
+   },
+   "1758420011": {
+      "title": "SCP-ZH-481 - 距離3040.02公里：無菌地",
+      "fullname": "scp-zh-481",
+      "created_at": "1758420011",
+      "created_by": "5013754",
+      "tags": [],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1460425623",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
