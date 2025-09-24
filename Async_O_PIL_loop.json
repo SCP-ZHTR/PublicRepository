@@ -151600,8 +151600,8 @@
       ],
       "hidden_tags": [],
       "comments": "2",
-      "rating": "0",
-      "votes": "2",
+      "rating": "-1",
+      "votes": "3",
       "parent": null,
       "id": "1460408505",
       "detailed_rating": {
@@ -151615,12 +151615,16 @@
             [
                "4264056",
                1758721906
+            ],
+            [
+               "5325850",
+               1758734363
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 0,
-      "justified_votes": 2
+      "justified_rating": -1,
+      "justified_votes": 3
    },
    "1758147687": {
       "title": "SCP-ZH-751 - 距離105.86公里：七樹淒",
