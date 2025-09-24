@@ -19793,5 +19793,22 @@
       "deleted": true,
       "justified_rating": 0,
       "justified_votes": 0
+   },
+   "1758714963": {
+      "title": "Concept Comic Character",
+      "fullname": "concept-comic-character",
+      "created_at": "1758714963",
+      "created_by": "9771249",
+      "tags": [],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1460439696",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
