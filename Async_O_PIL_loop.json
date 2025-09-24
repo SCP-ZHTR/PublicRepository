@@ -151975,8 +151975,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "-4",
-      "votes": "4",
+      "rating": "-3",
+      "votes": "5",
       "parent": null,
       "id": "1460439696",
       "detailed_rating": {
@@ -151997,10 +151997,16 @@
                "7840542",
                1758738054
             ]
+         ],
+         "+": [
+            [
+               "9771249",
+               1758754365
+            ]
          ]
       },
       "deleted": false,
-      "justified_rating": -4,
-      "justified_votes": 4
+      "justified_rating": -3,
+      "justified_votes": 5
    }
 }
