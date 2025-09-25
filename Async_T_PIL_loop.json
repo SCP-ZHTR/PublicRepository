@@ -123871,8 +123871,8 @@
          "_licensebox"
       ],
       "comments": "0",
-      "rating": "8",
-      "votes": "8",
+      "rating": "9",
+      "votes": "9",
       "parent": null,
       "id": "1448626044",
       "detailed_rating": {
@@ -123908,12 +123908,16 @@
             [
                "6381244",
                1732878871
+            ],
+            [
+               "9771249",
+               1758792456
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 8,
-      "justified_votes": 8
+      "justified_rating": 9,
+      "justified_votes": 9
    },
    "1687782032": {
       "title": "佔位符",
