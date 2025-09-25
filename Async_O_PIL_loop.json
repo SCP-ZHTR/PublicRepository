@@ -151844,8 +151844,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "12",
-      "votes": "12",
+      "rating": "13",
+      "votes": "13",
       "parent": null,
       "id": "1460418897",
       "detailed_rating": {
@@ -151897,12 +151897,16 @@
             [
                "8418020",
                1758608071
+            ],
+            [
+               "6503482",
+               1758793027
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 12,
-      "justified_votes": 12
+      "justified_rating": 13,
+      "justified_votes": 13
    },
    "1758420011": {
       "title": "SCP-ZH-481 - 距離3040.02公里：無菌地",
@@ -151920,8 +151924,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "11",
-      "votes": "11",
+      "rating": "12",
+      "votes": "12",
       "parent": null,
       "id": "1460425623",
       "detailed_rating": {
@@ -151969,12 +151973,16 @@
             [
                "5251681",
                1758673762
+            ],
+            [
+               "6503482",
+               1758793027
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 11,
-      "justified_votes": 11
+      "justified_rating": 12,
+      "justified_votes": 12
    },
    "1758714963": {
       "title": "Concept 嬂 黑白漫畫形象",
