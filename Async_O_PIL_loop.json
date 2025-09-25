@@ -6020,16 +6020,12 @@
          "_info"
       ],
       "comments": "0",
-      "rating": "9",
-      "votes": "9",
+      "rating": "8",
+      "votes": "8",
       "parent": "scp-zh-009",
       "id": "699736986",
       "detailed_rating": {
          "+": [
-            [
-               "5956873",
-               1617120000
-            ],
             [
                "4990678",
                1617120000
@@ -6065,8 +6061,8 @@
          ]
       },
       "deleted": false,
-      "justified_rating": 9,
-      "justified_votes": 9
+      "justified_rating": 8,
+      "justified_votes": 8
    },
    "1555590851": {
       "title": "永衡教會(舊版) LOGO",
