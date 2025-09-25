@@ -5652,8 +5652,8 @@
          "_info"
       ],
       "comments": "1",
-      "rating": "19",
-      "votes": "19",
+      "rating": "20",
+      "votes": "20",
       "parent": null,
       "id": "677030623",
       "detailed_rating": {
@@ -5733,12 +5733,16 @@
             [
                "DELETED",
                "[UNKNOWN]"
+            ],
+            [
+               "5956873",
+               1758830782
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 18,
-      "justified_votes": 18
+      "justified_rating": 19,
+      "justified_votes": 19
    },
    "1554748681": {
       "title": "SCP基金會不知道的那些事件－02",
@@ -5753,8 +5757,8 @@
          "_info"
       ],
       "comments": "1",
-      "rating": "5",
-      "votes": "5",
+      "rating": "6",
+      "votes": "6",
       "parent": null,
       "id": "677055655",
       "detailed_rating": {
@@ -5778,12 +5782,16 @@
             [
                "DELETED",
                "[UNKNOWN]"
+            ],
+            [
+               "5956873",
+               1758830782
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 4,
-      "justified_votes": 4
+      "justified_rating": 5,
+      "justified_votes": 5
    },
    "1554866763": {
       "title": "組織代號：烏托邦",
