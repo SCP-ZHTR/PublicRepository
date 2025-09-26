@@ -11198,8 +11198,8 @@
          "_info"
       ],
       "comments": "0",
-      "rating": "13",
-      "votes": "13",
+      "rating": "14",
+      "votes": "14",
       "parent": null,
       "id": "835219874",
       "detailed_rating": {
@@ -11255,12 +11255,16 @@
             [
                "5981123",
                1718518749
+            ],
+            [
+               "5956873",
+               1758917332
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 12,
-      "justified_votes": 12
+      "justified_rating": 13,
+      "justified_votes": 13
    },
    "1562691542": {
       "title": "SCP-ZH-050 - 掙扎刀片",
