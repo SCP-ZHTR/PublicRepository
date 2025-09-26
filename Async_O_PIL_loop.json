@@ -9265,8 +9265,8 @@
          "_info"
       ],
       "comments": "1",
-      "rating": "17",
-      "votes": "19",
+      "rating": "18",
+      "votes": "20",
       "parent": null,
       "id": "822795053",
       "detailed_rating": {
@@ -9342,6 +9342,10 @@
             [
                "5454699",
                1617120000
+            ],
+            [
+               "5956873",
+               1758916342
             ]
          ],
          "-": [
@@ -9352,8 +9356,8 @@
          ]
       },
       "deleted": false,
-      "justified_rating": 17,
-      "justified_votes": 19
+      "justified_rating": 18,
+      "justified_votes": 20
    },
    "1561383321": {
       "title": "SCP-ZH-035 - 跑酷者",
