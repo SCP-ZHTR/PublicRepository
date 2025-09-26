@@ -8837,8 +8837,8 @@
          "_info"
       ],
       "comments": "3",
-      "rating": "12",
-      "votes": "12",
+      "rating": "13",
+      "votes": "13",
       "parent": null,
       "id": "802300017",
       "detailed_rating": {
@@ -8890,12 +8890,16 @@
             [
                "5454699",
                1620230400
+            ],
+            [
+               "5956873",
+               1758911647
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 12,
-      "justified_votes": 12
+      "justified_rating": 13,
+      "justified_votes": 13
    },
    "1560871167": {
       "title": "沒有人會負責善後",
