@@ -78974,8 +78974,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "11",
-      "votes": "11",
+      "rating": "12",
+      "votes": "12",
       "parent": null,
       "id": "1316496482",
       "detailed_rating": {
@@ -79023,12 +79023,16 @@
             [
                "DELETED",
                1758366300
+            ],
+            [
+               "5956873",
+               1758918884
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 9,
-      "justified_votes": 9
+      "justified_rating": 10,
+      "justified_votes": 10
    },
    "1629289012": {
       "title": "SCP-ZH-991 - 魅魔後裔",
@@ -99222,8 +99226,8 @@
          "_cc_licensebox"
       ],
       "comments": "2",
-      "rating": "13",
-      "votes": "13",
+      "rating": "14",
+      "votes": "14",
       "parent": null,
       "id": "1416956763",
       "detailed_rating": {
@@ -99279,12 +99283,16 @@
             [
                "DELETED",
                1724319703
+            ],
+            [
+               "5956873",
+               1758918884
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 12,
-      "justified_votes": 12
+      "justified_rating": 13,
+      "justified_votes": 13
    },
    "1656773475": {
       "title": "SCP-ZH-957 - 掙脫禁錮之藤",
