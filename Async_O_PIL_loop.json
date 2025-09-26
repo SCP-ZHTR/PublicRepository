@@ -12077,8 +12077,8 @@
          "_info"
       ],
       "comments": "0",
-      "rating": "8",
-      "votes": "8",
+      "rating": "9",
+      "votes": "9",
       "parent": null,
       "id": "846657531",
       "detailed_rating": {
@@ -12114,12 +12114,16 @@
             [
                "DELETED",
                "[UNKNOWN]"
+            ],
+            [
+               "5956873",
+               1758920430
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 7,
-      "justified_votes": 7
+      "justified_rating": 8,
+      "justified_votes": 8
    },
    "1563369028": {
       "title": "熟悉的陌生人們",
