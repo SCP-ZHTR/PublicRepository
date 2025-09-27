@@ -133412,8 +133412,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "11",
-      "votes": "11",
+      "rating": "12",
+      "votes": "12",
       "parent": null,
       "id": "1451880311",
       "detailed_rating": {
@@ -133461,12 +133461,16 @@
             [
                "4206567",
                1734440534
+            ],
+            [
+               "8543386",
+               1758984272
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 11,
-      "justified_votes": 11
+      "justified_rating": 12,
+      "justified_votes": 12
    },
    "1703026896": {
       "title": "SCP-6969-J - 性愛梗新劇場版：終",
