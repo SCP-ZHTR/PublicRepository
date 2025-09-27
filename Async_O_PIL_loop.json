@@ -150586,8 +150586,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "22",
-      "votes": "22",
+      "rating": "23",
+      "votes": "23",
       "parent": null,
       "id": "1460343623",
       "detailed_rating": {
@@ -150679,12 +150679,16 @@
             [
                "9766355",
                1758898356
+            ],
+            [
+               "9163798",
+               1758986799
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 22,
-      "justified_votes": 22
+      "justified_rating": 23,
+      "justified_votes": 23
    },
    "1757260962": {
       "title": "SCP-ZH-935 - 起始：登堂入室",
