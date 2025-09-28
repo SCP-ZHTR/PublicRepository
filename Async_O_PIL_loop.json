@@ -151438,8 +151438,8 @@
          "_禁黑"
       ],
       "comments": "0",
-      "rating": "10",
-      "votes": "10",
+      "rating": "11",
+      "votes": "11",
       "parent": null,
       "id": "1460399151",
       "detailed_rating": {
@@ -151483,12 +151483,16 @@
             [
                "8418020",
                1758608071
+            ],
+            [
+               "5338547",
+               1759037765
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 10,
-      "justified_votes": 10
+      "justified_rating": 11,
+      "justified_votes": 11
    },
    "1758035053": {
       "title": "SCP-ZH-241災難發生",
@@ -151556,8 +151560,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "10",
-      "votes": "10",
+      "rating": "11",
+      "votes": "11",
       "parent": null,
       "id": "1460404772",
       "detailed_rating": {
@@ -151601,12 +151605,16 @@
             [
                "5435485",
                1758365596
+            ],
+            [
+               "5338547",
+               1759037765
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 10,
-      "justified_votes": 10
+      "justified_rating": 11,
+      "justified_votes": 11
    },
    "1758084707": {
       "title": "概念 concept",
@@ -151723,8 +151731,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "7",
-      "votes": "7",
+      "rating": "8",
+      "votes": "8",
       "parent": null,
       "id": "1460410831",
       "detailed_rating": {
@@ -151756,12 +151764,16 @@
             [
                "6381244",
                1758959577
+            ],
+            [
+               "5338547",
+               1759037765
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 7,
-      "justified_votes": 7
+      "justified_rating": 8,
+      "justified_votes": 8
    },
    "1758243633": {
       "title": "SCP-ZH-596 - 距離550.65公里：太平山鼠王",
