@@ -150001,5 +150001,35 @@
       "deleted": false,
       "justified_rating": 2,
       "justified_votes": 2
+   },
+   "1759152850": {
+      "title": "SCP-5733 - 刀子。尖叫。畫面轉黑。",
+      "fullname": "scp-5733",
+      "created_at": "1759152850",
+      "created_by": "6217438",
+      "tags": [
+         "cinema",
+         "en",
+         "metafiction",
+         "safe",
+         "scp",
+         "人形",
+         "媒體",
+         "心靈感應",
+         "智能",
+         "翻譯",
+         "適應性",
+         "電子"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1460464601",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
