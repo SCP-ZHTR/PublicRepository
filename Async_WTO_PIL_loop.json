@@ -19810,5 +19810,22 @@
       "deleted": true,
       "justified_rating": 0,
       "justified_votes": 0
+   },
+   "1759234654": {
+      "title": "SCP-ZH-271 -「網路天才」",
+      "fullname": "scp-zh-271",
+      "created_at": "1759234654",
+      "created_by": "9867253",
+      "tags": [],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1460468604",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
