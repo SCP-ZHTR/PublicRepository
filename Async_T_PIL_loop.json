@@ -18,8 +18,8 @@
          "_licensebox"
       ],
       "comments": "2",
-      "rating": "14",
-      "votes": "16",
+      "rating": "15",
+      "votes": "17",
       "parent": null,
       "id": "638681548",
       "detailed_rating": {
@@ -83,6 +83,10 @@
             [
                "8792088",
                1735617694
+            ],
+            [
+               "9708686",
+               1759417552
             ]
          ],
          "-": [
@@ -93,8 +97,8 @@
          ]
       },
       "deleted": false,
-      "justified_rating": 15,
-      "justified_votes": 15
+      "justified_rating": 16,
+      "justified_votes": 16
    },
    "1552559904": {
       "title": "SCP-005 - 解構鑰匙",
@@ -287,8 +291,8 @@
          "_info"
       ],
       "comments": "1",
-      "rating": "5",
-      "votes": "5",
+      "rating": "6",
+      "votes": "6",
       "parent": null,
       "id": "639227091",
       "detailed_rating": {
@@ -312,12 +316,16 @@
             [
                "9428515",
                1729486863
+            ],
+            [
+               "9708686",
+               1759417552
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 5,
-      "justified_votes": 5
+      "justified_rating": 6,
+      "justified_votes": 6
    },
    "1552764978": {
       "title": "維安權限分級",
