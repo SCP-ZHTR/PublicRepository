@@ -89684,8 +89684,8 @@
          "_禁黑"
       ],
       "comments": "2",
-      "rating": "19",
-      "votes": "19",
+      "rating": "20",
+      "votes": "20",
       "parent": null,
       "id": "1331746181",
       "detailed_rating": {
@@ -89765,12 +89765,16 @@
             [
                "DELETED",
                1695270056
+            ],
+            [
+               "8033564",
+               1759589520
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 18,
-      "justified_votes": 18
+      "justified_rating": 19,
+      "justified_votes": 19
    },
    "1645285532": {
       "title": "SCP-ZH-181 - 永續的工業革命",
