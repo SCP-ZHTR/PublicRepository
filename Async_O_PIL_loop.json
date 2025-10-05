@@ -150599,8 +150599,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "23",
-      "votes": "23",
+      "rating": "24",
+      "votes": "24",
       "parent": null,
       "id": "1460343623",
       "detailed_rating": {
@@ -150696,12 +150696,16 @@
             [
                "9163798",
                1758986799
+            ],
+            [
+               "5237516",
+               1759673790
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 23,
-      "justified_votes": 23
+      "justified_rating": 24,
+      "justified_votes": 24
    },
    "1757260962": {
       "title": "SCP-ZH-935 - 起始：登堂入室",
@@ -150791,8 +150795,8 @@
       ],
       "hidden_tags": [],
       "comments": "2",
-      "rating": "16",
-      "votes": "16",
+      "rating": "17",
+      "votes": "17",
       "parent": null,
       "id": "1460362717",
       "detailed_rating": {
@@ -150860,12 +150864,16 @@
             [
                "6258289",
                1758608071
+            ],
+            [
+               "5237516",
+               1759673790
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 16,
-      "justified_votes": 16
+      "justified_rating": 17,
+      "justified_votes": 17
    },
    "1757433679": {
       "title": "SCP-ZH-881 - 距離9.90公里：人去城留",
@@ -151457,8 +151465,8 @@
          "_禁黑"
       ],
       "comments": "0",
-      "rating": "12",
-      "votes": "12",
+      "rating": "13",
+      "votes": "13",
       "parent": null,
       "id": "1460399151",
       "detailed_rating": {
