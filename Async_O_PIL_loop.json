@@ -151457,8 +151457,8 @@
          "_禁黑"
       ],
       "comments": "0",
-      "rating": "11",
-      "votes": "11",
+      "rating": "12",
+      "votes": "12",
       "parent": null,
       "id": "1460399151",
       "detailed_rating": {
@@ -151506,12 +151506,20 @@
             [
                "5338547",
                1759037765
+            ],
+            [
+               "8177208",
+               1759673645
+            ],
+            [
+               "5237516",
+               1759673645
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 11,
-      "justified_votes": 11
+      "justified_rating": 13,
+      "justified_votes": 13
    },
    "1758035053": {
       "title": "SCP-ZH-241災難發生",
