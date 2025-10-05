@@ -1919,8 +1919,8 @@
          "_cc"
       ],
       "comments": "5",
-      "rating": "8",
-      "votes": "8",
+      "rating": "9",
+      "votes": "9",
       "parent": null,
       "id": "783435816",
       "detailed_rating": {
@@ -1956,12 +1956,16 @@
             [
                "9075244",
                1752762087
+            ],
+            [
+               "8418020",
+               1759651232
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 8,
-      "justified_votes": 8
+      "justified_rating": 9,
+      "justified_votes": 9
    },
    "1557667088": {
       "title": "Dr. Lee的人事檔案",
