@@ -150141,5 +150141,32 @@
       "deleted": false,
       "justified_rating": 0,
       "justified_votes": 0
+   },
+   "1759753159": {
+      "title": "SCP-7362 - 致命失算",
+      "fullname": "scp-7362",
+      "created_at": "1759753159",
+      "created_by": "4206567",
+      "tags": [
+         "en",
+         "keter",
+         "家用品大戰爭",
+         "敵意",
+         "智能",
+         "異常事件",
+         "翻譯",
+         "電子",
+         "電腦"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1460506352",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
