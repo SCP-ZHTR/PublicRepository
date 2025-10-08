@@ -7205,8 +7205,8 @@
          "_info"
       ],
       "comments": "1",
-      "rating": "6",
-      "votes": "6",
+      "rating": "7",
+      "votes": "7",
       "parent": null,
       "id": "789971190",
       "detailed_rating": {
@@ -7234,12 +7234,16 @@
             [
                "4239775",
                1617120000
+            ],
+            [
+               "9771249",
+               1759930206
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 5,
-      "justified_votes": 5
+      "justified_rating": 6,
+      "justified_votes": 6
    },
    "1557409590": {
       "title": "漆黑如夜中心頁",
