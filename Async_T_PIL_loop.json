@@ -1566,8 +1566,8 @@
          "_licensebox"
       ],
       "comments": "2",
-      "rating": "12",
-      "votes": "12",
+      "rating": "13",
+      "votes": "13",
       "parent": "guide-hub",
       "id": "666326128",
       "detailed_rating": {
@@ -1619,12 +1619,16 @@
             [
                "5223229",
                1627574400
+            ],
+            [
+               "9443485",
+               1760006337
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 12,
-      "justified_votes": 12
+      "justified_rating": 13,
+      "justified_votes": 13
    },
    "1554058319": {
       "title": "SCP-021 - 紋身之龍",
