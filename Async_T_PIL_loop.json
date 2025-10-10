@@ -150165,14 +150165,21 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "0",
-      "votes": "0",
+      "rating": "1",
+      "votes": "1",
       "parent": null,
       "id": "1460486053",
-      "detailed_rating": {},
+      "detailed_rating": {
+         "+": [
+            [
+               "5370805",
+               1760135333
+            ]
+         ]
+      },
       "deleted": false,
-      "justified_rating": 0,
-      "justified_votes": 0
+      "justified_rating": 1,
+      "justified_votes": 1
    },
    "1759753159": {
       "title": "SCP-7362 - 致命失算",
