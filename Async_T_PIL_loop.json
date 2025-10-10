@@ -32087,8 +32087,8 @@
       ],
       "hidden_tags": [],
       "comments": "2",
-      "rating": "7",
-      "votes": "9",
+      "rating": "8",
+      "votes": "10",
       "parent": null,
       "id": "1024215116",
       "detailed_rating": {
@@ -32124,6 +32124,10 @@
             [
                "9311399",
                1726583873
+            ],
+            [
+               "8446449",
+               1760127812
             ]
          ],
          "-": [
@@ -32134,8 +32138,8 @@
          ]
       },
       "deleted": false,
-      "justified_rating": 7,
-      "justified_votes": 9
+      "justified_rating": 8,
+      "justified_votes": 10
    },
    "1586188160": {
       "title": "SCP-895 - 攝像擾動",
