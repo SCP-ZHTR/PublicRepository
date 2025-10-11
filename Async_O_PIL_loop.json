@@ -152321,13 +152321,38 @@
       ],
       "hidden_tags": [],
       "comments": "7",
-      "rating": "0",
-      "votes": "0",
+      "rating": "-3",
+      "votes": "5",
       "parent": null,
       "id": "1460679257",
-      "detailed_rating": {},
+      "detailed_rating": {
+         "+": [
+            [
+               "9797891",
+               1760195899
+            ]
+         ],
+         "-": [
+            [
+               "9075244",
+               1760195899
+            ],
+            [
+               "5370805",
+               1760195899
+            ],
+            [
+               "5251681",
+               1760195899
+            ],
+            [
+               "8543386",
+               1760195899
+            ]
+         ]
+      },
       "deleted": false,
-      "justified_rating": 0,
-      "justified_votes": 0
+      "justified_rating": -3,
+      "justified_votes": 5
    }
 }
