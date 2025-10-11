@@ -19869,5 +19869,22 @@
       "deleted": true,
       "justified_rating": 0,
       "justified_votes": 0
+   },
+   "1760155008": {
+      "title": "SCP-ZH-328",
+      "fullname": "scp-zh-328",
+      "created_at": "1760155008",
+      "created_by": "9771249",
+      "tags": [],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1460663828",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
