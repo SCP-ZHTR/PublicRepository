@@ -19894,9 +19894,9 @@
       "created_by": "9797891",
       "tags": [],
       "hidden_tags": [],
-      "comments": "4",
-      "rating": "-1",
-      "votes": "1",
+      "comments": "6",
+      "rating": "-3",
+      "votes": "3",
       "parent": null,
       "id": "1460679257",
       "detailed_rating": {
@@ -19908,11 +19908,15 @@
             [
                "5251681",
                1760194483
+            ],
+            [
+               "9075244",
+               1760194631
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": -2,
-      "justified_votes": 2
+      "justified_rating": -3,
+      "justified_votes": 3
    }
 }
