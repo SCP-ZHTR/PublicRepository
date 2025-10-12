@@ -149891,8 +149891,8 @@
       ],
       "hidden_tags": [],
       "comments": "2",
-      "rating": "4",
-      "votes": "4",
+      "rating": "5",
+      "votes": "5",
       "parent": null,
       "id": "1460408937",
       "detailed_rating": {
@@ -149912,12 +149912,16 @@
             [
                "7840542",
                1758294106
+            ],
+            [
+               "8033564",
+               1760284075
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 4,
-      "justified_votes": 4
+      "justified_rating": 5,
+      "justified_votes": 5
    },
    "1758120544": {
       "title": "維安設施檔案：遺跡無人區Area-27",
