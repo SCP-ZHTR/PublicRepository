@@ -152321,16 +152321,12 @@
       ],
       "hidden_tags": [],
       "comments": "8",
-      "rating": "-3",
-      "votes": "7",
+      "rating": "-4",
+      "votes": "6",
       "parent": null,
       "id": "1460679257",
       "detailed_rating": {
          "+": [
-            [
-               "9797891",
-               1760195899
-            ],
             [
                "9771249",
                1760200739
@@ -152360,7 +152356,7 @@
          ]
       },
       "deleted": false,
-      "justified_rating": -3,
-      "justified_votes": 7
+      "justified_rating": -4,
+      "justified_votes": 6
    }
 }
