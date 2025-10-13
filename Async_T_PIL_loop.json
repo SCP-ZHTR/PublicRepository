@@ -150282,7 +150282,7 @@
          "翻譯"
       ],
       "hidden_tags": [],
-      "comments": "0",
+      "comments": "1",
       "rating": "4",
       "votes": "4",
       "parent": null,
@@ -150332,8 +150332,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "3",
-      "votes": "3",
+      "rating": "4",
+      "votes": "4",
       "parent": null,
       "id": "1460688074",
       "detailed_rating": {
@@ -150349,11 +150349,15 @@
             [
                "5251681",
                1760369956
+            ],
+            [
+               "8033564",
+               1760371286
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 3,
-      "justified_votes": 3
+      "justified_rating": 4,
+      "justified_votes": 4
    }
 }
