@@ -80065,8 +80065,8 @@
          "_cc"
       ],
       "comments": "2",
-      "rating": "7",
-      "votes": "11",
+      "rating": "8",
+      "votes": "12",
       "parent": null,
       "id": "1324056677",
       "detailed_rating": {
@@ -80106,6 +80106,10 @@
             [
                "8452537",
                1713616706
+            ],
+            [
+               "9906668",
+               1760364838
             ]
          ],
          "-": [
@@ -80120,8 +80124,8 @@
          ]
       },
       "deleted": false,
-      "justified_rating": 6,
-      "justified_votes": 10
+      "justified_rating": 7,
+      "justified_votes": 11
    },
    "1632020367": {
       "title": "SCP-ZH-427 - 深埋的黑盒從未開啟",
