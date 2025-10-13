@@ -150306,5 +150306,35 @@
       "deleted": false,
       "justified_rating": 3,
       "justified_votes": 3
+   },
+   "1760358325": {
+      "title": "SCP-5287 - 禁菸標語",
+      "fullname": "scp-5287",
+      "created_at": "1760358325",
+      "created_by": "8854072",
+      "tags": [
+         "en",
+         "euclid",
+         "scp",
+         "人形",
+         "合著",
+         "智能",
+         "氣體",
+         "無定形",
+         "無形",
+         "空中",
+         "翻譯",
+         "重寫"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1460688074",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
