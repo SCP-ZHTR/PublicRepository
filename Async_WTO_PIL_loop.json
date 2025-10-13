@@ -19939,5 +19939,22 @@
       "deleted": true,
       "justified_rating": 0,
       "justified_votes": 0
+   },
+   "1760358325": {
+      "title": "SCP-5287 - 禁菸標語",
+      "fullname": "scp-5287",
+      "created_at": "1760358325",
+      "created_by": "8854072",
+      "tags": [],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1460688074",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
