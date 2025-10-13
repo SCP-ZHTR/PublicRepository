@@ -24680,8 +24680,8 @@
          "_licensebox"
       ],
       "comments": "1",
-      "rating": "3",
-      "votes": "3",
+      "rating": "4",
+      "votes": "4",
       "parent": null,
       "id": "998682566",
       "detailed_rating": {
@@ -24697,12 +24697,16 @@
             [
                "5334590",
                1617120000
+            ],
+            [
+               "7064164",
+               1760327084
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 3,
-      "justified_votes": 3
+      "justified_rating": 4,
+      "justified_votes": 4
    },
    "1582558337": {
       "title": "SCP-087 - 樓梯間",
