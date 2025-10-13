@@ -150283,8 +150283,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "3",
-      "votes": "3",
+      "rating": "4",
+      "votes": "4",
       "parent": null,
       "id": "1460684364",
       "detailed_rating": {
@@ -150300,12 +150300,16 @@
             [
                "6217438",
                1760357817
+            ],
+            [
+               "7840542",
+               1760366256
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 3,
-      "justified_votes": 3
+      "justified_rating": 4,
+      "justified_votes": 4
    },
    "1760358325": {
       "title": "SCP-5287 - 禁菸標語",
