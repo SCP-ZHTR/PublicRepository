@@ -150367,5 +150367,43 @@
       "deleted": false,
       "justified_rating": 6,
       "justified_votes": 6
+   },
+   "1760422225": {
+      "title": "SCP-9000 - 不破",
+      "fullname": "9000contestdoctorcimmerian",
+      "created_at": "1760422225",
+      "created_by": "7605593",
+      "tags": [
+         "artificial-intelligence",
+         "en",
+         "en-9000",
+         "keter",
+         "meta",
+         "scp",
+         "xenofiction",
+         "地下",
+         "宗教",
+         "星際",
+         "時間影響",
+         "智能",
+         "歷史性",
+         "殆瓦",
+         "破碎之神教會",
+         "科幻",
+         "翻譯",
+         "載具",
+         "電腦",
+         "馬克斯威主義教會"
+      ],
+      "hidden_tags": [],
+      "comments": "1",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1460692000",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
