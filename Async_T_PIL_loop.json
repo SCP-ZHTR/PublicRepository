@@ -78168,8 +78168,8 @@
          "_cc"
       ],
       "comments": "0",
-      "rating": "9",
-      "votes": "9",
+      "rating": "10",
+      "votes": "10",
       "parent": null,
       "id": "1329901907",
       "detailed_rating": {
@@ -78209,12 +78209,16 @@
             [
                "DELETED",
                1755007344
+            ],
+            [
+               "5251681",
+               1760466808
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 7,
-      "justified_votes": 7
+      "justified_rating": 8,
+      "justified_votes": 8
    },
    "1635993870": {
       "title": "SCP-6892 - 一份給所有Site-32員工的備忘錄。",
