@@ -99500,8 +99500,8 @@
          "_禁黑"
       ],
       "comments": "1",
-      "rating": "11",
-      "votes": "11",
+      "rating": "12",
+      "votes": "12",
       "parent": null,
       "id": "1420364375",
       "detailed_rating": {
@@ -99549,12 +99549,16 @@
             [
                "DELETED",
                1698638373
+            ],
+            [
+               "5251681",
+               1760465786
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 10,
-      "justified_votes": 10
+      "justified_rating": 11,
+      "justified_votes": 11
    },
    "1659065508": {
       "title": "SCP-2627 - 木板路帝國",
