@@ -3961,8 +3961,8 @@
          "_cc"
       ],
       "comments": "3",
-      "rating": "18",
-      "votes": "18",
+      "rating": "19",
+      "votes": "19",
       "parent": null,
       "id": "966482376",
       "detailed_rating": {
@@ -4038,12 +4038,16 @@
             [
                "9371222",
                1733027380
+            ],
+            [
+               "9906668",
+               1760439009
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 18,
-      "justified_votes": 18
+      "justified_rating": 19,
+      "justified_votes": 19
    },
    "1576345760": {
       "title": "作者頁面指南",
