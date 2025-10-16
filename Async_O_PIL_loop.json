@@ -108365,8 +108365,8 @@
          "_cc"
       ],
       "comments": "2",
-      "rating": "26",
-      "votes": "26",
+      "rating": "27",
+      "votes": "27",
       "parent": null,
       "id": "1437223375",
       "detailed_rating": {
@@ -108474,12 +108474,16 @@
             [
                "9104873",
                1728875912
+            ],
+            [
+               "9163798",
+               1760596906
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 26,
-      "justified_votes": 26
+      "justified_rating": 27,
+      "justified_votes": 27
    },
    "1668608987": {
       "title": "啼血鳥",
