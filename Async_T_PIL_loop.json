@@ -35351,8 +35351,8 @@
       ],
       "hidden_tags": [],
       "comments": "2",
-      "rating": "3",
-      "votes": "3",
+      "rating": "4",
+      "votes": "4",
       "parent": null,
       "id": "1035075153",
       "detailed_rating": {
@@ -35368,12 +35368,16 @@
             [
                "5435485",
                1617120000
+            ],
+            [
+               "8446449",
+               1760773301
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 3,
-      "justified_votes": 3
+      "justified_rating": 4,
+      "justified_votes": 4
    },
    "1588520577": {
       "title": "SCP-4330 - 片刻寂靜",
