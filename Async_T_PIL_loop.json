@@ -5044,8 +5044,8 @@
          "_info"
       ],
       "comments": "1",
-      "rating": "11",
-      "votes": "11",
+      "rating": "12",
+      "votes": "12",
       "parent": null,
       "id": "757295781",
       "detailed_rating": {
@@ -5093,12 +5093,16 @@
             [
                "5039979",
                1617120000
+            ],
+            [
+               "8446449",
+               1760773988
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 11,
-      "justified_votes": 11
+      "justified_rating": 12,
+      "justified_votes": 12
    },
    "1556131110": {
       "title": "SCP-408 - 幻象蝶",
