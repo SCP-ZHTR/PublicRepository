@@ -136545,8 +136545,8 @@
          "_licensebox"
       ],
       "comments": "1",
-      "rating": "11",
-      "votes": "11",
+      "rating": "12",
+      "votes": "12",
       "parent": null,
       "id": "1452775665",
       "detailed_rating": {
@@ -136594,12 +136594,16 @@
             [
                "8033564",
                1760289322
+            ],
+            [
+               "8446449",
+               1760906686
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 11,
-      "justified_votes": 11
+      "justified_rating": 12,
+      "justified_votes": 12
    },
    "1708865999": {
       "title": "豺犬遇挾譚",
@@ -150493,8 +150497,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "2",
-      "votes": "2",
+      "rating": "3",
+      "votes": "3",
       "parent": null,
       "id": "1460709278",
       "detailed_rating": {
@@ -150506,12 +150510,16 @@
             [
                "8177208",
                1760762105
+            ],
+            [
+               "5370805",
+               1760906686
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 2,
-      "justified_votes": 2
+      "justified_rating": 3,
+      "justified_votes": 3
    },
    "1760886810": {
       "title": "SCP-9113 - 神的造物是不可改變的",
