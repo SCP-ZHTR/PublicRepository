@@ -5356,8 +5356,8 @@
          "_cc"
       ],
       "comments": "0",
-      "rating": "10",
-      "votes": "12",
+      "rating": "11",
+      "votes": "13",
       "parent": null,
       "id": "760744326",
       "detailed_rating": {
@@ -5405,6 +5405,10 @@
             [
                "8452537",
                1714727573
+            ],
+            [
+               "9163798",
+               1760946849
             ]
          ],
          "-": [
@@ -5415,8 +5419,8 @@
          ]
       },
       "deleted": false,
-      "justified_rating": 10,
-      "justified_votes": 12
+      "justified_rating": 11,
+      "justified_votes": 13
    },
    "1556545206": {
       "title": "SCP-076 -「亞伯」",
