@@ -152451,5 +152451,27 @@
       "deleted": false,
       "justified_rating": 5,
       "justified_votes": 5
+   },
+   "1761056427": {
+      "title": "SCP-ZH-273 誠實的守衛又說謊的守衛",
+      "fullname": "scp-zh-273",
+      "created_at": "1761056427",
+      "created_by": "9797891",
+      "tags": [
+         "euclid",
+         "scp",
+         "site-zh-02",
+         "原創"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1460725883",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
