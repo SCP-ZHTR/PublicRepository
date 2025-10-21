@@ -150573,5 +150573,41 @@
       "deleted": false,
       "justified_rating": 5,
       "justified_votes": 5
+   },
+   "1761042297": {
+      "title": "SCP-1374-JP - 大團圓",
+      "fullname": "scp-1374-jp",
+      "created_at": "1761042297",
+      "created_by": "9852755",
+      "tags": [
+         "jp",
+         "k級情景",
+         "scp",
+         "ワルコン18",
+         "不可摧毀",
+         "人形",
+         "反熵",
+         "媒體",
+         "屍體",
+         "復活",
+         "文獻",
+         "模因",
+         "機密分級",
+         "活物",
+         "精神影響",
+         "翻譯",
+         "聲音",
+         "視覺影響"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1460724981",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
