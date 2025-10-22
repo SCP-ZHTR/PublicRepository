@@ -152498,12 +152498,25 @@
       "hidden_tags": [],
       "comments": "0",
       "rating": "0",
-      "votes": "0",
+      "votes": "2",
       "parent": null,
       "id": "1460729998",
-      "detailed_rating": {},
+      "detailed_rating": {
+         "+": [
+            [
+               "8962042",
+               1761144908
+            ]
+         ],
+         "-": [
+            [
+               "4990678",
+               1761144908
+            ]
+         ]
+      },
       "deleted": false,
       "justified_rating": 0,
-      "justified_votes": 0
+      "justified_votes": 2
    }
 }
