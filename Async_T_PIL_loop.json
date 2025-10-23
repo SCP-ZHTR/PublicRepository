@@ -21986,8 +21986,8 @@
          "_cc"
       ],
       "comments": "1",
-      "rating": "10",
-      "votes": "10",
+      "rating": "11",
+      "votes": "11",
       "parent": null,
       "id": "986360719",
       "detailed_rating": {
@@ -22031,12 +22031,16 @@
             [
                "8319365",
                1746869895
+            ],
+            [
+               "9758462",
+               1761229266
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 10,
-      "justified_votes": 10
+      "justified_rating": 11,
+      "justified_votes": 11
    },
    "1580290523": {
       "title": "赫勒·富曼的展出：瑪納斯寬的魚人",
