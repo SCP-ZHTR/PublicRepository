@@ -143624,8 +143624,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "1",
-      "votes": "1",
+      "rating": "2",
+      "votes": "2",
       "parent": null,
       "id": "1456940618",
       "detailed_rating": {
@@ -143633,12 +143633,16 @@
             [
                "7504530",
                1727548507
+            ],
+            [
+               "9758462",
+               1761227394
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 1,
-      "justified_votes": 1
+      "justified_rating": 2,
+      "justified_votes": 2
    },
    "1727704132": {
       "title": "SCP-3637 – 眾水",
