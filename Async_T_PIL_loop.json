@@ -150686,5 +150686,27 @@
       "deleted": false,
       "justified_rating": 0,
       "justified_votes": 0
+   },
+   "1761285530": {
+      "title": "SCP-9071 - 小雞檔案",
+      "fullname": "scp-9071",
+      "created_at": "1761285530",
+      "created_by": "6088232",
+      "tags": [
+         "en",
+         "safe",
+         "scp",
+         "翻譯"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1460738965",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
