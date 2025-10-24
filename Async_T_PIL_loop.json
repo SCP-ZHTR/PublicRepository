@@ -150715,5 +150715,36 @@
       "deleted": false,
       "justified_rating": 1,
       "justified_votes": 1
+   },
+   "1761324912": {
+      "title": "SCP-9000 - 壕溝",
+      "fullname": "scp-9000",
+      "created_at": "1761324912",
+      "created_by": "6217438",
+      "tags": [
+         "bureaucracy",
+         "en",
+         "en-9000",
+         "illustrated",
+         "keter",
+         "scp",
+         "基金會製造",
+         "建築物",
+         "恐怖",
+         "異常事件",
+         "翻譯",
+         "記憶影響",
+         "超維度"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1460741684",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
