@@ -128226,8 +128226,8 @@
          "_licensebox"
       ],
       "comments": "0",
-      "rating": "10",
-      "votes": "10",
+      "rating": "11",
+      "votes": "11",
       "parent": null,
       "id": "1450258894",
       "detailed_rating": {
@@ -128271,12 +128271,16 @@
             [
                "8480087",
                1696211304
+            ],
+            [
+               "8177208",
+               1761418268
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 10,
-      "justified_votes": 10
+      "justified_rating": 11,
+      "justified_votes": 11
    },
    "1696348800": {
       "title": "SCP-3326-JP - 所期望的結局",
