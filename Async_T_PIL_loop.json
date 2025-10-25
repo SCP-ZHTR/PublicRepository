@@ -58784,8 +58784,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "5",
-      "votes": "5",
+      "rating": "6",
+      "votes": "6",
       "parent": null,
       "id": "1307016044",
       "detailed_rating": {
@@ -58809,12 +58809,16 @@
             [
                "4442284",
                1617120000
+            ],
+            [
+               "9106636",
+               1761407369
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 5,
-      "justified_votes": 5
+      "justified_rating": 6,
+      "justified_votes": 6
    },
    "1614568961": {
       "title": "你的第一篇SCP！",
