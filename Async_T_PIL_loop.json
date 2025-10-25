@@ -58739,8 +58739,8 @@
          "_cc"
       ],
       "comments": "1",
-      "rating": "4",
-      "votes": "4",
+      "rating": "5",
+      "votes": "5",
       "parent": null,
       "id": "1307015942",
       "detailed_rating": {
@@ -58760,12 +58760,16 @@
             [
                "6348157",
                1638633600
+            ],
+            [
+               "6381244",
+               1761407092
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 4,
-      "justified_votes": 4
+      "justified_rating": 5,
+      "justified_votes": 5
    },
    "1614555297": {
       "title": "恢復通行",
