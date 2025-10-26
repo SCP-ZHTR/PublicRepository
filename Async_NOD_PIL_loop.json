@@ -907,8 +907,8 @@
          "_cc"
       ],
       "comments": "0",
-      "rating": "1",
-      "votes": "1",
+      "rating": "2",
+      "votes": "2",
       "parent": null,
       "id": "757264833",
       "detailed_rating": {
@@ -916,12 +916,16 @@
             [
                "6127045",
                1689145478
+            ],
+            [
+               "9771249",
+               1761495529
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 1,
-      "justified_votes": 1
+      "justified_rating": 2,
+      "justified_votes": 2
    },
    "1556209788": {
       "title": "編制票選提案-唐朝28宿",
