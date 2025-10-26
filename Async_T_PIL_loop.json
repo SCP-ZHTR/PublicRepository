@@ -150339,8 +150339,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "2",
-      "votes": "2",
+      "rating": "3",
+      "votes": "3",
       "parent": null,
       "id": "1460531299",
       "detailed_rating": {
@@ -150352,12 +150352,16 @@
             [
                "4990678",
                1761209050
+            ],
+            [
+               "8846720",
+               1761465519
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 2,
-      "justified_votes": 2
+      "justified_rating": 3,
+      "justified_votes": 3
    },
    "1760276114": {
       "title": "SCP-4559 - 您需要收據嗎?",
