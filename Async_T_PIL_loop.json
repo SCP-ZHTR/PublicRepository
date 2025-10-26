@@ -117758,8 +117758,8 @@
          "_cc"
       ],
       "comments": "0",
-      "rating": "3",
-      "votes": "3",
+      "rating": "4",
+      "votes": "4",
       "parent": null,
       "id": "1446965875",
       "detailed_rating": {
@@ -117775,12 +117775,16 @@
             [
                "4442284",
                1679697540
+            ],
+            [
+               "8177208",
+               1761469038
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 3,
-      "justified_votes": 3
+      "justified_rating": 4,
+      "justified_votes": 4
    },
    "1679764456": {
       "title": "SCP-2343 - 我到孟斐斯的理由",
