@@ -150271,8 +150271,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "3",
-      "votes": "3",
+      "rating": "4",
+      "votes": "4",
       "parent": null,
       "id": "1460486053",
       "detailed_rating": {
@@ -150288,12 +150288,16 @@
             [
                "8033564",
                1760457558
+            ],
+            [
+               "7605593",
+               1761495250
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 3,
-      "justified_votes": 3
+      "justified_rating": 4,
+      "justified_votes": 4
    },
    "1759753159": {
       "title": "SCP-7362 - 致命失算",
@@ -150503,8 +150507,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "1",
-      "votes": "1",
+      "rating": "2",
+      "votes": "2",
       "parent": null,
       "id": "1460692000",
       "detailed_rating": {
@@ -150512,12 +150516,16 @@
             [
                "5370805",
                1760906406
+            ],
+            [
+               "7605593",
+               1761495250
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 1,
-      "justified_votes": 1
+      "justified_rating": 2,
+      "justified_votes": 2
    },
    "1760748831": {
       "title": "SCP-9935 - 又一個下午",
@@ -150831,13 +150839,20 @@
          "_image"
       ],
       "comments": "1",
-      "rating": "0",
-      "votes": "0",
+      "rating": "1",
+      "votes": "1",
       "parent": null,
       "id": "1461222678",
-      "detailed_rating": {},
+      "detailed_rating": {
+         "+": [
+            [
+               "7605593",
+               1761495250
+            ]
+         ]
+      },
       "deleted": false,
-      "justified_rating": 0,
-      "justified_votes": 0
+      "justified_rating": 1,
+      "justified_votes": 1
    }
 }
