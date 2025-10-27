@@ -123612,8 +123612,8 @@
          "_licensebox"
       ],
       "comments": "0",
-      "rating": "8",
-      "votes": "8",
+      "rating": "9",
+      "votes": "9",
       "parent": "admonition",
       "id": "1448574326",
       "detailed_rating": {
@@ -123649,12 +123649,16 @@
             [
                "9763414",
                1757946035
+            ],
+            [
+               "4206567",
+               1761558022
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 8,
-      "justified_votes": 8
+      "justified_rating": 9,
+      "justified_votes": 9
    },
    "1687390213": {
       "title": "靈擾",
