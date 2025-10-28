@@ -152528,8 +152528,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "-2",
-      "votes": "6",
+      "rating": "-3",
+      "votes": "7",
       "parent": null,
       "id": "1460729998",
       "detailed_rating": {
@@ -152559,12 +152559,16 @@
             [
                "8543386",
                1761174212
+            ],
+            [
+               "4206567",
+               1761658909
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": -2,
-      "justified_votes": 6
+      "justified_rating": -3,
+      "justified_votes": 7
    },
    "1761367960": {
       "title": "小動物簡介：地瓜！",
