@@ -42440,8 +42440,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "8",
-      "votes": "8",
+      "rating": "9",
+      "votes": "9",
       "parent": null,
       "id": "1212720047",
       "detailed_rating": {
@@ -42477,12 +42477,16 @@
             [
                "5327537",
                1757489620
+            ],
+            [
+               "9163798",
+               1761631004
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 8,
-      "justified_votes": 8
+      "justified_rating": 9,
+      "justified_votes": 9
    },
    "1595494193": {
       "title": "K級情景總表",
