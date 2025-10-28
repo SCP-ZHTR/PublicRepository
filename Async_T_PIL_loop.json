@@ -50877,8 +50877,8 @@
       ],
       "hidden_tags": [],
       "comments": "2",
-      "rating": "9",
-      "votes": "11",
+      "rating": "10",
+      "votes": "12",
       "parent": null,
       "id": "1305758145",
       "detailed_rating": {
@@ -50922,6 +50922,10 @@
             [
                "9311399",
                1726583734
+            ],
+            [
+               "9163798",
+               1761630864
             ]
          ],
          "-": [
@@ -50932,8 +50936,8 @@
          ]
       },
       "deleted": false,
-      "justified_rating": 9,
-      "justified_votes": 11
+      "justified_rating": 10,
+      "justified_votes": 12
    },
    "1604947248": {
       "title": "SCP-1440 - 來歷不明的老人",
@@ -51545,8 +51549,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "7",
-      "votes": "7",
+      "rating": "8",
+      "votes": "8",
       "parent": null,
       "id": "1305797919",
       "detailed_rating": {
@@ -51578,12 +51582,16 @@
             [
                "5981123",
                1718923781
+            ],
+            [
+               "9163798",
+               1761630864
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 7,
-      "justified_votes": 7
+      "justified_rating": 8,
+      "justified_votes": 8
    },
    "1605334141": {
       "title": "交媾之血肉",
