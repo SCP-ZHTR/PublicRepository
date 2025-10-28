@@ -56208,8 +56208,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "25",
-      "votes": "27",
+      "rating": "26",
+      "votes": "28",
       "parent": null,
       "id": "1306663313",
       "detailed_rating": {
@@ -56317,6 +56317,10 @@
             [
                "DELETED",
                1725476389
+            ],
+            [
+               "9763414",
+               1761628576
             ]
          ],
          "-": [
@@ -56327,8 +56331,8 @@
          ]
       },
       "deleted": false,
-      "justified_rating": 23,
-      "justified_votes": 25
+      "justified_rating": 24,
+      "justified_votes": 26
    },
    "1611380400": {
       "title": "SCP- -J-ID - 懶得取標題",
