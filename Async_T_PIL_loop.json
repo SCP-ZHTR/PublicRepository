@@ -92838,8 +92838,8 @@
          "_licensebox"
       ],
       "comments": "0",
-      "rating": "5",
-      "votes": "5",
+      "rating": "6",
+      "votes": "6",
       "parent": null,
       "id": "1402782981",
       "detailed_rating": {
@@ -92863,12 +92863,16 @@
             [
                "DELETED",
                1724758567
+            ],
+            [
+               "9763414",
+               1761628981
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 4,
-      "justified_votes": 4
+      "justified_rating": 5,
+      "justified_votes": 5
    },
    "1651755220": {
       "title": "SCP-783 - 以前有個扭曲的人",
