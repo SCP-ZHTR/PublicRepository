@@ -152496,8 +152496,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "2",
-      "votes": "2",
+      "rating": "3",
+      "votes": "3",
       "parent": null,
       "id": "1460725883",
       "detailed_rating": {
@@ -152509,12 +152509,16 @@
             [
                "8404617",
                1761146619
+            ],
+            [
+               "9867253",
+               1761736818
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 2,
-      "justified_votes": 2
+      "justified_rating": 3,
+      "justified_votes": 3
    },
    "1761143117": {
       "title": "SCP-ZH-502 玉山霧影",
