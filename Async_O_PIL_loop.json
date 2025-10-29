@@ -90885,8 +90885,8 @@
          "_飛"
       ],
       "comments": "3",
-      "rating": "31",
-      "votes": "31",
+      "rating": "32",
+      "votes": "32",
       "parent": null,
       "id": "1331812954",
       "detailed_rating": {
@@ -91014,12 +91014,16 @@
             [
                "9371222",
                1731118954
+            ],
+            [
+               "9763414",
+               1761754804
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 30,
-      "justified_votes": 30
+      "justified_rating": 31,
+      "justified_votes": 31
    },
    "1646234886": {
       "title": "聖女憐子",
