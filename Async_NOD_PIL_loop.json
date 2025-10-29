@@ -9280,8 +9280,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "3",
-      "votes": "3",
+      "rating": "4",
+      "votes": "4",
       "parent": "component:anomaly-class-bar",
       "id": "1308461055",
       "detailed_rating": {
@@ -9297,12 +9297,16 @@
             [
                "5435485",
                1689145478
+            ],
+            [
+               "8319365",
+               1761781160
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 3,
-      "justified_votes": 3
+      "justified_rating": 4,
+      "justified_votes": 4
    },
    "1617268824": {
       "title": "我，055（被刪除）",
