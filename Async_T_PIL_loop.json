@@ -150638,8 +150638,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "5",
-      "votes": "5",
+      "rating": "6",
+      "votes": "6",
       "parent": null,
       "id": "1460716449",
       "detailed_rating": {
@@ -150663,12 +150663,16 @@
             [
                "8846720",
                1760948749
+            ],
+            [
+               "7840542",
+               1761848406
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 5,
-      "justified_votes": 5
+      "justified_rating": 6,
+      "justified_votes": 6
    },
    "1761042297": {
       "title": "SCP-1374-JP - 大團圓",
