@@ -30257,8 +30257,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "20",
-      "votes": "20",
+      "rating": "21",
+      "votes": "21",
       "parent": "series-archive",
       "id": "1014599013",
       "detailed_rating": {
@@ -30342,12 +30342,16 @@
             [
                "8446449",
                1760082490
+            ],
+            [
+               "7820957",
+               1761803090
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 20,
-      "justified_votes": 20
+      "justified_rating": 21,
+      "justified_votes": 21
    },
    "1585632788": {
       "title": "SCP-3008 - 一間毫無異狀的典型IKEA",
