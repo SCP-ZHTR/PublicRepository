@@ -93348,8 +93348,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "12",
-      "votes": "12",
+      "rating": "13",
+      "votes": "13",
       "parent": null,
       "id": "1402858792",
       "detailed_rating": {
@@ -93401,12 +93401,16 @@
             [
                "9163798",
                1756711767
+            ],
+            [
+               "8319365",
+               1761912943
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 10,
-      "justified_votes": 10
+      "justified_rating": 11,
+      "justified_votes": 11
    },
    "1652256652": {
       "title": "SCP-147 - 舊時電視機",
