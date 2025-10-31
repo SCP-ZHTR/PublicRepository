@@ -120248,8 +120248,8 @@
          "_licensebox"
       ],
       "comments": "0",
-      "rating": "9",
-      "votes": "9",
+      "rating": "10",
+      "votes": "10",
       "parent": null,
       "id": "1447442258",
       "detailed_rating": {
@@ -120289,12 +120289,16 @@
             [
                "8319365",
                1761867415
+            ],
+            [
+               "9311399",
+               1761898380
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 9,
-      "justified_votes": 9
+      "justified_rating": 10,
+      "justified_votes": 10
    },
    "1682207765": {
       "title": "SCP-6056 - 繼續爆炸完畢",
