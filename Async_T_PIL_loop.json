@@ -119558,8 +119558,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "10",
-      "votes": "12",
+      "rating": "11",
+      "votes": "13",
       "parent": null,
       "id": "1447243707",
       "detailed_rating": {
@@ -119607,6 +119607,10 @@
             [
                "6418659",
                1725375617
+            ],
+            [
+               "9917035",
+               1761978179
             ]
          ],
          "-": [
@@ -119617,8 +119621,8 @@
          ]
       },
       "deleted": false,
-      "justified_rating": 10,
-      "justified_votes": 12
+      "justified_rating": 11,
+      "justified_votes": 13
    },
    "1681392031": {
       "title": "SCP-2970 - 聖囚",
