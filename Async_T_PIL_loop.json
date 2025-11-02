@@ -151047,5 +151047,28 @@
       "deleted": false,
       "justified_rating": 0,
       "justified_votes": 0
+   },
+   "1762014782": {
+      "title": "SCP驚選集2025",
+      "fullname": "scp-anthology-2025",
+      "created_at": "1762014782",
+      "created_by": "6217438",
+      "tags": [
+         "en",
+         "illustrated",
+         "series-hub",
+         "中心",
+         "翻譯"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1464878240",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
