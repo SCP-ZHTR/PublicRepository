@@ -100067,8 +100067,8 @@
          "_禁黑"
       ],
       "comments": "0",
-      "rating": "14",
-      "votes": "18",
+      "rating": "15",
+      "votes": "19",
       "parent": null,
       "id": "1420453517",
       "detailed_rating": {
@@ -100136,6 +100136,10 @@
             [
                "7655555",
                1708148698
+            ],
+            [
+               "9758462",
+               1762104834
             ]
          ],
          "-": [
@@ -100150,8 +100154,8 @@
          ]
       },
       "deleted": false,
-      "justified_rating": 13,
-      "justified_votes": 17
+      "justified_rating": 14,
+      "justified_votes": 18
    },
    "1659590450": {
       "title": "SCP-7500 - 愛爾蘭人的幸運",
