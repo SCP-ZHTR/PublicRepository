@@ -20180,5 +20180,22 @@
       "deleted": true,
       "justified_rating": 0,
       "justified_votes": 0
+   },
+   "1762067860": {
+      "title": "SCP-9500 - 面紗",
+      "fullname": "scp-9500",
+      "created_at": "1762067860",
+      "created_by": "6217438",
+      "tags": [],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1465196939",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
