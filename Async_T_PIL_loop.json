@@ -151162,5 +151162,42 @@
       "deleted": false,
       "justified_rating": 3,
       "justified_votes": 3
+   },
+   "1762172262": {
+      "title": "SCP-2888 - 死金絲雀",
+      "fullname": "scp-2888",
+      "created_at": "1762172262",
+      "created_by": "6217438",
+      "tags": [
+         "black-diamond-billions",
+         "en",
+         "mc&d",
+         "safe",
+         "scp",
+         "來自120站的檔案",
+         "動物",
+         "地下",
+         "地質",
+         "屍體",
+         "復活",
+         "恐怖",
+         "活物",
+         "翻譯",
+         "肉體恐怖",
+         "自我修復",
+         "預測性",
+         "骨骼",
+         "鳥類"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1465416682",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
