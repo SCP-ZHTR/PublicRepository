@@ -151082,8 +151082,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "2",
-      "votes": "2",
+      "rating": "3",
+      "votes": "3",
       "parent": null,
       "id": "1464878240",
       "detailed_rating": {
@@ -151095,12 +151095,16 @@
             [
                "7504530",
                1762152731
+            ],
+            [
+               "6088232",
+               1762157404
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 2,
-      "justified_votes": 2
+      "justified_rating": 3,
+      "justified_votes": 3
    },
    "1762067860": {
       "title": "SCP-9500 - 面紗",
