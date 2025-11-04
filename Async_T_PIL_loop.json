@@ -151059,14 +151059,21 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "0",
-      "votes": "0",
+      "rating": "1",
+      "votes": "1",
       "parent": null,
       "id": "1465128836",
-      "detailed_rating": {},
+      "detailed_rating": {
+         "+": [
+            [
+               "8177208",
+               1762298393
+            ]
+         ]
+      },
       "deleted": false,
-      "justified_rating": 0,
-      "justified_votes": 0
+      "justified_rating": 1,
+      "justified_votes": 1
    },
    "1762014782": {
       "title": "SCP驚選集2025",
