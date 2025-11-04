@@ -151210,5 +151210,33 @@
       "deleted": false,
       "justified_rating": 2,
       "justified_votes": 2
+   },
+   "1762255727": {
+      "title": "SCP-723-J - 傷心蟑螂",
+      "fullname": "scp-723-j",
+      "created_at": "1762255727",
+      "created_by": "9786435",
+      "tags": [
+         "en",
+         "scp",
+         "合著",
+         "搞笑",
+         "昆蟲",
+         "機密分級",
+         "無效化",
+         "瑞文·摩瑟",
+         "翻譯",
+         "馬克·桐生"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1465676247",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
