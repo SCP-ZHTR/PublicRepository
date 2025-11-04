@@ -20197,5 +20197,22 @@
       "deleted": true,
       "justified_rating": 0,
       "justified_votes": 0
+   },
+   "1762255727": {
+      "title": "SCP-723-J - 傷心蟑螂",
+      "fullname": "scp-723-j",
+      "created_at": "1762255727",
+      "created_by": "9786435",
+      "tags": [],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1465676247",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
