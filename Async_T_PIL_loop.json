@@ -151268,5 +151268,29 @@
       "deleted": false,
       "justified_rating": 3,
       "justified_votes": 3
+   },
+   "1762256757": {
+      "title": "SCP-724-J - 壞心蟑螂",
+      "fullname": "scp-724-j",
+      "created_at": "1762256757",
+      "created_by": "9786435",
+      "tags": [
+         "en",
+         "scp",
+         "搞笑",
+         "昆蟲",
+         "機密分級",
+         "翻譯"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1465681867",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
