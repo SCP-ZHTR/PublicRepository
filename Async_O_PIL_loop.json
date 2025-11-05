@@ -29596,8 +29596,8 @@
          "_info"
       ],
       "comments": "7",
-      "rating": "48",
-      "votes": "48",
+      "rating": "49",
+      "votes": "49",
       "parent": null,
       "id": "986572505",
       "detailed_rating": {
@@ -29793,12 +29793,16 @@
             [
                "4206567",
                1723479180
+            ],
+            [
+               "9758462",
+               1762353542
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 48,
-      "justified_votes": 48
+      "justified_rating": 49,
+      "justified_votes": 49
    },
    "1580920204": {
       "title": "行動計劃 第叁捌肆字號",
