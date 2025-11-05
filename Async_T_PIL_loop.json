@@ -137456,8 +137456,8 @@
          "_licensebox"
       ],
       "comments": "0",
-      "rating": "7",
-      "votes": "7",
+      "rating": "8",
+      "votes": "8",
       "parent": null,
       "id": "1453314019",
       "detailed_rating": {
@@ -137489,12 +137489,16 @@
             [
                "7840542",
                1712797378
+            ],
+            [
+               "8319365",
+               1762317304
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 7,
-      "justified_votes": 7
+      "justified_rating": 8,
+      "justified_votes": 8
    },
    "1712759961": {
       "title": "SCP-8055 - 我做惡夢了",
