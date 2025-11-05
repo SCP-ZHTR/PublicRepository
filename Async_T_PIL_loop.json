@@ -61392,8 +61392,8 @@
          "_cc"
       ],
       "comments": "1",
-      "rating": "7",
-      "votes": "7",
+      "rating": "8",
+      "votes": "8",
       "parent": null,
       "id": "1308434150",
       "detailed_rating": {
@@ -61425,12 +61425,16 @@
             [
                "5817419",
                1617120000
+            ],
+            [
+               "9758462",
+               1762343619
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 7,
-      "justified_votes": 7
+      "justified_rating": 8,
+      "justified_votes": 8
    },
    "1616850665": {
       "title": "SCP-5929 - 從尿而來",
