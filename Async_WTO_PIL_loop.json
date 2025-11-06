@@ -3684,7 +3684,9 @@
          "沙盒",
          "管理"
       ],
-      "hidden_tags": [],
+      "hidden_tags": [
+         "_禁黑"
+      ],
       "comments": "0",
       "rating": "0",
       "votes": "0",
