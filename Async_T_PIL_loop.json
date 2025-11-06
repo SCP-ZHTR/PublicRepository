@@ -151261,8 +151261,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "3",
-      "votes": "3",
+      "rating": "4",
+      "votes": "4",
       "parent": null,
       "id": "1465676247",
       "detailed_rating": {
@@ -151278,12 +151278,16 @@
             [
                "9075244",
                1762290302
+            ],
+            [
+               "7504530",
+               1762421020
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 3,
-      "justified_votes": 3
+      "justified_rating": 4,
+      "justified_votes": 4
    },
    "1762256757": {
       "title": "SCP-724-J - 壞心蟑螂",
