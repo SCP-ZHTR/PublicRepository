@@ -150130,8 +150130,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "2",
-      "votes": "2",
+      "rating": "3",
+      "votes": "3",
       "parent": null,
       "id": "1460409040",
       "detailed_rating": {
@@ -150143,12 +150143,16 @@
             [
                "8177208",
                1758121150
+            ],
+            [
+               "7504530",
+               1762417500
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 2,
-      "justified_votes": 2
+      "justified_rating": 3,
+      "justified_votes": 3
    },
    "1758244799": {
       "title": "SCP-183-JP - 繁榮的街燈",
@@ -150244,8 +150248,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "2",
-      "votes": "2",
+      "rating": "3",
+      "votes": "3",
       "parent": null,
       "id": "1460459597",
       "detailed_rating": {
@@ -150257,12 +150261,16 @@
             [
                "9852755",
                1759120502
+            ],
+            [
+               "7504530",
+               1762417500
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 2,
-      "justified_votes": 2
+      "justified_rating": 3,
+      "justified_votes": 3
    },
    "1759152850": {
       "title": "SCP-5733 - 刀子。尖叫。畫面轉黑。",
