@@ -150889,8 +150889,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "6",
-      "votes": "6",
+      "rating": "7",
+      "votes": "7",
       "parent": null,
       "id": "1460741684",
       "detailed_rating": {
@@ -150918,12 +150918,16 @@
             [
                "8446449",
                1761681075
+            ],
+            [
+               "7504530",
+               1762421159
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 6,
-      "justified_votes": 6
+      "justified_rating": 7,
+      "justified_votes": 7
    },
    "1761494401": {
       "title": "SCP-9009 - 「白人」",
@@ -151304,13 +151308,20 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "0",
-      "votes": "0",
+      "rating": "1",
+      "votes": "1",
       "parent": null,
       "id": "1465681867",
-      "detailed_rating": {},
+      "detailed_rating": {
+         "+": [
+            [
+               "7504530",
+               1762421159
+            ]
+         ]
+      },
       "deleted": false,
-      "justified_rating": 0,
-      "justified_votes": 0
+      "justified_rating": 1,
+      "justified_votes": 1
    }
 }
