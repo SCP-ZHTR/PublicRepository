@@ -1803,8 +1803,8 @@
          "_info"
       ],
       "comments": "1",
-      "rating": "11",
-      "votes": "11",
+      "rating": "12",
+      "votes": "12",
       "parent": null,
       "id": "672800061",
       "detailed_rating": {
@@ -1852,12 +1852,16 @@
             [
                "4351112",
                1617120000
+            ],
+            [
+               "9428515",
+               1762556220
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 11,
-      "justified_votes": 11
+      "justified_rating": 12,
+      "justified_votes": 12
    },
    "1554305193": {
       "title": "翻譯索引頁",
