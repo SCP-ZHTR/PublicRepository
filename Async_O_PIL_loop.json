@@ -152345,8 +152345,8 @@
       ],
       "hidden_tags": [],
       "comments": "13",
-      "rating": "4",
-      "votes": "4",
+      "rating": "5",
+      "votes": "5",
       "parent": null,
       "id": "1460474308",
       "detailed_rating": {
@@ -152366,12 +152366,16 @@
             [
                "6381244",
                1760341187
+            ],
+            [
+               "8319365",
+               1762481622
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 4,
-      "justified_votes": 4
+      "justified_rating": 5,
+      "justified_votes": 5
    },
    "1760155008": {
       "title": "SCP-ZH-328 蘭花之夜",
