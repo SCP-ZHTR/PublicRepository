@@ -145980,8 +145980,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "3",
-      "votes": "3",
+      "rating": "4",
+      "votes": "4",
       "parent": null,
       "id": "1458159156",
       "detailed_rating": {
@@ -145997,12 +145997,16 @@
             [
                "7504530",
                1736729050
+            ],
+            [
+               "8319365",
+               1762489365
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 3,
-      "justified_votes": 3
+      "justified_rating": 4,
+      "justified_votes": 4
    },
    "1735661505": {
       "title": "SCP-7939 - 新沖水秩序",
