@@ -66943,8 +66943,8 @@
          "_禁黑"
       ],
       "comments": "1",
-      "rating": "12",
-      "votes": "12",
+      "rating": "13",
+      "votes": "13",
       "parent": null,
       "id": "1311082158",
       "detailed_rating": {
@@ -66996,12 +66996,16 @@
             [
                "7504530",
                1719741169
+            ],
+            [
+               "9163798",
+               1762615711
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 11,
-      "justified_votes": 11
+      "justified_rating": 12,
+      "justified_votes": 12
    },
    "1621001935": {
       "title": "玩具商與博士",
