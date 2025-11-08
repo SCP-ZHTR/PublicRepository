@@ -151380,8 +151380,8 @@
       ],
       "hidden_tags": [],
       "comments": "5",
-      "rating": "2",
-      "votes": "2",
+      "rating": "3",
+      "votes": "3",
       "parent": null,
       "id": "1466490449",
       "detailed_rating": {
@@ -151393,12 +151393,16 @@
             [
                "6152598",
                1762587191
+            ],
+            [
+               "7840542",
+               1762601482
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 2,
-      "justified_votes": 2
+      "justified_rating": 3,
+      "justified_votes": 3
    },
    "1762555489": {
       "title": "角色發展",
