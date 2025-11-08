@@ -85906,8 +85906,8 @@
          "_licensebox"
       ],
       "comments": "0",
-      "rating": "12",
-      "votes": "14",
+      "rating": "13",
+      "votes": "15",
       "parent": null,
       "id": "1332817119",
       "detailed_rating": {
@@ -85963,6 +85963,10 @@
             [
                "7858492",
                1755708250
+            ],
+            [
+               "9163798",
+               1762615566
             ]
          ],
          "-": [
@@ -85973,8 +85977,8 @@
          ]
       },
       "deleted": false,
-      "justified_rating": 12,
-      "justified_votes": 12
+      "justified_rating": 13,
+      "justified_votes": 13
    },
    "1646622719": {
       "title": "SCP-5145 - 我葬送了太陽",
