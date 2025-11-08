@@ -151320,8 +151320,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "1",
-      "votes": "1",
+      "rating": "2",
+      "votes": "2",
       "parent": null,
       "id": "1465681867",
       "detailed_rating": {
@@ -151329,12 +151329,16 @@
             [
                "7504530",
                1762421159
+            ],
+            [
+               "9683115",
+               1762602995
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 1,
-      "justified_votes": 1
+      "justified_rating": 2,
+      "justified_votes": 2
    },
    "1762463740": {
       "title": "往復密碼 中心頁",
