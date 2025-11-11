@@ -150994,8 +150994,8 @@
          "_image"
       ],
       "comments": "1",
-      "rating": "4",
-      "votes": "4",
+      "rating": "5",
+      "votes": "5",
       "parent": null,
       "id": "1461222678",
       "detailed_rating": {
@@ -151015,12 +151015,16 @@
             [
                "8319365",
                1762056380
+            ],
+            [
+               "8033564",
+               1762835649
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 4,
-      "justified_votes": 4
+      "justified_rating": 5,
+      "justified_votes": 5
    },
    "1761658247": {
       "title": "SCP-3964 - 自殺階梯",
@@ -151488,14 +151492,21 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "0",
-      "votes": "0",
+      "rating": "1",
+      "votes": "1",
       "parent": null,
       "id": "1466493320",
-      "detailed_rating": {},
+      "detailed_rating": {
+         "+": [
+            [
+               "8033564",
+               1762835649
+            ]
+         ]
+      },
       "deleted": false,
-      "justified_rating": 0,
-      "justified_votes": 0
+      "justified_rating": 1,
+      "justified_votes": 1
    },
    "1762601102": {
       "title": "擴充維安權限代碼",
