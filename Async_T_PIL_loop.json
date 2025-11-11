@@ -150677,8 +150677,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "3",
-      "votes": "3",
+      "rating": "4",
+      "votes": "4",
       "parent": null,
       "id": "1460709278",
       "detailed_rating": {
@@ -150694,12 +150694,16 @@
             [
                "5370805",
                1760906686
+            ],
+            [
+               "9683115",
+               1762856536
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 3,
-      "justified_votes": 3
+      "justified_rating": 4,
+      "justified_votes": 4
    },
    "1760886810": {
       "title": "SCP-9113 - 神的造物是不可改變的",
