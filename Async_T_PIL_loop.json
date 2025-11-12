@@ -32404,8 +32404,8 @@
          "_cc"
       ],
       "comments": "4",
-      "rating": "9",
-      "votes": "11",
+      "rating": "10",
+      "votes": "12",
       "parent": null,
       "id": "1024238931",
       "detailed_rating": {
@@ -32449,6 +32449,10 @@
             [
                "DELETED",
                "[UNKNOWN]"
+            ],
+            [
+               "9786435",
+               1762954585
             ]
          ],
          "-": [
@@ -32459,8 +32463,8 @@
          ]
       },
       "deleted": false,
-      "justified_rating": 8,
-      "justified_votes": 10
+      "justified_rating": 9,
+      "justified_votes": 11
    },
    "1586329254": {
       "title": "SCP-2365 - 寰宇之厭傾諸君",
