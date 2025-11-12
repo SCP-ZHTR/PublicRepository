@@ -150879,8 +150879,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "2",
-      "votes": "2",
+      "rating": "3",
+      "votes": "3",
       "parent": null,
       "id": "1460738965",
       "detailed_rating": {
@@ -150892,12 +150892,16 @@
             [
                "8033564",
                1761364540
+            ],
+            [
+               "6217438",
+               1762911201
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 2,
-      "justified_votes": 2
+      "justified_rating": 3,
+      "justified_votes": 3
    },
    "1761324912": {
       "title": "SCP-9000 - 壕溝",
