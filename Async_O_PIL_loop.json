@@ -152519,8 +152519,8 @@
       ],
       "hidden_tags": [],
       "comments": "3",
-      "rating": "5",
-      "votes": "5",
+      "rating": "6",
+      "votes": "6",
       "parent": null,
       "id": "1460694093",
       "detailed_rating": {
@@ -152544,12 +152544,16 @@
             [
                "6217438",
                1760524930
+            ],
+            [
+               "5435485",
+               1762958957
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 5,
-      "justified_votes": 5
+      "justified_rating": 6,
+      "justified_votes": 6
    },
    "1761056427": {
       "title": "SCP-ZH-273 - 誠實的守衛又說謊的守衛",
