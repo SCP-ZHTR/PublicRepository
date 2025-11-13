@@ -34733,8 +34733,8 @@
       ],
       "hidden_tags": [],
       "comments": "4",
-      "rating": "10",
-      "votes": "10",
+      "rating": "11",
+      "votes": "11",
       "parent": null,
       "id": "1026249220",
       "detailed_rating": {
@@ -34778,12 +34778,16 @@
             [
                "8452537",
                1732759376
+            ],
+            [
+               "7064164",
+               1763047983
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 10,
-      "justified_votes": 10
+      "justified_rating": 11,
+      "justified_votes": 11
    },
    "1588261337": {
       "title": "SCP-1?1!-RU",
