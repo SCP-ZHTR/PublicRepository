@@ -126483,8 +126483,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "7",
-      "votes": "7",
+      "rating": "8",
+      "votes": "8",
       "parent": null,
       "id": "1449652626",
       "detailed_rating": {
@@ -126516,12 +126516,16 @@
             [
                "9447838",
                1737170948
+            ],
+            [
+               "9758462",
+               1763122717
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 6,
-      "justified_votes": 6
+      "justified_rating": 7,
+      "justified_votes": 7
    },
    "1693508895": {
       "title": "直面錄像：周末晚餐",
