@@ -65533,8 +65533,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "5",
-      "votes": "5",
+      "rating": "6",
+      "votes": "6",
       "parent": null,
       "id": "1310930599",
       "detailed_rating": {
@@ -65558,12 +65558,16 @@
             [
                "DELETED",
                1707468495
+            ],
+            [
+               "5251681",
+               1763150002
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 4,
-      "justified_votes": 4
+      "justified_rating": 5,
+      "justified_votes": 5
    },
    "1619792327": {
       "title": "Dandelion",
