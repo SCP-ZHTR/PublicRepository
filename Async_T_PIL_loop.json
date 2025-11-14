@@ -151433,8 +151433,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "1",
-      "votes": "1",
+      "rating": "2",
+      "votes": "2",
       "parent": null,
       "id": "1466487106",
       "detailed_rating": {
@@ -151442,12 +151442,16 @@
             [
                "8319365",
                1762471532
+            ],
+            [
+               "7504530",
+               1763097344
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 1,
-      "justified_votes": 1
+      "justified_rating": 2,
+      "justified_votes": 2
    },
    "1762524427": {
       "title": "聖夜相守越夜耶",
