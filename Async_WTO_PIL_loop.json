@@ -20334,5 +20334,22 @@
       "deleted": true,
       "justified_rating": 1,
       "justified_votes": 1
+   },
+   "1763302943": {
+      "title": "SCP-總裁-VN-J - 媽呀，主任學會戀愛了",
+      "fullname": "scp-tongtai-vn-j",
+      "created_at": "1763302943",
+      "created_by": "7605593",
+      "tags": [],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1466802148",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
