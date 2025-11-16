@@ -151687,5 +151687,36 @@
       "deleted": false,
       "justified_rating": 0,
       "justified_votes": 0
+   },
+   "1763302943": {
+      "title": "SCP-總裁-VN-J - 媽呀，主任學會戀愛了",
+      "fullname": "scp-tongtai-vn-j",
+      "created_at": "1763302943",
+      "created_by": "7605593",
+      "tags": [
+         "euclid",
+         "meta",
+         "nguyễn-dương主管",
+         "vn",
+         "人形",
+         "合著",
+         "搞笑",
+         "現實扭曲",
+         "翻譯",
+         "貨幣"
+      ],
+      "hidden_tags": [
+         "_cc",
+         "_licensebox"
+      ],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1466802148",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
