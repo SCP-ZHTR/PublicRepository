@@ -151710,8 +151710,8 @@
          "_licensebox"
       ],
       "comments": "2",
-      "rating": "5",
-      "votes": "5",
+      "rating": "6",
+      "votes": "6",
       "parent": null,
       "id": "1466802148",
       "detailed_rating": {
@@ -151735,11 +151735,15 @@
             [
                "7605593",
                1763311501
+            ],
+            [
+               "8319365",
+               1763335598
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 5,
-      "justified_votes": 5
+      "justified_rating": 6,
+      "justified_votes": 6
    }
 }
