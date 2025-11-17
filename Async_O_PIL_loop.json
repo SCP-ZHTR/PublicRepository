@@ -23578,8 +23578,8 @@
          "_禁黑"
       ],
       "comments": "0",
-      "rating": "10",
-      "votes": "10",
+      "rating": "11",
+      "votes": "11",
       "parent": null,
       "id": "974084961",
       "detailed_rating": {
@@ -23623,12 +23623,16 @@
             [
                "5013754",
                1617120000
+            ],
+            [
+               "8418020",
+               1763422419
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 10,
-      "justified_votes": 10
+      "justified_rating": 11,
+      "justified_votes": 11
    },
    "1576542448": {
       "title": "SCP-ZH-027 - 玉籠包",
