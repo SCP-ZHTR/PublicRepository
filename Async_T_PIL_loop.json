@@ -151679,14 +151679,21 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "0",
-      "votes": "0",
+      "rating": "1",
+      "votes": "1",
       "parent": null,
       "id": "1466791418",
-      "detailed_rating": {},
+      "detailed_rating": {
+         "+": [
+            [
+               "7504530",
+               1763346625
+            ]
+         ]
+      },
       "deleted": false,
-      "justified_rating": 0,
-      "justified_votes": 0
+      "justified_rating": 1,
+      "justified_votes": 1
    },
    "1763302943": {
       "title": "SCP-總裁-VN-J - 媽呀，主任學會戀愛了",
