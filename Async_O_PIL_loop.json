@@ -18056,8 +18056,8 @@
          "_info"
       ],
       "comments": "0",
-      "rating": "18",
-      "votes": "18",
+      "rating": "19",
+      "votes": "19",
       "parent": null,
       "id": "911920991",
       "detailed_rating": {
@@ -18133,12 +18133,16 @@
             [
                "9104873",
                1728468109
+            ],
+            [
+               "8418020",
+               1763436058
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 17,
-      "justified_votes": 17
+      "justified_rating": 18,
+      "justified_votes": 18
    },
    "1569569048": {
       "title": "SCP-ZH-272 - 望地月岩",
