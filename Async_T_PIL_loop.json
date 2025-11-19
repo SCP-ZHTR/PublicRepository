@@ -49470,8 +49470,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "5",
-      "votes": "5",
+      "rating": "6",
+      "votes": "6",
       "parent": null,
       "id": "1305585056",
       "detailed_rating": {
@@ -49495,12 +49495,16 @@
             [
                "6952002",
                1664380800
+            ],
+            [
+               "7504530",
+               1763521083
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 5,
-      "justified_votes": 5
+      "justified_rating": 6,
+      "justified_votes": 6
    },
    "1603571300": {
       "title": "1998年 中心頁",
