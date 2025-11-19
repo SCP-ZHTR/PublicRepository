@@ -34065,8 +34065,8 @@
          "_shaggy-dog"
       ],
       "comments": "2",
-      "rating": "6",
-      "votes": "6",
+      "rating": "7",
+      "votes": "7",
       "parent": null,
       "id": "1026138314",
       "detailed_rating": {
@@ -34094,12 +34094,16 @@
             [
                "DELETED",
                "[UNKNOWN]"
+            ],
+            [
+               "7504530",
+               1763520354
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 5,
-      "justified_votes": 5
+      "justified_rating": 6,
+      "justified_votes": 6
    },
    "1587656870": {
       "title": "1. 無頭先生",
