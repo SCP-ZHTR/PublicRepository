@@ -96964,8 +96964,8 @@
          "_licensebox"
       ],
       "comments": "5",
-      "rating": "6",
-      "votes": "6",
+      "rating": "7",
+      "votes": "7",
       "parent": null,
       "id": "1413729267",
       "detailed_rating": {
@@ -96993,12 +96993,16 @@
             [
                "DELETED",
                1720748602
+            ],
+            [
+               "7504530",
+               1763519754
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 5,
-      "justified_votes": 5
+      "justified_rating": 6,
+      "justified_votes": 6
    },
    "1656680714": {
       "title": "SCP-460 - 降神會風暴",
