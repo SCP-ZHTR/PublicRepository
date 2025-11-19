@@ -25585,8 +25585,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "3",
-      "votes": "3",
+      "rating": "4",
+      "votes": "4",
       "parent": null,
       "id": "999696788",
       "detailed_rating": {
@@ -25602,12 +25602,16 @@
             [
                "5985636",
                1654099200
+            ],
+            [
+               "7504530",
+               1763520791
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 3,
-      "justified_votes": 3
+      "justified_rating": 4,
+      "justified_votes": 4
    },
    "1583467508": {
       "title": "SCP-389 - 瓶中信",
