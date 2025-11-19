@@ -10351,8 +10351,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "1",
-      "votes": "1",
+      "rating": "2",
+      "votes": "2",
       "parent": null,
       "id": "1311312094",
       "detailed_rating": {
@@ -10360,12 +10360,16 @@
             [
                "7073060",
                1689145478
+            ],
+            [
+               "8319365",
+               1763596699
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 1,
-      "justified_votes": 1
+      "justified_rating": 2,
+      "justified_votes": 2
    },
    "1621433810": {
       "title": "版頭重新着色",
