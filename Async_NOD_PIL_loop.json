@@ -4076,8 +4076,8 @@
          "_info"
       ],
       "comments": "0",
-      "rating": "5",
-      "votes": "5",
+      "rating": "6",
+      "votes": "6",
       "parent": null,
       "id": "986548212",
       "detailed_rating": {
@@ -4101,12 +4101,16 @@
             [
                "4888797",
                1689145478
+            ],
+            [
+               "8319365",
+               1763595598
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 5,
-      "justified_votes": 5
+      "justified_rating": 6,
+      "justified_votes": 6
    },
    "1581344983": {
       "title": "聊天室活躍成員紀要-ARC",
