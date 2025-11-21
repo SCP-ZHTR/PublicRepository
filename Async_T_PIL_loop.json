@@ -151352,8 +151352,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "3",
-      "votes": "3",
+      "rating": "4",
+      "votes": "4",
       "parent": null,
       "id": "1465416682",
       "detailed_rating": {
@@ -151369,12 +151369,16 @@
             [
                "5370805",
                1762305310
+            ],
+            [
+               "4990678",
+               1763741076
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 3,
-      "justified_votes": 3
+      "justified_rating": 4,
+      "justified_votes": 4
    },
    "1762255727": {
       "title": "SCP-723-J - 傷心蟑螂",
