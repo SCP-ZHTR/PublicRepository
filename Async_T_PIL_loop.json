@@ -106703,8 +106703,8 @@
          "_licensebox"
       ],
       "comments": "3",
-      "rating": "13",
-      "votes": "13",
+      "rating": "14",
+      "votes": "14",
       "parent": null,
       "id": "1437051221",
       "detailed_rating": {
@@ -106760,12 +106760,16 @@
             [
                "DELETED",
                1697899552
+            ],
+            [
+               "6048746",
+               1763802422
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 12,
-      "justified_votes": 12
+      "justified_rating": 13,
+      "justified_votes": 13
    },
    "1667664007": {
       "title": "SCP-490-JP - 貝克遜國完善裝置",
