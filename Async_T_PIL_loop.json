@@ -19674,8 +19674,8 @@
          "_info"
       ],
       "comments": "0",
-      "rating": "10",
-      "votes": "10",
+      "rating": "11",
+      "votes": "11",
       "parent": null,
       "id": "924648731",
       "detailed_rating": {
@@ -19719,12 +19719,16 @@
             [
                "6082642",
                1617120000
+            ],
+            [
+               "7504530",
+               1763870091
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 10,
-      "justified_votes": 10
+      "justified_rating": 11,
+      "justified_votes": 11
    },
    "1572526188": {
       "title": "收容失效：萬聖夜驚魂",
