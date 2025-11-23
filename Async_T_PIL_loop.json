@@ -151852,5 +151852,34 @@
       "deleted": false,
       "justified_rating": 0,
       "justified_votes": 0
+   },
+   "1763901600": {
+      "title": "SCP-161-JP - 不伊之症",
+      "fullname": "scp-161-jp",
+      "created_at": "1763901600",
+      "created_by": "7605593",
+      "tags": [
+         "int",
+         "jp",
+         "keter",
+         "meta",
+         "scp",
+         "展出",
+         "殿堂入り",
+         "翻譯",
+         "聽覺影響",
+         "視覺影響",
+         "記憶影響"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1467054605",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
