@@ -152364,8 +152364,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "3",
-      "votes": "3",
+      "rating": "4",
+      "votes": "4",
       "parent": null,
       "id": "1460468604",
       "detailed_rating": {
@@ -152381,12 +152381,16 @@
             [
                "9786435",
                1759736759
+            ],
+            [
+               "7513990",
+               1764064198
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 3,
-      "justified_votes": 3
+      "justified_rating": 4,
+      "justified_votes": 4
    },
    "1759327207": {
       "title": "挑戰活動 鴿子領養",
