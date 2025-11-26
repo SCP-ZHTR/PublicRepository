@@ -151895,5 +151895,34 @@
       "deleted": false,
       "justified_rating": 0,
       "justified_votes": 0
+   },
+   "1764162360": {
+      "title": "SCP-4634 - 故障中",
+      "fullname": "scp-4634",
+      "created_at": "1764162360",
+      "created_by": "9786435",
+      "tags": [
+         "archon",
+         "en",
+         "k級情景",
+         "scp",
+         "傳送",
+         "文獻",
+         "未收容",
+         "現實扭曲",
+         "知識",
+         "翻譯",
+         "變形"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1467096770",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
