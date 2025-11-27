@@ -19401,8 +19401,8 @@
       ],
       "hidden_tags": [],
       "comments": "2",
-      "rating": "3",
-      "votes": "3",
+      "rating": "4",
+      "votes": "4",
       "parent": null,
       "id": "1460313191",
       "detailed_rating": {
@@ -19418,12 +19418,16 @@
             [
                "8319365",
                1761866830
+            ],
+            [
+               "5370805",
+               1764272080
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 3,
-      "justified_votes": 3
+      "justified_rating": 4,
+      "justified_votes": 4
    },
    "1757088017": {
       "title": "中元恐怖——繁星輿圖",
