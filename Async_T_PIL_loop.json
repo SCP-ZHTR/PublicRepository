@@ -151943,5 +151943,35 @@
       "deleted": false,
       "justified_rating": 2,
       "justified_votes": 2
+   },
+   "1764496801": {
+      "title": "SCP-8160 - 忘卻恐懼症：而地球仍舊轉動。",
+      "fullname": "scp-8160",
+      "created_at": "1764496801",
+      "created_by": "7605593",
+      "tags": [
+         "en",
+         "safe",
+         "scp",
+         "人造物品",
+         "恐懼症驚選集",
+         "星球",
+         "星際",
+         "球體",
+         "翻譯",
+         "記憶影響"
+      ],
+      "hidden_tags": [
+         "_cc"
+      ],
+      "comments": "1",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1467201686",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
