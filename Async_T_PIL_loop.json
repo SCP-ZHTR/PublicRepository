@@ -151786,8 +151786,8 @@
          "_licensebox"
       ],
       "comments": "2",
-      "rating": "8",
-      "votes": "8",
+      "rating": "9",
+      "votes": "9",
       "parent": null,
       "id": "1466802148",
       "detailed_rating": {
@@ -151823,12 +151823,16 @@
             [
                "7064164",
                1763569379
+            ],
+            [
+               "9075244",
+               1764613525
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 8,
-      "justified_votes": 8
+      "justified_rating": 9,
+      "justified_votes": 9
    },
    "1763900421": {
       "title": "SCP-9991 - 拉噗噗",
