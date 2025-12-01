@@ -20393,7 +20393,10 @@
       "fullname": "scp-series-10",
       "created_at": "1764614504",
       "created_by": "5370805",
-      "tags": [],
+      "tags": [
+         "中心",
+         "詮釋資料"
+      ],
       "hidden_tags": [],
       "comments": "0",
       "rating": "0",
