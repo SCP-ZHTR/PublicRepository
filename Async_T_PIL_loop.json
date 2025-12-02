@@ -83889,8 +83889,8 @@
          "_cc"
       ],
       "comments": "1",
-      "rating": "6",
-      "votes": "8",
+      "rating": "7",
+      "votes": "9",
       "parent": null,
       "id": "1331729474",
       "detailed_rating": {
@@ -83922,6 +83922,10 @@
             [
                "DELETED",
                1707371610
+            ],
+            [
+               "8319365",
+               1764649472
             ]
          ],
          "-": [
@@ -83932,8 +83936,8 @@
          ]
       },
       "deleted": false,
-      "justified_rating": 5,
-      "justified_votes": 7
+      "justified_rating": 6,
+      "justified_votes": 8
    },
    "1645190547": {
       "title": "Dr. Palanez的提案",
