@@ -152043,5 +152043,34 @@
       "deleted": false,
       "justified_rating": 1,
       "justified_votes": 1
+   },
+   "1764783365": {
+      "title": "SCP-4114 - 奧秘逃脫術師",
+      "fullname": "scp-4114",
+      "created_at": "1764783365",
+      "created_by": "7605593",
+      "tags": [
+         "en",
+         "keter",
+         "manny",
+         "scp",
+         "人形",
+         "恐懼與雜技",
+         "未收容",
+         "翻譯",
+         "表演",
+         "赫曼-富勒",
+         "逆模因"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1467272271",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
