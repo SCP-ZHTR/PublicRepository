@@ -105643,8 +105643,8 @@
          "_image"
       ],
       "comments": "0",
-      "rating": "10",
-      "votes": "12",
+      "rating": "11",
+      "votes": "13",
       "parent": null,
       "id": "1436244588",
       "detailed_rating": {
@@ -105692,6 +105692,10 @@
             [
                "5454699",
                1665331200
+            ],
+            [
+               "6048746",
+               1765052681
             ]
          ],
          "-": [
@@ -105702,8 +105706,8 @@
          ]
       },
       "deleted": false,
-      "justified_rating": 10,
-      "justified_votes": 12
+      "justified_rating": 11,
+      "justified_votes": 13
    },
    "1664870365": {
       "title": "SCP-ZH-993 - 無知則自由",
