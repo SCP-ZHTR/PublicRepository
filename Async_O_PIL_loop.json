@@ -72462,8 +72462,8 @@
       ],
       "hidden_tags": [],
       "comments": "5",
-      "rating": "5",
-      "votes": "7",
+      "rating": "6",
+      "votes": "8",
       "parent": null,
       "id": "1311995720",
       "detailed_rating": {
@@ -72491,6 +72491,10 @@
             [
                "5413616",
                1624204800
+            ],
+            [
+               "6048746",
+               1765052399
             ]
          ],
          "-": [
@@ -72501,8 +72505,8 @@
          ]
       },
       "deleted": false,
-      "justified_rating": 5,
-      "justified_votes": 7
+      "justified_rating": 6,
+      "justified_votes": 8
    },
    "1622977259": {
       "title": "開箱檢查",
