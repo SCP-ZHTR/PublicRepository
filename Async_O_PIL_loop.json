@@ -25338,8 +25338,8 @@
          "_info"
       ],
       "comments": "0",
-      "rating": "16",
-      "votes": "16",
+      "rating": "17",
+      "votes": "17",
       "parent": null,
       "id": "985922491",
       "detailed_rating": {
@@ -25407,12 +25407,16 @@
             [
                "7226401",
                1619884800
+            ],
+            [
+               "9075244",
+               1765132687
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 16,
-      "justified_votes": 16
+      "justified_rating": 17,
+      "justified_votes": 17
    },
    "1577368319": {
       "title": "提案：聖誕軟暖貂",
@@ -81343,8 +81347,8 @@
          "_cc"
       ],
       "comments": "3",
-      "rating": "8",
-      "votes": "8",
+      "rating": "9",
+      "votes": "9",
       "parent": null,
       "id": "1329470979",
       "detailed_rating": {
@@ -81380,12 +81384,16 @@
             [
                "DELETED",
                1695270804
+            ],
+            [
+               "9075244",
+               1765132687
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 7,
-      "justified_votes": 7
+      "justified_rating": 8,
+      "justified_votes": 8
    },
    "1634610649": {
       "title": "觸不到的你",
@@ -83949,8 +83957,8 @@
          "_cc"
       ],
       "comments": "4",
-      "rating": "17",
-      "votes": "17",
+      "rating": "18",
+      "votes": "18",
       "parent": null,
       "id": "1330502416",
       "detailed_rating": {
@@ -84022,12 +84030,16 @@
             [
                "DELETED",
                1695270461
+            ],
+            [
+               "9075244",
+               1765132687
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 16,
-      "justified_votes": 16
+      "justified_rating": 17,
+      "justified_votes": 17
    },
    "1638077341": {
       "title": "項目企劃書 2017-47：《健康的代價》",
@@ -85975,8 +85987,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "14",
-      "votes": "14",
+      "rating": "15",
+      "votes": "15",
       "parent": null,
       "id": "1331228040",
       "detailed_rating": {
@@ -86036,12 +86048,16 @@
             [
                "DELETED",
                1695270378
+            ],
+            [
+               "9075244",
+               1765132687
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 13,
-      "justified_votes": 13
+      "justified_rating": 14,
+      "justified_votes": 14
    },
    "1641218327": {
       "title": "SCP-ZH-499 - 康乃馨盔甲工藝",
