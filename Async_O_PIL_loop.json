@@ -120312,8 +120312,8 @@
          "_cc"
       ],
       "comments": "0",
-      "rating": "22",
-      "votes": "22",
+      "rating": "23",
+      "votes": "23",
       "parent": null,
       "id": "1449391715",
       "detailed_rating": {
@@ -120405,12 +120405,16 @@
             [
                "9075244",
                1735028126
+            ],
+            [
+               "8177208",
+               1765264708
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 22,
-      "justified_votes": 22
+      "justified_rating": 23,
+      "justified_votes": 23
    },
    "1692199929": {
       "title": "SCP-ZH-990 - 白色診療",
