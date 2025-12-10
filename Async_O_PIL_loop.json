@@ -38799,8 +38799,8 @@
          "_蛇之手-goi格式"
       ],
       "comments": "0",
-      "rating": "10",
-      "votes": "10",
+      "rating": "11",
+      "votes": "11",
       "parent": null,
       "id": "1026246587",
       "detailed_rating": {
@@ -38844,12 +38844,16 @@
             [
                "5454699",
                1617120000
+            ],
+            [
+               "5653267",
+               1765389831
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 10,
-      "justified_votes": 10
+      "justified_rating": 11,
+      "justified_votes": 11
    },
    "1588174365": {
       "title": "洗標：藍0428-Dr. V的實驗袍",
