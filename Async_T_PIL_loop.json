@@ -145012,8 +145012,8 @@
       ],
       "hidden_tags": [],
       "comments": "2",
-      "rating": "2",
-      "votes": "2",
+      "rating": "3",
+      "votes": "3",
       "parent": null,
       "id": "1457291052",
       "detailed_rating": {
@@ -145025,12 +145025,16 @@
             [
                "7840542",
                1730908668
+            ],
+            [
+               "7504530",
+               1765332748
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 2,
-      "justified_votes": 2
+      "justified_rating": 3,
+      "justified_votes": 3
    },
    "1731060438": {
       "title": "醫療專題",
