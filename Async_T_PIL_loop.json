@@ -44195,8 +44195,8 @@
          "_禁黑"
       ],
       "comments": "2",
-      "rating": "25",
-      "votes": "25",
+      "rating": "26",
+      "votes": "26",
       "parent": null,
       "id": "1263411017",
       "detailed_rating": {
@@ -44300,12 +44300,16 @@
             [
                "8418020",
                1740560581
+            ],
+            [
+               "9163798",
+               1765353162
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 25,
-      "justified_votes": 25
+      "justified_rating": 26,
+      "justified_votes": 26
    },
    "1598160967": {
       "title": "The “F” 10月號",
@@ -54389,8 +54393,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "9",
-      "votes": "11",
+      "rating": "10",
+      "votes": "12",
       "parent": null,
       "id": "1306279755",
       "detailed_rating": {
@@ -54434,6 +54438,10 @@
             [
                "7504530",
                1722234182
+            ],
+            [
+               "9163798",
+               1765353162
             ]
          ],
          "-": [
@@ -54444,8 +54452,8 @@
          ]
       },
       "deleted": false,
-      "justified_rating": 10,
-      "justified_votes": 10
+      "justified_rating": 11,
+      "justified_votes": 11
    },
    "1608435026": {
       "title": "SCP-825-KO",
