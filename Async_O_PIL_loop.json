@@ -152764,8 +152764,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "10",
-      "votes": "10",
+      "rating": "11",
+      "votes": "11",
       "parent": null,
       "id": "1460777802",
       "detailed_rating": {
@@ -152809,12 +152809,16 @@
             [
                "5435485",
                1762959103
+            ],
+            [
+               "7064164",
+               1765595491
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 10,
-      "justified_votes": 10
+      "justified_rating": 11,
+      "justified_votes": 11
    },
    "1762524427": {
       "title": "聖夜相守越夜耶",
@@ -152942,8 +152946,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "-2",
-      "votes": "2",
+      "rating": "-3",
+      "votes": "3",
       "parent": null,
       "id": "1467530605",
       "detailed_rating": {
@@ -152955,11 +152959,15 @@
             [
                "4990678",
                1765593803
+            ],
+            [
+               "7064164",
+               1765595491
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": -2,
-      "justified_votes": 2
+      "justified_rating": -3,
+      "justified_votes": 3
    }
 }
