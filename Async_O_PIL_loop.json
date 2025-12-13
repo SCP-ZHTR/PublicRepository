@@ -28302,8 +28302,8 @@
          "_info"
       ],
       "comments": "1",
-      "rating": "12",
-      "votes": "16",
+      "rating": "13",
+      "votes": "17",
       "parent": null,
       "id": "986293868",
       "detailed_rating": {
@@ -28363,6 +28363,10 @@
             [
                "4351112",
                1617120000
+            ],
+            [
+               "8418020",
+               1765591309
             ]
          ],
          "-": [
@@ -28377,8 +28381,8 @@
          ]
       },
       "deleted": false,
-      "justified_rating": 12,
-      "justified_votes": 16
+      "justified_rating": 13,
+      "justified_votes": 17
    },
    "1579798222": {
       "title": "SCP-ZH-098 - 「寧靜」",
