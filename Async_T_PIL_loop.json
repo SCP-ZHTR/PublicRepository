@@ -103867,8 +103867,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "9",
-      "votes": "9",
+      "rating": "10",
+      "votes": "10",
       "parent": null,
       "id": "1436170201",
       "detailed_rating": {
@@ -103908,12 +103908,16 @@
             [
                "DELETED",
                1755010389
+            ],
+            [
+               "8319365",
+               1765812579
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 8,
-      "justified_votes": 8
+      "justified_rating": 9,
+      "justified_votes": 9
    },
    "1664620826": {
       "title": "凜冬",
