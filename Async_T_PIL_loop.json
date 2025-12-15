@@ -117416,8 +117416,8 @@
          "_licensebox"
       ],
       "comments": "0",
-      "rating": "11",
-      "votes": "11",
+      "rating": "12",
+      "votes": "12",
       "parent": null,
       "id": "1446757935",
       "detailed_rating": {
@@ -117465,12 +117465,16 @@
             [
                "DELETED",
                1755012760
+            ],
+            [
+               "8319365",
+               1765812883
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 10,
-      "justified_votes": 10
+      "justified_rating": 11,
+      "justified_votes": 11
    },
    "1679147334": {
       "title": "KTE-7609-Ochre-Egochild",
