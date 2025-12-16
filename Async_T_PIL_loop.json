@@ -59388,8 +59388,8 @@
          "_cc"
       ],
       "comments": "1",
-      "rating": "18",
-      "votes": "18",
+      "rating": "19",
+      "votes": "19",
       "parent": null,
       "id": "1307035540",
       "detailed_rating": {
@@ -59465,12 +59465,16 @@
             [
                "9447838",
                1743494908
+            ],
+            [
+               "10151900",
+               1765851377
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 18,
-      "justified_votes": 18
+      "justified_rating": 19,
+      "justified_votes": 19
    },
    "1614862636": {
       "title": "SCP-4182解密",
