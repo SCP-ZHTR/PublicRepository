@@ -19735,8 +19735,8 @@
          "_info"
       ],
       "comments": "7",
-      "rating": "40",
-      "votes": "44",
+      "rating": "41",
+      "votes": "45",
       "parent": null,
       "id": "926532648",
       "detailed_rating": {
@@ -19908,6 +19908,10 @@
             [
                "DELETED",
                1729067725
+            ],
+            [
+               "8319365",
+               1765928345
             ]
          ],
          "-": [
@@ -19922,8 +19926,8 @@
          ]
       },
       "deleted": false,
-      "justified_rating": 38,
-      "justified_votes": 42
+      "justified_rating": 39,
+      "justified_votes": 43
    },
    "1573140382": {
       "title": "虹光之間中心頁",
