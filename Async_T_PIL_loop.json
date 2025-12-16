@@ -143271,8 +143271,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "10",
-      "votes": "10",
+      "rating": "11",
+      "votes": "11",
       "parent": null,
       "id": "1456613832",
       "detailed_rating": {
@@ -143316,12 +143316,16 @@
             [
                "7513990",
                1755831839
+            ],
+            [
+               "8319365",
+               1765896683
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 10,
-      "justified_votes": 10
+      "justified_rating": 11,
+      "justified_votes": 11
    },
    "1725283061": {
       "title": "SCP-2577 - 落下的船隻",
