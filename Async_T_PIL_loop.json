@@ -146089,8 +146089,8 @@
          "_禁黑"
       ],
       "comments": "0",
-      "rating": "1",
-      "votes": "1",
+      "rating": "2",
+      "votes": "2",
       "parent": null,
       "id": "1458148905",
       "detailed_rating": {
@@ -146098,12 +146098,16 @@
             [
                "6088232",
                1735792920
+            ],
+            [
+               "8177208",
+               1765858955
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 1,
-      "justified_votes": 1
+      "justified_rating": 2,
+      "justified_votes": 2
    },
    "1735638924": {
       "title": "SCP-8798 - 故鄉",
