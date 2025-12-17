@@ -108385,8 +108385,8 @@
          "_licensebox"
       ],
       "comments": "0",
-      "rating": "1",
-      "votes": "1",
+      "rating": "2",
+      "votes": "2",
       "parent": null,
       "id": "1437316477",
       "detailed_rating": {
@@ -108394,12 +108394,16 @@
             [
                "8033564",
                1668960000
+            ],
+            [
+               "9758462",
+               1765967425
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 1,
-      "justified_votes": 1
+      "justified_rating": 2,
+      "justified_votes": 2
    },
    "1669025810": {
       "title": "SCP-2028 - 惡夢雪景球",
