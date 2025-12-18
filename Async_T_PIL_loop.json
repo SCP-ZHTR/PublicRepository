@@ -151317,8 +151317,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "4",
-      "votes": "4",
+      "rating": "5",
+      "votes": "5",
       "parent": null,
       "id": "1463518057",
       "detailed_rating": {
@@ -151338,12 +151338,16 @@
             [
                "8446449",
                1765182388
+            ],
+            [
+               "9758462",
+               1766024435
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 4,
-      "justified_votes": 4
+      "justified_rating": 5,
+      "justified_votes": 5
    },
    "1762056549": {
       "title": "SCP-8730 - 自我表演癖：所有🧿都在我身上",
