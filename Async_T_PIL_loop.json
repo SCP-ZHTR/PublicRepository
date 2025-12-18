@@ -114523,8 +114523,8 @@
          "_licensebox"
       ],
       "comments": "2",
-      "rating": "10",
-      "votes": "10",
+      "rating": "11",
+      "votes": "11",
       "parent": null,
       "id": "1446156537",
       "detailed_rating": {
@@ -114568,12 +114568,16 @@
             [
                "8418020",
                1706676816
+            ],
+            [
+               "9758462",
+               1766024856
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 9,
-      "justified_votes": 9
+      "justified_rating": 10,
+      "justified_votes": 10
    },
    "1676193182": {
       "title": "SCP-2133 - 我們的故土，我們的桎梏",
