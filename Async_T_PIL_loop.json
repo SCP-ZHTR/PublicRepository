@@ -122418,8 +122418,8 @@
          "_licensebox"
       ],
       "comments": "2",
-      "rating": "6",
-      "votes": "6",
+      "rating": "7",
+      "votes": "7",
       "parent": null,
       "id": "1447787482",
       "detailed_rating": {
@@ -122447,12 +122447,16 @@
             [
                "8480087",
                1684647343
+            ],
+            [
+               "8319365",
+               1766159131
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 6,
-      "justified_votes": 6
+      "justified_rating": 7,
+      "justified_votes": 7
    },
    "1685108649": {
       "title": "蔚藍游隼行動",
