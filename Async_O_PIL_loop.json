@@ -153061,5 +153061,25 @@
       "deleted": true,
       "justified_rating": -4,
       "justified_votes": 4
+   },
+   "1766246423": {
+      "title": "因為寒清嚳亂按按鈕導致正在哭哭的豐川祥子出現在SCP-ZH-020",
+      "fullname": "nande-haruhikage-yatta-no",
+      "created_at": "1766246423",
+      "created_by": "8177208",
+      "tags": [
+         "原創",
+         "藝術作品"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1467674663",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
