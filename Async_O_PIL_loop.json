@@ -50315,8 +50315,8 @@
          "_賞金1200字"
       ],
       "comments": "1",
-      "rating": "11",
-      "votes": "11",
+      "rating": "12",
+      "votes": "12",
       "parent": null,
       "id": "1261307923",
       "detailed_rating": {
@@ -50364,12 +50364,16 @@
             [
                "8884787",
                1710977990
+            ],
+            [
+               "9075244",
+               1766243387
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 11,
-      "justified_votes": 11
+      "justified_rating": 12,
+      "justified_votes": 12
    },
    "1597942805": {
       "title": "緞帶飄飄，鈴擺噹噹",
@@ -129189,8 +129193,8 @@
          "_禁黑"
       ],
       "comments": "0",
-      "rating": "12",
-      "votes": "12",
+      "rating": "13",
+      "votes": "13",
       "parent": null,
       "id": "1451996101",
       "detailed_rating": {
@@ -129242,12 +129246,16 @@
             [
                "6952002",
                1714341611
+            ],
+            [
+               "9075244",
+               1766243387
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 12,
-      "justified_votes": 12
+      "justified_rating": 13,
+      "justified_votes": 13
    },
    "1703899834": {
       "title": "Kislorod與他的思念",
