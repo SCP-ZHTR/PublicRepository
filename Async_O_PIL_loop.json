@@ -153145,8 +153145,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "6",
-      "votes": "6",
+      "rating": "7",
+      "votes": "7",
       "parent": null,
       "id": "1467674995",
       "detailed_rating": {
@@ -153174,12 +153174,16 @@
             [
                "5338547",
                1766248686
+            ],
+            [
+               "6152598",
+               1766274612
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 6,
-      "justified_votes": 6
+      "justified_rating": 7,
+      "justified_votes": 7
    },
    "1766247511": {
       "title": "不是我的愛人",
@@ -153301,8 +153305,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "3",
-      "votes": "3",
+      "rating": "4",
+      "votes": "4",
       "parent": null,
       "id": "1467675800",
       "detailed_rating": {
@@ -153318,12 +153322,16 @@
             [
                "4206567",
                1766262033
+            ],
+            [
+               "6152598",
+               1766274612
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 3,
-      "justified_votes": 3
+      "justified_rating": 4,
+      "justified_votes": 4
    },
    "1766250497": {
       "title": "調氣會",
@@ -153417,8 +153425,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "4",
-      "votes": "4",
+      "rating": "5",
+      "votes": "5",
       "parent": null,
       "id": "1467677161",
       "detailed_rating": {
@@ -153438,12 +153446,16 @@
             [
                "4206567",
                1766261869
+            ],
+            [
+               "6152598",
+               1766274612
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 4,
-      "justified_votes": 4
+      "justified_rating": 5,
+      "justified_votes": 5
    },
    "1766266088": {
       "title": "SCP-ZH-392 - 鷴與牽牛花",
