@@ -153078,8 +153078,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "7",
-      "votes": "7",
+      "rating": "8",
+      "votes": "8",
       "parent": null,
       "id": "1467674663",
       "detailed_rating": {
@@ -153137,8 +153137,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "7",
-      "votes": "7",
+      "rating": "6",
+      "votes": "6",
       "parent": null,
       "id": "1467674995",
       "detailed_rating": {
@@ -153166,16 +153166,12 @@
             [
                "5338547",
                1766248686
-            ],
-            [
-               "5237516",
-               1766250286
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 7,
-      "justified_votes": 7
+      "justified_rating": 6,
+      "justified_votes": 6
    },
    "1766247511": {
       "title": "不是我的愛人",
@@ -153256,8 +153252,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "1",
-      "votes": "1",
+      "rating": "2",
+      "votes": "2",
       "parent": null,
       "id": "1467675206",
       "detailed_rating": {
@@ -153265,12 +153261,16 @@
             [
                "7605593",
                1766248686
+            ],
+            [
+               "4990678",
+               1766250718
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 1,
-      "justified_votes": 1
+      "justified_rating": 2,
+      "justified_votes": 2
    },
    "1766249010": {
       "title": "SCP-ZH-168 - 達河的貓",
