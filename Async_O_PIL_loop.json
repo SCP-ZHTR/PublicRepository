@@ -153199,5 +153199,28 @@
       "deleted": false,
       "justified_rating": 0,
       "justified_votes": 0
+   },
+   "1766247763": {
+      "title": "SCP-ZH-714 - 燈路",
+      "fullname": "scp-zh-714",
+      "created_at": "1766247763",
+      "created_by": "5338547",
+      "tags": [
+         "euclid",
+         "scp",
+         "原創",
+         "智能",
+         "聖夜越夜耶"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1467675206",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
