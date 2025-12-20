@@ -14465,8 +14465,8 @@
          "_info"
       ],
       "comments": "1",
-      "rating": "15",
-      "votes": "17",
+      "rating": "16",
+      "votes": "18",
       "parent": null,
       "id": "854835949",
       "detailed_rating": {
@@ -14534,6 +14534,10 @@
             [
                "9104873",
                1728466339
+            ],
+            [
+               "9075244",
+               1766244681
             ]
          ],
          "-": [
@@ -14544,8 +14548,8 @@
          ]
       },
       "deleted": false,
-      "justified_rating": 15,
-      "justified_votes": 17
+      "justified_rating": 16,
+      "justified_votes": 18
    },
    "1565411061": {
       "title": "事件代號：核裂擠兌-後勤醫護人員研究員L.What視角",
