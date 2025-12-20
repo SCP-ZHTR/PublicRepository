@@ -153259,5 +153259,27 @@
       "deleted": false,
       "justified_rating": 1,
       "justified_votes": 1
+   },
+   "1766249010": {
+      "title": "SCP-ZH-168 - 達河的貓",
+      "fullname": "scp-zh-168",
+      "created_at": "1766249010",
+      "created_by": "4990678",
+      "tags": [
+         "euclid",
+         "scp",
+         "原創",
+         "聖夜越夜耶"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1467675800",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
