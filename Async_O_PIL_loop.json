@@ -153357,8 +153357,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "2",
-      "votes": "2",
+      "rating": "3",
+      "votes": "3",
       "parent": null,
       "id": "1467676694",
       "detailed_rating": {
@@ -153370,12 +153370,16 @@
             [
                "9075244",
                1766253328
+            ],
+            [
+               "4206567",
+               1766261869
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 2,
-      "justified_votes": 2
+      "justified_rating": 3,
+      "justified_votes": 3
    },
    "1766252118": {
       "title": "給chamucbel的聖夜禮物",
@@ -153389,8 +153393,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "3",
-      "votes": "3",
+      "rating": "4",
+      "votes": "4",
       "parent": null,
       "id": "1467677161",
       "detailed_rating": {
@@ -153406,11 +153410,15 @@
             [
                "9075244",
                1766253179
+            ],
+            [
+               "4206567",
+               1766261869
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 3,
-      "justified_votes": 3
+      "justified_rating": 4,
+      "justified_votes": 4
    }
 }
