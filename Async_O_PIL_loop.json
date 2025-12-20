@@ -17092,8 +17092,8 @@
          "_info"
       ],
       "comments": "0",
-      "rating": "9",
-      "votes": "9",
+      "rating": "10",
+      "votes": "10",
       "parent": null,
       "id": "885131243",
       "detailed_rating": {
@@ -17133,12 +17133,16 @@
             [
                "8883612",
                1702776772
+            ],
+            [
+               "9075244",
+               1766241485
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 9,
-      "justified_votes": 9
+      "justified_rating": 10,
+      "justified_votes": 10
    },
    "1567761087": {
       "title": "一如往常",
@@ -17158,8 +17162,8 @@
          "_info"
       ],
       "comments": "0",
-      "rating": "10",
-      "votes": "10",
+      "rating": "11",
+      "votes": "11",
       "parent": null,
       "id": "894539777",
       "detailed_rating": {
@@ -17203,12 +17207,16 @@
             [
                "7504530",
                1744659576
+            ],
+            [
+               "9075244",
+               1766241485
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 10,
-      "justified_votes": 10
+      "justified_rating": 11,
+      "justified_votes": 11
    },
    "1567928641": {
       "title": "為不懂 CSS 的人所寫的說明：如何修改安布羅斯 GOI 格式的代碼",
@@ -37855,8 +37863,8 @@
          "_cc"
       ],
       "comments": "0",
-      "rating": "14",
-      "votes": "14",
+      "rating": "15",
+      "votes": "15",
       "parent": null,
       "id": "1026130453",
       "detailed_rating": {
@@ -37916,12 +37924,16 @@
             [
                "7504530",
                1744659576
+            ],
+            [
+               "9075244",
+               1766241485
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 14,
-      "justified_votes": 14
+      "justified_rating": 15,
+      "justified_votes": 15
    },
    "1587564485": {
       "title": "SCP-ZH-480 - 向下找",
