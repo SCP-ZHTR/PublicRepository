@@ -153264,8 +153264,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "2",
-      "votes": "2",
+      "rating": "3",
+      "votes": "3",
       "parent": null,
       "id": "1467675206",
       "detailed_rating": {
@@ -153277,12 +153277,16 @@
             [
                "4990678",
                1766250718
+            ],
+            [
+               "6152598",
+               1766274468
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 2,
-      "justified_votes": 2
+      "justified_rating": 3,
+      "justified_votes": 3
    },
    "1766249010": {
       "title": "SCP-ZH-168 - 達河的貓",
@@ -153373,8 +153377,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "3",
-      "votes": "3",
+      "rating": "4",
+      "votes": "4",
       "parent": null,
       "id": "1467676694",
       "detailed_rating": {
@@ -153390,12 +153394,16 @@
             [
                "4206567",
                1766261869
+            ],
+            [
+               "6152598",
+               1766274468
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 3,
-      "justified_votes": 3
+      "justified_rating": 4,
+      "justified_votes": 4
    },
    "1766252118": {
       "title": "給chamucbel的聖夜禮物",
