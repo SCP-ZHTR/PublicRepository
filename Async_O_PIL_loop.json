@@ -51044,8 +51044,8 @@
          "_cc"
       ],
       "comments": "2",
-      "rating": "23",
-      "votes": "23",
+      "rating": "24",
+      "votes": "24",
       "parent": null,
       "id": "1267827410",
       "detailed_rating": {
@@ -51141,12 +51141,16 @@
             [
                "7504530",
                1715825012
+            ],
+            [
+               "9075244",
+               1766239346
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 23,
-      "justified_votes": 23
+      "justified_rating": 24,
+      "justified_votes": 24
    },
    "1598886579": {
       "title": "謝幕的顏色",
