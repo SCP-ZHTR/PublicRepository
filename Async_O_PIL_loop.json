@@ -153193,8 +153193,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "1",
-      "votes": "1",
+      "rating": "2",
+      "votes": "2",
       "parent": null,
       "id": "1467675095",
       "detailed_rating": {
@@ -153202,12 +153202,16 @@
             [
                "7605593",
                1766249126
+            ],
+            [
+               "4206567",
+               1766262335
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 1,
-      "justified_votes": 1
+      "justified_rating": 2,
+      "justified_votes": 2
    },
    "1766247672": {
       "title": "SCP-ZH-281 - 永續的湖中還劍",
@@ -153329,8 +153333,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "2",
-      "votes": "2",
+      "rating": "3",
+      "votes": "3",
       "parent": null,
       "id": "1467676467",
       "detailed_rating": {
@@ -153342,12 +153346,16 @@
             [
                "9075244",
                1766253034
+            ],
+            [
+               "4206567",
+               1766262335
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 2,
-      "justified_votes": 2
+      "justified_rating": 3,
+      "justified_votes": 3
    },
    "1766251041": {
       "title": "給Erebus030的禮物(2) - 跨界時空的戰鬥少女",
