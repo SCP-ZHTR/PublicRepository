@@ -153293,8 +153293,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "2",
-      "votes": "2",
+      "rating": "3",
+      "votes": "3",
       "parent": null,
       "id": "1467675800",
       "detailed_rating": {
@@ -153306,12 +153306,16 @@
             [
                "5338547",
                1766249712
+            ],
+            [
+               "4206567",
+               1766262033
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 2,
-      "justified_votes": 2
+      "justified_rating": 3,
+      "justified_votes": 3
    },
    "1766250497": {
       "title": "調氣會",
