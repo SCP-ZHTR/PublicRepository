@@ -153112,14 +153112,77 @@
          "safe",
          "scp",
          "原創",
-         "精神影響"
+         "精神影響",
+         "聖夜相守越夜耶"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "1",
+      "votes": "1",
+      "parent": null,
+      "id": "1467674995",
+      "detailed_rating": {
+         "+": [
+            [
+               "6217438",
+               1766247777
+            ],
+            [
+               "8854072",
+               1766247777
+            ]
+         ]
+      },
+      "deleted": false,
+      "justified_rating": 2,
+      "justified_votes": 2
+   },
+   "1766247511": {
+      "title": "不是我的愛人",
+      "fullname": "not-my-lover",
+      "created_at": "1766247511",
+      "created_by": "5338547",
+      "tags": [
+         "原創",
+         "故事",
+         "聖夜越夜耶"
       ],
       "hidden_tags": [],
       "comments": "0",
       "rating": "0",
       "votes": "0",
       "parent": null,
-      "id": "1467674995",
+      "id": "1467675095",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
+   },
+   "1766247672": {
+      "title": "SCP-ZH-281 - 永續的湖中還劍",
+      "fullname": "scp-zh-281",
+      "created_at": "1766247672",
+      "created_by": "7605593",
+      "tags": [
+         "nguyễn-dương主管",
+         "safe",
+         "scp",
+         "原創",
+         "反熵",
+         "強迫性",
+         "機率性",
+         "歷史性",
+         "液體",
+         "真紀博士",
+         "聖夜越夜耶",
+         "語言"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1467675171",
       "detailed_rating": {},
       "deleted": false,
       "justified_rating": 0,
