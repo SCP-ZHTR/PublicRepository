@@ -20605,5 +20605,22 @@
       "deleted": true,
       "justified_rating": 0,
       "justified_votes": 0
+   },
+   "1766322567": {
+      "title": "給MnCo的聖誕禮ㄨ——等一下，這堆蘋果籽是什麼鬼！",
+      "fullname": "xmas25-mnco",
+      "created_at": "1766322567",
+      "created_by": "9075244",
+      "tags": [],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1467708677",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
