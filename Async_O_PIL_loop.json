@@ -153647,8 +153647,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "3",
-      "votes": "3",
+      "rating": "4",
+      "votes": "4",
       "parent": null,
       "id": "1467708677",
       "detailed_rating": {
@@ -153664,12 +153664,16 @@
             [
                "6088232",
                1766324062
+            ],
+            [
+               "7840542",
+               1766325196
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 3,
-      "justified_votes": 3
+      "justified_rating": 4,
+      "justified_votes": 4
    },
    "1766322936": {
       "title": "SCP-173-p 最初之派",
