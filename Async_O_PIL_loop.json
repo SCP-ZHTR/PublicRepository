@@ -153579,8 +153579,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "1",
-      "votes": "1",
+      "rating": "2",
+      "votes": "2",
       "parent": null,
       "id": "1467706812",
       "detailed_rating": {
@@ -153588,12 +153588,16 @@
             [
                "4990678",
                1766320024
+            ],
+            [
+               "8404617",
+               1766324912
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 1,
-      "justified_votes": 1
+      "justified_rating": 2,
+      "justified_votes": 2
    },
    "1766319590": {
       "title": "給5irin的聖夜禮物",
