@@ -153453,8 +153453,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "5",
-      "votes": "5",
+      "rating": "6",
+      "votes": "6",
       "parent": null,
       "id": "1467677161",
       "detailed_rating": {
@@ -153478,12 +153478,16 @@
             [
                "6152598",
                1766274612
+            ],
+            [
+               "7605593",
+               1766312149
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 5,
-      "justified_votes": 5
+      "justified_rating": 6,
+      "justified_votes": 6
    },
    "1766266088": {
       "title": "SCP-ZH-392 - 鷴與牽牛花",
@@ -153498,8 +153502,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "2",
-      "votes": "2",
+      "rating": "3",
+      "votes": "3",
       "parent": null,
       "id": "1467683306",
       "detailed_rating": {
@@ -153511,11 +153515,15 @@
             [
                "4990678",
                1766281253
+            ],
+            [
+               "7605593",
+               1766312149
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 2,
-      "justified_votes": 2
+      "justified_rating": 3,
+      "justified_votes": 3
    }
 }
