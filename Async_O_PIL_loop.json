@@ -153083,7 +153083,7 @@
       "hidden_tags": [],
       "comments": "0",
       "rating": "9",
-      "votes": "9",
+      "votes": "10",
       "parent": null,
       "id": "1467674663",
       "detailed_rating": {
@@ -153123,12 +153123,16 @@
             [
                "4206567",
                1766261715
+            ],
+            [
+               "8404617",
+               1766282097
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 9,
-      "justified_votes": 9
+      "justified_rating": 10,
+      "justified_votes": 10
    },
    "1766247242": {
       "title": "SCP-ZH-696 - 《蕀皮生物電波錄》",
