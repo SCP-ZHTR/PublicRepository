@@ -20588,5 +20588,22 @@
       "deleted": true,
       "justified_rating": 0,
       "justified_votes": 0
+   },
+   "1766318423": {
+      "title": "SCP-ZH-456 - 琴未了",
+      "fullname": "scp-zh-456",
+      "created_at": "1766318423",
+      "created_by": "8543386",
+      "tags": [],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1467706812",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
