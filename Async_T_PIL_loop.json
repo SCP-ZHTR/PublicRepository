@@ -67311,8 +67311,8 @@
          "_licensebox"
       ],
       "comments": "2",
-      "rating": "11",
-      "votes": "11",
+      "rating": "10",
+      "votes": "10",
       "parent": null,
       "id": "1311502361",
       "detailed_rating": {
@@ -67324,10 +67324,6 @@
             [
                "5684299",
                1621094400
-            ],
-            [
-               "5237516",
-               1626451200
             ],
             [
                "6787405",
@@ -67364,8 +67360,8 @@
          ]
       },
       "deleted": false,
-      "justified_rating": 10,
-      "justified_votes": 10
+      "justified_rating": 9,
+      "justified_votes": 9
    },
    "1621160511": {
       "title": "塵土之精華",
