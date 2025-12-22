@@ -153738,7 +153738,7 @@
       "hidden_tags": [],
       "comments": "0",
       "rating": "8",
-      "votes": "8",
+      "votes": "9",
       "parent": null,
       "id": "1467708862",
       "detailed_rating": {
@@ -153774,12 +153774,16 @@
             [
                "9075244",
                1766416649
+            ],
+            [
+               "8177208",
+               1766445482
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 8,
-      "justified_votes": 8
+      "justified_rating": 9,
+      "justified_votes": 9
    },
    "1766405935": {
       "title": "SCP-ZH-980 - 寂靜",
