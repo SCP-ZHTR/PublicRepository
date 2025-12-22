@@ -153784,8 +153784,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "1",
-      "votes": "1",
+      "rating": "2",
+      "votes": "2",
       "parent": "vn-zh-xmas25",
       "id": "1467742285",
       "detailed_rating": {
@@ -153793,11 +153793,15 @@
             [
                "4990678",
                1766406932
+            ],
+            [
+               "6152598",
+               1766408489
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 1,
-      "justified_votes": 1
+      "justified_rating": 2,
+      "justified_votes": 2
    }
 }
