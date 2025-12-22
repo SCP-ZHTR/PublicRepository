@@ -153566,8 +153566,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "3",
-      "votes": "3",
+      "rating": "4",
+      "votes": "4",
       "parent": null,
       "id": "1467705141",
       "detailed_rating": {
@@ -153583,12 +153583,16 @@
             [
                "6048746",
                1766407079
+            ],
+            [
+               "9075244",
+               1766416649
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 3,
-      "justified_votes": 3
+      "justified_rating": 4,
+      "justified_votes": 4
    },
    "1766318423": {
       "title": "SCP-ZH-456 - 琴未了",
@@ -153727,8 +153731,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "7",
-      "votes": "7",
+      "rating": "8",
+      "votes": "8",
       "parent": null,
       "id": "1467708862",
       "detailed_rating": {
@@ -153760,12 +153764,16 @@
             [
                "7073060",
                1766406759
+            ],
+            [
+               "9075244",
+               1766416649
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 7,
-      "justified_votes": 7
+      "justified_rating": 8,
+      "justified_votes": 8
    },
    "1766405935": {
       "title": "SCP-ZH-980 - 寂靜",
