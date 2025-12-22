@@ -141189,6 +141189,7 @@
       "created_by": "6088232",
       "tags": [
          "en",
+         "喜劇",
          "故事",
          "破碎之神教會",
          "翻譯"
@@ -152247,8 +152248,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "4",
-      "votes": "4",
+      "rating": "5",
+      "votes": "5",
       "parent": null,
       "id": "1467674666",
       "detailed_rating": {
@@ -152268,11 +152269,15 @@
             [
                "4206567",
                1766261871
+            ],
+            [
+               "7724052",
+               1766406764
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 4,
-      "justified_votes": 4
+      "justified_rating": 5,
+      "justified_votes": 5
    }
 }

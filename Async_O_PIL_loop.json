@@ -153082,8 +153082,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "12",
-      "votes": "12",
+      "rating": "13",
+      "votes": "13",
       "parent": null,
       "id": "1467674663",
       "detailed_rating": {
@@ -153135,12 +153135,16 @@
             [
                "7840542",
                1766324770
+            ],
+            [
+               "8319365",
+               1766406759
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 12,
-      "justified_votes": 12
+      "justified_rating": 13,
+      "justified_votes": 13
    },
    "1766247242": {
       "title": "SCP-ZH-696 - 《蕀皮生物電波錄》",
@@ -153157,8 +153161,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "10",
-      "votes": "10",
+      "rating": "11",
+      "votes": "11",
       "parent": null,
       "id": "1467674995",
       "detailed_rating": {
@@ -153202,12 +153206,16 @@
             [
                "8177208",
                1766312570
+            ],
+            [
+               "9628870",
+               1766406759
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 10,
-      "justified_votes": 10
+      "justified_rating": 11,
+      "justified_votes": 11
    },
    "1766247511": {
       "title": "不是我的愛人",
@@ -153266,8 +153274,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "2",
-      "votes": "2",
+      "rating": "3",
+      "votes": "3",
       "parent": null,
       "id": "1467675171",
       "detailed_rating": {
@@ -153279,12 +153287,16 @@
             [
                "8404617",
                1766284489
+            ],
+            [
+               "6152598",
+               1766406759
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 2,
-      "justified_votes": 2
+      "justified_rating": 3,
+      "justified_votes": 3
    },
    "1766247763": {
       "title": "SCP-ZH-714 - 燈路",
@@ -153554,8 +153566,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "1",
-      "votes": "1",
+      "rating": "2",
+      "votes": "2",
       "parent": null,
       "id": "1467705141",
       "detailed_rating": {
@@ -153563,12 +153575,16 @@
             [
                "4990678",
                1766316318
+            ],
+            [
+               "7605593",
+               1766406759
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 1,
-      "justified_votes": 1
+      "justified_rating": 2,
+      "justified_votes": 2
    },
    "1766318423": {
       "title": "SCP-ZH-456 - 琴未了",
@@ -153583,8 +153599,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "2",
-      "votes": "2",
+      "rating": "3",
+      "votes": "3",
       "parent": null,
       "id": "1467706812",
       "detailed_rating": {
@@ -153596,12 +153612,16 @@
             [
                "8404617",
                1766324912
+            ],
+            [
+               "7605593",
+               1766406759
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 2,
-      "justified_votes": 2
+      "justified_rating": 3,
+      "justified_votes": 3
    },
    "1766319590": {
       "title": "給5irin的聖夜禮物",
@@ -153615,8 +153635,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "2",
-      "votes": "2",
+      "rating": "4",
+      "votes": "4",
       "parent": null,
       "id": "1467707372",
       "detailed_rating": {
@@ -153628,12 +153648,20 @@
             [
                "9075244",
                1766322938
+            ],
+            [
+               "7605593",
+               1766406759
+            ],
+            [
+               "6048746",
+               1766406759
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 2,
-      "justified_votes": 2
+      "justified_rating": 4,
+      "justified_votes": 4
    },
    "1766322567": {
       "title": "給MnCo的聖誕禮ㄨ——等一下，這堆蘋果籽是什麼鬼！",
@@ -153647,8 +153675,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "5",
-      "votes": "5",
+      "rating": "6",
+      "votes": "6",
       "parent": null,
       "id": "1467708677",
       "detailed_rating": {
@@ -153672,12 +153700,16 @@
             [
                "8319365",
                1766326302
+            ],
+            [
+               "7605593",
+               1766406759
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 5,
-      "justified_votes": 5
+      "justified_rating": 6,
+      "justified_votes": 6
    },
    "1766322936": {
       "title": "SCP-173-p 最初之派",
@@ -153690,8 +153722,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "2",
-      "votes": "2",
+      "rating": "7",
+      "votes": "7",
       "parent": null,
       "id": "1467708862",
       "detailed_rating": {
@@ -153703,11 +153735,58 @@
             [
                "8319365",
                1766326302
+            ],
+            [
+               "9758462",
+               1766406759
+            ],
+            [
+               "4206567",
+               1766406759
+            ],
+            [
+               "7605593",
+               1766406759
+            ],
+            [
+               "6152598",
+               1766406759
+            ],
+            [
+               "7073060",
+               1766406759
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 2,
-      "justified_votes": 2
+      "justified_rating": 7,
+      "justified_votes": 7
+   },
+   "1766405935": {
+      "title": "SCP-ZH-980 - 寂靜",
+      "fullname": "scp-zh-980",
+      "created_at": "1766405935",
+      "created_by": "7073060",
+      "tags": [
+         "meta",
+         "safe",
+         "scp",
+         "共感",
+         "原創",
+         "樹木",
+         "空間影響",
+         "聖夜越夜耶",
+         "超維度"
+      ],
+      "hidden_tags": [],
+      "comments": "1",
+      "rating": "0",
+      "votes": "0",
+      "parent": "vn-zh-xmas25",
+      "id": "1467742285",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
