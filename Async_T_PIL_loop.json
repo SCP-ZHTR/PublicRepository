@@ -133505,8 +133505,8 @@
          "_禁黑"
       ],
       "comments": "0",
-      "rating": "3",
-      "votes": "3",
+      "rating": "4",
+      "votes": "4",
       "parent": null,
       "id": "1451837518",
       "detailed_rating": {
@@ -133522,12 +133522,16 @@
             [
                "8883612",
                1702815268
+            ],
+            [
+               "8177208",
+               1766461244
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 3,
-      "justified_votes": 3
+      "justified_rating": 4,
+      "justified_votes": 4
    },
    "1702729475": {
       "title": "SCP-3170-JP - 藏葉當在大密林／藏屍當在萬人塚",
