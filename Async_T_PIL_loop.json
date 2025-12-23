@@ -133437,8 +133437,8 @@
          "_禁黑"
       ],
       "comments": "0",
-      "rating": "2",
-      "votes": "2",
+      "rating": "3",
+      "votes": "3",
       "parent": null,
       "id": "1451837515",
       "detailed_rating": {
@@ -133450,12 +133450,16 @@
             [
                "8792088",
                1702731700
+            ],
+            [
+               "8177208",
+               1766471488
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 2,
-      "justified_votes": 2
+      "justified_rating": 3,
+      "justified_votes": 3
    },
    "1702729468": {
       "title": "SCP-3018-JP - 不昧之靈",
