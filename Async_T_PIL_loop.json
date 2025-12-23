@@ -132587,8 +132587,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "2",
-      "votes": "2",
+      "rating": "3",
+      "votes": "3",
       "parent": null,
       "id": "1451418208",
       "detailed_rating": {
@@ -132600,12 +132600,16 @@
             [
                "8452537",
                1700226461
+            ],
+            [
+               "8177208",
+               1766460540
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 2,
-      "justified_votes": 2
+      "justified_rating": 3,
+      "justified_votes": 3
    },
    "1700301681": {
       "title": "蘭布頓食屍鬼",
