@@ -124656,8 +124656,8 @@
          "_cc"
       ],
       "comments": "1",
-      "rating": "23",
-      "votes": "25",
+      "rating": "24",
+      "votes": "26",
       "parent": null,
       "id": "1450186455",
       "detailed_rating": {
@@ -124757,6 +124757,10 @@
             [
                "7064164",
                1723445069
+            ],
+            [
+               "8177208",
+               1766482068
             ]
          ],
          "-": [
@@ -124767,8 +124771,8 @@
          ]
       },
       "deleted": false,
-      "justified_rating": 23,
-      "justified_votes": 25
+      "justified_rating": 24,
+      "justified_votes": 26
    },
    "1695789050": {
       "title": "聽說Site-ZH-11來了一個新人？",
