@@ -153831,8 +153831,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "4",
-      "votes": "4",
+      "rating": "5",
+      "votes": "5",
       "parent": "vn-zh-xmas25",
       "id": "1467742285",
       "detailed_rating": {
@@ -153852,12 +153852,16 @@
             [
                "8177208",
                1766447748
+            ],
+            [
+               "5338547",
+               1766551038
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 4,
-      "justified_votes": 4
+      "justified_rating": 5,
+      "justified_votes": 5
    },
    "1766474645": {
       "title": "靈藥",
@@ -153871,8 +153875,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "3",
-      "votes": "3",
+      "rating": "4",
+      "votes": "4",
       "parent": null,
       "id": "1467748541",
       "detailed_rating": {
@@ -153888,11 +153892,15 @@
             [
                "4239775",
                1766477621
+            ],
+            [
+               "5338547",
+               1766551038
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 3,
-      "justified_votes": 3
+      "justified_rating": 4,
+      "justified_votes": 4
    }
 }
