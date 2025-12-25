@@ -153947,5 +153947,27 @@
       "deleted": false,
       "justified_rating": 3,
       "justified_votes": 3
+   },
+   "1766678317": {
+      "title": "clef父女隨筆",
+      "fullname": "clef-daughter-sketch",
+      "created_at": "1766678317",
+      "created_by": "4990678",
+      "tags": [
+         "clef博士",
+         "原創",
+         "聖夜越夜耶",
+         "藝術作品"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1467838497",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
