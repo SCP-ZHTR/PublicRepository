@@ -51901,8 +51901,8 @@
          "_cc"
       ],
       "comments": "0",
-      "rating": "9",
-      "votes": "9",
+      "rating": "10",
+      "votes": "10",
       "parent": null,
       "id": "1305821900",
       "detailed_rating": {
@@ -51942,12 +51942,16 @@
             [
                "8452537",
                1709204435
+            ],
+            [
+               "5370805",
+               1766700610
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 9,
-      "justified_votes": 9
+      "justified_rating": 10,
+      "justified_votes": 10
    },
    "1605592676": {
       "title": "SCP-5661 - 惡魔與少女",
