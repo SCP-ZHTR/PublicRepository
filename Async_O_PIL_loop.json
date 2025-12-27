@@ -138716,8 +138716,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "12",
-      "votes": "12",
+      "rating": "13",
+      "votes": "13",
       "parent": null,
       "id": "1454093340",
       "detailed_rating": {
@@ -138769,12 +138769,16 @@
             [
                "7840542",
                1719260810
+            ],
+            [
+               "4951855",
+               1766855955
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 12,
-      "justified_votes": 12
+      "justified_rating": 13,
+      "justified_votes": 13
    },
    "1719385379": {
       "title": "什麼？我打MediBang Paint？真的假的？",
