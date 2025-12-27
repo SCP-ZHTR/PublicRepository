@@ -153370,8 +153370,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "6",
-      "votes": "6",
+      "rating": "7",
+      "votes": "7",
       "parent": null,
       "id": "1467675800",
       "detailed_rating": {
@@ -153399,12 +153399,16 @@
             [
                "6048746",
                1766594648
+            ],
+            [
+               "5415046",
+               1766794954
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 6,
-      "justified_votes": 6
+      "justified_rating": 7,
+      "justified_votes": 7
    },
    "1766250497": {
       "title": "調氣會",
@@ -153962,8 +153966,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "4",
-      "votes": "4",
+      "rating": "5",
+      "votes": "5",
       "parent": null,
       "id": "1467838497",
       "detailed_rating": {
@@ -153983,11 +153987,15 @@
             [
                "6152598",
                1766704048
+            ],
+            [
+               "5415046",
+               1766794954
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 4,
-      "justified_votes": 4
+      "justified_rating": 5,
+      "justified_votes": 5
    }
 }
