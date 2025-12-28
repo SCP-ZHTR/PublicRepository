@@ -146942,8 +146942,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "1",
-      "votes": "1",
+      "rating": "2",
+      "votes": "2",
       "parent": null,
       "id": "1458684332",
       "detailed_rating": {
@@ -146951,12 +146951,16 @@
             [
                "5370805",
                1741541855
+            ],
+            [
+               "9758462",
+               1766939079
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 1,
-      "justified_votes": 1
+      "justified_rating": 2,
+      "justified_votes": 2
    },
    "1741528513": {
       "title": "SCP-8797 - Alex Thorley文集",
