@@ -152185,8 +152185,8 @@
          "_cc"
       ],
       "comments": "1",
-      "rating": "3",
-      "votes": "3",
+      "rating": "4",
+      "votes": "4",
       "parent": "scp-anthology-2024",
       "id": "1467201686",
       "detailed_rating": {
@@ -152202,12 +152202,16 @@
             [
                "5370805",
                1764608366
+            ],
+            [
+               "8033564",
+               1766933607
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 3,
-      "justified_votes": 3
+      "justified_rating": 4,
+      "justified_votes": 4
    },
    "1764582342": {
       "title": "SCP-9190 - 恆常使用清潔劑之裨益",
