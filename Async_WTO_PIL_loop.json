@@ -2471,8 +2471,8 @@
          "_禁黑"
       ],
       "comments": "11",
-      "rating": "4",
-      "votes": "4",
+      "rating": "5",
+      "votes": "5",
       "parent": null,
       "id": "825206944",
       "detailed_rating": {
@@ -2492,12 +2492,16 @@
             [
                "9311399",
                1726415555
+            ],
+            [
+               "5433477",
+               1766936404
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 4,
-      "justified_votes": 4
+      "justified_rating": 5,
+      "justified_votes": 5
    },
    "1561994952": {
       "title": "Vomiter的資料夾",
