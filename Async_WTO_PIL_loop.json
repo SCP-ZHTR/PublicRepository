@@ -20713,5 +20713,22 @@
       "deleted": true,
       "justified_rating": 0,
       "justified_votes": 0
+   },
+   "1767134477": {
+      "title": "一封由聖誕貓頭鷹寄給台灣的信",
+      "fullname": "art:kus-vh-zh-event-gallery",
+      "created_at": "1767134477",
+      "created_by": "5370805",
+      "tags": [],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1467946077",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
