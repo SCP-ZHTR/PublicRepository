@@ -53884,8 +53884,8 @@
          "_cc"
       ],
       "comments": "0",
-      "rating": "5",
-      "votes": "5",
+      "rating": "6",
+      "votes": "6",
       "parent": null,
       "id": "1306124915",
       "detailed_rating": {
@@ -53909,12 +53909,16 @@
             [
                "5013754",
                1617120000
+            ],
+            [
+               "9758462",
+               1767096898
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 5,
-      "justified_votes": 5
+      "justified_rating": 6,
+      "justified_votes": 6
    },
    "1607426896": {
       "title": "關於心宿二協會的報告",
