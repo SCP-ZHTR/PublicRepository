@@ -24379,7 +24379,7 @@
       "parent": "scp-6969-j",
       "id": "1451898796",
       "detailed_rating": {},
-      "deleted": true,
+      "deleted": false,
       "justified_rating": 0,
       "justified_votes": 0
    },
@@ -24401,7 +24401,7 @@
       "parent": null,
       "id": "1451969288",
       "detailed_rating": {},
-      "deleted": true,
+      "deleted": false,
       "justified_rating": 0,
       "justified_votes": 0
    },
@@ -24486,7 +24486,7 @@
       "parent": "scp-101-vn",
       "id": "1452232995",
       "detailed_rating": {},
-      "deleted": true,
+      "deleted": false,
       "justified_rating": 0,
       "justified_votes": 0
    },
@@ -24507,7 +24507,7 @@
       "parent": "scp-101-vn",
       "id": "1452232996",
       "detailed_rating": {},
-      "deleted": true,
+      "deleted": false,
       "justified_rating": 0,
       "justified_votes": 0
    },
@@ -24528,7 +24528,7 @@
       "parent": "scp-101-vn",
       "id": "1452232997",
       "detailed_rating": {},
-      "deleted": true,
+      "deleted": false,
       "justified_rating": 0,
       "justified_votes": 0
    },
@@ -24549,7 +24549,7 @@
       "parent": "scp-101-vn",
       "id": "1452232999",
       "detailed_rating": {},
-      "deleted": true,
+      "deleted": false,
       "justified_rating": 0,
       "justified_votes": 0
    },
@@ -24587,7 +24587,7 @@
       "parent": null,
       "id": "1452521544",
       "detailed_rating": {},
-      "deleted": true,
+      "deleted": false,
       "justified_rating": 0,
       "justified_votes": 0
    },
@@ -24604,7 +24604,7 @@
       "parent": null,
       "id": "1452521545",
       "detailed_rating": {},
-      "deleted": true,
+      "deleted": false,
       "justified_rating": 0,
       "justified_votes": 0
    },
@@ -24621,7 +24621,7 @@
       "parent": null,
       "id": "1452521585",
       "detailed_rating": {},
-      "deleted": true,
+      "deleted": false,
       "justified_rating": 0,
       "justified_votes": 0
    },
@@ -24638,7 +24638,7 @@
       "parent": null,
       "id": "1452521586",
       "detailed_rating": {},
-      "deleted": true,
+      "deleted": false,
       "justified_rating": 0,
       "justified_votes": 0
    },
@@ -24718,7 +24718,7 @@
       "parent": "scp-7547",
       "id": "1452566518",
       "detailed_rating": {},
-      "deleted": true,
+      "deleted": false,
       "justified_rating": 0,
       "justified_votes": 0
    },
@@ -24738,7 +24738,7 @@
       "parent": "scp-7547",
       "id": "1452566521",
       "detailed_rating": {},
-      "deleted": true,
+      "deleted": false,
       "justified_rating": 0,
       "justified_votes": 0
    },
@@ -24758,7 +24758,7 @@
       "parent": "scp-7547",
       "id": "1452566523",
       "detailed_rating": {},
-      "deleted": true,
+      "deleted": false,
       "justified_rating": 0,
       "justified_votes": 0
    },
@@ -24778,7 +24778,7 @@
       "parent": "scp-7547",
       "id": "1452566527",
       "detailed_rating": {},
-      "deleted": true,
+      "deleted": false,
       "justified_rating": 0,
       "justified_votes": 0
    },
@@ -24798,7 +24798,7 @@
       "parent": "scp-7547",
       "id": "1452566530",
       "detailed_rating": {},
-      "deleted": true,
+      "deleted": false,
       "justified_rating": 0,
       "justified_votes": 0
    },
@@ -24818,7 +24818,7 @@
       "parent": "scp-7547",
       "id": "1452566532",
       "detailed_rating": {},
-      "deleted": true,
+      "deleted": false,
       "justified_rating": 0,
       "justified_votes": 0
    },
@@ -24838,7 +24838,7 @@
       "parent": "scp-7547",
       "id": "1452566535",
       "detailed_rating": {},
-      "deleted": true,
+      "deleted": false,
       "justified_rating": 0,
       "justified_votes": 0
    },
@@ -24934,7 +24934,7 @@
             ]
          ]
       },
-      "deleted": true,
+      "deleted": false,
       "justified_rating": 1,
       "justified_votes": 1
    },
@@ -25066,7 +25066,7 @@
       "parent": "for-the-curse-of-us",
       "id": "1452846825",
       "detailed_rating": {},
-      "deleted": true,
+      "deleted": false,
       "justified_rating": 0,
       "justified_votes": 0
    },
@@ -25085,7 +25085,7 @@
       "parent": "for-the-curse-of-us",
       "id": "1452846827",
       "detailed_rating": {},
-      "deleted": true,
+      "deleted": false,
       "justified_rating": 0,
       "justified_votes": 0
    },
@@ -25104,7 +25104,7 @@
       "parent": "for-the-curse-of-us",
       "id": "1452846859",
       "detailed_rating": {},
-      "deleted": true,
+      "deleted": false,
       "justified_rating": 0,
       "justified_votes": 0
    },
@@ -25121,7 +25121,7 @@
       "parent": "radiw",
       "id": "1452878150",
       "detailed_rating": {},
-      "deleted": true,
+      "deleted": false,
       "justified_rating": 0,
       "justified_votes": 0
    },
@@ -25138,7 +25138,7 @@
       "parent": "radiw",
       "id": "1452878153",
       "detailed_rating": {},
-      "deleted": true,
+      "deleted": false,
       "justified_rating": 0,
       "justified_votes": 0
    },
@@ -25266,7 +25266,7 @@
             ]
          ]
       },
-      "deleted": true,
+      "deleted": false,
       "justified_rating": 1,
       "justified_votes": 1
    },
@@ -26130,7 +26130,7 @@
       "parent": "scp-zh-469",
       "id": "1453836729",
       "detailed_rating": {},
-      "deleted": true,
+      "deleted": false,
       "justified_rating": 0,
       "justified_votes": 0
    },
@@ -26149,7 +26149,7 @@
       "parent": "scp-zh-469",
       "id": "1453836730",
       "detailed_rating": {},
-      "deleted": true,
+      "deleted": false,
       "justified_rating": 0,
       "justified_votes": 0
    },
@@ -26394,7 +26394,7 @@
       "parent": "scp-zh-930",
       "id": "1454060320",
       "detailed_rating": {},
-      "deleted": true,
+      "deleted": false,
       "justified_rating": 0,
       "justified_votes": 0
    },
@@ -26411,7 +26411,7 @@
       "parent": "scp-zh-930",
       "id": "1454060321",
       "detailed_rating": {},
-      "deleted": true,
+      "deleted": false,
       "justified_rating": 0,
       "justified_votes": 0
    },
@@ -26575,7 +26575,7 @@
       "parent": "youmedennysnow",
       "id": "1455858278",
       "detailed_rating": {},
-      "deleted": true,
+      "deleted": false,
       "justified_rating": 0,
       "justified_votes": 0
    },
@@ -26592,7 +26592,7 @@
       "parent": "youmedennysnow",
       "id": "1455858279",
       "detailed_rating": {},
-      "deleted": true,
+      "deleted": false,
       "justified_rating": 0,
       "justified_votes": 0
    },
@@ -26956,7 +26956,7 @@
             ]
          ]
       },
-      "deleted": true,
+      "deleted": false,
       "justified_rating": 2,
       "justified_votes": 2
    },
@@ -27024,7 +27024,7 @@
       "parent": "scp-zh-986",
       "id": "1455950470",
       "detailed_rating": {},
-      "deleted": true,
+      "deleted": false,
       "justified_rating": 0,
       "justified_votes": 0
    },
@@ -27041,7 +27041,7 @@
       "parent": "scp-zh-986",
       "id": "1455950471",
       "detailed_rating": {},
-      "deleted": true,
+      "deleted": false,
       "justified_rating": 0,
       "justified_votes": 0
    },
@@ -27077,7 +27077,7 @@
       "parent": null,
       "id": "1456084743",
       "detailed_rating": {},
-      "deleted": true,
+      "deleted": false,
       "justified_rating": 0,
       "justified_votes": 0
    },
@@ -27111,7 +27111,7 @@
       "parent": "scp-zh-420",
       "id": "1456249951",
       "detailed_rating": {},
-      "deleted": true,
+      "deleted": false,
       "justified_rating": 0,
       "justified_votes": 0
    },
@@ -27128,7 +27128,7 @@
       "parent": "scp-zh-420",
       "id": "1456249952",
       "detailed_rating": {},
-      "deleted": true,
+      "deleted": false,
       "justified_rating": 0,
       "justified_votes": 0
    },
@@ -27145,7 +27145,7 @@
       "parent": "scp-zh-420",
       "id": "1456249953",
       "detailed_rating": {},
-      "deleted": true,
+      "deleted": false,
       "justified_rating": 0,
       "justified_votes": 0
    },
@@ -27162,7 +27162,7 @@
       "parent": "scp-zh-420",
       "id": "1456249957",
       "detailed_rating": {},
-      "deleted": true,
+      "deleted": false,
       "justified_rating": 0,
       "justified_votes": 0
    },
@@ -27179,7 +27179,7 @@
       "parent": "scp-zh-420",
       "id": "1456250071",
       "detailed_rating": {},
-      "deleted": true,
+      "deleted": false,
       "justified_rating": 0,
       "justified_votes": 0
    },
@@ -27315,7 +27315,7 @@
       "parent": "scp-zh-802",
       "id": "1456473592",
       "detailed_rating": {},
-      "deleted": true,
+      "deleted": false,
       "justified_rating": 0,
       "justified_votes": 0
    },
@@ -27332,7 +27332,7 @@
       "parent": "scp-zh-802",
       "id": "1456473704",
       "detailed_rating": {},
-      "deleted": true,
+      "deleted": false,
       "justified_rating": 0,
       "justified_votes": 0
    },
@@ -27349,7 +27349,7 @@
       "parent": "scp-zh-802",
       "id": "1456473805",
       "detailed_rating": {},
-      "deleted": true,
+      "deleted": false,
       "justified_rating": 0,
       "justified_votes": 0
    },
@@ -27366,7 +27366,7 @@
       "parent": "scp-zh-802",
       "id": "1456473808",
       "detailed_rating": {},
-      "deleted": true,
+      "deleted": false,
       "justified_rating": 0,
       "justified_votes": 0
    },
@@ -27383,7 +27383,7 @@
       "parent": "scp-zh-802",
       "id": "1456473811",
       "detailed_rating": {},
-      "deleted": true,
+      "deleted": false,
       "justified_rating": 0,
       "justified_votes": 0
    },
@@ -27400,7 +27400,7 @@
       "parent": "scp-zh-802",
       "id": "1456473812",
       "detailed_rating": {},
-      "deleted": true,
+      "deleted": false,
       "justified_rating": 0,
       "justified_votes": 0
    },
@@ -27417,7 +27417,7 @@
       "parent": null,
       "id": "1456479036",
       "detailed_rating": {},
-      "deleted": true,
+      "deleted": false,
       "justified_rating": 0,
       "justified_votes": 0
    },
@@ -27434,7 +27434,7 @@
       "parent": "scp-zh-792",
       "id": "1456512961",
       "detailed_rating": {},
-      "deleted": true,
+      "deleted": false,
       "justified_rating": 0,
       "justified_votes": 0
    },
@@ -27451,7 +27451,7 @@
       "parent": "scp-zh-792",
       "id": "1456512992",
       "detailed_rating": {},
-      "deleted": true,
+      "deleted": false,
       "justified_rating": 0,
       "justified_votes": 0
    },
@@ -27506,7 +27506,7 @@
       "parent": null,
       "id": "1456565723",
       "detailed_rating": {},
-      "deleted": true,
+      "deleted": false,
       "justified_rating": 0,
       "justified_votes": 0
    },
@@ -27525,7 +27525,7 @@
       "parent": "scp-zh-850",
       "id": "1456581393",
       "detailed_rating": {},
-      "deleted": true,
+      "deleted": false,
       "justified_rating": 0,
       "justified_votes": 0
    },
@@ -27544,7 +27544,7 @@
       "parent": "scp-zh-850",
       "id": "1456581395",
       "detailed_rating": {},
-      "deleted": true,
+      "deleted": false,
       "justified_rating": 0,
       "justified_votes": 0
    },
@@ -27563,7 +27563,7 @@
       "parent": "scp-zh-850",
       "id": "1456581396",
       "detailed_rating": {},
-      "deleted": true,
+      "deleted": false,
       "justified_rating": 0,
       "justified_votes": 0
    },
@@ -27614,7 +27614,7 @@
       "parent": "deleted:radiw-no-kitakit-1",
       "id": "1456612584",
       "detailed_rating": {},
-      "deleted": true,
+      "deleted": false,
       "justified_rating": 0,
       "justified_votes": 0
    },
@@ -27631,7 +27631,7 @@
       "parent": "deleted:radiw-no-kitakit-1",
       "id": "1456612585",
       "detailed_rating": {},
-      "deleted": true,
+      "deleted": false,
       "justified_rating": 0,
       "justified_votes": 0
    },
@@ -27648,7 +27648,7 @@
       "parent": "deleted:radiw-no-kitakit-1",
       "id": "1456612587",
       "detailed_rating": {},
-      "deleted": true,
+      "deleted": false,
       "justified_rating": 0,
       "justified_votes": 0
    },
@@ -27665,7 +27665,7 @@
       "parent": "deleted:radiw-no-kitakit-1",
       "id": "1456612591",
       "detailed_rating": {},
-      "deleted": true,
+      "deleted": false,
       "justified_rating": 0,
       "justified_votes": 0
    },
@@ -27682,7 +27682,7 @@
       "parent": "deleted:radiw-no-kitakit-1",
       "id": "1456612596",
       "detailed_rating": {},
-      "deleted": true,
+      "deleted": false,
       "justified_rating": 0,
       "justified_votes": 0
    },
@@ -27699,7 +27699,7 @@
       "parent": "deleted:radiw-no-kitakit-1",
       "id": "1456612597",
       "detailed_rating": {},
-      "deleted": true,
+      "deleted": false,
       "justified_rating": 0,
       "justified_votes": 0
    },
@@ -27917,7 +27917,7 @@
       "parent": "scp-5451",
       "id": "1456913777",
       "detailed_rating": {},
-      "deleted": true,
+      "deleted": false,
       "justified_rating": 0,
       "justified_votes": 0
    },
@@ -27934,7 +27934,7 @@
       "parent": "scp-5451",
       "id": "1456913779",
       "detailed_rating": {},
-      "deleted": true,
+      "deleted": false,
       "justified_rating": 0,
       "justified_votes": 0
    },
@@ -27951,7 +27951,7 @@
       "parent": "scp-5451",
       "id": "1456913808",
       "detailed_rating": {},
-      "deleted": true,
+      "deleted": false,
       "justified_rating": 0,
       "justified_votes": 0
    },
@@ -28019,7 +28019,7 @@
       "parent": "deleted:o-nokay-ni-cidal",
       "id": "1456960309",
       "detailed_rating": {},
-      "deleted": true,
+      "deleted": false,
       "justified_rating": 0,
       "justified_votes": 0
    },
@@ -28036,7 +28036,7 @@
       "parent": "deleted:o-nokay-ni-cidal",
       "id": "1456960311",
       "detailed_rating": {},
-      "deleted": true,
+      "deleted": false,
       "justified_rating": 0,
       "justified_votes": 0
    },
@@ -28053,7 +28053,7 @@
       "parent": "deleted:o-nokay-ni-cidal",
       "id": "1456960313",
       "detailed_rating": {},
-      "deleted": true,
+      "deleted": false,
       "justified_rating": 0,
       "justified_votes": 0
    },
@@ -28070,7 +28070,7 @@
       "parent": null,
       "id": "1456964497",
       "detailed_rating": {},
-      "deleted": true,
+      "deleted": false,
       "justified_rating": 0,
       "justified_votes": 0
    },
@@ -28087,7 +28087,7 @@
       "parent": null,
       "id": "1456964563",
       "detailed_rating": {},
-      "deleted": true,
+      "deleted": false,
       "justified_rating": 0,
       "justified_votes": 0
    },
@@ -28121,7 +28121,7 @@
       "parent": null,
       "id": "1457011982",
       "detailed_rating": {},
-      "deleted": true,
+      "deleted": false,
       "justified_rating": 0,
       "justified_votes": 0
    },
@@ -28481,7 +28481,7 @@
       "parent": null,
       "id": "1457436061",
       "detailed_rating": {},
-      "deleted": true,
+      "deleted": false,
       "justified_rating": 0,
       "justified_votes": 0
    },
@@ -28501,7 +28501,7 @@
       "parent": null,
       "id": "1457456068",
       "detailed_rating": {},
-      "deleted": true,
+      "deleted": false,
       "justified_rating": 0,
       "justified_votes": 0
    },
@@ -28521,7 +28521,7 @@
       "parent": null,
       "id": "1457456072",
       "detailed_rating": {},
-      "deleted": true,
+      "deleted": false,
       "justified_rating": 0,
       "justified_votes": 0
    },
@@ -28541,7 +28541,7 @@
       "parent": null,
       "id": "1457456079",
       "detailed_rating": {},
-      "deleted": true,
+      "deleted": false,
       "justified_rating": 0,
       "justified_votes": 0
    },
@@ -28561,7 +28561,7 @@
       "parent": null,
       "id": "1457456080",
       "detailed_rating": {},
-      "deleted": true,
+      "deleted": false,
       "justified_rating": 0,
       "justified_votes": 0
    },
@@ -28581,7 +28581,7 @@
       "parent": null,
       "id": "1457456085",
       "detailed_rating": {},
-      "deleted": true,
+      "deleted": false,
       "justified_rating": 0,
       "justified_votes": 0
    },
@@ -28601,7 +28601,7 @@
       "parent": null,
       "id": "1457456089",
       "detailed_rating": {},
-      "deleted": true,
+      "deleted": false,
       "justified_rating": 0,
       "justified_votes": 0
    },
@@ -28621,7 +28621,7 @@
       "parent": null,
       "id": "1457456151",
       "detailed_rating": {},
-      "deleted": true,
+      "deleted": false,
       "justified_rating": 0,
       "justified_votes": 0
    },
@@ -28641,7 +28641,7 @@
       "parent": null,
       "id": "1457456156",
       "detailed_rating": {},
-      "deleted": true,
+      "deleted": false,
       "justified_rating": 0,
       "justified_votes": 0
    },
@@ -28661,7 +28661,7 @@
       "parent": null,
       "id": "1457456160",
       "detailed_rating": {},
-      "deleted": true,
+      "deleted": false,
       "justified_rating": 0,
       "justified_votes": 0
    },
@@ -28681,7 +28681,7 @@
       "parent": null,
       "id": "1457456192",
       "detailed_rating": {},
-      "deleted": true,
+      "deleted": false,
       "justified_rating": 0,
       "justified_votes": 0
    },
@@ -28701,7 +28701,7 @@
       "parent": null,
       "id": "1457456195",
       "detailed_rating": {},
-      "deleted": true,
+      "deleted": false,
       "justified_rating": 0,
       "justified_votes": 0
    },
@@ -28721,7 +28721,7 @@
       "parent": null,
       "id": "1457456196",
       "detailed_rating": {},
-      "deleted": true,
+      "deleted": false,
       "justified_rating": 0,
       "justified_votes": 0
    },
@@ -28741,7 +28741,7 @@
       "parent": null,
       "id": "1457456197",
       "detailed_rating": {},
-      "deleted": true,
+      "deleted": false,
       "justified_rating": 0,
       "justified_votes": 0
    },
@@ -28761,7 +28761,7 @@
       "parent": null,
       "id": "1457456200",
       "detailed_rating": {},
-      "deleted": true,
+      "deleted": false,
       "justified_rating": 0,
       "justified_votes": 0
    },
@@ -28781,7 +28781,7 @@
       "parent": null,
       "id": "1457456241",
       "detailed_rating": {},
-      "deleted": true,
+      "deleted": false,
       "justified_rating": 0,
       "justified_votes": 0
    },
@@ -28801,7 +28801,7 @@
       "parent": null,
       "id": "1457456244",
       "detailed_rating": {},
-      "deleted": true,
+      "deleted": false,
       "justified_rating": 0,
       "justified_votes": 0
    },
@@ -28821,7 +28821,7 @@
       "parent": null,
       "id": "1457456249",
       "detailed_rating": {},
-      "deleted": true,
+      "deleted": false,
       "justified_rating": 0,
       "justified_votes": 0
    },
@@ -28841,7 +28841,7 @@
       "parent": null,
       "id": "1457456254",
       "detailed_rating": {},
-      "deleted": true,
+      "deleted": false,
       "justified_rating": 0,
       "justified_votes": 0
    },
@@ -28861,7 +28861,7 @@
       "parent": null,
       "id": "1457456258",
       "detailed_rating": {},
-      "deleted": true,
+      "deleted": false,
       "justified_rating": 0,
       "justified_votes": 0
    },
@@ -28881,7 +28881,7 @@
       "parent": null,
       "id": "1457456260",
       "detailed_rating": {},
-      "deleted": true,
+      "deleted": false,
       "justified_rating": 0,
       "justified_votes": 0
    },
@@ -28901,7 +28901,7 @@
       "parent": null,
       "id": "1457456303",
       "detailed_rating": {},
-      "deleted": true,
+      "deleted": false,
       "justified_rating": 0,
       "justified_votes": 0
    },
@@ -28938,7 +28938,7 @@
       "parent": null,
       "id": "1457456308",
       "detailed_rating": {},
-      "deleted": true,
+      "deleted": false,
       "justified_rating": 0,
       "justified_votes": 0
    },
@@ -28958,7 +28958,7 @@
       "parent": null,
       "id": "1457456314",
       "detailed_rating": {},
-      "deleted": true,
+      "deleted": false,
       "justified_rating": 0,
       "justified_votes": 0
    },
@@ -28978,7 +28978,7 @@
       "parent": null,
       "id": "1457456346",
       "detailed_rating": {},
-      "deleted": true,
+      "deleted": false,
       "justified_rating": 0,
       "justified_votes": 0
    },
@@ -28998,7 +28998,7 @@
       "parent": null,
       "id": "1457456349",
       "detailed_rating": {},
-      "deleted": true,
+      "deleted": false,
       "justified_rating": 0,
       "justified_votes": 0
    },
@@ -29018,7 +29018,7 @@
       "parent": null,
       "id": "1457456351",
       "detailed_rating": {},
-      "deleted": true,
+      "deleted": false,
       "justified_rating": 0,
       "justified_votes": 0
    },
@@ -29038,7 +29038,7 @@
       "parent": null,
       "id": "1457456354",
       "detailed_rating": {},
-      "deleted": true,
+      "deleted": false,
       "justified_rating": 0,
       "justified_votes": 0
    },
@@ -29058,7 +29058,7 @@
       "parent": null,
       "id": "1457456355",
       "detailed_rating": {},
-      "deleted": true,
+      "deleted": false,
       "justified_rating": 0,
       "justified_votes": 0
    },
@@ -29078,7 +29078,7 @@
       "parent": null,
       "id": "1457456369",
       "detailed_rating": {},
-      "deleted": true,
+      "deleted": false,
       "justified_rating": 0,
       "justified_votes": 0
    },
@@ -29098,7 +29098,7 @@
       "parent": null,
       "id": "1457456371",
       "detailed_rating": {},
-      "deleted": true,
+      "deleted": false,
       "justified_rating": 0,
       "justified_votes": 0
    },
@@ -29118,7 +29118,7 @@
       "parent": null,
       "id": "1457456373",
       "detailed_rating": {},
-      "deleted": true,
+      "deleted": false,
       "justified_rating": 0,
       "justified_votes": 0
    },
@@ -29138,7 +29138,7 @@
       "parent": null,
       "id": "1457456375",
       "detailed_rating": {},
-      "deleted": true,
+      "deleted": false,
       "justified_rating": 0,
       "justified_votes": 0
    },
@@ -29158,7 +29158,7 @@
       "parent": null,
       "id": "1457456378",
       "detailed_rating": {},
-      "deleted": true,
+      "deleted": false,
       "justified_rating": 0,
       "justified_votes": 0
    },
@@ -29178,7 +29178,7 @@
       "parent": null,
       "id": "1457456383",
       "detailed_rating": {},
-      "deleted": true,
+      "deleted": false,
       "justified_rating": 0,
       "justified_votes": 0
    },
@@ -29198,7 +29198,7 @@
       "parent": null,
       "id": "1457456388",
       "detailed_rating": {},
-      "deleted": true,
+      "deleted": false,
       "justified_rating": 0,
       "justified_votes": 0
    },
@@ -29218,7 +29218,7 @@
       "parent": null,
       "id": "1457456389",
       "detailed_rating": {},
-      "deleted": true,
+      "deleted": false,
       "justified_rating": 0,
       "justified_votes": 0
    },
@@ -29238,7 +29238,7 @@
       "parent": null,
       "id": "1457456391",
       "detailed_rating": {},
-      "deleted": true,
+      "deleted": false,
       "justified_rating": 0,
       "justified_votes": 0
    },
@@ -29258,7 +29258,7 @@
       "parent": null,
       "id": "1457456395",
       "detailed_rating": {},
-      "deleted": true,
+      "deleted": false,
       "justified_rating": 0,
       "justified_votes": 0
    },
@@ -29375,7 +29375,7 @@
             ]
          ]
       },
-      "deleted": true,
+      "deleted": false,
       "justified_rating": 2,
       "justified_votes": 2
    },
@@ -29392,7 +29392,7 @@
       "parent": null,
       "id": "1458177717",
       "detailed_rating": {},
-      "deleted": true,
+      "deleted": false,
       "justified_rating": 0,
       "justified_votes": 0
    },
@@ -29412,7 +29412,7 @@
       "parent": null,
       "id": "1458221770",
       "detailed_rating": {},
-      "deleted": true,
+      "deleted": false,
       "justified_rating": 0,
       "justified_votes": 0
    },
@@ -29432,7 +29432,7 @@
       "parent": null,
       "id": "1458221817",
       "detailed_rating": {},
-      "deleted": true,
+      "deleted": false,
       "justified_rating": 0,
       "justified_votes": 0
    },
@@ -29452,7 +29452,7 @@
       "parent": null,
       "id": "1458222893",
       "detailed_rating": {},
-      "deleted": true,
+      "deleted": false,
       "justified_rating": 0,
       "justified_votes": 0
    },
@@ -29472,7 +29472,7 @@
       "parent": null,
       "id": "1458226324",
       "detailed_rating": {},
-      "deleted": true,
+      "deleted": false,
       "justified_rating": 0,
       "justified_votes": 0
    },
@@ -29492,7 +29492,7 @@
       "parent": null,
       "id": "1458228709",
       "detailed_rating": {},
-      "deleted": true,
+      "deleted": false,
       "justified_rating": 0,
       "justified_votes": 0
    },
@@ -29509,7 +29509,7 @@
       "parent": null,
       "id": "1458228710",
       "detailed_rating": {},
-      "deleted": true,
+      "deleted": false,
       "justified_rating": 0,
       "justified_votes": 0
    },
@@ -29529,7 +29529,7 @@
       "parent": null,
       "id": "1458230056",
       "detailed_rating": {},
-      "deleted": true,
+      "deleted": false,
       "justified_rating": 0,
       "justified_votes": 0
    },
@@ -29549,7 +29549,7 @@
       "parent": null,
       "id": "1458230456",
       "detailed_rating": {},
-      "deleted": true,
+      "deleted": false,
       "justified_rating": 0,
       "justified_votes": 0
    },
@@ -29569,7 +29569,7 @@
       "parent": null,
       "id": "1458230493",
       "detailed_rating": {},
-      "deleted": true,
+      "deleted": false,
       "justified_rating": 0,
       "justified_votes": 0
    },
@@ -29589,7 +29589,7 @@
       "parent": null,
       "id": "1458230560",
       "detailed_rating": {},
-      "deleted": true,
+      "deleted": false,
       "justified_rating": 0,
       "justified_votes": 0
    },
@@ -29609,7 +29609,7 @@
       "parent": null,
       "id": "1458231913",
       "detailed_rating": {},
-      "deleted": true,
+      "deleted": false,
       "justified_rating": 0,
       "justified_votes": 0
    },
@@ -29629,7 +29629,7 @@
       "parent": null,
       "id": "1458232093",
       "detailed_rating": {},
-      "deleted": true,
+      "deleted": false,
       "justified_rating": 0,
       "justified_votes": 0
    },
@@ -29649,7 +29649,7 @@
       "parent": null,
       "id": "1458232096",
       "detailed_rating": {},
-      "deleted": true,
+      "deleted": false,
       "justified_rating": 0,
       "justified_votes": 0
    },
@@ -29669,7 +29669,7 @@
       "parent": null,
       "id": "1458233912",
       "detailed_rating": {},
-      "deleted": true,
+      "deleted": false,
       "justified_rating": 0,
       "justified_votes": 0
    },
@@ -29689,7 +29689,7 @@
       "parent": null,
       "id": "1458236118",
       "detailed_rating": {},
-      "deleted": true,
+      "deleted": false,
       "justified_rating": 0,
       "justified_votes": 0
    },
@@ -29709,7 +29709,7 @@
       "parent": null,
       "id": "1458236120",
       "detailed_rating": {},
-      "deleted": true,
+      "deleted": false,
       "justified_rating": 0,
       "justified_votes": 0
    },
@@ -29729,7 +29729,7 @@
       "parent": null,
       "id": "1458236124",
       "detailed_rating": {},
-      "deleted": true,
+      "deleted": false,
       "justified_rating": 0,
       "justified_votes": 0
    },
@@ -29749,7 +29749,7 @@
       "parent": null,
       "id": "1458236161",
       "detailed_rating": {},
-      "deleted": true,
+      "deleted": false,
       "justified_rating": 0,
       "justified_votes": 0
    },
@@ -29769,7 +29769,7 @@
       "parent": null,
       "id": "1458249101",
       "detailed_rating": {},
-      "deleted": true,
+      "deleted": false,
       "justified_rating": 0,
       "justified_votes": 0
    },
@@ -29789,7 +29789,7 @@
       "parent": null,
       "id": "1458249103",
       "detailed_rating": {},
-      "deleted": true,
+      "deleted": false,
       "justified_rating": 0,
       "justified_votes": 0
    },
@@ -29809,7 +29809,7 @@
       "parent": null,
       "id": "1458266126",
       "detailed_rating": {},
-      "deleted": true,
+      "deleted": false,
       "justified_rating": 0,
       "justified_votes": 0
    },
@@ -29829,7 +29829,7 @@
       "parent": null,
       "id": "1458266199",
       "detailed_rating": {},
-      "deleted": true,
+      "deleted": false,
       "justified_rating": 0,
       "justified_votes": 0
    },
@@ -29849,7 +29849,7 @@
       "parent": null,
       "id": "1458266248",
       "detailed_rating": {},
-      "deleted": true,
+      "deleted": false,
       "justified_rating": 0,
       "justified_votes": 0
    },
@@ -29869,7 +29869,7 @@
       "parent": null,
       "id": "1458290126",
       "detailed_rating": {},
-      "deleted": true,
+      "deleted": false,
       "justified_rating": 0,
       "justified_votes": 0
    },
@@ -29889,7 +29889,7 @@
       "parent": null,
       "id": "1458290128",
       "detailed_rating": {},
-      "deleted": true,
+      "deleted": false,
       "justified_rating": 0,
       "justified_votes": 0
    },
@@ -29909,7 +29909,7 @@
       "parent": null,
       "id": "1458290129",
       "detailed_rating": {},
-      "deleted": true,
+      "deleted": false,
       "justified_rating": 0,
       "justified_votes": 0
    },
@@ -29929,7 +29929,7 @@
       "parent": null,
       "id": "1458290130",
       "detailed_rating": {},
-      "deleted": true,
+      "deleted": false,
       "justified_rating": 0,
       "justified_votes": 0
    },
@@ -29949,7 +29949,7 @@
       "parent": null,
       "id": "1458290131",
       "detailed_rating": {},
-      "deleted": true,
+      "deleted": false,
       "justified_rating": 0,
       "justified_votes": 0
    },
@@ -29969,7 +29969,7 @@
       "parent": null,
       "id": "1458290132",
       "detailed_rating": {},
-      "deleted": true,
+      "deleted": false,
       "justified_rating": 0,
       "justified_votes": 0
    },
@@ -29989,7 +29989,7 @@
       "parent": null,
       "id": "1458290133",
       "detailed_rating": {},
-      "deleted": true,
+      "deleted": false,
       "justified_rating": 0,
       "justified_votes": 0
    },
@@ -30009,7 +30009,7 @@
       "parent": null,
       "id": "1458290134",
       "detailed_rating": {},
-      "deleted": true,
+      "deleted": false,
       "justified_rating": 0,
       "justified_votes": 0
    },
@@ -30029,7 +30029,7 @@
       "parent": null,
       "id": "1458290257",
       "detailed_rating": {},
-      "deleted": true,
+      "deleted": false,
       "justified_rating": 0,
       "justified_votes": 0
    },
@@ -30049,7 +30049,7 @@
       "parent": null,
       "id": "1458290264",
       "detailed_rating": {},
-      "deleted": true,
+      "deleted": false,
       "justified_rating": 0,
       "justified_votes": 0
    },
@@ -32060,7 +32060,7 @@
             ]
          ]
       },
-      "deleted": true,
+      "deleted": false,
       "justified_rating": 19,
       "justified_votes": 19
    },
@@ -32138,7 +32138,7 @@
             ]
          ]
       },
-      "deleted": true,
+      "deleted": false,
       "justified_rating": 14,
       "justified_votes": 14
    },
@@ -32212,7 +32212,7 @@
             ]
          ]
       },
-      "deleted": true,
+      "deleted": false,
       "justified_rating": 13,
       "justified_votes": 13
    },
@@ -32302,7 +32302,7 @@
             ]
          ]
       },
-      "deleted": true,
+      "deleted": false,
       "justified_rating": 17,
       "justified_votes": 17
    },
@@ -32380,7 +32380,7 @@
             ]
          ]
       },
-      "deleted": true,
+      "deleted": false,
       "justified_rating": 14,
       "justified_votes": 14
    },
@@ -32454,7 +32454,7 @@
             ]
          ]
       },
-      "deleted": true,
+      "deleted": false,
       "justified_rating": 13,
       "justified_votes": 13
    },
@@ -32516,7 +32516,7 @@
             ]
          ]
       },
-      "deleted": true,
+      "deleted": false,
       "justified_rating": 10,
       "justified_votes": 10
    },
@@ -32626,7 +32626,7 @@
             ]
          ]
       },
-      "deleted": true,
+      "deleted": false,
       "justified_rating": 22,
       "justified_votes": 22
    },
@@ -33352,7 +33352,7 @@
             ]
          ]
       },
-      "deleted": true,
+      "deleted": false,
       "justified_rating": 16,
       "justified_votes": 16
    },
