@@ -152434,14 +152434,21 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "0",
-      "votes": "0",
+      "rating": "1",
+      "votes": "1",
       "parent": null,
       "id": "1467946083",
-      "detailed_rating": {},
+      "detailed_rating": {
+         "+": [
+            [
+               "4990678",
+               1767137896
+            ]
+         ]
+      },
       "deleted": false,
-      "justified_rating": 0,
-      "justified_votes": 0
+      "justified_rating": 1,
+      "justified_votes": 1
    },
    "1767135338": {
       "title": "受絞之王",
