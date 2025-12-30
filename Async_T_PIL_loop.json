@@ -152480,10 +152480,40 @@
       ],
       "hidden_tags": [],
       "comments": "0",
+      "rating": "1",
+      "votes": "1",
+      "parent": null,
+      "id": "1467946131",
+      "detailed_rating": {
+         "+": [
+            [
+               "4990678",
+               1767137191
+            ]
+         ]
+      },
+      "deleted": false,
+      "justified_rating": 1,
+      "justified_votes": 1
+   },
+   "1767136927": {
+      "title": "MnCo的聖誕禮物",
+      "fullname": "art:vnxzh-mnco",
+      "created_at": "1767136927",
+      "created_by": "5370805",
+      "tags": [
+         "vn",
+         "二次翻譯",
+         "翻譯",
+         "聖夜越夜耶",
+         "藝術作品"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
       "rating": "0",
       "votes": "0",
       "parent": null,
-      "id": "1467946131",
+      "id": "1467946135",
       "detailed_rating": {},
       "deleted": false,
       "justified_rating": 0,
