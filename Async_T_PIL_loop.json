@@ -152464,8 +152464,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "1",
-      "votes": "1",
+      "rating": "2",
+      "votes": "2",
       "parent": null,
       "id": "1467946089",
       "detailed_rating": {
@@ -152473,12 +152473,16 @@
             [
                "4990678",
                1767138042
+            ],
+            [
+               "6088232",
+               1767145619
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 1,
-      "justified_votes": 1
+      "justified_rating": 2,
+      "justified_votes": 2
    },
    "1767136145": {
       "title": "背痛手痛的聖誕老人送出的禮物",
@@ -152494,8 +152498,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "1",
-      "votes": "1",
+      "rating": "2",
+      "votes": "2",
       "parent": null,
       "id": "1467946131",
       "detailed_rating": {
@@ -152503,12 +152507,16 @@
             [
                "4990678",
                1767137191
+            ],
+            [
+               "6088232",
+               1767145619
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 1,
-      "justified_votes": 1
+      "justified_rating": 2,
+      "justified_votes": 2
    },
    "1767136927": {
       "title": "MnCo的聖誕禮物",
