@@ -152404,8 +152404,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "1",
-      "votes": "1",
+      "rating": "2",
+      "votes": "2",
       "parent": null,
       "id": "1467946077",
       "detailed_rating": {
@@ -152413,12 +152413,16 @@
             [
                "4990678",
                1767135368
+            ],
+            [
+               "9075244",
+               1767150365
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 1,
-      "justified_votes": 1
+      "justified_rating": 2,
+      "justified_votes": 2
    },
    "1767134902": {
       "title": "聖誕Juki",
@@ -152434,8 +152438,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "1",
-      "votes": "1",
+      "rating": "2",
+      "votes": "2",
       "parent": null,
       "id": "1467946083",
       "detailed_rating": {
@@ -152443,12 +152447,16 @@
             [
                "4990678",
                1767137896
+            ],
+            [
+               "9075244",
+               1767150365
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 1,
-      "justified_votes": 1
+      "justified_rating": 2,
+      "justified_votes": 2
    },
    "1767135338": {
       "title": "受絞之王",
@@ -152498,8 +152506,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "2",
-      "votes": "2",
+      "rating": "3",
+      "votes": "3",
       "parent": null,
       "id": "1467946131",
       "detailed_rating": {
@@ -152511,12 +152519,16 @@
             [
                "6088232",
                1767145619
+            ],
+            [
+               "9075244",
+               1767150365
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 2,
-      "justified_votes": 2
+      "justified_rating": 3,
+      "justified_votes": 3
    },
    "1767136927": {
       "title": "MnCo的聖誕禮物",
@@ -152532,8 +152544,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "1",
-      "votes": "1",
+      "rating": "2",
+      "votes": "2",
       "parent": null,
       "id": "1467946135",
       "detailed_rating": {
@@ -152541,12 +152553,16 @@
             [
                "4990678",
                1767137751
+            ],
+            [
+               "9075244",
+               1767150365
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 1,
-      "justified_votes": 1
+      "justified_rating": 2,
+      "justified_votes": 2
    },
    "1767139760": {
       "title": "聖誕節快樂，Kikunai。",
@@ -152562,13 +152578,20 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "0",
-      "votes": "0",
+      "rating": "1",
+      "votes": "1",
       "parent": null,
       "id": "1467946156",
-      "detailed_rating": {},
+      "detailed_rating": {
+         "+": [
+            [
+               "9075244",
+               1767150365
+            ]
+         ]
+      },
       "deleted": false,
-      "justified_rating": 0,
-      "justified_votes": 0
+      "justified_rating": 1,
+      "justified_votes": 1
    }
 }
