@@ -92327,8 +92327,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "-1",
-      "votes": "5",
+      "rating": "-2",
+      "votes": "6",
       "parent": null,
       "id": "1402702687",
       "detailed_rating": {
@@ -92344,6 +92344,10 @@
             [
                "DELETED",
                "[UNKNOWN]"
+            ],
+            [
+               "9884279",
+               1767309184
             ]
          ],
          "+": [
@@ -92358,8 +92362,8 @@
          ]
       },
       "deleted": false,
-      "justified_rating": -1,
-      "justified_votes": 3
+      "justified_rating": -2,
+      "justified_votes": 4
    },
    "1651320111": {
       "title": "SCP-360 - 羽化成神",
