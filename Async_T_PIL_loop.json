@@ -152556,8 +152556,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "2",
-      "votes": "2",
+      "rating": "3",
+      "votes": "3",
       "parent": null,
       "id": "1467946135",
       "detailed_rating": {
@@ -152569,12 +152569,16 @@
             [
                "9075244",
                1767150365
+            ],
+            [
+               "6152598",
+               1767250536
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 2,
-      "justified_votes": 2
+      "justified_rating": 3,
+      "justified_votes": 3
    },
    "1767139760": {
       "title": "聖誕節快樂，Kikunai。",
