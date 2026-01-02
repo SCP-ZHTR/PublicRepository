@@ -154016,8 +154016,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "8",
-      "votes": "8",
+      "rating": "9",
+      "votes": "9",
       "parent": null,
       "id": "1467838497",
       "detailed_rating": {
@@ -154053,12 +154053,16 @@
             [
                "7840542",
                1767081927
+            ],
+            [
+               "9075244",
+               1767342424
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 8,
-      "justified_votes": 8
+      "justified_rating": 9,
+      "justified_votes": 9
    },
    "1767196802": {
       "title": "3D摺紙動畫 - 繁中分部標誌",
@@ -154119,8 +154123,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "-3",
-      "votes": "3",
+      "rating": "-4",
+      "votes": "4",
       "parent": null,
       "id": "1467947869",
       "detailed_rating": {
@@ -154136,11 +154140,15 @@
             [
                "8543386",
                1767340463
+            ],
+            [
+               "9075244",
+               1767342424
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": -3,
-      "justified_votes": 3
+      "justified_rating": -4,
+      "justified_votes": 4
    }
 }
