@@ -154102,5 +154102,26 @@
       "deleted": false,
       "justified_rating": 5,
       "justified_votes": 5
+   },
+   "1767176368": {
+      "title": "SCP-ZH-990-j",
+      "fullname": "scp-zh-990-j",
+      "created_at": "1767176368",
+      "created_by": "9884279",
+      "tags": [
+         "scp",
+         "原創",
+         "搞笑"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1467947869",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
