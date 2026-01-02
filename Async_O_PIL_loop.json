@@ -154079,8 +154079,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "6",
-      "votes": "6",
+      "rating": "7",
+      "votes": "7",
       "parent": null,
       "id": "1467948509",
       "detailed_rating": {
@@ -154108,12 +154108,16 @@
             [
                "9075244",
                1767342143
+            ],
+            [
+               "6217438",
+               1767353642
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 6,
-      "justified_votes": 6
+      "justified_rating": 7,
+      "justified_votes": 7
    },
    "1767176368": {
       "title": "SCP-ZH-990-j",
