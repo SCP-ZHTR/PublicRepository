@@ -152310,14 +152310,21 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "0",
-      "votes": "0",
+      "rating": "1",
+      "votes": "1",
       "parent": null,
       "id": "1467272271",
-      "detailed_rating": {},
+      "detailed_rating": {
+         "+": [
+            [
+               "8033564",
+               1767442034
+            ]
+         ]
+      },
       "deleted": false,
-      "justified_rating": 0,
-      "justified_votes": 0
+      "justified_rating": 1,
+      "justified_votes": 1
    },
    "1766246425": {
       "title": "靈性部門中心",
