@@ -22746,8 +22746,8 @@
          "_licensebox"
       ],
       "comments": "0",
-      "rating": "17",
-      "votes": "17",
+      "rating": "18",
+      "votes": "18",
       "parent": "scp-001",
       "id": "986561708",
       "detailed_rating": {
@@ -22819,12 +22819,16 @@
             [
                "9447838",
                1737171713
+            ],
+            [
+               "9884279",
+               1767405504
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 17,
-      "justified_votes": 17
+      "justified_rating": 18,
+      "justified_votes": 18
    },
    "1580782391": {
       "title": "K/O 失敗情景中心頁",
