@@ -131796,8 +131796,8 @@
          "_偉大長老"
       ],
       "comments": "3",
-      "rating": "19",
-      "votes": "19",
+      "rating": "20",
+      "votes": "20",
       "parent": "secure-facility-dossier-lunar-area-32",
       "id": "1452569673",
       "detailed_rating": {
@@ -131877,12 +131877,16 @@
             [
                "8883612",
                1707793100
+            ],
+            [
+               "8418020",
+               1767513923
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 19,
-      "justified_votes": 19
+      "justified_rating": 20,
+      "justified_votes": 20
    },
    "1707320710": {
       "title": "SCP-ZH-668 - 「廣內」",
@@ -153994,8 +153998,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "5",
-      "votes": "5",
+      "rating": "6",
+      "votes": "6",
       "parent": null,
       "id": "1467799596",
       "detailed_rating": {
@@ -154019,12 +154023,16 @@
             [
                "7840542",
                1767082069
+            ],
+            [
+               "8418020",
+               1767513923
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 5,
-      "justified_votes": 5
+      "justified_rating": 6,
+      "justified_votes": 6
    },
    "1766678317": {
       "title": "clef父女隨筆",
