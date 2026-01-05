@@ -153336,8 +153336,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "3",
-      "votes": "3",
+      "rating": "4",
+      "votes": "4",
       "parent": null,
       "id": "1467675171",
       "detailed_rating": {
@@ -153353,12 +153353,16 @@
             [
                "6152598",
                1766406759
+            ],
+            [
+               "5370805",
+               1767630109
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 3,
-      "justified_votes": 3
+      "justified_rating": 4,
+      "justified_votes": 4
    },
    "1766247763": {
       "title": "SCP-ZH-714 - 燈路",
