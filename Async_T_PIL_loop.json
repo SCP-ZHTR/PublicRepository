@@ -148839,8 +148839,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "6",
-      "votes": "6",
+      "rating": "7",
+      "votes": "7",
       "parent": null,
       "id": "1459893307",
       "detailed_rating": {
@@ -148868,12 +148868,16 @@
             [
                "7840542",
                1752114127
+            ],
+            [
+               "5981123",
+               1767653483
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 6,
-      "justified_votes": 6
+      "justified_rating": 7,
+      "justified_votes": 7
    },
    "1752023999": {
       "title": "SCP-7823 - 登陸月球",
