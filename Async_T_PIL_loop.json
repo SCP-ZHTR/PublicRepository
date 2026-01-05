@@ -152417,8 +152417,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "1",
-      "votes": "1",
+      "rating": "2",
+      "votes": "2",
       "parent": null,
       "id": "1467898312",
       "detailed_rating": {
@@ -152426,12 +152426,16 @@
             [
                "8033564",
                1766818076
+            ],
+            [
+               "5981123",
+               1767655819
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 1,
-      "justified_votes": 1
+      "justified_rating": 2,
+      "justified_votes": 2
    },
    "1767134477": {
       "title": "一封由聖誕貓頭鷹寄給台灣的信",
