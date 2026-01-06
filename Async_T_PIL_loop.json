@@ -12351,8 +12351,8 @@
          "_info"
       ],
       "comments": "1",
-      "rating": "15",
-      "votes": "17",
+      "rating": "16",
+      "votes": "18",
       "parent": "scp-001",
       "id": "806120241",
       "detailed_rating": {
@@ -12420,6 +12420,10 @@
             [
                "9428515",
                1728812413
+            ],
+            [
+               "9758462",
+               1767673706
             ]
          ],
          "-": [
@@ -12430,8 +12434,8 @@
          ]
       },
       "deleted": false,
-      "justified_rating": 14,
-      "justified_votes": 16
+      "justified_rating": 15,
+      "justified_votes": 17
    },
    "1560659233": {
       "title": "所以你想寫一個人形SCP項目",
