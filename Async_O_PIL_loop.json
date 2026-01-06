@@ -4295,8 +4295,8 @@
          "_info"
       ],
       "comments": "6",
-      "rating": "9",
-      "votes": "21",
+      "rating": "8",
+      "votes": "22",
       "parent": null,
       "id": "639660327",
       "detailed_rating": {
@@ -4386,12 +4386,16 @@
             [
                "7073060",
                1721215960
+            ],
+            [
+               "9758462",
+               1767701094
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 8,
-      "justified_votes": 20
+      "justified_rating": 7,
+      "justified_votes": 21
    },
    "1553331116": {
       "title": "SCP-ZH-748 - 淚魔",
@@ -130356,8 +130360,8 @@
          "_探險者mk"
       ],
       "comments": "1",
-      "rating": "28",
-      "votes": "28",
+      "rating": "29",
+      "votes": "29",
       "parent": null,
       "id": "1452503843",
       "detailed_rating": {
@@ -130473,12 +130477,16 @@
             [
                "6815728",
                1749718947
+            ],
+            [
+               "9758462",
+               1767701094
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 27,
-      "justified_votes": 27
+      "justified_rating": 28,
+      "justified_votes": 28
    },
    "1706777299": {
       "title": "插曲：大麻煩",
