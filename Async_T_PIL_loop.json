@@ -71403,8 +71403,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "7",
-      "votes": "7",
+      "rating": "8",
+      "votes": "8",
       "parent": null,
       "id": "1312241646",
       "detailed_rating": {
@@ -71436,12 +71436,16 @@
             [
                "5544112",
                1738983321
+            ],
+            [
+               "9758462",
+               1767956936
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 6,
-      "justified_votes": 6
+      "justified_rating": 7,
+      "justified_votes": 7
    },
    "1624887985": {
       "title": "素描風格的SCP-529與SCP-2952",
