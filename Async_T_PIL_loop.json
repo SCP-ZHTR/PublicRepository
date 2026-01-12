@@ -152740,5 +152740,30 @@
       "deleted": false,
       "justified_rating": 1,
       "justified_votes": 1
+   },
+   "1768218621": {
+      "title": "SCP-1343-J - 討論區",
+      "fullname": "scp-1343-j",
+      "created_at": "1768218621",
+      "created_by": "6217438",
+      "tags": [
+         "en",
+         "meta",
+         "scp",
+         "喜劇",
+         "搞笑",
+         "機密分級",
+         "翻譯"
+      ],
+      "hidden_tags": [],
+      "comments": "1",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1467993041",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
