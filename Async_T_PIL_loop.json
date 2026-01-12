@@ -152788,5 +152788,33 @@
       "deleted": false,
       "justified_rating": 5,
       "justified_votes": 5
+   },
+   "1768232199": {
+      "title": "SCP-8417 - 你有看到我嗎？",
+      "fullname": "scp-8417",
+      "created_at": "1768232199",
+      "created_by": "6217438",
+      "tags": [
+         "en",
+         "keter",
+         "scp",
+         "人形",
+         "合著",
+         "屍體",
+         "恐怖",
+         "神秘",
+         "翻譯",
+         "變形"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1467993700",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
