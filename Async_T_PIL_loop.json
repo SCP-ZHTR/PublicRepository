@@ -152761,8 +152761,8 @@
       ],
       "hidden_tags": [],
       "comments": "5",
-      "rating": "7",
-      "votes": "7",
+      "rating": "8",
+      "votes": "8",
       "parent": null,
       "id": "1467993041",
       "detailed_rating": {
@@ -152794,12 +152794,16 @@
             [
                "9758462",
                1768312412
+            ],
+            [
+               "9786435",
+               1768313125
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 7,
-      "justified_votes": 7
+      "justified_rating": 8,
+      "justified_votes": 8
    },
    "1768232199": {
       "title": "SCP-8417 - 你有看到我嗎？",
