@@ -30930,8 +30930,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "11",
-      "votes": "11",
+      "rating": "12",
+      "votes": "12",
       "parent": "antimemetics-division-hub",
       "id": "1019312040",
       "detailed_rating": {
@@ -30979,12 +30979,16 @@
             [
                "5544112",
                1738980635
+            ],
+            [
+               "7133565",
+               1768330645
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 11,
-      "justified_votes": 11
+      "justified_rating": 12,
+      "justified_votes": 12
    },
    "1585798154": {
       "title": "SCP-403 - 漸進打火機",
