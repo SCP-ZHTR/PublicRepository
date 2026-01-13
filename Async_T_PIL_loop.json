@@ -24452,8 +24452,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "3",
-      "votes": "3",
+      "rating": "4",
+      "votes": "4",
       "parent": null,
       "id": "997136466",
       "detailed_rating": {
@@ -24469,12 +24469,16 @@
             [
                "9428515",
                1729487139
+            ],
+            [
+               "7133565",
+               1768329800
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 3,
-      "justified_votes": 3
+      "justified_rating": 4,
+      "justified_votes": 4
    },
    "1582379920": {
       "title": "SCP-064 - 有瑕疵的馮諾依曼建築",
