@@ -152733,8 +152733,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "2",
-      "votes": "2",
+      "rating": "3",
+      "votes": "3",
       "parent": null,
       "id": "1467992898",
       "detailed_rating": {
@@ -152746,12 +152746,16 @@
             [
                "5370805",
                1768259045
+            ],
+            [
+               "8319365",
+               1768360057
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 2,
-      "justified_votes": 2
+      "justified_rating": 3,
+      "justified_votes": 3
    },
    "1768218621": {
       "title": "SCP-1343-J - 討論區",
