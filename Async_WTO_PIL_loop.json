@@ -20832,22 +20832,45 @@
       "justified_votes": 0
    },
    "1768472347": {
-      "title": "Scp Zh 335",
+      "title": "蒼白祭壇",
       "fullname": "scp-zh-335",
       "created_at": "1768472347",
       "created_by": "9113131",
       "tags": [
-         "#原創"
+         "待刪除"
       ],
       "hidden_tags": [],
-      "comments": "0",
-      "rating": "0",
-      "votes": "0",
+      "comments": "3",
+      "rating": "-5",
+      "votes": "5",
       "parent": null,
       "id": "1468002183",
-      "detailed_rating": {},
-      "deleted": true,
-      "justified_rating": 0,
-      "justified_votes": 0
+      "detailed_rating": {
+         "-": [
+            [
+               "9501997",
+               1768499186
+            ],
+            [
+               "4239775",
+               1768499186
+            ],
+            [
+               "5413616",
+               1768499186
+            ],
+            [
+               "8543386",
+               1768499186
+            ],
+            [
+               "5338547",
+               1768499186
+            ]
+         ]
+      },
+      "deleted": false,
+      "justified_rating": -5,
+      "justified_votes": 5
    }
 }
