@@ -35045,8 +35045,8 @@
          "_cc"
       ],
       "comments": "1",
-      "rating": "2",
-      "votes": "2",
+      "rating": "3",
+      "votes": "3",
       "parent": null,
       "id": "1032581996",
       "detailed_rating": {
@@ -35058,12 +35058,16 @@
             [
                "3981670",
                1676131200
+            ],
+            [
+               "9884279",
+               1768607411
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 2,
-      "justified_votes": 2
+      "justified_rating": 3,
+      "justified_votes": 3
    },
    "1588317321": {
       "title": "SCP-917 - 月亮先生",
