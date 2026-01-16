@@ -154301,12 +154301,13 @@
       "created_by": "9113131",
       "tags": [
          "scp",
-         "原創"
+         "原創",
+         "待刪除"
       ],
       "hidden_tags": [],
-      "comments": "3",
-      "rating": "-5",
-      "votes": "5",
+      "comments": "5",
+      "rating": "-4",
+      "votes": "6",
       "parent": null,
       "id": "1468002183",
       "detailed_rating": {
@@ -154331,10 +154332,16 @@
                "4239775",
                1768491569
             ]
+         ],
+         "+": [
+            [
+               "9113131",
+               1768563367
+            ]
          ]
       },
-      "deleted": true,
-      "justified_rating": -5,
-      "justified_votes": 5
+      "deleted": false,
+      "justified_rating": -4,
+      "justified_votes": 6
    }
 }
