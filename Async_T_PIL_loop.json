@@ -19151,8 +19151,8 @@
          "_cc"
       ],
       "comments": "1",
-      "rating": "5",
-      "votes": "5",
+      "rating": "6",
+      "votes": "6",
       "parent": null,
       "id": "910428326",
       "detailed_rating": {
@@ -19176,12 +19176,16 @@
             [
                "5817419",
                1617120000
+            ],
+            [
+               "9884279",
+               1768564912
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 5,
-      "justified_votes": 5
+      "justified_rating": 6,
+      "justified_votes": 6
    },
    "1569712193": {
       "title": "SCP-123-J",
