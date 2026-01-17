@@ -149073,8 +149073,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "4",
-      "votes": "4",
+      "rating": "5",
+      "votes": "5",
       "parent": null,
       "id": "1459893830",
       "detailed_rating": {
@@ -149094,12 +149094,16 @@
             [
                "7840542",
                1752113981
+            ],
+            [
+               "7513990",
+               1768669464
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 4,
-      "justified_votes": 4
+      "justified_rating": 5,
+      "justified_votes": 5
    },
    "1752042718": {
       "title": "SCP-8294 - 焚屋",
@@ -152864,8 +152868,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "2",
-      "votes": "2",
+      "rating": "3",
+      "votes": "3",
       "parent": null,
       "id": "1467993700",
       "detailed_rating": {
@@ -152877,11 +152881,15 @@
             [
                "4990678",
                1768497814
+            ],
+            [
+               "6381244",
+               1768669464
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 2,
-      "justified_votes": 2
+      "justified_rating": 3,
+      "justified_votes": 3
    }
 }
