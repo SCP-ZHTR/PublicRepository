@@ -128611,8 +128611,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "11",
-      "votes": "11",
+      "rating": "12",
+      "votes": "12",
       "parent": null,
       "id": "1451612153",
       "detailed_rating": {
@@ -128660,12 +128660,16 @@
             [
                "6217438",
                1747931106
+            ],
+            [
+               "9884279",
+               1768623808
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 11,
-      "justified_votes": 11
+      "justified_rating": 12,
+      "justified_votes": 12
    },
    "1701606583": {
       "title": "聖夜相守這一夜",
