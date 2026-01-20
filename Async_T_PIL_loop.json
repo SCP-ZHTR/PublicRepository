@@ -3741,8 +3741,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "6",
-      "votes": "6",
+      "rating": "7",
+      "votes": "7",
       "parent": null,
       "id": "691454229",
       "detailed_rating": {
@@ -3770,12 +3770,16 @@
             [
                "6082642",
                1627660800
+            ],
+            [
+               "7513990",
+               1768928853
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 6,
-      "justified_votes": 6
+      "justified_rating": 7,
+      "justified_votes": 7
    },
    "1555119781": {
       "title": "SCP-283 - 一個落在斜坡上的石頭",
