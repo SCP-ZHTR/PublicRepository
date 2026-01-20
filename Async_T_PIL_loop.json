@@ -8600,8 +8600,8 @@
          "_cc"
       ],
       "comments": "5",
-      "rating": "11",
-      "votes": "11",
+      "rating": "12",
+      "votes": "12",
       "parent": null,
       "id": "800876306",
       "detailed_rating": {
@@ -8649,12 +8649,16 @@
             [
                "8319365",
                1762064997
+            ],
+            [
+               "4206567",
+               1768903330
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 11,
-      "justified_votes": 11
+      "justified_rating": 12,
+      "justified_votes": 12
    },
    "1558354772": {
       "title": "夜何幽，地何寒",
