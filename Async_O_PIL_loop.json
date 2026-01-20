@@ -154359,5 +154359,26 @@
       "deleted": true,
       "justified_rating": -5,
       "justified_votes": 7
+   },
+   "1768930768": {
+      "title": "SCP-ZH-682-j 不滅孽機",
+      "fullname": "scp-zh-682-j",
+      "created_at": "1768930768",
+      "created_by": "9884279",
+      "tags": [
+         "scp",
+         "原創",
+         "搞笑"
+      ],
+      "hidden_tags": [],
+      "comments": "1",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1468030783",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
