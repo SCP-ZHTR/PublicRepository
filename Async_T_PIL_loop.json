@@ -152828,9 +152828,9 @@
          "翻譯"
       ],
       "hidden_tags": [],
-      "comments": "7",
-      "rating": "9",
-      "votes": "9",
+      "comments": "8",
+      "rating": "10",
+      "votes": "10",
       "parent": null,
       "id": "1467993041",
       "detailed_rating": {
@@ -152870,12 +152870,16 @@
             [
                "7840542",
                1768453079
+            ],
+            [
+               "9884279",
+               1768932997
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 9,
-      "justified_votes": 9
+      "justified_rating": 10,
+      "justified_votes": 10
    },
    "1768232199": {
       "title": "SCP-8417 - 你有看到我嗎？",
