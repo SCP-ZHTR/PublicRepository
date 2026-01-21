@@ -154372,13 +154372,24 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "0",
-      "votes": "0",
+      "rating": "-2",
+      "votes": "2",
       "parent": null,
       "id": "1468030783",
-      "detailed_rating": {},
+      "detailed_rating": {
+         "-": [
+            [
+               "4206567",
+               1768956512
+            ],
+            [
+               "5413616",
+               1768956512
+            ]
+         ]
+      },
       "deleted": false,
-      "justified_rating": 0,
-      "justified_votes": 0
+      "justified_rating": -2,
+      "justified_votes": 2
    }
 }
