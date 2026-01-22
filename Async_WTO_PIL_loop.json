@@ -20895,5 +20895,22 @@
       "deleted": true,
       "justified_rating": 0,
       "justified_votes": 0
+   },
+   "1769089700": {
+      "title": "Winter Ace 2026",
+      "fullname": "winter-ace-2026",
+      "created_at": "1769089700",
+      "created_by": "4990678",
+      "tags": [],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1468037027",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
