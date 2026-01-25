@@ -21151,8 +21151,8 @@
          "_info"
       ],
       "comments": "0",
-      "rating": "18",
-      "votes": "18",
+      "rating": "19",
+      "votes": "19",
       "parent": null,
       "id": "938870286",
       "detailed_rating": {
@@ -21228,12 +21228,16 @@
             [
                "9104873",
                1713861132
+            ],
+            [
+               "8177208",
+               1769323798
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 17,
-      "justified_votes": 17
+      "justified_rating": 18,
+      "justified_votes": 18
    },
    "1574420154": {
       "title": "關於那個大海怪",
