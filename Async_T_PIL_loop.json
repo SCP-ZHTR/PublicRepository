@@ -152939,5 +152939,27 @@
       "deleted": false,
       "justified_rating": 3,
       "justified_votes": 3
+   },
+   "1769430650": {
+      "title": "基金會科技半完整列表",
+      "fullname": "a-semi-comprehensive-list-of-foundation-technology",
+      "created_at": "1769430650",
+      "created_by": "6217438",
+      "tags": [
+         "en",
+         "合作",
+         "翻譯",
+         "資源"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1468052019",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
