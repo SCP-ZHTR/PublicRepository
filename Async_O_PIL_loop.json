@@ -46571,8 +46571,8 @@
       ],
       "hidden_tags": [],
       "comments": "2",
-      "rating": "12",
-      "votes": "12",
+      "rating": "13",
+      "votes": "13",
       "parent": null,
       "id": "1194681860",
       "detailed_rating": {
@@ -46624,12 +46624,16 @@
             [
                "9443485",
                1751991250
+            ],
+            [
+               "7504530",
+               1769394481
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 12,
-      "justified_votes": 12
+      "justified_rating": 13,
+      "justified_votes": 13
    },
    "1595062560": {
       "title": "你不應在溫室裏說冷笑話",
@@ -146558,8 +146562,8 @@
       ],
       "hidden_tags": [],
       "comments": "12",
-      "rating": "7",
-      "votes": "19",
+      "rating": "8",
+      "votes": "20",
       "parent": null,
       "id": "1458159746",
       "detailed_rating": {
@@ -146615,6 +146619,10 @@
             [
                "6152598",
                1740985413
+            ],
+            [
+               "7504530",
+               1769394481
             ]
          ],
          "-": [
@@ -146645,8 +146653,8 @@
          ]
       },
       "deleted": false,
-      "justified_rating": 7,
-      "justified_votes": 19
+      "justified_rating": 8,
+      "justified_votes": 20
    },
    "1736092955": {
       "title": "車次［106］．車種［自強］．（誤點146640分）",
