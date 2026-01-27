@@ -6645,8 +6645,8 @@
          "_cc"
       ],
       "comments": "1",
-      "rating": "12",
-      "votes": "12",
+      "rating": "13",
+      "votes": "13",
       "parent": null,
       "id": "789894414",
       "detailed_rating": {
@@ -6698,12 +6698,16 @@
             [
                "9311399",
                1751717162
+            ],
+            [
+               "9884279",
+               1769505463
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 12,
-      "justified_votes": 12
+      "justified_rating": 13,
+      "justified_votes": 13
    },
    "1557148301": {
       "title": "安布羅斯餐廳倫敦店的套餐菜單",
