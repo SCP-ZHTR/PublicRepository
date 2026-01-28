@@ -152984,5 +152984,28 @@
       "deleted": false,
       "justified_rating": 4,
       "justified_votes": 4
+   },
+   "1769643644": {
+      "title": "輪子（現正轉動）",
+      "fullname": "the-wheel-is-turning-now",
+      "created_at": "1769643644",
+      "created_by": "5370805",
+      "tags": [
+         "en",
+         "mcdoctorate博士",
+         "world-kept-turning",
+         "故事",
+         "翻譯"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1468061454",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
