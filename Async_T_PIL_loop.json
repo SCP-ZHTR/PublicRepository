@@ -153018,5 +153018,31 @@
       "deleted": false,
       "justified_rating": 1,
       "justified_votes": 1
+   },
+   "1769758733": {
+      "title": "SCP-8461 - （應該）都點得到",
+      "fullname": "scp-8461",
+      "created_at": "1769758733",
+      "created_by": "9604083",
+      "tags": [
+         "en",
+         "keter",
+         "scp",
+         "交換",
+         "線上",
+         "翻譯",
+         "認知危害",
+         "電子"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1468067181",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
