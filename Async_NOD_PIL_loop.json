@@ -33414,5 +33414,22 @@
       "deleted": false,
       "justified_rating": 0,
       "justified_votes": 0
+   },
+   "1769758298": {
+      "title": "scp-8461",
+      "fullname": "reserve:scp-8461",
+      "created_at": "1769758298",
+      "created_by": "9604083",
+      "tags": [],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1468067170",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
