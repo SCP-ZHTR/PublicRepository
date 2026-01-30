@@ -20935,7 +20935,15 @@
       "fullname": "scp-8461",
       "created_at": "1769758733",
       "created_by": "9604083",
-      "tags": [],
+      "tags": [
+         "en",
+         "keter",
+         "scp",
+         "交換",
+         "線上",
+         "認知危害",
+         "電子"
+      ],
       "hidden_tags": [],
       "comments": "0",
       "rating": "0",
