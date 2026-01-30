@@ -56448,8 +56448,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "40",
-      "votes": "40",
+      "rating": "41",
+      "votes": "41",
       "parent": null,
       "id": "1305843907",
       "detailed_rating": {
@@ -56613,12 +56613,16 @@
             [
                "6815728",
                1749494608
+            ],
+            [
+               "4206567",
+               1769756775
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 40,
-      "justified_votes": 40
+      "justified_rating": 41,
+      "justified_votes": 41
    },
    "1605784210": {
       "title": "沙皇先知協會擬人-奇術講解篇",
