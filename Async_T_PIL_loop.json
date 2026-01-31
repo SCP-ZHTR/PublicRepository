@@ -153059,5 +153059,40 @@
       "deleted": false,
       "justified_rating": 2,
       "justified_votes": 2
+   },
+   "1769871180": {
+      "title": "SCP-9911 - Malkuth：普世和聲",
+      "fullname": "scp-9911",
+      "created_at": "1769871180",
+      "created_by": "6217438",
+      "tags": [
+         "en",
+         "sauelsuesor",
+         "scp",
+         "tree-of-life",
+         "交換",
+         "儀式性",
+         "太空",
+         "宗教",
+         "戰術神學部",
+         "星球",
+         "星際",
+         "未收容",
+         "機密分級",
+         "科幻",
+         "精神影響",
+         "翻譯",
+         "觀察影響"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1468073705",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
