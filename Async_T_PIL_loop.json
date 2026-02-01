@@ -85818,8 +85818,8 @@
          "_licensebox"
       ],
       "comments": "0",
-      "rating": "8",
-      "votes": "8",
+      "rating": "9",
+      "votes": "9",
       "parent": null,
       "id": "1331797629",
       "detailed_rating": {
@@ -85855,12 +85855,16 @@
             [
                "9104873",
                1729666250
+            ],
+            [
+               "7504530",
+               1769918355
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 6,
-      "justified_votes": 6
+      "justified_rating": 7,
+      "justified_votes": 7
    },
    "1646228563": {
       "title": "SCP-605 - 活風暴雲",
