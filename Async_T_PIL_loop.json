@@ -153117,5 +153117,32 @@
       "deleted": false,
       "justified_rating": 3,
       "justified_votes": 3
+   },
+   "1769945845": {
+      "title": "SCP-4146-我賭黑色一磅肉",
+      "fullname": "scp-4146",
+      "created_at": "1769945845",
+      "created_by": "8319365",
+      "tags": [
+         "en",
+         "safe",
+         "scp",
+         "生物性",
+         "翻譯",
+         "芝加哥鬼靈",
+         "變形",
+         "貨幣",
+         "逆模因"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1468077021",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
