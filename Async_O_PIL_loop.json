@@ -106015,8 +106015,8 @@
          "_禁黑"
       ],
       "comments": "2",
-      "rating": "26",
-      "votes": "26",
+      "rating": "27",
+      "votes": "27",
       "parent": null,
       "id": "1436247361",
       "detailed_rating": {
@@ -106124,12 +106124,16 @@
             [
                "9335666",
                1741683806
+            ],
+            [
+               "9758462",
+               1770040642
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 24,
-      "justified_votes": 24
+      "justified_rating": 25,
+      "justified_votes": 25
    },
    "1664885846": {
       "title": "SCP-ZH-300-J - 我的襪襪🥺",
