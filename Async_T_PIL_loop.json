@@ -153098,8 +153098,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "3",
-      "votes": "3",
+      "rating": "4",
+      "votes": "4",
       "parent": null,
       "id": "1468073705",
       "detailed_rating": {
@@ -153115,12 +153115,16 @@
             [
                "7504530",
                1769916221
+            ],
+            [
+               "8033564",
+               1770140741
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 3,
-      "justified_votes": 3
+      "justified_rating": 4,
+      "justified_votes": 4
    },
    "1769945845": {
       "title": "SCP-4146 - 我賭黑色一磅肉",
