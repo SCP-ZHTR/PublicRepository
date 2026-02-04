@@ -153056,8 +153056,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "2",
-      "votes": "2",
+      "rating": "3",
+      "votes": "3",
       "parent": null,
       "id": "1468067181",
       "detailed_rating": {
@@ -153069,12 +153069,16 @@
             [
                "8446449",
                1769808498
+            ],
+            [
+               "7504530",
+               1770172916
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 2,
-      "justified_votes": 2
+      "justified_rating": 3,
+      "justified_votes": 3
    },
    "1769871180": {
       "title": "SCP-9911 - Malkuth：普世和聲",
