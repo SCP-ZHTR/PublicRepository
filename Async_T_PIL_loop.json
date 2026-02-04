@@ -18670,8 +18670,8 @@
          "_cc"
       ],
       "comments": "0",
-      "rating": "5",
-      "votes": "5",
+      "rating": "6",
+      "votes": "6",
       "parent": null,
       "id": "877828364",
       "detailed_rating": {
@@ -18695,12 +18695,16 @@
             [
                "DELETED",
                "[UNKNOWN]"
+            ],
+            [
+               "7504530",
+               1770171418
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 4,
-      "justified_votes": 4
+      "justified_rating": 5,
+      "justified_votes": 5
    },
    "1567519730": {
       "title": "GOI-001：芝加哥鬼靈",
