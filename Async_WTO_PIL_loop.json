@@ -8272,8 +8272,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "9",
-      "votes": "9",
+      "rating": "10",
+      "votes": "10",
       "parent": null,
       "id": "1312197243",
       "detailed_rating": {
@@ -8313,12 +8313,16 @@
             [
                "DELETED",
                1700545251
+            ],
+            [
+               "9075244",
+               1770383457
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 8,
-      "justified_votes": 8
+      "justified_rating": 9,
+      "justified_votes": 9
    },
    "1625192403": {
       "title": "SCP系列 7",
