@@ -28504,8 +28504,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "9",
-      "votes": "9",
+      "rating": "10",
+      "votes": "10",
       "parent": null,
       "id": "1002183875",
       "detailed_rating": {
@@ -28545,12 +28545,16 @@
             [
                "9311399",
                1753698247
+            ],
+            [
+               "9884279",
+               1770599247
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 9,
-      "justified_votes": 9
+      "justified_rating": 10,
+      "justified_votes": 10
    },
    "1584629888": {
       "title": "SCP-317 - 白堊紀物理學家",
