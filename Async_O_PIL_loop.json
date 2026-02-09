@@ -154495,5 +154495,26 @@
       "deleted": false,
       "justified_rating": 2,
       "justified_votes": 2
+   },
+   "1770617552": {
+      "title": "點燃太陽的方法",
+      "fullname": "the-way-to-ignite-lightball",
+      "created_at": "1770617552",
+      "created_by": "6091157",
+      "tags": [
+         "site-zh-12",
+         "原創",
+         "故事"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1468109712",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
