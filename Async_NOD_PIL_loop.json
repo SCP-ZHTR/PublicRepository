@@ -2420,14 +2420,21 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "0",
-      "votes": "0",
+      "rating": "1",
+      "votes": "1",
       "parent": "lostwhat",
       "id": "855630402",
-      "detailed_rating": {},
+      "detailed_rating": {
+         "+": [
+            [
+               "8319365",
+               1770633795
+            ]
+         ]
+      },
       "deleted": false,
-      "justified_rating": 0,
-      "justified_votes": 0
+      "justified_rating": 1,
+      "justified_votes": 1
    },
    "1565626371": {
       "title": "SCP-ZH-363 - 青銅菌鼎",
