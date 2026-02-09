@@ -84373,8 +84373,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "5",
-      "votes": "5",
+      "rating": "6",
+      "votes": "6",
       "parent": "scpdeclassified",
       "id": "1331744852",
       "detailed_rating": {
@@ -84398,12 +84398,16 @@
             [
                "DELETED",
                1726844642
+            ],
+            [
+               "9884279",
+               1770608327
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 4,
-      "justified_votes": 4
+      "justified_rating": 5,
+      "justified_votes": 5
    },
    "1645309157": {
       "title": "SCP-3753 - TEA術性擊倒",
