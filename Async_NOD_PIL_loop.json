@@ -25346,7 +25346,7 @@
       "parent": null,
       "id": "630642441",
       "detailed_rating": {},
-      "deleted": false,
+      "deleted": true,
       "justified_rating": 0,
       "justified_votes": 0
    },
@@ -29321,21 +29321,19 @@
       "justified_votes": 0
    },
    "1551942677_None": {
-      "title": "側部選單",
-      "fullname": "nav:side",
+      "title": "網站近期修訂",
+      "fullname": "system:recent-changes",
       "created_at": "1551942677_None",
       "created_by": "5225164",
-      "tags": [
-         "管理"
-      ],
+      "tags": [],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "3",
-      "votes": "3",
+      "rating": "0",
+      "votes": "0",
       "parent": null,
       "id": "630642443",
       "detailed_rating": {},
-      "deleted": true,
+      "deleted": false,
       "justified_rating": 0,
       "justified_votes": 0
    },
