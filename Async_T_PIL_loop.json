@@ -153259,5 +153259,39 @@
       "deleted": false,
       "justified_rating": 2,
       "justified_votes": 2
+   },
+   "1770822395": {
+      "title": "SCP-8984 - Yesod：雙行道",
+      "fullname": "scp-8984",
+      "created_at": "1770822395",
+      "created_by": "6217438",
+      "tags": [
+         "en",
+         "euclid",
+         "scp",
+         "tree-of-life",
+         "反熵",
+         "型態變化",
+         "宇宙恐怖",
+         "宗教",
+         "恐怖",
+         "星際",
+         "活物",
+         "無脊椎動物",
+         "科幻",
+         "翻譯",
+         "觀察影響",
+         "適應性"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1468118552",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
