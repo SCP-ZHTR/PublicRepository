@@ -91278,8 +91278,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "4",
-      "votes": "4",
+      "rating": "5",
+      "votes": "5",
       "parent": "guide-for-newcomers",
       "id": "1402221817",
       "detailed_rating": {
@@ -91299,12 +91299,16 @@
             [
                "DELETED",
                1748790004
+            ],
+            [
+               "8319365",
+               1771078910
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 3,
-      "justified_votes": 3
+      "justified_rating": 4,
+      "justified_votes": 4
    },
    "1649765688": {
       "title": "SCP-331 - 「Tumbles」",
