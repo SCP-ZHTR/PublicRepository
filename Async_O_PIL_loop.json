@@ -154581,5 +154581,27 @@
       "deleted": false,
       "justified_rating": 9,
       "justified_votes": 9
+   },
+   "1771389530": {
+      "title": "麻雀貼紙",
+      "fullname": "sparrow-sticker",
+      "created_at": "1771389530",
+      "created_by": "4264056",
+      "tags": [
+         "ain博士",
+         "site-zh-44",
+         "原創",
+         "故事"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1468143629",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
