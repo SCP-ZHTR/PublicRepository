@@ -124915,8 +124915,8 @@
          "_image"
       ],
       "comments": "0",
-      "rating": "3",
-      "votes": "3",
+      "rating": "4",
+      "votes": "4",
       "parent": null,
       "id": "1448656778",
       "detailed_rating": {
@@ -124932,12 +124932,16 @@
             [
                "9443485",
                1766077239
+            ],
+            [
+               "9163798",
+               1771440711
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 3,
-      "justified_votes": 3
+      "justified_rating": 4,
+      "justified_votes": 4
    },
    "1687921000": {
       "title": "德文分部關注組織",
