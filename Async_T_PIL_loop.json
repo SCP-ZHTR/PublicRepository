@@ -83585,8 +83585,8 @@
          "_licensebox"
       ],
       "comments": "0",
-      "rating": "5",
-      "votes": "5",
+      "rating": "6",
+      "votes": "6",
       "parent": "scp-001",
       "id": "1331630802",
       "detailed_rating": {
@@ -83610,12 +83610,16 @@
             [
                "DELETED",
                1701222539
+            ],
+            [
+               "8319365",
+               1771531563
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 4,
-      "justified_votes": 4
+      "justified_rating": 5,
+      "justified_votes": 5
    },
    "1644414824": {
       "title": "SCP-6470 - 全在",
