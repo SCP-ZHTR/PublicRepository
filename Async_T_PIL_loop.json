@@ -153103,8 +153103,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "1",
-      "votes": "1",
+      "rating": "2",
+      "votes": "2",
       "parent": null,
       "id": "1468061454",
       "detailed_rating": {
@@ -153112,12 +153112,16 @@
             [
                "8319365",
                1769646737
+            ],
+            [
+               "7504530",
+               1771582357
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 1,
-      "justified_votes": 1
+      "justified_rating": 2,
+      "justified_votes": 2
    },
    "1769758733": {
       "title": "SCP-8461 - （應該）都點得到",
