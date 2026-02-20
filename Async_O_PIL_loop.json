@@ -154603,8 +154603,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "5",
-      "votes": "5",
+      "rating": "6",
+      "votes": "6",
       "parent": null,
       "id": "1468143629",
       "detailed_rating": {
@@ -154628,12 +154628,20 @@
             [
                "5338547",
                1771564145
+            ],
+            [
+               "5370805",
+               1771598622
+            ],
+            [
+               "7064164",
+               1771598622
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 5,
-      "justified_votes": 5
+      "justified_rating": 7,
+      "justified_votes": 7
    },
    "1771568228": {
       "title": "門",
