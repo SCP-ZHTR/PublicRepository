@@ -154538,8 +154538,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "9",
-      "votes": "9",
+      "rating": "10",
+      "votes": "10",
       "parent": null,
       "id": "1468109712",
       "detailed_rating": {
@@ -154579,12 +154579,16 @@
             [
                "5370805",
                1770676233
+            ],
+            [
+               "5338547",
+               1771564145
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 9,
-      "justified_votes": 9
+      "justified_rating": 10,
+      "justified_votes": 10
    },
    "1771389530": {
       "title": "麻雀貼紙",
@@ -154599,8 +154603,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "4",
-      "votes": "4",
+      "rating": "5",
+      "votes": "5",
       "parent": null,
       "id": "1468143629",
       "detailed_rating": {
@@ -154620,11 +154624,15 @@
             [
                "8319365",
                1771453745
+            ],
+            [
+               "5338547",
+               1771564145
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 4,
-      "justified_votes": 4
+      "justified_rating": 5,
+      "justified_votes": 5
    }
 }
