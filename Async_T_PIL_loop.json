@@ -145623,8 +145623,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "3",
-      "votes": "3",
+      "rating": "4",
+      "votes": "4",
       "parent": null,
       "id": "1457312093",
       "detailed_rating": {
@@ -145640,12 +145640,16 @@
             [
                "7064164",
                1732445487
+            ],
+            [
+               "8319365",
+               1771724851
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 3,
-      "justified_votes": 3
+      "justified_rating": 4,
+      "justified_votes": 4
    },
    "1731410924": {
       "title": "SCP-4791 - 緩緩緩緩地劃過天，我對妳說著再見",
