@@ -37471,8 +37471,8 @@
          "_licensebox"
       ],
       "comments": "1",
-      "rating": "7",
-      "votes": "7",
+      "rating": "8",
+      "votes": "8",
       "parent": "scp-001",
       "id": "1040164981",
       "detailed_rating": {
@@ -37504,12 +37504,16 @@
             [
                "9758462",
                1767687125
+            ],
+            [
+               "10258637",
+               1771754368
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 7,
-      "justified_votes": 7
+      "justified_rating": 8,
+      "justified_votes": 8
    },
    "1589638236": {
       "title": "SCP-117 - 多功能瑞士刀",
