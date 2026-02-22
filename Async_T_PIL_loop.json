@@ -116313,8 +116313,8 @@
          "_licensebox"
       ],
       "comments": "0",
-      "rating": "1",
-      "votes": "1",
+      "rating": "2",
+      "votes": "2",
       "parent": null,
       "id": "1446563074",
       "detailed_rating": {
@@ -116322,12 +116322,16 @@
             [
                "5334590",
                1677929386
+            ],
+            [
+               "7504530",
+               1771785799
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 1,
-      "justified_votes": 1
+      "justified_rating": 2,
+      "justified_votes": 2
    },
    "1677928704": {
       "title": "SCP-2075 - 萬肉之道",
