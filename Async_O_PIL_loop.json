@@ -154169,8 +154169,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "9",
-      "votes": "9",
+      "rating": "10",
+      "votes": "10",
       "parent": null,
       "id": "1467799596",
       "detailed_rating": {
@@ -154210,12 +154210,16 @@
             [
                "5334590",
                1770258384
+            ],
+            [
+               "4206567",
+               1771953392
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 9,
-      "justified_votes": 9
+      "justified_rating": 10,
+      "justified_votes": 10
    },
    "1766678317": {
       "title": "clef父女隨筆",
