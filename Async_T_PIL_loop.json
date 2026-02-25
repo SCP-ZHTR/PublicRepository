@@ -153380,5 +153380,27 @@
       "deleted": false,
       "justified_rating": 5,
       "justified_votes": 5
+   },
+   "1772027399": {
+      "title": "事件0401-42-III - 『車諾比核事故』",
+      "fullname": "incident-0401-42-iii-chornobylska-katastrofa",
+      "created_at": "1772027399",
+      "created_by": "7504530",
+      "tags": [
+         "en",
+         "故事",
+         "格魯烏-p-部門",
+         "翻譯"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1468175471",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
