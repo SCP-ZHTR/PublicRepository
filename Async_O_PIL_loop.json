@@ -154738,5 +154738,30 @@
       "deleted": false,
       "justified_rating": 2,
       "justified_votes": 2
+   },
+   "1772110696": {
+      "title": "SCP-ZH-487 - 星火飛燕",
+      "fullname": "scp-zh-487",
+      "created_at": "1772110696",
+      "created_by": "5338547",
+      "tags": [
+         "2026冬季競賽",
+         "euclid",
+         "scp",
+         "site-zh-11",
+         "人工智能",
+         "原創",
+         "模因效應"
+      ],
+      "hidden_tags": [],
+      "comments": "1",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1468178632",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
