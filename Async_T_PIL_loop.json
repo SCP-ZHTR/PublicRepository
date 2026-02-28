@@ -150095,8 +150095,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "2",
-      "votes": "2",
+      "rating": "3",
+      "votes": "3",
       "parent": null,
       "id": "1460072023",
       "detailed_rating": {
@@ -150108,12 +150108,16 @@
             [
                "4206567",
                1755457551
+            ],
+            [
+               "4990678",
+               1772289758
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 2,
-      "justified_votes": 2
+      "justified_rating": 3,
+      "justified_votes": 3
    },
    "1755691561": {
       "title": "單色",
