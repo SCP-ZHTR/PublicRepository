@@ -154674,8 +154674,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "3",
-      "votes": "3",
+      "rating": "4",
+      "votes": "4",
       "parent": null,
       "id": "1468151340",
       "detailed_rating": {
@@ -154691,12 +154691,16 @@
             [
                "8319365",
                1771899240
+            ],
+            [
+               "4990678",
+               1772286757
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 3,
-      "justified_votes": 3
+      "justified_rating": 4,
+      "justified_votes": 4
    },
    "1771902841": {
       "title": "SCP-ZH-630 - 刃海卷軸",
