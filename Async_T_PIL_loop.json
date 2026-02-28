@@ -84015,8 +84015,8 @@
       ],
       "hidden_tags": [],
       "comments": "2",
-      "rating": "9",
-      "votes": "9",
+      "rating": "10",
+      "votes": "10",
       "parent": null,
       "id": "1331721237",
       "detailed_rating": {
@@ -84056,12 +84056,16 @@
             [
                "9163798",
                1756774150
+            ],
+            [
+               "10258637",
+               1772267159
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 8,
-      "justified_votes": 8
+      "justified_rating": 9,
+      "justified_votes": 9
    },
    "1645148016": {
       "title": "反常-6219",
@@ -130526,8 +130530,8 @@
          "_cc"
       ],
       "comments": "0",
-      "rating": "10",
-      "votes": "10",
+      "rating": "11",
+      "votes": "11",
       "parent": null,
       "id": "1450664903",
       "detailed_rating": {
@@ -130571,12 +130575,16 @@
             [
                "10258637",
                1772265681
+            ],
+            [
+               "10165543",
+               1772267159
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 9,
-      "justified_votes": 9
+      "justified_rating": 10,
+      "justified_votes": 10
    },
    "1697294845": {
       "title": "SCP-6427 - 夜間蒙難",
