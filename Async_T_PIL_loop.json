@@ -152430,8 +152430,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "1",
-      "votes": "1",
+      "rating": "2",
+      "votes": "2",
       "parent": null,
       "id": "1467054263",
       "detailed_rating": {
@@ -152439,12 +152439,16 @@
             [
                "8177208",
                1764119707
+            ],
+            [
+               "9758462",
+               1772377871
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 1,
-      "justified_votes": 1
+      "justified_rating": 2,
+      "justified_votes": 2
    },
    "1763901600": {
       "title": "SCP-161-JP - 不伊之症",
