@@ -17178,8 +17178,8 @@
          "_info"
       ],
       "comments": "0",
-      "rating": "11",
-      "votes": "11",
+      "rating": "12",
+      "votes": "12",
       "parent": null,
       "id": "894539777",
       "detailed_rating": {
@@ -17227,12 +17227,16 @@
             [
                "9075244",
                1766241485
+            ],
+            [
+               "8418020",
+               1772433627
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 11,
-      "justified_votes": 11
+      "justified_rating": 12,
+      "justified_votes": 12
    },
    "1567928641": {
       "title": "為不懂 CSS 的人所寫的說明：如何修改安布羅斯 GOI 格式的代碼",
@@ -99726,8 +99730,8 @@
          "_licensebox"
       ],
       "comments": "4",
-      "rating": "18",
-      "votes": "18",
+      "rating": "19",
+      "votes": "19",
       "parent": null,
       "id": "1416957304",
       "detailed_rating": {
@@ -99739,10 +99743,6 @@
             [
                "7975483",
                1656777600
-            ],
-            [
-               "7469850",
-               1657036800
             ],
             [
                "8452537",
@@ -99803,6 +99803,14 @@
             [
                "DELETED",
                1686391044
+            ],
+            [
+               "9760368",
+               1772433627
+            ],
+            [
+               "DELETED",
+               1772433627
             ]
          ]
       },
