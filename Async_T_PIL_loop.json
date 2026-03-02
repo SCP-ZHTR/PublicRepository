@@ -47117,8 +47117,8 @@
          "_cc"
       ],
       "comments": "2",
-      "rating": "9",
-      "votes": "9",
+      "rating": "10",
+      "votes": "10",
       "parent": null,
       "id": "1304984368",
       "detailed_rating": {
@@ -47158,12 +47158,16 @@
             [
                "5415046",
                1617120000
+            ],
+            [
+               "7504530",
+               1772474688
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 9,
-      "justified_votes": 9
+      "justified_rating": 10,
+      "justified_votes": 10
    },
    "1601188106": {
       "title": "SCP-4953 - 漢堡王本人",
@@ -80312,8 +80316,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "5",
-      "votes": "5",
+      "rating": "6",
+      "votes": "6",
       "parent": null,
       "id": "1330717579",
       "detailed_rating": {
@@ -80337,12 +80341,16 @@
             [
                "8418020",
                1701364764
+            ],
+            [
+               "7504530",
+               1772474688
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 5,
-      "justified_votes": 5
+      "justified_rating": 6,
+      "justified_votes": 6
    },
    "1638347103": {
       "title": "SCP-200 - 繭",
