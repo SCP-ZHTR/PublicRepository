@@ -21045,20 +21045,27 @@
       "justified_votes": 0
    },
    "1772500161": {
-      "title": "Scp Zh 288",
+      "title": "SCP-Zh-288",
       "fullname": "scp-zh-288",
       "created_at": "1772500161",
       "created_by": "9760368",
       "tags": [],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "0",
-      "votes": "0",
+      "rating": "1",
+      "votes": "1",
       "parent": null,
       "id": "1468194754",
-      "detailed_rating": {},
+      "detailed_rating": {
+         "+": [
+            [
+               "9760368",
+               1772504139
+            ]
+         ]
+      },
       "deleted": false,
-      "justified_rating": 0,
-      "justified_votes": 0
+      "justified_rating": 1,
+      "justified_votes": 1
    }
 }
