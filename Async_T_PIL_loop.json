@@ -60776,8 +60776,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "17",
-      "votes": "17",
+      "rating": "18",
+      "votes": "18",
       "parent": null,
       "id": "1307249460",
       "detailed_rating": {
@@ -60849,12 +60849,16 @@
             [
                "5981123",
                1719256143
+            ],
+            [
+               "9884279",
+               1772580323
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 17,
-      "justified_votes": 17
+      "justified_rating": 18,
+      "justified_votes": 18
    },
    "1615999956": {
       "title": "SCP-2256 - 高聳之物",
@@ -102690,8 +102694,8 @@
          "_禁黑"
       ],
       "comments": "2",
-      "rating": "5",
-      "votes": "5",
+      "rating": "6",
+      "votes": "6",
       "parent": null,
       "id": "1435462770",
       "detailed_rating": {
@@ -102715,12 +102719,16 @@
             [
                "DELETED",
                1749934012
+            ],
+            [
+               "9884279",
+               1772580323
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 4,
-      "justified_votes": 4
+      "justified_rating": 5,
+      "justified_votes": 5
    },
    "1662171875": {
       "title": "SCP-039-長鼻工程師",
