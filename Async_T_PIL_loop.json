@@ -152606,8 +152606,8 @@
          "_licensebox"
       ],
       "comments": "1",
-      "rating": "2",
-      "votes": "2",
+      "rating": "3",
+      "votes": "3",
       "parent": null,
       "id": "1467219570",
       "detailed_rating": {
@@ -152619,12 +152619,16 @@
             [
                "8033564",
                1766941912
+            ],
+            [
+               "9758462",
+               1772542383
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 2,
-      "justified_votes": 2
+      "justified_rating": 3,
+      "justified_votes": 3
    },
    "1764783365": {
       "title": "SCP-4114 - 奧秘逃脫術師",
