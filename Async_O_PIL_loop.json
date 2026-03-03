@@ -154848,5 +154848,25 @@
       "deleted": false,
       "justified_rating": 3,
       "justified_votes": 3
+   },
+   "1772500161": {
+      "title": "SCP-Zh-288 架空歷史筆記本",
+      "fullname": "scp-zh-288",
+      "created_at": "1772500161",
+      "created_by": "9760368",
+      "tags": [
+         "scp",
+         "原創"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1468194754",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
