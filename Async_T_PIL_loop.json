@@ -130574,8 +130574,8 @@
          "_cc"
       ],
       "comments": "0",
-      "rating": "11",
-      "votes": "11",
+      "rating": "12",
+      "votes": "12",
       "parent": null,
       "id": "1450664903",
       "detailed_rating": {
@@ -130623,12 +130623,16 @@
             [
                "10165543",
                1772267159
+            ],
+            [
+               "9758462",
+               1772630740
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 10,
-      "justified_votes": 10
+      "justified_rating": 11,
+      "justified_votes": 11
    },
    "1697294845": {
       "title": "SCP-6427 - 夜間蒙難",
