@@ -154901,5 +154901,28 @@
       "deleted": false,
       "justified_rating": -3,
       "justified_votes": 5
+   },
+   "1772726961": {
+      "title": "SCP-ZH-720 - 迎新攝影",
+      "fullname": "scp-zh-720",
+      "created_at": "1772726961",
+      "created_by": "5325850",
+      "tags": [
+         "2026冬季競賽",
+         "scp",
+         "thaumiel",
+         "原創",
+         "攝像"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1468211304",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
