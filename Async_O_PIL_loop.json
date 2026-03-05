@@ -154910,19 +154910,50 @@
       "tags": [
          "2026冬季競賽",
          "scp",
+         "site-zh-12",
          "thaumiel",
          "原創",
-         "攝像"
+         "吳昕博士",
+         "攝像",
+         "王尚毅特工",
+         "見危-12"
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "0",
-      "votes": "0",
+      "rating": "6",
+      "votes": "6",
       "parent": null,
       "id": "1468211304",
-      "detailed_rating": {},
+      "detailed_rating": {
+         "+": [
+            [
+               "5325850",
+               1772728740
+            ],
+            [
+               "6217438",
+               1772728740
+            ],
+            [
+               "8177208",
+               1772728740
+            ],
+            [
+               "6091157",
+               1772728740
+            ],
+            [
+               "5251681",
+               1772728740
+            ],
+            [
+               "9628870",
+               1772728740
+            ]
+         ]
+      },
       "deleted": false,
-      "justified_rating": 0,
-      "justified_votes": 0
+      "justified_rating": 6,
+      "justified_votes": 6
    }
 }
