@@ -154649,9 +154649,9 @@
          "故事"
       ],
       "hidden_tags": [],
-      "comments": "0",
-      "rating": "7",
-      "votes": "7",
+      "comments": "2",
+      "rating": "8",
+      "votes": "8",
       "parent": null,
       "id": "1468143629",
       "detailed_rating": {
@@ -154683,12 +154683,16 @@
             [
                "7064164",
                1771598622
+            ],
+            [
+               "5435485",
+               1772800255
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 7,
-      "justified_votes": 7
+      "justified_rating": 8,
+      "justified_votes": 8
    },
    "1771568228": {
       "title": "門",
@@ -154754,8 +154758,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "2",
-      "votes": "2",
+      "rating": "3",
+      "votes": "3",
       "parent": null,
       "id": "1468167621",
       "detailed_rating": {
@@ -154767,12 +154771,16 @@
             [
                "4990678",
                1771922618
+            ],
+            [
+               "9628870",
+               1772800255
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 2,
-      "justified_votes": 2
+      "justified_rating": 3,
+      "justified_votes": 3
    },
    "1772110696": {
       "title": "SCP-ZH-487 - 星火飛燕",
@@ -155038,10 +155046,43 @@
       ],
       "hidden_tags": [],
       "comments": "0",
+      "rating": "1",
+      "votes": "1",
+      "parent": null,
+      "id": "1468216860",
+      "detailed_rating": {
+         "+": [
+            [
+               "4206567",
+               1772800255
+            ]
+         ]
+      },
+      "deleted": false,
+      "justified_rating": 1,
+      "justified_votes": 1
+   },
+   "1772800131": {
+      "title": "SCP-ZH-885 - 盧隆新之死",
+      "fullname": "scp-zh-885",
+      "created_at": "1772800131",
+      "created_by": "6217438",
+      "tags": [
+         "2026冬季競賽",
+         "scp",
+         "site-zh-02",
+         "site-zh-11",
+         "原創",
+         "工廠",
+         "待分級",
+         "異常現象"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
       "rating": "0",
       "votes": "0",
       "parent": null,
-      "id": "1468216860",
+      "id": "1468216904",
       "detailed_rating": {},
       "deleted": false,
       "justified_rating": 0,
