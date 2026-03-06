@@ -155146,5 +155146,34 @@
       "deleted": false,
       "justified_rating": 2,
       "justified_votes": 2
+   },
+   "1772812501": {
+      "title": "SCP-ZH-328 - 戰術求解部門與異界江河五官醼",
+      "fullname": "scp-zh-328",
+      "created_at": "1772812501",
+      "created_by": "7605593",
+      "tags": [
+         "2026冬季競賽",
+         "euclid",
+         "scp",
+         "原創",
+         "循環",
+         "感知影響",
+         "戰術求解部門",
+         "變形",
+         "超維度",
+         "逆模因",
+         "食物"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1468217767",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
