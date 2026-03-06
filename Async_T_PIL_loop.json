@@ -103599,8 +103599,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "5",
-      "votes": "5",
+      "rating": "6",
+      "votes": "6",
       "parent": null,
       "id": "1436068543",
       "detailed_rating": {
@@ -103624,12 +103624,16 @@
             [
                "DELETED",
                1733847619
+            ],
+            [
+               "9884279",
+               1772798781
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 4,
-      "justified_votes": 4
+      "justified_rating": 5,
+      "justified_votes": 5
    },
    "1664025820": {
       "title": "SCP-7052 - 菊中匙",
@@ -107575,19 +107579,23 @@
          "_licensebox"
       ],
       "comments": "1",
-      "rating": "2",
-      "votes": "2",
+      "rating": "3",
+      "votes": "3",
       "parent": null,
       "id": "1437057259",
       "detailed_rating": {
          "+": [
             [
-               "7469850",
-               1668873600
-            ],
-            [
                "5435485",
                1667923200
+            ],
+            [
+               "9884279",
+               1772798781
+            ],
+            [
+               "DELETED",
+               1772798781
             ]
          ]
       },
