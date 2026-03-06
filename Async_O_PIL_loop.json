@@ -154649,7 +154649,7 @@
          "故事"
       ],
       "hidden_tags": [],
-      "comments": "2",
+      "comments": "3",
       "rating": "8",
       "votes": "8",
       "parent": null,
@@ -155078,8 +155078,7 @@
          "site-zh-11",
          "原創",
          "工廠",
-         "待分級",
-         "異常現象"
+         "待分級"
       ],
       "hidden_tags": [],
       "comments": "0",
@@ -155098,5 +155097,31 @@
       "deleted": false,
       "justified_rating": 1,
       "justified_votes": 1
+   },
+   "1772802856": {
+      "title": "SCP-ZH-677 - 腦釜",
+      "fullname": "scp-zh-677",
+      "created_at": "1772802856",
+      "created_by": "5338547",
+      "tags": [
+         "2026冬季競賽",
+         "safe",
+         "scp",
+         "原創",
+         "屍體",
+         "成癮性",
+         "血液",
+         "逆模因"
+      ],
+      "hidden_tags": [],
+      "comments": "1",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1468217054",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
