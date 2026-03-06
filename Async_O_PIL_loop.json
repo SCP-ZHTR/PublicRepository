@@ -154996,8 +154996,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "6",
-      "votes": "6",
+      "rating": "7",
+      "votes": "7",
       "parent": null,
       "id": "1468216702",
       "detailed_rating": {
@@ -155025,12 +155025,16 @@
             [
                "9628870",
                1772798912
+            ],
+            [
+               "10258637",
+               1772802251
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 6,
-      "justified_votes": 6
+      "justified_rating": 7,
+      "justified_votes": 7
    },
    "1772797455": {
       "title": "水中撈月",
@@ -155079,13 +155083,20 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "0",
-      "votes": "0",
+      "rating": "1",
+      "votes": "1",
       "parent": null,
       "id": "1468216904",
-      "detailed_rating": {},
+      "detailed_rating": {
+         "+": [
+            [
+               "8177208",
+               1772802251
+            ]
+         ]
+      },
       "deleted": false,
-      "justified_rating": 0,
-      "justified_votes": 0
+      "justified_rating": 1,
+      "justified_votes": 1
    }
 }
