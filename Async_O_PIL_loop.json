@@ -155050,8 +155050,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "1",
-      "votes": "1",
+      "rating": "2",
+      "votes": "2",
       "parent": null,
       "id": "1468216860",
       "detailed_rating": {
@@ -155059,12 +155059,16 @@
             [
                "4206567",
                1772800255
+            ],
+            [
+               "4990678",
+               1772809357
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 1,
-      "justified_votes": 1
+      "justified_rating": 2,
+      "justified_votes": 2
    },
    "1772800131": {
       "title": "SCP-ZH-885 - 盧隆新之死",
@@ -155082,8 +155086,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "1",
-      "votes": "1",
+      "rating": "3",
+      "votes": "3",
       "parent": null,
       "id": "1468216904",
       "detailed_rating": {
@@ -155091,12 +155095,20 @@
             [
                "8177208",
                1772802251
+            ],
+            [
+               "4990678",
+               1772809357
+            ],
+            [
+               "5370805",
+               1772809357
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 1,
-      "justified_votes": 1
+      "justified_rating": 3,
+      "justified_votes": 3
    },
    "1772802856": {
       "title": "SCP-ZH-677 - 腦釜",
