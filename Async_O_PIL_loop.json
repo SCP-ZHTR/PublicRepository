@@ -74588,8 +74588,8 @@
       ],
       "hidden_tags": [],
       "comments": "3",
-      "rating": "26",
-      "votes": "26",
+      "rating": "27",
+      "votes": "27",
       "parent": null,
       "id": "1312292800",
       "detailed_rating": {
@@ -74697,12 +74697,16 @@
             [
                "6815728",
                1749930105
+            ],
+            [
+               "9884279",
+               1772852976
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 24,
-      "justified_votes": 24
+      "justified_rating": 25,
+      "justified_votes": 25
    },
    "1625628581": {
       "title": "溫和的人，待在溫和的地方即可",
@@ -155175,8 +155179,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "4",
-      "votes": "4",
+      "rating": "5",
+      "votes": "5",
       "parent": null,
       "id": "1468217767",
       "detailed_rating": {
@@ -155196,12 +155200,16 @@
             [
                "5334590",
                1772850332
+            ],
+            [
+               "6217438",
+               1772852976
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 4,
-      "justified_votes": 4
+      "justified_rating": 5,
+      "justified_votes": 5
    },
    "1772847037": {
       "title": "項目企劃書 2034-124：《節制&誘惑》",
@@ -155217,13 +155225,24 @@
          "_awcy-goi格式"
       ],
       "comments": "0",
-      "rating": "0",
-      "votes": "0",
+      "rating": "2",
+      "votes": "2",
       "parent": null,
       "id": "1468220446",
-      "detailed_rating": {},
+      "detailed_rating": {
+         "+": [
+            [
+               "5325850",
+               1772852976
+            ],
+            [
+               "4990678",
+               1772852976
+            ]
+         ]
+      },
       "deleted": false,
-      "justified_rating": 0,
-      "justified_votes": 0
+      "justified_rating": 2,
+      "justified_votes": 2
    }
 }
