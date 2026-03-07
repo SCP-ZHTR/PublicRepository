@@ -23895,8 +23895,8 @@
          "_info"
       ],
       "comments": "13",
-      "rating": "49",
-      "votes": "49",
+      "rating": "50",
+      "votes": "50",
       "parent": null,
       "id": "985711822",
       "detailed_rating": {
@@ -24096,12 +24096,16 @@
             [
                "9754566",
                1771207972
+            ],
+            [
+               "9884279",
+               1772850332
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 47,
-      "justified_votes": 47
+      "justified_rating": 48,
+      "justified_votes": 48
    },
    "1576667584": {
       "title": "Dr.Ray的異常項目分級圖標 - Apollyon",
@@ -155171,8 +155175,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "2",
-      "votes": "2",
+      "rating": "4",
+      "votes": "4",
       "parent": null,
       "id": "1468217767",
       "detailed_rating": {
@@ -155184,12 +155188,20 @@
             [
                "9884279",
                1772840730
+            ],
+            [
+               "9075244",
+               1772850332
+            ],
+            [
+               "5334590",
+               1772850332
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 2,
-      "justified_votes": 2
+      "justified_rating": 4,
+      "justified_votes": 4
    },
    "1772847037": {
       "title": "項目企劃書 2034-124：《節制&誘惑》",
