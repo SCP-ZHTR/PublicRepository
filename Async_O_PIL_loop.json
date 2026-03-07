@@ -150246,8 +150246,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "25",
-      "votes": "25",
+      "rating": "26",
+      "votes": "26",
       "parent": null,
       "id": "1459998318",
       "detailed_rating": {
@@ -150351,12 +150351,16 @@
             [
                "4239775",
                1755010105
+            ],
+            [
+               "5435485",
+               1772880582
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 25,
-      "justified_votes": 25
+      "justified_rating": 26,
+      "justified_votes": 26
    },
    "1754230011": {
       "title": "「報社」發現與調查史（2016-2018）",
@@ -155187,8 +155191,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "5",
-      "votes": "5",
+      "rating": "6",
+      "votes": "6",
       "parent": null,
       "id": "1468217767",
       "detailed_rating": {
@@ -155212,12 +155216,16 @@
             [
                "6217438",
                1772852976
+            ],
+            [
+               "5435485",
+               1772880582
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 5,
-      "justified_votes": 5
+      "justified_rating": 6,
+      "justified_votes": 6
    },
    "1772847037": {
       "title": "項目企劃書 2034-124：《節制&誘惑》",
