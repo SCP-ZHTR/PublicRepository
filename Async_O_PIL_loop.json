@@ -155143,8 +155143,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "2",
-      "votes": "2",
+      "rating": "3",
+      "votes": "3",
       "parent": null,
       "id": "1468217054",
       "detailed_rating": {
@@ -155156,12 +155156,16 @@
             [
                "9628870",
                1772805340
+            ],
+            [
+               "5413616",
+               1772857781
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 2,
-      "justified_votes": 2
+      "justified_rating": 3,
+      "justified_votes": 3
    },
    "1772812501": {
       "title": "SCP-ZH-328 - 戰術求解部門與異界江河五官醼",
