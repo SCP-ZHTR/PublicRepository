@@ -82862,8 +82862,8 @@
          "_cc"
       ],
       "comments": "0",
-      "rating": "10",
-      "votes": "10",
+      "rating": "11",
+      "votes": "11",
       "parent": null,
       "id": "1331480193",
       "detailed_rating": {
@@ -82907,12 +82907,16 @@
             [
                "DELETED",
                1757779610
+            ],
+            [
+               "5981123",
+               1772883370
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 9,
-      "justified_votes": 9
+      "justified_rating": 10,
+      "justified_votes": 10
    },
    "1643249110": {
       "title": "SCP-5790解密",
@@ -152081,8 +152085,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "5",
-      "votes": "5",
+      "rating": "6",
+      "votes": "6",
       "parent": null,
       "id": "1465676247",
       "detailed_rating": {
@@ -152106,12 +152110,16 @@
             [
                "9683115",
                1762602854
+            ],
+            [
+               "5435485",
+               1772883370
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 5,
-      "justified_votes": 5
+      "justified_rating": 6,
+      "justified_votes": 6
    },
    "1762256757": {
       "title": "SCP-724-J - 壞心蟑螂",
@@ -152128,8 +152136,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "3",
-      "votes": "3",
+      "rating": "4",
+      "votes": "4",
       "parent": null,
       "id": "1465681867",
       "detailed_rating": {
@@ -152145,12 +152153,16 @@
             [
                "9786435",
                1762674158
+            ],
+            [
+               "5435485",
+               1772883370
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 3,
-      "justified_votes": 3
+      "justified_rating": 4,
+      "justified_votes": 4
    },
    "1762463740": {
       "title": "往復密碼 中心頁",
@@ -152358,8 +152370,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "3",
-      "votes": "3",
+      "rating": "4",
+      "votes": "4",
       "parent": null,
       "id": "1466627786",
       "detailed_rating": {
@@ -152375,12 +152387,16 @@
             [
                "7504530",
                1763087007
+            ],
+            [
+               "5435485",
+               1772883370
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 3,
-      "justified_votes": 3
+      "justified_rating": 4,
+      "justified_votes": 4
    },
    "1763270380": {
       "title": "費爾黑文巧克力工廠",
@@ -153320,8 +153336,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "3",
-      "votes": "3",
+      "rating": "4",
+      "votes": "4",
       "parent": null,
       "id": "1468067181",
       "detailed_rating": {
@@ -153337,12 +153353,16 @@
             [
                "7504530",
                1770172916
+            ],
+            [
+               "5435485",
+               1772883370
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 3,
-      "justified_votes": 3
+      "justified_rating": 4,
+      "justified_votes": 4
    },
    "1769871180": {
       "title": "SCP-9911 - Malkuth：普世和聲",

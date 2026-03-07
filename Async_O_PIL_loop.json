@@ -149775,8 +149775,8 @@
          "_威爾遜生物應對組-goi格式"
       ],
       "comments": "1",
-      "rating": "23",
-      "votes": "25",
+      "rating": "24",
+      "votes": "26",
       "parent": null,
       "id": "1459997579",
       "detailed_rating": {
@@ -149876,6 +149876,10 @@
             [
                "5435485",
                1762958811
+            ],
+            [
+               "5981123",
+               1772883367
             ]
          ],
          "-": [
@@ -149886,8 +149890,8 @@
          ]
       },
       "deleted": false,
-      "justified_rating": 23,
-      "justified_votes": 25
+      "justified_rating": 24,
+      "justified_votes": 26
    },
    "1754214372": {
       "title": "SCP-ZH-779 - 佛眼金睛",
