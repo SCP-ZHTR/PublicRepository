@@ -154563,8 +154563,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "2",
-      "votes": "2",
+      "rating": "3",
+      "votes": "3",
       "parent": null,
       "id": "1468037027",
       "detailed_rating": {
@@ -154576,12 +154576,16 @@
             [
                "8319365",
                1769141005
+            ],
+            [
+               "7605593",
+               1772856224
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 2,
-      "justified_votes": 2
+      "justified_rating": 3,
+      "justified_votes": 3
    },
    "1770617552": {
       "title": "點燃太陽的方法",
@@ -155225,8 +155229,8 @@
          "_awcy-goi格式"
       ],
       "comments": "0",
-      "rating": "2",
-      "votes": "2",
+      "rating": "3",
+      "votes": "3",
       "parent": null,
       "id": "1468220446",
       "detailed_rating": {
@@ -155238,11 +155242,15 @@
             [
                "4990678",
                1772852976
+            ],
+            [
+               "5413616",
+               1772856224
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 2,
-      "justified_votes": 2
+      "justified_rating": 3,
+      "justified_votes": 3
    }
 }
