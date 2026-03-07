@@ -149456,8 +149456,8 @@
          "_awcy-goi格式"
       ],
       "comments": "2",
-      "rating": "31",
-      "votes": "31",
+      "rating": "32",
+      "votes": "32",
       "parent": null,
       "id": "1459981599",
       "detailed_rating": {
@@ -149585,12 +149585,16 @@
             [
                "9501997",
                1769364116
+            ],
+            [
+               "5981123",
+               1772884943
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 31,
-      "justified_votes": 31
+      "justified_rating": 32,
+      "justified_votes": 32
    },
    "1753877159": {
       "title": "SCP-ZH-867 - 回收就是資源",

@@ -148497,8 +148497,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "7",
-      "votes": "7",
+      "rating": "8",
+      "votes": "8",
       "parent": null,
       "id": "1459728512",
       "detailed_rating": {
@@ -148530,12 +148530,16 @@
             [
                "4000297",
                1748662121
+            ],
+            [
+               "5435485",
+               1772884945
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 7,
-      "justified_votes": 7
+      "justified_rating": 8,
+      "justified_votes": 8
    },
    "1748690864": {
       "title": "SCP-8607 - 信任恐懼症：露西的家",
