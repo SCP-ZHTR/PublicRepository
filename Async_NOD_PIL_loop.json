@@ -28027,7 +28027,7 @@
       "comments": "0",
       "rating": "0",
       "votes": "0",
-      "parent": "deleted:o-nokay-ni-cidal",
+      "parent": "o-nokay-ni-cidal",
       "id": "1456960309",
       "detailed_rating": {},
       "deleted": false,
@@ -28044,7 +28044,7 @@
       "comments": "0",
       "rating": "0",
       "votes": "0",
-      "parent": "deleted:o-nokay-ni-cidal",
+      "parent": "o-nokay-ni-cidal",
       "id": "1456960311",
       "detailed_rating": {},
       "deleted": false,
@@ -28061,7 +28061,7 @@
       "comments": "0",
       "rating": "0",
       "votes": "0",
-      "parent": "deleted:o-nokay-ni-cidal",
+      "parent": "o-nokay-ni-cidal",
       "id": "1456960313",
       "detailed_rating": {},
       "deleted": false,
@@ -32637,7 +32637,7 @@
             ]
          ]
       },
-      "deleted": false,
+      "deleted": true,
       "justified_rating": 22,
       "justified_votes": 22
    },
