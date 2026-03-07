@@ -138138,8 +138138,8 @@
       ],
       "hidden_tags": [],
       "comments": "4",
-      "rating": "7",
-      "votes": "7",
+      "rating": "8",
+      "votes": "8",
       "parent": null,
       "id": "1453993599",
       "detailed_rating": {
@@ -138171,12 +138171,16 @@
             [
                "7504530",
                1769870930
+            ],
+            [
+               "8319365",
+               1772842167
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 7,
-      "justified_votes": 7
+      "justified_rating": 8,
+      "justified_votes": 8
    },
    "1717823022": {
       "title": "請付費以觀看本文件",
