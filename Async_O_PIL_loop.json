@@ -154806,8 +154806,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "3",
-      "votes": "3",
+      "rating": "4",
+      "votes": "4",
       "parent": null,
       "id": "1468167621",
       "detailed_rating": {
@@ -154823,12 +154823,16 @@
             [
                "9628870",
                1772800255
+            ],
+            [
+               "7605593",
+               1772979391
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 3,
-      "justified_votes": 3
+      "justified_rating": 4,
+      "justified_votes": 4
    },
    "1772110696": {
       "title": "SCP-ZH-487 - 星火飛燕",
@@ -155114,8 +155118,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "3",
-      "votes": "3",
+      "rating": "4",
+      "votes": "4",
       "parent": null,
       "id": "1468216860",
       "detailed_rating": {
@@ -155131,12 +155135,16 @@
             [
                "9075244",
                1772887591
+            ],
+            [
+               "7605593",
+               1772979391
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 3,
-      "justified_votes": 3
+      "justified_rating": 4,
+      "justified_votes": 4
    },
    "1772800131": {
       "title": "SCP-ZH-885 - 盧隆新之死",
@@ -155154,8 +155162,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "3",
-      "votes": "3",
+      "rating": "4",
+      "votes": "4",
       "parent": null,
       "id": "1468216904",
       "detailed_rating": {
@@ -155171,12 +155179,16 @@
             [
                "5370805",
                1772809357
+            ],
+            [
+               "7605593",
+               1772979391
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 3,
-      "justified_votes": 3
+      "justified_rating": 4,
+      "justified_votes": 4
    },
    "1772802856": {
       "title": "SCP-ZH-677 - 腦釜",
@@ -155195,8 +155207,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "3",
-      "votes": "3",
+      "rating": "4",
+      "votes": "4",
       "parent": null,
       "id": "1468217054",
       "detailed_rating": {
@@ -155212,12 +155224,16 @@
             [
                "5413616",
                1772857781
+            ],
+            [
+               "7605593",
+               1772979391
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 3,
-      "justified_votes": 3
+      "justified_rating": 4,
+      "justified_votes": 4
    },
    "1772812501": {
       "title": "SCP-ZH-328 - 戰術求解部門與異界江河五官醼",
@@ -155336,7 +155352,7 @@
          "電磁"
       ],
       "hidden_tags": [],
-      "comments": "0",
+      "comments": "1",
       "rating": "-2",
       "votes": "4",
       "parent": null,
