@@ -155300,5 +155300,26 @@
       "deleted": false,
       "justified_rating": 4,
       "justified_votes": 4
+   },
+   "1772928544": {
+      "title": "SCP-ZH-680 鳳儀電場",
+      "fullname": "scp-zh-680",
+      "created_at": "1772928544",
+      "created_by": "10171160",
+      "tags": [
+         "euclid",
+         "scp",
+         "原創"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1468224623",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
