@@ -155336,5 +155336,29 @@
       "deleted": false,
       "justified_rating": -1,
       "justified_votes": 1
+   },
+   "1772952870": {
+      "title": "外傳：放逐",
+      "fullname": "in-exile",
+      "created_at": "1772952870",
+      "created_by": "5435485",
+      "tags": [
+         "site-zh-01",
+         "site-zh-44",
+         "surge博士",
+         "x博士",
+         "原創",
+         "故事"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": "o-nokay-ni-cidal",
+      "id": "1468225640",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
