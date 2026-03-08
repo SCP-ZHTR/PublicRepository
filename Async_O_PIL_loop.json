@@ -154846,8 +154846,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "5",
-      "votes": "5",
+      "rating": "6",
+      "votes": "6",
       "parent": null,
       "id": "1468178632",
       "detailed_rating": {
@@ -154871,12 +154871,16 @@
             [
                "9628870",
                1772798912
+            ],
+            [
+               "7605593",
+               1772977921
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 5,
-      "justified_votes": 5
+      "justified_rating": 6,
+      "justified_votes": 6
    },
    "1772467201": {
       "title": "SCP-ZH-994 - 教育衣架",
@@ -154980,8 +154984,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "11",
-      "votes": "11",
+      "rating": "12",
+      "votes": "12",
       "parent": null,
       "id": "1468211304",
       "detailed_rating": {
@@ -155029,12 +155033,16 @@
             [
                "9075244",
                1772902391
+            ],
+            [
+               "7605593",
+               1772977921
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 11,
-      "justified_votes": 11
+      "justified_rating": 12,
+      "justified_votes": 12
    },
    "1772795086": {
       "title": "我愛12站 第一集（三段論證特集1）",
@@ -155329,8 +155337,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "0",
-      "votes": "2",
+      "rating": "-2",
+      "votes": "4",
       "parent": null,
       "id": "1468224623",
       "detailed_rating": {
@@ -155338,6 +155346,14 @@
             [
                "8543386",
                1772942396
+            ],
+            [
+               "4990678",
+               1772977921
+            ],
+            [
+               "5415046",
+               1772977921
             ]
          ],
          "+": [
@@ -155348,8 +155364,8 @@
          ]
       },
       "deleted": false,
-      "justified_rating": 0,
-      "justified_votes": 2
+      "justified_rating": -2,
+      "justified_votes": 4
    },
    "1772952870": {
       "title": "外傳：放逐",
@@ -155366,8 +155382,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "6",
-      "votes": "6",
+      "rating": "7",
+      "votes": "7",
       "parent": "o-nokay-ni-cidal",
       "id": "1468225640",
       "detailed_rating": {
@@ -155395,11 +155411,15 @@
             [
                "4990678",
                1772957433
+            ],
+            [
+               "9437829",
+               1772977921
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 6,
-      "justified_votes": 6
+      "justified_rating": 7,
+      "justified_votes": 7
    }
 }
