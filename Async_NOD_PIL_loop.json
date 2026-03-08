@@ -33453,5 +33453,30 @@
       "deleted": false,
       "justified_rating": 0,
       "justified_votes": 0
+   },
+   "1772928544": {
+      "title": "SCP-ZH-680 鳳儀電場",
+      "fullname": "deleted:scp-zh-680:backuped",
+      "created_at": "1772928544",
+      "created_by": "10171160",
+      "tags": [
+         "euclid",
+         "scp",
+         "原創",
+         "結構物",
+         "通訊",
+         "電力",
+         "電磁"
+      ],
+      "hidden_tags": [],
+      "comments": "2",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1468224623",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
