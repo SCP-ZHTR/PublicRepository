@@ -155231,8 +155231,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "6",
-      "votes": "6",
+      "rating": "7",
+      "votes": "7",
       "parent": null,
       "id": "1468217767",
       "detailed_rating": {
@@ -155260,12 +155260,16 @@
             [
                "5435485",
                1772880582
+            ],
+            [
+               "4206567",
+               1772960843
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 6,
-      "justified_votes": 6
+      "justified_rating": 7,
+      "justified_votes": 7
    },
    "1772847037": {
       "title": "項目企劃書 2034-124：《節制&誘惑》",
