@@ -141616,8 +141616,8 @@
       ],
       "hidden_tags": [],
       "comments": "3",
-      "rating": "2",
-      "votes": "2",
+      "rating": "3",
+      "votes": "3",
       "parent": null,
       "id": "1455885535",
       "detailed_rating": {
@@ -141629,12 +141629,16 @@
             [
                "8404617",
                1720892228
+            ],
+            [
+               "7504530",
+               1772961095
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 2,
-      "justified_votes": 2
+      "justified_rating": 3,
+      "justified_votes": 3
    },
    "1720876987": {
       "title": "銘記",
@@ -144213,8 +144217,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "2",
-      "votes": "2",
+      "rating": "3",
+      "votes": "3",
       "parent": null,
       "id": "1456871036",
       "detailed_rating": {
@@ -144226,12 +144230,16 @@
             [
                "9447838",
                1743494766
+            ],
+            [
+               "7504530",
+               1772961095
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 2,
-      "justified_votes": 2
+      "justified_rating": 3,
+      "justified_votes": 3
    },
    "1727178855": {
       "title": "SCP-5451 - 企鵝學院，北極最好的大學！",
