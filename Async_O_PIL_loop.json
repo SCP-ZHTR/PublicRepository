@@ -155321,8 +155321,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "-1",
-      "votes": "1",
+      "rating": "0",
+      "votes": "2",
       "parent": null,
       "id": "1468224623",
       "detailed_rating": {
@@ -155331,11 +155331,17 @@
                "8543386",
                1772942396
             ]
+         ],
+         "+": [
+            [
+               "10171160",
+               1772957433
+            ]
          ]
       },
       "deleted": false,
-      "justified_rating": -1,
-      "justified_votes": 1
+      "justified_rating": 0,
+      "justified_votes": 2
    },
    "1772952870": {
       "title": "外傳：放逐",
@@ -155352,8 +155358,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "5",
-      "votes": "5",
+      "rating": "6",
+      "votes": "6",
       "parent": "o-nokay-ni-cidal",
       "id": "1468225640",
       "detailed_rating": {
@@ -155377,11 +155383,15 @@
             [
                "8846720",
                1772956089
+            ],
+            [
+               "4990678",
+               1772957433
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 5,
-      "justified_votes": 5
+      "justified_rating": 6,
+      "justified_votes": 6
    }
 }
