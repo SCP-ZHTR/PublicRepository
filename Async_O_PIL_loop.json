@@ -56468,8 +56468,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "41",
-      "votes": "41",
+      "rating": "42",
+      "votes": "42",
       "parent": null,
       "id": "1305843907",
       "detailed_rating": {
@@ -56637,12 +56637,16 @@
             [
                "4206567",
                1769756775
+            ],
+            [
+               "8659286",
+               1772990016
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 41,
-      "justified_votes": 41
+      "justified_rating": 42,
+      "justified_votes": 42
    },
    "1605784210": {
       "title": "沙皇先知協會擬人-奇術講解篇",
@@ -120966,8 +120970,8 @@
       ],
       "hidden_tags": [],
       "comments": "8",
-      "rating": "28",
-      "votes": "28",
+      "rating": "29",
+      "votes": "29",
       "parent": null,
       "id": "1449482734",
       "detailed_rating": {
@@ -121083,12 +121087,16 @@
             [
                "5981123",
                1767653782
+            ],
+            [
+               "8659286",
+               1772990016
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 27,
-      "justified_votes": 27
+      "justified_rating": 28,
+      "justified_votes": 28
    },
    "1692809229": {
       "title": "圖像記錄：《只有我能看見的老鼠》",

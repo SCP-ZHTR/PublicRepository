@@ -133348,8 +133348,8 @@
          "_licensebox"
       ],
       "comments": "0",
-      "rating": "2",
-      "votes": "2",
+      "rating": "3",
+      "votes": "3",
       "parent": null,
       "id": "1451560825",
       "detailed_rating": {
@@ -133361,12 +133361,16 @@
             [
                "5338547",
                1710433030
+            ],
+            [
+               "8659286",
+               1772990018
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 2,
-      "justified_votes": 2
+      "justified_rating": 3,
+      "justified_votes": 3
    },
    "1701212341": {
       "title": "SCP-6584 - 此乃拖延症的教訓",
