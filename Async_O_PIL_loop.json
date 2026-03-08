@@ -155352,13 +155352,20 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "0",
-      "votes": "0",
+      "rating": "1",
+      "votes": "1",
       "parent": "o-nokay-ni-cidal",
       "id": "1468225640",
-      "detailed_rating": {},
+      "detailed_rating": {
+         "+": [
+            [
+               "4264056",
+               1772954990
+            ]
+         ]
+      },
       "deleted": false,
-      "justified_rating": 0,
-      "justified_votes": 0
+      "justified_rating": 1,
+      "justified_votes": 1
    }
 }
