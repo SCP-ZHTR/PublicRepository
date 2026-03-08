@@ -155352,8 +155352,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "1",
-      "votes": "1",
+      "rating": "5",
+      "votes": "5",
       "parent": "o-nokay-ni-cidal",
       "id": "1468225640",
       "detailed_rating": {
@@ -155361,11 +155361,27 @@
             [
                "4264056",
                1772954990
+            ],
+            [
+               "8177208",
+               1772956089
+            ],
+            [
+               "8854072",
+               1772956089
+            ],
+            [
+               "9628870",
+               1772956089
+            ],
+            [
+               "8846720",
+               1772956089
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 1,
-      "justified_votes": 1
+      "justified_rating": 5,
+      "justified_votes": 5
    }
 }
