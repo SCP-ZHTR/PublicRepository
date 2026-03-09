@@ -155466,13 +155466,34 @@
       ],
       "hidden_tags": [],
       "comments": "2",
-      "rating": "0",
-      "votes": "0",
+      "rating": "-2",
+      "votes": "4",
       "parent": null,
       "id": "1468230461",
-      "detailed_rating": {},
+      "detailed_rating": {
+         "+": [
+            [
+               "10268361",
+               1773068324
+            ]
+         ],
+         "-": [
+            [
+               "4206567",
+               1773068324
+            ],
+            [
+               "8177208",
+               1773068324
+            ],
+            [
+               "5370805",
+               1773068324
+            ]
+         ]
+      },
       "deleted": false,
-      "justified_rating": 0,
-      "justified_votes": 0
+      "justified_rating": -2,
+      "justified_votes": 4
    }
 }
