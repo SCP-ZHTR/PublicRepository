@@ -21151,16 +21151,49 @@
       "fullname": "scp-zh-602",
       "created_at": "1773063281",
       "created_by": "10268361",
-      "tags": [],
+      "tags": [
+         "待刪除"
+      ],
       "hidden_tags": [],
-      "comments": "0",
-      "rating": "0",
-      "votes": "0",
+      "comments": "4",
+      "rating": "-7",
+      "votes": "7",
       "parent": null,
       "id": "1468230461",
-      "detailed_rating": {},
-      "deleted": true,
-      "justified_rating": 0,
-      "justified_votes": 0
+      "detailed_rating": {
+         "-": [
+            [
+               "4206567",
+               1773098818
+            ],
+            [
+               "8177208",
+               1773098818
+            ],
+            [
+               "5370805",
+               1773098818
+            ],
+            [
+               "10268361",
+               1773098818
+            ],
+            [
+               "5413616",
+               1773098818
+            ],
+            [
+               "10258637",
+               1773098818
+            ],
+            [
+               "8543386",
+               1773098818
+            ]
+         ]
+      },
+      "deleted": false,
+      "justified_rating": -7,
+      "justified_votes": 7
    }
 }
