@@ -155465,9 +155465,9 @@
          "原創"
       ],
       "hidden_tags": [],
-      "comments": "2",
-      "rating": "-5",
-      "votes": "5",
+      "comments": "3",
+      "rating": "-6",
+      "votes": "6",
       "parent": null,
       "id": "1468230461",
       "detailed_rating": {
@@ -155491,11 +155491,15 @@
             [
                "5413616",
                1773069531
+            ],
+            [
+               "8543386",
+               1773070891
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": -5,
-      "justified_votes": 5
+      "justified_rating": -6,
+      "justified_votes": 6
    }
 }
