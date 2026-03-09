@@ -32192,8 +32192,8 @@
       ],
       "hidden_tags": [],
       "comments": "2",
-      "rating": "24",
-      "votes": "24",
+      "rating": "25",
+      "votes": "25",
       "parent": null,
       "id": "1024208338",
       "detailed_rating": {
@@ -32293,12 +32293,16 @@
             [
                "9760368",
                1772148967
+            ],
+            [
+               "10268361",
+               1773068198
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 24,
-      "justified_votes": 24
+      "justified_rating": 25,
+      "justified_votes": 25
    },
    "1586178856": {
       "title": "SCP-579 - 數據刪除",
