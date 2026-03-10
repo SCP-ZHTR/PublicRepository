@@ -154862,8 +154862,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "6",
-      "votes": "6",
+      "rating": "7",
+      "votes": "7",
       "parent": null,
       "id": "1468178632",
       "detailed_rating": {
@@ -154891,12 +154891,16 @@
             [
                "7605593",
                1772977921
+            ],
+            [
+               "8177208",
+               1773184760
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 6,
-      "justified_votes": 6
+      "justified_rating": 7,
+      "justified_votes": 7
    },
    "1772467201": {
       "title": "SCP-ZH-994 - 教育衣架",
