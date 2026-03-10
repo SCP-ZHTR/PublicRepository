@@ -140405,8 +140405,8 @@
          "_licensebox"
       ],
       "comments": "0",
-      "rating": "2",
-      "votes": "2",
+      "rating": "3",
+      "votes": "3",
       "parent": "end-of-death-hub",
       "id": "1453777604",
       "detailed_rating": {
@@ -140418,12 +140418,16 @@
             [
                "6217438",
                1716472153
+            ],
+            [
+               "9758462",
+               1773161161
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 2,
-      "justified_votes": 2
+      "justified_rating": 3,
+      "justified_votes": 3
    },
    "1716476869": {
       "title": "SCP-4759 - 甜甜圈稅挑戰者",
