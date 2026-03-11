@@ -155012,8 +155012,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "12",
-      "votes": "12",
+      "rating": "13",
+      "votes": "13",
       "parent": null,
       "id": "1468211304",
       "detailed_rating": {
@@ -155065,12 +155065,16 @@
             [
                "7605593",
                1772977921
+            ],
+            [
+               "8846720",
+               1773231843
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 12,
-      "justified_votes": 12
+      "justified_rating": 13,
+      "justified_votes": 13
    },
    "1772795086": {
       "title": "我愛12站 第一集（三段論證特集1）",
