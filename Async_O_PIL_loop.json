@@ -155539,16 +155539,16 @@
       "created_by": "5334590",
       "tags": [
          "ad博士",
+         "site-zh-11",
          "site-zh-12",
-         "site-zh11",
          "原創",
          "故事",
          "真紀博士"
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "3",
-      "votes": "3",
+      "rating": "5",
+      "votes": "5",
       "parent": null,
       "id": "1468239175",
       "detailed_rating": {
@@ -155564,11 +155564,19 @@
             [
                "8177208",
                1773245243
+            ],
+            [
+               "4239775",
+               1773246567
+            ],
+            [
+               "8659286",
+               1773246567
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 3,
-      "justified_votes": 3
+      "justified_rating": 5,
+      "justified_votes": 5
    }
 }
