@@ -33422,7 +33422,7 @@
    },
    "1769758298": {
       "title": "scp-8461",
-      "fullname": "reserve:scp-8461",
+      "fullname": "deleted:reserve:scp-8461",
       "created_at": "1769758298",
       "created_by": "9604083",
       "tags": [],
@@ -33499,5 +33499,22 @@
       "deleted": true,
       "justified_rating": -2,
       "justified_votes": 4
+   },
+   "1773238648": {
+      "title": "scp-9967",
+      "fullname": "reserve:scp-9967",
+      "created_at": "1773238648",
+      "created_by": "9604083",
+      "tags": [],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1468239138",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
