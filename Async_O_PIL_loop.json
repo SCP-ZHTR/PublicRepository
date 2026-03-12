@@ -155162,8 +155162,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "6",
-      "votes": "6",
+      "rating": "7",
+      "votes": "7",
       "parent": null,
       "id": "1468216860",
       "detailed_rating": {
@@ -155191,12 +155191,16 @@
             [
                "5338547",
                1773302714
+            ],
+            [
+               "9628870",
+               1773316456
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 6,
-      "justified_votes": 6
+      "justified_rating": 7,
+      "justified_votes": 7
    },
    "1772800131": {
       "title": "SCP-ZH-885 - 盧隆新之死",
@@ -155216,8 +155220,8 @@
          "_禁黑"
       ],
       "comments": "0",
-      "rating": "6",
-      "votes": "6",
+      "rating": "7",
+      "votes": "7",
       "parent": null,
       "id": "1468216904",
       "detailed_rating": {
@@ -155245,12 +155249,16 @@
             [
                "6381244",
                1773304038
+            ],
+            [
+               "9628870",
+               1773316456
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 6,
-      "justified_votes": 6
+      "justified_rating": 7,
+      "justified_votes": 7
    },
    "1772802856": {
       "title": "SCP-ZH-677 - 腦釜",
@@ -155321,8 +155329,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "10",
-      "votes": "10",
+      "rating": "11",
+      "votes": "11",
       "parent": null,
       "id": "1468217767",
       "detailed_rating": {
@@ -155366,12 +155374,16 @@
             [
                "6381244",
                1773305593
+            ],
+            [
+               "9628870",
+               1773316456
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 10,
-      "justified_votes": 10
+      "justified_rating": 11,
+      "justified_votes": 11
    },
    "1772847037": {
       "title": "項目企劃書 2034-124：《節制&誘惑》",
@@ -155587,8 +155599,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "9",
-      "votes": "9",
+      "rating": "10",
+      "votes": "10",
       "parent": null,
       "id": "1468239175",
       "detailed_rating": {
@@ -155628,11 +155640,15 @@
             [
                "5334590",
                1773305593
+            ],
+            [
+               "9628870",
+               1773316456
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 9,
-      "justified_votes": 9
+      "justified_rating": 10,
+      "justified_votes": 10
    }
 }
