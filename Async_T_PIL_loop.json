@@ -151821,8 +151821,8 @@
          "_image"
       ],
       "comments": "1",
-      "rating": "5",
-      "votes": "5",
+      "rating": "6",
+      "votes": "6",
       "parent": null,
       "id": "1461222678",
       "detailed_rating": {
@@ -151846,12 +151846,16 @@
             [
                "8033564",
                1762835649
+            ],
+            [
+               "8659286",
+               1773326489
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 5,
-      "justified_votes": 5
+      "justified_rating": 6,
+      "justified_votes": 6
    },
    "1761658247": {
       "title": "SCP-3964 - 自殺階梯",
