@@ -63942,8 +63942,8 @@
          "_licensebox"
       ],
       "comments": "3",
-      "rating": "2",
-      "votes": "2",
+      "rating": "3",
+      "votes": "3",
       "parent": null,
       "id": "1308497870",
       "detailed_rating": {
@@ -63955,12 +63955,16 @@
             [
                "9428515",
                1728650351
+            ],
+            [
+               "9758462",
+               1773368943
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 2,
-      "justified_votes": 2
+      "justified_rating": 3,
+      "justified_votes": 3
    },
    "1617976792": {
       "title": "進步研究院",
