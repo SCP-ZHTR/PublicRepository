@@ -155116,8 +155116,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "8",
-      "votes": "8",
+      "rating": "9",
+      "votes": "9",
       "parent": null,
       "id": "1468216702",
       "detailed_rating": {
@@ -155153,12 +155153,16 @@
             [
                "7064164",
                1772958894
+            ],
+            [
+               "5251681",
+               1773489060
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 8,
-      "justified_votes": 8
+      "justified_rating": 9,
+      "justified_votes": 9
    },
    "1772797455": {
       "title": "水中撈月",
@@ -155301,8 +155305,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "6",
-      "votes": "6",
+      "rating": "7",
+      "votes": "7",
       "parent": null,
       "id": "1468217054",
       "detailed_rating": {
@@ -155330,12 +155334,16 @@
             [
                "5251681",
                1773485504
+            ],
+            [
+               "6217438",
+               1773489060
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 6,
-      "justified_votes": 6
+      "justified_rating": 7,
+      "justified_votes": 7
    },
    "1772812501": {
       "title": "SCP-ZH-328 - 戰術求解部門與異界江河五官醼",
