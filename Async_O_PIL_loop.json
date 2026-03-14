@@ -154886,8 +154886,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "7",
-      "votes": "7",
+      "rating": "8",
+      "votes": "8",
       "parent": null,
       "id": "1468178632",
       "detailed_rating": {
@@ -154919,12 +154919,16 @@
             [
                "8177208",
                1773184760
+            ],
+            [
+               "8659286",
+               1773456787
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 7,
-      "justified_votes": 7
+      "justified_rating": 8,
+      "justified_votes": 8
    },
    "1772467201": {
       "title": "SCP-ZH-994 - 教育衣架",
@@ -155170,8 +155174,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "7",
-      "votes": "7",
+      "rating": "8",
+      "votes": "8",
       "parent": null,
       "id": "1468216860",
       "detailed_rating": {
@@ -155203,12 +155207,16 @@
             [
                "9628870",
                1773316456
+            ],
+            [
+               "8659286",
+               1773456787
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 7,
-      "justified_votes": 7
+      "justified_rating": 8,
+      "justified_votes": 8
    },
    "1772800131": {
       "title": "SCP-ZH-885 - 盧隆新之死",
@@ -155228,8 +155236,8 @@
          "_禁黑"
       ],
       "comments": "0",
-      "rating": "7",
-      "votes": "7",
+      "rating": "8",
+      "votes": "8",
       "parent": null,
       "id": "1468216904",
       "detailed_rating": {
@@ -155261,12 +155269,16 @@
             [
                "9628870",
                1773316456
+            ],
+            [
+               "8659286",
+               1773456787
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 7,
-      "justified_votes": 7
+      "justified_rating": 8,
+      "justified_votes": 8
    },
    "1772802856": {
       "title": "SCP-ZH-677 - 腦釜",
@@ -155337,8 +155349,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "12",
-      "votes": "12",
+      "rating": "13",
+      "votes": "13",
       "parent": null,
       "id": "1468217767",
       "detailed_rating": {
@@ -155390,12 +155402,16 @@
             [
                "8177208",
                1773455238
+            ],
+            [
+               "8659286",
+               1773456787
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 12,
-      "justified_votes": 12
+      "justified_rating": 13,
+      "justified_votes": 13
    },
    "1772847037": {
       "title": "項目企劃書 2034-124：《節制&誘惑》",

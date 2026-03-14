@@ -153593,8 +153593,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "5",
-      "votes": "5",
+      "rating": "6",
+      "votes": "6",
       "parent": null,
       "id": "1468118552",
       "detailed_rating": {
@@ -153618,12 +153618,16 @@
             [
                "8319365",
                1771531724
+            ],
+            [
+               "8659286",
+               1773456789
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 5,
-      "justified_votes": 5
+      "justified_rating": 6,
+      "justified_votes": 6
    },
    "1772027399": {
       "title": "事件0401-42-III - 『車諾比核事故』",
