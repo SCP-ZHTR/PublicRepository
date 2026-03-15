@@ -32313,7 +32313,7 @@
             ]
          ]
       },
-      "deleted": false,
+      "deleted": true,
       "justified_rating": 17,
       "justified_votes": 17
    },
@@ -32329,7 +32329,7 @@
       "comments": "0",
       "rating": "14",
       "votes": "14",
-      "parent": "deleted:scp-zh-728",
+      "parent": "scp-zh-728",
       "id": "1456612849",
       "detailed_rating": {
          "+": [
