@@ -20297,8 +20297,8 @@
          "_cc"
       ],
       "comments": "1",
-      "rating": "8",
-      "votes": "8",
+      "rating": "9",
+      "votes": "9",
       "parent": null,
       "id": "941282685",
       "detailed_rating": {
@@ -20334,12 +20334,16 @@
             [
                "7655555",
                1733765452
+            ],
+            [
+               "6381244",
+               1773573140
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 7,
-      "justified_votes": 7
+      "justified_rating": 8,
+      "justified_votes": 8
    },
    "1575209776": {
       "title": "SCP-1296 - 打來駱馬",
