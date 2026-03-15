@@ -133389,9 +133389,7 @@
          "載具",
          "門徑"
       ],
-      "hidden_tags": [
-         "_cc"
-      ],
+      "hidden_tags": [],
       "comments": "1",
       "rating": "17",
       "votes": "17",
@@ -133469,7 +133467,7 @@
             ]
          ]
       },
-      "deleted": true,
+      "deleted": false,
       "justified_rating": 17,
       "justified_votes": 17
    },
