@@ -153724,5 +153724,34 @@
       "deleted": false,
       "justified_rating": 2,
       "justified_votes": 2
+   },
+   "1773631682": {
+      "title": "SCP-9967 - Six-Seven模因",
+      "fullname": "scp-9967",
+      "created_at": "1773631682",
+      "created_by": "9604083",
+      "tags": [
+         "awcy",
+         "dumbcon2026-unofficial",
+         "en",
+         "mc&d",
+         "safe",
+         "scp",
+         "喜劇",
+         "模因",
+         "翻譯",
+         "藝術性",
+         "黑鑽豪紳"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1468275121",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
