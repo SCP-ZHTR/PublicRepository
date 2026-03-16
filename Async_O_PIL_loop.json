@@ -94980,8 +94980,8 @@
          "_cc"
       ],
       "comments": "2",
-      "rating": "41",
-      "votes": "41",
+      "rating": "42",
+      "votes": "42",
       "parent": null,
       "id": "1384675590",
       "detailed_rating": {
@@ -95149,12 +95149,16 @@
             [
                "8319365",
                1766248089
+            ],
+            [
+               "9884279",
+               1773703479
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 40,
-      "justified_votes": 40
+      "justified_rating": 41,
+      "justified_votes": 41
    },
    "1647761273": {
       "title": "藝術作品：SCP-ZH-922（SamScript版）",
@@ -115908,8 +115912,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "21",
-      "votes": "21",
+      "rating": "22",
+      "votes": "22",
       "parent": null,
       "id": "1447042244",
       "detailed_rating": {
@@ -115997,12 +116001,16 @@
             [
                "8854072",
                1717316040
+            ],
+            [
+               "9884279",
+               1773703479
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 21,
-      "justified_votes": 21
+      "justified_rating": 22,
+      "justified_votes": 22
    },
    "1680336642": {
       "title": "是嗎？這就是妳所希望的結局......",
