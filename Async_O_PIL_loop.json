@@ -84109,8 +84109,8 @@
          "_cc"
       ],
       "comments": "4",
-      "rating": "18",
-      "votes": "18",
+      "rating": "19",
+      "votes": "19",
       "parent": null,
       "id": "1330502416",
       "detailed_rating": {
@@ -84186,12 +84186,16 @@
             [
                "9075244",
                1765132687
+            ],
+            [
+               "8659286",
+               1773667523
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 17,
-      "justified_votes": 17
+      "justified_rating": 18,
+      "justified_votes": 18
    },
    "1638077341": {
       "title": "項目企劃書 2017-47：《健康的代價》",
