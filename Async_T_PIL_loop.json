@@ -153753,5 +153753,41 @@
       "deleted": false,
       "justified_rating": 0,
       "justified_votes": 0
+   },
+   "1773662296": {
+      "title": "SCP-9595 - 比薩怪咖",
+      "fullname": "scp-9595",
+      "created_at": "1773662296",
+      "created_by": "4206567",
+      "tags": [
+         "en",
+         "en-9000",
+         "illustrated",
+         "keter",
+         "scp",
+         "人形",
+         "傳送",
+         "幻覺",
+         "掠食性",
+         "整合計畫",
+         "智能",
+         "未收容",
+         "概念",
+         "現象",
+         "翻譯",
+         "記憶影響",
+         "認知危害",
+         "食物"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1468277502",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
