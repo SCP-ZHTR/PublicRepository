@@ -155138,8 +155138,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "10",
-      "votes": "10",
+      "rating": "11",
+      "votes": "11",
       "parent": null,
       "id": "1468216702",
       "detailed_rating": {
@@ -155183,12 +155183,16 @@
             [
                "8319365",
                1773532451
+            ],
+            [
+               "6091157",
+               1773681945
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 10,
-      "justified_votes": 10
+      "justified_rating": 11,
+      "justified_votes": 11
    },
    "1772797455": {
       "title": "水中撈月",
@@ -155574,8 +155578,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "8",
-      "votes": "8",
+      "rating": "9",
+      "votes": "9",
       "parent": "o-nokay-ni-cidal",
       "id": "1468225640",
       "detailed_rating": {
@@ -155611,12 +155615,16 @@
             [
                "5413616",
                1773065276
+            ],
+            [
+               "6091157",
+               1773681945
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 8,
-      "justified_votes": 8
+      "justified_rating": 9,
+      "justified_votes": 9
    },
    "1773063281": {
       "title": "SCP-ZH-602",
@@ -155685,8 +155693,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "13",
-      "votes": "13",
+      "rating": "14",
+      "votes": "14",
       "parent": null,
       "id": "1468239175",
       "detailed_rating": {
@@ -155742,11 +155750,15 @@
             [
                "6381244",
                1773676215
+            ],
+            [
+               "6091157",
+               1773681945
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 13,
-      "justified_votes": 13
+      "justified_rating": 14,
+      "justified_votes": 14
    }
 }
