@@ -154695,8 +154695,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "10",
-      "votes": "10",
+      "rating": "11",
+      "votes": "11",
       "parent": null,
       "id": "1468109712",
       "detailed_rating": {
@@ -154740,12 +154740,16 @@
             [
                "5338547",
                1771564145
+            ],
+            [
+               "6217438",
+               1773754426
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 10,
-      "justified_votes": 10
+      "justified_rating": 11,
+      "justified_votes": 11
    },
    "1771389530": {
       "title": "麻雀貼紙",
