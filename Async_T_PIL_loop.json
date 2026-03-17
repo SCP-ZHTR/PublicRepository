@@ -28244,8 +28244,8 @@
          "_licensebox"
       ],
       "comments": "1",
-      "rating": "8",
-      "votes": "8",
+      "rating": "9",
+      "votes": "9",
       "parent": null,
       "id": "1002167174",
       "detailed_rating": {
@@ -28281,12 +28281,16 @@
             [
                "8033564",
                1767622693
+            ],
+            [
+               "9884279",
+               1773748872
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 8,
-      "justified_votes": 8
+      "justified_rating": 9,
+      "justified_votes": 9
    },
    "1584590255": {
       "title": "SCP-3936 - 一如預期般運作",
