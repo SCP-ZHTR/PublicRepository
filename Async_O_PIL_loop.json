@@ -155586,8 +155586,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "9",
-      "votes": "9",
+      "rating": "10",
+      "votes": "10",
       "parent": "o-nokay-ni-cidal",
       "id": "1468225640",
       "detailed_rating": {
@@ -155627,12 +155627,16 @@
             [
                "6091157",
                1773681945
+            ],
+            [
+               "5370805",
+               1773711744
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 9,
-      "justified_votes": 9
+      "justified_rating": 10,
+      "justified_votes": 10
    },
    "1773063281": {
       "title": "SCP-ZH-602",
