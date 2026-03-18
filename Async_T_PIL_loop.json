@@ -153713,8 +153713,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "3",
-      "votes": "3",
+      "rating": "4",
+      "votes": "4",
       "parent": null,
       "id": "1468264322",
       "detailed_rating": {
@@ -153730,12 +153730,16 @@
             [
                "9884279",
                1773702152
+            ],
+            [
+               "6381244",
+               1773810386
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 3,
-      "justified_votes": 3
+      "justified_rating": 4,
+      "justified_votes": 4
    },
    "1773631682": {
       "title": "SCP-9967 - Six-Seven模因",
