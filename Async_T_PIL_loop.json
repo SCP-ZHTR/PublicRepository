@@ -10092,8 +10092,8 @@
          "_info"
       ],
       "comments": "0",
-      "rating": "22",
-      "votes": "22",
+      "rating": "23",
+      "votes": "23",
       "parent": null,
       "id": "801812217",
       "detailed_rating": {
@@ -10185,12 +10185,16 @@
             [
                "9758462",
                1768531371
+            ],
+            [
+               "9884279",
+               1773831424
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 21,
-      "justified_votes": 21
+      "justified_rating": 22,
+      "justified_votes": 22
    },
    "1558972001": {
       "title": "SCP-ES-056",
@@ -72624,23 +72628,15 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "6",
-      "votes": "6",
+      "rating": "7",
+      "votes": "7",
       "parent": null,
       "id": "1312397651",
       "detailed_rating": {
          "+": [
             [
-               "7469850",
-               1628956800
-            ],
-            [
                "6217438",
                1666454400
-            ],
-            [
-               "7521095",
-               1626796800
             ],
             [
                "5701756",
@@ -72653,12 +72649,24 @@
             [
                "4442284",
                1626796800
+            ],
+            [
+               "9884279",
+               1773831424
+            ],
+            [
+               "DELETED",
+               1773831424
+            ],
+            [
+               "DELETED",
+               1773831424
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 6,
-      "justified_votes": 6
+      "justified_rating": 5,
+      "justified_votes": 5
    },
    "1626845520": {
       "title": "全球超自然聯盟檔案",
