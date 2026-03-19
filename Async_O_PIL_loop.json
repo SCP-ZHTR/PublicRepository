@@ -155817,21 +155817,38 @@
       "tags": [
          "ain博士",
          "cidal-dongi",
+         "foundation-format",
          "site-zh-44",
          "valentine博士",
+         "三垣",
          "世界觀建設",
          "原創",
          "故事"
       ],
       "hidden_tags": [],
-      "comments": "0",
-      "rating": "0",
-      "votes": "0",
+      "comments": "1",
+      "rating": "3",
+      "votes": "3",
       "parent": null,
       "id": "1468324735",
-      "detailed_rating": {},
+      "detailed_rating": {
+         "+": [
+            [
+               "4264056",
+               1773938952
+            ],
+            [
+               "8177208",
+               1773938952
+            ],
+            [
+               "5334590",
+               1773938952
+            ]
+         ]
+      },
       "deleted": false,
-      "justified_rating": 0,
-      "justified_votes": 0
+      "justified_rating": 3,
+      "justified_votes": 3
    }
 }
