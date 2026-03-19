@@ -155808,5 +155808,30 @@
       "deleted": false,
       "justified_rating": 16,
       "justified_votes": 16
+   },
+   "1773936316": {
+      "title": "SCP-ZH-922 - 太陽姑娘",
+      "fullname": "scp-zh-922-updated",
+      "created_at": "1773936316",
+      "created_by": "5435485",
+      "tags": [
+         "ain博士",
+         "cidal-dongi",
+         "site-zh-44",
+         "valentine博士",
+         "世界觀建設",
+         "原創",
+         "故事"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1468324735",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
