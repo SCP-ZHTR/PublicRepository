@@ -153894,6 +153894,8 @@
       "created_at": "1773840034",
       "created_by": "8659286",
       "tags": [
+         "en",
+         "en-9000",
          "safe",
          "scp",
          "動物",
@@ -153958,5 +153960,30 @@
       "deleted": false,
       "justified_rating": 2,
       "justified_votes": 2
+   },
+   "1774096930": {
+      "title": "SCP-7641 - Dodd關了一扇門",
+      "fullname": "scp-7641",
+      "created_at": "1774096930",
+      "created_by": "8659286",
+      "tags": [
+         "safe",
+         "scp",
+         "傳送",
+         "無效化",
+         "空間影響",
+         "翻譯",
+         "門徑"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1468332843",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
