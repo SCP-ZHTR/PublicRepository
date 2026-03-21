@@ -48338,8 +48338,8 @@
          "_cc"
       ],
       "comments": "5",
-      "rating": "5",
-      "votes": "5",
+      "rating": "6",
+      "votes": "6",
       "parent": null,
       "id": "1305314077",
       "detailed_rating": {
@@ -48363,12 +48363,16 @@
             [
                "DELETED",
                "[UNKNOWN]"
+            ],
+            [
+               "8659286",
+               1774087413
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 4,
-      "justified_votes": 4
+      "justified_rating": 5,
+      "justified_votes": 5
    },
    "1602680682": {
       "title": "SCP-2113-JP - 然後閉上了眼睛",

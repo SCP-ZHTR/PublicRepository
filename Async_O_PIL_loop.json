@@ -22076,8 +22076,8 @@
          "_info"
       ],
       "comments": "4",
-      "rating": "44",
-      "votes": "44",
+      "rating": "45",
+      "votes": "45",
       "parent": null,
       "id": "957641275",
       "detailed_rating": {
@@ -22257,12 +22257,16 @@
             [
                "5981123",
                1719423184
+            ],
+            [
+               "8319365",
+               1774087411
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 43,
-      "justified_votes": 43
+      "justified_rating": 44,
+      "justified_votes": 44
    },
    "1575719555": {
       "title": "SCP-ZH-258 - 協和御守",
