@@ -40268,8 +40268,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "14",
-      "votes": "16",
+      "rating": "15",
+      "votes": "17",
       "parent": null,
       "id": "1137458542",
       "detailed_rating": {
@@ -40333,6 +40333,10 @@
             [
                "9758462",
                1767320662
+            ],
+            [
+               "9884279",
+               1774056145
             ]
          ],
          "-": [
@@ -40343,8 +40347,8 @@
          ]
       },
       "deleted": false,
-      "justified_rating": 14,
-      "justified_votes": 16
+      "justified_rating": 15,
+      "justified_votes": 17
    },
    "1591165592": {
       "title": "SCP-1638-J - 一塊黑暗而神秘的印刷板",
