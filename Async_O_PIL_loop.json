@@ -133209,8 +133209,8 @@
          "_cc"
       ],
       "comments": "0",
-      "rating": "18",
-      "votes": "18",
+      "rating": "19",
+      "votes": "19",
       "parent": null,
       "id": "1452878067",
       "detailed_rating": {
@@ -133286,12 +133286,16 @@
             [
                "8792088",
                1734683818
+            ],
+            [
+               "9052344",
+               1774130684
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 17,
-      "justified_votes": 17
+      "justified_rating": 18,
+      "justified_votes": 18
    },
    "1709470268": {
       "title": "SCP-ZH-933 甜點巫獸-巫迦仙",
