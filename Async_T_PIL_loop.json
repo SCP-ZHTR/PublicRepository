@@ -65661,8 +65661,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "4",
-      "votes": "4",
+      "rating": "5",
+      "votes": "5",
       "parent": null,
       "id": "1310925705",
       "detailed_rating": {
@@ -65682,12 +65682,16 @@
             [
                "9371222",
                1732963734
+            ],
+            [
+               "7504530",
+               1774275984
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 4,
-      "justified_votes": 4
+      "justified_rating": 5,
+      "justified_votes": 5
    },
    "1619700911": {
       "title": "就那麽分崩離析",
