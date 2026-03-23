@@ -62335,8 +62335,8 @@
          "_marine"
       ],
       "comments": "0",
-      "rating": "10",
-      "votes": "10",
+      "rating": "11",
+      "votes": "11",
       "parent": null,
       "id": "1308451346",
       "detailed_rating": {
@@ -62380,12 +62380,16 @@
             [
                "8177208",
                1768902010
+            ],
+            [
+               "10258637",
+               1774269404
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 10,
-      "justified_votes": 10
+      "justified_rating": 11,
+      "justified_votes": 11
    },
    "1617128716": {
       "title": "佔位符的人事檔案",
