@@ -33601,5 +33601,25 @@
       "deleted": false,
       "justified_rating": 0,
       "justified_votes": 0
+   },
+   "1774355646": {
+      "title": "鴞與員工合作社",
+      "fullname": "deleted:dr-owl-and-the-shop",
+      "created_at": "1774355646",
+      "created_by": "10258637",
+      "tags": [
+         "原創",
+         "故事"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1468357081",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
