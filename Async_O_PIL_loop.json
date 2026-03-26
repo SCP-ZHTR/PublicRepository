@@ -155915,8 +155915,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "3",
-      "votes": "3",
+      "rating": "4",
+      "votes": "4",
       "parent": null,
       "id": "1468354540",
       "detailed_rating": {
@@ -155932,12 +155932,16 @@
             [
                "5370805",
                1774458573
+            ],
+            [
+               "4990678",
+               1774491799
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 3,
-      "justified_votes": 3
+      "justified_rating": 4,
+      "justified_votes": 4
    },
    "1774355646": {
       "title": "鴞與員工合作社",
