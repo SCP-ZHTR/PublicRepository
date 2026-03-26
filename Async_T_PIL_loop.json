@@ -107657,8 +107657,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "8",
-      "votes": "8",
+      "rating": "9",
+      "votes": "9",
       "parent": null,
       "id": "1437053568",
       "detailed_rating": {
@@ -107694,12 +107694,16 @@
             [
                "DELETED",
                1698221034
+            ],
+            [
+               "9758462",
+               1774527744
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 7,
-      "justified_votes": 7
+      "justified_rating": 8,
+      "justified_votes": 8
    },
    "1667735283": {
       "title": "SCP-1333-J!",
