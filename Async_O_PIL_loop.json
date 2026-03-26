@@ -155765,8 +155765,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "17",
-      "votes": "17",
+      "rating": "18",
+      "votes": "18",
       "parent": null,
       "id": "1468239175",
       "detailed_rating": {
@@ -155838,12 +155838,16 @@
             [
                "6141493",
                1773941011
+            ],
+            [
+               "9804815",
+               1774533386
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 17,
-      "justified_votes": 17
+      "justified_rating": 18,
+      "justified_votes": 18
    },
    "1773936316": {
       "title": "SCP-ZH-922 - 太陽姑娘",
