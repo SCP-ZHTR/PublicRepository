@@ -155984,11 +155984,13 @@
       "justified_votes": 0
    },
    "1774623751": {
-      "title": "Scp Zh 308",
+      "title": "SCP-ZH-308 - 大胃王鵜鶘",
       "fullname": "scp-zh-308",
       "created_at": "1774623751",
       "created_by": "10258637",
       "tags": [
+         "safe",
+         "scp",
          "原創"
       ],
       "hidden_tags": [],
