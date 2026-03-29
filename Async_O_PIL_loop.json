@@ -155871,8 +155871,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "9",
-      "votes": "9",
+      "rating": "10",
+      "votes": "10",
       "parent": null,
       "id": "1468324735",
       "detailed_rating": {
@@ -155912,12 +155912,16 @@
             [
                "9501997",
                1774159556
+            ],
+            [
+               "4206567",
+               1774797015
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 9,
-      "justified_votes": 9
+      "justified_rating": 10,
+      "justified_votes": 10
    },
    "1774341044": {
       "title": "電路",
