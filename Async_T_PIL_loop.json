@@ -70737,8 +70737,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "6",
-      "votes": "6",
+      "rating": "7",
+      "votes": "7",
       "parent": null,
       "id": "1312053671",
       "detailed_rating": {
@@ -70766,12 +70766,16 @@
             [
                "DELETED",
                1714727435
+            ],
+            [
+               "8319365",
+               1774868493
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 5,
-      "justified_votes": 5
+      "justified_rating": 6,
+      "justified_votes": 6
    },
    "1623568084": {
       "title": "SCP-3797 - 過去及未來之械",
