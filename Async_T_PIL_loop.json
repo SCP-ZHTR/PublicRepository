@@ -12735,8 +12735,8 @@
          "_cc"
       ],
       "comments": "2",
-      "rating": "20",
-      "votes": "20",
+      "rating": "21",
+      "votes": "21",
       "parent": null,
       "id": "807641058",
       "detailed_rating": {
@@ -12820,12 +12820,16 @@
             [
                "5981123",
                1719422489
+            ],
+            [
+               "9758462",
+               1774888700
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 20,
-      "justified_votes": 20
+      "justified_rating": 21,
+      "justified_votes": 21
    },
    "1560783926": {
       "title": "資料庫錯誤？",
