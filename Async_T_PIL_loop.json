@@ -77539,8 +77539,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "3",
-      "votes": "3",
+      "rating": "4",
+      "votes": "4",
       "parent": null,
       "id": "1324415090",
       "detailed_rating": {
@@ -77556,12 +77556,16 @@
             [
                "7073060",
                1633795200
+            ],
+            [
+               "8319365",
+               1774858044
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 3,
-      "justified_votes": 3
+      "justified_rating": 4,
+      "justified_votes": 4
    },
    "1633918857": {
       "title": "Golem的ACS分級圖標 & 部門Logo頁面",
