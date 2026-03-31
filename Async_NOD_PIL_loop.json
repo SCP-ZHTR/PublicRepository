@@ -33638,8 +33638,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "9",
-      "votes": "9",
+      "rating": "10",
+      "votes": "10",
       "parent": null,
       "id": "1468395734",
       "detailed_rating": {
@@ -33679,11 +33679,15 @@
             [
                "8480087",
                1774976134
+            ],
+            [
+               "5435485",
+               1774978569
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 9,
-      "justified_votes": 9
+      "justified_rating": 10,
+      "justified_votes": 10
    }
 }
