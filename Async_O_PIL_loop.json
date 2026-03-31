@@ -156044,5 +156044,25 @@
       "deleted": false,
       "justified_rating": 2,
       "justified_votes": 4
+   },
+   "1774973063": {
+      "title": "調查報告：Nx-ZH-03-320「澗仔壢」",
+      "fullname": "nx-zh-03-320",
+      "created_at": "1774973063",
+      "created_by": "5325850",
+      "tags": [
+         "原創",
+         "故事"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1468395665",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
