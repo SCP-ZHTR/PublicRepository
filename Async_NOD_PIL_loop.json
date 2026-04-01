@@ -33638,8 +33638,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "13",
-      "votes": "13",
+      "rating": "15",
+      "votes": "15",
       "parent": null,
       "id": "1468395734",
       "detailed_rating": {
@@ -33695,12 +33695,20 @@
             [
                "7064164",
                1775008304
+            ],
+            [
+               "4206567",
+               1775015699
+            ],
+            [
+               "8319365",
+               1775015699
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 13,
-      "justified_votes": 13
+      "justified_rating": 15,
+      "justified_votes": 15
    },
    "1774996364": {
       "title": "SCP姬金會 - 小公主收容大作戰",
