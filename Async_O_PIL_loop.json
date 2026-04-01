@@ -155109,6 +155109,7 @@
          "thaumiel",
          "原創",
          "吳昕博士",
+         "展出",
          "攝像",
          "王尚毅特工",
          "見危-12"
@@ -155651,6 +155652,7 @@
          "surge博士",
          "x博士",
          "原創",
+         "展出",
          "故事"
       ],
       "hidden_tags": [],
@@ -155940,6 +155942,7 @@
       "tags": [
          "wanderers",
          "原創",
+         "展出",
          "故事"
       ],
       "hidden_tags": [],
@@ -156104,5 +156107,26 @@
       "deleted": false,
       "justified_rating": 9,
       "justified_votes": 9
+   },
+   "1774996364": {
+      "title": "SCP姬金會 - 小公主收容大作戰",
+      "fullname": "galgame-zh",
+      "created_at": "1774996364",
+      "created_by": "4990678",
+      "tags": [
+         "ctrl-z博士",
+         "原創",
+         "搞笑"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1468396911",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
