@@ -156019,8 +156019,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "2",
-      "votes": "4",
+      "rating": "3",
+      "votes": "5",
       "parent": null,
       "id": "1468369092",
       "detailed_rating": {
@@ -156036,6 +156036,10 @@
             [
                "8659286",
                1774662960
+            ],
+            [
+               "5435485",
+               1775058361
             ]
          ],
          "-": [
@@ -156046,8 +156050,8 @@
          ]
       },
       "deleted": false,
-      "justified_rating": 2,
-      "justified_votes": 4
+      "justified_rating": 3,
+      "justified_votes": 5
    },
    "1774973063": {
       "title": "調查報告：Nx-ZH-03-320「澗仔壢」",
@@ -156060,8 +156064,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "9",
-      "votes": "9",
+      "rating": "10",
+      "votes": "10",
       "parent": null,
       "id": "1468395665",
       "detailed_rating": {
@@ -156101,12 +156105,16 @@
             [
                "5338547",
                1775032209
+            ],
+            [
+               "5435485",
+               1775058361
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 9,
-      "justified_votes": 9
+      "justified_rating": 10,
+      "justified_votes": 10
    },
    "1774996364": {
       "title": "SCP姬金會 - 小公主收容大作戰",
