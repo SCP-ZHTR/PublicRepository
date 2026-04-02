@@ -156185,7 +156185,7 @@
       "justified_votes": 6
    },
    "1775141374": {
-      "title": "SCP-ZH-992",
+      "title": "SCP-ZH-992 黑水之下",
       "fullname": "scp-zh-992",
       "created_at": "1775141374",
       "created_by": "10306697",
@@ -156197,8 +156197,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "0",
-      "votes": "2",
+      "rating": "-1",
+      "votes": "3",
       "parent": null,
       "id": "1468407657",
       "detailed_rating": {
@@ -156212,11 +156212,15 @@
             [
                "5325850",
                1775143564
+            ],
+            [
+               "8543386",
+               1775145892
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 0,
-      "justified_votes": 2
+      "justified_rating": -1,
+      "justified_votes": 3
    }
 }
