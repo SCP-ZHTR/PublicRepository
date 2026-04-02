@@ -8496,8 +8496,8 @@
          "_info"
       ],
       "comments": "0",
-      "rating": "28",
-      "votes": "28",
+      "rating": "29",
+      "votes": "29",
       "parent": "guide-hub",
       "id": "801775422",
       "detailed_rating": {
@@ -8613,12 +8613,16 @@
             [
                "5370805",
                1773678068
+            ],
+            [
+               "8659286",
+               1775126781
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 28,
-      "justified_votes": 28
+      "justified_rating": 29,
+      "justified_votes": 29
    },
    "1558971934": {
       "title": "關於圖片來源與歸屬的注意事項",
@@ -156136,8 +156140,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "4",
-      "votes": "4",
+      "rating": "5",
+      "votes": "5",
       "parent": null,
       "id": "1468396911",
       "detailed_rating": {
@@ -156157,11 +156161,15 @@
             [
                "8659286",
                1775125461
+            ],
+            [
+               "8404617",
+               1775126781
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 4,
-      "justified_votes": 4
+      "justified_rating": 5,
+      "justified_votes": 5
    }
 }
