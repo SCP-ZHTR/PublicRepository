@@ -153778,8 +153778,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "1",
-      "votes": "1",
+      "rating": "2",
+      "votes": "2",
       "parent": null,
       "id": "1468175471",
       "detailed_rating": {
@@ -153787,12 +153787,16 @@
             [
                "8319365",
                1772063021
+            ],
+            [
+               "5435485",
+               1775091067
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 1,
-      "justified_votes": 1
+      "justified_rating": 2,
+      "justified_votes": 2
    },
    "1773554373": {
       "title": "SCP-3287 - 反嬰兒氣體",
@@ -153865,8 +153869,8 @@
       ],
       "hidden_tags": [],
       "comments": "2",
-      "rating": "1",
-      "votes": "1",
+      "rating": "2",
+      "votes": "2",
       "parent": null,
       "id": "1468275121",
       "detailed_rating": {
@@ -153874,12 +153878,16 @@
             [
                "8033564",
                1773763814
+            ],
+            [
+               "5435485",
+               1775091067
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 1,
-      "justified_votes": 1
+      "justified_rating": 2,
+      "justified_votes": 2
    },
    "1773662296": {
       "title": "SCP-9595 - 比薩怪咖",
