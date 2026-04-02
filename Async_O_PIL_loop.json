@@ -156067,6 +156067,7 @@
       "created_at": "1774973063",
       "created_by": "5325850",
       "tags": [
+         "foundation-format",
          "原創",
          "故事"
       ],
@@ -156148,8 +156149,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "7",
-      "votes": "7",
+      "rating": "8",
+      "votes": "8",
       "parent": null,
       "id": "1468396911",
       "detailed_rating": {
@@ -156181,12 +156182,16 @@
             [
                "4264056",
                1775151284
+            ],
+            [
+               "5370805",
+               1775168595
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 7,
-      "justified_votes": 7
+      "justified_rating": 8,
+      "justified_votes": 8
    },
    "1775141374": {
       "title": "SCP-ZH-992 黑水之下",
