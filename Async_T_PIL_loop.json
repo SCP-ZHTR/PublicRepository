@@ -98629,8 +98629,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "9",
-      "votes": "9",
+      "rating": "10",
+      "votes": "10",
       "parent": null,
       "id": "1420105743",
       "detailed_rating": {
@@ -98670,12 +98670,16 @@
             [
                "DELETED",
                1760466952
+            ],
+            [
+               "9758462",
+               1775207626
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 8,
-      "justified_votes": 8
+      "justified_rating": 9,
+      "justified_votes": 9
    },
    "1657792528": {
       "title": "SCP-7K-J - 一擲定生死",
