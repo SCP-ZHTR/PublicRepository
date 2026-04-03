@@ -105911,8 +105911,8 @@
          "_image"
       ],
       "comments": "0",
-      "rating": "11",
-      "votes": "13",
+      "rating": "12",
+      "votes": "14",
       "parent": null,
       "id": "1436244588",
       "detailed_rating": {
@@ -105964,6 +105964,10 @@
             [
                "6048746",
                1765052681
+            ],
+            [
+               "10258637",
+               1775221063
             ]
          ],
          "-": [
@@ -105974,8 +105978,8 @@
          ]
       },
       "deleted": false,
-      "justified_rating": 11,
-      "justified_votes": 13
+      "justified_rating": 12,
+      "justified_votes": 14
    },
    "1664870365": {
       "title": "SCP-ZH-993 - 無知則自由",
@@ -119556,8 +119560,8 @@
          "_cc"
       ],
       "comments": "0",
-      "rating": "17",
-      "votes": "17",
+      "rating": "18",
+      "votes": "18",
       "parent": null,
       "id": "1449152943",
       "detailed_rating": {
@@ -119629,12 +119633,16 @@
             [
                "9555530",
                1738924692
+            ],
+            [
+               "10258637",
+               1775221063
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 16,
-      "justified_votes": 16
+      "justified_rating": 17,
+      "justified_votes": 17
    },
    "1690515022": {
       "title": "SCP-ZH-698 - 女神玳米雅贊與奧摩奇亞海嘯",
