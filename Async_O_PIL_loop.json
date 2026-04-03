@@ -10676,8 +10676,8 @@
          "_info"
       ],
       "comments": "5",
-      "rating": "82",
-      "votes": "82",
+      "rating": "83",
+      "votes": "83",
       "parent": null,
       "id": "833420456",
       "detailed_rating": {
@@ -11009,12 +11009,16 @@
             [
                "8319365",
                1774858042
+            ],
+            [
+               "10306697",
+               1775188806
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 80,
-      "justified_votes": 80
+      "justified_rating": 81,
+      "justified_votes": 81
    },
    "1562467167": {
       "title": "NSB-8新進人員教程: 何謂colony",
@@ -42337,8 +42341,8 @@
          "_b2"
       ],
       "comments": "0",
-      "rating": "16",
-      "votes": "16",
+      "rating": "17",
+      "votes": "17",
       "parent": null,
       "id": "1143091859",
       "detailed_rating": {
@@ -42406,12 +42410,16 @@
             [
                "4351112",
                1617120000
+            ],
+            [
+               "10306697",
+               1775188806
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 16,
-      "justified_votes": 16
+      "justified_rating": 17,
+      "justified_votes": 17
    },
    "1591540750": {
       "title": "巧達Clef!",
@@ -156028,8 +156036,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "3",
-      "votes": "5",
+      "rating": "4",
+      "votes": "6",
       "parent": null,
       "id": "1468369092",
       "detailed_rating": {
@@ -156049,6 +156057,10 @@
             [
                "5435485",
                1775058361
+            ],
+            [
+               "10306697",
+               1775188806
             ]
          ],
          "-": [
@@ -156059,8 +156071,8 @@
          ]
       },
       "deleted": false,
-      "justified_rating": 3,
-      "justified_votes": 5
+      "justified_rating": 4,
+      "justified_votes": 6
    },
    "1774973063": {
       "title": "調查報告：Nx-ZH-03-320「澗仔壢」",
