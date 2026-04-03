@@ -21260,20 +21260,47 @@
       "justified_votes": 1
    },
    "1775141374": {
-      "title": "Scp Zh 992",
+      "title": "SCP-ZH-992 黑水之下",
       "fullname": "scp-zh-992",
       "created_at": "1775141374",
       "created_by": "10306697",
-      "tags": [],
+      "tags": [
+         "待刪除"
+      ],
       "hidden_tags": [],
-      "comments": "0",
-      "rating": "0",
-      "votes": "0",
+      "comments": "1",
+      "rating": "-3",
+      "votes": "5",
       "parent": null,
       "id": "1468407657",
-      "detailed_rating": {},
-      "deleted": true,
-      "justified_rating": 0,
-      "justified_votes": 0
+      "detailed_rating": {
+         "+": [
+            [
+               "10306697",
+               1775185758
+            ]
+         ],
+         "-": [
+            [
+               "5325850",
+               1775185758
+            ],
+            [
+               "4990678",
+               1775185758
+            ],
+            [
+               "4239775",
+               1775185758
+            ],
+            [
+               "8543386",
+               1775185758
+            ]
+         ]
+      },
+      "deleted": false,
+      "justified_rating": -3,
+      "justified_votes": 5
    }
 }
