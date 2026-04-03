@@ -118491,8 +118491,8 @@
          "_licensebox"
       ],
       "comments": "1",
-      "rating": "6",
-      "votes": "6",
+      "rating": "7",
+      "votes": "7",
       "parent": null,
       "id": "1446963379",
       "detailed_rating": {
@@ -118520,12 +118520,16 @@
             [
                "5415046",
                1679642453
+            ],
+            [
+               "7504530",
+               1775243788
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 6,
-      "justified_votes": 6
+      "justified_rating": 7,
+      "justified_votes": 7
    },
    "1679669440": {
       "title": "SCP-4812 - 憤怒",
