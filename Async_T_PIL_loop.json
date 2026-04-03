@@ -9129,8 +9129,8 @@
          "_cc"
       ],
       "comments": "2",
-      "rating": "30",
-      "votes": "32",
+      "rating": "31",
+      "votes": "33",
       "parent": null,
       "id": "801755082",
       "detailed_rating": {
@@ -9258,6 +9258,10 @@
             [
                "9884279",
                1772715766
+            ],
+            [
+               "10306697",
+               1775192781
             ]
          ],
          "-": [
@@ -9268,8 +9272,8 @@
          ]
       },
       "deleted": false,
-      "justified_rating": 30,
-      "justified_votes": 30
+      "justified_rating": 31,
+      "justified_votes": 31
    },
    "1558573402": {
       "title": "SCP-1312 - Site-41",
@@ -108619,8 +108623,8 @@
          "_licensebox"
       ],
       "comments": "2",
-      "rating": "5",
-      "votes": "5",
+      "rating": "4",
+      "votes": "6",
       "parent": null,
       "id": "1437304200",
       "detailed_rating": {
@@ -108645,11 +108649,17 @@
                "5435485",
                1717302034
             ]
+         ],
+         "-": [
+            [
+               "10306697",
+               1775192781
+            ]
          ]
       },
       "deleted": false,
-      "justified_rating": 4,
-      "justified_votes": 4
+      "justified_rating": 3,
+      "justified_votes": 5
    },
    "1668841236": {
       "title": "SCP-2031-JP - 虐兒者斷罪戰士．審判紫",
