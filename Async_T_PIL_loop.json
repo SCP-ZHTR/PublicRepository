@@ -35887,8 +35887,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "4",
-      "votes": "4",
+      "rating": "5",
+      "votes": "5",
       "parent": null,
       "id": "1035142386",
       "detailed_rating": {
@@ -35908,12 +35908,16 @@
             [
                "8033564",
                1748233206
+            ],
+            [
+               "8659286",
+               1775314248
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 4,
-      "justified_votes": 4
+      "justified_rating": 5,
+      "justified_votes": 5
    },
    "1588593400": {
       "title": "SCP-2316 - 校外教學",
