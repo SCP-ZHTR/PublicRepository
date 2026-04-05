@@ -425,8 +425,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "1",
-      "votes": "1",
+      "rating": "2",
+      "votes": "2",
       "parent": "guide-hub",
       "id": "637405780",
       "detailed_rating": {
@@ -434,12 +434,16 @@
             [
                "6655922",
                1689143977
+            ],
+            [
+               "10258637",
+               1775371569
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 1,
-      "justified_votes": 1
+      "justified_rating": 2,
+      "justified_votes": 2
    },
    "1552227131": {
       "title": "SCP-ZH-543",
