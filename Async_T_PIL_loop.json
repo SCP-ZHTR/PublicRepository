@@ -61864,8 +61864,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "11",
-      "votes": "11",
+      "rating": "12",
+      "votes": "12",
       "parent": null,
       "id": "1308436167",
       "detailed_rating": {
@@ -61913,12 +61913,16 @@
             [
                "6678442",
                1617120000
+            ],
+            [
+               "4264056",
+               1775395316
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 11,
-      "justified_votes": 11
+      "justified_rating": 12,
+      "justified_votes": 12
    },
    "1616858074": {
       "title": "SCP-5884 - 存活",
