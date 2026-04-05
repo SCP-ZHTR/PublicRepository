@@ -110275,8 +110275,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "18",
-      "votes": "18",
+      "rating": "19",
+      "votes": "19",
       "parent": null,
       "id": "1444610476",
       "detailed_rating": {
@@ -110352,12 +110352,16 @@
             [
                "9443485",
                1766069140
+            ],
+            [
+               "9758462",
+               1775355331
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 17,
-      "justified_votes": 17
+      "justified_rating": 18,
+      "justified_votes": 18
    },
    "1671803457": {
       "title": "德語 SCP 基金會",
