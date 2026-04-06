@@ -156329,5 +156329,27 @@
       "deleted": false,
       "justified_rating": 1,
       "justified_votes": 1
+   },
+   "1775467980": {
+      "title": "SCP-ZH-834 - 手寫事成對聯",
+      "fullname": "scp-zh-834",
+      "created_at": "1775467980",
+      "created_by": "10306697",
+      "tags": [
+         "scp",
+         "不可摧毀",
+         "原創",
+         "自我修復"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1468425694",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
