@@ -25838,8 +25838,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "9",
-      "votes": "9",
+      "rating": "10",
+      "votes": "10",
       "parent": "scp-076",
       "id": "999740257",
       "detailed_rating": {
@@ -25879,12 +25879,16 @@
             [
                "9163798",
                1756775820
+            ],
+            [
+               "10306697",
+               1775448673
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 9,
-      "justified_votes": 9
+      "justified_rating": 10,
+      "justified_votes": 10
    },
    "1583570697": {
       "title": "SCP-072 - 床腳",
