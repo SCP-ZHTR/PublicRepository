@@ -156314,8 +156314,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "1",
-      "votes": "1",
+      "rating": "0",
+      "votes": "2",
       "parent": null,
       "id": "1468422906",
       "detailed_rating": {
@@ -156324,11 +156324,17 @@
                "10306697",
                1775468023
             ]
+         ],
+         "-": [
+            [
+               "4206567",
+               1775483750
+            ]
          ]
       },
       "deleted": false,
-      "justified_rating": 1,
-      "justified_votes": 1
+      "justified_rating": 0,
+      "justified_votes": 2
    },
    "1775467980": {
       "title": "SCP-ZH-834 - 手寫事成對聯",
@@ -156342,9 +156348,9 @@
          "自我修復"
       ],
       "hidden_tags": [],
-      "comments": "0",
+      "comments": "1",
       "rating": "-1",
-      "votes": "1",
+      "votes": "3",
       "parent": null,
       "id": "1468425694",
       "detailed_rating": {
@@ -156352,11 +156358,21 @@
             [
                "8543386",
                1775482299
+            ],
+            [
+               "4206567",
+               1775483750
+            ]
+         ],
+         "+": [
+            [
+               "10306697",
+               1775483750
             ]
          ]
       },
       "deleted": false,
       "justified_rating": -1,
-      "justified_votes": 1
+      "justified_votes": 3
    }
 }
