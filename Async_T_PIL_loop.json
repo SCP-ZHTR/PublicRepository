@@ -103995,8 +103995,8 @@
          "_licensebox"
       ],
       "comments": "1",
-      "rating": "18",
-      "votes": "18",
+      "rating": "19",
+      "votes": "19",
       "parent": null,
       "id": "1436156473",
       "detailed_rating": {
@@ -104072,12 +104072,16 @@
             [
                "9758462",
                1772629509
+            ],
+            [
+               "9331631",
+               1775573241
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 16,
-      "justified_votes": 16
+      "justified_rating": 17,
+      "justified_votes": 17
    },
    "1664414441": {
       "title": "煉金學部中心頁",
