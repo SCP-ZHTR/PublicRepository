@@ -123151,8 +123151,8 @@
          "_licensebox"
       ],
       "comments": "0",
-      "rating": "10",
-      "votes": "10",
+      "rating": "11",
+      "votes": "11",
       "parent": null,
       "id": "1447911857",
       "detailed_rating": {
@@ -123196,12 +123196,16 @@
             [
                "8480087",
                1702649124
+            ],
+            [
+               "9758462",
+               1775531578
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 10,
-      "justified_votes": 10
+      "justified_rating": 11,
+      "justified_votes": 11
    },
    "1685274646": {
       "title": "SCP-2950 - 只是一張椅子",
