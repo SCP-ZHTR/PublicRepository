@@ -80470,8 +80470,8 @@
       ],
       "hidden_tags": [],
       "comments": "2",
-      "rating": "11",
-      "votes": "11",
+      "rating": "10",
+      "votes": "12",
       "parent": null,
       "id": "1324081516",
       "detailed_rating": {
@@ -80520,11 +80520,17 @@
                "DELETED",
                1695270804
             ]
+         ],
+         "-": [
+            [
+               "7618181",
+               1775551547
+            ]
          ]
       },
       "deleted": false,
-      "justified_rating": 10,
-      "justified_votes": 10
+      "justified_rating": 9,
+      "justified_votes": 11
    },
    "1632318900": {
       "title": "「轉世計劃」",
