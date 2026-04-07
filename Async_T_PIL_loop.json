@@ -101493,9 +101493,9 @@
       "hidden_tags": [
          "_cc"
       ],
-      "comments": "1",
-      "rating": "12",
-      "votes": "12",
+      "comments": "2",
+      "rating": "13",
+      "votes": "13",
       "parent": null,
       "id": "1420622041",
       "detailed_rating": {
@@ -101547,12 +101547,16 @@
             [
                "5981123",
                1740847618
+            ],
+            [
+               "9758462",
+               1775531706
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 11,
-      "justified_votes": 11
+      "justified_rating": 12,
+      "justified_votes": 12
    },
    "1660121817": {
       "title": "SCP-1545 - 惹人憐愛的駱馬賴瑞",
