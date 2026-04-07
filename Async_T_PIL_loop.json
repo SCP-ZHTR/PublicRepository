@@ -143949,8 +143949,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "4",
-      "votes": "4",
+      "rating": "5",
+      "votes": "5",
       "parent": null,
       "id": "1456589530",
       "detailed_rating": {
@@ -143970,12 +143970,16 @@
             [
                "7504530",
                1725790562
+            ],
+            [
+               "9331631",
+               1775569787
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 4,
-      "justified_votes": 4
+      "justified_rating": 5,
+      "justified_votes": 5
    },
    "1725089893": {
       "title": "SCP-8916 - 異果",
