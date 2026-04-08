@@ -156386,5 +156386,28 @@
       "deleted": false,
       "justified_rating": -2,
       "justified_votes": 4
+   },
+   "1775640185": {
+      "title": "SCP-ZH-528 異界殘響",
+      "fullname": "scp-zh-528",
+      "created_at": "1775640185",
+      "created_by": "9519446",
+      "tags": [
+         "scp",
+         "原創",
+         "異化",
+         "血肉",
+         "音樂"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1468435128",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
