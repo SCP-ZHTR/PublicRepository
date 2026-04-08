@@ -156402,12 +156402,25 @@
       "hidden_tags": [],
       "comments": "0",
       "rating": "0",
-      "votes": "0",
+      "votes": "2",
       "parent": null,
       "id": "1468435128",
-      "detailed_rating": {},
+      "detailed_rating": {
+         "+": [
+            [
+               "9519446",
+               1775644267
+            ]
+         ],
+         "-": [
+            [
+               "5325850",
+               1775644267
+            ]
+         ]
+      },
       "deleted": false,
       "justified_rating": 0,
-      "justified_votes": 0
+      "justified_votes": 2
    }
 }
