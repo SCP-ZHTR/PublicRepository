@@ -9745,8 +9745,8 @@
          "_info"
       ],
       "comments": "0",
-      "rating": "20",
-      "votes": "20",
+      "rating": "21",
+      "votes": "21",
       "parent": null,
       "id": "830051093",
       "detailed_rating": {
@@ -9830,12 +9830,16 @@
             [
                "9075244",
                1729996017
+            ],
+            [
+               "4206567",
+               1775710237
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 18,
-      "justified_votes": 18
+      "justified_rating": 19,
+      "justified_votes": 19
    },
    "1561877087": {
       "title": "SCP-ZH-310 - 異常蛋白質結構域",
