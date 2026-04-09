@@ -87264,16 +87264,12 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "3",
-      "votes": "5",
+      "rating": "4",
+      "votes": "6",
       "parent": null,
       "id": "1337113731",
       "detailed_rating": {
          "+": [
-            [
-               "7469850",
-               1647100800
-            ],
             [
                "4990678",
                1647100800
@@ -87285,6 +87281,14 @@
             [
                "4442284",
                1647100800
+            ],
+            [
+               "9331631",
+               1775697517
+            ],
+            [
+               "DELETED",
+               1775697517
             ]
          ],
          "-": [
@@ -142689,8 +142693,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "10",
-      "votes": "10",
+      "rating": "11",
+      "votes": "11",
       "parent": null,
       "id": "1456004555",
       "detailed_rating": {
@@ -142734,12 +142738,16 @@
             [
                "6981058",
                1733408635
+            ],
+            [
+               "9604083",
+               1775697517
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 10,
-      "justified_votes": 10
+      "justified_rating": 11,
+      "justified_votes": 11
    },
    "1722747370": {
       "title": "SCP-2753 - 來玩疊疊樂！",
