@@ -33772,13 +33772,36 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "0",
-      "votes": "0",
+      "rating": "-5",
+      "votes": "5",
       "parent": null,
       "id": "1468435128",
-      "detailed_rating": {},
+      "detailed_rating": {
+         "-": [
+            [
+               "5325850",
+               1775916741
+            ],
+            [
+               "6344250",
+               1775916741
+            ],
+            [
+               "4990678",
+               1775916741
+            ],
+            [
+               "8543386",
+               1775916741
+            ],
+            [
+               "5415046",
+               1775916741
+            ]
+         ]
+      },
       "deleted": false,
-      "justified_rating": 0,
-      "justified_votes": 0
+      "justified_rating": -5,
+      "justified_votes": 5
    }
 }
