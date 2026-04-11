@@ -153983,8 +153983,8 @@
       ],
       "hidden_tags": [],
       "comments": "2",
-      "rating": "2",
-      "votes": "2",
+      "rating": "3",
+      "votes": "3",
       "parent": null,
       "id": "1468275121",
       "detailed_rating": {
@@ -153996,12 +153996,16 @@
             [
                "5435485",
                1775091067
+            ],
+            [
+               "9763414",
+               1775926032
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 2,
-      "justified_votes": 2
+      "justified_rating": 3,
+      "justified_votes": 3
    },
    "1773662296": {
       "title": "SCP-9595 - 比薩怪咖",
