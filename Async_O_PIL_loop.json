@@ -156465,5 +156465,30 @@
       "deleted": true,
       "justified_rating": -5,
       "justified_votes": 5
+   },
+   "1775919696": {
+      "title": "SCP-ZH-528 異界殘響",
+      "fullname": "scp-zh-528",
+      "created_at": "1775919696",
+      "created_by": "9519446",
+      "tags": [
+         "euclid",
+         "scp",
+         "原創",
+         "精神影響",
+         "聲音",
+         "變形",
+         "音樂性"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1468477820",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
