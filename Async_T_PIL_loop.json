@@ -123901,8 +123901,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "1",
-      "votes": "1",
+      "rating": "2",
+      "votes": "2",
       "parent": null,
       "id": "1448324459",
       "detailed_rating": {
@@ -123910,12 +123910,16 @@
             [
                "3741648",
                1686730795
+            ],
+            [
+               "9884279",
+               1775999774
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 1,
-      "justified_votes": 1
+      "justified_rating": 2,
+      "justified_votes": 2
    },
    "1686207445": {
       "title": "SCP-7084 - 我不管國稅局寄給誰我就是不繳稅",
