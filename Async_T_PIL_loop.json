@@ -145691,8 +145691,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "10",
-      "votes": "10",
+      "rating": "11",
+      "votes": "11",
       "parent": null,
       "id": "1457289988",
       "detailed_rating": {
@@ -145736,12 +145736,16 @@
             [
                "8319365",
                1746950973
+            ],
+            [
+               "9763414",
+               1776020322
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 10,
-      "justified_votes": 10
+      "justified_rating": 11,
+      "justified_votes": 11
    },
    "1730896090": {
       "title": "SCP-8654 - 高處恐懼症：上即是下",
@@ -148884,8 +148888,8 @@
          "_licensebox"
       ],
       "comments": "0",
-      "rating": "4",
-      "votes": "4",
+      "rating": "5",
+      "votes": "5",
       "parent": "scp-anthology-2024",
       "id": "1459742445",
       "detailed_rating": {
@@ -148905,12 +148909,16 @@
             [
                "4990678",
                1749300420
+            ],
+            [
+               "9763414",
+               1776020322
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 4,
-      "justified_votes": 4
+      "justified_rating": 5,
+      "justified_votes": 5
    },
    "1749802508": {
       "title": "SCP-8356 - 選擇恐懼症：行差踏錯",
