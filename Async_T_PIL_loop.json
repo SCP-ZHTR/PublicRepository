@@ -147456,8 +147456,8 @@
       ],
       "hidden_tags": [],
       "comments": "4",
-      "rating": "10",
-      "votes": "10",
+      "rating": "11",
+      "votes": "11",
       "parent": "scp-anthology-2024",
       "id": "1458609080",
       "detailed_rating": {
@@ -147501,12 +147501,16 @@
             [
                "6048746",
                1760221487
+            ],
+            [
+               "9763414",
+               1776028680
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 10,
-      "justified_votes": 10
+      "justified_rating": 11,
+      "justified_votes": 11
    },
    "1741025853": {
       "title": "SCP-031-VN - 細聽非現實的低語",
