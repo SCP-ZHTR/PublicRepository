@@ -149325,8 +149325,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "5",
-      "votes": "5",
+      "rating": "6",
+      "votes": "6",
       "parent": null,
       "id": "1459886253",
       "detailed_rating": {
@@ -149350,12 +149350,16 @@
             [
                "7571354",
                1752070015
+            ],
+            [
+               "9763414",
+               1776017553
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 5,
-      "justified_votes": 5
+      "justified_rating": 6,
+      "justified_votes": 6
    },
    "1751890422": {
       "title": "SCP-8329 - 獎品人",
