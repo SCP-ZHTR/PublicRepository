@@ -156348,8 +156348,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "-1",
-      "votes": "3",
+      "rating": "0",
+      "votes": "4",
       "parent": null,
       "id": "1468422906",
       "detailed_rating": {
@@ -156367,12 +156367,16 @@
             [
                "8659286",
                1775656582
+            ],
+            [
+               "7504530",
+               1775976492
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": -1,
-      "justified_votes": 3
+      "justified_rating": 0,
+      "justified_votes": 4
    },
    "1775467980": {
       "title": "SCP-ZH-834 - 手寫事成對聯",
