@@ -124032,8 +124032,8 @@
       ],
       "hidden_tags": [],
       "comments": "2",
-      "rating": "6",
-      "votes": "6",
+      "rating": "7",
+      "votes": "7",
       "parent": null,
       "id": "1448372226",
       "detailed_rating": {
@@ -124061,12 +124061,16 @@
             [
                "9371222",
                1730547685
+            ],
+            [
+               "9763414",
+               1776013105
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 6,
-      "justified_votes": 6
+      "justified_rating": 7,
+      "justified_votes": 7
    },
    "1686368632": {
       "title": "SCP-573 - 斑衣者的魔笛",
@@ -151154,8 +151158,8 @@
       ],
       "hidden_tags": [],
       "comments": "2",
-      "rating": "5",
-      "votes": "5",
+      "rating": "6",
+      "votes": "6",
       "parent": null,
       "id": "1460408937",
       "detailed_rating": {
@@ -151179,12 +151183,16 @@
             [
                "8033564",
                1760284075
+            ],
+            [
+               "9763414",
+               1776013105
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 5,
-      "justified_votes": 5
+      "justified_rating": 6,
+      "justified_votes": 6
    },
    "1758120544": {
       "title": "維安設施檔案：遺跡無人區Area-27",
