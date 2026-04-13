@@ -148307,8 +148307,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "12",
-      "votes": "12",
+      "rating": "13",
+      "votes": "13",
       "parent": null,
       "id": "1459300068",
       "detailed_rating": {
@@ -148360,12 +148360,16 @@
             [
                "9884279",
                1770340830
+            ],
+            [
+               "9763414",
+               1776071855
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 12,
-      "justified_votes": 12
+      "justified_rating": 13,
+      "justified_votes": 13
    },
    "1745235032": {
       "title": "SCP-4256 - 私酒販的印刷機",
@@ -148823,8 +148827,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "8",
-      "votes": "8",
+      "rating": "9",
+      "votes": "9",
       "parent": null,
       "id": "1459728512",
       "detailed_rating": {
@@ -148860,12 +148864,16 @@
             [
                "5435485",
                1772884945
+            ],
+            [
+               "9763414",
+               1776071855
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 8,
-      "justified_votes": 8
+      "justified_rating": 9,
+      "justified_votes": 9
    },
    "1748690864": {
       "title": "SCP-8607 - 信任恐懼症：露西的家",
