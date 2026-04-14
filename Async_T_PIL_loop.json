@@ -146839,8 +146839,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "7",
-      "votes": "7",
+      "rating": "8",
+      "votes": "8",
       "parent": null,
       "id": "1458096550",
       "detailed_rating": {
@@ -146872,12 +146872,16 @@
             [
                "5334590",
                1735364277
+            ],
+            [
+               "9763414",
+               1776167757
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 7,
-      "justified_votes": 7
+      "justified_rating": 8,
+      "justified_votes": 8
    },
    "1735481755": {
       "title": "SCP-8430 - 發展恐懼症：充實貫徹",
