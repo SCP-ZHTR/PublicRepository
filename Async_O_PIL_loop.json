@@ -156398,8 +156398,8 @@
       ],
       "hidden_tags": [],
       "comments": "3",
-      "rating": "-2",
-      "votes": "4",
+      "rating": "-3",
+      "votes": "5",
       "parent": null,
       "id": "1468425694",
       "detailed_rating": {
@@ -156415,6 +156415,10 @@
             [
                "4990678",
                1775485077
+            ],
+            [
+               "9758462",
+               1776150949
             ]
          ],
          "+": [
@@ -156425,8 +156429,8 @@
          ]
       },
       "deleted": false,
-      "justified_rating": -2,
-      "justified_votes": 4
+      "justified_rating": -3,
+      "justified_votes": 5
    },
    "1775640185": {
       "title": "SCP-ZH-528 異界殘響",
