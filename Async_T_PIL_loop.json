@@ -44735,8 +44735,8 @@
          "_cc"
       ],
       "comments": "0",
-      "rating": "9",
-      "votes": "9",
+      "rating": "10",
+      "votes": "10",
       "parent": null,
       "id": "1267530482",
       "detailed_rating": {
@@ -44776,12 +44776,16 @@
             [
                "9884279",
                1768953898
+            ],
+            [
+               "10306697",
+               1776158914
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 9,
-      "justified_votes": 9
+      "justified_rating": 10,
+      "justified_votes": 10
    },
    "1598315504": {
       "title": "日本的偉人「日奉 樹」",
