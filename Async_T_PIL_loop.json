@@ -45263,8 +45263,8 @@
          "_licensebox"
       ],
       "comments": "0",
-      "rating": "6",
-      "votes": "6",
+      "rating": "7",
+      "votes": "7",
       "parent": null,
       "id": "1267807025",
       "detailed_rating": {
@@ -45292,12 +45292,16 @@
             [
                "9428515",
                1731867648
+            ],
+            [
+               "3981670",
+               1776253689
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 6,
-      "justified_votes": 6
+      "justified_rating": 7,
+      "justified_votes": 7
    },
    "1598933956": {
       "title": "SCP-ES-202",
@@ -145107,8 +145111,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "7",
-      "votes": "7",
+      "rating": "8",
+      "votes": "8",
       "parent": null,
       "id": "1457018583",
       "detailed_rating": {
@@ -145140,12 +145144,16 @@
             [
                "7504530",
                1730014920
+            ],
+            [
+               "9763414",
+               1776253689
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 7,
-      "justified_votes": 7
+      "justified_rating": 8,
+      "justified_votes": 8
    },
    "1728341289": {
       "title": "SCP-7959 - 封 閉 / 系 統",
@@ -145578,8 +145586,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "3",
-      "votes": "3",
+      "rating": "4",
+      "votes": "4",
       "parent": null,
       "id": "1457234768",
       "detailed_rating": {
@@ -145595,12 +145603,16 @@
             [
                "7840542",
                1730455459
+            ],
+            [
+               "9763414",
+               1776253689
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 3,
-      "justified_votes": 3
+      "justified_rating": 4,
+      "justified_votes": 4
    },
    "1730476856": {
       "title": "SCP-2571 - 商木樂園",
