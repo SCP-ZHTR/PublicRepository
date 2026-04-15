@@ -145621,8 +145621,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "3",
-      "votes": "3",
+      "rating": "4",
+      "votes": "4",
       "parent": null,
       "id": "1457238935",
       "detailed_rating": {
@@ -145638,12 +145638,16 @@
             [
                "4990678",
                1734780135
+            ],
+            [
+               "9763414",
+               1776252344
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 3,
-      "justified_votes": 3
+      "justified_rating": 4,
+      "justified_votes": 4
    },
    "1730628000": {
       "title": "SCP-3546-JP - 真桑岼佳（競賽馬）",
