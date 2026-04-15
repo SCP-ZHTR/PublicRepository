@@ -145506,8 +145506,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "9",
-      "votes": "9",
+      "rating": "10",
+      "votes": "10",
       "parent": null,
       "id": "1457219728",
       "detailed_rating": {
@@ -145547,12 +145547,16 @@
             [
                "7064164",
                1732446340
+            ],
+            [
+               "9763414",
+               1776250630
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 9,
-      "justified_votes": 9
+      "justified_rating": 10,
+      "justified_votes": 10
    },
    "1730359180": {
       "title": "SCP-2508 - 漫長等待",
@@ -146583,8 +146587,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "5",
-      "votes": "5",
+      "rating": "6",
+      "votes": "6",
       "parent": null,
       "id": "1457459515",
       "detailed_rating": {
@@ -146608,12 +146612,16 @@
             [
                "8792088",
                1733186944
+            ],
+            [
+               "9763414",
+               1776250630
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 5,
-      "justified_votes": 5
+      "justified_rating": 6,
+      "justified_votes": 6
    },
    "1733386641": {
       "title": "SCP-1342 - 致作曲者",
