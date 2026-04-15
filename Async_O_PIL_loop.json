@@ -155978,8 +155978,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "10",
-      "votes": "10",
+      "rating": "11",
+      "votes": "11",
       "parent": null,
       "id": "1468324735",
       "detailed_rating": {
@@ -156023,12 +156023,16 @@
             [
                "4206567",
                1774797015
+            ],
+            [
+               "7064164",
+               1776263783
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 10,
-      "justified_votes": 10
+      "justified_rating": 11,
+      "justified_votes": 11
    },
    "1774341044": {
       "title": "電路",
@@ -156249,8 +156253,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "10",
-      "votes": "10",
+      "rating": "11",
+      "votes": "11",
       "parent": null,
       "id": "1468396911",
       "detailed_rating": {
@@ -156294,12 +156298,16 @@
             [
                "7852233",
                1775658770
+            ],
+            [
+               "7064164",
+               1776263783
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 10,
-      "justified_votes": 10
+      "justified_rating": 11,
+      "justified_votes": 11
    },
    "1775141374": {
       "title": "SCP-ZH-992 黑水之下",
