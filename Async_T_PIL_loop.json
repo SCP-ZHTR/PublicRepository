@@ -141876,8 +141876,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "5",
-      "votes": "5",
+      "rating": "6",
+      "votes": "6",
       "parent": null,
       "id": "1455860275",
       "detailed_rating": {
@@ -141901,12 +141901,16 @@
             [
                "5370805",
                1720794719
+            ],
+            [
+               "9763414",
+               1776349435
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 5,
-      "justified_votes": 5
+      "justified_rating": 6,
+      "justified_votes": 6
    },
    "1720794358": {
       "title": "Brökkën Güd",
@@ -142358,8 +142362,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "7",
-      "votes": "7",
+      "rating": "8",
+      "votes": "8",
       "parent": null,
       "id": "1455931854",
       "detailed_rating": {
@@ -142391,12 +142395,16 @@
             [
                "8883612",
                1724221933
+            ],
+            [
+               "9763414",
+               1776349435
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 7,
-      "justified_votes": 7
+      "justified_rating": 8,
+      "justified_votes": 8
    },
    "1721678401": {
       "title": "阿基瓦計數器使用說明書",
@@ -142745,8 +142753,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "11",
-      "votes": "11",
+      "rating": "12",
+      "votes": "12",
       "parent": null,
       "id": "1456004555",
       "detailed_rating": {
@@ -142794,12 +142802,16 @@
             [
                "9604083",
                1775697517
+            ],
+            [
+               "9763414",
+               1776349435
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 11,
-      "justified_votes": 11
+      "justified_rating": 12,
+      "justified_votes": 12
    },
    "1722747370": {
       "title": "SCP-2753 - 來玩疊疊樂！",
