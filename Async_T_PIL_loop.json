@@ -138651,8 +138651,8 @@
          "_licensebox"
       ],
       "comments": "0",
-      "rating": "7",
-      "votes": "7",
+      "rating": "8",
+      "votes": "8",
       "parent": null,
       "id": "1453323218",
       "detailed_rating": {
@@ -138684,12 +138684,16 @@
             [
                "8543386",
                1719663430
+            ],
+            [
+               "9763414",
+               1776430733
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 7,
-      "justified_votes": 7
+      "justified_rating": 8,
+      "justified_votes": 8
    },
    "1667145601": {
       "title": "Site-19 維安資料 19.2022.10.31",
@@ -138823,8 +138827,8 @@
          "_禁黑"
       ],
       "comments": "0",
-      "rating": "15",
-      "votes": "15",
+      "rating": "16",
+      "votes": "16",
       "parent": null,
       "id": "1453324144",
       "detailed_rating": {
@@ -138888,12 +138892,16 @@
             [
                "5413616",
                1755444145
+            ],
+            [
+               "9763414",
+               1776430733
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 15,
-      "justified_votes": 15
+      "justified_rating": 16,
+      "justified_votes": 16
    },
    "1712989328": {
       "title": "SCP-8424 - 不要直視日蝕",
@@ -139039,8 +139047,8 @@
          "_licensebox"
       ],
       "comments": "0",
-      "rating": "5",
-      "votes": "5",
+      "rating": "6",
+      "votes": "6",
       "parent": null,
       "id": "1453330512",
       "detailed_rating": {
@@ -139064,12 +139072,16 @@
             [
                "8883612",
                1714746083
+            ],
+            [
+               "9763414",
+               1776430733
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 5,
-      "justified_votes": 5
+      "justified_rating": 6,
+      "justified_votes": 6
    },
    "1713110989": {
       "title": "SCP-3017 - 嫌疑犯",
@@ -139392,8 +139404,8 @@
          "_cc"
       ],
       "comments": "0",
-      "rating": "6",
-      "votes": "6",
+      "rating": "7",
+      "votes": "7",
       "parent": null,
       "id": "1453361917",
       "detailed_rating": {
@@ -139421,12 +139433,16 @@
             [
                "7073060",
                1714479000
+            ],
+            [
+               "9763414",
+               1776430733
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 6,
-      "justified_votes": 6
+      "justified_rating": 7,
+      "justified_votes": 7
    },
    "1713524576": {
       "title": "Wondertainment博士中心頁",
@@ -140833,8 +140849,8 @@
          "_licensebox"
       ],
       "comments": "0",
-      "rating": "3",
-      "votes": "3",
+      "rating": "4",
+      "votes": "4",
       "parent": null,
       "id": "1453794258",
       "detailed_rating": {
@@ -140850,12 +140866,16 @@
             [
                "9758462",
                1767956205
+            ],
+            [
+               "9763414",
+               1776430733
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 3,
-      "justified_votes": 3
+      "justified_rating": 4,
+      "justified_votes": 4
    },
    "1716565432": {
       "title": "SCP-2061 - 「本地一家庭慘遭一臺計算機噎死滅門」",
