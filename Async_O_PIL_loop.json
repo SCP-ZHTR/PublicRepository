@@ -156534,13 +156534,28 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "0",
-      "votes": "0",
+      "rating": "3",
+      "votes": "3",
       "parent": null,
       "id": "1468529111",
-      "detailed_rating": {},
+      "detailed_rating": {
+         "+": [
+            [
+               "5325850",
+               1776601141
+            ],
+            [
+               "8177208",
+               1776601141
+            ],
+            [
+               "8846720",
+               1776601141
+            ]
+         ]
+      },
       "deleted": false,
-      "justified_rating": 0,
-      "justified_votes": 0
+      "justified_rating": 3,
+      "justified_votes": 3
    }
 }
