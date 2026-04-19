@@ -156130,8 +156130,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "4",
-      "votes": "6",
+      "rating": "5",
+      "votes": "7",
       "parent": null,
       "id": "1468369092",
       "detailed_rating": {
@@ -156155,6 +156155,10 @@
             [
                "10306697",
                1775188806
+            ],
+            [
+               "7064164",
+               1776610181
             ]
          ],
          "-": [
@@ -156165,8 +156169,8 @@
          ]
       },
       "deleted": false,
-      "justified_rating": 4,
-      "justified_votes": 6
+      "justified_rating": 5,
+      "justified_votes": 7
    },
    "1774973063": {
       "title": "調查報告：Nx-ZH-03-320「澗仔壢」",
