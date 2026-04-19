@@ -138019,8 +138019,8 @@
          "_禁黑"
       ],
       "comments": "0",
-      "rating": "3",
-      "votes": "3",
+      "rating": "4",
+      "votes": "4",
       "parent": null,
       "id": "1452954945",
       "detailed_rating": {
@@ -138036,12 +138036,16 @@
             [
                "7571354",
                1711550352
+            ],
+            [
+               "9763414",
+               1776634734
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 3,
-      "justified_votes": 3
+      "justified_rating": 4,
+      "justified_votes": 4
    },
    "1711373258": {
       "title": "SCP-1681 - 美國偶像",
@@ -138104,8 +138108,8 @@
          "_licensebox"
       ],
       "comments": "2",
-      "rating": "12",
-      "votes": "12",
+      "rating": "13",
+      "votes": "13",
       "parent": null,
       "id": "1453145625",
       "detailed_rating": {
@@ -138157,12 +138161,16 @@
             [
                "DELETED",
                1761684451
+            ],
+            [
+               "9763414",
+               1776634734
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 11,
-      "justified_votes": 11
+      "justified_rating": 12,
+      "justified_votes": 12
    },
    "1711605122": {
       "title": "SCP-1161 - 如何之書",
@@ -138253,8 +138261,8 @@
          "_licensebox"
       ],
       "comments": "0",
-      "rating": "6",
-      "votes": "6",
+      "rating": "7",
+      "votes": "7",
       "parent": null,
       "id": "1453165997",
       "detailed_rating": {
@@ -138282,12 +138290,16 @@
             [
                "5223229",
                1768748056
+            ],
+            [
+               "9763414",
+               1776634734
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 6,
-      "justified_votes": 6
+      "justified_rating": 7,
+      "justified_votes": 7
    },
    "1712065871": {
       "title": "2024年愚人節",
