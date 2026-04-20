@@ -131852,8 +131852,8 @@
          "_licensebox"
       ],
       "comments": "0",
-      "rating": "2",
-      "votes": "2",
+      "rating": "3",
+      "votes": "3",
       "parent": null,
       "id": "1450928206",
       "detailed_rating": {
@@ -131865,12 +131865,16 @@
             [
                "8854072",
                1698156820
+            ],
+            [
+               "9763414",
+               1776700787
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 2,
-      "justified_votes": 2
+      "justified_rating": 3,
+      "justified_votes": 3
    },
    "1698196581": {
       "title": "SCP-1665 - 8列，18列",
