@@ -135436,8 +135436,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "28",
-      "votes": "28",
+      "rating": "29",
+      "votes": "29",
       "parent": "cack-hub",
       "id": "1452007346",
       "detailed_rating": {
@@ -135553,12 +135553,16 @@
             [
                "DELETED",
                1767874120
+            ],
+            [
+               "9763414",
+               1776694028
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 27,
-      "justified_votes": 27
+      "justified_rating": 28,
+      "justified_votes": 28
    },
    "1704487837": {
       "title": "SCP-211 - 紙御之室",
@@ -135736,8 +135740,8 @@
          "_licensebox"
       ],
       "comments": "1",
-      "rating": "4",
-      "votes": "4",
+      "rating": "5",
+      "votes": "5",
       "parent": null,
       "id": "1452119321",
       "detailed_rating": {
@@ -135757,12 +135761,16 @@
             [
                "7504530",
                1705209402
+            ],
+            [
+               "9763414",
+               1776694028
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 4,
-      "justified_votes": 4
+      "justified_rating": 5,
+      "justified_votes": 5
    },
    "1704982942": {
       "title": "辛梅利安博士的提案 - 關於加文汀座81第二行星及錫卡西座ε第七行星（俗稱「寶劍雙星」）原有住民之倫理考量。",
