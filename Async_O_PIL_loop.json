@@ -126320,8 +126320,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "30",
-      "votes": "30",
+      "rating": "31",
+      "votes": "31",
       "parent": null,
       "id": "1450935260",
       "detailed_rating": {
@@ -126445,12 +126445,16 @@
             [
                "5325850",
                1776737686
+            ],
+            [
+               "9758462",
+               1776788985
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 29,
-      "justified_votes": 29
+      "justified_rating": 30,
+      "justified_votes": 30
    },
    "1698320758": {
       "title": "SCP-ZH-367 - 神聖干預讓你大豐收",
