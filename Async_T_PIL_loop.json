@@ -101318,8 +101318,8 @@
       ],
       "hidden_tags": [],
       "comments": "5",
-      "rating": "29",
-      "votes": "29",
+      "rating": "30",
+      "votes": "30",
       "parent": null,
       "id": "1420558309",
       "detailed_rating": {
@@ -101439,12 +101439,16 @@
             [
                "9804815",
                1755153685
+            ],
+            [
+               "9763414",
+               1776783573
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 27,
-      "justified_votes": 27
+      "justified_rating": 28,
+      "justified_votes": 28
    },
    "1659901534": {
       "title": "SCP-7013 - 視實是十三",
