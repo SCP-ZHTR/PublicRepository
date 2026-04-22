@@ -49371,8 +49371,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "8",
-      "votes": "8",
+      "rating": "9",
+      "votes": "9",
       "parent": null,
       "id": "1305426505",
       "detailed_rating": {
@@ -49408,12 +49408,16 @@
             [
                "8452537",
                1733718717
+            ],
+            [
+               "9763414",
+               1776875062
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 8,
-      "justified_votes": 8
+      "justified_rating": 9,
+      "justified_votes": 9
    },
    "1603163041": {
       "title": "SCP-3519 - 這些寧靜的日子",
@@ -98798,8 +98802,8 @@
          "_licensebox"
       ],
       "comments": "4",
-      "rating": "2",
-      "votes": "32",
+      "rating": "3",
+      "votes": "33",
       "parent": null,
       "id": "1420120982",
       "detailed_rating": {
@@ -98871,6 +98875,10 @@
             [
                "9884279",
                1769310910
+            ],
+            [
+               "9763414",
+               1776875062
             ]
          ],
          "-": [
@@ -98937,8 +98945,8 @@
          ]
       },
       "deleted": false,
-      "justified_rating": 2,
-      "justified_votes": 30
+      "justified_rating": 3,
+      "justified_votes": 31
    },
    "1657804056": {
       "title": "SCP-7000競賽中心頁",
