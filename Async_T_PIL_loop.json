@@ -89704,8 +89704,8 @@
          "_licensebox"
       ],
       "comments": "0",
-      "rating": "8",
-      "votes": "8",
+      "rating": "9",
+      "votes": "9",
       "parent": null,
       "id": "1402005990",
       "detailed_rating": {
@@ -89741,12 +89741,16 @@
             [
                "9763414",
                1757947632
+            ],
+            [
+               "9758462",
+               1776946980
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 7,
-      "justified_votes": 7
+      "justified_rating": 8,
+      "justified_votes": 8
    },
    "1648705450": {
       "title": "SCP-136 - 裸身偶人",
@@ -150592,8 +150596,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "9",
-      "votes": "9",
+      "rating": "8",
+      "votes": "10",
       "parent": null,
       "id": "1460024142",
       "detailed_rating": {
@@ -150634,11 +150638,17 @@
                "9758462",
                1767880652
             ]
+         ],
+         "-": [
+            [
+               "9670949",
+               1776946980
+            ]
          ]
       },
       "deleted": false,
-      "justified_rating": 9,
-      "justified_votes": 9
+      "justified_rating": 8,
+      "justified_votes": 10
    },
    "1755414514": {
       "title": "非官方SCP新手包",
