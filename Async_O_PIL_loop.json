@@ -156633,8 +156633,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "4",
-      "votes": "4",
+      "rating": "5",
+      "votes": "5",
       "parent": null,
       "id": "1468570350",
       "detailed_rating": {
@@ -156654,12 +156654,16 @@
             [
                "4206567",
                1777171391
+            ],
+            [
+               "6217438",
+               1777302620
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 4,
-      "justified_votes": 4
+      "justified_rating": 5,
+      "justified_votes": 5
    },
    "1777286073": {
       "title": "SCP-ZH-218-EX",
@@ -156677,8 +156681,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "5",
-      "votes": "7",
+      "rating": "6",
+      "votes": "8",
       "parent": null,
       "id": "1468580512",
       "detailed_rating": {
@@ -156706,6 +156710,10 @@
             [
                "4239775",
                1777299750
+            ],
+            [
+               "6217438",
+               1777302620
             ]
          ],
          "-": [
@@ -156716,7 +156724,7 @@
          ]
       },
       "deleted": false,
-      "justified_rating": 5,
-      "justified_votes": 7
+      "justified_rating": 6,
+      "justified_votes": 8
    }
 }
