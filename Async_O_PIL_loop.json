@@ -156726,5 +156726,28 @@
       "deleted": false,
       "justified_rating": 6,
       "justified_votes": 8
+   },
+   "1777305651": {
+      "title": "共有良夜",
+      "fullname": "shared-good-night",
+      "created_at": "1777305651",
+      "created_by": "6217438",
+      "tags": [
+         "site-zh-11",
+         "原創",
+         "故事",
+         "真紀博士",
+         "趙禮竺特工"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1468581420",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
