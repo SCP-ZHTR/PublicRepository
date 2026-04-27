@@ -28276,8 +28276,8 @@
          "_info"
       ],
       "comments": "2",
-      "rating": "12",
-      "votes": "12",
+      "rating": "13",
+      "votes": "13",
       "parent": null,
       "id": "986232060",
       "detailed_rating": {
@@ -28329,12 +28329,16 @@
             [
                "DELETED",
                1695273830
+            ],
+            [
+               "10258637",
+               1777249194
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 11,
-      "justified_votes": 11
+      "justified_rating": 12,
+      "justified_votes": 12
    },
    "1579705941": {
       "title": "洗標：橙-0754",
