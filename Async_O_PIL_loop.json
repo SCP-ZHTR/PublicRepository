@@ -156660,5 +156660,26 @@
       "deleted": false,
       "justified_rating": 4,
       "justified_votes": 4
+   },
+   "1777286073": {
+      "title": "SCP-ZH-218-EX",
+      "fullname": "scp-zh-218",
+      "created_at": "1777286073",
+      "created_by": "8854072",
+      "tags": [
+         "scp",
+         "原創",
+         "火勢遏阻部"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1468580512",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
