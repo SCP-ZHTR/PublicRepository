@@ -154529,5 +154529,34 @@
       "deleted": false,
       "justified_rating": 0,
       "justified_votes": 0
+   },
+   "1777379962": {
+      "title": "SCP-7119 - 掀波（恨你）",
+      "fullname": "scp-7119",
+      "created_at": "1777379962",
+      "created_by": "4206567",
+      "tags": [
+         "en",
+         "en-冷稿空降",
+         "safe",
+         "scp",
+         "家用品大戰爭",
+         "家電用品",
+         "敵意",
+         "異常移動",
+         "翻譯",
+         "觀察影響",
+         "電子"
+      ],
+      "hidden_tags": [],
+      "comments": "1",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1468584236",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
