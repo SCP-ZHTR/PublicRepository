@@ -154499,5 +154499,35 @@
       "deleted": false,
       "justified_rating": 2,
       "justified_votes": 2
+   },
+   "1777367070": {
+      "title": "倫理委員會雜記：基金會想要一隻機器人軍隊的五個理由",
+      "fullname": "the-foundation-wants-a-robot-army",
+      "created_at": "1777367070",
+      "created_by": "6381244",
+      "tags": [
+         "en",
+         "en-末日2018",
+         "mc&d",
+         "倫理委員會",
+         "合著",
+         "故事",
+         "普羅米修斯實驗室",
+         "末日後",
+         "死亡終了",
+         "翻譯"
+      ],
+      "hidden_tags": [
+         "_licensebox"
+      ],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": "end-of-death-hub",
+      "id": "1468583492",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
