@@ -129752,8 +129752,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "7",
-      "votes": "7",
+      "rating": "8",
+      "votes": "8",
       "parent": null,
       "id": "1452000301",
       "detailed_rating": {
@@ -129785,12 +129785,16 @@
             [
                "8546930",
                1726111332
+            ],
+            [
+               "8854072",
+               1777489173
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 7,
-      "justified_votes": 7
+      "justified_rating": 8,
+      "justified_votes": 8
    },
    "1703934008": {
       "title": "Buckshot In Christmas",
