@@ -112870,8 +112870,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "13",
-      "votes": "17",
+      "rating": "14",
+      "votes": "18",
       "parent": null,
       "id": "1445831255",
       "detailed_rating": {
@@ -112935,6 +112935,10 @@
             [
                "DELETED",
                1692108216
+            ],
+            [
+               "6693418",
+               1777432315
             ]
          ],
          "-": [
@@ -112949,8 +112953,8 @@
          ]
       },
       "deleted": false,
-      "justified_rating": 12,
-      "justified_votes": 16
+      "justified_rating": 13,
+      "justified_votes": 17
    },
    "1675427394": {
       "title": "SCP-ZH-305 - 頭等艙",
