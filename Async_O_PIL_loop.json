@@ -54883,8 +54883,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "7",
-      "votes": "7",
+      "rating": "8",
+      "votes": "8",
       "parent": null,
       "id": "1305335597",
       "detailed_rating": {
@@ -54916,12 +54916,16 @@
             [
                "5454699",
                1627228800
+            ],
+            [
+               "8854072",
+               1777476644
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 7,
-      "justified_votes": 7
+      "justified_rating": 8,
+      "justified_votes": 8
    },
    "1602926708": {
       "title": "藝術@(&ˊ紀█：自我中心。",
@@ -156840,13 +156844,20 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "0",
-      "votes": "0",
+      "rating": "1",
+      "votes": "1",
       "parent": null,
       "id": "1468588817",
-      "detailed_rating": {},
+      "detailed_rating": {
+         "+": [
+            [
+               "8854072",
+               1777476644
+            ]
+         ]
+      },
       "deleted": false,
-      "justified_rating": 0,
-      "justified_votes": 0
+      "justified_rating": 1,
+      "justified_votes": 1
    }
 }
