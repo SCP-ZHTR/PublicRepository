@@ -156824,5 +156824,29 @@
       "deleted": false,
       "justified_rating": 5,
       "justified_votes": 5
+   },
+   "1777473164": {
+      "title": "SCP-ZH-462 - 先於存在",
+      "fullname": "scp-zh-462",
+      "created_at": "1777473164",
+      "created_by": "3981670",
+      "tags": [
+         "euclid",
+         "scp",
+         "原創",
+         "地點",
+         "基金會製造",
+         "認知危害"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1468588817",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
