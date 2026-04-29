@@ -100625,8 +100625,8 @@
          "_禁黑"
       ],
       "comments": "2",
-      "rating": "12",
-      "votes": "12",
+      "rating": "13",
+      "votes": "13",
       "parent": null,
       "id": "1420442490",
       "detailed_rating": {
@@ -100678,12 +100678,16 @@
             [
                "DELETED",
                1772599550
+            ],
+            [
+               "8854072",
+               1777488035
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 11,
-      "justified_votes": 11
+      "justified_rating": 12,
+      "justified_votes": 12
    },
    "1659362498": {
       "title": "SCP-6902 - 遺失的行李",
