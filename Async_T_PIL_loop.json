@@ -64937,8 +64937,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "5",
-      "votes": "5",
+      "rating": "6",
+      "votes": "6",
       "parent": "scpdeclassified",
       "id": "1309841347",
       "detailed_rating": {
@@ -64962,12 +64962,16 @@
             [
                "5013754",
                1626451200
+            ],
+            [
+               "8854072",
+               1777574667
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 5,
-      "justified_votes": 5
+      "justified_rating": 6,
+      "justified_votes": 6
    },
    "1618998682": {
       "title": "SCP-5383 - 基督教版科樂美密技 (緩衝區溢位)",
