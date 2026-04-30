@@ -5074,8 +5074,8 @@
          "_禁黑"
       ],
       "comments": "1",
-      "rating": "5",
-      "votes": "5",
+      "rating": "6",
+      "votes": "6",
       "parent": null,
       "id": "1026151194",
       "detailed_rating": {
@@ -5099,12 +5099,16 @@
             [
                "5013754",
                1689145478
+            ],
+            [
+               "9075244",
+               1777566841
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 5,
-      "justified_votes": 5
+      "justified_rating": 6,
+      "justified_votes": 6
    },
    "1588574312": {
       "title": "設施-57黑色標記筆外觀主題",
