@@ -129251,8 +129251,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "6",
-      "votes": "6",
+      "rating": "7",
+      "votes": "7",
       "parent": "scp-zh-148",
       "id": "1451983031",
       "detailed_rating": {
@@ -129280,12 +129280,16 @@
             [
                "5701756",
                1704166652
+            ],
+            [
+               "4990678",
+               1777650821
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 6,
-      "justified_votes": 6
+      "justified_rating": 7,
+      "justified_votes": 7
    },
    "1703677343": {
       "title": "mars.aic－虛擬形象",
