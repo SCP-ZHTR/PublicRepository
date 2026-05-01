@@ -140532,8 +140532,8 @@
       ],
       "hidden_tags": [],
       "comments": "5",
-      "rating": "31",
-      "votes": "31",
+      "rating": "32",
+      "votes": "32",
       "parent": null,
       "id": "1456250184",
       "detailed_rating": {
@@ -140661,12 +140661,16 @@
             [
                "5956873",
                1751391305
+            ],
+            [
+               "8854072",
+               1777653525
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 31,
-      "justified_votes": 31
+      "justified_rating": 32,
+      "justified_votes": 32
    },
    "1723737330": {
       "title": "SCP-ZH-425 - 破是「破洞」",
@@ -140686,8 +140690,8 @@
       ],
       "hidden_tags": [],
       "comments": "2",
-      "rating": "31",
-      "votes": "31",
+      "rating": "32",
+      "votes": "32",
       "parent": null,
       "id": "1456300605",
       "detailed_rating": {
@@ -140815,12 +140819,16 @@
             [
                "5956873",
                1751335376
+            ],
+            [
+               "8854072",
+               1777653525
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 31,
-      "justified_votes": 31
+      "justified_rating": 32,
+      "justified_votes": 32
    },
    "1723867205": {
       "title": "SCP-ZH-454 - 早是「滋潤」",
