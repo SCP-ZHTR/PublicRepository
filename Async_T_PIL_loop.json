@@ -119248,8 +119248,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "6",
-      "votes": "6",
+      "rating": "7",
+      "votes": "7",
       "parent": null,
       "id": "1447025696",
       "detailed_rating": {
@@ -119277,12 +119277,16 @@
             [
                "6381244",
                1773305595
+            ],
+            [
+               "8854072",
+               1777625592
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 6,
-      "justified_votes": 6
+      "justified_rating": 7,
+      "justified_votes": 7
    },
    "1680050039": {
       "title": "再構想中心頁",
