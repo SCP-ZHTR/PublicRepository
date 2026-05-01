@@ -141777,8 +141777,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "5",
-      "votes": "5",
+      "rating": "6",
+      "votes": "6",
       "parent": null,
       "id": "1454179036",
       "detailed_rating": {
@@ -141802,12 +141802,16 @@
             [
                "7064164",
                1720792578
+            ],
+            [
+               "7504530",
+               1777618077
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 5,
-      "justified_votes": 5
+      "justified_rating": 6,
+      "justified_votes": 6
    },
    "1719301344": {
       "title": "SCP-5858 - 來自陌生人的善意",
