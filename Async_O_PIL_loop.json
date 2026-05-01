@@ -156864,8 +156864,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "7",
-      "votes": "7",
+      "rating": "8",
+      "votes": "8",
       "parent": null,
       "id": "1468588817",
       "detailed_rating": {
@@ -156897,12 +156897,16 @@
             [
                "7513990",
                1777571686
+            ],
+            [
+               "5435485",
+               1777625715
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 7,
-      "justified_votes": 7
+      "justified_rating": 8,
+      "justified_votes": 8
    },
    "1777615835": {
       "title": "非典型遊說部門 （Department of Atypical Persuasion DAP）｜商店及服務評論",
@@ -156924,8 +156928,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "1",
-      "votes": "1",
+      "rating": "2",
+      "votes": "2",
       "parent": null,
       "id": "1468594165",
       "detailed_rating": {
@@ -156933,11 +156937,15 @@
             [
                "5435485",
                1777619265
+            ],
+            [
+               "8854072",
+               1777625715
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 1,
-      "justified_votes": 1
+      "justified_rating": 2,
+      "justified_votes": 2
    }
 }
