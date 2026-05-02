@@ -118968,8 +118968,8 @@
          "_cc"
       ],
       "comments": "1",
-      "rating": "5",
-      "votes": "5",
+      "rating": "6",
+      "votes": "6",
       "parent": null,
       "id": "1446973710",
       "detailed_rating": {
@@ -118993,12 +118993,16 @@
             [
                "4442284",
                1679876463
+            ],
+            [
+               "9763414",
+               1777694792
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 5,
-      "justified_votes": 5
+      "justified_rating": 6,
+      "justified_votes": 6
    },
    "1679911846": {
       "title": "深夜後的基金會電台，第██集：祝你一個小Meta聖誕快樂",
