@@ -132664,8 +132664,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "18",
-      "votes": "18",
+      "rating": "19",
+      "votes": "19",
       "parent": null,
       "id": "1451323627",
       "detailed_rating": {
@@ -132741,12 +132741,16 @@
             [
                "9763414",
                1776697533
+            ],
+            [
+               "9758462",
+               1777862052
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 18,
-      "justified_votes": 18
+      "justified_rating": 19,
+      "justified_votes": 19
    },
    "1699449691": {
       "title": "SCP-1151 - 順手的馬克筆",
