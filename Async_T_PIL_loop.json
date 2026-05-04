@@ -113558,8 +113558,8 @@
          "_image"
       ],
       "comments": "0",
-      "rating": "5",
-      "votes": "5",
+      "rating": "6",
+      "votes": "6",
       "parent": null,
       "id": "1445523652",
       "detailed_rating": {
@@ -113583,12 +113583,16 @@
             [
                "DELETED",
                1725385190
+            ],
+            [
+               "9758462",
+               1777896733
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 3,
-      "justified_votes": 3
+      "justified_rating": 4,
+      "justified_votes": 4
    },
    "1674143327": {
       "title": "SCP-3930 - 相嘯魔",
@@ -137905,8 +137909,8 @@
          "_licensebox"
       ],
       "comments": "0",
-      "rating": "4",
-      "votes": "4",
+      "rating": "5",
+      "votes": "5",
       "parent": null,
       "id": "1452879515",
       "detailed_rating": {
@@ -137926,12 +137930,16 @@
             [
                "9130820",
                1718158246
+            ],
+            [
+               "8846720",
+               1777896733
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 4,
-      "justified_votes": 4
+      "justified_rating": 5,
+      "justified_votes": 5
    },
    "1709379447": {
       "title": "SCP-126 - 隱形朋友",
