@@ -45935,8 +45935,8 @@
          "_cc"
       ],
       "comments": "0",
-      "rating": "12",
-      "votes": "12",
+      "rating": "13",
+      "votes": "13",
       "parent": null,
       "id": "1184747679",
       "detailed_rating": {
@@ -45988,12 +45988,16 @@
             [
                "9884279",
                1773789186
+            ],
+            [
+               "5251681",
+               1778323688
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 12,
-      "justified_votes": 12
+      "justified_rating": 13,
+      "justified_votes": 13
    },
    "1594723885": {
       "title": "SCP-191 Cyborg Child機械女孩&SCP-2845 The Deer牡鹿",
