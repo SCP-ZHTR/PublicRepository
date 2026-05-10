@@ -149300,8 +149300,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "3",
-      "votes": "3",
+      "rating": "4",
+      "votes": "4",
       "parent": null,
       "id": "1459788265",
       "detailed_rating": {
@@ -149317,12 +149317,16 @@
             [
                "8177208",
                1756211344
+            ],
+            [
+               "5325850",
+               1778419657
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 3,
-      "justified_votes": 3
+      "justified_rating": 4,
+      "justified_votes": 4
    },
    "1750597749": {
       "title": "Trout的提案 - 血、汗、淚",
@@ -154671,8 +154675,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "1",
-      "votes": "1",
+      "rating": "2",
+      "votes": "2",
       "parent": null,
       "id": "1468637982",
       "detailed_rating": {
@@ -154680,11 +154684,15 @@
             [
                "6217438",
                1778416818
+            ],
+            [
+               "4990678",
+               1778419657
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 1,
-      "justified_votes": 1
+      "justified_rating": 2,
+      "justified_votes": 2
    }
 }
