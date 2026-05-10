@@ -154711,8 +154711,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "1",
-      "votes": "1",
+      "rating": "2",
+      "votes": "2",
       "parent": null,
       "id": "1468638684",
       "detailed_rating": {
@@ -154720,12 +154720,16 @@
             [
                "6217438",
                1778430021
+            ],
+            [
+               "8319365",
+               1778457203
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 1,
-      "justified_votes": 1
+      "justified_rating": 2,
+      "justified_votes": 2
    },
    "1778454213": {
       "title": "SCP-9233 - 未知。",
@@ -154765,5 +154769,37 @@
       "deleted": false,
       "justified_rating": 1,
       "justified_votes": 1
+   },
+   "1778456536": {
+      "title": "SCP-8751 - 我們最糟糕的人生。",
+      "fullname": "scp-8751",
+      "created_at": "1778456536",
+      "created_by": "6217438",
+      "tags": [
+         "en",
+         "euclid",
+         "scp",
+         "timjc2026-unofficial",
+         "人形",
+         "建築物",
+         "循環",
+         "恐怖",
+         "悲戚",
+         "智能",
+         "歷史性",
+         "活物",
+         "系列0",
+         "翻譯"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1468639422",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
