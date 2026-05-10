@@ -154653,5 +154653,32 @@
       "deleted": false,
       "justified_rating": 0,
       "justified_votes": 0
+   },
+   "1778416601": {
+      "title": "舊信野獸",
+      "fullname": "beasts-of-the-old-letters",
+      "created_at": "1778416601",
+      "created_by": "6217438",
+      "tags": [
+         "en",
+         "illustrated",
+         "世界觀建設",
+         "他宇宙",
+         "合著",
+         "奇幻",
+         "展出",
+         "故事",
+         "翻譯"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1468637982",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
