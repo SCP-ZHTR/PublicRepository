@@ -17562,8 +17562,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "9",
-      "votes": "9",
+      "rating": "10",
+      "votes": "10",
       "parent": null,
       "id": "858214842",
       "detailed_rating": {
@@ -17603,12 +17603,16 @@
             [
                "5981123",
                1743955127
+            ],
+            [
+               "5165901",
+               1778396300
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 9,
-      "justified_votes": 9
+      "justified_rating": 10,
+      "justified_votes": 10
    },
    "1566141457": {
       "title": "SCP-4893 - 百子蓮",
