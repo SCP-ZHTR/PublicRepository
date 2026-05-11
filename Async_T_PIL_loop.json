@@ -154816,5 +154816,36 @@
       "deleted": false,
       "justified_rating": 1,
       "justified_votes": 1
+   },
+   "1778503078": {
+      "title": "SCP-9082 - 紅色房間直播。",
+      "fullname": "scp-9082",
+      "created_at": "1778503078",
+      "created_by": "6217438",
+      "tags": [
+         "en",
+         "scp",
+         "儀式性",
+         "共感",
+         "屍體",
+         "機密分級",
+         "睡眠",
+         "精神影響",
+         "系列0",
+         "線上",
+         "翻譯",
+         "血液",
+         "超維度"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1468640960",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
