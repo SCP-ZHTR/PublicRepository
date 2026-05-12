@@ -74582,8 +74582,8 @@
          "_cc"
       ],
       "comments": "1",
-      "rating": "11",
-      "votes": "11",
+      "rating": "12",
+      "votes": "12",
       "parent": null,
       "id": "1323753694",
       "detailed_rating": {
@@ -74631,12 +74631,16 @@
             [
                "DELETED",
                1756987015
+            ],
+            [
+               "9758462",
+               1778565600
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 10,
-      "justified_votes": 10
+      "justified_rating": 11,
+      "justified_votes": 11
    },
    "1630430388": {
       "title": "SCP-6336 - 看到自己眨眼",
