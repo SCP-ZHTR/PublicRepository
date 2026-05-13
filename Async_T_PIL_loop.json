@@ -154723,8 +154723,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "2",
-      "votes": "2",
+      "rating": "3",
+      "votes": "3",
       "parent": null,
       "id": "1468638684",
       "detailed_rating": {
@@ -154736,12 +154736,16 @@
             [
                "8319365",
                1778457203
+            ],
+            [
+               "7504530",
+               1778644749
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 2,
-      "justified_votes": 2
+      "justified_rating": 3,
+      "justified_votes": 3
    },
    "1778454213": {
       "title": "SCP-9233 - 未知。",
@@ -154847,8 +154851,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "1",
-      "votes": "1",
+      "rating": "2",
+      "votes": "2",
       "parent": null,
       "id": "1468640960",
       "detailed_rating": {
@@ -154856,12 +154860,16 @@
             [
                "6217438",
                1778503637
+            ],
+            [
+               "7504530",
+               1778644749
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 1,
-      "justified_votes": 1
+      "justified_rating": 2,
+      "justified_votes": 2
    },
    "1778599328": {
       "title": "模因危害",
@@ -154906,8 +154914,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "2",
-      "votes": "2",
+      "rating": "3",
+      "votes": "3",
       "parent": null,
       "id": "1468645333",
       "detailed_rating": {
@@ -154919,11 +154927,15 @@
             [
                "9075244",
                1778601817
+            ],
+            [
+               "7504530",
+               1778644749
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 2,
-      "justified_votes": 2
+      "justified_rating": 3,
+      "justified_votes": 3
    }
 }
