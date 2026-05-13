@@ -154913,7 +154913,7 @@
          "重寫"
       ],
       "hidden_tags": [],
-      "comments": "1",
+      "comments": "2",
       "rating": "3",
       "votes": "3",
       "parent": null,
@@ -154937,5 +154937,34 @@
       "deleted": false,
       "justified_rating": 3,
       "justified_votes": 3
+   },
+   "1778685967": {
+      "title": "SCP-9118 - 老菸想幹嘛",
+      "fullname": "scp-9118",
+      "created_at": "1778685967",
+      "created_by": "6217438",
+      "tags": [
+         "en",
+         "euclid",
+         "mc&d",
+         "scp",
+         "sportscon2026",
+         "奇蹟學",
+         "文獻",
+         "翻譯",
+         "自主",
+         "體育",
+         "黑鑽豪紳"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1468652160",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
