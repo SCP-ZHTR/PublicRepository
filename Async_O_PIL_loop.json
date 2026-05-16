@@ -157038,5 +157038,30 @@
       "deleted": false,
       "justified_rating": 8,
       "justified_votes": 8
+   },
+   "1778966196": {
+      "title": "SCP-ZH-905 - 生命監控終端",
+      "fullname": "scp-zh-905",
+      "created_at": "1778966196",
+      "created_by": "9752303",
+      "tags": [
+         "safe",
+         "scp",
+         "人體",
+         "原創",
+         "監控",
+         "認知危害",
+         "電腦"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1468674825",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
