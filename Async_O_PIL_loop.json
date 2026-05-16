@@ -82952,8 +82952,8 @@
       ],
       "hidden_tags": [],
       "comments": "7",
-      "rating": "35",
-      "votes": "37",
+      "rating": "36",
+      "votes": "38",
       "parent": null,
       "id": "1329904199",
       "detailed_rating": {
@@ -83101,6 +83101,10 @@
             [
                "7827462",
                1728451538
+            ],
+            [
+               "5325850",
+               1778937448
             ]
          ],
          "-": [
@@ -83111,8 +83115,8 @@
          ]
       },
       "deleted": false,
-      "justified_rating": 34,
-      "justified_votes": 36
+      "justified_rating": 35,
+      "justified_votes": 37
    },
    "1636118226": {
       "title": "SCP-ZH-832 - 回溫",
