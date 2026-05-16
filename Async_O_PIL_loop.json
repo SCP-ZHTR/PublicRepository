@@ -145691,8 +145691,8 @@
          "_禁黑"
       ],
       "comments": "1",
-      "rating": "15",
-      "votes": "15",
+      "rating": "16",
+      "votes": "16",
       "parent": null,
       "id": "1456960314",
       "detailed_rating": {
@@ -145756,12 +145756,16 @@
             [
                "8064046",
                1749046519
+            ],
+            [
+               "4206567",
+               1778903642
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 15,
-      "justified_votes": 15
+      "justified_rating": 16,
+      "justified_votes": 16
    },
    "1727798330": {
       "title": "太陽的歸鄉",
