@@ -149350,9 +149350,9 @@
          "記憶影響"
       ],
       "hidden_tags": [],
-      "comments": "4",
-      "rating": "24",
-      "votes": "24",
+      "comments": "5",
+      "rating": "25",
+      "votes": "25",
       "parent": null,
       "id": "1459896237",
       "detailed_rating": {
@@ -149452,12 +149452,16 @@
             [
                "5981123",
                1772945971
+            ],
+            [
+               "5436101",
+               1779099162
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 24,
-      "justified_votes": 24
+      "justified_rating": 25,
+      "justified_votes": 25
    },
    "1752158817": {
       "title": "Scp-Zh-474",
