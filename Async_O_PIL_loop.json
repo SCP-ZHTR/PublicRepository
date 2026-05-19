@@ -36202,8 +36202,8 @@
       ],
       "hidden_tags": [],
       "comments": "3",
-      "rating": "5",
-      "votes": "5",
+      "rating": "6",
+      "votes": "6",
       "parent": "1993-cobweb-international",
       "id": "1024277633",
       "detailed_rating": {
@@ -36227,12 +36227,16 @@
             [
                "6082642",
                1617120000
+            ],
+            [
+               "7504530",
+               1779159810
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 5,
-      "justified_votes": 5
+      "justified_rating": 6,
+      "justified_votes": 6
    },
    "1586588575": {
       "title": "終章：2020年",
