@@ -138047,8 +138047,8 @@
          "_人之流"
       ],
       "comments": "0",
-      "rating": "29",
-      "votes": "29",
+      "rating": "30",
+      "votes": "30",
       "parent": null,
       "id": "1453836668",
       "detailed_rating": {
@@ -138168,12 +138168,16 @@
             [
                "9371222",
                1737288812
+            ],
+            [
+               "5325850",
+               1779193871
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 29,
-      "justified_votes": 29
+      "justified_rating": 30,
+      "justified_votes": 30
    },
    "1717257130": {
       "title": "似見",
