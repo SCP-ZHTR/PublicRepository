@@ -155124,5 +155124,37 @@
       "deleted": false,
       "justified_rating": 1,
       "justified_votes": 1
+   },
+   "1779365288": {
+      "title": "SCP-124-VN - 人生的「意義」",
+      "fullname": "scp-124-vn",
+      "created_at": "1779365288",
+      "created_by": "7605593",
+      "tags": [
+         "scp",
+         "site-zh-11",
+         "thaumiel",
+         "vn",
+         "數學性",
+         "概念",
+         "模因",
+         "現象",
+         "知識",
+         "精神影響",
+         "紳士團",
+         "翻譯",
+         "聖夜越夜耶",
+         "認知危害"
+      ],
+      "hidden_tags": [],
+      "comments": "1",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1468692840",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
