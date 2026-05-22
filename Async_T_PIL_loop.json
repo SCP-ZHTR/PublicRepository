@@ -3271,8 +3271,8 @@
          "_cc"
       ],
       "comments": "1",
-      "rating": "5",
-      "votes": "5",
+      "rating": "6",
+      "votes": "6",
       "parent": null,
       "id": "675054530",
       "detailed_rating": {
@@ -3296,12 +3296,16 @@
             [
                "3979351",
                1617120000
+            ],
+            [
+               "8854072",
+               1779425816
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 5,
-      "justified_votes": 5
+      "justified_rating": 6,
+      "justified_votes": 6
    },
    "1554612558": {
       "title": "一封附有禮物的信",
@@ -139215,8 +139219,8 @@
          "_licensebox"
       ],
       "comments": "0",
-      "rating": "5",
-      "votes": "5",
+      "rating": "6",
+      "votes": "6",
       "parent": null,
       "id": "1453328714",
       "detailed_rating": {
@@ -139240,12 +139244,16 @@
             [
                "8033564",
                1714829427
+            ],
+            [
+               "8854072",
+               1779425816
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 5,
-      "justified_votes": 5
+      "justified_rating": 6,
+      "justified_votes": 6
    },
    "1713059606": {
       "title": "SCP-2203 - 找到你的那一位！",
