@@ -152036,8 +152036,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "9",
-      "votes": "9",
+      "rating": "10",
+      "votes": "10",
       "parent": null,
       "id": "1460688074",
       "detailed_rating": {
@@ -152077,12 +152077,16 @@
             [
                "5435485",
                1762957823
+            ],
+            [
+               "9832594",
+               1779493136
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 9,
-      "justified_votes": 9
+      "justified_rating": 10,
+      "justified_votes": 10
    },
    "1760422225": {
       "title": "SCP-9200 - 不破",
