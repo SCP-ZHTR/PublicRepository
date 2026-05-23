@@ -77435,8 +77435,8 @@
          "_cc"
       ],
       "comments": "0",
-      "rating": "11",
-      "votes": "11",
+      "rating": "12",
+      "votes": "12",
       "parent": null,
       "id": "1312497829",
       "detailed_rating": {
@@ -77484,12 +77484,16 @@
             [
                "DELETED",
                1695270804
+            ],
+            [
+               "9832594",
+               1779501415
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 10,
-      "justified_votes": 10
+      "justified_rating": 11,
+      "justified_votes": 11
    },
    "1627918047": {
       "title": "奇蹟學煉金術導論：如何把水銀煉成黃金",
