@@ -155275,5 +155275,38 @@
       "deleted": false,
       "justified_rating": 0,
       "justified_votes": 0
+   },
+   "1779537015": {
+      "title": "紅室協議",
+      "fullname": "scp-9105",
+      "created_at": "1779537015",
+      "created_by": "6217438",
+      "tags": [
+         "en",
+         "meta",
+         "scp",
+         "城市",
+         "屍體",
+         "復活",
+         "機密分級",
+         "翻譯",
+         "聽覺影響",
+         "視覺影響",
+         "觀察影響",
+         "記憶影響",
+         "認知危害",
+         "資訊危害",
+         "鈴人之詩"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1468701260",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
