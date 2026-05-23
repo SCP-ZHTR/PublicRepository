@@ -155137,8 +155137,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "1",
-      "votes": "1",
+      "rating": "2",
+      "votes": "2",
       "parent": null,
       "id": "1468680077",
       "detailed_rating": {
@@ -155146,12 +155146,16 @@
             [
                "5251681",
                1779104788
+            ],
+            [
+               "5565302",
+               1779519119
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 1,
-      "justified_votes": 1
+      "justified_rating": 2,
+      "justified_votes": 2
    },
    "1779365288": {
       "title": "SCP-124-VN - 人生的「意義」",
