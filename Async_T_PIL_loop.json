@@ -155244,5 +155244,36 @@
       "deleted": false,
       "justified_rating": 1,
       "justified_votes": 1
+   },
+   "1779533150": {
+      "title": "SCP-es-053 - 母親與████",
+      "fullname": "scp-es-053",
+      "created_at": "1779533150",
+      "created_by": "9340368",
+      "tags": [
+         "es",
+         "euclid",
+         "richard-barnard",
+         "scp",
+         "人形",
+         "傳染性",
+         "共感",
+         "感知力",
+         "智能",
+         "活物",
+         "翻譯",
+         "認知危害",
+         "資訊危害"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1468701010",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
