@@ -155176,8 +155176,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "3",
-      "votes": "3",
+      "rating": "4",
+      "votes": "4",
       "parent": null,
       "id": "1468692840",
       "detailed_rating": {
@@ -155193,12 +155193,16 @@
             [
                "5370805",
                1779397052
+            ],
+            [
+               "8177208",
+               1779495777
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 3,
-      "justified_votes": 3
+      "justified_rating": 4,
+      "justified_votes": 4
    },
    "1779374638": {
       "title": "SCP-9337 - 就游下去",
