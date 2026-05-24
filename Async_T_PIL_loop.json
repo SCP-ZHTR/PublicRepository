@@ -146334,8 +146334,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "1",
-      "votes": "1",
+      "rating": "2",
+      "votes": "2",
       "parent": null,
       "id": "1457305813",
       "detailed_rating": {
@@ -146343,12 +146343,16 @@
             [
                "7840542",
                1731231330
+            ],
+            [
+               "9832594",
+               1779611963
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 1,
-      "justified_votes": 1
+      "justified_rating": 2,
+      "justified_votes": 2
    },
    "1731219742": {
       "title": "SCP-3991-JP - 人偶遊戲",
