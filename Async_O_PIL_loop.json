@@ -157159,5 +157159,33 @@
       "deleted": false,
       "justified_rating": 6,
       "justified_votes": 6
+   },
+   "1779715197": {
+      "title": "SCP-ZH-992 - 腐る",
+      "fullname": "scp-zh-992",
+      "created_at": "1779715197",
+      "created_by": "7073060",
+      "tags": [
+         "keter",
+         "scp",
+         "倫理委員會",
+         "原創",
+         "墓碑部門",
+         "屍體",
+         "屍體史體",
+         "未收容",
+         "現象",
+         "誤傳部"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": "corpse-corpus-hub",
+      "id": "1468710967",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
