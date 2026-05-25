@@ -157181,8 +157181,8 @@
          "_禁黑"
       ],
       "comments": "0",
-      "rating": "2",
-      "votes": "2",
+      "rating": "4",
+      "votes": "4",
       "parent": "corpse-corpus-hub",
       "id": "1468710967",
       "detailed_rating": {
@@ -157194,11 +157194,19 @@
             [
                "6217438",
                1779719098
+            ],
+            [
+               "4206567",
+               1779720481
+            ],
+            [
+               "8854072",
+               1779720481
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 2,
-      "justified_votes": 2
+      "justified_rating": 4,
+      "justified_votes": 4
    }
 }
