@@ -63635,8 +63635,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "8",
-      "votes": "8",
+      "rating": "9",
+      "votes": "9",
       "parent": null,
       "id": "1308474305",
       "detailed_rating": {
@@ -63672,12 +63672,16 @@
             [
                "DELETED",
                1742912398
+            ],
+            [
+               "8446449",
+               1779875053
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 7,
-      "justified_votes": 7
+      "justified_rating": 8,
+      "justified_votes": 8
    },
    "1617604248": {
       "title": "SCP-1421 - 不可靠的神諭",
