@@ -46087,8 +46087,8 @@
          "_cc"
       ],
       "comments": "0",
-      "rating": "3",
-      "votes": "9",
+      "rating": "4",
+      "votes": "10",
       "parent": null,
       "id": "1184758955",
       "detailed_rating": {
@@ -46116,6 +46116,10 @@
             [
                "6788064",
                1617120000
+            ],
+            [
+               "6693418",
+               1779880670
             ]
          ],
          "-": [
@@ -46134,8 +46138,8 @@
          ]
       },
       "deleted": false,
-      "justified_rating": 3,
-      "justified_votes": 9
+      "justified_rating": 4,
+      "justified_votes": 10
    },
    "1594750577": {
       "title": "SCP-ZH-292 - 無限的書櫃",
