@@ -157224,5 +157224,26 @@
       "deleted": false,
       "justified_rating": 8,
       "justified_votes": 8
+   },
+   "1779865095": {
+      "title": "妄虛藥引",
+      "fullname": "fakemedicine",
+      "created_at": "1779865095",
+      "created_by": "4206567",
+      "tags": [
+         "原創",
+         "悲喜",
+         "故事"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1468718333",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
