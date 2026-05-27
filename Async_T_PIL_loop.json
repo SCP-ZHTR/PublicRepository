@@ -30836,8 +30836,8 @@
          "_licensebox"
       ],
       "comments": "0",
-      "rating": "12",
-      "votes": "12",
+      "rating": "13",
+      "votes": "13",
       "parent": null,
       "id": "1015494486",
       "detailed_rating": {
@@ -30889,12 +30889,16 @@
             [
                "5415046",
                1682854542
+            ],
+            [
+               "6258289",
+               1779885819
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 12,
-      "justified_votes": 12
+      "justified_rating": 13,
+      "justified_votes": 13
    },
    "1585655054": {
       "title": "SCP-1092 - 一種魚類",
