@@ -154838,8 +154838,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "2",
-      "votes": "2",
+      "rating": "3",
+      "votes": "3",
       "parent": null,
       "id": "1468639389",
       "detailed_rating": {
@@ -154851,12 +154851,16 @@
             [
                "8319365",
                1778458465
+            ],
+            [
+               "5565302",
+               1779945920
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 2,
-      "justified_votes": 2
+      "justified_rating": 3,
+      "justified_votes": 3
    },
    "1778456536": {
       "title": "SCP-8751 - 我們最糟糕的人生。",
@@ -154919,8 +154923,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "2",
-      "votes": "2",
+      "rating": "3",
+      "votes": "3",
       "parent": null,
       "id": "1468640960",
       "detailed_rating": {
@@ -154932,12 +154936,16 @@
             [
                "7504530",
                1778644749
+            ],
+            [
+               "5565302",
+               1779945920
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 2,
-      "justified_votes": 2
+      "justified_rating": 3,
+      "justified_votes": 3
    },
    "1778599328": {
       "title": "模因危害",
