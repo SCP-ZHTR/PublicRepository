@@ -155437,8 +155437,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "3",
-      "votes": "3",
+      "rating": "4",
+      "votes": "4",
       "parent": null,
       "id": "1468777069",
       "detailed_rating": {
@@ -155454,12 +155454,16 @@
             [
                "7504530",
                1780118245
+            ],
+            [
+               "10258637",
+               1780122288
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 3,
-      "justified_votes": 3
+      "justified_rating": 4,
+      "justified_votes": 4
    },
    "1780112492": {
       "title": "SCP-9308 - 豬豬教授遊戲室。",
