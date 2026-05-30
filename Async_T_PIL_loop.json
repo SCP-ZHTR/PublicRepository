@@ -155418,5 +155418,28 @@
       "deleted": false,
       "justified_rating": 5,
       "justified_votes": 5
+   },
+   "1780106308": {
+      "title": "系列0術語彙編",
+      "fullname": "series-0-glossary",
+      "created_at": "1780106308",
+      "created_by": "6217438",
+      "tags": [
+         "en",
+         "series-0",
+         "合作",
+         "翻譯",
+         "資源"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1468777069",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }

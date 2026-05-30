@@ -51314,7 +51314,7 @@
             ]
          ]
       },
-      "deleted": false,
+      "deleted": true,
       "justified_rating": 24,
       "justified_votes": 24
    },
@@ -157253,6 +157253,27 @@
       "votes": "0",
       "parent": null,
       "id": "1468718333",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
+   },
+   "1780107055": {
+      "title": "SCP-ZH-147 - 時間小偷",
+      "fullname": "scp-zh-147",
+      "created_at": "1780107055",
+      "created_by": "5565302",
+      "tags": [
+         "safe",
+         "scp",
+         "原創"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1468777140",
       "detailed_rating": {},
       "deleted": false,
       "justified_rating": 0,
