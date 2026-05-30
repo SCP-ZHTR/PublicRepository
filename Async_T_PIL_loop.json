@@ -9091,8 +9091,8 @@
          "_瑪納慈善基金會-goi格式"
       ],
       "comments": "1",
-      "rating": "8",
-      "votes": "8",
+      "rating": "9",
+      "votes": "9",
       "parent": null,
       "id": "801719364",
       "detailed_rating": {
@@ -9128,12 +9128,16 @@
             [
                "8452537",
                1709203102
+            ],
+            [
+               "7504530",
+               1780112196
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 8,
-      "justified_votes": 8
+      "justified_rating": 9,
+      "justified_votes": 9
    },
    "1558571621": {
       "title": "SCP-682 - 不滅孽蜥",
@@ -155433,8 +155437,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "1",
-      "votes": "1",
+      "rating": "2",
+      "votes": "2",
       "parent": null,
       "id": "1468777069",
       "detailed_rating": {
@@ -155442,11 +155446,15 @@
             [
                "6217438",
                1780107619
+            ],
+            [
+               "5565302",
+               1780112196
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 1,
-      "justified_votes": 1
+      "justified_rating": 2,
+      "justified_votes": 2
    }
 }
