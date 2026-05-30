@@ -155456,5 +155456,32 @@
       "deleted": false,
       "justified_rating": 2,
       "justified_votes": 2
+   },
+   "1780112492": {
+      "title": "SCP-9308 - 豬豬教授遊戲室。",
+      "fullname": "scp-9308",
+      "created_at": "1780112492",
+      "created_by": "6217438",
+      "tags": [
+         "en",
+         "pig",
+         "scp",
+         "series-0",
+         "sportscon2026",
+         "媒體",
+         "機密分級",
+         "翻譯",
+         "通訊"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1468777589",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
