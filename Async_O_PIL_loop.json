@@ -155537,8 +155537,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "9",
-      "votes": "9",
+      "rating": "10",
+      "votes": "10",
       "parent": null,
       "id": "1468216860",
       "detailed_rating": {
@@ -155578,12 +155578,16 @@
             [
                "7504530",
                1773771758
+            ],
+            [
+               "10390711",
+               1780197870
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 9,
-      "justified_votes": 9
+      "justified_rating": 10,
+      "justified_votes": 10
    },
    "1772800131": {
       "title": "SCP-ZH-885 - 盧隆新之死",
@@ -156310,8 +156314,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "5",
-      "votes": "7",
+      "rating": "6",
+      "votes": "8",
       "parent": null,
       "id": "1468369092",
       "detailed_rating": {
@@ -156339,6 +156343,10 @@
             [
                "7064164",
                1776610181
+            ],
+            [
+               "10390711",
+               1780197870
             ]
          ],
          "-": [
@@ -156349,8 +156357,8 @@
          ]
       },
       "deleted": false,
-      "justified_rating": 5,
-      "justified_votes": 7
+      "justified_rating": 6,
+      "justified_votes": 8
    },
    "1774973063": {
       "title": "調查報告：Nx-ZH-03-320「澗仔壢」",

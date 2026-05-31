@@ -154693,8 +154693,8 @@
          "_licensebox"
       ],
       "comments": "0",
-      "rating": "2",
-      "votes": "2",
+      "rating": "3",
+      "votes": "3",
       "parent": "end-of-death-hub",
       "id": "1468583492",
       "detailed_rating": {
@@ -154706,12 +154706,16 @@
             [
                "7504530",
                1777520433
+            ],
+            [
+               "10390711",
+               1780197872
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 2,
-      "justified_votes": 2
+      "justified_rating": 3,
+      "justified_votes": 3
    },
    "1777379962": {
       "title": "SCP-7119 - 掀波（恨你）",
