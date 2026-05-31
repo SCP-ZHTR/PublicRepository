@@ -18048,8 +18048,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "10",
-      "votes": "10",
+      "rating": "11",
+      "votes": "11",
       "parent": null,
       "id": "858496265",
       "detailed_rating": {
@@ -18093,12 +18093,16 @@
             [
                "DELETED",
                "[UNKNOWN]"
+            ],
+            [
+               "10390711",
+               1780193784
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 9,
-      "justified_votes": 9
+      "justified_rating": 10,
+      "justified_votes": 10
    },
    "1566483423": {
       "title": "呆若木雞",
