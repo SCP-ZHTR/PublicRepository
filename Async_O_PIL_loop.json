@@ -153433,7 +153433,9 @@
          "威爾遜生物應對組",
          "展出"
       ],
-      "hidden_tags": [],
+      "hidden_tags": [
+         "_威爾遜生物應對組-goi格式"
+      ],
       "comments": "1",
       "rating": "11",
       "votes": "11",
