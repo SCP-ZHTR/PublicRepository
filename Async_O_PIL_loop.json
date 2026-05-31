@@ -150521,7 +150521,9 @@
          "故事",
          "異視維基"
       ],
-      "hidden_tags": [],
+      "hidden_tags": [
+         "_異視維基-goi格式"
+      ],
       "comments": "1",
       "rating": "6",
       "votes": "12",
@@ -157279,8 +157281,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "1",
-      "votes": "1",
+      "rating": "2",
+      "votes": "2",
       "parent": null,
       "id": "1468718333",
       "detailed_rating": {
@@ -157288,12 +157290,16 @@
             [
                "4990678",
                1780110582
+            ],
+            [
+               "5370805",
+               1780238623
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 1,
-      "justified_votes": 1
+      "justified_rating": 2,
+      "justified_votes": 2
    },
    "1780107055": {
       "title": "SCP-ZH-147 - 時間小偷",
