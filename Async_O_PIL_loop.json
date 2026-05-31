@@ -155599,8 +155599,8 @@
          "_禁黑"
       ],
       "comments": "0",
-      "rating": "12",
-      "votes": "12",
+      "rating": "13",
+      "votes": "13",
       "parent": null,
       "id": "1468216904",
       "detailed_rating": {
@@ -155652,12 +155652,16 @@
             [
                "9443485",
                1778925359
+            ],
+            [
+               "10390711",
+               1780190827
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 12,
-      "justified_votes": 12
+      "justified_rating": 13,
+      "justified_votes": 13
    },
    "1772802856": {
       "title": "SCP-ZH-677 - 腦釜",
