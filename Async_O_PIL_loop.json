@@ -157225,8 +157225,8 @@
          "_禁黑"
       ],
       "comments": "0",
-      "rating": "9",
-      "votes": "9",
+      "rating": "10",
+      "votes": "10",
       "parent": "corpse-corpus-hub",
       "id": "1468710967",
       "detailed_rating": {
@@ -157266,12 +157266,16 @@
             [
                "8418020",
                1780281217
+            ],
+            [
+               "9758462",
+               1780300741
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 9,
-      "justified_votes": 9
+      "justified_rating": 10,
+      "justified_votes": 10
    },
    "1779865095": {
       "title": "妄虛藥引",
