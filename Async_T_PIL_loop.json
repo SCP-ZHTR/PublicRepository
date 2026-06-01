@@ -147954,8 +147954,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "10",
-      "votes": "10",
+      "rating": "11",
+      "votes": "11",
       "parent": null,
       "id": "1458665581",
       "detailed_rating": {
@@ -147999,12 +147999,16 @@
             [
                "8033564",
                1776181954
+            ],
+            [
+               "5565302",
+               1780354597
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 10,
-      "justified_votes": 10
+      "justified_rating": 11,
+      "justified_votes": 11
    },
    "1741524013": {
       "title": "結論和問與答逐字稿　講者：████████████教授",
