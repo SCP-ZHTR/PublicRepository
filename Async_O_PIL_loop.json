@@ -155863,8 +155863,8 @@
          "_awcy-goi格式"
       ],
       "comments": "0",
-      "rating": "5",
-      "votes": "5",
+      "rating": "6",
+      "votes": "6",
       "parent": null,
       "id": "1468220446",
       "detailed_rating": {
@@ -155888,12 +155888,16 @@
             [
                "8177208",
                1773571702
+            ],
+            [
+               "7504530",
+               1780373816
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 5,
-      "justified_votes": 5
+      "justified_rating": 6,
+      "justified_votes": 6
    },
    "1772928544": {
       "title": "SCP-ZH-680 鳳儀電場",
