@@ -92327,8 +92327,8 @@
          "_檢查"
       ],
       "comments": "2",
-      "rating": "21",
-      "votes": "21",
+      "rating": "22",
+      "votes": "22",
       "parent": null,
       "id": "1331826445",
       "detailed_rating": {
@@ -92416,12 +92416,16 @@
             [
                "DELETED",
                1695270056
+            ],
+            [
+               "5325850",
+               1780411300
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 20,
-      "justified_votes": 20
+      "justified_rating": 21,
+      "justified_votes": 21
    },
    "1646400904": {
       "title": "SCP-ZH-083 - 逆黃泉紙飛機",
