@@ -157436,8 +157436,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "8",
-      "votes": "8",
+      "rating": "9",
+      "votes": "9",
       "parent": null,
       "id": "1468801131",
       "detailed_rating": {
@@ -157473,12 +157473,16 @@
             [
                "5251681",
                1780491777
+            ],
+            [
+               "7064164",
+               1780505919
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 8,
-      "justified_votes": 8
+      "justified_rating": 9,
+      "justified_votes": 9
    },
    "1780489314": {
       "title": "SCP-ZH-219 - 登革伯爵",
@@ -157495,8 +157499,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "3",
-      "votes": "3",
+      "rating": "4",
+      "votes": "4",
       "parent": null,
       "id": "1468802263",
       "detailed_rating": {
@@ -157512,11 +157516,15 @@
             [
                "4206567",
                1780498044
+            ],
+            [
+               "7064164",
+               1780505919
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 3,
-      "justified_votes": 3
+      "justified_rating": 4,
+      "justified_votes": 4
    }
 }
