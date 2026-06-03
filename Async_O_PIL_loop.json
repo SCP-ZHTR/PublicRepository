@@ -157463,5 +157463,29 @@
       "deleted": false,
       "justified_rating": 7,
       "justified_votes": 7
+   },
+   "1780489314": {
+      "title": "SCP-ZH-219 - 登革伯爵",
+      "fullname": "scp-zh-219",
+      "created_at": "1780489314",
+      "created_by": "5565302",
+      "tags": [
+         "euclid",
+         "scp",
+         "site-zh-44",
+         "動物",
+         "原創",
+         "昆蟲"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1468802263",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
