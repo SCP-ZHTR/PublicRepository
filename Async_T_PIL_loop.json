@@ -97936,8 +97936,8 @@
          "_cc"
       ],
       "comments": "2",
-      "rating": "20",
-      "votes": "20",
+      "rating": "21",
+      "votes": "21",
       "parent": null,
       "id": "1417507135",
       "detailed_rating": {
@@ -98021,12 +98021,16 @@
             [
                "8177208",
                1772614465
+            ],
+            [
+               "5565302",
+               1780547050
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 19,
-      "justified_votes": 19
+      "justified_rating": 20,
+      "justified_votes": 20
    },
    "1657025373": {
       "title": "SCP-6468 - dado的pvp特製藥水",
