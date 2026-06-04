@@ -84140,8 +84140,8 @@
          "_cc"
       ],
       "comments": "4",
-      "rating": "21",
-      "votes": "21",
+      "rating": "22",
+      "votes": "22",
       "parent": null,
       "id": "1330501064",
       "detailed_rating": {
@@ -84229,12 +84229,16 @@
             [
                "9163798",
                1756711627
+            ],
+            [
+               "6258289",
+               1780565870
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 19,
-      "justified_votes": 19
+      "justified_rating": 20,
+      "justified_votes": 20
    },
    "1638004602": {
       "title": "Ｓ之死",
@@ -157436,8 +157440,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "9",
-      "votes": "9",
+      "rating": "10",
+      "votes": "10",
       "parent": null,
       "id": "1468801131",
       "detailed_rating": {
@@ -157477,12 +157481,16 @@
             [
                "7064164",
                1780505919
+            ],
+            [
+               "10390711",
+               1780565870
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 9,
-      "justified_votes": 9
+      "justified_rating": 10,
+      "justified_votes": 10
    },
    "1780489314": {
       "title": "SCP-ZH-219 - 登革伯爵",
@@ -157499,8 +157507,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "5",
-      "votes": "5",
+      "rating": "6",
+      "votes": "6",
       "parent": null,
       "id": "1468802263",
       "detailed_rating": {
@@ -157524,11 +157532,15 @@
             [
                "4264056",
                1780533320
+            ],
+            [
+               "10390711",
+               1780565870
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 5,
-      "justified_votes": 5
+      "justified_rating": 6,
+      "justified_votes": 6
    }
 }
