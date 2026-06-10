@@ -93349,8 +93349,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "5",
-      "votes": "5",
+      "rating": "6",
+      "votes": "6",
       "parent": null,
       "id": "1402749853",
       "detailed_rating": {
@@ -93374,12 +93374,16 @@
             [
                "DELETED",
                1754208219
+            ],
+            [
+               "5565302",
+               1781087031
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 4,
-      "justified_votes": 4
+      "justified_rating": 5,
+      "justified_votes": 5
    },
    "1651635414": {
       "title": "寫作指南",
