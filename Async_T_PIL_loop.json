@@ -146014,8 +146014,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "2",
-      "votes": "2",
+      "rating": "3",
+      "votes": "3",
       "parent": "corpse-corpus-hub",
       "id": "1457268810",
       "detailed_rating": {
@@ -146027,12 +146027,16 @@
             [
                "7073060",
                1730705766
+            ],
+            [
+               "7064164",
+               1781403361
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 2,
-      "justified_votes": 2
+      "justified_rating": 3,
+      "justified_votes": 3
    },
    "1730883552": {
       "title": "SCP驚選集2024",
