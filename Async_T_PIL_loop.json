@@ -107008,8 +107008,8 @@
          "_licensebox"
       ],
       "comments": "0",
-      "rating": "4",
-      "votes": "4",
+      "rating": "5",
+      "votes": "5",
       "parent": null,
       "id": "1436954773",
       "detailed_rating": {
@@ -107029,12 +107029,16 @@
             [
                "10165543",
                1772087315
+            ],
+            [
+               "9758462",
+               1781583854
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 3,
-      "justified_votes": 3
+      "justified_rating": 4,
+      "justified_votes": 4
    },
    "1667087655": {
       "title": "第一插曲：老學校",
