@@ -155402,8 +155402,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "2",
-      "votes": "2",
+      "rating": "3",
+      "votes": "3",
       "parent": null,
       "id": "1468701260",
       "detailed_rating": {
@@ -155415,12 +155415,16 @@
             [
                "5565302",
                1779593257
+            ],
+            [
+               "9832594",
+               1781763814
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 2,
-      "justified_votes": 2
+      "justified_rating": 3,
+      "justified_votes": 3
    },
    "1779713724": {
       "title": "SCP-3649 - 雲崩城傾",
