@@ -157604,5 +157604,27 @@
       "deleted": false,
       "justified_rating": 8,
       "justified_votes": 8
+   },
+   "1781841944": {
+      "title": "月襄山銀海中月",
+      "fullname": "moon-in-the-water",
+      "created_at": "1781841944",
+      "created_by": "5956873",
+      "tags": [
+         "chrome",
+         "site-zh-88",
+         "原創",
+         "故事"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1468868861",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
