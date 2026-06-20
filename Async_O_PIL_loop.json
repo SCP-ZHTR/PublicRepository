@@ -93234,8 +93234,8 @@
          "_飛"
       ],
       "comments": "2",
-      "rating": "20",
-      "votes": "20",
+      "rating": "21",
+      "votes": "21",
       "parent": null,
       "id": "1331826885",
       "detailed_rating": {
@@ -93319,12 +93319,16 @@
             [
                "8546930",
                1726069040
+            ],
+            [
+               "5565302",
+               1781915801
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 19,
-      "justified_votes": 19
+      "justified_rating": 20,
+      "justified_votes": 20
    },
    "1646409265": {
       "title": "SCP-ZH-609 - 睡前檢查",
