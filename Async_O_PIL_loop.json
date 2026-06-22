@@ -139727,8 +139727,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "27",
-      "votes": "27",
+      "rating": "28",
+      "votes": "28",
       "parent": null,
       "id": "1455950469",
       "detailed_rating": {
@@ -139840,12 +139840,16 @@
             [
                "4206567",
                1777620559
+            ],
+            [
+               "7064164",
+               1782102661
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 27,
-      "justified_votes": 27
+      "justified_rating": 28,
+      "justified_votes": 28
    },
    "1722024424": {
       "title": "SCP-ZH-924 - 殘局",
@@ -153620,8 +153624,8 @@
       ],
       "hidden_tags": [],
       "comments": "4",
-      "rating": "12",
-      "votes": "12",
+      "rating": "13",
+      "votes": "13",
       "parent": null,
       "id": "1466755077",
       "detailed_rating": {
@@ -153673,12 +153677,16 @@
             [
                "8854072",
                1777271472
+            ],
+            [
+               "7064164",
+               1782102661
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 12,
-      "justified_votes": 12
+      "justified_rating": 13,
+      "justified_votes": 13
    },
    "1765538052": {
       "title": "Scp Zh 905",
@@ -157682,8 +157690,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "9",
-      "votes": "9",
+      "rating": "11",
+      "votes": "11",
       "parent": null,
       "id": "1468885117",
       "detailed_rating": {
@@ -157723,11 +157731,19 @@
             [
                "9501997",
                1782101400
+            ],
+            [
+               "7605593",
+               1782102661
+            ],
+            [
+               "7064164",
+               1782102661
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 9,
-      "justified_votes": 9
+      "justified_rating": 11,
+      "justified_votes": 11
    }
 }
