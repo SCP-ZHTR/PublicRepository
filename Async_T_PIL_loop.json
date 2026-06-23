@@ -93339,7 +93339,7 @@
             ]
          ]
       },
-      "deleted": false,
+      "deleted": true,
       "justified_rating": 3,
       "justified_votes": 3
    },
@@ -155679,5 +155679,34 @@
       "deleted": false,
       "justified_rating": 3,
       "justified_votes": 3
+   },
+   "1782212532": {
+      "title": "PDG-213",
+      "fullname": "scp-213",
+      "created_at": "1782212532",
+      "created_by": "6217438",
+      "tags": [
+         "en",
+         "scp",
+         "光照影響",
+         "動物",
+         "反熵",
+         "寄生性",
+         "機密分級",
+         "武器",
+         "活物",
+         "翻譯",
+         "重寫"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1468896288",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
