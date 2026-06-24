@@ -155716,8 +155716,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "2",
-      "votes": "2",
+      "rating": "3",
+      "votes": "3",
       "parent": null,
       "id": "1468896288",
       "detailed_rating": {
@@ -155729,12 +155729,16 @@
             [
                "7504530",
                1782222415
+            ],
+            [
+               "6381244",
+               1782315494
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 2,
-      "justified_votes": 2
+      "justified_rating": 3,
+      "justified_votes": 3
    },
    "1782225073": {
       "title": "SCP-9729 - 獲得。",
