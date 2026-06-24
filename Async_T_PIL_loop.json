@@ -111139,8 +111139,8 @@
          "_licensebox"
       ],
       "comments": "0",
-      "rating": "5",
-      "votes": "5",
+      "rating": "6",
+      "votes": "6",
       "parent": null,
       "id": "1444659328",
       "detailed_rating": {
@@ -111164,12 +111164,16 @@
             [
                "DELETED",
                1742112097
+            ],
+            [
+               "9832594",
+               1782302718
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 4,
-      "justified_votes": 4
+      "justified_rating": 5,
+      "justified_votes": 5
    },
    "1672100092": {
       "title": "關注組織：A.D.為對外聯絡特工所做的回顧講座。摘錄內容：湮滅教義",
