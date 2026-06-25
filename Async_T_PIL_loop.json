@@ -155446,8 +155446,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "3",
-      "votes": "3",
+      "rating": "4",
+      "votes": "4",
       "parent": null,
       "id": "1468701260",
       "detailed_rating": {
@@ -155463,12 +155463,16 @@
             [
                "9832594",
                1781763814
+            ],
+            [
+               "7504530",
+               1782360859
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 3,
-      "justified_votes": 3
+      "justified_rating": 4,
+      "justified_votes": 4
    },
    "1779713724": {
       "title": "SCP-3649 - 雲崩城傾",
@@ -155762,8 +155766,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "1",
-      "votes": "1",
+      "rating": "2",
+      "votes": "2",
       "parent": null,
       "id": "1468897234",
       "detailed_rating": {
@@ -155771,12 +155775,16 @@
             [
                "6217438",
                1782225351
+            ],
+            [
+               "7504530",
+               1782360859
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 1,
-      "justified_votes": 1
+      "justified_rating": 2,
+      "justified_votes": 2
    },
    "1782306051": {
       "title": "SCP-8251 - 見上",
