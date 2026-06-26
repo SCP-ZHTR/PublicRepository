@@ -155464,8 +155464,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "19",
-      "votes": "19",
+      "rating": "20",
+      "votes": "20",
       "parent": null,
       "id": "1468211304",
       "detailed_rating": {
@@ -155545,12 +155545,16 @@
             [
                "10390711",
                1780193782
+            ],
+            [
+               "7840542",
+               1782494740
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 19,
-      "justified_votes": 19
+      "justified_rating": 20,
+      "justified_votes": 20
    },
    "1772795086": {
       "title": "我愛12站 第一集（三段論證特集1）",
@@ -157336,8 +157340,8 @@
          "_禁黑"
       ],
       "comments": "0",
-      "rating": "12",
-      "votes": "12",
+      "rating": "13",
+      "votes": "13",
       "parent": "corpse-corpus-hub",
       "id": "1468710967",
       "detailed_rating": {
@@ -157389,12 +157393,16 @@
             [
                "6303274",
                1780762281
+            ],
+            [
+               "7840542",
+               1782494740
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 12,
-      "justified_votes": 12
+      "justified_rating": 13,
+      "justified_votes": 13
    },
    "1779865095": {
       "title": "妄虛藥引",
@@ -157522,8 +157530,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "12",
-      "votes": "12",
+      "rating": "13",
+      "votes": "13",
       "parent": null,
       "id": "1468801131",
       "detailed_rating": {
@@ -157575,12 +157583,16 @@
             [
                "6141493",
                1781218001
+            ],
+            [
+               "7840542",
+               1782494740
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 12,
-      "justified_votes": 12
+      "justified_rating": 13,
+      "justified_votes": 13
    },
    "1780489314": {
       "title": "SCP-ZH-219 - 登革伯爵",
