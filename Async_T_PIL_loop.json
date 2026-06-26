@@ -124448,8 +124448,8 @@
          "_licensebox"
       ],
       "comments": "2",
-      "rating": "15",
-      "votes": "15",
+      "rating": "16",
+      "votes": "16",
       "parent": null,
       "id": "1448442307",
       "detailed_rating": {
@@ -124513,12 +124513,16 @@
             [
                "6418659",
                1725380843
+            ],
+            [
+               "9832594",
+               1782478892
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 15,
-      "justified_votes": 15
+      "justified_rating": 16,
+      "justified_votes": 16
    },
    "1686574249": {
       "title": "萬象之源（宇宙史）：第二章",
