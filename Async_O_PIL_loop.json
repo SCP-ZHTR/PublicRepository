@@ -157837,5 +157837,28 @@
       "deleted": false,
       "justified_rating": 3,
       "justified_votes": 3
+   },
+   "1782746355": {
+      "title": "推理、驗證，以及作為可變項的人性",
+      "fullname": "forever-is-fine",
+      "created_at": "1782746355",
+      "created_by": "5325850",
+      "tags": [
+         "site-zh-12",
+         "原創",
+         "吳昕博士",
+         "故事",
+         "王尚毅特工"
+      ],
+      "hidden_tags": [],
+      "comments": "1",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1468920201",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
