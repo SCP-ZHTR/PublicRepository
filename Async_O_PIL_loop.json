@@ -157852,8 +157852,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "2",
-      "votes": "2",
+      "rating": "6",
+      "votes": "6",
       "parent": null,
       "id": "1468920201",
       "detailed_rating": {
@@ -157873,11 +157873,19 @@
             [
                "9628870",
                1782747552
+            ],
+            [
+               "8177208",
+               1782748699
+            ],
+            [
+               "6141493",
+               1782748699
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 4,
-      "justified_votes": 4
+      "justified_rating": 6,
+      "justified_votes": 6
    }
 }
