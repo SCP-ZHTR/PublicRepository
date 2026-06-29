@@ -81369,8 +81369,8 @@
          "_licensebox"
       ],
       "comments": "0",
-      "rating": "9",
-      "votes": "9",
+      "rating": "10",
+      "votes": "10",
       "parent": null,
       "id": "1330919021",
       "detailed_rating": {
@@ -81410,12 +81410,16 @@
             [
                "9758462",
                1775527792
+            ],
+            [
+               "9832594",
+               1782774372
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 8,
-      "justified_votes": 8
+      "justified_rating": 9,
+      "justified_votes": 9
    },
    "1639473765": {
       "title": "SCP-4107 - 死",
