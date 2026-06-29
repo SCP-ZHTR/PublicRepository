@@ -157852,13 +157852,32 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "0",
-      "votes": "0",
+      "rating": "2",
+      "votes": "2",
       "parent": null,
       "id": "1468920201",
-      "detailed_rating": {},
+      "detailed_rating": {
+         "+": [
+            [
+               "5325850",
+               1782747552
+            ],
+            [
+               "6091157",
+               1782747552
+            ],
+            [
+               "5251681",
+               1782747552
+            ],
+            [
+               "9628870",
+               1782747552
+            ]
+         ]
+      },
       "deleted": false,
-      "justified_rating": 0,
-      "justified_votes": 0
+      "justified_rating": 4,
+      "justified_votes": 4
    }
 }
