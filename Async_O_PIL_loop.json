@@ -22121,8 +22121,8 @@
          "_info"
       ],
       "comments": "4",
-      "rating": "45",
-      "votes": "45",
+      "rating": "46",
+      "votes": "46",
       "parent": null,
       "id": "957641275",
       "detailed_rating": {
@@ -22306,12 +22306,16 @@
             [
                "8319365",
                1774087411
+            ],
+            [
+               "8854072",
+               1782835914
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 44,
-      "justified_votes": 44
+      "justified_rating": 45,
+      "justified_votes": 45
    },
    "1575719555": {
       "title": "SCP-ZH-258 - 協和御守",
@@ -156985,8 +156989,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "11",
-      "votes": "13",
+      "rating": "12",
+      "votes": "14",
       "parent": null,
       "id": "1468580512",
       "detailed_rating": {
@@ -157032,12 +157036,16 @@
                1777339914
             ],
             [
-               "9758462",
-               1777383752
-            ],
-            [
                "7827462",
                1777687688
+            ],
+            [
+               "8854072",
+               1782835914
+            ],
+            [
+               "DELETED",
+               1782835914
             ]
          ],
          "-": [
@@ -157855,9 +157863,9 @@
          "王尚毅特工"
       ],
       "hidden_tags": [],
-      "comments": "1",
-      "rating": "9",
-      "votes": "9",
+      "comments": "3",
+      "rating": "10",
+      "votes": "10",
       "parent": null,
       "id": "1468920201",
       "detailed_rating": {
@@ -157897,12 +157905,16 @@
             [
                "6104968",
                1782798699
+            ],
+            [
+               "8854072",
+               1782835914
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 9,
-      "justified_votes": 9
+      "justified_rating": 10,
+      "justified_votes": 10
    },
    "1782748802": {
       "title": "2026夏季競賽《浮生終相》",
