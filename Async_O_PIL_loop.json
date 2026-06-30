@@ -157826,8 +157826,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "3",
-      "votes": "3",
+      "rating": "4",
+      "votes": "4",
       "parent": null,
       "id": "1468919973",
       "detailed_rating": {
@@ -157843,12 +157843,16 @@
             [
                "7064164",
                1782745831
+            ],
+            [
+               "7840542",
+               1782839701
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 3,
-      "justified_votes": 3
+      "justified_rating": 4,
+      "justified_votes": 4
    },
    "1782746355": {
       "title": "推理、驗證，以及作為可變項的人性",
@@ -157864,8 +157868,8 @@
       ],
       "hidden_tags": [],
       "comments": "3",
-      "rating": "10",
-      "votes": "10",
+      "rating": "11",
+      "votes": "11",
       "parent": null,
       "id": "1468920201",
       "detailed_rating": {
@@ -157909,12 +157913,16 @@
             [
                "8854072",
                1782835914
+            ],
+            [
+               "9075244",
+               1782839701
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 10,
-      "justified_votes": 10
+      "justified_rating": 11,
+      "justified_votes": 11
    },
    "1782748802": {
       "title": "2026夏季競賽《浮生終相》",
@@ -157929,8 +157937,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "8",
-      "votes": "8",
+      "rating": "9",
+      "votes": "9",
       "parent": null,
       "id": "1468920215",
       "detailed_rating": {
@@ -157966,11 +157974,15 @@
             [
                "4206567",
                1782820639
+            ],
+            [
+               "7840542",
+               1782839701
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 8,
-      "justified_votes": 8
+      "justified_rating": 9,
+      "justified_votes": 9
    }
 }
