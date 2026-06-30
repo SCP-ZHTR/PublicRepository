@@ -53896,8 +53896,8 @@
          "_image"
       ],
       "comments": "3",
-      "rating": "38",
-      "votes": "38",
+      "rating": "39",
+      "votes": "39",
       "parent": null,
       "id": "1306056546",
       "detailed_rating": {
@@ -54053,12 +54053,16 @@
             [
                "9763414",
                1761633844
+            ],
+            [
+               "9832594",
+               1782801353
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 38,
-      "justified_votes": 38
+      "justified_rating": 39,
+      "justified_votes": 39
    },
    "1607087373": {
       "title": "SCP-:3-J",
@@ -81887,16 +81891,12 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "7",
-      "votes": "7",
+      "rating": "8",
+      "votes": "8",
       "parent": null,
       "id": "1331208900",
       "detailed_rating": {
          "+": [
-            [
-               "7469850",
-               1644336000
-            ],
             [
                "4990678",
                1640707200
@@ -81920,6 +81920,14 @@
             [
                "4442284",
                1640707200
+            ],
+            [
+               "9832594",
+               1782801353
+            ],
+            [
+               "DELETED",
+               1782801353
             ]
          ]
       },
