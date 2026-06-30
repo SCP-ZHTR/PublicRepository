@@ -155113,8 +155113,8 @@
       ],
       "hidden_tags": [],
       "comments": "2",
-      "rating": "3",
-      "votes": "3",
+      "rating": "4",
+      "votes": "4",
       "parent": null,
       "id": "1468645333",
       "detailed_rating": {
@@ -155130,12 +155130,16 @@
             [
                "7504530",
                1778644749
+            ],
+            [
+               "9832594",
+               1782801819
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 3,
-      "justified_votes": 3
+      "justified_rating": 4,
+      "justified_votes": 4
    },
    "1778685967": {
       "title": "SCP-9118 - 老菸想幹嘛",
