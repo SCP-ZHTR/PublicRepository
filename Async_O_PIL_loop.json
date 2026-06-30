@@ -123186,8 +123186,8 @@
          "_核心"
       ],
       "comments": "0",
-      "rating": "12",
-      "votes": "12",
+      "rating": "13",
+      "votes": "13",
       "parent": null,
       "id": "1450048688",
       "detailed_rating": {
@@ -123239,12 +123239,16 @@
             [
                "7827462",
                1728406165
+            ],
+            [
+               "7513990",
+               1782804021
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 12,
-      "justified_votes": 12
+      "justified_rating": 13,
+      "justified_votes": 13
    },
    "1695128401": {
       "title": "SCP-ZH-964 - 海鷗為何撤退？／公雞為何過路？",
