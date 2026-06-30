@@ -146119,8 +146119,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "11",
-      "votes": "11",
+      "rating": "12",
+      "votes": "12",
       "parent": null,
       "id": "1457289988",
       "detailed_rating": {
@@ -146168,12 +146168,16 @@
             [
                "9763414",
                1776020322
+            ],
+            [
+               "9832594",
+               1782823292
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 11,
-      "justified_votes": 11
+      "justified_rating": 12,
+      "justified_votes": 12
    },
    "1730896090": {
       "title": "SCP-8654 - 高處恐懼症：上即是下",
@@ -151254,8 +151258,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "4",
-      "votes": "4",
+      "rating": "5",
+      "votes": "5",
       "parent": null,
       "id": "1460116225",
       "detailed_rating": {
@@ -151275,12 +151279,16 @@
             [
                "5435485",
                1762960452
+            ],
+            [
+               "9832594",
+               1782823292
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 4,
-      "justified_votes": 4
+      "justified_rating": 5,
+      "justified_votes": 5
    },
    "1756568667": {
       "title": "SCP-953訪談A",
