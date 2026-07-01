@@ -46481,8 +46481,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "9",
-      "votes": "9",
+      "rating": "10",
+      "votes": "10",
       "parent": null,
       "id": "1190475663",
       "detailed_rating": {
@@ -46522,12 +46522,16 @@
             [
                "3981670",
                1617120000
+            ],
+            [
+               "8854072",
+               1782874222
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 9,
-      "justified_votes": 9
+      "justified_rating": 10,
+      "justified_votes": 10
    },
    "1594907347": {
       "title": "致我所愛",
