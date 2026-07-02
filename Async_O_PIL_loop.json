@@ -156708,7 +156708,6 @@
       "tags": [
          "safe",
          "scp",
-         "zh",
          "原創"
       ],
       "hidden_tags": [],
@@ -157507,7 +157506,6 @@
       "tags": [
          "euclid",
          "scp",
-         "zh",
          "原創"
       ],
       "hidden_tags": [],
@@ -157948,8 +157946,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "9",
-      "votes": "9",
+      "rating": "10",
+      "votes": "10",
       "parent": null,
       "id": "1468920215",
       "detailed_rating": {
@@ -157989,11 +157987,15 @@
             [
                "7840542",
                1782839701
+            ],
+            [
+               "6152598",
+               1782994160
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 9,
-      "justified_votes": 9
+      "justified_rating": 10,
+      "justified_votes": 10
    }
 }
