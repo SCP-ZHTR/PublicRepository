@@ -157511,8 +157511,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "2",
-      "votes": "2",
+      "rating": "3",
+      "votes": "3",
       "parent": null,
       "id": "1468794701",
       "detailed_rating": {
@@ -157524,12 +157524,16 @@
             [
                "10390711",
                1780460575
+            ],
+            [
+               "8319365",
+               1783007132
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 2,
-      "justified_votes": 2
+      "justified_rating": 3,
+      "justified_votes": 3
    },
    "1780472412": {
       "title": "SCP-ZH-290 - 千禧塔的公主",
@@ -157833,13 +157837,13 @@
          "scp",
          "site-zh-44",
          "site-zh-72",
-         "人型",
+         "人形",
          "原創"
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "4",
-      "votes": "4",
+      "rating": "5",
+      "votes": "5",
       "parent": null,
       "id": "1468919973",
       "detailed_rating": {
@@ -157859,12 +157863,16 @@
             [
                "7840542",
                1782839701
+            ],
+            [
+               "8319365",
+               1783007132
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 4,
-      "justified_votes": 4
+      "justified_rating": 5,
+      "justified_votes": 5
    },
    "1782746355": {
       "title": "推理、驗證，以及作為可變項的人性",
