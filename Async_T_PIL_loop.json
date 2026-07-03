@@ -8389,8 +8389,8 @@
       ],
       "hidden_tags": [],
       "comments": "3",
-      "rating": "4",
-      "votes": "4",
+      "rating": "5",
+      "votes": "5",
       "parent": "guide-hub",
       "id": "799593692",
       "detailed_rating": {
@@ -8410,12 +8410,16 @@
             [
                "4351112",
                1617120000
+            ],
+            [
+               "8854072",
+               1783087116
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 4,
-      "justified_votes": 4
+      "justified_rating": 5,
+      "justified_votes": 5
    },
    "1558166643": {
       "title": "巴黎大屠殺",
