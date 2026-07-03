@@ -35280,8 +35280,8 @@
          "_下沉"
       ],
       "comments": "4",
-      "rating": "6",
-      "votes": "10",
+      "rating": "7",
+      "votes": "11",
       "parent": null,
       "id": "1015499556",
       "detailed_rating": {
@@ -35317,6 +35317,10 @@
             [
                "5435485",
                1699314931
+            ],
+            [
+               "9832594",
+               1783072804
             ]
          ],
          "-": [
@@ -35331,8 +35335,8 @@
          ]
       },
       "deleted": false,
-      "justified_rating": 6,
-      "justified_votes": 8
+      "justified_rating": 7,
+      "justified_votes": 9
    },
    "1585728369": {
       "title": "原子筆素描：SCP-ZH-301 馬斯列尼查",
