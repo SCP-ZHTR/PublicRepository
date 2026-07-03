@@ -27490,8 +27490,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "11",
-      "votes": "11",
+      "rating": "12",
+      "votes": "12",
       "parent": "scp-001",
       "id": "1002107453",
       "detailed_rating": {
@@ -27539,12 +27539,16 @@
             [
                "DELETED",
                1728650351
+            ],
+            [
+               "8854072",
+               1783097215
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 10,
-      "justified_votes": 10
+      "justified_rating": 11,
+      "justified_votes": 11
    },
    "1584364306": {
       "title": "SCP-2845 - 鹿神",
