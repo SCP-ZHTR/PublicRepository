@@ -157900,8 +157900,8 @@
       ],
       "hidden_tags": [],
       "comments": "3",
-      "rating": "12",
-      "votes": "12",
+      "rating": "13",
+      "votes": "13",
       "parent": null,
       "id": "1468920201",
       "detailed_rating": {
@@ -157953,12 +157953,16 @@
             [
                "8319365",
                1783008632
+            ],
+            [
+               "4206567",
+               1783098704
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 12,
-      "justified_votes": 12
+      "justified_rating": 13,
+      "justified_votes": 13
    },
    "1782748802": {
       "title": "2026夏季競賽《浮生終相》",
