@@ -142238,8 +142238,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "16",
-      "votes": "16",
+      "rating": "17",
+      "votes": "17",
       "parent": null,
       "id": "1456527759",
       "detailed_rating": {
@@ -142307,12 +142307,16 @@
             [
                "6258289",
                1754101617
+            ],
+            [
+               "4264056",
+               1783083009
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 16,
-      "justified_votes": 16
+      "justified_rating": 17,
+      "justified_votes": 17
    },
    "1724519044": {
       "title": "SCP-ZH-819 - 雪是「囚因」",
