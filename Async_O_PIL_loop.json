@@ -30812,8 +30812,8 @@
          "_info"
       ],
       "comments": "0",
-      "rating": "18",
-      "votes": "18",
+      "rating": "19",
+      "votes": "19",
       "parent": null,
       "id": "986648037",
       "detailed_rating": {
@@ -30889,12 +30889,16 @@
             [
                "4206567",
                1780403790
+            ],
+            [
+               "7840542",
+               1783263538
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 18,
-      "justified_votes": 18
+      "justified_rating": 19,
+      "justified_votes": 19
    },
    "1581253668": {
       "title": "行動簡報 第916字號",
@@ -128506,8 +128510,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "5",
-      "votes": "5",
+      "rating": "6",
+      "votes": "6",
       "parent": null,
       "id": "1451178807",
       "detailed_rating": {
@@ -128531,12 +128535,16 @@
             [
                "5338547",
                1698791895
+            ],
+            [
+               "7840542",
+               1783263538
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 5,
-      "justified_votes": 5
+      "justified_rating": 6,
+      "justified_votes": 6
    },
    "1699249885": {
       "title": "《極短篇合集》節錄之二",
