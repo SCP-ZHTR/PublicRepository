@@ -158042,7 +158042,7 @@
       "justified_votes": 10
    },
    "1783260103": {
-      "title": "Scp Zh 502",
+      "title": "SCP-ZH-502",
       "fullname": "scp-zh-502",
       "created_at": "1783260103",
       "created_by": "10281913",
@@ -158052,8 +158052,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "-2",
-      "votes": "2",
+      "rating": "-3",
+      "votes": "3",
       "parent": null,
       "id": "1468943124",
       "detailed_rating": {
@@ -158065,11 +158065,15 @@
             [
                "5370805",
                1783291044
+            ],
+            [
+               "7655555",
+               1783292198
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": -2,
-      "justified_votes": 2
+      "justified_rating": -3,
+      "justified_votes": 3
    }
 }
