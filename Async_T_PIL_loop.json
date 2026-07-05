@@ -32809,8 +32809,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "3",
-      "votes": "3",
+      "rating": "4",
+      "votes": "4",
       "parent": null,
       "id": "1024241071",
       "detailed_rating": {
@@ -32826,12 +32826,16 @@
             [
                "5435485",
                1617120000
+            ],
+            [
+               "7655555",
+               1783248795
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 3,
-      "justified_votes": 3
+      "justified_rating": 4,
+      "justified_votes": 4
    },
    "1586377928": {
       "title": "SCP-5553 - 狂人社交網",
