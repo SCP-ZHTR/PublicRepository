@@ -116700,8 +116700,8 @@
          "_禁黑"
       ],
       "comments": "0",
-      "rating": "9",
-      "votes": "9",
+      "rating": "10",
+      "votes": "10",
       "parent": null,
       "id": "1447218132",
       "detailed_rating": {
@@ -116741,12 +116741,16 @@
             [
                "8177208",
                1706369073
+            ],
+            [
+               "7513990",
+               1783331170
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 8,
-      "justified_votes": 8
+      "justified_rating": 9,
+      "justified_votes": 9
    },
    "1681706868": {
       "title": "向星星殉情",
@@ -117095,8 +117099,8 @@
          "_禁黑"
       ],
       "comments": "0",
-      "rating": "11",
-      "votes": "11",
+      "rating": "12",
+      "votes": "12",
       "parent": null,
       "id": "1447704601",
       "detailed_rating": {
@@ -117144,12 +117148,16 @@
             [
                "8177208",
                1706369073
+            ],
+            [
+               "7513990",
+               1783331170
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 11,
-      "justified_votes": 11
+      "justified_rating": 12,
+      "justified_votes": 12
    },
    "1684153380": {
       "title": "SCP-ZH-344 - 岸間安寧病房",
@@ -117456,8 +117464,8 @@
          "_禁黑"
       ],
       "comments": "0",
-      "rating": "10",
-      "votes": "10",
+      "rating": "11",
+      "votes": "11",
       "parent": null,
       "id": "1447928965",
       "detailed_rating": {
@@ -117501,12 +117509,16 @@
             [
                "8177208",
                1706369073
+            ],
+            [
+               "7513990",
+               1783331170
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 10,
-      "justified_votes": 10
+      "justified_rating": 11,
+      "justified_votes": 11
    },
    "1685548661": {
       "title": "SCP-ZH-295 - Safe色、Euclid色、Keter色",
