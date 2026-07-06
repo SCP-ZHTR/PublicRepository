@@ -157866,8 +157866,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "5",
-      "votes": "5",
+      "rating": "4",
+      "votes": "4",
       "parent": null,
       "id": "1468919973",
       "detailed_rating": {
@@ -157885,18 +157885,14 @@
                1782745831
             ],
             [
-               "7840542",
-               1782839701
-            ],
-            [
                "8319365",
                1783007132
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 5,
-      "justified_votes": 5
+      "justified_rating": 4,
+      "justified_votes": 4
    },
    "1782746355": {
       "title": "推理、驗證，以及作為可變項的人性",
@@ -158053,8 +158049,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "-4",
-      "votes": "4",
+      "rating": "-5",
+      "votes": "5",
       "parent": null,
       "id": "1468943124",
       "detailed_rating": {
@@ -158074,11 +158070,15 @@
             [
                "5338547",
                1783296332
+            ],
+            [
+               "7840542",
+               1783301219
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": -4,
-      "justified_votes": 4
+      "justified_rating": -5,
+      "justified_votes": 5
    }
 }
