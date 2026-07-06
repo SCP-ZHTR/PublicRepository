@@ -158048,12 +158048,13 @@
       "created_by": "10281913",
       "tags": [
          "scp",
-         "原創"
+         "原創",
+         "待刪除"
       ],
       "hidden_tags": [],
-      "comments": "0",
-      "rating": "-3",
-      "votes": "3",
+      "comments": "1",
+      "rating": "-4",
+      "votes": "4",
       "parent": null,
       "id": "1468943124",
       "detailed_rating": {
@@ -158069,11 +158070,15 @@
             [
                "7655555",
                1783292198
+            ],
+            [
+               "5338547",
+               1783296332
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": -3,
-      "justified_votes": 3
+      "justified_rating": -4,
+      "justified_votes": 4
    }
 }
