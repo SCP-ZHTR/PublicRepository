@@ -154772,8 +154772,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "10",
-      "votes": "10",
+      "rating": "11",
+      "votes": "11",
       "parent": null,
       "id": "1467799596",
       "detailed_rating": {
@@ -154817,12 +154817,16 @@
             [
                "4206567",
                1771953392
+            ],
+            [
+               "6503482",
+               1783429396
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 10,
-      "justified_votes": 10
+      "justified_rating": 11,
+      "justified_votes": 11
    },
    "1766678317": {
       "title": "clef父女隨筆",
@@ -155161,8 +155165,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "11",
-      "votes": "11",
+      "rating": "12",
+      "votes": "12",
       "parent": null,
       "id": "1468109712",
       "detailed_rating": {
@@ -155210,12 +155214,16 @@
             [
                "6217438",
                1773754426
+            ],
+            [
+               "6503482",
+               1783429396
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 11,
-      "justified_votes": 11
+      "justified_rating": 12,
+      "justified_votes": 12
    },
    "1771389530": {
       "title": "麻雀貼紙",
@@ -156117,8 +156125,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "11",
-      "votes": "11",
+      "rating": "12",
+      "votes": "12",
       "parent": "o-nokay-ni-cidal",
       "id": "1468225640",
       "detailed_rating": {
@@ -156166,12 +156174,16 @@
             [
                "9501997",
                1773853265
+            ],
+            [
+               "6503482",
+               1783429396
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 11,
-      "justified_votes": 11
+      "justified_rating": 12,
+      "justified_votes": 12
    },
    "1773063281": {
       "title": "SCP-ZH-602",
@@ -156342,8 +156354,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "12",
-      "votes": "12",
+      "rating": "13",
+      "votes": "13",
       "parent": null,
       "id": "1468324735",
       "detailed_rating": {
@@ -156395,12 +156407,16 @@
             [
                "7513990",
                1776873669
+            ],
+            [
+               "6503482",
+               1783429396
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 12,
-      "justified_votes": 12
+      "justified_rating": 13,
+      "justified_votes": 13
    },
    "1774341044": {
       "title": "電路",
@@ -156494,8 +156510,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "6",
-      "votes": "8",
+      "rating": "7",
+      "votes": "9",
       "parent": null,
       "id": "1468369092",
       "detailed_rating": {
@@ -156527,6 +156543,10 @@
             [
                "10390711",
                1780197870
+            ],
+            [
+               "6503482",
+               1783429396
             ]
          ],
          "-": [
@@ -156537,8 +156557,8 @@
          ]
       },
       "deleted": false,
-      "justified_rating": 6,
-      "justified_votes": 8
+      "justified_rating": 7,
+      "justified_votes": 9
    },
    "1774973063": {
       "title": "調查報告：Nx-ZH-03-320「澗仔壢」",
@@ -156552,8 +156572,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "17",
-      "votes": "17",
+      "rating": "18",
+      "votes": "18",
       "parent": null,
       "id": "1468395665",
       "detailed_rating": {
@@ -156625,12 +156645,16 @@
             [
                "6141493",
                1781557195
+            ],
+            [
+               "6503482",
+               1783429396
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 17,
-      "justified_votes": 17
+      "justified_rating": 18,
+      "justified_votes": 18
    },
    "1774996364": {
       "title": "SCP姬金會 - 小公主收容大作戰",
@@ -157135,8 +157159,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "6",
-      "votes": "6",
+      "rating": "7",
+      "votes": "7",
       "parent": null,
       "id": "1468581420",
       "detailed_rating": {
@@ -157164,12 +157188,16 @@
             [
                "6217438",
                1779542916
+            ],
+            [
+               "6503482",
+               1783429396
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 6,
-      "justified_votes": 6
+      "justified_rating": 7,
+      "justified_votes": 7
    },
    "1777473164": {
       "title": "SCP-ZH-462 - 先於存在",
@@ -157418,8 +157446,8 @@
          "_禁黑"
       ],
       "comments": "0",
-      "rating": "13",
-      "votes": "13",
+      "rating": "14",
+      "votes": "14",
       "parent": "corpse-corpus-hub",
       "id": "1468710967",
       "detailed_rating": {
@@ -157461,10 +157489,6 @@
                1780281217
             ],
             [
-               "9758462",
-               1780300741
-            ],
-            [
                "7064164",
                1780502906
             ],
@@ -157475,6 +157499,14 @@
             [
                "7840542",
                1782494740
+            ],
+            [
+               "6503482",
+               1783429396
+            ],
+            [
+               "DELETED",
+               1783429396
             ]
          ]
       },
@@ -157494,8 +157526,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "2",
-      "votes": "2",
+      "rating": "3",
+      "votes": "3",
       "parent": null,
       "id": "1468718333",
       "detailed_rating": {
@@ -157507,12 +157539,16 @@
             [
                "5370805",
                1780238623
+            ],
+            [
+               "6503482",
+               1783429396
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 2,
-      "justified_votes": 2
+      "justified_rating": 3,
+      "justified_votes": 3
    },
    "1780107055": {
       "title": "SCP-ZH-147 - 時間小偷",
@@ -157531,8 +157567,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "2",
-      "votes": "2",
+      "rating": "3",
+      "votes": "3",
       "parent": null,
       "id": "1468777140",
       "detailed_rating": {
@@ -157544,12 +157580,16 @@
             [
                "5325850",
                1780125139
+            ],
+            [
+               "6503482",
+               1783429396
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 2,
-      "justified_votes": 2
+      "justified_rating": 3,
+      "justified_votes": 3
    },
    "1780325829": {
       "title": "SCP-ZH-671 - 暈血鬼",
@@ -157811,8 +157851,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "14",
-      "votes": "14",
+      "rating": "15",
+      "votes": "15",
       "parent": null,
       "id": "1468885117",
       "detailed_rating": {
@@ -157872,12 +157912,16 @@
             [
                "8854072",
                1782223702
+            ],
+            [
+               "6503482",
+               1783429396
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 14,
-      "justified_votes": 14
+      "justified_rating": 15,
+      "justified_votes": 15
    },
    "1782739191": {
       "title": "SCP-ZH-731 - 迷失的靈魂",
@@ -158148,8 +158192,8 @@
       ],
       "hidden_tags": [],
       "comments": "4",
-      "rating": "6",
-      "votes": "6",
+      "rating": "7",
+      "votes": "7",
       "parent": null,
       "id": "1468951345",
       "detailed_rating": {
