@@ -4296,8 +4296,8 @@
          "_info"
       ],
       "comments": "6",
-      "rating": "8",
-      "votes": "22",
+      "rating": "9",
+      "votes": "23",
       "parent": null,
       "id": "639660327",
       "detailed_rating": {
@@ -4361,6 +4361,10 @@
             [
                "DELETED",
                "[UNKNOWN]"
+            ],
+            [
+               "7612049",
+               1783391677
             ]
          ],
          "-": [
@@ -4389,13 +4393,13 @@
                1721215960
             ],
             [
-               "9758462",
-               1767701094
+               "DELETED",
+               1783391677
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 7,
+      "justified_rating": 9,
       "justified_votes": 21
    },
    "1553331116": {
@@ -10025,8 +10029,8 @@
          "_info"
       ],
       "comments": "0",
-      "rating": "89",
-      "votes": "91",
+      "rating": "90",
+      "votes": "92",
       "parent": null,
       "id": "832673262",
       "detailed_rating": {
@@ -10390,6 +10394,10 @@
             [
                "9832594",
                1779701805
+            ],
+            [
+               "7612049",
+               1783391677
             ]
          ],
          "-": [
@@ -10400,8 +10408,8 @@
          ]
       },
       "deleted": false,
-      "justified_rating": 85,
-      "justified_votes": 87
+      "justified_rating": 86,
+      "justified_votes": 88
    },
    "1561980796": {
       "title": "SCP-ZH-199 - 中永和迷宮",
