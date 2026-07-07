@@ -158009,8 +158009,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "10",
-      "votes": "10",
+      "rating": "11",
+      "votes": "11",
       "parent": null,
       "id": "1468920215",
       "detailed_rating": {
@@ -158054,12 +158054,16 @@
             [
                "6152598",
                1782994160
+            ],
+            [
+               "9832594",
+               1783410619
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 10,
-      "justified_votes": 10
+      "justified_rating": 11,
+      "justified_votes": 11
    },
    "1783260103": {
       "title": "SCP-ZH-502",
