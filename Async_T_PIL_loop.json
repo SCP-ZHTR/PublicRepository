@@ -124033,8 +124033,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "7",
-      "votes": "7",
+      "rating": "8",
+      "votes": "8",
       "parent": null,
       "id": "1448199526",
       "detailed_rating": {
@@ -124066,12 +124066,16 @@
             [
                "6788064",
                1686300401
+            ],
+            [
+               "8854072",
+               1783426841
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 7,
-      "justified_votes": 7
+      "justified_rating": 8,
+      "justified_votes": 8
    },
    "1685762587": {
       "title": "難搞的祈禱選集",

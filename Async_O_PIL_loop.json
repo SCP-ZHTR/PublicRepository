@@ -158132,5 +158132,25 @@
       "deleted": false,
       "justified_rating": -10,
       "justified_votes": 10
+   },
+   "1783425363": {
+      "title": "SCP-5650 相關名詞解釋",
+      "fullname": "scp-5650-mathexplained",
+      "created_at": "1783425363",
+      "created_by": "8480087",
+      "tags": [
+         "原創",
+         "用戶解密"
+      ],
+      "hidden_tags": [],
+      "comments": "3",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1468951345",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
