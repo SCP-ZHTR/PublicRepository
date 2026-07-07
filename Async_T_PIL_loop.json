@@ -59209,8 +59209,8 @@
       ],
       "hidden_tags": [],
       "comments": "5",
-      "rating": "5",
-      "votes": "5",
+      "rating": "6",
+      "votes": "6",
       "parent": null,
       "id": "1307007295",
       "detailed_rating": {
@@ -59234,12 +59234,16 @@
             [
                "6678442",
                1617120000
+            ],
+            [
+               "7504530",
+               1783407973
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 5,
-      "justified_votes": 5
+      "justified_rating": 6,
+      "justified_votes": 6
    },
    "1614477127": {
       "title": "Atzak 中心",
@@ -155946,7 +155950,7 @@
       "justified_votes": 6
    },
    "1783397372": {
-      "title": "SCP-4822－於我而言，愛曾是真實存在的",
+      "title": "SCP-4822 - 於我而言，愛曾是真實存在的",
       "fullname": "scp-4822",
       "created_at": "1783397372",
       "created_by": "4206567",
