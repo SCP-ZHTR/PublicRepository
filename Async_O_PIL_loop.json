@@ -158013,8 +158013,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "11",
-      "votes": "11",
+      "rating": "12",
+      "votes": "12",
       "parent": null,
       "id": "1468920215",
       "detailed_rating": {
@@ -158062,12 +158062,16 @@
             [
                "9832594",
                1783410619
+            ],
+            [
+               "6503482",
+               1783428122
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 11,
-      "justified_votes": 11
+      "justified_rating": 12,
+      "justified_votes": 12
    },
    "1783260103": {
       "title": "SCP-ZH-502",
@@ -158143,9 +158147,9 @@
          "用戶解密"
       ],
       "hidden_tags": [],
-      "comments": "3",
-      "rating": "4",
-      "votes": "4",
+      "comments": "4",
+      "rating": "6",
+      "votes": "6",
       "parent": null,
       "id": "1468951345",
       "detailed_rating": {
@@ -158165,11 +158169,23 @@
             [
                "5338547",
                1783426962
+            ],
+            [
+               "6503482",
+               1783428122
+            ],
+            [
+               "6217438",
+               1783428122
+            ],
+            [
+               "5251681",
+               1783428122
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 4,
-      "justified_votes": 4
+      "justified_rating": 7,
+      "justified_votes": 7
    }
 }
