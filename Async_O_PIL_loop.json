@@ -106958,8 +106958,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "20",
-      "votes": "20",
+      "rating": "21",
+      "votes": "21",
       "parent": null,
       "id": "1436251674",
       "detailed_rating": {
@@ -107043,12 +107043,16 @@
             [
                "DELETED",
                1754288306
+            ],
+            [
+               "8854072",
+               1783425226
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 19,
-      "justified_votes": 19
+      "justified_rating": 20,
+      "justified_votes": 20
    },
    "1664899162": {
       "title": "併發症",
@@ -158077,8 +158081,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "-9",
-      "votes": "9",
+      "rating": "-10",
+      "votes": "10",
       "parent": null,
       "id": "1468943124",
       "detailed_rating": {
@@ -158118,11 +158122,15 @@
             [
                "8480087",
                1783327149
+            ],
+            [
+               "8319365",
+               1783425226
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": -9,
-      "justified_votes": 9
+      "justified_rating": -10,
+      "justified_votes": 10
    }
 }
