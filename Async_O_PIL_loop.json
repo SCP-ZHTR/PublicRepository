@@ -158137,8 +158137,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "-10",
-      "votes": "10",
+      "rating": "-11",
+      "votes": "11",
       "parent": null,
       "id": "1468943124",
       "detailed_rating": {
@@ -158182,12 +158182,16 @@
             [
                "8319365",
                1783425226
+            ],
+            [
+               "9786435",
+               1783510856
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": -10,
-      "justified_votes": 10
+      "justified_rating": -11,
+      "justified_votes": 11
    },
    "1783425363": {
       "title": "SCP-5650 相關名詞解釋",
