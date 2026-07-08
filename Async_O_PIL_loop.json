@@ -16876,8 +16876,8 @@
          "_info"
       ],
       "comments": "0",
-      "rating": "17",
-      "votes": "17",
+      "rating": "18",
+      "votes": "18",
       "parent": null,
       "id": "860544654",
       "detailed_rating": {
@@ -16949,12 +16949,16 @@
             [
                "5981123",
                1719219081
+            ],
+            [
+               "10451068",
+               1783498300
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 17,
-      "justified_votes": 17
+      "justified_rating": 18,
+      "justified_votes": 18
    },
    "1567263116": {
       "title": "萬華鏡中的貓",
