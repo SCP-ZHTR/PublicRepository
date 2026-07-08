@@ -158239,5 +158239,28 @@
       "deleted": false,
       "justified_rating": 8,
       "justified_votes": 8
+   },
+   "1783483755": {
+      "title": "我們之中有兩個間諜",
+      "fullname": "there-are-2-imposters-among-us",
+      "created_at": "1783483755",
+      "created_by": "5334590",
+      "tags": [
+         "site-zh-11",
+         "原創",
+         "故事",
+         "真紀博士",
+         "趙禮竺特工"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1468953356",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
