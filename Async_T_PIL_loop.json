@@ -156002,5 +156002,32 @@
       "deleted": false,
       "justified_rating": 1,
       "justified_votes": 1
+   },
+   "1783676590": {
+      "title": "SCP-8314 - 咚奇剛已死",
+      "fullname": "scp-8314",
+      "created_at": "1783676590",
+      "created_by": "8480087",
+      "tags": [
+         "en",
+         "keter",
+         "scp",
+         "動物",
+         "媒體",
+         "屍體",
+         "猿類",
+         "翻譯",
+         "遊戲"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1468962757",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
