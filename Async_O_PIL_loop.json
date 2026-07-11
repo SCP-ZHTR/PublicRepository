@@ -156256,8 +156256,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "18",
-      "votes": "18",
+      "rating": "19",
+      "votes": "19",
       "parent": null,
       "id": "1468239175",
       "detailed_rating": {
@@ -156319,10 +156319,6 @@
                1773681945
             ],
             [
-               "9758462",
-               1773740695
-            ],
-            [
                "4206567",
                1773926097
             ],
@@ -156333,6 +156329,14 @@
             [
                "9804815",
                1774533386
+            ],
+            [
+               "7064164",
+               1783753074
+            ],
+            [
+               "DELETED",
+               1783753074
             ]
          ]
       },
@@ -158262,8 +158266,8 @@
       ],
       "hidden_tags": [],
       "comments": "2",
-      "rating": "6",
-      "votes": "6",
+      "rating": "7",
+      "votes": "7",
       "parent": null,
       "id": "1468953356",
       "detailed_rating": {
@@ -158291,12 +158295,16 @@
             [
                "8177208",
                1783741278
+            ],
+            [
+               "7064164",
+               1783753074
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 6,
-      "justified_votes": 6
+      "justified_rating": 7,
+      "justified_votes": 7
    },
    "1783681486": {
       "title": "SCP-ZH-672",
