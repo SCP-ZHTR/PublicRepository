@@ -99853,20 +99853,12 @@
          "_cc"
       ],
       "comments": "0",
-      "rating": "7",
-      "votes": "7",
+      "rating": "8",
+      "votes": "8",
       "parent": null,
       "id": "1416956825",
       "detailed_rating": {
          "+": [
-            [
-               "6943710",
-               1657641600
-            ],
-            [
-               "7469850",
-               1657036800
-            ],
             [
                "8452537",
                1688559001
@@ -99886,12 +99878,24 @@
             [
                "5013754",
                1656777600
+            ],
+            [
+               "4239775",
+               1783764147
+            ],
+            [
+               "DELETED",
+               1783764147
+            ],
+            [
+               "DELETED",
+               1783764147
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 7,
-      "justified_votes": 7
+      "justified_rating": 6,
+      "justified_votes": 6
    },
    "1656776137": {
       "title": "SCP-ZH-744 - 反洗禮",
