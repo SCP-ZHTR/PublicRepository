@@ -156067,5 +156067,43 @@
       "deleted": false,
       "justified_rating": 0,
       "justified_votes": 0
+   },
+   "1783747604": {
+      "title": "SCP-8121 - 殘物",
+      "fullname": "scp-8121",
+      "created_at": "1783747604",
+      "created_by": "6381244",
+      "tags": [
+         "apocalyptic",
+         "en",
+         "k級情景",
+         "publicdomaincon2025",
+         "scp",
+         "合著",
+         "喜劇",
+         "宇宙恐怖",
+         "屍體",
+         "恐怖",
+         "末日後",
+         "機密分級",
+         "現實扭曲",
+         "精神影響",
+         "翻譯",
+         "認知危害",
+         "超現實",
+         "黑色幽默"
+      ],
+      "hidden_tags": [
+         "_licensebox"
+      ],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": "murderoftheuniverse",
+      "id": "1468965697",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
