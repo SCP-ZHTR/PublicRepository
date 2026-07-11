@@ -158262,8 +158262,8 @@
       ],
       "hidden_tags": [],
       "comments": "2",
-      "rating": "5",
-      "votes": "5",
+      "rating": "6",
+      "votes": "6",
       "parent": null,
       "id": "1468953356",
       "detailed_rating": {
@@ -158287,12 +158287,16 @@
             [
                "5370805",
                1783506399
+            ],
+            [
+               "8177208",
+               1783741278
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 5,
-      "justified_votes": 5
+      "justified_rating": 6,
+      "justified_votes": 6
    },
    "1783681486": {
       "title": "SCP-ZH-672",
