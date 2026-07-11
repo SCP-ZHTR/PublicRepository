@@ -156112,5 +156112,30 @@
       "deleted": false,
       "justified_rating": 1,
       "justified_votes": 1
+   },
+   "1783776463": {
+      "title": "SCP-3913 - 盡職卡車",
+      "fullname": "scp-3913",
+      "created_at": "1783776463",
+      "created_by": "4206567",
+      "tags": [
+         "en",
+         "euclid",
+         "scp",
+         "屍體",
+         "翻譯",
+         "自主",
+         "載具"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1468967574",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
