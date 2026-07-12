@@ -156805,12 +156805,15 @@
       "tags": [
          "safe",
          "scp",
-         "原創"
+         "傳送",
+         "原創",
+         "反大麻玩家",
+         "電子"
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "0",
-      "votes": "4",
+      "rating": "-1",
+      "votes": "5",
       "parent": null,
       "id": "1468422906",
       "detailed_rating": {
@@ -156822,6 +156825,10 @@
             [
                "8177208",
                1776161705
+            ],
+            [
+               "5370805",
+               1783887160
             ]
          ],
          "+": [
@@ -156836,8 +156843,8 @@
          ]
       },
       "deleted": false,
-      "justified_rating": 0,
-      "justified_votes": 4
+      "justified_rating": -1,
+      "justified_votes": 5
    },
    "1775467980": {
       "title": "SCP-ZH-834 - 手寫事成對聯",
@@ -157227,10 +157234,10 @@
       "tags": [
          "euclid",
          "scp",
+         "人形",
          "原創",
-         "地點",
-         "基金會製造",
-         "認知危害"
+         "型態變化",
+         "變形"
       ],
       "hidden_tags": [],
       "comments": "0",
@@ -157619,7 +157626,9 @@
       "tags": [
          "euclid",
          "scp",
-         "原創"
+         "人形",
+         "原創",
+         "變形"
       ],
       "hidden_tags": [],
       "comments": "1",
@@ -157954,6 +157963,7 @@
          "site-zh-44",
          "site-zh-72",
          "人形",
+         "傳送",
          "原創"
       ],
       "hidden_tags": [],
