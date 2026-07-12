@@ -30434,8 +30434,8 @@
          "_cc"
       ],
       "comments": "2",
-      "rating": "6",
-      "votes": "6",
+      "rating": "7",
+      "votes": "7",
       "parent": null,
       "id": "1010340341",
       "detailed_rating": {
@@ -30463,12 +30463,16 @@
             [
                "5981123",
                1719229841
+            ],
+            [
+               "5565302",
+               1783815214
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 6,
-      "justified_votes": 6
+      "justified_rating": 7,
+      "justified_votes": 7
    },
    "1585490606": {
       "title": "戴帽子的Keter們",
