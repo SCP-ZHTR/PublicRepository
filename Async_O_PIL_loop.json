@@ -140877,8 +140877,8 @@
       ],
       "hidden_tags": [],
       "comments": "2",
-      "rating": "32",
-      "votes": "32",
+      "rating": "33",
+      "votes": "33",
       "parent": null,
       "id": "1456300605",
       "detailed_rating": {
@@ -141010,12 +141010,16 @@
             [
                "8854072",
                1777653525
+            ],
+            [
+               "6381244",
+               1783945533
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 32,
-      "justified_votes": 32
+      "justified_rating": 33,
+      "justified_votes": 33
    },
    "1723867205": {
       "title": "SCP-ZH-454 - 早是「滋潤」",
@@ -158350,7 +158354,7 @@
       "justified_votes": 0
    },
    "1783739586": {
-      "title": "Scp-Zh-241深淵之影",
+      "title": "SCP-ZH-241 - 深淵之影",
       "fullname": "scp-zh-241",
       "created_at": "1783739586",
       "created_by": "8560440",
