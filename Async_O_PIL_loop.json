@@ -158356,12 +158356,13 @@
       "created_by": "8560440",
       "tags": [
          "scp",
-         "原創"
+         "原創",
+         "待刪除"
       ],
       "hidden_tags": [],
-      "comments": "0",
-      "rating": "-3",
-      "votes": "5",
+      "comments": "1",
+      "rating": "-4",
+      "votes": "6",
       "parent": null,
       "id": "1468965289",
       "detailed_rating": {
@@ -158387,11 +158388,15 @@
             [
                "4990678",
                1783899278
+            ],
+            [
+               "4239775",
+               1783901019
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": -3,
-      "justified_votes": 5
+      "justified_rating": -4,
+      "justified_votes": 6
    }
 }
