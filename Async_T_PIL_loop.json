@@ -152611,8 +152611,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "10",
-      "votes": "10",
+      "rating": "9",
+      "votes": "11",
       "parent": null,
       "id": "1460741684",
       "detailed_rating": {
@@ -152654,13 +152654,19 @@
                1763860163
             ],
             [
-               "9758462",
-               1765519471
+               "DELETED",
+               1784111211
+            ]
+         ],
+         "-": [
+            [
+               "10411361",
+               1784111211
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 10,
+      "justified_rating": 8,
       "justified_votes": 10
    },
    "1761494401": {
