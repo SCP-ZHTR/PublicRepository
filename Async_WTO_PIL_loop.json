@@ -21583,8 +21583,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "1",
-      "votes": "1",
+      "rating": "2",
+      "votes": "2",
       "parent": null,
       "id": "1468913782",
       "detailed_rating": {
@@ -21592,12 +21592,16 @@
             [
                "4990678",
                1782626868
+            ],
+            [
+               "6503482",
+               1784116827
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 1,
-      "justified_votes": 1
+      "justified_rating": 2,
+      "justified_votes": 2
    },
    "1782739191": {
       "title": "SCP-ZH-731",
