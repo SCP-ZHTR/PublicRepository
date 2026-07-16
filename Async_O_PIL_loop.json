@@ -50449,8 +50449,8 @@
          "_賞金已解明"
       ],
       "comments": "0",
-      "rating": "6",
-      "votes": "6",
+      "rating": "7",
+      "votes": "7",
       "parent": null,
       "id": "1261307892",
       "detailed_rating": {
@@ -50478,12 +50478,16 @@
             [
                "2975927",
                1703829060
+            ],
+            [
+               "7612049",
+               1784199275
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 6,
-      "justified_votes": 6
+      "justified_rating": 7,
+      "justified_votes": 7
    },
    "1597940153": {
       "title": "基金會員工排起了隊",
@@ -102678,8 +102682,8 @@
          "_cc"
       ],
       "comments": "0",
-      "rating": "13",
-      "votes": "13",
+      "rating": "14",
+      "votes": "14",
       "parent": null,
       "id": "1427549064",
       "detailed_rating": {
@@ -102735,12 +102739,16 @@
             [
                "DELETED",
                1695208325
+            ],
+            [
+               "7612049",
+               1784199275
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 12,
-      "justified_votes": 12
+      "justified_rating": 13,
+      "justified_votes": 13
    },
    "1661529600": {
       "title": "特殊配備「九轉盔」實驗紀聞：赤嵐四向",
