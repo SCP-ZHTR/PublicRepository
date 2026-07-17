@@ -155290,8 +155290,8 @@
          "_listpages"
       ],
       "comments": "1",
-      "rating": "5",
-      "votes": "5",
+      "rating": "6",
+      "votes": "6",
       "parent": null,
       "id": "1468668359",
       "detailed_rating": {
@@ -155315,12 +155315,16 @@
             [
                "6381244",
                1779353101
+            ],
+            [
+               "7612049",
+               1784302829
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 5,
-      "justified_votes": 5
+      "justified_rating": 6,
+      "justified_votes": 6
    },
    "1778923800": {
       "title": "SCP-10000-J - 工作人員致遠紀",
