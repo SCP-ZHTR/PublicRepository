@@ -1221,8 +1221,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "1",
-      "votes": "1",
+      "rating": "2",
+      "votes": "2",
       "parent": "guide-hub",
       "id": "654604348",
       "detailed_rating": {
@@ -1230,12 +1230,16 @@
             [
                "6655922",
                1617120000
+            ],
+            [
+               "5252281",
+               1784376016
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 1,
-      "justified_votes": 1
+      "justified_rating": 2,
+      "justified_votes": 2
    },
    "1553648811": {
       "title": "作品重寫導引",
