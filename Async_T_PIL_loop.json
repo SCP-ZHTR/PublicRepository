@@ -156047,8 +156047,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "3",
-      "votes": "3",
+      "rating": "4",
+      "votes": "4",
       "parent": null,
       "id": "1468962757",
       "detailed_rating": {
@@ -156064,12 +156064,16 @@
             [
                "5251681",
                1783703908
+            ],
+            [
+               "7612049",
+               1784382835
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 3,
-      "justified_votes": 3
+      "justified_rating": 4,
+      "justified_votes": 4
    },
    "1783747434": {
       "title": "宇宙謀殺案",
