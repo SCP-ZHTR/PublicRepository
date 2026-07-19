@@ -158376,7 +158376,7 @@
       "hidden_tags": [],
       "comments": "1",
       "rating": "-1",
-      "votes": "3",
+      "votes": "4",
       "parent": null,
       "id": "1468962937",
       "detailed_rating": {
@@ -158388,6 +158388,10 @@
             [
                "6815728",
                1784229380
+            ],
+            [
+               "7840542",
+               1784474388
             ]
          ],
          "+": [
@@ -158398,8 +158402,8 @@
          ]
       },
       "deleted": false,
-      "justified_rating": -1,
-      "justified_votes": 3
+      "justified_rating": -2,
+      "justified_votes": 4
    },
    "1783739586": {
       "title": "SCP-ZH-241 - 深淵之影",
