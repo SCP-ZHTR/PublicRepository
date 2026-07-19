@@ -157575,8 +157575,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "3",
-      "votes": "3",
+      "rating": "4",
+      "votes": "4",
       "parent": null,
       "id": "1468718333",
       "detailed_rating": {
@@ -157592,12 +157592,16 @@
             [
                "6503482",
                1783429396
+            ],
+            [
+               "4206567",
+               1784448891
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 3,
-      "justified_votes": 3
+      "justified_rating": 4,
+      "justified_votes": 4
    },
    "1780107055": {
       "title": "SCP-ZH-147 - 時間小偷",
