@@ -44890,8 +44890,8 @@
          "_cc"
       ],
       "comments": "0",
-      "rating": "7",
-      "votes": "7",
+      "rating": "8",
+      "votes": "8",
       "parent": null,
       "id": "1267736033",
       "detailed_rating": {
@@ -44923,12 +44923,16 @@
             [
                "5013754",
                1617120000
+            ],
+            [
+               "9832594",
+               1784514563
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 7,
-      "justified_votes": 7
+      "justified_rating": 8,
+      "justified_votes": 8
    },
    "1598445535": {
       "title": "SCP-1645-JP - 祝賀 達成9999天██町零交通死亡紀錄",
