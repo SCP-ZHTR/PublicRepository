@@ -156618,8 +156618,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "18",
-      "votes": "18",
+      "rating": "19",
+      "votes": "19",
       "parent": null,
       "id": "1468395665",
       "detailed_rating": {
@@ -156695,12 +156695,16 @@
             [
                "6503482",
                1783429396
+            ],
+            [
+               "7504530",
+               1784528536
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 18,
-      "justified_votes": 18
+      "justified_rating": 19,
+      "justified_votes": 19
    },
    "1774996364": {
       "title": "SCP姬金會 - 小公主收容大作戰",
@@ -157128,8 +157132,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "13",
-      "votes": "15",
+      "rating": "14",
+      "votes": "16",
       "parent": null,
       "id": "1468580512",
       "detailed_rating": {
@@ -157189,6 +157193,10 @@
             [
                "5402841",
                1782872850
+            ],
+            [
+               "7504530",
+               1784528536
             ]
          ],
          "-": [
@@ -157199,8 +157207,8 @@
          ]
       },
       "deleted": false,
-      "justified_rating": 12,
-      "justified_votes": 14
+      "justified_rating": 13,
+      "justified_votes": 15
    },
    "1777305651": {
       "title": "共有良夜",
