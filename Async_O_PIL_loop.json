@@ -36026,8 +36026,8 @@
       ],
       "hidden_tags": [],
       "comments": "2",
-      "rating": "-1",
-      "votes": "9",
+      "rating": "-2",
+      "votes": "10",
       "parent": null,
       "id": "1024272433",
       "detailed_rating": {
@@ -36069,12 +36069,16 @@
             [
                "6815728",
                1784487772
+            ],
+            [
+               "5709442",
+               1784647451
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": -1,
-      "justified_votes": 9
+      "justified_rating": -2,
+      "justified_votes": 10
    },
    "1586534118": {
       "title": "SCP-ZH-150 - 悖論甜甜圈",
