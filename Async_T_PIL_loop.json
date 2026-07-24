@@ -104125,8 +104125,8 @@
          "_image"
       ],
       "comments": "0",
-      "rating": "7",
-      "votes": "9",
+      "rating": "8",
+      "votes": "10",
       "parent": null,
       "id": "1436093753",
       "detailed_rating": {
@@ -104162,6 +104162,10 @@
             [
                "DELETED",
                1766070178
+            ],
+            [
+               "9628870",
+               1784881103
             ]
          ],
          "-": [
@@ -104172,8 +104176,8 @@
          ]
       },
       "deleted": false,
-      "justified_rating": 6,
-      "justified_votes": 8
+      "justified_rating": 7,
+      "justified_votes": 9
    },
    "1664193517": {
       "title": "工作機會",
