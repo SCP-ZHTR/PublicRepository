@@ -156267,5 +156267,36 @@
       "deleted": false,
       "justified_rating": 4,
       "justified_votes": 4
+   },
+   "1784988157": {
+      "title": "SCP-7472 圓形監獄V：這次關乎私人恩怨",
+      "fullname": "scp-7472",
+      "created_at": "1784988157",
+      "created_by": "6381244",
+      "tags": [
+         "en",
+         "scp",
+         "人形",
+         "反常部",
+         "合著",
+         "屍體",
+         "展出",
+         "建築物",
+         "機密分級",
+         "翻譯",
+         "鼠類"
+      ],
+      "hidden_tags": [
+         "_licensebox"
+      ],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1469045186",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
