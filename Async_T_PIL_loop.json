@@ -75328,8 +75328,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "9",
-      "votes": "9",
+      "rating": "10",
+      "votes": "10",
       "parent": null,
       "id": "1323967517",
       "detailed_rating": {
@@ -75369,12 +75369,16 @@
             [
                "8319365",
                1716566911
+            ],
+            [
+               "9832594",
+               1785135418
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 8,
-      "justified_votes": 8
+      "justified_rating": 9,
+      "justified_votes": 9
    },
    "1631304893": {
       "title": "SCP-1836 - 冰藏的母親",
@@ -156045,8 +156049,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "1",
-      "votes": "1",
+      "rating": "2",
+      "votes": "2",
       "parent": null,
       "id": "1468948986",
       "detailed_rating": {
@@ -156054,12 +156058,16 @@
             [
                "4206567",
                1783401864
+            ],
+            [
+               "7612049",
+               1785135418
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 1,
-      "justified_votes": 1
+      "justified_rating": 2,
+      "justified_votes": 2
    },
    "1783676590": {
       "title": "SCP-8314 - 咚奇剛已死",
