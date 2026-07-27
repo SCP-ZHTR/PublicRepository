@@ -156335,5 +156335,52 @@
       "deleted": false,
       "justified_rating": 0,
       "justified_votes": 0
+   },
+   "1785171056": {
+      "title": "SCP-3084 - 數據祓除",
+      "fullname": "scp-3048",
+      "created_at": "1785171056",
+      "created_by": "7605593",
+      "tags": [
+         "asheworth博士",
+         "en",
+         "euclid",
+         "mc&d",
+         "percival-darke",
+         "scp",
+         "人形",
+         "來自120站的檔案",
+         "公司",
+         "反熵",
+         "喜劇",
+         "奇幻",
+         "奇蹟學",
+         "恐怖",
+         "智能",
+         "機密分級",
+         "活物",
+         "翻譯",
+         "聽覺影響",
+         "肉體恐怖",
+         "視覺影響",
+         "觀察影響",
+         "貨幣",
+         "資訊危害",
+         "超現實",
+         "黑鑽豪紳"
+      ],
+      "hidden_tags": [
+         "_image",
+         "_licensebox"
+      ],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1469057352",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
