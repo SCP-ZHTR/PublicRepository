@@ -128087,8 +128087,8 @@
          "_cc"
       ],
       "comments": "4",
-      "rating": "29",
-      "votes": "29",
+      "rating": "30",
+      "votes": "30",
       "parent": null,
       "id": "1451120156",
       "detailed_rating": {
@@ -128208,12 +128208,16 @@
             [
                "9555530",
                1738924413
+            ],
+            [
+               "6815728",
+               1785416429
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 28,
-      "justified_votes": 28
+      "justified_rating": 29,
+      "justified_votes": 29
    },
    "1698508591": {
       "title": "偽造的記憶",
@@ -158531,5 +158535,26 @@
       "deleted": true,
       "justified_rating": -7,
       "justified_votes": 9
+   },
+   "1785414598": {
+      "title": "SCP-ZH-291",
+      "fullname": "scp-zh-291",
+      "created_at": "1785414598",
+      "created_by": "7133565",
+      "tags": [
+         "keter",
+         "scp",
+         "原創"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1469075153",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }

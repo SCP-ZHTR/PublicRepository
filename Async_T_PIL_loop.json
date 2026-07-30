@@ -156171,8 +156171,8 @@
          "_licensebox"
       ],
       "comments": "0",
-      "rating": "3",
-      "votes": "3",
+      "rating": "4",
+      "votes": "4",
       "parent": "murderoftheuniverse",
       "id": "1468965697",
       "detailed_rating": {
@@ -156188,12 +156188,16 @@
             [
                "5370805",
                1783780529
+            ],
+            [
+               "4990678",
+               1785416434
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 3,
-      "justified_votes": 3
+      "justified_rating": 4,
+      "justified_votes": 4
    },
    "1783776463": {
       "title": "SCP-3913 - 盡職卡車",
