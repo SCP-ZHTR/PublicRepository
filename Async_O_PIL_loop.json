@@ -157845,8 +157845,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "8",
-      "votes": "8",
+      "rating": "9",
+      "votes": "9",
       "parent": null,
       "id": "1468802263",
       "detailed_rating": {
@@ -157882,12 +157882,16 @@
             [
                "7513990",
                1781673326
+            ],
+            [
+               "6815728",
+               1785412557
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 8,
-      "justified_votes": 8
+      "justified_rating": 9,
+      "justified_votes": 9
    },
    "1781841944": {
       "title": "月襄山銀海中月",
