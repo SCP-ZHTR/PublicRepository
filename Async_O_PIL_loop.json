@@ -1096,8 +1096,8 @@
          "_info"
       ],
       "comments": "1",
-      "rating": "4",
-      "votes": "10",
+      "rating": "5",
+      "votes": "11",
       "parent": null,
       "id": "637419152",
       "detailed_rating": {
@@ -1129,6 +1129,10 @@
             [
                "DELETED",
                1722520258
+            ],
+            [
+               "9555530",
+               1785483982
             ]
          ],
          "-": [
@@ -1147,8 +1151,8 @@
          ]
       },
       "deleted": false,
-      "justified_rating": 3,
-      "justified_votes": 9
+      "justified_rating": 4,
+      "justified_votes": 10
    },
    "1552188586": {
       "title": "SCP-ZH-408 - 唇果樹",
@@ -1168,8 +1172,8 @@
          "_info"
       ],
       "comments": "1",
-      "rating": "6",
-      "votes": "6",
+      "rating": "7",
+      "votes": "7",
       "parent": null,
       "id": "637419181",
       "detailed_rating": {
@@ -1197,12 +1201,16 @@
             [
                "3981670",
                1617120000
+            ],
+            [
+               "9555530",
+               1785483982
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 6,
-      "justified_votes": 6
+      "justified_rating": 7,
+      "justified_votes": 7
    },
    "1552190150": {
       "title": "SCP-ZH-229 - 藍乾酪",
