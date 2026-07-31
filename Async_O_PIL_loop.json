@@ -10041,8 +10041,8 @@
          "_info"
       ],
       "comments": "0",
-      "rating": "90",
-      "votes": "92",
+      "rating": "89",
+      "votes": "93",
       "parent": null,
       "id": "832673262",
       "detailed_rating": {
@@ -10416,12 +10416,16 @@
             [
                "8007198",
                1651075200
+            ],
+            [
+               "7133565",
+               1785509159
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 86,
-      "justified_votes": 88
+      "justified_rating": 85,
+      "justified_votes": 89
    },
    "1561980796": {
       "title": "SCP-ZH-199 - 中永和迷宮",
@@ -158071,8 +158075,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "5",
-      "votes": "5",
+      "rating": "4",
+      "votes": "6",
       "parent": null,
       "id": "1468919973",
       "detailed_rating": {
@@ -158097,11 +158101,17 @@
                "8854072",
                1783445135
             ]
+         ],
+         "-": [
+            [
+               "7133565",
+               1785509159
+            ]
          ]
       },
       "deleted": false,
-      "justified_rating": 5,
-      "justified_votes": 5
+      "justified_rating": 4,
+      "justified_votes": 6
    },
    "1782746355": {
       "title": "推理、驗證，以及作為可變項的人性",
