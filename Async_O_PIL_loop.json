@@ -158606,5 +158606,34 @@
       "deleted": false,
       "justified_rating": -1,
       "justified_votes": 5
+   },
+   "1785763544": {
+      "title": "SCP-ZH-076 - 末日連環殺人案",
+      "fullname": "scp-zh-076",
+      "created_at": "1785763544",
+      "created_by": "5370805",
+      "tags": [
+         "2026夏季競賽",
+         "scp",
+         "site-zh-25",
+         "原創",
+         "屍體",
+         "機密分級",
+         "無名",
+         "燦藍天穹",
+         "現象"
+      ],
+      "hidden_tags": [
+         "_他殺"
+      ],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1469092591",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
