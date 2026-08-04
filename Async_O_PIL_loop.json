@@ -158627,8 +158627,8 @@
          "_他殺"
       ],
       "comments": "0",
-      "rating": "4",
-      "votes": "4",
+      "rating": "5",
+      "votes": "5",
       "parent": null,
       "id": "1469092591",
       "detailed_rating": {
@@ -158648,11 +158648,15 @@
             [
                "5062193",
                1785814577
+            ],
+            [
+               "8404617",
+               1785825211
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 4,
-      "justified_votes": 4
+      "justified_rating": 5,
+      "justified_votes": 5
    }
 }
