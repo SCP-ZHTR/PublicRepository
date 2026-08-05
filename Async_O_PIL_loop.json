@@ -10720,8 +10720,8 @@
          "_info"
       ],
       "comments": "5",
-      "rating": "83",
-      "votes": "83",
+      "rating": "84",
+      "votes": "84",
       "parent": null,
       "id": "833420456",
       "detailed_rating": {
@@ -11057,12 +11057,16 @@
             [
                "10306697",
                1775188806
+            ],
+            [
+               "10350928",
+               1785911903
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 81,
-      "justified_votes": 81
+      "justified_rating": 82,
+      "justified_votes": 82
    },
    "1562467167": {
       "title": "NSB-8新進人員教程: 何謂colony",
