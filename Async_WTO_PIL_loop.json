@@ -21715,5 +21715,33 @@
       "deleted": true,
       "justified_rating": 0,
       "justified_votes": 0
+   },
+   "1785934972": {
+      "title": "SCP-ZH-942 - 自殺防治專線",
+      "fullname": "scp-zh-942",
+      "created_at": "1785934972",
+      "created_by": "4206567",
+      "tags": [
+         "scp",
+         "共感",
+         "屍體",
+         "無效化",
+         "異常現象",
+         "神經性",
+         "精神影響",
+         "聽覺影響",
+         "見危-12",
+         "通訊"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1469102083",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
