@@ -158705,5 +158705,33 @@
       "deleted": false,
       "justified_rating": 1,
       "justified_votes": 1
+   },
+   "1785939829": {
+      "title": "SCP-ZH-238 - 血流成河",
+      "fullname": "scp-zh-238",
+      "created_at": "1785939829",
+      "created_by": "3981670",
+      "tags": [
+         "2026夏季競賽",
+         "safe",
+         "scp",
+         "原創",
+         "屍體",
+         "毒性",
+         "生物危害",
+         "睡眠"
+      ],
+      "hidden_tags": [
+         "_他殺"
+      ],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1469102400",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
