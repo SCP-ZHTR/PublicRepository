@@ -64497,8 +64497,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "6",
-      "votes": "6",
+      "rating": "7",
+      "votes": "7",
       "parent": null,
       "id": "1308565513",
       "detailed_rating": {
@@ -64526,12 +64526,16 @@
             [
                "4442284",
                1618243200
+            ],
+            [
+               "9832594",
+               1785927409
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 6,
-      "justified_votes": 6
+      "justified_rating": 7,
+      "justified_votes": 7
    },
    "1618242191": {
       "title": "與死者並肩奮戰",
