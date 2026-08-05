@@ -158635,8 +158635,8 @@
          "_他殺"
       ],
       "comments": "0",
-      "rating": "5",
-      "votes": "5",
+      "rating": "6",
+      "votes": "6",
       "parent": null,
       "id": "1469092591",
       "detailed_rating": {
@@ -158660,12 +158660,16 @@
             [
                "8404617",
                1785825211
+            ],
+            [
+               "9628870",
+               1785942213
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 5,
-      "justified_votes": 5
+      "justified_rating": 6,
+      "justified_votes": 6
    },
    "1785934972": {
       "title": "SCP-ZH-942 - 自殺防治專線",
@@ -158690,8 +158694,8 @@
          "_自殺"
       ],
       "comments": "1",
-      "rating": "1",
-      "votes": "1",
+      "rating": "3",
+      "votes": "3",
       "parent": null,
       "id": "1469102083",
       "detailed_rating": {
@@ -158699,12 +158703,20 @@
             [
                "5370805",
                1785938096
+            ],
+            [
+               "4990678",
+               1785942213
+            ],
+            [
+               "9628870",
+               1785942213
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 1,
-      "justified_votes": 1
+      "justified_rating": 3,
+      "justified_votes": 3
    },
    "1785939829": {
       "title": "SCP-ZH-238 - 血流成河",
@@ -158725,13 +158737,28 @@
          "_他殺"
       ],
       "comments": "0",
-      "rating": "0",
-      "votes": "0",
+      "rating": "3",
+      "votes": "3",
       "parent": null,
       "id": "1469102400",
-      "detailed_rating": {},
+      "detailed_rating": {
+         "+": [
+            [
+               "5565302",
+               1785942213
+            ],
+            [
+               "4990678",
+               1785942213
+            ],
+            [
+               "9628870",
+               1785942213
+            ]
+         ]
+      },
       "deleted": false,
-      "justified_rating": 0,
-      "justified_votes": 0
+      "justified_rating": 3,
+      "justified_votes": 3
    }
 }
