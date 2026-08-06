@@ -158737,8 +158737,8 @@
          "_他殺"
       ],
       "comments": "0",
-      "rating": "5",
-      "votes": "5",
+      "rating": "6",
+      "votes": "6",
       "parent": null,
       "id": "1469102400",
       "detailed_rating": {
@@ -158762,12 +158762,16 @@
             [
                "5251681",
                1785954401
+            ],
+            [
+               "7064164",
+               1785979429
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 5,
-      "justified_votes": 5
+      "justified_rating": 6,
+      "justified_votes": 6
    },
    "1785960799": {
       "title": "SCP-ZH-874",
