@@ -158698,8 +158698,8 @@
          "_自殺"
       ],
       "comments": "1",
-      "rating": "4",
-      "votes": "4",
+      "rating": "5",
+      "votes": "5",
       "parent": null,
       "id": "1469102083",
       "detailed_rating": {
@@ -158719,12 +158719,16 @@
             [
                "7064164",
                1785980924
+            ],
+            [
+               "5338547",
+               1786013648
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 4,
-      "justified_votes": 4
+      "justified_rating": 5,
+      "justified_votes": 5
    },
    "1785939829": {
       "title": "SCP-ZH-238 - 血流成河",
@@ -158745,8 +158749,8 @@
          "_他殺"
       ],
       "comments": "0",
-      "rating": "7",
-      "votes": "7",
+      "rating": "8",
+      "votes": "8",
       "parent": null,
       "id": "1469102400",
       "detailed_rating": {
@@ -158778,15 +158782,19 @@
             [
                "8404617",
                1786001927
+            ],
+            [
+               "7840542",
+               1786013648
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 7,
-      "justified_votes": 7
+      "justified_rating": 8,
+      "justified_votes": 8
    },
    "1785960799": {
-      "title": "SCP-ZH-874",
+      "title": "SCP-ZH-874 - 無人缺席",
       "fullname": "scp-zh-874",
       "created_at": "1785960799",
       "created_by": "5402841",
@@ -158803,8 +158811,8 @@
          "_事故"
       ],
       "comments": "0",
-      "rating": "2",
-      "votes": "2",
+      "rating": "3",
+      "votes": "3",
       "parent": null,
       "id": "1469103268",
       "detailed_rating": {
@@ -158816,11 +158824,15 @@
             [
                "7064164",
                1785980924
+            ],
+            [
+               "7840542",
+               1786013648
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 2,
-      "justified_votes": 2
+      "justified_rating": 3,
+      "justified_votes": 3
    }
 }
