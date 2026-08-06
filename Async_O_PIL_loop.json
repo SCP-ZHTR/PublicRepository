@@ -158635,8 +158635,8 @@
          "_他殺"
       ],
       "comments": "0",
-      "rating": "6",
-      "votes": "6",
+      "rating": "7",
+      "votes": "7",
       "parent": null,
       "id": "1469092591",
       "detailed_rating": {
@@ -158664,12 +158664,16 @@
             [
                "9628870",
                1785942213
+            ],
+            [
+               "7064164",
+               1785980924
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 6,
-      "justified_votes": 6
+      "justified_rating": 7,
+      "justified_votes": 7
    },
    "1785934972": {
       "title": "SCP-ZH-942 - 自殺防治專線",
@@ -158694,8 +158698,8 @@
          "_自殺"
       ],
       "comments": "1",
-      "rating": "3",
-      "votes": "3",
+      "rating": "4",
+      "votes": "4",
       "parent": null,
       "id": "1469102083",
       "detailed_rating": {
@@ -158711,12 +158715,16 @@
             [
                "9628870",
                1785942213
+            ],
+            [
+               "7064164",
+               1785980924
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 3,
-      "justified_votes": 3
+      "justified_rating": 4,
+      "justified_votes": 4
    },
    "1785939829": {
       "title": "SCP-ZH-238 - 血流成河",
@@ -158791,8 +158799,8 @@
          "_事故"
       ],
       "comments": "0",
-      "rating": "1",
-      "votes": "1",
+      "rating": "2",
+      "votes": "2",
       "parent": null,
       "id": "1469103268",
       "detailed_rating": {
@@ -158800,11 +158808,15 @@
             [
                "4990678",
                1785975403
+            ],
+            [
+               "7064164",
+               1785980924
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 1,
-      "justified_votes": 1
+      "justified_rating": 2,
+      "justified_votes": 2
    }
 }
