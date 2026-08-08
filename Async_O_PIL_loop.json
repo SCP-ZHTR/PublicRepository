@@ -158754,8 +158754,8 @@
          "_他殺"
       ],
       "comments": "0",
-      "rating": "8",
-      "votes": "8",
+      "rating": "9",
+      "votes": "9",
       "parent": null,
       "id": "1469102400",
       "detailed_rating": {
@@ -158791,12 +158791,16 @@
             [
                "7840542",
                1786013648
+            ],
+            [
+               "9371222",
+               1786208657
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 8,
-      "justified_votes": 8
+      "justified_rating": 9,
+      "justified_votes": 9
    },
    "1785960799": {
       "title": "SCP-ZH-874 - 無人缺席",
