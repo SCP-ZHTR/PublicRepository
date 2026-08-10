@@ -59906,8 +59906,8 @@
          "_cc"
       ],
       "comments": "0",
-      "rating": "18",
-      "votes": "18",
+      "rating": "19",
+      "votes": "19",
       "parent": null,
       "id": "1306372510",
       "detailed_rating": {
@@ -59983,12 +59983,16 @@
             [
                "5981123",
                1719427601
+            ],
+            [
+               "9075244",
+               1786373847
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 18,
-      "justified_votes": 18
+      "justified_rating": 19,
+      "justified_votes": 19
    },
    "1609410716": {
       "title": "為了更大的利益-第二部分",
