@@ -158876,8 +158876,8 @@
          "_事故"
       ],
       "comments": "0",
-      "rating": "1",
-      "votes": "1",
+      "rating": "2",
+      "votes": "2",
       "parent": null,
       "id": "1469125329",
       "detailed_rating": {
@@ -158885,11 +158885,15 @@
             [
                "5338547",
                1786331552
+            ],
+            [
+               "6381244",
+               1786337175
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 1,
-      "justified_votes": 1
+      "justified_rating": 2,
+      "justified_votes": 2
    }
 }
