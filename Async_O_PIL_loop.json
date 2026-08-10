@@ -158876,13 +158876,20 @@
          "_事故"
       ],
       "comments": "0",
-      "rating": "0",
-      "votes": "0",
+      "rating": "1",
+      "votes": "1",
       "parent": null,
       "id": "1469125329",
-      "detailed_rating": {},
+      "detailed_rating": {
+         "+": [
+            [
+               "5338547",
+               1786331552
+            ]
+         ]
+      },
       "deleted": false,
-      "justified_rating": 0,
-      "justified_votes": 0
+      "justified_rating": 1,
+      "justified_votes": 1
    }
 }
