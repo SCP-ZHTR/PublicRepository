@@ -6525,8 +6525,8 @@
          "_威爾遜生物應對組-goi格式"
       ],
       "comments": "2",
-      "rating": "9",
-      "votes": "9",
+      "rating": "10",
+      "votes": "10",
       "parent": null,
       "id": "747090147",
       "detailed_rating": {
@@ -6566,12 +6566,16 @@
             [
                "8536616",
                1744763197
+            ],
+            [
+               "9501997",
+               1786439199
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 9,
-      "justified_votes": 9
+      "justified_rating": 10,
+      "justified_votes": 10
    },
    "1555754240": {
       "title": "SCP-ZH-618 - 太陽餅獅",
