@@ -21021,8 +21021,8 @@
          "_info"
       ],
       "comments": "0",
-      "rating": "16",
-      "votes": "16",
+      "rating": "17",
+      "votes": "17",
       "parent": null,
       "id": "938848777",
       "detailed_rating": {
@@ -21090,12 +21090,16 @@
             [
                "9501997",
                1777348258
+            ],
+            [
+               "9075244",
+               1786442140
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 15,
-      "justified_votes": 15
+      "justified_rating": 16,
+      "justified_votes": 16
    },
    "1574193336": {
       "title": "維安設施檔案：Site-ZH-81",
