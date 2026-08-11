@@ -155348,8 +155348,8 @@
       ],
       "hidden_tags": [],
       "comments": "3",
-      "rating": "8",
-      "votes": "8",
+      "rating": "9",
+      "votes": "9",
       "parent": null,
       "id": "1468143629",
       "detailed_rating": {
@@ -155385,12 +155385,16 @@
             [
                "5435485",
                1772800255
+            ],
+            [
+               "9501997",
+               1786436152
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 8,
-      "justified_votes": 8
+      "justified_rating": 9,
+      "justified_votes": 9
    },
    "1771568228": {
       "title": "門",
@@ -158848,8 +158852,8 @@
          "_事故"
       ],
       "comments": "0",
-      "rating": "7",
-      "votes": "7",
+      "rating": "8",
+      "votes": "8",
       "parent": null,
       "id": "1469103268",
       "detailed_rating": {
@@ -158881,12 +158885,16 @@
             [
                "8418020",
                1786418713
+            ],
+            [
+               "9501997",
+               1786436152
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 7,
-      "justified_votes": 7
+      "justified_rating": 8,
+      "justified_votes": 8
    },
    "1786287912": {
       "title": "SCP-ZH-241 - 撈月",
