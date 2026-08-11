@@ -51769,8 +51769,8 @@
          "_威爾遜生物應對組-goi格式"
       ],
       "comments": "2",
-      "rating": "30",
-      "votes": "30",
+      "rating": "31",
+      "votes": "31",
       "parent": null,
       "id": "1267859415",
       "detailed_rating": {
@@ -51894,12 +51894,16 @@
             [
                "9447838",
                1739457702
+            ],
+            [
+               "9501997",
+               1786440727
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 30,
-      "justified_votes": 30
+      "justified_rating": 31,
+      "justified_votes": 31
    },
    "1599546675": {
       "title": "台灣鐵道飯店的安布羅斯餐廳",
@@ -97826,8 +97830,8 @@
          "_威爾遜生物應對組-goi格式"
       ],
       "comments": "2",
-      "rating": "10",
-      "votes": "10",
+      "rating": "11",
+      "votes": "11",
       "parent": null,
       "id": "1402958673",
       "detailed_rating": {
@@ -97871,12 +97875,16 @@
             [
                "5454699",
                1652716800
+            ],
+            [
+               "9501997",
+               1786440727
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 10,
-      "justified_votes": 10
+      "justified_rating": 11,
+      "justified_votes": 11
    },
    "1653449657": {
       "title": "異聞：中港路上的野狼",
