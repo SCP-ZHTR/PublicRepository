@@ -158746,7 +158746,7 @@
       ],
       "comments": "1",
       "rating": "7",
-      "votes": "7",
+      "votes": "8",
       "parent": null,
       "id": "1469102083",
       "detailed_rating": {
@@ -158778,12 +158778,16 @@
             [
                "7840542",
                1786214473
+            ],
+            [
+               "9163798",
+               1786552580
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 7,
-      "justified_votes": 7
+      "justified_rating": 8,
+      "justified_votes": 8
    },
    "1785939829": {
       "title": "SCP-ZH-238 - 血流成河",
