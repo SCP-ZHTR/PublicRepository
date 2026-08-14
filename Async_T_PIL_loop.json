@@ -156492,5 +156492,37 @@
       "deleted": false,
       "justified_rating": 3,
       "justified_votes": 3
+   },
+   "1786706054": {
+      "title": "SCP-4114-JP - 來讀，倒讀來。",
+      "fullname": "scp-4114-jp",
+      "created_at": "1786706054",
+      "created_by": "7605593",
+      "tags": [
+         "jp",
+         "meta",
+         "safe",
+         "scp",
+         "人形",
+         "儀式性",
+         "屍體",
+         "敘述性",
+         "敵意",
+         "生物危害",
+         "翻譯",
+         "認知危害",
+         "語言",
+         "銘文"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1469162148",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
