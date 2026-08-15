@@ -158682,8 +158682,8 @@
          "_他殺"
       ],
       "comments": "0",
-      "rating": "7",
-      "votes": "7",
+      "rating": "8",
+      "votes": "8",
       "parent": null,
       "id": "1469092591",
       "detailed_rating": {
@@ -158715,12 +158715,16 @@
             [
                "7064164",
                1785980924
+            ],
+            [
+               "8177208",
+               1786754047
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 7,
-      "justified_votes": 7
+      "justified_rating": 8,
+      "justified_votes": 8
    },
    "1785934972": {
       "title": "SCP-ZH-942 - 自殺防治專線",
@@ -158878,8 +158882,8 @@
          "_事故"
       ],
       "comments": "0",
-      "rating": "8",
-      "votes": "8",
+      "rating": "9",
+      "votes": "9",
       "parent": null,
       "id": "1469103268",
       "detailed_rating": {
@@ -158915,12 +158919,16 @@
             [
                "9501997",
                1786436152
+            ],
+            [
+               "8177208",
+               1786754047
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 8,
-      "justified_votes": 8
+      "justified_rating": 9,
+      "justified_votes": 9
    },
    "1786287912": {
       "title": "SCP-ZH-241 - 撈月",
