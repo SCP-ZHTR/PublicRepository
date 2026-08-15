@@ -156469,8 +156469,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "3",
-      "votes": "3",
+      "rating": "4",
+      "votes": "4",
       "parent": null,
       "id": "1469099827",
       "detailed_rating": {
@@ -156486,12 +156486,16 @@
             [
                "8446449",
                1786418715
+            ],
+            [
+               "8177208",
+               1786752764
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 3,
-      "justified_votes": 3
+      "justified_rating": 4,
+      "justified_votes": 4
    },
    "1786706054": {
       "title": "SCP-4114-JP - 來讀，倒讀來。",
@@ -156516,8 +156520,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "2",
-      "votes": "2",
+      "rating": "3",
+      "votes": "3",
       "parent": null,
       "id": "1469162148",
       "detailed_rating": {
@@ -156529,11 +156533,15 @@
             [
                "8404617",
                1786715749
+            ],
+            [
+               "8177208",
+               1786752764
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 2,
-      "justified_votes": 2
+      "justified_rating": 3,
+      "justified_votes": 3
    }
 }
