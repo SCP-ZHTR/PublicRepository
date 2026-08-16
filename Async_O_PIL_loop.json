@@ -158882,8 +158882,8 @@
          "_事故"
       ],
       "comments": "0",
-      "rating": "10",
-      "votes": "10",
+      "rating": "11",
+      "votes": "11",
       "parent": null,
       "id": "1469103268",
       "detailed_rating": {
@@ -158927,12 +158927,16 @@
             [
                "10511937",
                1786895182
+            ],
+            [
+               "9628870",
+               1786898207
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 10,
-      "justified_votes": 10
+      "justified_rating": 11,
+      "justified_votes": 11
    },
    "1786287912": {
       "title": "SCP-ZH-241 - 撈月",
@@ -158950,8 +158954,8 @@
          "_事故"
       ],
       "comments": "0",
-      "rating": "5",
-      "votes": "5",
+      "rating": "6",
+      "votes": "6",
       "parent": null,
       "id": "1469125329",
       "detailed_rating": {
@@ -158975,12 +158979,16 @@
             [
                "8418020",
                1786418713
+            ],
+            [
+               "9628870",
+               1786898207
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 5,
-      "justified_votes": 5
+      "justified_rating": 6,
+      "justified_votes": 6
    },
    "1786510213": {
       "title": "蘋果口味的黑松汽水搖果凍比柳橙口味的好喝",
@@ -159056,5 +159064,37 @@
       "deleted": false,
       "justified_rating": 11,
       "justified_votes": 11
+   },
+   "1786896701": {
+      "title": "SCP-ZH-433 - 二重身",
+      "fullname": "scp-zh-433",
+      "created_at": "1786896701",
+      "created_by": "5325850",
+      "tags": [
+         "2026夏季競賽",
+         "ad博士",
+         "k級情景",
+         "meta",
+         "owen",
+         "scp",
+         "site-zh-12",
+         "傳送",
+         "原創",
+         "基金會製造",
+         "建築物",
+         "待分級"
+      ],
+      "hidden_tags": [
+         "_他殺"
+      ],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1469179647",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
