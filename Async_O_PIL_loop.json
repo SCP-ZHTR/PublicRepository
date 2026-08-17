@@ -159082,14 +159082,15 @@
          "原創",
          "基金會製造",
          "建築物",
-         "待分級"
+         "待分級",
+         "溫月襄專員"
       ],
       "hidden_tags": [
          "_他殺"
       ],
       "comments": "1",
-      "rating": "3",
-      "votes": "3",
+      "rating": "4",
+      "votes": "4",
       "parent": null,
       "id": "1469179647",
       "detailed_rating": {
@@ -159105,11 +159106,15 @@
             [
                "8854072",
                1786899372
+            ],
+            [
+               "4990678",
+               1786933893
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 3,
-      "justified_votes": 3
+      "justified_rating": 4,
+      "justified_votes": 4
    }
 }
