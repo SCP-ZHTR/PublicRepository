@@ -72653,8 +72653,8 @@
       ],
       "hidden_tags": [],
       "comments": "4",
-      "rating": "12",
-      "votes": "12",
+      "rating": "13",
+      "votes": "13",
       "parent": null,
       "id": "1312366552",
       "detailed_rating": {
@@ -72706,12 +72706,16 @@
             [
                "DELETED",
                1725473407
+            ],
+            [
+               "9832594",
+               1786963510
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 11,
-      "justified_votes": 11
+      "justified_rating": 12,
+      "justified_votes": 12
    },
    "1626521315": {
       "title": "SCP-5193 - 天國海軍英靈",
@@ -156523,7 +156527,7 @@
          "銘文"
       ],
       "hidden_tags": [],
-      "comments": "0",
+      "comments": "1",
       "rating": "4",
       "votes": "4",
       "parent": null,
