@@ -149808,8 +149808,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "5",
-      "votes": "5",
+      "rating": "6",
+      "votes": "6",
       "parent": null,
       "id": "1459882945",
       "detailed_rating": {
@@ -149833,12 +149833,16 @@
             [
                "8854072",
                1754753860
+            ],
+            [
+               "7655555",
+               1786989326
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 5,
-      "justified_votes": 5
+      "justified_rating": 6,
+      "justified_votes": 6
    },
    "1751790365": {
       "title": "SCP-8893 - 向佐伊．奎因致歉",
