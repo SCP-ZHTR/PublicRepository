@@ -158886,8 +158886,8 @@
          "_事故"
       ],
       "comments": "0",
-      "rating": "11",
-      "votes": "11",
+      "rating": "12",
+      "votes": "12",
       "parent": null,
       "id": "1469103268",
       "detailed_rating": {
@@ -158935,12 +158935,16 @@
             [
                "9628870",
                1786898207
+            ],
+            [
+               "5325850",
+               1787049653
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 11,
-      "justified_votes": 11
+      "justified_rating": 12,
+      "justified_votes": 12
    },
    "1786287912": {
       "title": "SCP-ZH-241 - 撈月",
