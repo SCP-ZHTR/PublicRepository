@@ -36299,8 +36299,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "3",
-      "votes": "3",
+      "rating": "4",
+      "votes": "4",
       "parent": null,
       "id": "1035148750",
       "detailed_rating": {
@@ -36316,12 +36316,16 @@
             [
                "5454699",
                1617120000
+            ],
+            [
+               "9832594",
+               1787019934
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 3,
-      "justified_votes": 3
+      "justified_rating": 4,
+      "justified_votes": 4
    },
    "1588743496": {
       "title": "SCP-2179 - 假警報",
