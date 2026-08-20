@@ -158894,8 +158894,8 @@
          "_事故"
       ],
       "comments": "0",
-      "rating": "12",
-      "votes": "12",
+      "rating": "13",
+      "votes": "13",
       "parent": null,
       "id": "1469103268",
       "detailed_rating": {
@@ -158947,12 +158947,16 @@
             [
                "5325850",
                1787049653
+            ],
+            [
+               "10350928",
+               1787234549
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 12,
-      "justified_votes": 12
+      "justified_rating": 13,
+      "justified_votes": 13
    },
    "1786287912": {
       "title": "SCP-ZH-241 - 撈月",
@@ -158970,8 +158974,8 @@
          "_事故"
       ],
       "comments": "0",
-      "rating": "6",
-      "votes": "6",
+      "rating": "7",
+      "votes": "7",
       "parent": null,
       "id": "1469125329",
       "detailed_rating": {
@@ -158999,12 +159003,16 @@
             [
                "9628870",
                1786898207
+            ],
+            [
+               "5402841",
+               1787234549
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 6,
-      "justified_votes": 6
+      "justified_rating": 7,
+      "justified_votes": 7
    },
    "1786510213": {
       "title": "蘋果口味的黑松汽水搖果凍比柳橙口味的好喝",

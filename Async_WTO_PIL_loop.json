@@ -21811,5 +21811,22 @@
       "deleted": true,
       "justified_rating": 0,
       "justified_votes": 0
+   },
+   "1787234022": {
+      "title": "SCP-ZH-657 - 晴朗的天氣將持續下去",
+      "fullname": "scp-zh-657",
+      "created_at": "1787234022",
+      "created_by": "5338547",
+      "tags": [],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1469199462",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
