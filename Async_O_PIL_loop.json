@@ -159207,5 +159207,32 @@
       "deleted": false,
       "justified_rating": 5,
       "justified_votes": 5
+   },
+   "1787234022": {
+      "title": "SCP-ZH-657 - 晴朗的天氣將持續下去",
+      "fullname": "scp-zh-657",
+      "created_at": "1787234022",
+      "created_by": "5338547",
+      "tags": [
+         "2026夏季競賽",
+         "safe",
+         "scp",
+         "原創",
+         "建築物",
+         "氣象",
+         "自我修復"
+      ],
+      "hidden_tags": [
+         "_自殺"
+      ],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1469199462",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
