@@ -385,8 +385,8 @@
          "_image"
       ],
       "comments": "3",
-      "rating": "75",
-      "votes": "77",
+      "rating": "76",
+      "votes": "78",
       "parent": null,
       "id": "639422039",
       "detailed_rating": {
@@ -694,6 +694,10 @@
             [
                "DELETED",
                1772106859
+            ],
+            [
+               "10511937",
+               1787209652
             ]
          ],
          "-": [
@@ -704,8 +708,8 @@
          ]
       },
       "deleted": false,
-      "justified_rating": 73,
-      "justified_votes": 73
+      "justified_rating": 74,
+      "justified_votes": 74
    },
    "1553001898": {
       "title": "UIU檔案：1952-003",
@@ -27269,8 +27273,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "12",
-      "votes": "14",
+      "rating": "13",
+      "votes": "15",
       "parent": null,
       "id": "1002084087",
       "detailed_rating": {
@@ -27326,6 +27330,10 @@
             [
                "5454699",
                1617120000
+            ],
+            [
+               "10511937",
+               1787209652
             ]
          ],
          "-": [
@@ -27336,8 +27344,8 @@
          ]
       },
       "deleted": false,
-      "justified_rating": 13,
-      "justified_votes": 13
+      "justified_rating": 14,
+      "justified_votes": 14
    },
    "1584286949": {
       "title": "SCP-1983 - 至無處之門",
@@ -45236,8 +45244,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "18",
-      "votes": "18",
+      "rating": "19",
+      "votes": "19",
       "parent": null,
       "id": "1267789177",
       "detailed_rating": {
@@ -45313,12 +45321,16 @@
             [
                "9763414",
                1758320160
+            ],
+            [
+               "10511937",
+               1787209652
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 17,
-      "justified_votes": 17
+      "justified_rating": 18,
+      "justified_votes": 18
    },
    "1598633788": {
       "title": "SCP-036 - 亞茲迪信徒的重生朝聖",
@@ -134459,8 +134471,8 @@
          "_licensebox"
       ],
       "comments": "0",
-      "rating": "1",
-      "votes": "1",
+      "rating": "2",
+      "votes": "2",
       "parent": null,
       "id": "1451800807",
       "detailed_rating": {
@@ -134468,12 +134480,16 @@
             [
                "8177208",
                1703751529
+            ],
+            [
+               "10511937",
+               1787209652
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 1,
-      "justified_votes": 1
+      "justified_rating": 2,
+      "justified_votes": 2
    },
    "1702727289": {
       "title": "SCP-5075 - 一切受絞之王、真實關懷、真理招來",
