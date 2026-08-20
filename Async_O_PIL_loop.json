@@ -159168,8 +159168,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "4",
-      "votes": "4",
+      "rating": "5",
+      "votes": "5",
       "parent": "scpdeclassified",
       "id": "1469184632",
       "detailed_rating": {
@@ -159189,11 +159189,15 @@
             [
                "8404617",
                1786986343
+            ],
+            [
+               "5402841",
+               1787234074
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 4,
-      "justified_votes": 4
+      "justified_rating": 5,
+      "justified_votes": 5
    }
 }
