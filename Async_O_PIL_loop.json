@@ -158753,8 +158753,8 @@
          "_自殺"
       ],
       "comments": "1",
-      "rating": "8",
-      "votes": "8",
+      "rating": "9",
+      "votes": "9",
       "parent": null,
       "id": "1469102083",
       "detailed_rating": {
@@ -158790,12 +158790,16 @@
             [
                "9163798",
                1786552580
+            ],
+            [
+               "10511937",
+               1787199022
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 8,
-      "justified_votes": 8
+      "justified_rating": 9,
+      "justified_votes": 9
    },
    "1785939829": {
       "title": "SCP-ZH-238 - 血流成河",
@@ -158816,8 +158820,8 @@
          "_他殺"
       ],
       "comments": "0",
-      "rating": "10",
-      "votes": "10",
+      "rating": "11",
+      "votes": "11",
       "parent": null,
       "id": "1469102400",
       "detailed_rating": {
@@ -158861,12 +158865,16 @@
             [
                "6091157",
                1786515943
+            ],
+            [
+               "10511937",
+               1787199022
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 10,
-      "justified_votes": 10
+      "justified_rating": 11,
+      "justified_votes": 11
    },
    "1785960799": {
       "title": "SCP-ZH-874 - 無人缺席",
