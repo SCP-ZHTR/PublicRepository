@@ -21828,5 +21828,30 @@
       "deleted": true,
       "justified_rating": 0,
       "justified_votes": 0
+   },
+   "1787302140": {
+      "title": "SCP-ZH-242",
+      "fullname": "scp-zh-242",
+      "created_at": "1787302140",
+      "created_by": "7612049",
+      "tags": [
+         "2026夏季競賽",
+         "safe",
+         "scp",
+         "人形",
+         "傳染性",
+         "屍體",
+         "生物危害"
+      ],
+      "hidden_tags": [],
+      "comments": "1",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1469209343",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
