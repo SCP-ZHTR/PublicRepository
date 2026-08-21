@@ -159321,5 +159321,30 @@
       "deleted": false,
       "justified_rating": 0,
       "justified_votes": 2
+   },
+   "1787324201": {
+      "title": "異常人",
+      "fullname": "l-e-tranger",
+      "created_at": "1787324201",
+      "created_by": "8543386",
+      "tags": [
+         "2026夏季競賽",
+         "site-zh-47",
+         "tostren博士",
+         "原創",
+         "故事"
+      ],
+      "hidden_tags": [
+         "_事故"
+      ],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1469211181",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
