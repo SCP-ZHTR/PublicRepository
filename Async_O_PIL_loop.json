@@ -159276,5 +159276,30 @@
       "deleted": false,
       "justified_rating": 1,
       "justified_votes": 1
+   },
+   "1787316260": {
+      "title": "SCP-ZH-376",
+      "fullname": "scp-zh-376",
+      "created_at": "1787316260",
+      "created_by": "6709715",
+      "tags": [
+         "2026夏季競賽",
+         "scp",
+         "原創",
+         "屍體",
+         "資訊危害"
+      ],
+      "hidden_tags": [
+         "_他殺"
+      ],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1469210641",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
