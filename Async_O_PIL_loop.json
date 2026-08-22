@@ -159231,8 +159231,8 @@
          "_自殺"
       ],
       "comments": "1",
-      "rating": "1",
-      "votes": "1",
+      "rating": "2",
+      "votes": "2",
       "parent": null,
       "id": "1469199462",
       "detailed_rating": {
@@ -159240,12 +159240,16 @@
             [
                "4990678",
                1787242969
+            ],
+            [
+               "7612049",
+               1787368856
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 1,
-      "justified_votes": 1
+      "justified_rating": 2,
+      "justified_votes": 2
    },
    "1787302140": {
       "title": "SCP-ZH-242 - 屍擒化疫",
