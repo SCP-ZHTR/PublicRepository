@@ -18492,8 +18492,8 @@
          "_手動"
       ],
       "comments": "9",
-      "rating": "46",
-      "votes": "48",
+      "rating": "47",
+      "votes": "49",
       "parent": null,
       "id": "867661679",
       "detailed_rating": {
@@ -18685,6 +18685,10 @@
             [
                "DELETED",
                1786539307
+            ],
+            [
+               "10441242",
+               1787403489
             ]
          ],
          "-": [
@@ -18695,8 +18699,8 @@
          ]
       },
       "deleted": false,
-      "justified_rating": 43,
-      "justified_votes": 45
+      "justified_rating": 44,
+      "justified_votes": 46
    },
    "1567166874": {
       "title": "Are We Cool Yet? 中心頁",
@@ -156613,5 +156617,30 @@
       "deleted": false,
       "justified_rating": 4,
       "justified_votes": 4
+   },
+   "1787403008": {
+      "title": "SCP-6914 - 摸草",
+      "fullname": "scp-6914",
+      "created_at": "1787403008",
+      "created_by": "8659286",
+      "tags": [
+         "en",
+         "scp",
+         "人造物品",
+         "機密分級",
+         "翻譯",
+         "銘文",
+         "電力"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1469215470",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
