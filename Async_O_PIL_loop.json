@@ -159364,6 +159364,7 @@
       "created_at": "1787369871",
       "created_by": "5402841",
       "tags": [
+         "2026夏季競賽",
          "euclid",
          "scp",
          "site-zh-13",
@@ -159371,7 +159372,9 @@
          "地質變動",
          "植物"
       ],
-      "hidden_tags": [],
+      "hidden_tags": [
+         "_自殺"
+      ],
       "comments": "0",
       "rating": "1",
       "votes": "1",
