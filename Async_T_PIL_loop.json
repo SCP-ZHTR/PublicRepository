@@ -135677,8 +135677,8 @@
          "_禁黑"
       ],
       "comments": "0",
-      "rating": "3",
-      "votes": "3",
+      "rating": "4",
+      "votes": "4",
       "parent": null,
       "id": "1451988426",
       "detailed_rating": {
@@ -135694,12 +135694,16 @@
             [
                "8418020",
                1756281582
+            ],
+            [
+               "6217438",
+               1787486897
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 3,
-      "justified_votes": 3
+      "justified_rating": 4,
+      "justified_votes": 4
    },
    "1703750412": {
       "title": "SCP-6760 - 祝下次好運",
