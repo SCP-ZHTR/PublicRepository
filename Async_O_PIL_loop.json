@@ -117008,8 +117008,8 @@
          "_禁黑"
       ],
       "comments": "0",
-      "rating": "10",
-      "votes": "10",
+      "rating": "11",
+      "votes": "11",
       "parent": null,
       "id": "1447428948",
       "detailed_rating": {
@@ -117053,12 +117053,16 @@
             [
                "DELETED",
                1695206965
+            ],
+            [
+               "5255954",
+               1787485293
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 9,
-      "justified_votes": 9
+      "justified_rating": 10,
+      "justified_votes": 10
    },
    "1681993478": {
       "title": "缺席",
