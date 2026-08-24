@@ -138751,8 +138751,8 @@
          "_白磷時代"
       ],
       "comments": "0",
-      "rating": "16",
-      "votes": "16",
+      "rating": "17",
+      "votes": "17",
       "parent": "scp-zh-888-j",
       "id": "1453994476",
       "detailed_rating": {
@@ -138820,12 +138820,16 @@
             [
                "6952002",
                1724441318
+            ],
+            [
+               "9501997",
+               1787602561
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 16,
-      "justified_votes": 16
+      "justified_rating": 17,
+      "justified_votes": 17
    },
    "1717836131": {
       "title": "共和國士兵（Hector-ZH-TR 版）",
