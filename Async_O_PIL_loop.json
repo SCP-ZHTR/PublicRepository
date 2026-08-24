@@ -159278,8 +159278,8 @@
          "_事故"
       ],
       "comments": "1",
-      "rating": "1",
-      "votes": "1",
+      "rating": "2",
+      "votes": "2",
       "parent": null,
       "id": "1469209343",
       "detailed_rating": {
@@ -159287,12 +159287,16 @@
             [
                "8543386",
                1787304953
+            ],
+            [
+               "8418020",
+               1787556519
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 1,
-      "justified_votes": 1
+      "justified_rating": 2,
+      "justified_votes": 2
    },
    "1787316260": {
       "title": "SCP-ZH-376 - 小姐，你看起來有點不舒服",
