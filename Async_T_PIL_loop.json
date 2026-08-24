@@ -156646,5 +156646,34 @@
       "deleted": false,
       "justified_rating": 0,
       "justified_votes": 0
+   },
+   "1787544000": {
+      "title": "SCP-081-UA - Ванька-встанька",
+      "fullname": "scp-081-ua",
+      "created_at": "1787544000",
+      "created_by": "7605593",
+      "tags": [
+         "euclid",
+         "safe",
+         "scp",
+         "ua",
+         "二次翻譯",
+         "化學性",
+         "屍體",
+         "復活",
+         "放射性",
+         "熵",
+         "翻譯"
+      ],
+      "hidden_tags": [],
+      "comments": "1",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1469220430",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
