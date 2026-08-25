@@ -159474,5 +159474,27 @@
       "deleted": false,
       "justified_rating": 1,
       "justified_votes": 1
+   },
+   "1787673624": {
+      "title": "中元恐怖——籤化不反",
+      "fullname": "zhongyuan-2026",
+      "created_at": "1787673624",
+      "created_by": "5325850",
+      "tags": [
+         "2026中元恐怖",
+         "中心",
+         "原創",
+         "挑戰活動"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1469228625",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
