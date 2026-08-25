@@ -159488,13 +159488,32 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "0",
-      "votes": "0",
+      "rating": "3",
+      "votes": "3",
       "parent": null,
       "id": "1469228625",
-      "detailed_rating": {},
+      "detailed_rating": {
+         "+": [
+            [
+               "5325850",
+               1787674176
+            ],
+            [
+               "4206567",
+               1787674176
+            ],
+            [
+               "6217438",
+               1787674176
+            ],
+            [
+               "8177208",
+               1787674176
+            ]
+         ]
+      },
       "deleted": false,
-      "justified_rating": 0,
-      "justified_votes": 0
+      "justified_rating": 4,
+      "justified_votes": 4
    }
 }
