@@ -158653,8 +158653,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "-1",
-      "votes": "5",
+      "rating": "-2",
+      "votes": "6",
       "parent": null,
       "id": "1469075153",
       "detailed_rating": {
@@ -158680,12 +158680,16 @@
             [
                "5325850",
                1785558260
+            ],
+            [
+               "5565302",
+               1787630269
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": -1,
-      "justified_votes": 5
+      "justified_rating": -2,
+      "justified_votes": 6
    },
    "1785763544": {
       "title": "SCP-ZH-076 - 末日連環殺人案",
