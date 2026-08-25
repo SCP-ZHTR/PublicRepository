@@ -21859,7 +21859,10 @@
       "fullname": "challenge-event-zh",
       "created_at": "1787577584",
       "created_by": "4990678",
-      "tags": [],
+      "tags": [
+         "中心",
+         "挑戰活動"
+      ],
       "hidden_tags": [
          "_禁黑"
       ],
