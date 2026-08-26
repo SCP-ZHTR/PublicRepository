@@ -159164,8 +159164,8 @@
          "_他殺"
       ],
       "comments": "1",
-      "rating": "11",
-      "votes": "11",
+      "rating": "12",
+      "votes": "12",
       "parent": null,
       "id": "1469179647",
       "detailed_rating": {
@@ -159213,12 +159213,16 @@
             [
                "7612049",
                1787403487
+            ],
+            [
+               "5370805",
+               1787762430
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 11,
-      "justified_votes": 11
+      "justified_rating": 12,
+      "justified_votes": 12
    },
    "1786978766": {
       "title": "SCP-ZH-433解密",
@@ -159426,8 +159430,8 @@
          "_事故"
       ],
       "comments": "0",
-      "rating": "4",
-      "votes": "4",
+      "rating": "5",
+      "votes": "5",
       "parent": null,
       "id": "1469211181",
       "detailed_rating": {
@@ -159447,12 +159451,16 @@
             [
                "9501997",
                1787589882
+            ],
+            [
+               "5370805",
+               1787762430
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 4,
-      "justified_votes": 4
+      "justified_rating": 5,
+      "justified_votes": 5
    },
    "1787369871": {
       "title": "SCP-ZH-921 - 首演於地動之時",
