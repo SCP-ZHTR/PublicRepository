@@ -159481,8 +159481,8 @@
          "_他殺"
       ],
       "comments": "0",
-      "rating": "2",
-      "votes": "2",
+      "rating": "3",
+      "votes": "3",
       "parent": null,
       "id": "1469213182",
       "detailed_rating": {
@@ -159494,12 +159494,16 @@
             [
                "5565302",
                1787728287
+            ],
+            [
+               "8846720",
+               1787785490
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 2,
-      "justified_votes": 2
+      "justified_rating": 3,
+      "justified_votes": 3
    },
    "1787673624": {
       "title": "中元恐怖——籤化不反",
