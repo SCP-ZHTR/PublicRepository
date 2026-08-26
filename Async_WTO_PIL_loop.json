@@ -21892,5 +21892,22 @@
       "deleted": true,
       "justified_rating": 0,
       "justified_votes": 0
+   },
+   "1787760128": {
+      "title": "SCP-ZH-317 - 第零玖籤：明月當空於何時",
+      "fullname": "scp-zh-317",
+      "created_at": "1787760128",
+      "created_by": "5338547",
+      "tags": [],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1469232665",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
