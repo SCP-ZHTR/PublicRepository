@@ -159473,8 +159473,8 @@
          "_他殺"
       ],
       "comments": "0",
-      "rating": "1",
-      "votes": "1",
+      "rating": "2",
+      "votes": "2",
       "parent": null,
       "id": "1469213182",
       "detailed_rating": {
@@ -159482,12 +159482,16 @@
             [
                "4990678",
                1787374170
+            ],
+            [
+               "5565302",
+               1787728287
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 1,
-      "justified_votes": 1
+      "justified_rating": 2,
+      "justified_votes": 2
    },
    "1787673624": {
       "title": "中元恐怖——籤化不反",
@@ -159502,8 +159506,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "13",
-      "votes": "13",
+      "rating": "14",
+      "votes": "14",
       "parent": null,
       "id": "1469228625",
       "detailed_rating": {
@@ -159559,11 +159563,15 @@
             [
                "7840542",
                1787720952
+            ],
+            [
+               "5565302",
+               1787728287
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 13,
-      "justified_votes": 13
+      "justified_rating": 14,
+      "justified_votes": 14
    }
 }
