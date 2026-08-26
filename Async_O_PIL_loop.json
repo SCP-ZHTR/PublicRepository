@@ -159324,8 +159324,8 @@
          "_事故"
       ],
       "comments": "1",
-      "rating": "2",
-      "votes": "2",
+      "rating": "1",
+      "votes": "3",
       "parent": null,
       "id": "1469209343",
       "detailed_rating": {
@@ -159338,11 +159338,17 @@
                "8418020",
                1787556519
             ]
+         ],
+         "-": [
+            [
+               "5565302",
+               1787726688
+            ]
          ]
       },
       "deleted": false,
-      "justified_rating": 2,
-      "justified_votes": 2
+      "justified_rating": 1,
+      "justified_votes": 3
    },
    "1787316260": {
       "title": "SCP-ZH-376 - 小姐，你看起來有點不舒服",
@@ -159362,8 +159368,8 @@
          "_他殺"
       ],
       "comments": "0",
-      "rating": "4",
-      "votes": "6",
+      "rating": "5",
+      "votes": "7",
       "parent": null,
       "id": "1469210641",
       "detailed_rating": {
@@ -159387,6 +159393,10 @@
             [
                "5370805",
                1787672767
+            ],
+            [
+               "5565302",
+               1787726688
             ]
          ],
          "-": [
@@ -159397,8 +159407,8 @@
          ]
       },
       "deleted": false,
-      "justified_rating": 4,
-      "justified_votes": 6
+      "justified_rating": 5,
+      "justified_votes": 7
    },
    "1787324201": {
       "title": "異常人",
