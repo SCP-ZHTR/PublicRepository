@@ -156690,5 +156690,32 @@
       "deleted": false,
       "justified_rating": 0,
       "justified_votes": 0
+   },
+   "1787672593": {
+      "title": "SCP-1529 - 雪山之王",
+      "fullname": "scp-1529",
+      "created_at": "1787672593",
+      "created_by": "10520562",
+      "tags": [
+         "en",
+         "euclid",
+         "scp",
+         "人形",
+         "未收容",
+         "精神影響",
+         "翻譯",
+         "視覺影響",
+         "認知危害"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1469228527",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
