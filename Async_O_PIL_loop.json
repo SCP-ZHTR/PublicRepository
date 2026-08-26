@@ -159577,5 +159577,33 @@
       "deleted": false,
       "justified_rating": 15,
       "justified_votes": 15
+   },
+   "1787755040": {
+      "title": "SCP-ZH-401-J - 黃銅馬桶",
+      "fullname": "scp-zh-401-j",
+      "created_at": "1787755040",
+      "created_by": "3981670",
+      "tags": [
+         "2026夏季競賽",
+         "safe",
+         "scp",
+         "原創",
+         "反熵",
+         "屍體",
+         "搞笑",
+         "自主"
+      ],
+      "hidden_tags": [
+         "_自殺"
+      ],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1469232398",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
