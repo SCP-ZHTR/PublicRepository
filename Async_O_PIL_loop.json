@@ -159597,8 +159597,8 @@
          "_自殺"
       ],
       "comments": "1",
-      "rating": "10",
-      "votes": "10",
+      "rating": "11",
+      "votes": "11",
       "parent": null,
       "id": "1469232398",
       "detailed_rating": {
@@ -159642,11 +159642,43 @@
             [
                "5251681",
                1787758588
+            ],
+            [
+               "8404617",
+               1787761147
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 10,
-      "justified_votes": 10
+      "justified_rating": 11,
+      "justified_votes": 11
+   },
+   "1787760128": {
+      "title": "SCP-ZH-317 - 第零玖籤：明月當空於何時",
+      "fullname": "scp-zh-317",
+      "created_at": "1787760128",
+      "created_by": "5338547",
+      "tags": [
+         "2026中元恐怖",
+         "safe",
+         "scp",
+         "不可移動",
+         "原創",
+         "基金會製造",
+         "星際",
+         "月球",
+         "異常移動",
+         "結構物"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1469232665",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
