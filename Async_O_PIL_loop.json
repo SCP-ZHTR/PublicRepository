@@ -159597,13 +159597,32 @@
          "_自殺"
       ],
       "comments": "0",
-      "rating": "0",
-      "votes": "0",
+      "rating": "4",
+      "votes": "4",
       "parent": null,
       "id": "1469232398",
-      "detailed_rating": {},
+      "detailed_rating": {
+         "+": [
+            [
+               "4206567",
+               1787757079
+            ],
+            [
+               "8854072",
+               1787757079
+            ],
+            [
+               "8480087",
+               1787757079
+            ],
+            [
+               "5338547",
+               1787757079
+            ]
+         ]
+      },
       "deleted": false,
-      "justified_rating": 0,
-      "justified_votes": 0
+      "justified_rating": 4,
+      "justified_votes": 4
    }
 }
