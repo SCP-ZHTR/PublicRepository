@@ -159653,8 +159653,8 @@
          "_自殺"
       ],
       "comments": "1",
-      "rating": "12",
-      "votes": "12",
+      "rating": "13",
+      "votes": "13",
       "parent": null,
       "id": "1469232398",
       "detailed_rating": {
@@ -159706,12 +159706,16 @@
             [
                "6709715",
                1787845416
+            ],
+            [
+               "5565302",
+               1787874708
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 12,
-      "justified_votes": 12
+      "justified_rating": 13,
+      "justified_votes": 13
    },
    "1787760128": {
       "title": "SCP-ZH-317 - 第零玖籤：明月當空於何時",
