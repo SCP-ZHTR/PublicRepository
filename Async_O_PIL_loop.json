@@ -159799,8 +159799,8 @@
          "_他殺"
       ],
       "comments": "0",
-      "rating": "4",
-      "votes": "4",
+      "rating": "6",
+      "votes": "6",
       "parent": null,
       "id": "1469235604",
       "detailed_rating": {
@@ -159820,11 +159820,19 @@
             [
                "8846720",
                1787832588
+            ],
+            [
+               "4990678",
+               1787835354
+            ],
+            [
+               "6088232",
+               1787835354
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 4,
-      "justified_votes": 4
+      "justified_rating": 6,
+      "justified_votes": 6
    }
 }
