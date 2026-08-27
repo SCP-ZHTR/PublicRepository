@@ -159716,8 +159716,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "2",
-      "votes": "2",
+      "rating": "3",
+      "votes": "3",
       "parent": null,
       "id": "1469232665",
       "detailed_rating": {
@@ -159729,11 +159729,40 @@
             [
                "4990678",
                1787796588
+            ],
+            [
+               "9501997",
+               1787807282
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 2,
-      "justified_votes": 2
+      "justified_rating": 3,
+      "justified_votes": 3
+   },
+   "1787805282": {
+      "title": "SCP-ZH-704 - 懸而未解",
+      "fullname": "scp-zh-704",
+      "created_at": "1787805282",
+      "created_by": "5402841",
+      "tags": [
+         "2026夏季競賽",
+         "safe",
+         "原創",
+         "屍體",
+         "認知危害"
+      ],
+      "hidden_tags": [
+         "_自殺"
+      ],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1469234141",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
