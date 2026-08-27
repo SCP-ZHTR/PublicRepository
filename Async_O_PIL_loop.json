@@ -159764,14 +159764,21 @@
          "_自殺"
       ],
       "comments": "0",
-      "rating": "0",
-      "votes": "0",
+      "rating": "1",
+      "votes": "1",
       "parent": null,
       "id": "1469234141",
-      "detailed_rating": {},
+      "detailed_rating": {
+         "+": [
+            [
+               "8846720",
+               1787832588
+            ]
+         ]
+      },
       "deleted": false,
-      "justified_rating": 0,
-      "justified_votes": 0
+      "justified_rating": 1,
+      "justified_votes": 1
    },
    "1787827417": {
       "title": "馬桶殺人事件",
@@ -159792,8 +159799,8 @@
          "_他殺"
       ],
       "comments": "0",
-      "rating": "3",
-      "votes": "3",
+      "rating": "4",
+      "votes": "4",
       "parent": null,
       "id": "1469235604",
       "detailed_rating": {
@@ -159809,11 +159816,15 @@
             [
                "5402841",
                1787829931
+            ],
+            [
+               "8846720",
+               1787832588
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 3,
-      "justified_votes": 3
+      "justified_rating": 4,
+      "justified_votes": 4
    }
 }
