@@ -159798,9 +159798,9 @@
       "hidden_tags": [
          "_他殺"
       ],
-      "comments": "0",
-      "rating": "6",
-      "votes": "6",
+      "comments": "1",
+      "rating": "7",
+      "votes": "7",
       "parent": null,
       "id": "1469235604",
       "detailed_rating": {
@@ -159828,11 +159828,15 @@
             [
                "6088232",
                1787835354
+            ],
+            [
+               "9075244",
+               1787842486
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 6,
-      "justified_votes": 6
+      "justified_rating": 7,
+      "justified_votes": 7
    }
 }
