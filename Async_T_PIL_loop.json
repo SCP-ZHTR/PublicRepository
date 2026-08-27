@@ -72052,16 +72052,12 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "8",
-      "votes": "8",
+      "rating": "9",
+      "votes": "9",
       "parent": "canon-hub",
       "id": "1312248518",
       "detailed_rating": {
          "+": [
-            [
-               "7469850",
-               1624896000
-            ],
             [
                "4990678",
                1624896000
@@ -72089,6 +72085,14 @@
             [
                "5013754",
                1625414400
+            ],
+            [
+               "9832594",
+               1787832464
+            ],
+            [
+               "DELETED",
+               1787832464
             ]
          ]
       },
@@ -147698,8 +147702,8 @@
       ],
       "hidden_tags": [],
       "comments": "3",
-      "rating": "4",
-      "votes": "4",
+      "rating": "5",
+      "votes": "5",
       "parent": null,
       "id": "1458159790",
       "detailed_rating": {
@@ -147719,12 +147723,16 @@
             [
                "6217438",
                1736165874
+            ],
+            [
+               "8846720",
+               1787832464
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 4,
-      "justified_votes": 4
+      "justified_rating": 5,
+      "justified_votes": 5
    },
    "1736003455": {
       "title": "SCP-118 - 核能原生生物",
