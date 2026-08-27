@@ -159772,5 +159772,33 @@
       "deleted": false,
       "justified_rating": 0,
       "justified_votes": 0
+   },
+   "1787827417": {
+      "title": "馬桶殺人事件",
+      "fullname": "toiletkillpeople",
+      "created_at": "1787827417",
+      "created_by": "4206567",
+      "tags": [
+         "2026夏季競賽",
+         "site-zh-11",
+         "原創",
+         "喜劇",
+         "故事",
+         "生活片段",
+         "真紀博士",
+         "荒誕"
+      ],
+      "hidden_tags": [
+         "_他殺"
+      ],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1469235604",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
