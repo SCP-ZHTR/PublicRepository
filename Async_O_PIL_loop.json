@@ -159180,8 +159180,8 @@
          "_他殺"
       ],
       "comments": "1",
-      "rating": "12",
-      "votes": "12",
+      "rating": "13",
+      "votes": "13",
       "parent": null,
       "id": "1469179647",
       "detailed_rating": {
@@ -159233,12 +159233,16 @@
             [
                "5370805",
                1787762430
+            ],
+            [
+               "5402841",
+               1787858091
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 12,
-      "justified_votes": 12
+      "justified_rating": 13,
+      "justified_votes": 13
    },
    "1786978766": {
       "title": "SCP-ZH-433解密",
