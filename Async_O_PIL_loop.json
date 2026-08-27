@@ -159728,8 +159728,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "3",
-      "votes": "3",
+      "rating": "4",
+      "votes": "4",
       "parent": null,
       "id": "1469232665",
       "detailed_rating": {
@@ -159745,12 +159745,16 @@
             [
                "9501997",
                1787807282
+            ],
+            [
+               "6217438",
+               1787846689
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 3,
-      "justified_votes": 3
+      "justified_rating": 4,
+      "justified_votes": 4
    },
    "1787805282": {
       "title": "SCP-ZH-704 - 懸而未解",
