@@ -159951,5 +159951,31 @@
       "deleted": false,
       "justified_rating": 10,
       "justified_votes": 10
+   },
+   "1787894954": {
+      "title": "SCP-ZH-507 - 造林夢",
+      "fullname": "scp-zh-507",
+      "created_at": "1787894954",
+      "created_by": "5338547",
+      "tags": [
+         "2026夏季競賽",
+         "scp",
+         "傳染性",
+         "原創",
+         "已廢除",
+         "強迫性"
+      ],
+      "hidden_tags": [
+         "_他殺"
+      ],
+      "comments": "1",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1469239392",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
