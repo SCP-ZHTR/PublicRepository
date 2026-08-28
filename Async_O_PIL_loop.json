@@ -159840,8 +159840,8 @@
          "_他殺"
       ],
       "comments": "1",
-      "rating": "6",
-      "votes": "6",
+      "rating": "7",
+      "votes": "7",
       "parent": null,
       "id": "1469235604",
       "detailed_rating": {
@@ -159869,12 +159869,16 @@
             [
                "9075244",
                1787842486
+            ],
+            [
+               "8883612",
+               1787942538
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 6,
-      "justified_votes": 6
+      "justified_rating": 7,
+      "justified_votes": 7
    },
    "1787843275": {
       "title": "SCP-ZH-291 - 婚事",
