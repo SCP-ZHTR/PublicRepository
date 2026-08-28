@@ -159975,21 +159975,28 @@
          "scp",
          "傳染性",
          "原創",
-         "強迫性",
-         "機密分級"
+         "已廢除",
+         "強迫性"
       ],
       "hidden_tags": [
          "_他殺"
       ],
       "comments": "1",
-      "rating": "0",
-      "votes": "0",
+      "rating": "1",
+      "votes": "1",
       "parent": null,
       "id": "1469239392",
-      "detailed_rating": {},
+      "detailed_rating": {
+         "+": [
+            [
+               "6217438",
+               1787926833
+            ]
+         ]
+      },
       "deleted": false,
-      "justified_rating": 0,
-      "justified_votes": 0
+      "justified_rating": 1,
+      "justified_votes": 1
    },
    "1787919406": {
       "title": "SCP-ZH-502 - 母親",
