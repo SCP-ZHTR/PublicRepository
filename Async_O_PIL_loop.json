@@ -160123,5 +160123,32 @@
       "deleted": false,
       "justified_rating": 0,
       "justified_votes": 0
+   },
+   "1787940070": {
+      "title": "SCP-ZH-667 - 守時先生",
+      "fullname": "scp-zh-667",
+      "created_at": "1787940070",
+      "created_by": "5338547",
+      "tags": [
+         "2026夏季競賽",
+         "scp",
+         "site-zh-16",
+         "人形",
+         "原創",
+         "智能",
+         "無效化"
+      ],
+      "hidden_tags": [
+         "_事故"
+      ],
+      "comments": "1",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1469241796",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
