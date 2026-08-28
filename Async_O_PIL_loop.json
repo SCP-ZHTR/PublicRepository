@@ -159104,8 +159104,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "11",
-      "votes": "11",
+      "rating": "12",
+      "votes": "12",
       "parent": null,
       "id": "1469139016",
       "detailed_rating": {
@@ -159153,12 +159153,16 @@
             [
                "6381244",
                1786868341
+            ],
+            [
+               "8319365",
+               1787958238
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 11,
-      "justified_votes": 11
+      "justified_rating": 12,
+      "justified_votes": 12
    },
    "1786896701": {
       "title": "SCP-ZH-433 - 二重身",
@@ -159558,8 +159562,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "17",
-      "votes": "17",
+      "rating": "18",
+      "votes": "18",
       "parent": null,
       "id": "1469228625",
       "detailed_rating": {
@@ -159631,12 +159635,16 @@
             [
                "4990678",
                1787796588
+            ],
+            [
+               "8319365",
+               1787958238
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 17,
-      "justified_votes": 17
+      "justified_rating": 18,
+      "justified_votes": 18
    },
    "1787755040": {
       "title": "SCP-ZH-401-J - 黃銅馬桶",
