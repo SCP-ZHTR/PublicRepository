@@ -160040,10 +160040,45 @@
          "_事故"
       ],
       "comments": "0",
+      "rating": "1",
+      "votes": "1",
+      "parent": null,
+      "id": "1469241532",
+      "detailed_rating": {
+         "+": [
+            [
+               "4990678",
+               1787933794
+            ]
+         ]
+      },
+      "deleted": false,
+      "justified_rating": 1,
+      "justified_votes": 1
+   },
+   "1787932917": {
+      "title": "SCP-ZH-472 - 第拾捌籤：無名墳上馬照跑 亂葬崗上舞照跳",
+      "fullname": "scp-zh-472",
+      "created_at": "1787932917",
+      "created_by": "5370805",
+      "tags": [
+         "2026中元恐怖",
+         "aiad",
+         "safe",
+         "scp",
+         "人工智能",
+         "原創",
+         "戰術神學部",
+         "玩具",
+         "身後之地",
+         "鬼魂"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
       "rating": "0",
       "votes": "0",
       "parent": null,
-      "id": "1469241532",
+      "id": "1469241598",
       "detailed_rating": {},
       "deleted": false,
       "justified_rating": 0,
