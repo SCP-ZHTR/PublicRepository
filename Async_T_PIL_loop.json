@@ -103946,8 +103946,8 @@
          "_cc"
       ],
       "comments": "1",
-      "rating": "3",
-      "votes": "5",
+      "rating": "2",
+      "votes": "6",
       "parent": null,
       "id": "1436004637",
       "detailed_rating": {
@@ -103973,12 +103973,16 @@
             [
                "6444668",
                1673366400
+            ],
+            [
+               "9832594",
+               1787920684
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 3,
-      "justified_votes": 5
+      "justified_rating": 2,
+      "justified_votes": 6
    },
    "1663737747": {
       "title": "共異迴歷 中心頁",
