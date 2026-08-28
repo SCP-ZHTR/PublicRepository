@@ -160025,7 +160025,7 @@
       "justified_votes": 0
    },
    "1787931742": {
-      "title": "SCP-ZH-378",
+      "title": "SCP-ZH-378 - 艾蟻登法環",
       "fullname": "scp-zh-378",
       "created_at": "1787931742",
       "created_by": "6709715",
@@ -160074,14 +160074,25 @@
          "鬼魂"
       ],
       "hidden_tags": [],
-      "comments": "0",
-      "rating": "0",
-      "votes": "0",
+      "comments": "1",
+      "rating": "2",
+      "votes": "2",
       "parent": null,
       "id": "1469241598",
-      "detailed_rating": {},
+      "detailed_rating": {
+         "+": [
+            [
+               "4990678",
+               1787935303
+            ],
+            [
+               "6217438",
+               1787935303
+            ]
+         ]
+      },
       "deleted": false,
-      "justified_rating": 0,
-      "justified_votes": 0
+      "justified_rating": 2,
+      "justified_votes": 2
    }
 }
