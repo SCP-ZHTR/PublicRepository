@@ -160094,5 +160094,34 @@
       "deleted": false,
       "justified_rating": 2,
       "justified_votes": 2
+   },
+   "1787936021": {
+      "title": "SCP-ZＨ-967",
+      "fullname": "scp-zh-967",
+      "created_at": "1787936021",
+      "created_by": "10502748",
+      "tags": [
+         "2026夏季競賽",
+         "euclid",
+         "scp",
+         "人形",
+         "原創",
+         "屍體",
+         "復活",
+         "智能",
+         "精神影響"
+      ],
+      "hidden_tags": [
+         "_他殺"
+      ],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1469241694",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
