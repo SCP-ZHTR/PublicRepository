@@ -160023,5 +160023,30 @@
       "deleted": false,
       "justified_rating": 0,
       "justified_votes": 0
+   },
+   "1787931742": {
+      "title": "SCP-ZH-378",
+      "fullname": "scp-zh-378",
+      "created_at": "1787931742",
+      "created_by": "6709715",
+      "tags": [
+         "2026夏季競賽",
+         "keter",
+         "scp",
+         "原創",
+         "昆蟲"
+      ],
+      "hidden_tags": [
+         "_事故"
+      ],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1469241532",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
