@@ -21990,5 +21990,39 @@
       "deleted": true,
       "justified_rating": 0,
       "justified_votes": 0
+   },
+   "1788019187": {
+      "title": "SCP-ZH-896 - 敏感的畫",
+      "fullname": "scp-zh-896",
+      "created_at": "1788019187",
+      "created_by": "7605593",
+      "tags": [],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1469245457",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
+   },
+   "1788019200": {
+      "title": "SCP-ZH-652 - 吉備氏香道遺緒",
+      "fullname": "scp-zh-652",
+      "created_at": "1788019200",
+      "created_by": "7605593",
+      "tags": [],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1469245458",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
