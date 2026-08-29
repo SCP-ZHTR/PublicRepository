@@ -158736,8 +158736,8 @@
          "_他殺"
       ],
       "comments": "0",
-      "rating": "7",
-      "votes": "9",
+      "rating": "8",
+      "votes": "10",
       "parent": null,
       "id": "1469092591",
       "detailed_rating": {
@@ -158773,6 +158773,10 @@
             [
                "8177208",
                1786754047
+            ],
+            [
+               "5338547",
+               1788017582
             ]
          ],
          "-": [
@@ -158783,8 +158787,8 @@
          ]
       },
       "deleted": false,
-      "justified_rating": 7,
-      "justified_votes": 9
+      "justified_rating": 8,
+      "justified_votes": 10
    },
    "1785934972": {
       "title": "SCP-ZH-942 - 自殺防治專線",
@@ -158880,8 +158884,8 @@
          "_他殺"
       ],
       "comments": "0",
-      "rating": "12",
-      "votes": "12",
+      "rating": "13",
+      "votes": "13",
       "parent": null,
       "id": "1469102400",
       "detailed_rating": {
@@ -158933,12 +158937,16 @@
             [
                "4206567",
                1787660485
+            ],
+            [
+               "5338547",
+               1788017582
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 12,
-      "justified_votes": 12
+      "justified_rating": 13,
+      "justified_votes": 13
    },
    "1785960799": {
       "title": "SCP-ZH-874 - 無人缺席",
@@ -158958,8 +158966,8 @@
          "_事故"
       ],
       "comments": "0",
-      "rating": "16",
-      "votes": "16",
+      "rating": "17",
+      "votes": "17",
       "parent": null,
       "id": "1469103268",
       "detailed_rating": {
@@ -159027,12 +159035,16 @@
             [
                "3981670",
                1788007914
+            ],
+            [
+               "5338547",
+               1788017582
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 16,
-      "justified_votes": 16
+      "justified_rating": 17,
+      "justified_votes": 17
    },
    "1786287912": {
       "title": "SCP-ZH-241 - 撈月",
@@ -159193,8 +159205,8 @@
          "_他殺"
       ],
       "comments": "1",
-      "rating": "14",
-      "votes": "14",
+      "rating": "15",
+      "votes": "15",
       "parent": null,
       "id": "1469179647",
       "detailed_rating": {
@@ -159254,12 +159266,16 @@
             [
                "10528273",
                1787998513
+            ],
+            [
+               "5338547",
+               1788017582
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 14,
-      "justified_votes": 14
+      "justified_rating": 15,
+      "justified_votes": 15
    },
    "1786978766": {
       "title": "SCP-ZH-433解密",
@@ -159373,8 +159389,8 @@
          "_事故"
       ],
       "comments": "1",
-      "rating": "1",
-      "votes": "3",
+      "rating": "2",
+      "votes": "4",
       "parent": null,
       "id": "1469209343",
       "detailed_rating": {
@@ -159386,6 +159402,10 @@
             [
                "8418020",
                1787556519
+            ],
+            [
+               "5338547",
+               1788017582
             ]
          ],
          "-": [
@@ -159396,8 +159416,8 @@
          ]
       },
       "deleted": false,
-      "justified_rating": 1,
-      "justified_votes": 3
+      "justified_rating": 2,
+      "justified_votes": 4
    },
    "1787316260": {
       "title": "SCP-ZH-376 - 小姐，你看起來有點不舒服",
@@ -159417,8 +159437,8 @@
          "_他殺"
       ],
       "comments": "0",
-      "rating": "6",
-      "votes": "8",
+      "rating": "7",
+      "votes": "9",
       "parent": null,
       "id": "1469210641",
       "detailed_rating": {
@@ -159450,6 +159470,10 @@
             [
                "10350928",
                1787799961
+            ],
+            [
+               "5338547",
+               1788017582
             ]
          ],
          "-": [
@@ -159460,8 +159484,8 @@
          ]
       },
       "deleted": false,
-      "justified_rating": 6,
-      "justified_votes": 8
+      "justified_rating": 7,
+      "justified_votes": 9
    },
    "1787324201": {
       "title": "異常人",
@@ -159479,8 +159503,8 @@
          "_事故"
       ],
       "comments": "0",
-      "rating": "6",
-      "votes": "6",
+      "rating": "7",
+      "votes": "7",
       "parent": null,
       "id": "1469211181",
       "detailed_rating": {
@@ -159508,12 +159532,16 @@
             [
                "4990678",
                1787796588
+            ],
+            [
+               "5338547",
+               1788017582
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 6,
-      "justified_votes": 6
+      "justified_rating": 7,
+      "justified_votes": 7
    },
    "1787369871": {
       "title": "SCP-ZH-921 - 首演於地動之時",
@@ -159534,8 +159562,8 @@
          "_他殺"
       ],
       "comments": "0",
-      "rating": "3",
-      "votes": "3",
+      "rating": "4",
+      "votes": "4",
       "parent": null,
       "id": "1469213182",
       "detailed_rating": {
@@ -159551,12 +159579,16 @@
             [
                "8846720",
                1787785490
+            ],
+            [
+               "5338547",
+               1788017582
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 3,
-      "justified_votes": 3
+      "justified_rating": 4,
+      "justified_votes": 4
    },
    "1787673624": {
       "title": "中元恐怖——籤化不反",
@@ -159674,8 +159706,8 @@
          "_自殺"
       ],
       "comments": "1",
-      "rating": "14",
-      "votes": "14",
+      "rating": "15",
+      "votes": "15",
       "parent": null,
       "id": "1469232398",
       "detailed_rating": {
@@ -159735,12 +159767,16 @@
             [
                "6350786",
                1787998513
+            ],
+            [
+               "8452537",
+               1788017582
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 14,
-      "justified_votes": 14
+      "justified_rating": 15,
+      "justified_votes": 15
    },
    "1787760128": {
       "title": "SCP-ZH-317 - 第零玖籤：明月當空於何時",
@@ -159818,8 +159854,8 @@
          "_自殺"
       ],
       "comments": "0",
-      "rating": "3",
-      "votes": "3",
+      "rating": "4",
+      "votes": "4",
       "parent": null,
       "id": "1469234141",
       "detailed_rating": {
@@ -159835,12 +159871,16 @@
             [
                "4990678",
                1787917571
+            ],
+            [
+               "5338547",
+               1788017582
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 3,
-      "justified_votes": 3
+      "justified_rating": 4,
+      "justified_votes": 4
    },
    "1787827417": {
       "title": "馬桶殺人事件",
@@ -159861,8 +159901,8 @@
          "_他殺"
       ],
       "comments": "2",
-      "rating": "7",
-      "votes": "7",
+      "rating": "8",
+      "votes": "8",
       "parent": null,
       "id": "1469235604",
       "detailed_rating": {
@@ -159894,12 +159934,16 @@
             [
                "8883612",
                1787942538
+            ],
+            [
+               "5338547",
+               1788017582
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 7,
-      "justified_votes": 7
+      "justified_rating": 8,
+      "justified_votes": 8
    },
    "1787843275": {
       "title": "SCP-ZH-291 - 婚事",
@@ -160045,8 +160089,8 @@
          "_事故"
       ],
       "comments": "0",
-      "rating": "2",
-      "votes": "2",
+      "rating": "3",
+      "votes": "3",
       "parent": null,
       "id": "1469240770",
       "detailed_rating": {
@@ -160058,12 +160102,16 @@
             [
                "4990678",
                1787976517
+            ],
+            [
+               "5338547",
+               1788017582
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 2,
-      "justified_votes": 2
+      "justified_rating": 3,
+      "justified_votes": 3
    },
    "1787931742": {
       "title": "SCP-ZH-378 - 艾蟻登法環",
@@ -160081,8 +160129,8 @@
          "_事故"
       ],
       "comments": "0",
-      "rating": "3",
-      "votes": "3",
+      "rating": "4",
+      "votes": "4",
       "parent": null,
       "id": "1469241532",
       "detailed_rating": {
@@ -160098,12 +160146,16 @@
             [
                "4239775",
                1788010681
+            ],
+            [
+               "5338547",
+               1788017582
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 3,
-      "justified_votes": 3
+      "justified_rating": 4,
+      "justified_votes": 4
    },
    "1787932917": {
       "title": "SCP-ZH-472 - 第拾捌籤：無名墳上馬照跑 亂葬崗上舞照跳",
@@ -160168,8 +160220,8 @@
          "_他殺"
       ],
       "comments": "0",
-      "rating": "1",
-      "votes": "1",
+      "rating": "2",
+      "votes": "2",
       "parent": null,
       "id": "1469241694",
       "detailed_rating": {
@@ -160177,12 +160229,16 @@
             [
                "6381244",
                1788012418
+            ],
+            [
+               "5338547",
+               1788017582
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 1,
-      "justified_votes": 1
+      "justified_rating": 2,
+      "justified_votes": 2
    },
    "1787940070": {
       "title": "SCP-ZH-667 - 守時先生",
@@ -160239,8 +160295,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "5",
-      "votes": "5",
+      "rating": "6",
+      "votes": "6",
       "parent": null,
       "id": "1469242857",
       "detailed_rating": {
@@ -160264,12 +160320,16 @@
             [
                "5370805",
                1788007914
+            ],
+            [
+               "5338547",
+               1788017582
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 5,
-      "justified_votes": 5
+      "justified_rating": 6,
+      "justified_votes": 6
    },
    "1788014663": {
       "title": "SCP-ZH-380 - 苦痛聖女",
@@ -160288,14 +160348,25 @@
          "_他殺"
       ],
       "comments": "0",
-      "rating": "0",
-      "votes": "0",
+      "rating": "2",
+      "votes": "2",
       "parent": null,
       "id": "1469245105",
-      "detailed_rating": {},
+      "detailed_rating": {
+         "+": [
+            [
+               "5402841",
+               1788017582
+            ],
+            [
+               "5338547",
+               1788017582
+            ]
+         ]
+      },
       "deleted": false,
-      "justified_rating": 0,
-      "justified_votes": 0
+      "justified_rating": 2,
+      "justified_votes": 2
    },
    "1788016066": {
       "title": "紫河車",
@@ -160312,13 +160383,28 @@
          "_事故"
       ],
       "comments": "0",
-      "rating": "0",
-      "votes": "0",
+      "rating": "3",
+      "votes": "3",
       "parent": null,
       "id": "1469245296",
-      "detailed_rating": {},
+      "detailed_rating": {
+         "+": [
+            [
+               "4990678",
+               1788017582
+            ],
+            [
+               "5402841",
+               1788017582
+            ],
+            [
+               "6350786",
+               1788017582
+            ]
+         ]
+      },
       "deleted": false,
-      "justified_rating": 0,
-      "justified_votes": 0
+      "justified_rating": 3,
+      "justified_votes": 3
    }
 }
