@@ -159995,8 +159995,8 @@
          "_他殺"
       ],
       "comments": "1",
-      "rating": "1",
-      "votes": "1",
+      "rating": "2",
+      "votes": "2",
       "parent": null,
       "id": "1469239392",
       "detailed_rating": {
@@ -160004,12 +160004,16 @@
             [
                "6217438",
                1787926833
+            ],
+            [
+               "4990678",
+               1787976517
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 1,
-      "justified_votes": 1
+      "justified_rating": 2,
+      "justified_votes": 2
    },
    "1787919406": {
       "title": "SCP-ZH-502 - 母親",
@@ -160028,8 +160032,8 @@
          "_事故"
       ],
       "comments": "0",
-      "rating": "1",
-      "votes": "1",
+      "rating": "2",
+      "votes": "2",
       "parent": null,
       "id": "1469240770",
       "detailed_rating": {
@@ -160037,12 +160041,16 @@
             [
                "6088232",
                1787974525
+            ],
+            [
+               "4990678",
+               1787976517
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 1,
-      "justified_votes": 1
+      "justified_rating": 2,
+      "justified_votes": 2
    },
    "1787931742": {
       "title": "SCP-ZH-378 - 艾蟻登法環",
@@ -160164,8 +160172,8 @@
          "_事故"
       ],
       "comments": "2",
-      "rating": "1",
-      "votes": "1",
+      "rating": "2",
+      "votes": "2",
       "parent": null,
       "id": "1469241796",
       "detailed_rating": {
@@ -160173,12 +160181,16 @@
             [
                "8543386",
                1787963707
+            ],
+            [
+               "4990678",
+               1787976517
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 1,
-      "justified_votes": 1
+      "justified_rating": 2,
+      "justified_votes": 2
    },
    "1787973343": {
       "title": "快樂是世界上最██的事",
@@ -160187,6 +160199,7 @@
       "created_by": "4990678",
       "tags": [
          "2026夏季競賽",
+         "site-zh-11",
          "原創",
          "悲戚",
          "愛情",
@@ -160194,13 +160207,24 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "0",
-      "votes": "0",
+      "rating": "2",
+      "votes": "2",
       "parent": null,
       "id": "1469242857",
-      "detailed_rating": {},
+      "detailed_rating": {
+         "+": [
+            [
+               "4990678",
+               1787976517
+            ],
+            [
+               "5402841",
+               1787976517
+            ]
+         ]
+      },
       "deleted": false,
-      "justified_rating": 0,
-      "justified_votes": 0
+      "justified_rating": 2,
+      "justified_votes": 2
    }
 }
