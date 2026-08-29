@@ -160348,8 +160348,8 @@
          "_他殺"
       ],
       "comments": "0",
-      "rating": "2",
-      "votes": "2",
+      "rating": "3",
+      "votes": "3",
       "parent": null,
       "id": "1469245105",
       "detailed_rating": {
@@ -160361,12 +160361,16 @@
             [
                "5338547",
                1788017582
+            ],
+            [
+               "4990678",
+               1788019006
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 2,
-      "justified_votes": 2
+      "justified_rating": 3,
+      "justified_votes": 3
    },
    "1788016066": {
       "title": "紫河車",
@@ -160406,5 +160410,33 @@
       "deleted": false,
       "justified_rating": 3,
       "justified_votes": 3
+   },
+   "1788017899": {
+      "title": "SCP-ZH-949 - 關於那個大海怪",
+      "fullname": "scp-zh-949",
+      "created_at": "1788017899",
+      "created_by": "5237516",
+      "tags": [
+         "2026夏季競賽",
+         "scp",
+         "原創",
+         "基金會製造",
+         "屍體",
+         "機密分級",
+         "生物性",
+         "逆模因"
+      ],
+      "hidden_tags": [
+         "_他殺"
+      ],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1469245384",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
