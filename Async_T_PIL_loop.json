@@ -112930,8 +112930,8 @@
          "_licensebox"
       ],
       "comments": "0",
-      "rating": "12",
-      "votes": "12",
+      "rating": "13",
+      "votes": "13",
       "parent": null,
       "id": "1445420115",
       "detailed_rating": {
@@ -112983,12 +112983,16 @@
             [
                "5981123",
                1718976088
+            ],
+            [
+               "7655555",
+               1788027822
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 11,
-      "justified_votes": 11
+      "justified_rating": 12,
+      "justified_votes": 12
    },
    "1673257885": {
       "title": "SCP-262 - 百臂風衣",
