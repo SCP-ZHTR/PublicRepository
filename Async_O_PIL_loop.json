@@ -160284,12 +160284,38 @@
          "原創",
          "屍體"
       ],
-      "hidden_tags": [],
+      "hidden_tags": [
+         "_他殺"
+      ],
       "comments": "0",
       "rating": "0",
       "votes": "0",
       "parent": null,
       "id": "1469245105",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
+   },
+   "1788016066": {
+      "title": "紫河車",
+      "fullname": "placenta",
+      "created_at": "1788016066",
+      "created_by": "5370805",
+      "tags": [
+         "2026夏季競賽",
+         "原創",
+         "故事",
+         "石榴俱樂部"
+      ],
+      "hidden_tags": [
+         "_事故"
+      ],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1469245296",
       "detailed_rating": {},
       "deleted": false,
       "justified_rating": 0,
