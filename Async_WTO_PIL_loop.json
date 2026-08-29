@@ -22004,7 +22004,7 @@
       "parent": null,
       "id": "1469245457",
       "detailed_rating": {},
-      "deleted": false,
+      "deleted": true,
       "justified_rating": 0,
       "justified_votes": 0
    },
@@ -22021,7 +22021,7 @@
       "parent": null,
       "id": "1469245458",
       "detailed_rating": {},
-      "deleted": false,
+      "deleted": true,
       "justified_rating": 0,
       "justified_votes": 0
    }
