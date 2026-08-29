@@ -160077,8 +160077,8 @@
          "_事故"
       ],
       "comments": "0",
-      "rating": "1",
-      "votes": "1",
+      "rating": "2",
+      "votes": "2",
       "parent": null,
       "id": "1469241532",
       "detailed_rating": {
@@ -160086,12 +160086,16 @@
             [
                "4990678",
                1787933794
+            ],
+            [
+               "4206567",
+               1788001827
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 1,
-      "justified_votes": 1
+      "justified_rating": 2,
+      "justified_votes": 2
    },
    "1787932917": {
       "title": "SCP-ZH-472 - 第拾捌籤：無名墳上馬照跑 亂葬崗上舞照跳",
