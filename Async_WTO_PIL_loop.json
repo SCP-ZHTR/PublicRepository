@@ -21973,5 +21973,22 @@
       "deleted": true,
       "justified_rating": 0,
       "justified_votes": 0
+   },
+   "1787973343": {
+      "title": "快樂是世界上最██的事",
+      "fullname": "happiness-is-the-saddest-thing-in-the-world",
+      "created_at": "1787973343",
+      "created_by": "4990678",
+      "tags": [],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1469242857",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
