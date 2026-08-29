@@ -156778,5 +156778,31 @@
       "deleted": false,
       "justified_rating": 0,
       "justified_votes": 0
+   },
+   "1788029751": {
+      "title": "SCP-2818 - 射人的槍",
+      "fullname": "scp-2818",
+      "created_at": "1788029751",
+      "created_by": "8883612",
+      "tags": [
+         "en",
+         "safe",
+         "scp",
+         "念力",
+         "武器",
+         "熱力學",
+         "翻譯",
+         "變形"
+      ],
+      "hidden_tags": [],
+      "comments": "1",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1469245872",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
