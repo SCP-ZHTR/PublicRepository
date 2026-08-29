@@ -158958,8 +158958,8 @@
          "_事故"
       ],
       "comments": "0",
-      "rating": "15",
-      "votes": "15",
+      "rating": "16",
+      "votes": "16",
       "parent": null,
       "id": "1469103268",
       "detailed_rating": {
@@ -159023,12 +159023,16 @@
             [
                "6709715",
                1787901846
+            ],
+            [
+               "3981670",
+               1788007914
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 15,
-      "justified_votes": 15
+      "justified_rating": 16,
+      "justified_votes": 16
    },
    "1786287912": {
       "title": "SCP-ZH-241 - 撈月",
@@ -159856,7 +159860,7 @@
       "hidden_tags": [
          "_他殺"
       ],
-      "comments": "1",
+      "comments": "2",
       "rating": "7",
       "votes": "7",
       "parent": null,
@@ -160224,8 +160228,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "4",
-      "votes": "4",
+      "rating": "5",
+      "votes": "5",
       "parent": null,
       "id": "1469242857",
       "detailed_rating": {
@@ -160245,11 +160249,15 @@
             [
                "4206567",
                1787996889
+            ],
+            [
+               "5370805",
+               1788007914
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 4,
-      "justified_votes": 4
+      "justified_rating": 5,
+      "justified_votes": 5
    }
 }
