@@ -160387,8 +160387,8 @@
          "_事故"
       ],
       "comments": "0",
-      "rating": "3",
-      "votes": "3",
+      "rating": "4",
+      "votes": "4",
       "parent": null,
       "id": "1469245296",
       "detailed_rating": {
@@ -160404,12 +160404,16 @@
             [
                "6350786",
                1788017582
+            ],
+            [
+               "4206567",
+               1788020575
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 3,
-      "justified_votes": 3
+      "justified_rating": 4,
+      "justified_votes": 4
    },
    "1788017899": {
       "title": "SCP-ZH-949 - 關於那個大海怪",
@@ -160434,6 +160438,105 @@
       "votes": "0",
       "parent": null,
       "id": "1469245384",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
+   },
+   "1788019187": {
+      "title": "SCP-ZH-896 - 敏感的畫",
+      "fullname": "scp-zh-896",
+      "created_at": "1788019187",
+      "created_by": "7605593",
+      "tags": [
+         "2026夏季競賽",
+         "safe",
+         "scp",
+         "site-zh-11",
+         "site-zh-16",
+         "原創",
+         "反熵",
+         "屍體",
+         "數學性",
+         "異常移動",
+         "真紀博士",
+         "研究員knave",
+         "自我修復",
+         "超現實部"
+      ],
+      "hidden_tags": [
+         "_事故"
+      ],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1469245457",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
+   },
+   "1788019200": {
+      "title": "SCP-ZH-652 - 吉備氏香道遺緒",
+      "fullname": "scp-zh-652",
+      "created_at": "1788019200",
+      "created_by": "7605593",
+      "tags": [
+         "safe",
+         "scp",
+         "site-zh-11",
+         "site-zh-13",
+         "site-zh-59",
+         "化學性",
+         "原創",
+         "嗅覺影響",
+         "幻覺",
+         "感知影響",
+         "東弊重工",
+         "煉金部門",
+         "精神影響",
+         "繁廣",
+         "聖夜虹光",
+         "車肆-8"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1469245458",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
+   },
+   "1788019220": {
+      "title": "SCP-ZH-519 - 第拾玖籤：獨守太玄問營謀 只云不儘可施為",
+      "fullname": "scp-zh-519",
+      "created_at": "1788019220",
+      "created_by": "7605593",
+      "tags": [
+         "2026中元恐怖",
+         "keter",
+         "scp",
+         "site-zh-11",
+         "srr部",
+         "原創",
+         "基金會製造",
+         "宇宙恐怖",
+         "星際",
+         "空間影響",
+         "變形",
+         "載具",
+         "電腦"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1469245495",
       "detailed_rating": {},
       "deleted": false,
       "justified_rating": 0,
