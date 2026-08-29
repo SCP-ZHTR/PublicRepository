@@ -160028,14 +160028,21 @@
          "_事故"
       ],
       "comments": "0",
-      "rating": "0",
-      "votes": "0",
+      "rating": "1",
+      "votes": "1",
       "parent": null,
       "id": "1469240770",
-      "detailed_rating": {},
+      "detailed_rating": {
+         "+": [
+            [
+               "6088232",
+               1787974525
+            ]
+         ]
+      },
       "deleted": false,
-      "justified_rating": 0,
-      "justified_votes": 0
+      "justified_rating": 1,
+      "justified_votes": 1
    },
    "1787931742": {
       "title": "SCP-ZH-378 - 艾蟻登法環",
@@ -160172,5 +160179,28 @@
       "deleted": false,
       "justified_rating": 1,
       "justified_votes": 1
+   },
+   "1787973343": {
+      "title": "快樂是世界上最██的事",
+      "fullname": "happiness-is-the-saddest-thing-in-the-world",
+      "created_at": "1787973343",
+      "created_by": "4990678",
+      "tags": [
+         "2026夏季競賽",
+         "原創",
+         "悲戚",
+         "愛情",
+         "故事"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1469242857",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }

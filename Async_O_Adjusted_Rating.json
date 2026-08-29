@@ -5703,7 +5703,7 @@
       "justified_rating": 1
    },
    "1787919406": {
-      "justified_rating": 0
+      "justified_rating": 1
    },
    "1787931742": {
       "justified_rating": 1
@@ -5716,5 +5716,8 @@
    },
    "1787940070": {
       "justified_rating": 1
+   },
+   "1787973343": {
+      "justified_rating": 0
    }
 }
