@@ -160055,8 +160055,8 @@
          "_他殺"
       ],
       "comments": "1",
-      "rating": "3",
-      "votes": "3",
+      "rating": "4",
+      "votes": "4",
       "parent": null,
       "id": "1469239392",
       "detailed_rating": {
@@ -160072,12 +160072,16 @@
             [
                "5565302",
                1788099072
+            ],
+            [
+               "5370805",
+               1788104606
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 3,
-      "justified_votes": 3
+      "justified_rating": 4,
+      "justified_votes": 4
    },
    "1787919406": {
       "title": "SCP-ZH-502 - 母親",
@@ -160250,8 +160254,8 @@
          "_他殺"
       ],
       "comments": "0",
-      "rating": "3",
-      "votes": "3",
+      "rating": "4",
+      "votes": "4",
       "parent": null,
       "id": "1469241694",
       "detailed_rating": {
@@ -160267,12 +160271,16 @@
             [
                "5565302",
                1788101738
+            ],
+            [
+               "5370805",
+               1788104606
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 3,
-      "justified_votes": 3
+      "justified_rating": 4,
+      "justified_votes": 4
    },
    "1787940070": {
       "title": "SCP-ZH-667 - 守時先生",
