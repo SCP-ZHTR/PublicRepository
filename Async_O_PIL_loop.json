@@ -159562,8 +159562,8 @@
          "_他殺"
       ],
       "comments": "0",
-      "rating": "4",
-      "votes": "4",
+      "rating": "5",
+      "votes": "5",
       "parent": null,
       "id": "1469213182",
       "detailed_rating": {
@@ -159583,12 +159583,16 @@
             [
                "5338547",
                1788017582
+            ],
+            [
+               "9501997",
+               1788100348
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 4,
-      "justified_votes": 4
+      "justified_rating": 5,
+      "justified_votes": 5
    },
    "1787673624": {
       "title": "中元恐怖——籤化不反",
@@ -160137,8 +160141,8 @@
          "_事故"
       ],
       "comments": "0",
-      "rating": "5",
-      "votes": "5",
+      "rating": "4",
+      "votes": "6",
       "parent": null,
       "id": "1469241532",
       "detailed_rating": {
@@ -160163,11 +160167,17 @@
                "5370805",
                1788027819
             ]
+         ],
+         "-": [
+            [
+               "5565302",
+               1788100348
+            ]
          ]
       },
       "deleted": false,
-      "justified_rating": 5,
-      "justified_votes": 5
+      "justified_rating": 4,
+      "justified_votes": 6
    },
    "1787932917": {
       "title": "SCP-ZH-472 - 第拾捌籤：無名墳上馬照跑 亂葬崗上舞照跳",
@@ -160188,8 +160198,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "4",
-      "votes": "4",
+      "rating": "5",
+      "votes": "5",
       "parent": null,
       "id": "1469241598",
       "detailed_rating": {
@@ -160209,12 +160219,16 @@
             [
                "7840542",
                1788039873
+            ],
+            [
+               "5565302",
+               1788100348
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 4,
-      "justified_votes": 4
+      "justified_rating": 5,
+      "justified_votes": 5
    },
    "1787936021": {
       "title": "SCP-ZH-967 - 脆友",
@@ -160276,8 +160290,8 @@
          "_事故"
       ],
       "comments": "2",
-      "rating": "2",
-      "votes": "2",
+      "rating": "3",
+      "votes": "3",
       "parent": null,
       "id": "1469241796",
       "detailed_rating": {
@@ -160289,12 +160303,16 @@
             [
                "4990678",
                1787976517
+            ],
+            [
+               "9501997",
+               1788100348
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 2,
-      "justified_votes": 2
+      "justified_rating": 3,
+      "justified_votes": 3
    },
    "1787973343": {
       "title": "快樂是世界上最██的事",
