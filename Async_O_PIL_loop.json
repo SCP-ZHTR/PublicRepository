@@ -160450,14 +160450,21 @@
          "_他殺"
       ],
       "comments": "0",
-      "rating": "0",
-      "votes": "0",
+      "rating": "1",
+      "votes": "1",
       "parent": null,
       "id": "1469245384",
-      "detailed_rating": {},
+      "detailed_rating": {
+         "+": [
+            [
+               "5338547",
+               1788091449
+            ]
+         ]
+      },
       "deleted": false,
-      "justified_rating": 0,
-      "justified_votes": 0
+      "justified_rating": 1,
+      "justified_votes": 1
    },
    "1788019187": {
       "title": "SCP-ZH-896 - 敏感的畫",
@@ -160484,8 +160491,8 @@
          "_事故"
       ],
       "comments": "0",
-      "rating": "2",
-      "votes": "2",
+      "rating": "3",
+      "votes": "3",
       "parent": null,
       "id": "1469245457",
       "detailed_rating": {
@@ -160497,12 +160504,16 @@
             [
                "8452537",
                1788033997
+            ],
+            [
+               "5338547",
+               1788091449
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 2,
-      "justified_votes": 2
+      "justified_rating": 3,
+      "justified_votes": 3
    },
    "1788019200": {
       "title": "SCP-ZH-652 - 吉備氏香道遺緒",
@@ -160529,8 +160540,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "1",
-      "votes": "1",
+      "rating": "2",
+      "votes": "2",
       "parent": null,
       "id": "1469245458",
       "detailed_rating": {
@@ -160538,12 +160549,16 @@
             [
                "4990678",
                1788020733
+            ],
+            [
+               "5338547",
+               1788091449
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 1,
-      "justified_votes": 1
+      "justified_rating": 2,
+      "justified_votes": 2
    },
    "1788019220": {
       "title": "SCP-ZH-519 - 第拾玖籤：獨守太玄問營謀 只云不儘可施為",
@@ -160567,13 +160582,20 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "0",
-      "votes": "0",
+      "rating": "1",
+      "votes": "1",
       "parent": "zhongyuan-2026",
       "id": "1469245495",
-      "detailed_rating": {},
+      "detailed_rating": {
+         "+": [
+            [
+               "5338547",
+               1788091449
+            ]
+         ]
+      },
       "deleted": false,
-      "justified_rating": 0,
-      "justified_votes": 0
+      "justified_rating": 1,
+      "justified_votes": 1
    }
 }
