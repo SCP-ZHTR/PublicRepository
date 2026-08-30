@@ -34380,12 +34380,25 @@
       "hidden_tags": [],
       "comments": "1",
       "rating": "0",
-      "votes": "0",
+      "votes": "2",
       "parent": null,
       "id": "1469232760",
-      "detailed_rating": {},
+      "detailed_rating": {
+         "+": [
+            [
+               "10520562",
+               1788084786
+            ]
+         ],
+         "-": [
+            [
+               "5370805",
+               1788084786
+            ]
+         ]
+      },
       "deleted": false,
       "justified_rating": 0,
-      "justified_votes": 0
+      "justified_votes": 2
    }
 }
