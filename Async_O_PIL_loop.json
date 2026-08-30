@@ -160590,8 +160590,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "2",
-      "votes": "2",
+      "rating": "3",
+      "votes": "3",
       "parent": null,
       "id": "1469245458",
       "detailed_rating": {
@@ -160603,12 +160603,16 @@
             [
                "5338547",
                1788091449
+            ],
+            [
+               "4206567",
+               1788115544
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 2,
-      "justified_votes": 2
+      "justified_rating": 3,
+      "justified_votes": 3
    },
    "1788019220": {
       "title": "SCP-ZH-519 - 第拾玖籤：獨守太玄問營謀 只云不儘可施為",
