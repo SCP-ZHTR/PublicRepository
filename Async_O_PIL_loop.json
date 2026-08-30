@@ -160051,8 +160051,8 @@
          "_他殺"
       ],
       "comments": "1",
-      "rating": "2",
-      "votes": "2",
+      "rating": "3",
+      "votes": "3",
       "parent": null,
       "id": "1469239392",
       "detailed_rating": {
@@ -160064,12 +160064,16 @@
             [
                "4990678",
                1787976517
+            ],
+            [
+               "5565302",
+               1788099072
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 2,
-      "justified_votes": 2
+      "justified_rating": 3,
+      "justified_votes": 3
    },
    "1787919406": {
       "title": "SCP-ZH-502 - 母親",
@@ -160089,8 +160093,8 @@
          "_事故"
       ],
       "comments": "0",
-      "rating": "3",
-      "votes": "3",
+      "rating": "4",
+      "votes": "4",
       "parent": null,
       "id": "1469240770",
       "detailed_rating": {
@@ -160106,12 +160110,16 @@
             [
                "5338547",
                1788017582
+            ],
+            [
+               "5565302",
+               1788099072
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 3,
-      "justified_votes": 3
+      "justified_rating": 4,
+      "justified_votes": 4
    },
    "1787931742": {
       "title": "SCP-ZH-378 - 艾蟻登法環",
