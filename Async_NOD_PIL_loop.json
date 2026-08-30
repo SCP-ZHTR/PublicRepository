@@ -34370,5 +34370,22 @@
       "deleted": false,
       "justified_rating": -2,
       "justified_votes": 6
+   },
+   "1787762178": {
+      "title": "SCP-5745",
+      "fullname": "deleted:scp-5745",
+      "created_at": "1787762178",
+      "created_by": "10520562",
+      "tags": [],
+      "hidden_tags": [],
+      "comments": "1",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1469232760",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
