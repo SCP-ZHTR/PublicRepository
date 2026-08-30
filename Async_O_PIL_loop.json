@@ -160250,8 +160250,8 @@
          "_他殺"
       ],
       "comments": "0",
-      "rating": "2",
-      "votes": "2",
+      "rating": "3",
+      "votes": "3",
       "parent": null,
       "id": "1469241694",
       "detailed_rating": {
@@ -160263,12 +160263,16 @@
             [
                "5338547",
                1788017582
+            ],
+            [
+               "5565302",
+               1788101738
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 2,
-      "justified_votes": 2
+      "justified_rating": 3,
+      "justified_votes": 3
    },
    "1787940070": {
       "title": "SCP-ZH-667 - 守時先生",
@@ -160290,8 +160294,8 @@
          "_事故"
       ],
       "comments": "2",
-      "rating": "3",
-      "votes": "3",
+      "rating": "4",
+      "votes": "4",
       "parent": null,
       "id": "1469241796",
       "detailed_rating": {
@@ -160307,12 +160311,16 @@
             [
                "9501997",
                1788100348
+            ],
+            [
+               "5565302",
+               1788101738
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 3,
-      "justified_votes": 3
+      "justified_rating": 4,
+      "justified_votes": 4
    },
    "1787973343": {
       "title": "快樂是世界上最██的事",
@@ -160429,8 +160437,8 @@
          "_事故"
       ],
       "comments": "0",
-      "rating": "4",
-      "votes": "4",
+      "rating": "5",
+      "votes": "5",
       "parent": null,
       "id": "1469245296",
       "detailed_rating": {
@@ -160450,12 +160458,16 @@
             [
                "4206567",
                1788020575
+            ],
+            [
+               "8177208",
+               1788101738
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 4,
-      "justified_votes": 4
+      "justified_rating": 5,
+      "justified_votes": 5
    },
    "1788017899": {
       "title": "SCP-ZH-949 - 關於那個大海怪",
