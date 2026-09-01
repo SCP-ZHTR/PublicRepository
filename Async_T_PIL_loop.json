@@ -39209,8 +39209,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "5",
-      "votes": "5",
+      "rating": "6",
+      "votes": "6",
       "parent": null,
       "id": "1083519213",
       "detailed_rating": {
@@ -39234,12 +39234,16 @@
             [
                "6082642",
                1680163311
+            ],
+            [
+               "10528273",
+               1788270236
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 5,
-      "justified_votes": 5
+      "justified_rating": 6,
+      "justified_votes": 6
    },
    "1590391117": {
       "title": "Mann博士的提案",
@@ -84635,8 +84639,8 @@
          "_cc"
       ],
       "comments": "1",
-      "rating": "7",
-      "votes": "9",
+      "rating": "8",
+      "votes": "10",
       "parent": null,
       "id": "1331729474",
       "detailed_rating": {
@@ -84672,6 +84676,10 @@
             [
                "8319365",
                1764649472
+            ],
+            [
+               "7504530",
+               1788270236
             ]
          ],
          "-": [
@@ -84682,8 +84690,8 @@
          ]
       },
       "deleted": false,
-      "justified_rating": 6,
-      "justified_votes": 8
+      "justified_rating": 7,
+      "justified_votes": 9
    },
    "1645190547": {
       "title": "Dr. Palanez的提案",
@@ -156721,14 +156729,21 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "0",
-      "votes": "0",
+      "rating": "1",
+      "votes": "1",
       "parent": null,
       "id": "1469220430",
-      "detailed_rating": {},
+      "detailed_rating": {
+         "+": [
+            [
+               "7504530",
+               1788270236
+            ]
+         ]
+      },
       "deleted": false,
-      "justified_rating": 0,
-      "justified_votes": 0
+      "justified_rating": 1,
+      "justified_votes": 1
    },
    "1787672593": {
       "title": "SCP-1529 - 雪山之王",
@@ -156760,7 +156775,7 @@
             ]
          ]
       },
-      "deleted": false,
+      "deleted": true,
       "justified_rating": 1,
       "justified_votes": 1
    },

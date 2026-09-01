@@ -1140,13 +1140,13 @@
       "justified_rating": 21
    },
    "1583085468": {
-      "justified_rating": 15
+      "justified_rating": 16
    },
    "1583152872": {
       "justified_rating": 8
    },
    "1583157880": {
-      "justified_rating": 21
+      "justified_rating": 22
    },
    "1583245622": {
       "justified_rating": 9
@@ -5568,7 +5568,7 @@
       "justified_rating": 8
    },
    "1777084110": {
-      "justified_rating": 8
+      "justified_rating": 9
    },
    "1777286073": {
       "justified_rating": 13
@@ -5619,7 +5619,7 @@
       "justified_rating": 13
    },
    "1782748802": {
-      "justified_rating": 14
+      "justified_rating": 15
    },
    "1783260103": {
       "justified_rating": -11
@@ -5646,10 +5646,10 @@
       "justified_rating": 10
    },
    "1785939829": {
-      "justified_rating": 13
+      "justified_rating": 14
    },
    "1785960799": {
-      "justified_rating": 17
+      "justified_rating": 18
    },
    "1786287912": {
       "justified_rating": 7
@@ -5664,78 +5664,84 @@
       "justified_rating": 5
    },
    "1787234022": {
-      "justified_rating": 6
+      "justified_rating": 7
    },
    "1787302140": {
-      "justified_rating": 2
+      "justified_rating": 4
    },
    "1787316260": {
-      "justified_rating": 7
-   },
-   "1787324201": {
-      "justified_rating": 7
-   },
-   "1787369871": {
-      "justified_rating": 5
-   },
-   "1787673624": {
-      "justified_rating": 18
-   },
-   "1787755040": {
-      "justified_rating": 15
-   },
-   "1787760128": {
-      "justified_rating": 7
-   },
-   "1787805282": {
-      "justified_rating": 4
-   },
-   "1787827417": {
       "justified_rating": 8
    },
+   "1787324201": {
+      "justified_rating": 8
+   },
+   "1787369871": {
+      "justified_rating": 6
+   },
+   "1787673624": {
+      "justified_rating": 21
+   },
+   "1787755040": {
+      "justified_rating": 16
+   },
+   "1787760128": {
+      "justified_rating": 9
+   },
+   "1787805282": {
+      "justified_rating": 6
+   },
+   "1787827417": {
+      "justified_rating": 9
+   },
    "1787843275": {
-      "justified_rating": 0
+      "justified_rating": -1
    },
    "1787846475": {
-      "justified_rating": 11
+      "justified_rating": 13
    },
    "1787894954": {
-      "justified_rating": 4
+      "justified_rating": 5
    },
    "1787919406": {
-      "justified_rating": 4
+      "justified_rating": 5
    },
    "1787931742": {
-      "justified_rating": 4
+      "justified_rating": 6
    },
    "1787932917": {
-      "justified_rating": 5
-   },
-   "1787936021": {
-      "justified_rating": 4
-   },
-   "1787940070": {
-      "justified_rating": 4
-   },
-   "1787973343": {
       "justified_rating": 7
    },
-   "1788014663": {
-      "justified_rating": 4
+   "1787936021": {
+      "justified_rating": 6
    },
-   "1788016066": {
+   "1787940070": {
+      "justified_rating": 7
+   },
+   "1787973343": {
+      "justified_rating": 9
+   },
+   "1788014663": {
       "justified_rating": 5
    },
+   "1788016066": {
+      "justified_rating": 6
+   },
    "1788017899": {
-      "justified_rating": 1
+      "justified_rating": 3
    },
    "1788019187": {
-      "justified_rating": 4
+      "justified_rating": 5
    },
    "1788019200": {
       "justified_rating": 3
    },
    "1788019220": {
-      "justified_rating": 2
+      "justified_rating": 4
+   },
+   "1788184315": {
+      "justified_rating": 0
+   },
+   "1788193528": {
+      "justified_rating": 0
    }
 }
