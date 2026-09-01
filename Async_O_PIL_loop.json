@@ -160865,14 +160865,41 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "0",
-      "votes": "0",
+      "rating": "6",
+      "votes": "6",
       "parent": null,
       "id": "1469255884",
-      "detailed_rating": {},
+      "detailed_rating": {
+         "+": [
+            [
+               "9501997",
+               1788270444
+            ],
+            [
+               "4990678",
+               1788270444
+            ],
+            [
+               "6217438",
+               1788270444
+            ],
+            [
+               "8883612",
+               1788270444
+            ],
+            [
+               "5370805",
+               1788270444
+            ],
+            [
+               "9628870",
+               1788270444
+            ]
+         ]
+      },
       "deleted": false,
-      "justified_rating": 0,
-      "justified_votes": 0
+      "justified_rating": 6,
+      "justified_votes": 6
    },
    "1788193528": {
       "title": "SCP-ZH-619 - 第參捌籤：現實時間快速通關",
@@ -160893,13 +160920,44 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "0",
-      "votes": "0",
+      "rating": "7",
+      "votes": "7",
       "parent": null,
       "id": "1469256296",
-      "detailed_rating": {},
+      "detailed_rating": {
+         "+": [
+            [
+               "5325850",
+               1788270444
+            ],
+            [
+               "4206567",
+               1788270444
+            ],
+            [
+               "8452537",
+               1788270444
+            ],
+            [
+               "6217438",
+               1788270444
+            ],
+            [
+               "5370805",
+               1788270444
+            ],
+            [
+               "6350786",
+               1788270444
+            ],
+            [
+               "9628870",
+               1788270444
+            ]
+         ]
+      },
       "deleted": false,
-      "justified_rating": 0,
-      "justified_votes": 0
+      "justified_rating": 7,
+      "justified_votes": 7
    }
 }
