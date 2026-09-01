@@ -160064,7 +160064,7 @@
             ]
          ]
       },
-      "deleted": false,
+      "deleted": true,
       "justified_rating": -1,
       "justified_votes": 1
    },
@@ -160561,8 +160561,8 @@
          "_他殺"
       ],
       "comments": "0",
-      "rating": "5",
-      "votes": "5",
+      "rating": "6",
+      "votes": "6",
       "parent": null,
       "id": "1469245105",
       "detailed_rating": {
@@ -160586,12 +160586,16 @@
             [
                "9628870",
                1788270231
+            ],
+            [
+               "5565302",
+               1788272776
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 5,
-      "justified_votes": 5
+      "justified_rating": 6,
+      "justified_votes": 6
    },
    "1788016066": {
       "title": "紫河車",
@@ -160663,8 +160667,8 @@
          "_他殺"
       ],
       "comments": "0",
-      "rating": "3",
-      "votes": "3",
+      "rating": "4",
+      "votes": "4",
       "parent": null,
       "id": "1469245384",
       "detailed_rating": {
@@ -160680,12 +160684,16 @@
             [
                "9628870",
                1788270231
+            ],
+            [
+               "5565302",
+               1788272776
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 3,
-      "justified_votes": 3
+      "justified_rating": 4,
+      "justified_votes": 4
    },
    "1788019187": {
       "title": "SCP-ZH-896 - 敏感的畫",
