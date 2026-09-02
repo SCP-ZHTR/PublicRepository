@@ -160564,8 +160564,8 @@
          "_他殺"
       ],
       "comments": "0",
-      "rating": "7",
-      "votes": "7",
+      "rating": "8",
+      "votes": "8",
       "parent": null,
       "id": "1469245105",
       "detailed_rating": {
@@ -160597,12 +160597,16 @@
             [
                "6217438",
                1788351358
+            ],
+            [
+               "8846720",
+               1788352624
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 7,
-      "justified_votes": 7
+      "justified_rating": 8,
+      "justified_votes": 8
    },
    "1788016066": {
       "title": "紫河車",
