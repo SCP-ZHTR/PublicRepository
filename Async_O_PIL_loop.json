@@ -131820,8 +131820,8 @@
       ],
       "hidden_tags": [],
       "comments": "4",
-      "rating": "22",
-      "votes": "22",
+      "rating": "23",
+      "votes": "23",
       "parent": null,
       "id": "1452565126",
       "detailed_rating": {
@@ -131913,12 +131913,16 @@
             [
                "7486905",
                1725528000
+            ],
+            [
+               "5402841",
+               1788362544
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 22,
-      "justified_votes": 22
+      "justified_rating": 23,
+      "justified_votes": 23
    },
    "1707263446": {
       "title": "SCP-ZH-358 - 罪有所償，命有所還",
@@ -161127,8 +161131,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "2",
-      "votes": "2",
+      "rating": "4",
+      "votes": "4",
       "parent": null,
       "id": "1469265119",
       "detailed_rating": {
@@ -161140,11 +161144,19 @@
             [
                "5413616",
                1788361273
+            ],
+            [
+               "9075244",
+               1788362544
+            ],
+            [
+               "8883612",
+               1788362544
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 2,
-      "justified_votes": 2
+      "justified_rating": 4,
+      "justified_votes": 4
    }
 }
