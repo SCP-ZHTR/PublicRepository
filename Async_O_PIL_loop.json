@@ -159670,8 +159670,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "21",
-      "votes": "21",
+      "rating": "22",
+      "votes": "22",
       "parent": null,
       "id": "1469228625",
       "detailed_rating": {
@@ -159759,12 +159759,16 @@
             [
                "4107284",
                1788270231
+            ],
+            [
+               "8854072",
+               1788355850
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 21,
-      "justified_votes": 21
+      "justified_rating": 22,
+      "justified_votes": 22
    },
    "1787755040": {
       "title": "SCP-ZH-401-J - 黃銅馬桶",
