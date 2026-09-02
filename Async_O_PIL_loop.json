@@ -158989,8 +158989,8 @@
          "_事故"
       ],
       "comments": "0",
-      "rating": "18",
-      "votes": "18",
+      "rating": "19",
+      "votes": "19",
       "parent": null,
       "id": "1469103268",
       "detailed_rating": {
@@ -159066,12 +159066,16 @@
             [
                "10528273",
                1788270231
+            ],
+            [
+               "10502748",
+               1788354245
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 18,
-      "justified_votes": 18
+      "justified_rating": 19,
+      "justified_votes": 19
    },
    "1786287912": {
       "title": "SCP-ZH-241 - 撈月",
@@ -160215,8 +160219,8 @@
          "_事故"
       ],
       "comments": "0",
-      "rating": "5",
-      "votes": "5",
+      "rating": "6",
+      "votes": "6",
       "parent": null,
       "id": "1469240770",
       "detailed_rating": {
@@ -160240,12 +160244,16 @@
             [
                "9628870",
                1788270231
+            ],
+            [
+               "8846720",
+               1788354245
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 5,
-      "justified_votes": 5
+      "justified_rating": 6,
+      "justified_votes": 6
    },
    "1787931742": {
       "title": "SCP-ZH-378 - 艾蟻登法環",
@@ -161050,8 +161058,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "1",
-      "votes": "1",
+      "rating": "2",
+      "votes": "2",
       "parent": null,
       "id": "1469262072",
       "detailed_rating": {
@@ -161059,11 +161067,15 @@
             [
                "4990678",
                1788324593
+            ],
+            [
+               "8846720",
+               1788354245
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 1,
-      "justified_votes": 1
+      "justified_rating": 2,
+      "justified_votes": 2
    }
 }
