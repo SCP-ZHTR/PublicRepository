@@ -131820,8 +131820,8 @@
       ],
       "hidden_tags": [],
       "comments": "4",
-      "rating": "23",
-      "votes": "23",
+      "rating": "24",
+      "votes": "24",
       "parent": null,
       "id": "1452565126",
       "detailed_rating": {
@@ -131917,12 +131917,16 @@
             [
                "5402841",
                1788362544
+            ],
+            [
+               "5413616",
+               1788364179
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 23,
-      "justified_votes": 23
+      "justified_rating": 24,
+      "justified_votes": 24
    },
    "1707263446": {
       "title": "SCP-ZH-358 - 罪有所償，命有所還",
@@ -160429,8 +160433,8 @@
          "_他殺"
       ],
       "comments": "0",
-      "rating": "6",
-      "votes": "6",
+      "rating": "7",
+      "votes": "7",
       "parent": null,
       "id": "1469241694",
       "detailed_rating": {
@@ -160458,12 +160462,16 @@
             [
                "9628870",
                1788270231
+            ],
+            [
+               "8883612",
+               1788364179
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 6,
-      "justified_votes": 6
+      "justified_rating": 7,
+      "justified_votes": 7
    },
    "1787940070": {
       "title": "SCP-ZH-667 - 守時先生",
@@ -161131,8 +161139,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "4",
-      "votes": "4",
+      "rating": "5",
+      "votes": "5",
       "parent": null,
       "id": "1469265119",
       "detailed_rating": {
@@ -161152,11 +161160,15 @@
             [
                "8883612",
                1788362544
+            ],
+            [
+               "7852233",
+               1788364179
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 4,
-      "justified_votes": 4
+      "justified_rating": 5,
+      "justified_votes": 5
    }
 }
