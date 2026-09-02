@@ -160991,8 +160991,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "3",
-      "votes": "3",
+      "rating": "6",
+      "votes": "6",
       "parent": null,
       "id": "1469261753",
       "detailed_rating": {
@@ -161008,12 +161008,24 @@
             [
                "9628870",
                1788315932
+            ],
+            [
+               "4990678",
+               1788324593
+            ],
+            [
+               "10528850",
+               1788324593
+            ],
+            [
+               "8883612",
+               1788324593
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 3,
-      "justified_votes": 3
+      "justified_rating": 6,
+      "justified_votes": 6
    },
    "1788315781": {
       "title": "沒有被寫進報告裡的那些事",
@@ -161026,13 +161038,20 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "0",
-      "votes": "0",
+      "rating": "1",
+      "votes": "1",
       "parent": null,
       "id": "1469262072",
-      "detailed_rating": {},
+      "detailed_rating": {
+         "+": [
+            [
+               "4990678",
+               1788324593
+            ]
+         ]
+      },
       "deleted": false,
-      "justified_rating": 0,
-      "justified_votes": 0
+      "justified_rating": 1,
+      "justified_votes": 1
    }
 }
