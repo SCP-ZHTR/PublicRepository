@@ -160991,8 +160991,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "2",
-      "votes": "2",
+      "rating": "3",
+      "votes": "3",
       "parent": null,
       "id": "1469261753",
       "detailed_rating": {
@@ -161004,11 +161004,35 @@
             [
                "6217438",
                1788310991
+            ],
+            [
+               "9628870",
+               1788315932
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 2,
-      "justified_votes": 2
+      "justified_rating": 3,
+      "justified_votes": 3
+   },
+   "1788315781": {
+      "title": "沒有被寫進報告裡的那些事",
+      "fullname": "a-mother-s-story",
+      "created_at": "1788315781",
+      "created_by": "5402841",
+      "tags": [
+         "原創",
+         "故事"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1469262072",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
