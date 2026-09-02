@@ -160564,8 +160564,8 @@
          "_他殺"
       ],
       "comments": "0",
-      "rating": "6",
-      "votes": "6",
+      "rating": "7",
+      "votes": "7",
       "parent": null,
       "id": "1469245105",
       "detailed_rating": {
@@ -160593,12 +160593,16 @@
             [
                "5565302",
                1788272776
+            ],
+            [
+               "6217438",
+               1788351358
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 6,
-      "justified_votes": 6
+      "justified_rating": 7,
+      "justified_votes": 7
    },
    "1788016066": {
       "title": "紫河車",
@@ -160615,8 +160619,8 @@
          "_事故"
       ],
       "comments": "0",
-      "rating": "6",
-      "votes": "6",
+      "rating": "7",
+      "votes": "7",
       "parent": null,
       "id": "1469245296",
       "detailed_rating": {
@@ -160644,12 +160648,16 @@
             [
                "9628870",
                1788270231
+            ],
+            [
+               "10502748",
+               1788351358
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 6,
-      "justified_votes": 6
+      "justified_rating": 7,
+      "justified_votes": 7
    },
    "1788017899": {
       "title": "SCP-ZH-949 - 關於那個大海怪",
