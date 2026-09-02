@@ -161139,8 +161139,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "6",
-      "votes": "6",
+      "rating": "7",
+      "votes": "7",
       "parent": null,
       "id": "1469265119",
       "detailed_rating": {
@@ -161168,12 +161168,16 @@
             [
                "7064164",
                1788365466
+            ],
+            [
+               "8854072",
+               1788368281
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 6,
-      "justified_votes": 6
+      "justified_rating": 7,
+      "justified_votes": 7
    },
    "1788364806": {
       "title": "SCP-ZH-703-第伍柒籤：汝意還同我意同",
@@ -161181,15 +161185,19 @@
       "created_at": "1788364806",
       "created_by": "8854072",
       "tags": [
-         "2026中原恐怖",
+         "2026中元恐怖",
          "scp",
          "原創",
-         "工廠"
+         "工廠",
+         "無名",
+         "聲音",
+         "記憶影響",
+         "認知危害"
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "2",
-      "votes": "2",
+      "rating": "3",
+      "votes": "3",
       "parent": null,
       "id": "1469265579",
       "detailed_rating": {
@@ -161201,11 +161209,15 @@
             [
                "6350786",
                1788365590
+            ],
+            [
+               "9501997",
+               1788368281
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 2,
-      "justified_votes": 2
+      "justified_rating": 3,
+      "justified_votes": 3
    }
 }
