@@ -160978,5 +160978,26 @@
       "deleted": false,
       "justified_rating": 9,
       "justified_votes": 9
+   },
+   "1788306763": {
+      "title": "SCP-ZH-658 - 第肆柒籤：伏心服明墨自益，移瓦憶舊渠自停",
+      "fullname": "scp-zh-658",
+      "created_at": "1788306763",
+      "created_by": "8543386",
+      "tags": [
+         "2026中元恐怖",
+         "scp",
+         "原創"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1469261753",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
