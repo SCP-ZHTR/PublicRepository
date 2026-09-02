@@ -115594,8 +115594,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "18",
-      "votes": "18",
+      "rating": "19",
+      "votes": "19",
       "parent": null,
       "id": "1446724000",
       "detailed_rating": {
@@ -115671,12 +115671,16 @@
             [
                "6104968",
                1708581354
+            ],
+            [
+               "5402841",
+               1788386473
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 17,
-      "justified_votes": 17
+      "justified_rating": 18,
+      "justified_votes": 18
    },
    "1679053792": {
       "title": "SCP-ZH-237 - 躍於布海",
