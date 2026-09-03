@@ -157316,8 +157316,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "14",
-      "votes": "16",
+      "rating": "15",
+      "votes": "17",
       "parent": null,
       "id": "1468580512",
       "detailed_rating": {
@@ -157381,6 +157381,10 @@
             [
                "7504530",
                1784528536
+            ],
+            [
+               "7277638",
+               1788447421
             ]
          ],
          "-": [
@@ -157391,8 +157395,8 @@
          ]
       },
       "deleted": false,
-      "justified_rating": 13,
-      "justified_votes": 15
+      "justified_rating": 14,
+      "justified_votes": 16
    },
    "1777305651": {
       "title": "共有良夜",
@@ -160681,8 +160685,8 @@
          "_他殺"
       ],
       "comments": "0",
-      "rating": "9",
-      "votes": "9",
+      "rating": "10",
+      "votes": "10",
       "parent": null,
       "id": "1469245105",
       "detailed_rating": {
@@ -160722,12 +160726,16 @@
             [
                "5251681",
                1788445664
+            ],
+            [
+               "8854072",
+               1788447421
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 9,
-      "justified_votes": 9
+      "justified_rating": 10,
+      "justified_votes": 10
    },
    "1788016066": {
       "title": "紫河車",
@@ -160744,8 +160752,8 @@
          "_事故"
       ],
       "comments": "0",
-      "rating": "8",
-      "votes": "8",
+      "rating": "9",
+      "votes": "9",
       "parent": null,
       "id": "1469245296",
       "detailed_rating": {
@@ -160781,12 +160789,16 @@
             [
                "6152598",
                1788405138
+            ],
+            [
+               "5251681",
+               1788447421
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 8,
-      "justified_votes": 8
+      "justified_rating": 9,
+      "justified_votes": 9
    },
    "1788017899": {
       "title": "SCP-ZH-949 - 關於那個大海怪",
