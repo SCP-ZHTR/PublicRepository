@@ -143635,8 +143635,8 @@
       ],
       "hidden_tags": [],
       "comments": "2",
-      "rating": "4",
-      "votes": "4",
+      "rating": "5",
+      "votes": "5",
       "parent": null,
       "id": "1456114347",
       "detailed_rating": {
@@ -143656,12 +143656,16 @@
             [
                "6088232",
                1755831839
+            ],
+            [
+               "4206567",
+               1788445666
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 4,
-      "justified_votes": 4
+      "justified_rating": 5,
+      "justified_votes": 5
    },
    "1723042872": {
       "title": "SCP-1178 - 漂浮的洲際彈道飛彈",
@@ -147850,8 +147854,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "2",
-      "votes": "2",
+      "rating": "3",
+      "votes": "3",
       "parent": null,
       "id": "1458264129",
       "detailed_rating": {
@@ -147863,12 +147867,16 @@
             [
                "8452537",
                1737476651
+            ],
+            [
+               "4206567",
+               1788445666
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 2,
-      "justified_votes": 2
+      "justified_rating": 3,
+      "justified_votes": 3
    },
    "1737562009": {
       "title": "SCP-8066 - 恐懼恐懼症：唯一值得恐懼之物",
@@ -151482,8 +151490,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "1",
-      "votes": "1",
+      "rating": "2",
+      "votes": "2",
       "parent": null,
       "id": "1460115272",
       "detailed_rating": {
@@ -151491,12 +151499,16 @@
             [
                "8177208",
                1756692844
+            ],
+            [
+               "4206567",
+               1788445666
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 1,
-      "justified_votes": 1
+      "justified_rating": 2,
+      "justified_votes": 2
    },
    "1756308149": {
       "title": "不過一夢",
@@ -152115,8 +152127,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "3",
-      "votes": "3",
+      "rating": "4",
+      "votes": "4",
       "parent": null,
       "id": "1460459597",
       "detailed_rating": {
@@ -152132,12 +152144,16 @@
             [
                "7504530",
                1762417500
+            ],
+            [
+               "4206567",
+               1788445666
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 3,
-      "justified_votes": 3
+      "justified_rating": 4,
+      "justified_votes": 4
    },
    "1759152850": {
       "title": "SCP-5733 - 刀子。尖叫。畫面轉黑。",

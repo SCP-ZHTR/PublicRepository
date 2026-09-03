@@ -158772,8 +158772,8 @@
          "_他殺"
       ],
       "comments": "0",
-      "rating": "8",
-      "votes": "10",
+      "rating": "9",
+      "votes": "11",
       "parent": null,
       "id": "1469092591",
       "detailed_rating": {
@@ -158813,6 +158813,10 @@
             [
                "5338547",
                1788017582
+            ],
+            [
+               "6503482",
+               1788445664
             ]
          ],
          "-": [
@@ -158823,8 +158827,8 @@
          ]
       },
       "deleted": false,
-      "justified_rating": 8,
-      "justified_votes": 10
+      "justified_rating": 9,
+      "justified_votes": 11
    },
    "1785934972": {
       "title": "SCP-ZH-942 - 自殺防治專線",
@@ -158849,8 +158853,8 @@
          "_自殺"
       ],
       "comments": "1",
-      "rating": "10",
-      "votes": "10",
+      "rating": "11",
+      "votes": "11",
       "parent": null,
       "id": "1469102083",
       "detailed_rating": {
@@ -158894,12 +158898,16 @@
             [
                "4206567",
                1787660485
+            ],
+            [
+               "6503482",
+               1788445664
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 10,
-      "justified_votes": 10
+      "justified_rating": 11,
+      "justified_votes": 11
    },
    "1785939829": {
       "title": "SCP-ZH-238 - 血流成河",
@@ -159006,8 +159014,8 @@
          "_事故"
       ],
       "comments": "0",
-      "rating": "19",
-      "votes": "19",
+      "rating": "20",
+      "votes": "20",
       "parent": null,
       "id": "1469103268",
       "detailed_rating": {
@@ -159087,12 +159095,16 @@
             [
                "10502748",
                1788354245
+            ],
+            [
+               "5251681",
+               1788445664
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 19,
-      "justified_votes": 19
+      "justified_rating": 20,
+      "justified_votes": 20
    },
    "1786287912": {
       "title": "SCP-ZH-241 - 撈月",
@@ -159255,8 +159267,8 @@
          "_他殺"
       ],
       "comments": "1",
-      "rating": "18",
-      "votes": "18",
+      "rating": "19",
+      "votes": "19",
       "parent": null,
       "id": "1469179647",
       "detailed_rating": {
@@ -159332,12 +159344,16 @@
             [
                "6217438",
                1788439071
+            ],
+            [
+               "5251681",
+               1788445664
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 18,
-      "justified_votes": 18
+      "justified_rating": 19,
+      "justified_votes": 19
    },
    "1786978766": {
       "title": "SCP-ZH-433解密",
@@ -160275,8 +160291,8 @@
          "_事故"
       ],
       "comments": "0",
-      "rating": "7",
-      "votes": "7",
+      "rating": "8",
+      "votes": "8",
       "parent": null,
       "id": "1469240770",
       "detailed_rating": {
@@ -160308,12 +160324,16 @@
             [
                "5325850",
                1788439071
+            ],
+            [
+               "8854072",
+               1788445664
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 7,
-      "justified_votes": 7
+      "justified_rating": 8,
+      "justified_votes": 8
    },
    "1787931742": {
       "title": "SCP-ZH-378 - 艾蟻登法環",
@@ -160584,8 +160604,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "10",
-      "votes": "10",
+      "rating": "11",
+      "votes": "11",
       "parent": null,
       "id": "1469242857",
       "detailed_rating": {
@@ -160629,12 +160649,16 @@
             [
                "6217438",
                1788435578
+            ],
+            [
+               "5251681",
+               1788445664
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 10,
-      "justified_votes": 10
+      "justified_rating": 11,
+      "justified_votes": 11
    },
    "1788014663": {
       "title": "SCP-ZH-380 - 苦痛聖女",
@@ -160657,8 +160681,8 @@
          "_他殺"
       ],
       "comments": "0",
-      "rating": "8",
-      "votes": "8",
+      "rating": "9",
+      "votes": "9",
       "parent": null,
       "id": "1469245105",
       "detailed_rating": {
@@ -160694,12 +160718,16 @@
             [
                "8846720",
                1788352624
+            ],
+            [
+               "5251681",
+               1788445664
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 8,
-      "justified_votes": 8
+      "justified_rating": 9,
+      "justified_votes": 9
    },
    "1788016066": {
       "title": "紫河車",
