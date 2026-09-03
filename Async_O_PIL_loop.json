@@ -159255,8 +159255,8 @@
          "_他殺"
       ],
       "comments": "1",
-      "rating": "17",
-      "votes": "17",
+      "rating": "18",
+      "votes": "18",
       "parent": null,
       "id": "1469179647",
       "detailed_rating": {
@@ -159328,12 +159328,16 @@
             [
                "6381244",
                1788359875
+            ],
+            [
+               "6217438",
+               1788439071
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 17,
-      "justified_votes": 17
+      "justified_rating": 18,
+      "justified_votes": 18
    },
    "1786978766": {
       "title": "SCP-ZH-433解密",
@@ -160271,8 +160275,8 @@
          "_事故"
       ],
       "comments": "0",
-      "rating": "6",
-      "votes": "6",
+      "rating": "7",
+      "votes": "7",
       "parent": null,
       "id": "1469240770",
       "detailed_rating": {
@@ -160300,12 +160304,16 @@
             [
                "8846720",
                1788354245
+            ],
+            [
+               "5325850",
+               1788439071
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 6,
-      "justified_votes": 6
+      "justified_rating": 7,
+      "justified_votes": 7
    },
    "1787931742": {
       "title": "SCP-ZH-378 - 艾蟻登法環",
