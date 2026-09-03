@@ -160381,8 +160381,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "8",
-      "votes": "8",
+      "rating": "9",
+      "votes": "9",
       "parent": null,
       "id": "1469241598",
       "detailed_rating": {
@@ -160418,12 +160418,16 @@
             [
                "7504530",
                1788401099
+            ],
+            [
+               "6152598",
+               1788405138
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 8,
-      "justified_votes": 8
+      "justified_rating": 9,
+      "justified_votes": 9
    },
    "1787936021": {
       "title": "SCP-ZH-967 - 脆友",
@@ -160688,8 +160692,8 @@
          "_事故"
       ],
       "comments": "0",
-      "rating": "7",
-      "votes": "7",
+      "rating": "8",
+      "votes": "8",
       "parent": null,
       "id": "1469245296",
       "detailed_rating": {
@@ -160721,12 +160725,16 @@
             [
                "10502748",
                1788351358
+            ],
+            [
+               "6152598",
+               1788405138
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 7,
-      "justified_votes": 7
+      "justified_rating": 8,
+      "justified_votes": 8
    },
    "1788017899": {
       "title": "SCP-ZH-949 - 關於那個大海怪",
