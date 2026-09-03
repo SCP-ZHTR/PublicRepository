@@ -161320,5 +161320,37 @@
       "deleted": false,
       "justified_rating": 4,
       "justified_votes": 4
+   },
+   "1788451223": {
+      "title": "SCP-ZH-745 - 第陸參籤：渡黑水記",
+      "fullname": "scp-zh-745",
+      "created_at": "1788451223",
+      "created_by": "5334590",
+      "tags": [
+         "keter",
+         "scp",
+         "人形",
+         "儀式性",
+         "原創",
+         "宗教",
+         "屍體",
+         "建築物",
+         "強迫性",
+         "感知影響",
+         "未收容",
+         "氣象",
+         "神祇",
+         "精神影響"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1469270168",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
