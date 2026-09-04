@@ -124950,8 +124950,8 @@
          "_licensebox"
       ],
       "comments": "1",
-      "rating": "4",
-      "votes": "4",
+      "rating": "5",
+      "votes": "5",
       "parent": null,
       "id": "1448574182",
       "detailed_rating": {
@@ -124971,12 +124971,16 @@
             [
                "8033564",
                1687444126
+            ],
+            [
+               "9832594",
+               1788480351
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 4,
-      "justified_votes": 4
+      "justified_rating": 5,
+      "justified_votes": 5
    },
    "1687360483": {
       "title": "SCP-6183 - 黑 條",
