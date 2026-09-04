@@ -161228,8 +161228,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "10",
-      "votes": "10",
+      "rating": "9",
+      "votes": "9",
       "parent": null,
       "id": "1469261753",
       "detailed_rating": {
@@ -161245,10 +161245,6 @@
             [
                "9628870",
                1788315932
-            ],
-            [
-               "4990678",
-               1788324593
             ],
             [
                "10528850",
@@ -161277,8 +161273,8 @@
          ]
       },
       "deleted": false,
-      "justified_rating": 10,
-      "justified_votes": 10
+      "justified_rating": 9,
+      "justified_votes": 9
    },
    "1788315781": {
       "title": "沒有被寫進報告裡的那些事",
@@ -161437,8 +161433,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "7",
-      "votes": "7",
+      "rating": "8",
+      "votes": "8",
       "parent": null,
       "id": "1469270168",
       "detailed_rating": {
@@ -161470,12 +161466,16 @@
             [
                "9628870",
                1788539777
+            ],
+            [
+               "4990678",
+               1788547607
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 7,
-      "justified_votes": 7
+      "justified_rating": 8,
+      "justified_votes": 8
    },
    "1788537609": {
       "title": "SCP-ZH-770 - 第柒肆籤：黑山闇道無明癡",
