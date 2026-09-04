@@ -160948,8 +160948,8 @@
          "_事故"
       ],
       "comments": "0",
-      "rating": "5",
-      "votes": "5",
+      "rating": "6",
+      "votes": "6",
       "parent": null,
       "id": "1469245457",
       "detailed_rating": {
@@ -160973,12 +160973,16 @@
             [
                "9628870",
                1788270231
+            ],
+            [
+               "6503482",
+               1788535377
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 5,
-      "justified_votes": 5
+      "justified_rating": 6,
+      "justified_votes": 6
    },
    "1788019200": {
       "title": "SCP-ZH-652 - 吉備氏香道遺緒",
