@@ -160613,8 +160613,8 @@
          "_事故"
       ],
       "comments": "2",
-      "rating": "7",
-      "votes": "7",
+      "rating": "8",
+      "votes": "8",
       "parent": null,
       "id": "1469241796",
       "detailed_rating": {
@@ -160646,12 +160646,16 @@
             [
                "9628870",
                1788270231
+            ],
+            [
+               "6503482",
+               1788533975
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 7,
-      "justified_votes": 7
+      "justified_rating": 8,
+      "justified_votes": 8
    },
    "1787973343": {
       "title": "快樂是世界上最██的事",
@@ -160668,8 +160672,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "11",
-      "votes": "11",
+      "rating": "12",
+      "votes": "12",
       "parent": null,
       "id": "1469242857",
       "detailed_rating": {
@@ -160717,12 +160721,16 @@
             [
                "5251681",
                1788445664
+            ],
+            [
+               "6503482",
+               1788533975
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 11,
-      "justified_votes": 11
+      "justified_rating": 12,
+      "justified_votes": 12
    },
    "1788014663": {
       "title": "SCP-ZH-380 - 苦痛聖女",
@@ -160745,8 +160753,8 @@
          "_他殺"
       ],
       "comments": "0",
-      "rating": "10",
-      "votes": "10",
+      "rating": "11",
+      "votes": "11",
       "parent": null,
       "id": "1469245105",
       "detailed_rating": {
@@ -160790,12 +160798,16 @@
             [
                "8854072",
                1788447421
+            ],
+            [
+               "6503482",
+               1788533975
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 10,
-      "justified_votes": 10
+      "justified_rating": 11,
+      "justified_votes": 11
    },
    "1788016066": {
       "title": "紫河車",
@@ -160812,8 +160824,8 @@
          "_事故"
       ],
       "comments": "0",
-      "rating": "9",
-      "votes": "9",
+      "rating": "10",
+      "votes": "10",
       "parent": null,
       "id": "1469245296",
       "detailed_rating": {
@@ -160853,12 +160865,16 @@
             [
                "5251681",
                1788447421
+            ],
+            [
+               "6503482",
+               1788533975
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 9,
-      "justified_votes": 9
+      "justified_rating": 10,
+      "justified_votes": 10
    },
    "1788017899": {
       "title": "SCP-ZH-949 - 關於那個大海怪",
@@ -161204,8 +161220,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "9",
-      "votes": "9",
+      "rating": "10",
+      "votes": "10",
       "parent": null,
       "id": "1469261753",
       "detailed_rating": {
@@ -161245,12 +161261,16 @@
             [
                "5565302",
                1788421988
+            ],
+            [
+               "10350928",
+               1788533975
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 9,
-      "justified_votes": 9
+      "justified_rating": 10,
+      "justified_votes": 10
    },
    "1788315781": {
       "title": "沒有被寫進報告裡的那些事",
