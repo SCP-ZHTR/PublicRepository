@@ -161472,5 +161472,33 @@
       "deleted": false,
       "justified_rating": 6,
       "justified_votes": 6
+   },
+   "1788537609": {
+      "title": "SCP-ZH-770 - 第柒肆籤：黑山闇道無明癡",
+      "fullname": "scp-zh-770",
+      "created_at": "1788537609",
+      "created_by": "4206567",
+      "tags": [
+         "2026中元恐怖",
+         "keter",
+         "scp",
+         "儀式性",
+         "原創",
+         "宗教",
+         "神祇",
+         "精神影響",
+         "認知危害",
+         "資訊危害"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1469274190",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
