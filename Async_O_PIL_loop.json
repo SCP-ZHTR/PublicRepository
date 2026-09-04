@@ -67306,8 +67306,8 @@
          "_cc"
       ],
       "comments": "10",
-      "rating": "25",
-      "votes": "25",
+      "rating": "26",
+      "votes": "26",
       "parent": null,
       "id": "1308458999",
       "detailed_rating": {
@@ -67411,12 +67411,16 @@
             [
                "6678442",
                1617206400
+            ],
+            [
+               "4206567",
+               1788535966
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 25,
-      "justified_votes": 25
+      "justified_rating": 26,
+      "justified_votes": 26
    },
    "1617253256": {
       "title": "SCP-ZH-00l",
