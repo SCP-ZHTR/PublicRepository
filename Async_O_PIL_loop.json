@@ -159700,8 +159700,8 @@
          "_他殺"
       ],
       "comments": "0",
-      "rating": "6",
-      "votes": "6",
+      "rating": "7",
+      "votes": "7",
       "parent": null,
       "id": "1469213182",
       "detailed_rating": {
@@ -159729,12 +159729,16 @@
             [
                "9628870",
                1788270231
+            ],
+            [
+               "6503482",
+               1788532568
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 6,
-      "justified_votes": 6
+      "justified_rating": 7,
+      "justified_votes": 7
    },
    "1787673624": {
       "title": "中元恐怖——籤化不反",
@@ -159868,8 +159872,8 @@
          "_自殺"
       ],
       "comments": "1",
-      "rating": "17",
-      "votes": "17",
+      "rating": "18",
+      "votes": "18",
       "parent": null,
       "id": "1469232398",
       "detailed_rating": {
@@ -159941,12 +159945,16 @@
             [
                "6217438",
                1788435578
+            ],
+            [
+               "6503482",
+               1788532568
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 17,
-      "justified_votes": 17
+      "justified_rating": 18,
+      "justified_votes": 18
    },
    "1787760128": {
       "title": "SCP-ZH-317 - 第零玖籤：明月當空於何時",
@@ -160034,8 +160042,8 @@
          "_自殺"
       ],
       "comments": "0",
-      "rating": "6",
-      "votes": "6",
+      "rating": "7",
+      "votes": "7",
       "parent": null,
       "id": "1469234141",
       "detailed_rating": {
@@ -160063,12 +160071,16 @@
             [
                "9628870",
                1788270231
+            ],
+            [
+               "6503482",
+               1788532568
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 6,
-      "justified_votes": 6
+      "justified_rating": 7,
+      "justified_votes": 7
    },
    "1787827417": {
       "title": "馬桶殺人事件",
@@ -160088,9 +160100,9 @@
       "hidden_tags": [
          "_他殺"
       ],
-      "comments": "2",
-      "rating": "9",
-      "votes": "9",
+      "comments": "3",
+      "rating": "10",
+      "votes": "10",
       "parent": null,
       "id": "1469235604",
       "detailed_rating": {
@@ -160130,12 +160142,16 @@
             [
                "9628870",
                1788270231
+            ],
+            [
+               "6503482",
+               1788532568
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 9,
-      "justified_votes": 9
+      "justified_rating": 10,
+      "justified_votes": 10
    },
    "1787843275": {
       "title": "SCP-ZH-291 - 婚事",
@@ -160269,8 +160285,8 @@
          "_他殺"
       ],
       "comments": "1",
-      "rating": "5",
-      "votes": "5",
+      "rating": "6",
+      "votes": "6",
       "parent": null,
       "id": "1469239392",
       "detailed_rating": {
@@ -160294,12 +160310,16 @@
             [
                "9628870",
                1788270231
+            ],
+            [
+               "6503482",
+               1788532568
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 5,
-      "justified_votes": 5
+      "justified_rating": 6,
+      "justified_votes": 6
    },
    "1787919406": {
       "title": "SCP-ZH-502 - 母親",
@@ -160319,8 +160339,8 @@
          "_事故"
       ],
       "comments": "0",
-      "rating": "8",
-      "votes": "8",
+      "rating": "9",
+      "votes": "9",
       "parent": null,
       "id": "1469240770",
       "detailed_rating": {
@@ -160356,12 +160376,16 @@
             [
                "8854072",
                1788445664
+            ],
+            [
+               "6503482",
+               1788532568
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 8,
-      "justified_votes": 8
+      "justified_rating": 9,
+      "justified_votes": 9
    },
    "1787931742": {
       "title": "SCP-ZH-378 - 艾蟻登法環",
@@ -160380,8 +160404,8 @@
          "_事故"
       ],
       "comments": "0",
-      "rating": "7",
-      "votes": "9",
+      "rating": "8",
+      "votes": "10",
       "parent": null,
       "id": "1469241532",
       "detailed_rating": {
@@ -160417,6 +160441,10 @@
             [
                "6217438",
                1788435578
+            ],
+            [
+               "6503482",
+               1788532568
             ]
          ],
          "-": [
@@ -160427,8 +160455,8 @@
          ]
       },
       "deleted": false,
-      "justified_rating": 7,
-      "justified_votes": 9
+      "justified_rating": 8,
+      "justified_votes": 10
    },
    "1787932917": {
       "title": "SCP-ZH-472 - 第拾捌籤：無名墳上馬照跑 亂葬崗上舞照跳",
@@ -160521,8 +160549,8 @@
          "_他殺"
       ],
       "comments": "0",
-      "rating": "7",
-      "votes": "7",
+      "rating": "8",
+      "votes": "8",
       "parent": null,
       "id": "1469241694",
       "detailed_rating": {
@@ -160554,12 +160582,16 @@
             [
                "8883612",
                1788364179
+            ],
+            [
+               "6503482",
+               1788532568
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 7,
-      "justified_votes": 7
+      "justified_rating": 8,
+      "justified_votes": 8
    },
    "1787940070": {
       "title": "SCP-ZH-667 - 守時先生",
