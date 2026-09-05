@@ -158861,8 +158861,8 @@
          "_自殺"
       ],
       "comments": "1",
-      "rating": "11",
-      "votes": "11",
+      "rating": "12",
+      "votes": "12",
       "parent": null,
       "id": "1469102083",
       "detailed_rating": {
@@ -158910,12 +158910,16 @@
             [
                "6503482",
                1788445664
+            ],
+            [
+               "8846720",
+               1788577852
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 11,
-      "justified_votes": 11
+      "justified_rating": 12,
+      "justified_votes": 12
    },
    "1785939829": {
       "title": "SCP-ZH-238 - 血流成河",
