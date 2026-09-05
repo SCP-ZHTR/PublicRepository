@@ -158865,8 +158865,8 @@
          "_自殺"
       ],
       "comments": "1",
-      "rating": "12",
-      "votes": "12",
+      "rating": "13",
+      "votes": "13",
       "parent": null,
       "id": "1469102083",
       "detailed_rating": {
@@ -158918,12 +158918,16 @@
             [
                "8846720",
                1788577852
+            ],
+            [
+               "6217438",
+               1788610136
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 12,
-      "justified_votes": 12
+      "justified_rating": 13,
+      "justified_votes": 13
    },
    "1785939829": {
       "title": "SCP-ZH-238 - 血流成河",
@@ -160351,8 +160355,8 @@
          "_事故"
       ],
       "comments": "0",
-      "rating": "9",
-      "votes": "9",
+      "rating": "10",
+      "votes": "10",
       "parent": null,
       "id": "1469240770",
       "detailed_rating": {
@@ -160392,12 +160396,16 @@
             [
                "6503482",
                1788532568
+            ],
+            [
+               "6217438",
+               1788610136
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 9,
-      "justified_votes": 9
+      "justified_rating": 10,
+      "justified_votes": 10
    },
    "1787931742": {
       "title": "SCP-ZH-378 - 艾蟻登法環",
