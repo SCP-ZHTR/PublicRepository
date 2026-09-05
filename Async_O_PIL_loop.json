@@ -161460,8 +161460,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "9",
-      "votes": "9",
+      "rating": "10",
+      "votes": "10",
       "parent": null,
       "id": "1469261753",
       "detailed_rating": {
@@ -161501,12 +161501,16 @@
             [
                "10350928",
                1788533975
+            ],
+            [
+               "8543386",
+               1788618772
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 9,
-      "justified_votes": 9
+      "justified_rating": 10,
+      "justified_votes": 10
    },
    "1788315781": {
       "title": "沒有被寫進報告裡的那些事",
