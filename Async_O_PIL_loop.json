@@ -158784,8 +158784,8 @@
          "_他殺"
       ],
       "comments": "0",
-      "rating": "9",
-      "votes": "11",
+      "rating": "10",
+      "votes": "12",
       "parent": null,
       "id": "1469092591",
       "detailed_rating": {
@@ -158829,6 +158829,10 @@
             [
                "6503482",
                1788445664
+            ],
+            [
+               "7605593",
+               1788611853
             ]
          ],
          "-": [
@@ -158839,8 +158843,8 @@
          ]
       },
       "deleted": false,
-      "justified_rating": 9,
-      "justified_votes": 11
+      "justified_rating": 10,
+      "justified_votes": 12
    },
    "1785934972": {
       "title": "SCP-ZH-942 - 自殺防治專線",
@@ -159148,8 +159152,8 @@
          "_事故"
       ],
       "comments": "0",
-      "rating": "8",
-      "votes": "8",
+      "rating": "9",
+      "votes": "9",
       "parent": null,
       "id": "1469125329",
       "detailed_rating": {
@@ -159185,12 +159189,16 @@
             [
                "6503482",
                1788531750
+            ],
+            [
+               "7605593",
+               1788611853
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 8,
-      "justified_votes": 8
+      "justified_rating": 9,
+      "justified_votes": 9
    },
    "1786510213": {
       "title": "蘋果口味的黑松汽水搖果凍比柳橙口味的好喝",
@@ -159517,8 +159525,8 @@
          "_事故"
       ],
       "comments": "1",
-      "rating": "4",
-      "votes": "6",
+      "rating": "5",
+      "votes": "7",
       "parent": null,
       "id": "1469209343",
       "detailed_rating": {
@@ -159542,6 +159550,10 @@
             [
                "9628870",
                1788270231
+            ],
+            [
+               "7605593",
+               1788611853
             ]
          ],
          "-": [
@@ -159552,8 +159564,8 @@
          ]
       },
       "deleted": false,
-      "justified_rating": 4,
-      "justified_votes": 6
+      "justified_rating": 5,
+      "justified_votes": 7
    },
    "1787316260": {
       "title": "SCP-ZH-376 - 小姐，你看起來有點不舒服",
@@ -159716,8 +159728,8 @@
          "_他殺"
       ],
       "comments": "0",
-      "rating": "7",
-      "votes": "7",
+      "rating": "8",
+      "votes": "8",
       "parent": null,
       "id": "1469213182",
       "detailed_rating": {
@@ -159749,12 +159761,16 @@
             [
                "6503482",
                1788532568
+            ],
+            [
+               "7605593",
+               1788611853
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 7,
-      "justified_votes": 7
+      "justified_rating": 8,
+      "justified_votes": 8
    },
    "1787673624": {
       "title": "中元恐怖——籤化不反",
@@ -160058,8 +160074,8 @@
          "_自殺"
       ],
       "comments": "0",
-      "rating": "7",
-      "votes": "7",
+      "rating": "8",
+      "votes": "8",
       "parent": null,
       "id": "1469234141",
       "detailed_rating": {
@@ -160091,12 +160107,16 @@
             [
                "6503482",
                1788532568
+            ],
+            [
+               "7605593",
+               1788611853
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 7,
-      "justified_votes": 7
+      "justified_rating": 8,
+      "justified_votes": 8
    },
    "1787827417": {
       "title": "馬桶殺人事件",
@@ -160301,8 +160321,8 @@
          "_他殺"
       ],
       "comments": "1",
-      "rating": "6",
-      "votes": "6",
+      "rating": "7",
+      "votes": "7",
       "parent": null,
       "id": "1469239392",
       "detailed_rating": {
@@ -160330,12 +160350,16 @@
             [
                "6503482",
                1788532568
+            ],
+            [
+               "7605593",
+               1788611853
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 6,
-      "justified_votes": 6
+      "justified_rating": 7,
+      "justified_votes": 7
    },
    "1787919406": {
       "title": "SCP-ZH-502 - 母親",
@@ -160573,8 +160597,8 @@
          "_他殺"
       ],
       "comments": "0",
-      "rating": "8",
-      "votes": "8",
+      "rating": "10",
+      "votes": "10",
       "parent": null,
       "id": "1469241694",
       "detailed_rating": {
@@ -160610,12 +160634,20 @@
             [
                "6503482",
                1788532568
+            ],
+            [
+               "7605593",
+               1788611853
+            ],
+            [
+               "10350928",
+               1788611853
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 8,
-      "justified_votes": 8
+      "justified_rating": 10,
+      "justified_votes": 10
    },
    "1787940070": {
       "title": "SCP-ZH-667 - 守時先生",
@@ -160927,8 +160959,8 @@
          "_他殺"
       ],
       "comments": "0",
-      "rating": "4",
-      "votes": "4",
+      "rating": "5",
+      "votes": "5",
       "parent": null,
       "id": "1469245384",
       "detailed_rating": {
@@ -160948,12 +160980,16 @@
             [
                "5565302",
                1788272776
+            ],
+            [
+               "7605593",
+               1788611853
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 4,
-      "justified_votes": 4
+      "justified_rating": 5,
+      "justified_votes": 5
    },
    "1788019187": {
       "title": "SCP-ZH-896 - 敏感的畫",
