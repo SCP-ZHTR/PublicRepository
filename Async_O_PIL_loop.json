@@ -158873,8 +158873,8 @@
          "_自殺"
       ],
       "comments": "1",
-      "rating": "14",
-      "votes": "14",
+      "rating": "15",
+      "votes": "15",
       "parent": null,
       "id": "1469102083",
       "detailed_rating": {
@@ -158964,8 +158964,8 @@
          "_他殺"
       ],
       "comments": "0",
-      "rating": "15",
-      "votes": "15",
+      "rating": "16",
+      "votes": "16",
       "parent": null,
       "id": "1469102400",
       "detailed_rating": {
@@ -159058,8 +159058,8 @@
          "_事故"
       ],
       "comments": "0",
-      "rating": "22",
-      "votes": "22",
+      "rating": "23",
+      "votes": "23",
       "parent": null,
       "id": "1469103268",
       "detailed_rating": {
@@ -159180,8 +159180,8 @@
          "_事故"
       ],
       "comments": "0",
-      "rating": "9",
-      "votes": "9",
+      "rating": "10",
+      "votes": "10",
       "parent": null,
       "id": "1469125329",
       "detailed_rating": {
@@ -159221,12 +159221,16 @@
             [
                "7605593",
                1788611853
+            ],
+            [
+               "5062193",
+               1788614610
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 9,
-      "justified_votes": 9
+      "justified_rating": 10,
+      "justified_votes": 10
    },
    "1786510213": {
       "title": "蘋果口味的黑松汽水搖果凍比柳橙口味的好喝",
