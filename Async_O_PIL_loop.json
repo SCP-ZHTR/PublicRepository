@@ -160416,8 +160416,8 @@
          "_事故"
       ],
       "comments": "0",
-      "rating": "8",
-      "votes": "10",
+      "rating": "9",
+      "votes": "11",
       "parent": null,
       "id": "1469241532",
       "detailed_rating": {
@@ -160457,6 +160457,10 @@
             [
                "6503482",
                1788532568
+            ],
+            [
+               "7655555",
+               1788608398
             ]
          ],
          "-": [
@@ -160467,8 +160471,8 @@
          ]
       },
       "deleted": false,
-      "justified_rating": 8,
-      "justified_votes": 10
+      "justified_rating": 9,
+      "justified_votes": 11
    },
    "1787932917": {
       "title": "SCP-ZH-472 - 第拾捌籤：無名墳上馬照跑 亂葬崗上舞照跳",
@@ -160625,8 +160629,8 @@
          "_事故"
       ],
       "comments": "2",
-      "rating": "8",
-      "votes": "8",
+      "rating": "9",
+      "votes": "9",
       "parent": null,
       "id": "1469241796",
       "detailed_rating": {
@@ -160662,12 +160666,16 @@
             [
                "6503482",
                1788533975
+            ],
+            [
+               "7655555",
+               1788608398
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 8,
-      "justified_votes": 8
+      "justified_rating": 9,
+      "justified_votes": 9
    },
    "1787973343": {
       "title": "快樂是世界上最██的事",
@@ -160836,8 +160844,8 @@
          "_事故"
       ],
       "comments": "0",
-      "rating": "10",
-      "votes": "10",
+      "rating": "11",
+      "votes": "11",
       "parent": null,
       "id": "1469245296",
       "detailed_rating": {
@@ -160881,12 +160889,16 @@
             [
                "6503482",
                1788533975
+            ],
+            [
+               "10350928",
+               1788608398
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 10,
-      "justified_votes": 10
+      "justified_rating": 11,
+      "justified_votes": 11
    },
    "1788017899": {
       "title": "SCP-ZH-949 - 關於那個大海怪",
