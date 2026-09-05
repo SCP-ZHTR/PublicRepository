@@ -102746,8 +102746,8 @@
          "_image"
       ],
       "comments": "0",
-      "rating": "11",
-      "votes": "11",
+      "rating": "12",
+      "votes": "12",
       "parent": null,
       "id": "1420882420",
       "detailed_rating": {
@@ -102795,12 +102795,16 @@
             [
                "9763414",
                1776725038
+            ],
+            [
+               "10502748",
+               1788633389
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 10,
-      "justified_votes": 10
+      "justified_rating": 11,
+      "justified_votes": 11
    },
    "1661168498": {
       "title": "SCP-4231 - 蒙托克之屋",
