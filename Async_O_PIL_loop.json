@@ -161677,8 +161677,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "11",
-      "votes": "11",
+      "rating": "12",
+      "votes": "12",
       "parent": null,
       "id": "1469270168",
       "detailed_rating": {
@@ -161726,12 +161726,16 @@
             [
                "6709715",
                1788687709
+            ],
+            [
+               "7655555",
+               1788730210
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 11,
-      "justified_votes": 11
+      "justified_rating": 12,
+      "justified_votes": 12
    },
    "1788537609": {
       "title": "SCP-ZH-770 - 第柒肆籤：黑山闇道無明癡",
