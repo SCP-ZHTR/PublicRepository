@@ -161790,8 +161790,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "2",
-      "votes": "2",
+      "rating": "3",
+      "votes": "3",
       "parent": null,
       "id": "1469278734",
       "detailed_rating": {
@@ -161803,12 +161803,16 @@
             [
                "6217438",
                1788626028
+            ],
+            [
+               "8177208",
+               1788677979
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 2,
-      "justified_votes": 2
+      "justified_rating": 3,
+      "justified_votes": 3
    },
    "1788627653": {
       "title": "安靜的依存",
