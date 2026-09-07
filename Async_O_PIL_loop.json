@@ -160085,8 +160085,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "9",
-      "votes": "9",
+      "rating": "10",
+      "votes": "10",
       "parent": null,
       "id": "1469232665",
       "detailed_rating": {
@@ -160126,12 +160126,16 @@
             [
                "9628870",
                1788270231
+            ],
+            [
+               "5251681",
+               1788800827
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 9,
-      "justified_votes": 9
+      "justified_rating": 10,
+      "justified_votes": 10
    },
    "1787805282": {
       "title": "SCP-ZH-704 - 懸而未解",
@@ -161631,8 +161635,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "5",
-      "votes": "5",
+      "rating": "6",
+      "votes": "6",
       "parent": null,
       "id": "1469265579",
       "detailed_rating": {
@@ -161656,12 +161660,16 @@
             [
                "5334590",
                1788765842
+            ],
+            [
+               "5251681",
+               1788800827
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 5,
-      "justified_votes": 5
+      "justified_rating": 6,
+      "justified_votes": 6
    },
    "1788451223": {
       "title": "SCP-ZH-745 - 第陸參籤：渡黑水記",
@@ -161766,8 +161774,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "5",
-      "votes": "5",
+      "rating": "6",
+      "votes": "6",
       "parent": null,
       "id": "1469274190",
       "detailed_rating": {
@@ -161791,12 +161799,16 @@
             [
                "5402841",
                1788580480
+            ],
+            [
+               "5251681",
+               1788800827
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 5,
-      "justified_votes": 5
+      "justified_rating": 6,
+      "justified_votes": 6
    },
    "1788624112": {
       "title": "SCP-ZH-830 - 第捌壹籤：無需特別紀錄",
