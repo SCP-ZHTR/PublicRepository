@@ -34475,7 +34475,9 @@
       "fullname": "fragment:scp-zh-908-offset-1",
       "created_at": "1788748554",
       "created_by": "5956873",
-      "tags": [],
+      "tags": [
+         "段落"
+      ],
       "hidden_tags": [],
       "comments": "0",
       "rating": "0",
@@ -34492,7 +34494,9 @@
       "fullname": "fragment:scp-zh-908-offset-2",
       "created_at": "1788749495",
       "created_by": "5956873",
-      "tags": [],
+      "tags": [
+         "段落"
+      ],
       "hidden_tags": [],
       "comments": "0",
       "rating": "0",
