@@ -161874,5 +161874,35 @@
       "deleted": false,
       "justified_rating": 3,
       "justified_votes": 3
+   },
+   "1788747858": {
+      "title": "SCP-ZH-908 - 第捌捌籤：見尌不見",
+      "fullname": "scp-zh-908",
+      "created_at": "1788747858",
+      "created_by": "5956873",
+      "tags": [
+         "2026中元恐怖",
+         "safe",
+         "scp",
+         "原創",
+         "屍體",
+         "工具",
+         "智能",
+         "植物",
+         "樹木",
+         "生物性",
+         "知識",
+         "視覺影響"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1469284030",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
