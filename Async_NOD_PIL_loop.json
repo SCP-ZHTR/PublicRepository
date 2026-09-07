@@ -34471,7 +34471,7 @@
       "justified_votes": 0
    },
    "1788748554": {
-      "title": "SCP-ZH-908 - 第捌捌籤：見尌不見",
+      "title": "SCP-ZH-908",
       "fullname": "fragment:scp-zh-908-offset-1",
       "created_at": "1788748554",
       "created_by": "5956873",
@@ -34482,6 +34482,23 @@
       "votes": "0",
       "parent": "scp-zh-908",
       "id": "1469284116",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
+   },
+   "1788749495": {
+      "title": "fragment:scp-zh-908-offset-2",
+      "fullname": "fragment:scp-zh-908-offset-2",
+      "created_at": "1788749495",
+      "created_by": "5956873",
+      "tags": [],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": "scp-zh-908",
+      "id": "1469284128",
       "detailed_rating": {},
       "deleted": false,
       "justified_rating": 0,
