@@ -156946,5 +156946,40 @@
       "deleted": false,
       "justified_rating": 2,
       "justified_votes": 2
+   },
+   "1788773713": {
+      "title": "SCP-6579 - 偵探殺手",
+      "fullname": "scp-6579",
+      "created_at": "1788773713",
+      "created_by": "6381244",
+      "tags": [
+         "archon",
+         "en",
+         "scp",
+         "self-keeping-secret",
+         "屍體",
+         "已廢除",
+         "未收容",
+         "武器",
+         "翻譯",
+         "聲音",
+         "視覺影響",
+         "觀察影響",
+         "認知危害",
+         "資訊危害",
+         "逆模因"
+      ],
+      "hidden_tags": [
+         "_licensebox"
+      ],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1469285187",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
