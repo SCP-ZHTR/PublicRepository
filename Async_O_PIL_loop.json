@@ -161808,8 +161808,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "3",
-      "votes": "3",
+      "rating": "4",
+      "votes": "4",
       "parent": null,
       "id": "1469278734",
       "detailed_rating": {
@@ -161825,12 +161825,16 @@
             [
                "8177208",
                1788677979
+            ],
+            [
+               "8418020",
+               1788744570
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 3,
-      "justified_votes": 3
+      "justified_rating": 4,
+      "justified_votes": 4
    },
    "1788627653": {
       "title": "安靜的依存",
@@ -161843,8 +161847,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "2",
-      "votes": "2",
+      "rating": "3",
+      "votes": "3",
       "parent": null,
       "id": "1469278875",
       "detailed_rating": {
@@ -161856,11 +161860,15 @@
             [
                "8177208",
                1788683137
+            ],
+            [
+               "8418020",
+               1788744570
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 2,
-      "justified_votes": 2
+      "justified_rating": 3,
+      "justified_votes": 3
    }
 }
