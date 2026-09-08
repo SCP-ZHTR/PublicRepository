@@ -161969,8 +161969,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "3",
-      "votes": "3",
+      "rating": "4",
+      "votes": "4",
       "parent": null,
       "id": "1469288380",
       "detailed_rating": {
@@ -161986,11 +161986,50 @@
             [
                "8177208",
                1788878873
+            ],
+            [
+               "7840542",
+               1788884396
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 3,
-      "justified_votes": 3
+      "justified_rating": 4,
+      "justified_votes": 4
+   },
+   "1788883269": {
+      "title": "SCP-ZH-937 - 丙子籤：鬼島",
+      "fullname": "scp-zh-937",
+      "created_at": "1788883269",
+      "created_by": "5435485",
+      "tags": [
+         "2026中元恐怖",
+         "scp",
+         "人形",
+         "原創",
+         "型態變化",
+         "基金會製造",
+         "強迫性",
+         "念力",
+         "敵意",
+         "智能",
+         "未收容",
+         "現實扭曲",
+         "現象",
+         "神經性",
+         "精神影響",
+         "視覺影響",
+         "鬼魂"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1469289896",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
