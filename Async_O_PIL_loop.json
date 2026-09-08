@@ -161969,8 +161969,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "2",
-      "votes": "2",
+      "rating": "3",
+      "votes": "3",
       "parent": null,
       "id": "1469288380",
       "detailed_rating": {
@@ -161982,11 +161982,15 @@
             [
                "8854072",
                1788877600
+            ],
+            [
+               "8177208",
+               1788878873
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 2,
-      "justified_votes": 2
+      "justified_rating": 3,
+      "justified_votes": 3
    }
 }
