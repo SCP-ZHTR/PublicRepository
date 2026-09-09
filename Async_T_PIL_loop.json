@@ -71885,8 +71885,8 @@
          "_cc"
       ],
       "comments": "2",
-      "rating": "9",
-      "votes": "9",
+      "rating": "10",
+      "votes": "10",
       "parent": null,
       "id": "1312238017",
       "detailed_rating": {
@@ -71926,12 +71926,16 @@
             [
                "DELETED",
                1767634791
+            ],
+            [
+               "7840542",
+               1788981809
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 8,
-      "justified_votes": 8
+      "justified_rating": 9,
+      "justified_votes": 9
    },
    "1624790867": {
       "title": "SCP-047 - 微生物誘變劑",
@@ -123749,8 +123753,8 @@
          "_licensebox"
       ],
       "comments": "0",
-      "rating": "4",
-      "votes": "4",
+      "rating": "5",
+      "votes": "5",
       "parent": null,
       "id": "1447926085",
       "detailed_rating": {
@@ -123770,12 +123774,16 @@
             [
                "9311399",
                1724243596
+            ],
+            [
+               "7840542",
+               1788981809
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 4,
-      "justified_votes": 4
+      "justified_rating": 5,
+      "justified_votes": 5
    },
    "1685363574": {
       "title": "SCP-4955 - 只能透過煤氣燈看見的刀",
