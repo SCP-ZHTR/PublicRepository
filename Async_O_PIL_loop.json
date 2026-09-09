@@ -161359,8 +161359,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "7",
-      "votes": "7",
+      "rating": "8",
+      "votes": "8",
       "parent": null,
       "id": "1469255884",
       "detailed_rating": {
@@ -161392,12 +161392,16 @@
             [
                "5325850",
                1788488819
+            ],
+            [
+               "10165543",
+               1788973079
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 7,
-      "justified_votes": 7
+      "justified_rating": 8,
+      "justified_votes": 8
    },
    "1788193528": {
       "title": "SCP-ZH-619 - 第參捌籤：現實時間快速通關",
@@ -161702,8 +161706,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "12",
-      "votes": "12",
+      "rating": "13",
+      "votes": "13",
       "parent": null,
       "id": "1469270168",
       "detailed_rating": {
@@ -161755,12 +161759,16 @@
             [
                "7655555",
                1788730210
+            ],
+            [
+               "7064164",
+               1788973079
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 12,
-      "justified_votes": 12
+      "justified_rating": 13,
+      "justified_votes": 13
    },
    "1788537609": {
       "title": "SCP-ZH-770 - 第柒肆籤：黑山闇道無明癡",
@@ -161781,8 +161789,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "6",
-      "votes": "6",
+      "rating": "7",
+      "votes": "7",
       "parent": null,
       "id": "1469274190",
       "detailed_rating": {
@@ -161810,12 +161818,16 @@
             [
                "5251681",
                1788800827
+            ],
+            [
+               "7064164",
+               1788973079
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 6,
-      "justified_votes": 6
+      "justified_rating": 7,
+      "justified_votes": 7
    },
    "1788624112": {
       "title": "SCP-ZH-830 - 第捌壹籤：無需特別紀錄",
@@ -161837,8 +161849,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "7",
-      "votes": "7",
+      "rating": "8",
+      "votes": "8",
       "parent": null,
       "id": "1469278734",
       "detailed_rating": {
@@ -161870,12 +161882,16 @@
             [
                "5334590",
                1788763061
+            ],
+            [
+               "7064164",
+               1788973079
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 7,
-      "justified_votes": 7
+      "justified_rating": 8,
+      "justified_votes": 8
    },
    "1788627653": {
       "title": "安靜的依存",
