@@ -161953,8 +161953,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "3",
-      "votes": "3",
+      "rating": "4",
+      "votes": "4",
       "parent": null,
       "id": "1469284030",
       "detailed_rating": {
@@ -161970,12 +161970,16 @@
             [
                "7064164",
                1788971005
+            ],
+            [
+               "9501997",
+               1788974121
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 3,
-      "justified_votes": 3
+      "justified_rating": 4,
+      "justified_votes": 4
    },
    "1788854403": {
       "title": "SCP-ZH-932 - 第壹佰籤：欲就東兮欲就西",
