@@ -161969,8 +161969,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "4",
-      "votes": "4",
+      "rating": "5",
+      "votes": "5",
       "parent": null,
       "id": "1469288380",
       "detailed_rating": {
@@ -161990,12 +161990,16 @@
             [
                "7840542",
                1788884396
+            ],
+            [
+               "7064164",
+               1788969623
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 4,
-      "justified_votes": 4
+      "justified_rating": 5,
+      "justified_votes": 5
    },
    "1788883269": {
       "title": "SCP-ZH-937 - 丙子籤：鬼島",
@@ -162023,8 +162027,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "9",
-      "votes": "9",
+      "rating": "10",
+      "votes": "10",
       "parent": null,
       "id": "1469289896",
       "detailed_rating": {
@@ -162064,11 +162068,15 @@
             [
                "7840542",
                1788964087
+            ],
+            [
+               "7064164",
+               1788969623
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 9,
-      "justified_votes": 9
+      "justified_rating": 10,
+      "justified_votes": 10
    }
 }
