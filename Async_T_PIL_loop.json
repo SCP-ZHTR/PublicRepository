@@ -154158,8 +154158,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "2",
-      "votes": "2",
+      "rating": "3",
+      "votes": "3",
       "parent": null,
       "id": "1467946089",
       "detailed_rating": {
@@ -154171,12 +154171,16 @@
             [
                "6088232",
                1767145619
+            ],
+            [
+               "3995762",
+               1789030730
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 2,
-      "justified_votes": 2
+      "justified_rating": 3,
+      "justified_votes": 3
    },
    "1767136145": {
       "title": "背痛手痛的聖誕老人送出的禮物",
