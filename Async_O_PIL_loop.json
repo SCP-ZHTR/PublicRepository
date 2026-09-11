@@ -161817,8 +161817,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "7",
-      "votes": "7",
+      "rating": "8",
+      "votes": "8",
       "parent": null,
       "id": "1469274190",
       "detailed_rating": {
@@ -161850,12 +161850,16 @@
             [
                "7064164",
                1788973079
+            ],
+            [
+               "6217438",
+               1789133181
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 7,
-      "justified_votes": 7
+      "justified_rating": 8,
+      "justified_votes": 8
    },
    "1788624112": {
       "title": "SCP-ZH-830 - 第捌壹籤：無需特別紀錄",
