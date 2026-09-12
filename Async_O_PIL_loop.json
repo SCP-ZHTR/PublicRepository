@@ -162166,8 +162166,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "8",
-      "votes": "8",
+      "rating": "9",
+      "votes": "9",
       "parent": null,
       "id": "1469294441",
       "detailed_rating": {
@@ -162203,15 +162203,19 @@
             [
                "7840542",
                1789141016
+            ],
+            [
+               "6152598",
+               1789178887
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 8,
-      "justified_votes": 8
+      "justified_rating": 9,
+      "justified_votes": 9
    },
    "1789142783": {
-      "title": "Années-de-pèlerinage",
+      "title": "巡禮之年",
       "fullname": "annees-de-pelerinage",
       "created_at": "1789142783",
       "created_by": "8543386",
