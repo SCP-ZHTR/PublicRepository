@@ -157326,8 +157326,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "15",
-      "votes": "17",
+      "rating": "16",
+      "votes": "18",
       "parent": null,
       "id": "1468580512",
       "detailed_rating": {
@@ -157395,6 +157395,10 @@
             [
                "7277638",
                1788447421
+            ],
+            [
+               "10511937",
+               1789206257
             ]
          ],
          "-": [
@@ -157405,8 +157409,8 @@
          ]
       },
       "deleted": false,
-      "justified_rating": 14,
-      "justified_votes": 16
+      "justified_rating": 15,
+      "justified_votes": 17
    },
    "1777305651": {
       "title": "共有良夜",
