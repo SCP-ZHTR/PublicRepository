@@ -135326,8 +135326,8 @@
          "_cc"
       ],
       "comments": "0",
-      "rating": "1",
-      "votes": "1",
+      "rating": "2",
+      "votes": "2",
       "parent": null,
       "id": "1451930377",
       "detailed_rating": {
@@ -135335,12 +135335,16 @@
             [
                "6981058",
                1703514234
+            ],
+            [
+               "6217438",
+               1789221504
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 1,
-      "justified_votes": 1
+      "justified_rating": 2,
+      "justified_votes": 2
    },
    "1703280738": {
       "title": "SCP-5492解密",
