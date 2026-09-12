@@ -22062,5 +22062,22 @@
       "deleted": true,
       "justified_rating": 0,
       "justified_votes": 0
+   },
+   "1789192447": {
+      "title": "關注組織實戰心得",
+      "fullname": "the-big-goi-essay",
+      "created_at": "1789192447",
+      "created_by": "7504530",
+      "tags": [],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1469304352",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
