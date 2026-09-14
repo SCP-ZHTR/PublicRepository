@@ -157064,8 +157064,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "1",
-      "votes": "1",
+      "rating": "2",
+      "votes": "2",
       "parent": null,
       "id": "1469317761",
       "detailed_rating": {
@@ -157073,12 +157073,16 @@
             [
                "8883612",
                1789404670
+            ],
+            [
+               "9075244",
+               1789409712
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 1,
-      "justified_votes": 1
+      "justified_rating": 2,
+      "justified_votes": 2
    },
    "1789404603": {
       "title": "SCP國際站對於當前進行之SCP電影企劃的共同聲明",
@@ -157092,13 +157096,20 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "0",
-      "votes": "0",
+      "rating": "1",
+      "votes": "1",
       "parent": null,
       "id": "1469317948",
-      "detailed_rating": {},
+      "detailed_rating": {
+         "+": [
+            [
+               "8883612",
+               1789409712
+            ]
+         ]
+      },
       "deleted": false,
-      "justified_rating": 0,
-      "justified_votes": 0
+      "justified_rating": 1,
+      "justified_votes": 1
    }
 }
