@@ -160659,8 +160659,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "12",
-      "votes": "12",
+      "rating": "13",
+      "votes": "13",
       "parent": null,
       "id": "1469241598",
       "detailed_rating": {
@@ -160712,12 +160712,16 @@
             [
                "8418020",
                1789011452
+            ],
+            [
+               "4206567",
+               1789395782
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 12,
-      "justified_votes": 12
+      "justified_rating": 13,
+      "justified_votes": 13
    },
    "1787936021": {
       "title": "SCP-ZH-967 - 脆友",
