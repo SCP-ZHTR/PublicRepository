@@ -157051,5 +157051,26 @@
       "deleted": false,
       "justified_rating": 0,
       "justified_votes": 0
+   },
+   "1789402743": {
+      "title": "有關V/H/S SCP基金會電影之聲明",
+      "fullname": "statement-on-vhs-film",
+      "created_at": "1789402743",
+      "created_by": "3981670",
+      "tags": [
+         "en",
+         "管理",
+         "翻譯"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1469317761",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
