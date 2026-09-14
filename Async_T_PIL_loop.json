@@ -157064,10 +157064,38 @@
       ],
       "hidden_tags": [],
       "comments": "0",
+      "rating": "1",
+      "votes": "1",
+      "parent": null,
+      "id": "1469317761",
+      "detailed_rating": {
+         "+": [
+            [
+               "8883612",
+               1789404670
+            ]
+         ]
+      },
+      "deleted": false,
+      "justified_rating": 1,
+      "justified_votes": 1
+   },
+   "1789404603": {
+      "title": "SCP國際站對於當前進行之SCP電影企劃的共同聲明",
+      "fullname": "joint-statement-on-vhs-film",
+      "created_at": "1789404603",
+      "created_by": "3981670",
+      "tags": [
+         "int",
+         "管理",
+         "翻譯"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
       "rating": "0",
       "votes": "0",
       "parent": null,
-      "id": "1469317761",
+      "id": "1469317948",
       "detailed_rating": {},
       "deleted": false,
       "justified_rating": 0,
