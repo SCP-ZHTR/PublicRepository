@@ -34527,13 +34527,28 @@
          "_cc"
       ],
       "comments": "0",
-      "rating": "0",
-      "votes": "0",
+      "rating": "3",
+      "votes": "3",
       "parent": null,
       "id": "1312103180",
-      "detailed_rating": {},
+      "detailed_rating": {
+         "+": [
+            [
+               "8064046",
+               1789477664
+            ],
+            [
+               "6217438",
+               1789477664
+            ],
+            [
+               "8033564",
+               1789477664
+            ]
+         ]
+      },
       "deleted": false,
-      "justified_rating": 0,
-      "justified_votes": 0
+      "justified_rating": 3,
+      "justified_votes": 3
    }
 }
