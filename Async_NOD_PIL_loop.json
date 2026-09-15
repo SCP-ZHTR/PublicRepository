@@ -28210,7 +28210,7 @@
       "parent": null,
       "id": "1457011982",
       "detailed_rating": {},
-      "deleted": false,
+      "deleted": true,
       "justified_rating": 0,
       "justified_votes": 0
    },
@@ -29485,7 +29485,7 @@
       "parent": null,
       "id": "1458177717",
       "detailed_rating": {},
-      "deleted": false,
+      "deleted": true,
       "justified_rating": 0,
       "justified_votes": 0
    },
@@ -30801,7 +30801,7 @@
       "parent": null,
       "id": "1458603167",
       "detailed_rating": {},
-      "deleted": false,
+      "deleted": true,
       "justified_rating": 0,
       "justified_votes": 0
    },
@@ -31932,7 +31932,7 @@
       "parent": null,
       "id": "1459984257",
       "detailed_rating": {},
-      "deleted": false,
+      "deleted": true,
       "justified_rating": 0,
       "justified_votes": 0
    },
@@ -31966,7 +31966,7 @@
       "parent": null,
       "id": "1459988770",
       "detailed_rating": {},
-      "deleted": false,
+      "deleted": true,
       "justified_rating": 0,
       "justified_votes": 0
    },
@@ -31983,7 +31983,7 @@
       "parent": null,
       "id": "1460011322",
       "detailed_rating": {},
-      "deleted": false,
+      "deleted": true,
       "justified_rating": 0,
       "justified_votes": 0
    },
@@ -32914,7 +32914,7 @@
       "parent": null,
       "id": "1460111106",
       "detailed_rating": {},
-      "deleted": false,
+      "deleted": true,
       "justified_rating": 0,
       "justified_votes": 0
    },
@@ -32931,7 +32931,7 @@
       "parent": null,
       "id": "1460115341",
       "detailed_rating": {},
-      "deleted": false,
+      "deleted": true,
       "justified_rating": 0,
       "justified_votes": 0
    },
@@ -33240,7 +33240,7 @@
       "parent": null,
       "id": "1460576903",
       "detailed_rating": {},
-      "deleted": false,
+      "deleted": true,
       "justified_rating": 0,
       "justified_votes": 0
    },
@@ -33274,7 +33274,7 @@
       "parent": null,
       "id": "1460714812",
       "detailed_rating": {},
-      "deleted": false,
+      "deleted": true,
       "justified_rating": 0,
       "justified_votes": 0
    },
@@ -33291,7 +33291,7 @@
       "parent": null,
       "id": "1460760219",
       "detailed_rating": {},
-      "deleted": false,
+      "deleted": true,
       "justified_rating": 0,
       "justified_votes": 0
    },
@@ -33526,7 +33526,7 @@
       "parent": null,
       "id": "1468067170",
       "detailed_rating": {},
-      "deleted": false,
+      "deleted": true,
       "justified_rating": 0,
       "justified_votes": 0
    },
@@ -33606,7 +33606,7 @@
       "parent": null,
       "id": "1468239138",
       "detailed_rating": {},
-      "deleted": false,
+      "deleted": true,
       "justified_rating": 0,
       "justified_votes": 0
    },
@@ -34043,7 +34043,7 @@
       "parent": null,
       "id": "1468693277",
       "detailed_rating": {},
-      "deleted": false,
+      "deleted": true,
       "justified_rating": 0,
       "justified_votes": 0
    },
@@ -34507,6 +34507,30 @@
       "votes": "0",
       "parent": "scp-zh-908",
       "id": "1469284128",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
+   },
+   "1623854935": {
+      "title": "fishingenthusiast（以前是 plaguebearer） 從SCP基金會凱旋而歸（被刪除）",
+      "fullname": "deleted:fishingenthusiast-authorpage",
+      "created_at": "1623854935",
+      "created_by": "7073060",
+      "tags": [
+         "en",
+         "作者頁面",
+         "翻譯",
+         "被刪除"
+      ],
+      "hidden_tags": [
+         "_cc"
+      ],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1312103180",
       "detailed_rating": {},
       "deleted": false,
       "justified_rating": 0,
