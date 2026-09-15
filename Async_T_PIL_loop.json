@@ -133935,8 +133935,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "5",
-      "votes": "5",
+      "rating": "6",
+      "votes": "6",
       "parent": null,
       "id": "1451448998",
       "detailed_rating": {
@@ -133960,12 +133960,16 @@
             [
                "7655555",
                1707339739
+            ],
+            [
+               "7277638",
+               1789485550
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 5,
-      "justified_votes": 5
+      "justified_rating": 6,
+      "justified_votes": 6
    },
    "1700659059": {
       "title": "SCP-7212 - 天空的名字，會感到寂寞嗎？",
