@@ -157670,8 +157670,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "7",
-      "votes": "7",
+      "rating": "8",
+      "votes": "8",
       "parent": null,
       "id": "1468675327",
       "detailed_rating": {
@@ -157703,12 +157703,16 @@
             [
                "7064164",
                1780502906
+            ],
+            [
+               "8452537",
+               1789577332
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 7,
-      "justified_votes": 7
+      "justified_rating": 8,
+      "justified_votes": 8
    },
    "1779715197": {
       "title": "SCP-ZH-992 - 腐る",
