@@ -157141,5 +157141,33 @@
       "deleted": false,
       "justified_rating": 4,
       "justified_votes": 4
+   },
+   "1789569146": {
+      "title": "SCP-5895",
+      "fullname": "scp-5895",
+      "created_at": "1789569146",
+      "created_by": "4474355",
+      "tags": [
+         "en",
+         "en-急迫競賽2020",
+         "scp",
+         "人形",
+         "地質",
+         "感知影響",
+         "智能",
+         "機密分級",
+         "翻譯",
+         "音樂性"
+      ],
+      "hidden_tags": [],
+      "comments": "1",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1469332497",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
