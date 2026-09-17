@@ -157207,5 +157207,30 @@
       "deleted": false,
       "justified_rating": 0,
       "justified_votes": 0
+   },
+   "1789633058": {
+      "title": "SCP-9962 - O6議會",
+      "fullname": "scp-9962",
+      "created_at": "1789633058",
+      "created_by": "4474355",
+      "tags": [
+         "en",
+         "keter",
+         "scp",
+         "喜劇",
+         "現象",
+         "翻譯",
+         "通訊"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1469334955",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
