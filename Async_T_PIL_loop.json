@@ -146517,8 +146517,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "5",
-      "votes": "5",
+      "rating": "6",
+      "votes": "6",
       "parent": "scp-anthology-2024",
       "id": "1457290917",
       "detailed_rating": {
@@ -146542,12 +146542,16 @@
             [
                "6381244",
                1731007567
+            ],
+            [
+               "10441242",
+               1789918328
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 5,
-      "justified_votes": 5
+      "justified_rating": 6,
+      "justified_votes": 6
    },
    "1730898118": {
       "title": "重甲騎兵（倒吊人）",
