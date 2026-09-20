@@ -161410,8 +161410,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "9",
-      "votes": "9",
+      "rating": "10",
+      "votes": "10",
       "parent": null,
       "id": "1469255884",
       "detailed_rating": {
@@ -161451,12 +161451,16 @@
             [
                "7504530",
                1789092278
+            ],
+            [
+               "5565302",
+               1789876348
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 9,
-      "justified_votes": 9
+      "justified_rating": 10,
+      "justified_votes": 10
    },
    "1788193528": {
       "title": "SCP-ZH-619 - 第參捌籤：現實時間快速通關",
