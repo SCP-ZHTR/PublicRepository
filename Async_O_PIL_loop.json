@@ -161712,9 +161712,9 @@
          "認知危害"
       ],
       "hidden_tags": [],
-      "comments": "1",
-      "rating": "6",
-      "votes": "6",
+      "comments": "2",
+      "rating": "5",
+      "votes": "7",
       "parent": null,
       "id": "1469265579",
       "detailed_rating": {
@@ -161743,11 +161743,17 @@
                "5251681",
                1788800827
             ]
+         ],
+         "-": [
+            [
+               "5255954",
+               1789913826
+            ]
          ]
       },
       "deleted": false,
-      "justified_rating": 6,
-      "justified_votes": 6
+      "justified_rating": 5,
+      "justified_votes": 7
    },
    "1788451223": {
       "title": "SCP-ZH-745 - 第陸參籤：渡黑水記",
