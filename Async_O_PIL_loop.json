@@ -161360,8 +161360,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "5",
-      "votes": "5",
+      "rating": "6",
+      "votes": "6",
       "parent": "zhongyuan-2026",
       "id": "1469245495",
       "detailed_rating": {
@@ -161385,12 +161385,16 @@
             [
                "7504530",
                1788654020
+            ],
+            [
+               "6152598",
+               1789995015
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 5,
-      "justified_votes": 5
+      "justified_rating": 6,
+      "justified_votes": 6
    },
    "1788184315": {
       "title": "SCP-ZH-550 - 第貳壹籤：倉促落幕",
