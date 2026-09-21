@@ -17352,8 +17352,8 @@
          "_cc"
       ],
       "comments": "3",
-      "rating": "8",
-      "votes": "8",
+      "rating": "9",
+      "votes": "9",
       "parent": null,
       "id": "854806168",
       "detailed_rating": {
@@ -17389,12 +17389,16 @@
             [
                "3981670",
                1628179200
+            ],
+            [
+               "10502748",
+               1790007423
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 8,
-      "justified_votes": 8
+      "justified_rating": 9,
+      "justified_votes": 9
    },
    "1565452666": {
       "title": "Nx-07",
