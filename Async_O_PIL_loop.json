@@ -162314,5 +162314,28 @@
       "deleted": false,
       "justified_rating": 0,
       "justified_votes": 0
+   },
+   "1790042848": {
+      "title": "SCP-ZH-076訪問補遺",
+      "fullname": "zh-076-addendum",
+      "created_at": "1790042848",
+      "created_by": "5370805",
+      "tags": [
+         "site-zh-25",
+         "原創",
+         "故事",
+         "燦藍天穹",
+         "超形上學部"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1469376968",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
