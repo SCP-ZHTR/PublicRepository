@@ -5476,8 +5476,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "5",
-      "votes": "5",
+      "rating": "6",
+      "votes": "6",
       "parent": null,
       "id": "1260781299",
       "detailed_rating": {
@@ -5501,12 +5501,16 @@
             [
                "8319365",
                1754783541
+            ],
+            [
+               "9832594",
+               1790168536
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 5,
-      "justified_votes": 5
+      "justified_rating": 6,
+      "justified_votes": 6
    },
    "1599244752": {
       "title": "基金會周刊 第005期",
