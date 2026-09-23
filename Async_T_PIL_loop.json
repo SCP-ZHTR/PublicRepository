@@ -82961,16 +82961,12 @@
          "_licnesebox"
       ],
       "comments": "2",
-      "rating": "6",
-      "votes": "6",
+      "rating": "7",
+      "votes": "7",
       "parent": null,
       "id": "1331429671",
       "detailed_rating": {
          "+": [
-            [
-               "7469850",
-               1644336000
-            ],
             [
                "4990678",
                1642780800
@@ -82990,6 +82986,14 @@
             [
                "8064046",
                1655049600
+            ],
+            [
+               "6217438",
+               1790166781
+            ],
+            [
+               "DELETED",
+               1790166781
             ]
          ]
       },
@@ -125081,8 +125085,8 @@
          "_licensebox"
       ],
       "comments": "0",
-      "rating": "9",
-      "votes": "9",
+      "rating": "10",
+      "votes": "10",
       "parent": "admonition",
       "id": "1448574326",
       "detailed_rating": {
@@ -125122,12 +125126,16 @@
             [
                "4206567",
                1761558022
+            ],
+            [
+               "9832594",
+               1790166781
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 9,
-      "justified_votes": 9
+      "justified_rating": 10,
+      "justified_votes": 10
    },
    "1687390213": {
       "title": "靈擾",
