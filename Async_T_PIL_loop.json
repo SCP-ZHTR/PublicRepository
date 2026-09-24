@@ -139301,8 +139301,8 @@
          "_licensebox"
       ],
       "comments": "0",
-      "rating": "8",
-      "votes": "8",
+      "rating": "9",
+      "votes": "9",
       "parent": null,
       "id": "1453323218",
       "detailed_rating": {
@@ -139338,12 +139338,16 @@
             [
                "9763414",
                1776430733
+            ],
+            [
+               "9832594",
+               1790234233
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 8,
-      "justified_votes": 8
+      "justified_rating": 9,
+      "justified_votes": 9
    },
    "1667145601": {
       "title": "Site-19 維安資料 19.2022.10.31",
