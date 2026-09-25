@@ -162367,8 +162367,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "1",
-      "votes": "1",
+      "rating": "2",
+      "votes": "2",
       "parent": "scp-zh-076",
       "id": "1469376968",
       "detailed_rating": {
@@ -162376,12 +162376,16 @@
             [
                "4990678",
                1790181186
+            ],
+            [
+               "4474355",
+               1790358398
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 1,
-      "justified_votes": 1
+      "justified_rating": 2,
+      "justified_votes": 2
    },
    "1790341600": {
       "title": "SCP-ZH-672 - 格鬥女狼",
