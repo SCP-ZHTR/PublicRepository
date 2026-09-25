@@ -33180,7 +33180,7 @@
       "parent": null,
       "id": "1460445244",
       "detailed_rating": {},
-      "deleted": false,
+      "deleted": true,
       "justified_rating": 0,
       "justified_votes": 0
    },
@@ -33214,7 +33214,7 @@
       "parent": null,
       "id": "1460493328",
       "detailed_rating": {},
-      "deleted": false,
+      "deleted": true,
       "justified_rating": 0,
       "justified_votes": 0
    },
@@ -33231,7 +33231,7 @@
       "parent": null,
       "id": "1460552125",
       "detailed_rating": {},
-      "deleted": false,
+      "deleted": true,
       "justified_rating": 0,
       "justified_votes": 0
    },
@@ -33551,7 +33551,7 @@
       "parent": null,
       "id": "1468105085",
       "detailed_rating": {},
-      "deleted": false,
+      "deleted": true,
       "justified_rating": 0,
       "justified_votes": 0
    },
