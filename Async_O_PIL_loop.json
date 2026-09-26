@@ -79106,8 +79106,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "0",
-      "votes": "10",
+      "rating": "-1",
+      "votes": "11",
       "parent": null,
       "id": "1316055304",
       "detailed_rating": {
@@ -79153,12 +79153,16 @@
             [
                "DELETED",
                1736769141
+            ],
+            [
+               "4474355",
+               1790395358
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 1,
-      "justified_votes": 9
+      "justified_rating": 0,
+      "justified_votes": 10
    },
    "1629208264": {
       "title": "SCP-ZH-969 - 漫長的告別",
