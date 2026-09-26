@@ -157885,8 +157885,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "3",
-      "votes": "3",
+      "rating": "4",
+      "votes": "4",
       "parent": null,
       "id": "1468777140",
       "detailed_rating": {
@@ -157902,12 +157902,16 @@
             [
                "6503482",
                1783429396
+            ],
+            [
+               "4474355",
+               1790395191
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 3,
-      "justified_votes": 3
+      "justified_rating": 4,
+      "justified_votes": 4
    },
    "1780325829": {
       "title": "SCP-ZH-671 - 暈血鬼",
@@ -158272,8 +158276,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "4",
-      "votes": "6",
+      "rating": "5",
+      "votes": "7",
       "parent": null,
       "id": "1468919973",
       "detailed_rating": {
@@ -158297,6 +158301,10 @@
             [
                "8854072",
                1783445135
+            ],
+            [
+               "4474355",
+               1790395191
             ]
          ],
          "-": [
@@ -158307,8 +158315,8 @@
          ]
       },
       "deleted": false,
-      "justified_rating": 4,
-      "justified_votes": 6
+      "justified_rating": 5,
+      "justified_votes": 7
    },
    "1782746355": {
       "title": "推理、驗證，以及作為可變項的人性",
@@ -161334,8 +161342,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "3",
-      "votes": "3",
+      "rating": "4",
+      "votes": "4",
       "parent": null,
       "id": "1469245458",
       "detailed_rating": {
@@ -161351,12 +161359,16 @@
             [
                "4206567",
                1788115544
+            ],
+            [
+               "4474355",
+               1790395191
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 3,
-      "justified_votes": 3
+      "justified_rating": 4,
+      "justified_votes": 4
    },
    "1788019220": {
       "title": "SCP-ZH-519 - 第拾玖籤：獨守太玄問營謀 只云不儘可施為",
@@ -161647,8 +161659,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "2",
-      "votes": "2",
+      "rating": "3",
+      "votes": "3",
       "parent": null,
       "id": "1469262072",
       "detailed_rating": {
@@ -161660,12 +161672,16 @@
             [
                "8846720",
                1788354245
+            ],
+            [
+               "4474355",
+               1790395191
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 2,
-      "justified_votes": 2
+      "justified_rating": 3,
+      "justified_votes": 3
    },
    "1788357669": {
       "title": "戀與Site-ZH-44",
@@ -162080,8 +162096,8 @@
          "_禁黑"
       ],
       "comments": "1",
-      "rating": "5",
-      "votes": "5",
+      "rating": "6",
+      "votes": "6",
       "parent": null,
       "id": "1469284030",
       "detailed_rating": {
@@ -162105,12 +162121,16 @@
             [
                "5565302",
                1790326348
+            ],
+            [
+               "4474355",
+               1790395191
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 5,
-      "justified_votes": 5
+      "justified_rating": 6,
+      "justified_votes": 6
    },
    "1788854403": {
       "title": "SCP-ZH-932 - 第壹佰籤：欲就東兮欲就西",
@@ -162124,8 +162144,8 @@
       ],
       "hidden_tags": [],
       "comments": "2",
-      "rating": "8",
-      "votes": "8",
+      "rating": "9",
+      "votes": "9",
       "parent": null,
       "id": "1469288380",
       "detailed_rating": {
@@ -162161,12 +162181,16 @@
             [
                "5565302",
                1790326891
+            ],
+            [
+               "4474355",
+               1790395191
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 8,
-      "justified_votes": 8
+      "justified_rating": 9,
+      "justified_votes": 9
    },
    "1788883269": {
       "title": "SCP-ZH-937 - 丙子籤：鬼島",
@@ -162194,8 +162218,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "12",
-      "votes": "12",
+      "rating": "13",
+      "votes": "13",
       "parent": null,
       "id": "1469289896",
       "detailed_rating": {
@@ -162247,12 +162271,16 @@
             [
                "8452537",
                1790162452
+            ],
+            [
+               "4474355",
+               1790395191
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 12,
-      "justified_votes": 12
+      "justified_rating": 13,
+      "justified_votes": 13
    },
    "1788990321": {
       "title": "SCP-ZH-965-D - 丁巳籤：離家堂",
@@ -162273,8 +162301,8 @@
       ],
       "hidden_tags": [],
       "comments": "4",
-      "rating": "11",
-      "votes": "11",
+      "rating": "12",
+      "votes": "12",
       "parent": null,
       "id": "1469294441",
       "detailed_rating": {
@@ -162322,12 +162350,16 @@
             [
                "5565302",
                1790337424
+            ],
+            [
+               "4474355",
+               1790395191
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 11,
-      "justified_votes": 11
+      "justified_rating": 12,
+      "justified_votes": 12
    },
    "1789142783": {
       "title": "巡禮之年",
@@ -162344,14 +162376,21 @@
          "_禁黑"
       ],
       "comments": "19",
-      "rating": "0",
-      "votes": "0",
+      "rating": "1",
+      "votes": "1",
       "parent": null,
       "id": "1469302413",
-      "detailed_rating": {},
+      "detailed_rating": {
+         "+": [
+            [
+               "4474355",
+               1790395191
+            ]
+         ]
+      },
       "deleted": false,
-      "justified_rating": 0,
-      "justified_votes": 0
+      "justified_rating": 1,
+      "justified_votes": 1
    },
    "1790042848": {
       "title": "SCP-ZH-076訪問補遺",
