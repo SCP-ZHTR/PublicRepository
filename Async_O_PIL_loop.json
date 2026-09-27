@@ -162466,5 +162466,35 @@
       "deleted": false,
       "justified_rating": 1,
       "justified_votes": 1
+   },
+   "1790522724": {
+      "title": "SCP-ZH-554 - 幫我開三槍",
+      "fullname": "scp-zh-554",
+      "created_at": "1790522724",
+      "created_by": "6217438",
+      "tags": [
+         "scp",
+         "site-zh-11",
+         "人形",
+         "原創",
+         "基金會人員",
+         "曹閾蝶",
+         "機密分級",
+         "異常現象",
+         "真紀博士",
+         "研究員knave",
+         "精神影響",
+         "趙禮竺特工"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1469402080",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
