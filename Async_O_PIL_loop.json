@@ -162535,5 +162535,26 @@
       "deleted": false,
       "justified_rating": 7,
       "justified_votes": 7
+   },
+   "1790575348": {
+      "title": "紅磚階下",
+      "fullname": "redbrick",
+      "created_at": "1790575348",
+      "created_by": "4206567",
+      "tags": [
+         "原創",
+         "故事",
+         "溫月襄專員"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1469403458",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
