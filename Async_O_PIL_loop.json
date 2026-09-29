@@ -6600,8 +6600,8 @@
          "_info"
       ],
       "comments": "0",
-      "rating": "59",
-      "votes": "59",
+      "rating": "60",
+      "votes": "60",
       "parent": null,
       "id": "747105811",
       "detailed_rating": {
@@ -6841,12 +6841,16 @@
             [
                "9501997",
                1777347000
+            ],
+            [
+               "5970137",
+               1790668019
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 58,
-      "justified_votes": 58
+      "justified_rating": 59,
+      "justified_votes": 59
    },
    "1555842683": {
       "title": "測驗心理諮詢室",
@@ -10054,8 +10058,8 @@
          "_info"
       ],
       "comments": "0",
-      "rating": "89",
-      "votes": "93",
+      "rating": "90",
+      "votes": "94",
       "parent": null,
       "id": "832673262",
       "detailed_rating": {
@@ -10423,6 +10427,10 @@
             [
                "7612049",
                1783391677
+            ],
+            [
+               "5970137",
+               1790668019
             ]
          ],
          "-": [
@@ -10437,8 +10445,8 @@
          ]
       },
       "deleted": false,
-      "justified_rating": 85,
-      "justified_votes": 89
+      "justified_rating": 86,
+      "justified_votes": 90
    },
    "1561980796": {
       "title": "SCP-ZH-199 - 中永和迷宮",
@@ -11953,8 +11961,8 @@
          "_info"
       ],
       "comments": "4",
-      "rating": "51",
-      "votes": "51",
+      "rating": "52",
+      "votes": "52",
       "parent": null,
       "id": "844318614",
       "detailed_rating": {
@@ -12162,12 +12170,16 @@
             [
                "DELETED",
                1777330645
+            ],
+            [
+               "5970137",
+               1790668019
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 49,
-      "justified_votes": 49
+      "justified_rating": 50,
+      "justified_votes": 50
    },
    "1563295447": {
       "title": "潮間時分",
@@ -19862,8 +19874,8 @@
          "_info"
       ],
       "comments": "7",
-      "rating": "41",
-      "votes": "45",
+      "rating": "42",
+      "votes": "46",
       "parent": null,
       "id": "926532648",
       "detailed_rating": {
@@ -20039,6 +20051,10 @@
             [
                "8319365",
                1765928345
+            ],
+            [
+               "5970137",
+               1790668019
             ]
          ],
          "-": [
@@ -20053,8 +20069,8 @@
          ]
       },
       "deleted": false,
-      "justified_rating": 39,
-      "justified_votes": 43
+      "justified_rating": 40,
+      "justified_votes": 44
    },
    "1573140382": {
       "title": "虹光之間中心頁",
@@ -29834,8 +29850,8 @@
          "_info"
       ],
       "comments": "7",
-      "rating": "49",
-      "votes": "49",
+      "rating": "50",
+      "votes": "50",
       "parent": null,
       "id": "986572505",
       "detailed_rating": {
@@ -30033,8 +30049,12 @@
                1723479180
             ],
             [
-               "9758462",
-               1762353542
+               "5970137",
+               1790668019
+            ],
+            [
+               "DELETED",
+               1790668019
             ]
          ]
       },
@@ -62529,8 +62549,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "67",
-      "votes": "71",
+      "rating": "68",
+      "votes": "72",
       "parent": null,
       "id": "1306901310",
       "detailed_rating": {
@@ -62808,8 +62828,12 @@
                1757437604
             ],
             [
-               "9758462",
-               1770974102
+               "5970137",
+               1790668019
+            ],
+            [
+               "DELETED",
+               1790668019
             ]
          ],
          "-": [
@@ -97173,8 +97197,8 @@
          "_cc"
       ],
       "comments": "4",
-      "rating": "17",
-      "votes": "17",
+      "rating": "18",
+      "votes": "18",
       "parent": null,
       "id": "1402642803",
       "detailed_rating": {
@@ -97246,12 +97270,16 @@
             [
                "10238830",
                1774648184
+            ],
+            [
+               "5970137",
+               1790668019
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 16,
-      "justified_votes": 16
+      "justified_rating": 17,
+      "justified_votes": 17
    },
    "1651112098": {
       "title": "第22天",
@@ -160633,8 +160661,8 @@
          "_事故"
       ],
       "comments": "0",
-      "rating": "13",
-      "votes": "15",
+      "rating": "14",
+      "votes": "16",
       "parent": null,
       "id": "1469241532",
       "detailed_rating": {
@@ -160694,6 +160722,10 @@
             [
                "5251681",
                1788614457
+            ],
+            [
+               "5970137",
+               1790668019
             ]
          ],
          "-": [
@@ -160704,8 +160736,8 @@
          ]
       },
       "deleted": false,
-      "justified_rating": 13,
-      "justified_votes": 15
+      "justified_rating": 14,
+      "justified_votes": 16
    },
    "1787932917": {
       "title": "SCP-ZH-472 - 第拾捌籤：無名墳上馬照跑 亂葬崗上舞照跳",
