@@ -162455,8 +162455,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "2",
-      "votes": "2",
+      "rating": "1",
+      "votes": "3",
       "parent": null,
       "id": "1469394275",
       "detailed_rating": {
@@ -162469,11 +162469,17 @@
                "8418020",
                1790563184
             ]
+         ],
+         "-": [
+            [
+               "5970137",
+               1790667704
+            ]
          ]
       },
       "deleted": false,
-      "justified_rating": 2,
-      "justified_votes": 2
+      "justified_rating": 1,
+      "justified_votes": 3
    },
    "1790522724": {
       "title": "SCP-ZH-554 - 幫我開三槍",
