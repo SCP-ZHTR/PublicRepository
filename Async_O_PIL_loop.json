@@ -3148,8 +3148,8 @@
          "_禁黑"
       ],
       "comments": "4",
-      "rating": "3",
-      "votes": "35",
+      "rating": "2",
+      "votes": "36",
       "parent": null,
       "id": "639227193",
       "detailed_rating": {
@@ -3295,12 +3295,16 @@
             [
                "8452537",
                1787849807
+            ],
+            [
+               "4474355",
+               1790714913
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 2,
-      "justified_votes": 34
+      "justified_rating": 1,
+      "justified_votes": 35
    },
    "1552735620": {
       "title": "UIU檔案：1970-005",
@@ -4316,8 +4320,8 @@
          "_info"
       ],
       "comments": "6",
-      "rating": "9",
-      "votes": "23",
+      "rating": "8",
+      "votes": "24",
       "parent": null,
       "id": "639660327",
       "detailed_rating": {
@@ -4415,12 +4419,16 @@
             [
                "DELETED",
                1783391677
+            ],
+            [
+               "4474355",
+               1790714913
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 9,
-      "justified_votes": 21
+      "justified_rating": 8,
+      "justified_votes": 22
    },
    "1553331116": {
       "title": "SCP-ZH-748 - 淚魔",
