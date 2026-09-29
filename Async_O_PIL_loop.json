@@ -22189,8 +22189,8 @@
          "_info"
       ],
       "comments": "4",
-      "rating": "46",
-      "votes": "46",
+      "rating": "47",
+      "votes": "47",
       "parent": null,
       "id": "957641275",
       "detailed_rating": {
@@ -22378,12 +22378,16 @@
             [
                "8854072",
                1782835914
+            ],
+            [
+               "5970137",
+               1790668461
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 45,
-      "justified_votes": 45
+      "justified_rating": 46,
+      "justified_votes": 46
    },
    "1575719555": {
       "title": "SCP-ZH-258 - 協和御守",
@@ -66370,8 +66374,8 @@
          "_cc"
       ],
       "comments": "3",
-      "rating": "45",
-      "votes": "45",
+      "rating": "46",
+      "votes": "46",
       "parent": null,
       "id": "1308317520",
       "detailed_rating": {
@@ -66553,8 +66557,12 @@
                1739287511
             ],
             [
-               "9758462",
-               1782275244
+               "5970137",
+               1790668461
+            ],
+            [
+               "DELETED",
+               1790668461
             ]
          ]
       },
@@ -126516,8 +126524,8 @@
          "_licensebox"
       ],
       "comments": "1",
-      "rating": "46",
-      "votes": "46",
+      "rating": "47",
+      "votes": "47",
       "parent": null,
       "id": "1450927014",
       "detailed_rating": {
@@ -126705,12 +126713,16 @@
             [
                "6381244",
                1777372847
+            ],
+            [
+               "5970137",
+               1790668461
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 45,
-      "justified_votes": 45
+      "justified_rating": 46,
+      "justified_votes": 46
    },
    "1698203871": {
       "title": "ting129的提案一",
