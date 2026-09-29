@@ -157031,7 +157031,7 @@
       "hidden_tags": [],
       "comments": "0",
       "rating": "2",
-      "votes": "2",
+      "votes": "3",
       "parent": null,
       "id": "1469270360",
       "detailed_rating": {
@@ -157043,12 +157043,16 @@
             [
                "5251681",
                1788461193
+            ],
+            [
+               "5970137",
+               1790668883
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 2,
-      "justified_votes": 2
+      "justified_rating": 3,
+      "justified_votes": 3
    },
    "1788773713": {
       "title": "SCP-6579 - 偵探殺手",
@@ -157076,8 +157080,8 @@
          "_licensebox"
       ],
       "comments": "0",
-      "rating": "1",
-      "votes": "1",
+      "rating": "2",
+      "votes": "2",
       "parent": null,
       "id": "1469285187",
       "detailed_rating": {
@@ -157085,12 +157089,16 @@
             [
                "7840542",
                1788980423
+            ],
+            [
+               "5970137",
+               1790668883
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 1,
-      "justified_votes": 1
+      "justified_rating": 2,
+      "justified_votes": 2
    },
    "1789192447": {
       "title": "關注組織實戰心得",
@@ -157105,8 +157113,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "1",
-      "votes": "1",
+      "rating": "2",
+      "votes": "2",
       "parent": null,
       "id": "1469304352",
       "detailed_rating": {
@@ -157114,12 +157122,16 @@
             [
                "8033564",
                1789574752
+            ],
+            [
+               "5970137",
+               1790668883
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 1,
-      "justified_votes": 1
+      "justified_rating": 2,
+      "justified_votes": 2
    },
    "1789402743": {
       "title": "有關V/H/S SCP基金會電影之聲明",
@@ -157133,8 +157145,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "3",
-      "votes": "3",
+      "rating": "4",
+      "votes": "4",
       "parent": null,
       "id": "1469317761",
       "detailed_rating": {
@@ -157150,12 +157162,16 @@
             [
                "7504530",
                1789523367
+            ],
+            [
+               "5970137",
+               1790668883
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 3,
-      "justified_votes": 3
+      "justified_rating": 4,
+      "justified_votes": 4
    },
    "1789404603": {
       "title": "SCP國際站對於當前進行之SCP電影企劃的共同聲明",
@@ -157169,8 +157185,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "4",
-      "votes": "4",
+      "rating": "5",
+      "votes": "5",
       "parent": null,
       "id": "1469317948",
       "detailed_rating": {
@@ -157190,12 +157206,16 @@
             [
                "7840542",
                1789555225
+            ],
+            [
+               "5970137",
+               1790668883
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 4,
-      "justified_votes": 4
+      "justified_rating": 5,
+      "justified_votes": 5
    },
    "1789569146": {
       "title": "SCP-5895 - 我1000%曾經在乎過！！",
@@ -157216,8 +157236,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "2",
-      "votes": "2",
+      "rating": "3",
+      "votes": "3",
       "parent": null,
       "id": "1469332497",
       "detailed_rating": {
@@ -157229,12 +157249,16 @@
             [
                "4474355",
                1790145818
+            ],
+            [
+               "5970137",
+               1790668883
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 2,
-      "justified_votes": 2
+      "justified_rating": 3,
+      "justified_votes": 3
    },
    "1789578138": {
       "title": "SCP-9522 - 他知道",
@@ -157254,8 +157278,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "3",
-      "votes": "3",
+      "rating": "4",
+      "votes": "4",
       "parent": null,
       "id": "1469332820",
       "detailed_rating": {
@@ -157271,12 +157295,16 @@
             [
                "8033564",
                1789750226
+            ],
+            [
+               "5970137",
+               1790668883
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 3,
-      "justified_votes": 3
+      "justified_rating": 4,
+      "justified_votes": 4
    },
    "1789633058": {
       "title": "SCP-9962 - O6議會",
@@ -157294,14 +157322,21 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "0",
-      "votes": "0",
+      "rating": "1",
+      "votes": "1",
       "parent": null,
       "id": "1469334955",
-      "detailed_rating": {},
+      "detailed_rating": {
+         "+": [
+            [
+               "5970137",
+               1790668883
+            ]
+         ]
+      },
       "deleted": false,
-      "justified_rating": 0,
-      "justified_votes": 0
+      "justified_rating": 1,
+      "justified_votes": 1
    },
    "1790422433": {
       "title": "評論《DV標準表》",
@@ -157315,8 +157350,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "6",
-      "votes": "6",
+      "rating": "7",
+      "votes": "7",
       "parent": null,
       "id": "1469397854",
       "detailed_rating": {
@@ -157344,11 +157379,15 @@
             [
                "7840542",
                1790511359
+            ],
+            [
+               "5970137",
+               1790668883
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 6,
-      "justified_votes": 6
+      "justified_rating": 7,
+      "justified_votes": 7
    }
 }

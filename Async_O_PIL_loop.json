@@ -61047,8 +61047,8 @@
          "_cc"
       ],
       "comments": "1",
-      "rating": "19",
-      "votes": "19",
+      "rating": "20",
+      "votes": "20",
       "parent": null,
       "id": "1306527139",
       "detailed_rating": {
@@ -61128,12 +61128,16 @@
             [
                "5981123",
                1721096192
+            ],
+            [
+               "5970137",
+               1790668881
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 19,
-      "justified_votes": 19
+      "justified_rating": 20,
+      "justified_votes": 20
    },
    "1610713307": {
       "title": "SCP-ZH-023 - 末狀記憶",
@@ -82555,8 +82559,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "8",
-      "votes": "8",
+      "rating": "9",
+      "votes": "9",
       "parent": null,
       "id": "1329663441",
       "detailed_rating": {
@@ -82592,12 +82596,16 @@
             [
                "8319365",
                1762159817
+            ],
+            [
+               "5970137",
+               1790668881
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 8,
-      "justified_votes": 8
+      "justified_rating": 9,
+      "justified_votes": 9
    },
    "1635165448": {
       "title": "SCP-ZH-057 - 暴躁小行星",
@@ -104251,8 +104259,8 @@
          "_禁黑"
       ],
       "comments": "3",
-      "rating": "22",
-      "votes": "22",
+      "rating": "23",
+      "votes": "23",
       "parent": null,
       "id": "1435499951",
       "detailed_rating": {
@@ -104344,12 +104352,16 @@
             [
                "8319365",
                1754093913
+            ],
+            [
+               "5970137",
+               1790668881
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 21,
-      "justified_votes": 21
+      "justified_rating": 22,
+      "justified_votes": 22
    },
    "1662220770": {
       "title": "SCP-ZH-173 - BLACK-GROUND: The Prologue",
@@ -146690,8 +146702,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "10",
-      "votes": "10",
+      "rating": "11",
+      "votes": "11",
       "parent": null,
       "id": "1457222795",
       "detailed_rating": {
@@ -146735,12 +146747,16 @@
             [
                "7840542",
                1732531236
+            ],
+            [
+               "5970137",
+               1790668881
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 10,
-      "justified_votes": 10
+      "justified_rating": 11,
+      "justified_votes": 11
    },
    "1732204764": {
       "title": "春是「遲到」",
@@ -155976,8 +155992,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "11",
-      "votes": "11",
+      "rating": "12",
+      "votes": "12",
       "parent": null,
       "id": "1468216702",
       "detailed_rating": {
@@ -156025,12 +156041,16 @@
             [
                "6091157",
                1773681945
+            ],
+            [
+               "5970137",
+               1790668881
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 11,
-      "justified_votes": 11
+      "justified_rating": 12,
+      "justified_votes": 12
    },
    "1772797455": {
       "title": "水中撈月",
@@ -159998,8 +160018,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "22",
-      "votes": "22",
+      "rating": "23",
+      "votes": "23",
       "parent": null,
       "id": "1469228625",
       "detailed_rating": {
@@ -160091,12 +160111,16 @@
             [
                "8854072",
                1788355850
+            ],
+            [
+               "5970137",
+               1790668881
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 22,
-      "justified_votes": 22
+      "justified_rating": 23,
+      "justified_votes": 23
    },
    "1787755040": {
       "title": "SCP-ZH-401-J - 黃銅馬桶",
