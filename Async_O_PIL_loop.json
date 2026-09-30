@@ -162670,8 +162670,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "10",
-      "votes": "10",
+      "rating": "11",
+      "votes": "11",
       "parent": null,
       "id": "1469402080",
       "detailed_rating": {
@@ -162715,12 +162715,16 @@
             [
                "7840542",
                1790604971
+            ],
+            [
+               "6381244",
+               1790779972
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 10,
-      "justified_votes": 10
+      "justified_rating": 11,
+      "justified_votes": 11
    },
    "1790575348": {
       "title": "紅磚階下",
