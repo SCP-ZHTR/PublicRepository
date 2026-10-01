@@ -121541,8 +121541,8 @@
       ],
       "hidden_tags": [],
       "comments": "8",
-      "rating": "29",
-      "votes": "29",
+      "rating": "30",
+      "votes": "30",
       "parent": null,
       "id": "1449482734",
       "detailed_rating": {
@@ -121662,12 +121662,16 @@
             [
                "8659286",
                1772990016
+            ],
+            [
+               "9832594",
+               1790813354
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 28,
-      "justified_votes": 28
+      "justified_rating": 29,
+      "justified_votes": 29
    },
    "1692809229": {
       "title": "圖像記錄：《只有我能看見的老鼠》",
