@@ -143712,8 +143712,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "10",
-      "votes": "10",
+      "rating": "11",
+      "votes": "11",
       "parent": null,
       "id": "1456628509",
       "detailed_rating": {
@@ -143757,12 +143757,16 @@
             [
                "6217438",
                1725718692
+            ],
+            [
+               "4206567",
+               1790952138
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 10,
-      "justified_votes": 10
+      "justified_rating": 11,
+      "justified_votes": 11
    },
    "1725433876": {
       "title": "SCP-ZH-845 - 蟻屍",
