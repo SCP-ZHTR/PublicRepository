@@ -151055,8 +151055,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "6",
-      "votes": "6",
+      "rating": "7",
+      "votes": "7",
       "parent": null,
       "id": "1459943721",
       "detailed_rating": {
@@ -151084,12 +151084,16 @@
             [
                "6381244",
                1753684311
+            ],
+            [
+               "9832594",
+               1791032033
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 6,
-      "justified_votes": 6
+      "justified_rating": 7,
+      "justified_votes": 7
    },
    "1753798862": {
       "title": "SCP-8557 - 又來了，納西瑟斯？",
