@@ -157461,5 +157461,32 @@
       "deleted": false,
       "justified_rating": 5,
       "justified_votes": 5
+   },
+   "1791037163": {
+      "title": "SCP-LXXX-J - SCP繁中沙盒2.0",
+      "fullname": "scp-lxxx-j",
+      "created_at": "1791037163",
+      "created_by": "4474355",
+      "tags": [
+         "en",
+         "keter",
+         "lost-series",
+         "meta",
+         "metafiction",
+         "scp",
+         "喜劇",
+         "搞笑",
+         "翻譯"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1469440055",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
