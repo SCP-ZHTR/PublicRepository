@@ -22128,5 +22128,22 @@
       "deleted": false,
       "justified_rating": 0,
       "justified_votes": 0
+   },
+   "1791046059": {
+      "title": "SCP-L555 - 寬恕他們。",
+      "fullname": "scp-l555",
+      "created_at": "1791046059",
+      "created_by": "4474355",
+      "tags": [],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1469440408",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
