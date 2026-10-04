@@ -157484,8 +157484,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "3",
-      "votes": "3",
+      "rating": "4",
+      "votes": "4",
       "parent": null,
       "id": "1469440055",
       "detailed_rating": {
@@ -157501,12 +157501,16 @@
             [
                "9075244",
                1791046667
+            ],
+            [
+               "7840542",
+               1791145283
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 3,
-      "justified_votes": 3
+      "justified_rating": 4,
+      "justified_votes": 4
    },
    "1791046059": {
       "title": "SCP-L555 - 寬恕他們。",
