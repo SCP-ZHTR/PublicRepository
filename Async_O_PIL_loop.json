@@ -162696,9 +162696,9 @@
          "趙禮竺特工"
       ],
       "hidden_tags": [],
-      "comments": "0",
-      "rating": "11",
-      "votes": "11",
+      "comments": "1",
+      "rating": "12",
+      "votes": "12",
       "parent": null,
       "id": "1469402080",
       "detailed_rating": {
@@ -162746,12 +162746,16 @@
             [
                "6381244",
                1790779972
+            ],
+            [
+               "5370805",
+               1791133031
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 11,
-      "justified_votes": 11
+      "justified_rating": 12,
+      "justified_votes": 12
    },
    "1790575348": {
       "title": "紅磚階下",
