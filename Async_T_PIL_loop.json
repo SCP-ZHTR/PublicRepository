@@ -157594,5 +157594,31 @@
       "deleted": false,
       "justified_rating": 0,
       "justified_votes": 0
+   },
+   "1791208171": {
+      "title": "SCP-L926 - 永燃之焰",
+      "fullname": "scp-l926",
+      "created_at": "1791208171",
+      "created_by": "4474355",
+      "tags": [
+         "en",
+         "scp",
+         "媒體",
+         "建築物",
+         "機密分級",
+         "火",
+         "系列-l",
+         "翻譯"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1469446209",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
