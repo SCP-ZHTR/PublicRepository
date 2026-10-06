@@ -3685,8 +3685,8 @@
          "_info"
       ],
       "comments": "1",
-      "rating": "1",
-      "votes": "13",
+      "rating": "0",
+      "votes": "12",
       "parent": null,
       "id": "639393801",
       "detailed_rating": {
@@ -3702,10 +3702,6 @@
             [
                "5230135",
                1617120000
-            ],
-            [
-               "4474355",
-               1618588800
             ],
             [
                "4239775",
@@ -3748,8 +3744,8 @@
          ]
       },
       "deleted": false,
-      "justified_rating": 1,
-      "justified_votes": 13
+      "justified_rating": 0,
+      "justified_votes": 12
    },
    "1552898281": {
       "title": "夢藝天道行（TV345/7YUT8/5GDL6）",
@@ -146437,8 +146433,8 @@
       ],
       "hidden_tags": [],
       "comments": "2",
-      "rating": "1",
-      "votes": "5",
+      "rating": "2",
+      "votes": "6",
       "parent": null,
       "id": "1456963398",
       "detailed_rating": {
@@ -146454,6 +146450,10 @@
             [
                "7064164",
                1729332370
+            ],
+            [
+               "4474355",
+               1791289776
             ]
          ],
          "-": [
@@ -146468,8 +146468,8 @@
          ]
       },
       "deleted": false,
-      "justified_rating": 1,
-      "justified_votes": 5
+      "justified_rating": 2,
+      "justified_votes": 6
    },
    "1727869856": {
       "title": "機殼",
@@ -152586,8 +152586,8 @@
       ],
       "hidden_tags": [],
       "comments": "3",
-      "rating": "1",
-      "votes": "11",
+      "rating": "0",
+      "votes": "12",
       "parent": null,
       "id": "1460391088",
       "detailed_rating": {
@@ -152637,12 +152637,16 @@
             [
                "5370805",
                1757897473
+            ],
+            [
+               "4474355",
+               1791289776
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 1,
-      "justified_votes": 11
+      "justified_rating": 0,
+      "justified_votes": 12
    },
    "1757836720": {
       "title": "SCP-ZH-992 概念 concept",
