@@ -162701,8 +162701,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "12",
-      "votes": "12",
+      "rating": "13",
+      "votes": "13",
       "parent": null,
       "id": "1469402080",
       "detailed_rating": {
@@ -162754,12 +162754,16 @@
             [
                "5370805",
                1791133031
+            ],
+            [
+               "7064164",
+               1791479799
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 12,
-      "justified_votes": 12
+      "justified_rating": 13,
+      "justified_votes": 13
    },
    "1790575348": {
       "title": "紅磚階下",
@@ -162773,8 +162777,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "3",
-      "votes": "3",
+      "rating": "4",
+      "votes": "4",
       "parent": null,
       "id": "1469403458",
       "detailed_rating": {
@@ -162790,12 +162794,16 @@
             [
                "5970137",
                1790667848
+            ],
+            [
+               "7064164",
+               1791479799
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 3,
-      "justified_votes": 3
+      "justified_rating": 4,
+      "justified_votes": 4
    },
    "1791478717": {
       "title": "如廁後記得洗手否則你會拉肚子",
@@ -162811,8 +162819,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "3",
-      "votes": "3",
+      "rating": "4",
+      "votes": "4",
       "parent": null,
       "id": "1469477339",
       "detailed_rating": {
@@ -162828,11 +162836,15 @@
             [
                "6217438",
                1791479521
+            ],
+            [
+               "8177208",
+               1791479799
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 3,
-      "justified_votes": 3
+      "justified_rating": 4,
+      "justified_votes": 4
    }
 }
