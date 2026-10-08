@@ -34594,7 +34594,7 @@
       "comments": "0",
       "rating": "0",
       "votes": "0",
-      "parent": null,
+      "parent": "theme:monotypical",
       "id": "1469475990",
       "detailed_rating": {},
       "deleted": false,
