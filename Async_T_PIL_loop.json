@@ -157636,7 +157636,7 @@
       "comments": "0",
       "rating": "2",
       "votes": "2",
-      "parent": null,
+      "parent": "tag-guide",
       "id": "1469481716",
       "detailed_rating": {
          "+": [
