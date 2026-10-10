@@ -162866,5 +162866,36 @@
       "deleted": false,
       "justified_rating": 8,
       "justified_votes": 8
+   },
+   "1791648012": {
+      "title": "SCP-ZH-721 - 根本不需要朋友，去死吧。",
+      "fullname": "scp-zh-721",
+      "created_at": "1791648012",
+      "created_by": "5325850",
+      "tags": [
+         "scp",
+         "site-zh-12",
+         "thaumiel",
+         "原創",
+         "吳昕博士",
+         "幻覺",
+         "火勢遏阻部",
+         "王尚毅特工",
+         "研究員lucifelle",
+         "精神影響",
+         "聽覺影響",
+         "認知危害",
+         "音樂性"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1469485675",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
