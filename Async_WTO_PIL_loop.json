@@ -22198,5 +22198,22 @@
       "deleted": true,
       "justified_rating": 0,
       "justified_votes": 0
+   },
+   "1791648012": {
+      "title": "SCP-ZH-721 - 根本不需要朋友，去死吧。",
+      "fullname": "scp-zh-721",
+      "created_at": "1791648012",
+      "created_by": "5325850",
+      "tags": [],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1469485675",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
