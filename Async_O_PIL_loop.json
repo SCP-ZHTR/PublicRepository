@@ -161944,8 +161944,8 @@
       ],
       "hidden_tags": [],
       "comments": "2",
-      "rating": "6",
-      "votes": "8",
+      "rating": "7",
+      "votes": "9",
       "parent": null,
       "id": "1469265579",
       "detailed_rating": {
@@ -161977,6 +161977,10 @@
             [
                "5970137",
                1790667848
+            ],
+            [
+               "6152598",
+               1791735006
             ]
          ],
          "-": [
@@ -161987,8 +161991,8 @@
          ]
       },
       "deleted": false,
-      "justified_rating": 6,
-      "justified_votes": 8
+      "justified_rating": 7,
+      "justified_votes": 9
    },
    "1788451223": {
       "title": "SCP-ZH-745 - 第陸參籤：渡黑水記",
@@ -162109,8 +162113,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "10",
-      "votes": "10",
+      "rating": "11",
+      "votes": "11",
       "parent": null,
       "id": "1469274190",
       "detailed_rating": {
@@ -162154,12 +162158,16 @@
             [
                "5970137",
                1790667848
+            ],
+            [
+               "6152598",
+               1791735006
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 10,
-      "justified_votes": 10
+      "justified_rating": 11,
+      "justified_votes": 11
    },
    "1788624112": {
       "title": "SCP-ZH-830 - 第捌壹籤：無需特別紀錄",
@@ -162304,8 +162312,8 @@
          "_禁黑"
       ],
       "comments": "2",
-      "rating": "7",
-      "votes": "7",
+      "rating": "8",
+      "votes": "8",
       "parent": null,
       "id": "1469284030",
       "detailed_rating": {
@@ -162337,12 +162345,16 @@
             [
                "5970137",
                1790667848
+            ],
+            [
+               "6152598",
+               1791735006
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 7,
-      "justified_votes": 7
+      "justified_rating": 8,
+      "justified_votes": 8
    },
    "1788854403": {
       "title": "SCP-ZH-932 - 第壹佰籤：欲就東兮欲就西",
