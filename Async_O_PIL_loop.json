@@ -128737,8 +128737,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "12",
-      "votes": "12",
+      "rating": "13",
+      "votes": "13",
       "parent": null,
       "id": "1451161199",
       "detailed_rating": {
@@ -128790,12 +128790,16 @@
             [
                "8546930",
                1736725708
+            ],
+            [
+               "7064164",
+               1791729833
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 12,
-      "justified_votes": 12
+      "justified_rating": 13,
+      "justified_votes": 13
    },
    "1698791318": {
       "title": "問題一：忒修斯之船",
