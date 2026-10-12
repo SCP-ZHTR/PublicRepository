@@ -162866,8 +162866,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "8",
-      "votes": "8",
+      "rating": "9",
+      "votes": "9",
       "parent": null,
       "id": "1469477339",
       "detailed_rating": {
@@ -162903,12 +162903,16 @@
             [
                "4474355",
                1791641336
+            ],
+            [
+               "9628870",
+               1791817088
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 8,
-      "justified_votes": 8
+      "justified_rating": 9,
+      "justified_votes": 9
    },
    "1791648012": {
       "title": "SCP-ZH-721 - 根本不需要朋友，去死吧。",
@@ -162933,8 +162937,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "10",
-      "votes": "10",
+      "rating": "11",
+      "votes": "11",
       "parent": null,
       "id": "1469485675",
       "detailed_rating": {
@@ -162978,12 +162982,16 @@
             [
                "7064164",
                1791730090
+            ],
+            [
+               "9628870",
+               1791817088
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 10,
-      "justified_votes": 10
+      "justified_rating": 11,
+      "justified_votes": 11
    },
    "1791798046": {
       "title": "SCP-ZH-PEE-J - 憋尿",
