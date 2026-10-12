@@ -161856,8 +161856,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "3",
-      "votes": "3",
+      "rating": "4",
+      "votes": "4",
       "parent": null,
       "id": "1469262072",
       "detailed_rating": {
@@ -161873,12 +161873,16 @@
             [
                "4474355",
                1790395191
+            ],
+            [
+               "8319365",
+               1791770386
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 3,
-      "justified_votes": 3
+      "justified_rating": 4,
+      "justified_votes": 4
    },
    "1788357669": {
       "title": "戀與Site-ZH-44",
