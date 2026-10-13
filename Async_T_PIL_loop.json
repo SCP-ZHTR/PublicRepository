@@ -134138,8 +134138,8 @@
       ],
       "hidden_tags": [],
       "comments": "2",
-      "rating": "-6",
-      "votes": "8",
+      "rating": "-5",
+      "votes": "9",
       "parent": null,
       "id": "1451544916",
       "detailed_rating": {
@@ -134177,12 +134177,16 @@
             [
                "9771249",
                1757853068
+            ],
+            [
+               "10441242",
+               1791865688
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": -6,
-      "justified_votes": 8
+      "justified_rating": -5,
+      "justified_votes": 9
    },
    "1700992004": {
       "title": "SCP-1915 - 維持現狀",
