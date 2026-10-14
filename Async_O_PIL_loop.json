@@ -162945,8 +162945,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "12",
-      "votes": "12",
+      "rating": "13",
+      "votes": "13",
       "parent": null,
       "id": "1469485675",
       "detailed_rating": {
@@ -162998,12 +162998,16 @@
             [
                "6773491",
                1791892704
+            ],
+            [
+               "5970137",
+               1791965081
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 12,
-      "justified_votes": 12
+      "justified_rating": 13,
+      "justified_votes": 13
    },
    "1791798046": {
       "title": "SCP-ZH-PEE-J - 憋尿",
@@ -163028,8 +163032,8 @@
       ],
       "hidden_tags": [],
       "comments": "5",
-      "rating": "4",
-      "votes": "4",
+      "rating": "5",
+      "votes": "5",
       "parent": null,
       "id": "1469493318",
       "detailed_rating": {
@@ -163049,12 +163053,16 @@
             [
                "7840542",
                1791821945
+            ],
+            [
+               "5970137",
+               1791965081
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 4,
-      "justified_votes": 4
+      "justified_rating": 5,
+      "justified_votes": 5
    },
    "1791954022": {
       "title": "SCP-ZH-917 - 讓我們「修好」你",
@@ -163075,13 +163083,20 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "0",
-      "votes": "0",
+      "rating": "1",
+      "votes": "1",
       "parent": null,
       "id": "1469499260",
-      "detailed_rating": {},
+      "detailed_rating": {
+         "+": [
+            [
+               "5970137",
+               1791965081
+            ]
+         ]
+      },
       "deleted": false,
-      "justified_rating": 0,
-      "justified_votes": 0
+      "justified_rating": 1,
+      "justified_votes": 1
    }
 }
