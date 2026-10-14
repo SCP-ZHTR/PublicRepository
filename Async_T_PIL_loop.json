@@ -157447,8 +157447,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "6",
-      "votes": "6",
+      "rating": "7",
+      "votes": "7",
       "parent": null,
       "id": "1469430801",
       "detailed_rating": {
@@ -157476,12 +157476,16 @@
             [
                "8177208",
                1791099734
+            ],
+            [
+               "5970137",
+               1791965227
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 6,
-      "justified_votes": 6
+      "justified_rating": 7,
+      "justified_votes": 7
    },
    "1791037163": {
       "title": "SCP-LXXX-J - SCP繁中沙盒2.0",
@@ -157501,8 +157505,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "4",
-      "votes": "4",
+      "rating": "5",
+      "votes": "5",
       "parent": null,
       "id": "1469440055",
       "detailed_rating": {
@@ -157522,12 +157526,16 @@
             [
                "7840542",
                1791145283
+            ],
+            [
+               "5970137",
+               1791965227
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 4,
-      "justified_votes": 4
+      "justified_rating": 5,
+      "justified_votes": 5
    },
    "1791046059": {
       "title": "SCP-L555 - 寬恕他們。",
