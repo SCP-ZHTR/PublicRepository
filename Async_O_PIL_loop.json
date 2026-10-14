@@ -163055,5 +163055,33 @@
       "deleted": false,
       "justified_rating": 4,
       "justified_votes": 4
+   },
+   "1791954022": {
+      "title": "SCP-ZH-917 - 讓我們「修好」你",
+      "fullname": "scp-zh-917",
+      "created_at": "1791954022",
+      "created_by": "4474355",
+      "tags": [
+         "scp",
+         "thaumiel",
+         "人形",
+         "原創",
+         "基金會人員",
+         "巡禮之年",
+         "智能",
+         "火勢遏阻部",
+         "精神影響",
+         "音樂性"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1469499260",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
