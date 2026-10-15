@@ -163055,9 +163055,9 @@
          "音頻"
       ],
       "hidden_tags": [],
-      "comments": "5",
-      "rating": "5",
-      "votes": "5",
+      "comments": "6",
+      "rating": "6",
+      "votes": "6",
       "parent": null,
       "id": "1469493318",
       "detailed_rating": {
@@ -163081,12 +163081,16 @@
             [
                "5970137",
                1791965081
+            ],
+            [
+               "6217438",
+               1792079273
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 5,
-      "justified_votes": 5
+      "justified_rating": 6,
+      "justified_votes": 6
    },
    "1791954022": {
       "title": "SCP-ZH-917 - 讓我們「修好」你",
