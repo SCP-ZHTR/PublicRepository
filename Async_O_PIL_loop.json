@@ -162840,8 +162840,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "4",
-      "votes": "4",
+      "rating": "5",
+      "votes": "5",
       "parent": null,
       "id": "1469403458",
       "detailed_rating": {
@@ -162861,12 +162861,16 @@
             [
                "7064164",
                1791479799
+            ],
+            [
+               "4206567",
+               1792062692
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 4,
-      "justified_votes": 4
+      "justified_rating": 5,
+      "justified_votes": 5
    },
    "1791478717": {
       "title": "如廁後記得洗手否則你會拉肚子",
