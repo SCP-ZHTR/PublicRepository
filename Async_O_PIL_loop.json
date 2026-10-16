@@ -162965,8 +162965,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "12",
-      "votes": "12",
+      "rating": "13",
+      "votes": "13",
       "parent": null,
       "id": "1469485675",
       "detailed_rating": {
@@ -163018,12 +163018,16 @@
             [
                "5413616",
                1792076177
+            ],
+            [
+               "6217438",
+               1792143519
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 12,
-      "justified_votes": 12
+      "justified_rating": 13,
+      "justified_votes": 13
    },
    "1791798046": {
       "title": "SCP-ZH-PEE-J - 憋尿",
