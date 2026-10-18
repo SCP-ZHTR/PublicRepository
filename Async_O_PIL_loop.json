@@ -163135,8 +163135,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "3",
-      "votes": "3",
+      "rating": "4",
+      "votes": "4",
       "parent": null,
       "id": "1469499260",
       "detailed_rating": {
@@ -163152,12 +163152,16 @@
             [
                "8404617",
                1792125742
+            ],
+            [
+               "6152598",
+               1792299262
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 3,
-      "justified_votes": 3
+      "justified_rating": 4,
+      "justified_votes": 4
    },
    "1792074199": {
       "title": "誰也不准睡",
