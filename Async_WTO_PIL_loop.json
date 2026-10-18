@@ -22222,5 +22222,22 @@
       "deleted": true,
       "justified_rating": 1,
       "justified_votes": 1
+   },
+   "1792338944": {
+      "title": "越中瘋狂大戰2026《繁盛與衰敗》",
+      "fullname": "vn-zh-madness-combat26",
+      "created_at": "1792338944",
+      "created_by": "4990678",
+      "tags": [],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1469513722",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
