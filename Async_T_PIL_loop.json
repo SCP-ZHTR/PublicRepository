@@ -157459,8 +157459,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "7",
-      "votes": "7",
+      "rating": "8",
+      "votes": "8",
       "parent": null,
       "id": "1469430801",
       "detailed_rating": {
@@ -157492,12 +157492,16 @@
             [
                "5970137",
                1791965227
+            ],
+            [
+               "7504530",
+               1792317462
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 7,
-      "justified_votes": 7
+      "justified_rating": 8,
+      "justified_votes": 8
    },
    "1791037163": {
       "title": "SCP-LXXX-J - SCP繁中沙盒2.0",
