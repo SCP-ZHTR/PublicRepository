@@ -34630,5 +34630,22 @@
       "deleted": true,
       "justified_rating": 0,
       "justified_votes": 0
+   },
+   "1792413352": {
+      "title": "頁面內迭代組件原始碼",
+      "fullname": "component:listpages-in-page-source",
+      "created_at": "1792413352",
+      "created_by": "8136462",
+      "tags": [],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1469516078",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
