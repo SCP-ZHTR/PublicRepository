@@ -5076,8 +5076,8 @@
          "_cc"
       ],
       "comments": "1",
-      "rating": "6",
-      "votes": "6",
+      "rating": "7",
+      "votes": "7",
       "parent": null,
       "id": "757282819",
       "detailed_rating": {
@@ -5105,12 +5105,16 @@
             [
                "5225164",
                1617120000
+            ],
+            [
+               "10564803",
+               1792439026
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 6,
-      "justified_votes": 6
+      "justified_rating": 7,
+      "justified_votes": 7
    },
    "1556085531": {
       "title": "SCP-1841 - 應見的如此之多，未見的如此之多",
