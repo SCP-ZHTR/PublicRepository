@@ -163491,8 +163491,8 @@
          "_cc"
       ],
       "comments": "0",
-      "rating": "3",
-      "votes": "3",
+      "rating": "4",
+      "votes": "4",
       "parent": null,
       "id": "1469513722",
       "detailed_rating": {
@@ -163508,11 +163508,15 @@
             [
                "7504530",
                1792374935
+            ],
+            [
+               "6152598",
+               1792391910
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 3,
-      "justified_votes": 3
+      "justified_rating": 4,
+      "justified_votes": 4
    }
 }
