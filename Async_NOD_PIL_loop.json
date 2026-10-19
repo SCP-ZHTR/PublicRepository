@@ -34647,5 +34647,24 @@
       "deleted": false,
       "justified_rating": 0,
       "justified_votes": 0
+   },
+   "1792413470": {
+      "title": "頁面內迭代組件",
+      "fullname": "component:listpages-in-page",
+      "created_at": "1792413470",
+      "created_by": "8136462",
+      "tags": [
+         "組件"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1469516083",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
