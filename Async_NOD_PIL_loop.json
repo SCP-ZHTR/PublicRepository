@@ -34662,8 +34662,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "1",
-      "votes": "1",
+      "rating": "2",
+      "votes": "2",
       "parent": null,
       "id": "1469516083",
       "detailed_rating": {
@@ -34671,11 +34671,15 @@
             [
                "9786435",
                1792416306
+            ],
+            [
+               "4990678",
+               1792418032
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 1,
-      "justified_votes": 1
+      "justified_rating": 2,
+      "justified_votes": 2
    }
 }
