@@ -34644,7 +34644,7 @@
       "comments": "0",
       "rating": "0",
       "votes": "0",
-      "parent": null,
+      "parent": "component:listpages-in-page",
       "id": "1469516078",
       "detailed_rating": {},
       "deleted": false,
