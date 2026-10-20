@@ -153000,8 +153000,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "9",
-      "votes": "11",
+      "rating": "10",
+      "votes": "12",
       "parent": null,
       "id": "1460741684",
       "detailed_rating": {
@@ -153045,6 +153045,10 @@
             [
                "DELETED",
                1784111211
+            ],
+            [
+               "5325850",
+               1792496572
             ]
          ],
          "-": [
@@ -153055,8 +153059,8 @@
          ]
       },
       "deleted": false,
-      "justified_rating": 8,
-      "justified_votes": 10
+      "justified_rating": 9,
+      "justified_votes": 11
    },
    "1761494401": {
       "title": "SCP-9009 - 「白人」",
@@ -157788,5 +157792,29 @@
       "deleted": false,
       "justified_rating": 6,
       "justified_votes": 6
+   },
+   "1792496364": {
+      "title": "反叛家電紀錄",
+      "fullname": "log-of-deviant-appliances",
+      "created_at": "1792496364",
+      "created_by": "4206567",
+      "tags": [
+         "en",
+         "世界觀建設",
+         "合作",
+         "家用品大戰爭",
+         "故事",
+         "翻譯"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1469518762",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
