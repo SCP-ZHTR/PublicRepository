@@ -1785,8 +1785,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "1",
-      "votes": "1",
+      "rating": "2",
+      "votes": "2",
       "parent": "rating-against-traditions",
       "id": "801775302",
       "detailed_rating": {
@@ -1794,12 +1794,16 @@
             [
                "4442284",
                1689145478
+            ],
+            [
+               "9075244",
+               1792491690
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 1,
-      "justified_votes": 1
+      "justified_rating": 2,
+      "justified_votes": 2
    },
    "1558696348": {
       "title": "自訂評分模版：評分旋鈕",
