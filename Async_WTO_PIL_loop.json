@@ -22241,5 +22241,22 @@
       "deleted": true,
       "justified_rating": 0,
       "justified_votes": 0
+   },
+   "1792496364": {
+      "title": "反叛家電紀錄",
+      "fullname": "log-of-deviant-appliances",
+      "created_at": "1792496364",
+      "created_by": "4206567",
+      "tags": [],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1469518762",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
