@@ -163280,8 +163280,8 @@
          "_禁黑"
       ],
       "comments": "19",
-      "rating": "1",
-      "votes": "1",
+      "rating": "2",
+      "votes": "2",
       "parent": null,
       "id": "1469302413",
       "detailed_rating": {
@@ -163289,12 +163289,16 @@
             [
                "4474355",
                1790395191
+            ],
+            [
+               "9075244",
+               1792593009
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 1,
-      "justified_votes": 1
+      "justified_rating": 2,
+      "justified_votes": 2
    },
    "1790042848": {
       "title": "SCP-ZH-076訪問補遺",
