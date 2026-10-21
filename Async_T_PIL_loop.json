@@ -50391,8 +50391,8 @@
          "_cc"
       ],
       "comments": "2",
-      "rating": "17",
-      "votes": "17",
+      "rating": "18",
+      "votes": "18",
       "parent": null,
       "id": "1305594962",
       "detailed_rating": {
@@ -50464,12 +50464,16 @@
             [
                "9075244",
                1737256990
+            ],
+            [
+               "9832594",
+               1792570319
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 17,
-      "justified_votes": 17
+      "justified_rating": 18,
+      "justified_votes": 18
    },
    "1603818002": {
       "title": "SCP-1257-JP - 透潮",
