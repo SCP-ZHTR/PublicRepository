@@ -163954,8 +163954,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "5",
-      "votes": "5",
+      "rating": "6",
+      "votes": "6",
       "parent": null,
       "id": "1469523386",
       "detailed_rating": {
@@ -163979,12 +163979,16 @@
             [
                "7064164",
                1792691036
+            ],
+            [
+               "5370805",
+               1792711282
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 5,
-      "justified_votes": 5
+      "justified_rating": 6,
+      "justified_votes": 6
    },
    "1792673530": {
       "title": "SCP-ZH-564 - 不想離開的仙那度",
