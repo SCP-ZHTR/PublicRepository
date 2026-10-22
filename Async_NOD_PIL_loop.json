@@ -34605,8 +34605,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "2",
-      "votes": "2",
+      "rating": "3",
+      "votes": "3",
       "parent": "theme:monotypical",
       "id": "1469475990",
       "detailed_rating": {
@@ -34618,12 +34618,16 @@
             [
                "6217438",
                1791628468
+            ],
+            [
+               "5970137",
+               1792674164
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 2,
-      "justified_votes": 2
+      "justified_rating": 3,
+      "justified_votes": 3
    },
    "1791671655": {
       "title": "https://scp-zh-tr.wikidot.com/scp-912en",
@@ -34653,14 +34657,21 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "0",
-      "votes": "0",
+      "rating": "1",
+      "votes": "1",
       "parent": "component:listpages-in-page",
       "id": "1469516078",
-      "detailed_rating": {},
+      "detailed_rating": {
+         "+": [
+            [
+               "5970137",
+               1792674164
+            ]
+         ]
+      },
       "deleted": false,
-      "justified_rating": 0,
-      "justified_votes": 0
+      "justified_rating": 1,
+      "justified_votes": 1
    },
    "1792413470": {
       "title": "頁面內迭代組件",
@@ -34673,8 +34684,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "2",
-      "votes": "2",
+      "rating": "3",
+      "votes": "3",
       "parent": null,
       "id": "1469516083",
       "detailed_rating": {
@@ -34686,12 +34697,16 @@
             [
                "4990678",
                1792418032
+            ],
+            [
+               "5970137",
+               1792674164
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 2,
-      "justified_votes": 2
+      "justified_rating": 3,
+      "justified_votes": 3
    },
    "1573964787": {
       "title": "SCP-ZH-564 - 不想離開的仙那度",
