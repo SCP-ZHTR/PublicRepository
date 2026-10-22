@@ -164006,8 +164006,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "4",
-      "votes": "4",
+      "rating": "5",
+      "votes": "5",
       "parent": null,
       "id": "1469524875",
       "detailed_rating": {
@@ -164027,12 +164027,16 @@
             [
                "7064164",
                1792690533
+            ],
+            [
+               "5370805",
+               1792711529
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 4,
-      "justified_votes": 4
+      "justified_rating": 5,
+      "justified_votes": 5
    },
    "1792676617": {
       "title": "Dr. Ray的ACS機密分級藝作頁 Vol. 1",
