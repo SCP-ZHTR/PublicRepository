@@ -26843,8 +26843,8 @@
          "_禁黑"
       ],
       "comments": "4",
-      "rating": "30",
-      "votes": "30",
+      "rating": "31",
+      "votes": "31",
       "parent": null,
       "id": "986037792",
       "detailed_rating": {
@@ -26968,12 +26968,16 @@
             [
                "7612049",
                1792067269
+            ],
+            [
+               "9075244",
+               1792734422
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 30,
-      "justified_votes": 30
+      "justified_rating": 31,
+      "justified_votes": 31
    },
    "1578211610": {
       "title": "弦音未止",
