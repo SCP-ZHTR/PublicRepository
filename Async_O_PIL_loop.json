@@ -164188,5 +164188,29 @@
       "deleted": false,
       "justified_rating": 0,
       "justified_votes": 0
+   },
+   "1792853108": {
+      "title": "SCP-ZH-318 - 狗螺",
+      "fullname": "scp-zh-318",
+      "created_at": "1792853108",
+      "created_by": "5348516",
+      "tags": [
+         "safe",
+         "scp",
+         "原創",
+         "巡禮之年",
+         "犬類",
+         "聲音"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1469532591",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
