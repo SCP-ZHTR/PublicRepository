@@ -157392,8 +157392,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "1",
-      "votes": "1",
+      "rating": "2",
+      "votes": "2",
       "parent": null,
       "id": "1469334955",
       "detailed_rating": {
@@ -157401,12 +157401,16 @@
             [
                "5970137",
                1790668883
+            ],
+            [
+               "7064164",
+               1792833513
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 1,
-      "justified_votes": 1
+      "justified_rating": 2,
+      "justified_votes": 2
    },
    "1790422433": {
       "title": "評論《DV標準表》",
