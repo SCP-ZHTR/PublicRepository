@@ -163915,8 +163915,8 @@
          "_cc"
       ],
       "comments": "0",
-      "rating": "7",
-      "votes": "7",
+      "rating": "8",
+      "votes": "8",
       "parent": null,
       "id": "1469513722",
       "detailed_rating": {
@@ -163948,12 +163948,16 @@
             [
                "7064164",
                1792832243
+            ],
+            [
+               "9075244",
+               1792934296
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 7,
-      "justified_votes": 7
+      "justified_rating": 8,
+      "justified_votes": 8
    },
    "1792645745": {
       "title": "不為人知的鵝媽媽童謠",
