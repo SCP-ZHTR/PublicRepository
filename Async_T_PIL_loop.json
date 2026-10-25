@@ -56052,8 +56052,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "10",
-      "votes": "10",
+      "rating": "11",
+      "votes": "11",
       "parent": null,
       "id": "1306429908",
       "detailed_rating": {
@@ -56097,12 +56097,16 @@
             [
                "9443485",
                1752419859
+            ],
+            [
+               "9832594",
+               1792971119
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 10,
-      "justified_votes": 10
+      "justified_rating": 11,
+      "justified_votes": 11
    },
    "1610104744": {
       "title": "拯救世界的人",
