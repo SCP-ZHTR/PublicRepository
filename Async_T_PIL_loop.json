@@ -157933,5 +157933,34 @@
       "deleted": false,
       "justified_rating": 7,
       "justified_votes": 7
+   },
+   "1793022821": {
+      "title": "SCP-9996 - 有著許多門的地方",
+      "fullname": "scp-9996",
+      "created_at": "1793022821",
+      "created_by": "6217438",
+      "tags": [
+         "en",
+         "safe",
+         "scp",
+         "建築物",
+         "星際",
+         "神秘",
+         "翻譯",
+         "自我修復",
+         "超維度",
+         "門徑",
+         "電力"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1469724584",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
