@@ -29522,8 +29522,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "2",
-      "votes": "2",
+      "rating": "3",
+      "votes": "3",
       "parent": null,
       "id": "1002289999",
       "detailed_rating": {
@@ -29535,12 +29535,16 @@
             [
                "4990678",
                1617120000
+            ],
+            [
+               "7504530",
+               1793074915
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 2,
-      "justified_votes": 2
+      "justified_rating": 3,
+      "justified_votes": 3
    },
    "1585043623": {
       "title": "SCP-168 - 感知計算機",
