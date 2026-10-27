@@ -22362,8 +22362,8 @@
          "_赫曼-富勒goi格式"
       ],
       "comments": "0",
-      "rating": "3",
-      "votes": "3",
+      "rating": "4",
+      "votes": "4",
       "parent": null,
       "id": "986366624",
       "detailed_rating": {
@@ -22379,12 +22379,16 @@
             [
                "3981670",
                1617120000
+            ],
+            [
+               "7504530",
+               1793074663
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 3,
-      "justified_votes": 3
+      "justified_rating": 4,
+      "justified_votes": 4
    },
    "1580297595": {
       "title": "理查森島",
@@ -25230,8 +25234,8 @@
          "_licensebox"
       ],
       "comments": "0",
-      "rating": "4",
-      "votes": "4",
+      "rating": "5",
+      "votes": "5",
       "parent": null,
       "id": "998696339",
       "detailed_rating": {
@@ -25251,12 +25255,16 @@
             [
                "3981670",
                1617120000
+            ],
+            [
+               "7504530",
+               1793074663
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 4,
-      "justified_votes": 4
+      "justified_rating": 5,
+      "justified_votes": 5
    },
    "1582636289": {
       "title": "XXV號部門 中心頁",
