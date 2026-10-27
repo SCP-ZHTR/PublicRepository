@@ -164156,8 +164156,8 @@
       ],
       "hidden_tags": [],
       "comments": "3",
-      "rating": "4",
-      "votes": "4",
+      "rating": "5",
+      "votes": "5",
       "parent": null,
       "id": "1469531945",
       "detailed_rating": {
@@ -164177,12 +164177,16 @@
             [
                "4206567",
                1792991205
+            ],
+            [
+               "6217438",
+               1793143942
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 4,
-      "justified_votes": 4
+      "justified_rating": 5,
+      "justified_votes": 5
    },
    "1792854769": {
       "title": "SCP-ZH-325 - 念故鄉",
