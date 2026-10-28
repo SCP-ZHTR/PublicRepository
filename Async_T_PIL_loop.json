@@ -69176,8 +69176,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "18",
-      "votes": "18",
+      "rating": "19",
+      "votes": "19",
       "parent": null,
       "id": "1311754420",
       "detailed_rating": {
@@ -69253,12 +69253,16 @@
             [
                "DELETED",
                1727693289
+            ],
+            [
+               "4206567",
+               1793166584
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 17,
-      "justified_votes": 17
+      "justified_rating": 18,
+      "justified_votes": 18
    },
    "1622120500": {
       "title": "SCP-3005解密",
