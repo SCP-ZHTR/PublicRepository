@@ -31284,8 +31284,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "2",
-      "votes": "2",
+      "rating": "3",
+      "votes": "3",
       "parent": null,
       "id": "1459146249",
       "detailed_rating": {
@@ -31297,12 +31297,16 @@
             [
                "8319365",
                1763275884
+            ],
+            [
+               "9832594",
+               1793227717
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 2,
-      "justified_votes": 2
+      "justified_rating": 3,
+      "justified_votes": 3
    },
    "1744380477": {
       "title": "簡約風 黑色標記筆 外觀主題",
