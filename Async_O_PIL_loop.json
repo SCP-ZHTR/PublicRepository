@@ -37225,8 +37225,8 @@
          "_cc"
       ],
       "comments": "0",
-      "rating": "7",
-      "votes": "7",
+      "rating": "8",
+      "votes": "8",
       "parent": "scp-zh-012",
       "id": "1024560697",
       "detailed_rating": {
@@ -37258,12 +37258,16 @@
             [
                "5817419",
                1617120000
+            ],
+            [
+               "9075244",
+               1793256560
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 7,
-      "justified_votes": 7
+      "justified_rating": 8,
+      "justified_votes": 8
    },
    "1586968509": {
       "title": "SCP-ZH-857 - dado的好喝到爆珍珠奶茶杯",
