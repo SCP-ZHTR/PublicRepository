@@ -163734,8 +163734,8 @@
       ],
       "hidden_tags": [],
       "comments": "7",
-      "rating": "7",
-      "votes": "7",
+      "rating": "8",
+      "votes": "8",
       "parent": null,
       "id": "1469493318",
       "detailed_rating": {
@@ -163767,12 +163767,16 @@
             [
                "9628870",
                1793337183
+            ],
+            [
+               "5338547",
+               1793368983
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 7,
-      "justified_votes": 7
+      "justified_rating": 8,
+      "justified_votes": 8
    },
    "1791954022": {
       "title": "SCP-ZH-917 - 讓我們「修好」你",
@@ -163793,8 +163797,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "8",
-      "votes": "8",
+      "rating": "9",
+      "votes": "9",
       "parent": null,
       "id": "1469499260",
       "detailed_rating": {
@@ -163830,12 +163834,16 @@
             [
                "9628870",
                1793337183
+            ],
+            [
+               "5338547",
+               1793368983
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 8,
-      "justified_votes": 8
+      "justified_rating": 9,
+      "justified_votes": 9
    },
    "1792074199": {
       "title": "誰也不准睡",
@@ -163856,8 +163864,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "15",
-      "votes": "15",
+      "rating": "16",
+      "votes": "16",
       "parent": null,
       "id": "1469503763",
       "detailed_rating": {
@@ -163921,12 +163929,16 @@
             [
                "5970137",
                1792674162
+            ],
+            [
+               "5338547",
+               1793368983
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 15,
-      "justified_votes": 15
+      "justified_rating": 16,
+      "justified_votes": 16
    },
    "1792338944": {
       "title": "越中瘋狂大戰2026《繁盛與衰敗》",
@@ -164004,8 +164016,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "8",
-      "votes": "8",
+      "rating": "9",
+      "votes": "9",
       "parent": null,
       "id": "1469523386",
       "detailed_rating": {
@@ -164041,12 +164053,20 @@
             [
                "9628870",
                1793337183
+            ],
+            [
+               "4990678",
+               1793368983
+            ],
+            [
+               "5338547",
+               1793368983
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 8,
-      "justified_votes": 8
+      "justified_rating": 10,
+      "justified_votes": 10
    },
    "1792673530": {
       "title": "SCP-ZH-564 - 不想離開的仙那度",
@@ -164200,8 +164220,8 @@
       ],
       "hidden_tags": [],
       "comments": "4",
-      "rating": "7",
-      "votes": "7",
+      "rating": "8",
+      "votes": "8",
       "parent": null,
       "id": "1469531945",
       "detailed_rating": {
@@ -164233,12 +164253,16 @@
             [
                "9628870",
                1793337049
+            ],
+            [
+               "5338547",
+               1793368983
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 7,
-      "justified_votes": 7
+      "justified_rating": 8,
+      "justified_votes": 8
    },
    "1792854769": {
       "title": "SCP-ZH-325 - 念故鄉",
@@ -164255,8 +164279,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "1",
-      "votes": "3",
+      "rating": "2",
+      "votes": "4",
       "parent": null,
       "id": "1469532610",
       "detailed_rating": {
@@ -164268,6 +164292,10 @@
             [
                "8177208",
                1793328666
+            ],
+            [
+               "5338547",
+               1793368983
             ]
          ],
          "-": [
@@ -164278,8 +164306,8 @@
          ]
       },
       "deleted": false,
-      "justified_rating": 1,
-      "justified_votes": 3
+      "justified_rating": 2,
+      "justified_votes": 4
    },
    "1792853108": {
       "title": "SCP-ZH-318 - 狗螺",
@@ -164297,8 +164325,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "3",
-      "votes": "3",
+      "rating": "4",
+      "votes": "4",
       "parent": null,
       "id": "1469532591",
       "detailed_rating": {
@@ -164314,12 +164342,16 @@
             [
                "9628870",
                1793337049
+            ],
+            [
+               "5338547",
+               1793368983
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 3,
-      "justified_votes": 3
+      "justified_rating": 4,
+      "justified_votes": 4
    },
    "1792857498": {
       "title": "SCP-ZH-415 - 花海",
@@ -164344,8 +164376,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "4",
-      "votes": "4",
+      "rating": "5",
+      "votes": "5",
       "parent": null,
       "id": "1469532722",
       "detailed_rating": {
@@ -164365,12 +164397,16 @@
             [
                "9628870",
                1793336919
+            ],
+            [
+               "5338547",
+               1793368983
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 4,
-      "justified_votes": 4
+      "justified_rating": 5,
+      "justified_votes": 5
    },
    "1793192651": {
       "title": "繁中關注地點",
