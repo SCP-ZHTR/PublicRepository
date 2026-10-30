@@ -854,8 +854,8 @@
          "_info"
       ],
       "comments": "1",
-      "rating": "9",
-      "votes": "9",
+      "rating": "10",
+      "votes": "10",
       "parent": null,
       "id": "639493785",
       "detailed_rating": {
@@ -895,12 +895,16 @@
             [
                "5225164",
                1617120000
+            ],
+            [
+               "9832594",
+               1793398740
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 9,
-      "justified_votes": 9
+      "justified_rating": 10,
+      "justified_votes": 10
    },
    "1553159006": {
       "title": "友站翻譯文庫",
