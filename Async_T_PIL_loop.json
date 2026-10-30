@@ -75988,8 +75988,8 @@
          "_licensebox"
       ],
       "comments": "6",
-      "rating": "28",
-      "votes": "28",
+      "rating": "29",
+      "votes": "29",
       "parent": null,
       "id": "1324053577",
       "detailed_rating": {
@@ -76105,12 +76105,16 @@
             [
                "DELETED",
                1751604263
+            ],
+            [
+               "10165543",
+               1793361956
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 25,
-      "justified_votes": 25
+      "justified_rating": 26,
+      "justified_votes": 26
    },
    "1631796250": {
       "title": "隱藏在眼中的宇宙",
