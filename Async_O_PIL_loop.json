@@ -163734,8 +163734,8 @@
       ],
       "hidden_tags": [],
       "comments": "7",
-      "rating": "8",
-      "votes": "8",
+      "rating": "7",
+      "votes": "9",
       "parent": null,
       "id": "1469493318",
       "detailed_rating": {
@@ -163772,11 +163772,17 @@
                "5338547",
                1793368983
             ]
+         ],
+         "-": [
+            [
+               "5970137",
+               1793426291
+            ]
          ]
       },
       "deleted": false,
-      "justified_rating": 8,
-      "justified_votes": 8
+      "justified_rating": 7,
+      "justified_votes": 9
    },
    "1791954022": {
       "title": "SCP-ZH-917 - 讓我們「修好」你",
