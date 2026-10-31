@@ -164287,8 +164287,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "1",
-      "votes": "5",
+      "rating": "0",
+      "votes": "6",
       "parent": null,
       "id": "1469532610",
       "detailed_rating": {
@@ -164314,12 +164314,16 @@
             [
                "10350928",
                1793445067
+            ],
+            [
+               "4474355",
+               1793452201
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 1,
-      "justified_votes": 5
+      "justified_rating": 0,
+      "justified_votes": 6
    },
    "1792853108": {
       "title": "SCP-ZH-318 - 狗螺",
