@@ -164193,8 +164193,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "5",
-      "votes": "5",
+      "rating": "6",
+      "votes": "6",
       "parent": null,
       "id": "1469526888",
       "detailed_rating": {
@@ -164218,12 +164218,16 @@
             [
                "9628870",
                1793337049
+            ],
+            [
+               "5334590",
+               1793455031
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 5,
-      "justified_votes": 5
+      "justified_rating": 6,
+      "justified_votes": 6
    },
    "1792843942": {
       "title": "SCP-ZH-335 - 迎來戰歌響起",
@@ -164412,8 +164416,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "6",
-      "votes": "6",
+      "rating": "7",
+      "votes": "7",
       "parent": null,
       "id": "1469532722",
       "detailed_rating": {
@@ -164441,12 +164445,16 @@
             [
                "4990678",
                1793371658
+            ],
+            [
+               "5334590",
+               1793455031
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 6,
-      "justified_votes": 6
+      "justified_rating": 7,
+      "justified_votes": 7
    },
    "1793192651": {
       "title": "繁中關注地點",
