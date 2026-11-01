@@ -164420,8 +164420,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "7",
-      "votes": "7",
+      "rating": "8",
+      "votes": "8",
       "parent": null,
       "id": "1469532722",
       "detailed_rating": {
@@ -164453,12 +164453,16 @@
             [
                "5334590",
                1793455031
+            ],
+            [
+               "7504530",
+               1793524032
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 7,
-      "justified_votes": 7
+      "justified_rating": 8,
+      "justified_votes": 8
    },
    "1793192651": {
       "title": "繁中關注地點",
