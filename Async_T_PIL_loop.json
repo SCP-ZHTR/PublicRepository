@@ -158065,5 +158065,37 @@
       "deleted": false,
       "justified_rating": 2,
       "justified_votes": 2
+   },
+   "1793802191": {
+      "title": "J. C. 藍道據其團隊對多重宇宙進行記錄所做的先期報告",
+      "fullname": "preliminary-report",
+      "created_at": "1793802191",
+      "created_by": "7504530",
+      "tags": [
+         "en",
+         "icust",
+         "三波特蘭",
+         "世界觀建設",
+         "他宇宙",
+         "冒險",
+         "故事",
+         "普羅米修斯實驗室",
+         "未明軍團",
+         "歷史",
+         "無對白",
+         "第三定律",
+         "翻譯",
+         "英國神秘情報局"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1469779851",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
