@@ -102666,8 +102666,8 @@
          "_禁黑"
       ],
       "comments": "1",
-      "rating": "28",
-      "votes": "28",
+      "rating": "29",
+      "votes": "29",
       "parent": null,
       "id": "1420857329",
       "detailed_rating": {
@@ -102783,12 +102783,16 @@
             [
                "9832594",
                1791668586
+            ],
+            [
+               "10502748",
+               1794071473
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 27,
-      "justified_votes": 27
+      "justified_rating": 28,
+      "justified_votes": 28
    },
    "1661018931": {
       "title": "SCP-5417 - 歡迎回家",
