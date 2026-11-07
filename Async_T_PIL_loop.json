@@ -12366,8 +12366,8 @@
          "_info"
       ],
       "comments": "4",
-      "rating": "8",
-      "votes": "8",
+      "rating": "9",
+      "votes": "9",
       "parent": "guide-hub",
       "id": "805066306",
       "detailed_rating": {
@@ -12403,12 +12403,16 @@
             [
                "5225164",
                1617120000
+            ],
+            [
+               "9163798",
+               1794024848
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 8,
-      "justified_votes": 8
+      "justified_rating": 9,
+      "justified_votes": 9
    },
    "1560601857": {
       "title": "「老梗項目構思」清單",
