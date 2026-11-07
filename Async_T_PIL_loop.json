@@ -107020,8 +107020,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "6",
-      "votes": "6",
+      "rating": "7",
+      "votes": "7",
       "parent": "scpdeclassified",
       "id": "1436918706",
       "detailed_rating": {
@@ -107049,12 +107049,16 @@
             [
                "9792558",
                1759762196
+            ],
+            [
+               "7562777",
+               1794049613
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 5,
-      "justified_votes": 5
+      "justified_rating": 6,
+      "justified_votes": 6
    },
    "1666809698": {
       "title": "SCP-7166 - 雷擊不貳",
