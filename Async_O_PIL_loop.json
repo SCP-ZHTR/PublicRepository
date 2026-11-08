@@ -83234,8 +83234,8 @@
          "_cc"
       ],
       "comments": "4",
-      "rating": "5",
-      "votes": "13",
+      "rating": "6",
+      "votes": "14",
       "parent": null,
       "id": "1329831795",
       "detailed_rating": {
@@ -83275,6 +83275,10 @@
             [
                "DELETED",
                1738291010
+            ],
+            [
+               "7612049",
+               1794131445
             ]
          ],
          "-": [
@@ -83297,8 +83301,8 @@
          ]
       },
       "deleted": false,
-      "justified_rating": 4,
-      "justified_votes": 12
+      "justified_rating": 5,
+      "justified_votes": 13
    },
    "1635441415": {
       "title": "百花魔女的愛之書",
