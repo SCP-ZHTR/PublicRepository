@@ -164365,8 +164365,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "6",
-      "votes": "6",
+      "rating": "7",
+      "votes": "7",
       "parent": null,
       "id": "1469532591",
       "detailed_rating": {
@@ -164394,12 +164394,16 @@
             [
                "10350928",
                1793444937
+            ],
+            [
+               "7504530",
+               1794111324
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 6,
-      "justified_votes": 6
+      "justified_rating": 7,
+      "justified_votes": 7
    },
    "1792857498": {
       "title": "SCP-ZH-415 - 花海",
