@@ -129193,8 +129193,8 @@
          "_licensebox"
       ],
       "comments": "1",
-      "rating": "3",
-      "votes": "3",
+      "rating": "4",
+      "votes": "4",
       "parent": null,
       "id": "1450028204",
       "detailed_rating": {
@@ -129210,12 +129210,16 @@
             [
                "5435485",
                1695089264
+            ],
+            [
+               "4990678",
+               1794119995
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 3,
-      "justified_votes": 3
+      "justified_rating": 4,
+      "justified_votes": 4
    },
    "1695128404": {
       "title": "SCP-171 - 集體腦沫",
