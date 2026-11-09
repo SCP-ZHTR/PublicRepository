@@ -34926,9 +34926,13 @@
       "created_at": "1794211436",
       "created_by": "4239775",
       "tags": [
-         "外觀主題"
+         "原創",
+         "外觀主題",
+         "第八處"
       ],
-      "hidden_tags": [],
+      "hidden_tags": [
+         "_cc"
+      ],
       "comments": "0",
       "rating": "0",
       "votes": "0",
