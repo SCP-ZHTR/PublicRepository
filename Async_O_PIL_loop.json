@@ -158770,8 +158770,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "1",
-      "votes": "5",
+      "rating": "2",
+      "votes": "6",
       "parent": null,
       "id": "1468794701",
       "detailed_rating": {
@@ -158787,6 +158787,10 @@
             [
                "8319365",
                1783007132
+            ],
+            [
+               "6693418",
+               1794446117
             ]
          ],
          "-": [
@@ -158801,8 +158805,8 @@
          ]
       },
       "deleted": false,
-      "justified_rating": 1,
-      "justified_votes": 5
+      "justified_rating": 2,
+      "justified_votes": 6
    },
    "1780472412": {
       "title": "SCP-ZH-290 - 千禧塔的公主",
