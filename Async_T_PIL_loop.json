@@ -147212,8 +147212,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "6",
-      "votes": "6",
+      "rating": "7",
+      "votes": "7",
       "parent": "scp-anthology-2024",
       "id": "1457428449",
       "detailed_rating": {
@@ -147241,12 +147241,16 @@
             [
                "8792088",
                1733852064
+            ],
+            [
+               "6381244",
+               1794486551
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 6,
-      "justified_votes": 6
+      "justified_rating": 7,
+      "justified_votes": 7
    },
    "1732436518": {
       "title": "SCP-3246 - 黑暗恐懼症：盲者被提",
