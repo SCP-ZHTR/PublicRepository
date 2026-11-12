@@ -19633,8 +19633,8 @@
          "_info"
       ],
       "comments": "0",
-      "rating": "24",
-      "votes": "24",
+      "rating": "25",
+      "votes": "25",
       "parent": null,
       "id": "924617948",
       "detailed_rating": {
@@ -19734,12 +19734,16 @@
             [
                "8319365",
                1709911675
+            ],
+            [
+               "6709715",
+               1794472337
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 24,
-      "justified_votes": 24
+      "justified_rating": 25,
+      "justified_votes": 25
    },
    "1572304346": {
       "title": "SCP-ZH-100 - 布楊島",
