@@ -164569,8 +164569,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "16",
-      "votes": "16",
+      "rating": "17",
+      "votes": "17",
       "parent": null,
       "id": "1469804255",
       "detailed_rating": {
@@ -164638,12 +164638,16 @@
             [
                "7605593",
                1794288061
+            ],
+            [
+               "7504530",
+               1794493543
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 16,
-      "justified_votes": 16
+      "justified_rating": 17,
+      "justified_votes": 17
    },
    "1794482695": {
       "title": "藝術創作中心-ZH",
