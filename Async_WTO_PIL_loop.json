@@ -22510,7 +22510,10 @@
       "fullname": "archived-and-alternate-translation-archive",
       "created_at": "1794586242",
       "created_by": "5370805",
-      "tags": [],
+      "tags": [
+         "中心",
+         "詮釋資料"
+      ],
       "hidden_tags": [],
       "comments": "0",
       "rating": "0",
