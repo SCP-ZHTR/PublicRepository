@@ -11081,7 +11081,7 @@
             ]
          ]
       },
-      "deleted": false,
+      "deleted": true,
       "justified_rating": 4,
       "justified_votes": 4
    },
@@ -11125,7 +11125,7 @@
             ]
          ]
       },
-      "deleted": false,
+      "deleted": true,
       "justified_rating": 6,
       "justified_votes": 6
    },
@@ -11793,7 +11793,7 @@
             ]
          ]
       },
-      "deleted": false,
+      "deleted": true,
       "justified_rating": 3,
       "justified_votes": 3
    },
@@ -12972,7 +12972,7 @@
             ]
          ]
       },
-      "deleted": false,
+      "deleted": true,
       "justified_rating": 2,
       "justified_votes": 2
    },
@@ -13000,7 +13000,7 @@
             ]
          ]
       },
-      "deleted": false,
+      "deleted": true,
       "justified_rating": 2,
       "justified_votes": 2
    },
@@ -14075,7 +14075,7 @@
             ]
          ]
       },
-      "deleted": false,
+      "deleted": true,
       "justified_rating": 2,
       "justified_votes": 2
    },
@@ -14099,7 +14099,7 @@
             ]
          ]
       },
-      "deleted": false,
+      "deleted": true,
       "justified_rating": 1,
       "justified_votes": 1
    },
