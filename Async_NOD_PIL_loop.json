@@ -35127,7 +35127,10 @@
       "fullname": "component:highlighter-footnotes",
       "created_at": "1794588242",
       "created_by": "8177208",
-      "tags": [],
+      "tags": [
+         "原創",
+         "組件"
+      ],
       "hidden_tags": [],
       "comments": "0",
       "rating": "0",
