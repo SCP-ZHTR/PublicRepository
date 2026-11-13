@@ -9116,7 +9116,7 @@
    },
    "1617014157": {
       "title": "我只是需要寫點什麼（被刪除）",
-      "fullname": "deleted:i-just-need-to-write-something",
+      "fullname": "archived:i-just-need-to-write-something",
       "created_at": "1617014157",
       "created_by": "6952002",
       "tags": [
@@ -9362,7 +9362,7 @@
    },
    "1617268824": {
       "title": "我，055（被刪除）",
-      "fullname": "deleted:i-055",
+      "fullname": "archived:i-055",
       "created_at": "1617268824",
       "created_by": "6952002",
       "tags": [
@@ -9432,7 +9432,7 @@
    },
    "1617341396": {
       "title": "我，資料刪除（被刪除）",
-      "fullname": "deleted:i-data-expunged",
+      "fullname": "archived:i-data-expunged",
       "created_at": "1617341396",
       "created_by": "7073060",
       "tags": [
@@ -34569,7 +34569,7 @@
    },
    "1623854935": {
       "title": "fishingenthusiast（以前是 plaguebearer） 從SCP基金會凱旋而歸（被刪除）",
-      "fullname": "deleted:fishingenthusiast-authorpage",
+      "fullname": "archived:fishingenthusiast-authorpage",
       "created_at": "1623854935",
       "created_by": "7073060",
       "tags": [
@@ -35089,13 +35089,36 @@
          "_licensebox"
       ],
       "comments": "0",
-      "rating": "0",
-      "votes": "0",
+      "rating": "5",
+      "votes": "5",
       "parent": null,
       "id": "1436607237",
-      "detailed_rating": {},
+      "detailed_rating": {
+         "+": [
+            [
+               "8177208",
+               1794530159
+            ],
+            [
+               "5701756",
+               1794530159
+            ],
+            [
+               "7064164",
+               1794530159
+            ],
+            [
+               "4442284",
+               1794530159
+            ],
+            [
+               "DELETED",
+               1794530159
+            ]
+         ]
+      },
       "deleted": false,
-      "justified_rating": 0,
-      "justified_votes": 0
+      "justified_rating": 4,
+      "justified_votes": 4
    }
 }
