@@ -7754,7 +7754,7 @@
    },
    "1616174684": {
       "title": "親愛的女兒（被刪除）",
-      "fullname": "deleted:artwork-nika-2",
+      "fullname": "archived:artwork-nika-2",
       "created_at": "1616174684",
       "created_by": "4990678",
       "tags": [
@@ -35070,6 +35070,31 @@
       "id": "1469804185",
       "detailed_rating": {},
       "deleted": true,
+      "justified_rating": 0,
+      "justified_votes": 0
+   },
+   "1666186051": {
+      "title": "自畫像:) （已刪除）",
+      "fullname": "archived:self-portrait",
+      "created_at": "1666186051",
+      "created_by": "5334590",
+      "tags": [
+         "en",
+         "halloweencon2022",
+         "翻譯",
+         "藝術作品"
+      ],
+      "hidden_tags": [
+         "_cc",
+         "_licensebox"
+      ],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1436607237",
+      "detailed_rating": {},
+      "deleted": false,
       "justified_rating": 0,
       "justified_votes": 0
    }
