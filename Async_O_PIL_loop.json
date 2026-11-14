@@ -155081,8 +155081,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "5",
-      "votes": "5",
+      "rating": "6",
+      "votes": "6",
       "parent": null,
       "id": "1467675095",
       "detailed_rating": {
@@ -155106,12 +155106,16 @@
             [
                "8418020",
                1767490010
+            ],
+            [
+               "5334590",
+               1794625962
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 5,
-      "justified_votes": 5
+      "justified_rating": 6,
+      "justified_votes": 6
    },
    "1766247672": {
       "title": "SCP-ZH-281 - 永續的湖中還劍",
