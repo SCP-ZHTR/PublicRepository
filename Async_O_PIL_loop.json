@@ -145147,8 +145147,8 @@
          "_南"
       ],
       "comments": "0",
-      "rating": "10",
-      "votes": "10",
+      "rating": "11",
+      "votes": "11",
       "parent": null,
       "id": "1456941974",
       "detailed_rating": {
@@ -145192,12 +145192,16 @@
             [
                "4990678",
                1727966772
+            ],
+            [
+               "5334590",
+               1794630453
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 10,
-      "justified_votes": 10
+      "justified_rating": 11,
+      "justified_votes": 11
    },
    "1727502290": {
       "title": "SCP-ZH-537 - 只要一口氣",
