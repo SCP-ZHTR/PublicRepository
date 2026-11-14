@@ -140394,8 +140394,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "7",
-      "votes": "7",
+      "rating": "8",
+      "votes": "8",
       "parent": null,
       "id": "1455925056",
       "detailed_rating": {
@@ -140427,12 +140427,16 @@
             [
                "6952002",
                1724441318
+            ],
+            [
+               "5334590",
+               1794630935
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 7,
-      "justified_votes": 7
+      "justified_rating": 8,
+      "justified_votes": 8
    },
    "1721776216": {
       "title": "SCP-ZH-159 - 似曾相識",
