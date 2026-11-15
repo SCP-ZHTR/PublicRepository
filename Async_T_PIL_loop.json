@@ -157994,8 +157994,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "7",
-      "votes": "7",
+      "rating": "8",
+      "votes": "8",
       "parent": null,
       "id": "1469519132",
       "detailed_rating": {
@@ -158027,12 +158027,16 @@
             [
                "7513990",
                1792958421
+            ],
+            [
+               "4239775",
+               1794754032
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 7,
-      "justified_votes": 7
+      "justified_rating": 8,
+      "justified_votes": 8
    },
    "1793022821": {
       "title": "SCP-9996 - 有著許多門的地方",
