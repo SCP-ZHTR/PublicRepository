@@ -164758,8 +164758,8 @@
       ],
       "hidden_tags": [],
       "comments": "3",
-      "rating": "4",
-      "votes": "4",
+      "rating": "5",
+      "votes": "5",
       "parent": null,
       "id": "1469921897",
       "detailed_rating": {
@@ -164779,12 +164779,16 @@
             [
                "7064164",
                1794746323
+            ],
+            [
+               "4990678",
+               1794837053
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 4,
-      "justified_votes": 4
+      "justified_rating": 5,
+      "justified_votes": 5
    },
    "1794831643": {
       "title": "無餘依冷池",
