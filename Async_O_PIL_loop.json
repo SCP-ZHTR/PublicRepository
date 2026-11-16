@@ -164785,5 +164785,28 @@
       "deleted": false,
       "justified_rating": 4,
       "justified_votes": 4
+   },
+   "1794831643": {
+      "title": "無餘依冷池",
+      "fullname": "sorrowinthepool",
+      "created_at": "1794831643",
+      "created_by": "4206567",
+      "tags": [
+         "26年越中瘋狂大戰",
+         "原創",
+         "悲戚",
+         "故事",
+         "第一人稱"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1469942698",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
