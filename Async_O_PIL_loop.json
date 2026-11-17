@@ -164808,8 +164808,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "2",
-      "votes": "2",
+      "rating": "3",
+      "votes": "3",
       "parent": null,
       "id": "1469942698",
       "detailed_rating": {
@@ -164821,12 +164821,16 @@
             [
                "6152598",
                1794850884
+            ],
+            [
+               "4206567",
+               1794882726
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 2,
-      "justified_votes": 2
+      "justified_rating": 3,
+      "justified_votes": 3
    },
    "1794843044": {
       "title": "SCP-ZH-834 - 《刺糸胞生平錄》",
