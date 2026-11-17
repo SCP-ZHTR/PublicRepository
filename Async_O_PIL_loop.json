@@ -161439,8 +161439,8 @@
          "_事故"
       ],
       "comments": "0",
-      "rating": "11",
-      "votes": "11",
+      "rating": "12",
+      "votes": "12",
       "parent": null,
       "id": "1469240770",
       "detailed_rating": {
@@ -161488,12 +161488,16 @@
             [
                "7605593",
                1788612673
+            ],
+            [
+               "9555530",
+               1794926927
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 11,
-      "justified_votes": 11
+      "justified_rating": 12,
+      "justified_votes": 12
    },
    "1787931742": {
       "title": "SCP-ZH-378 - 艾蟻登法環",
