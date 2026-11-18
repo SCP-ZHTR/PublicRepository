@@ -35172,5 +35172,25 @@
       "deleted": false,
       "justified_rating": 0,
       "justified_votes": 0
+   },
+   "1795012788": {
+      "title": "Estrella 的綜合紙張素材組",
+      "fullname": "component:assorted-paper",
+      "created_at": "1795012788",
+      "created_by": "8177208",
+      "tags": [
+         "組件",
+         "翻譯"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1469977739",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
