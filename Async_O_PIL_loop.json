@@ -164969,5 +164969,26 @@
       "deleted": false,
       "justified_rating": 7,
       "justified_votes": 7
+   },
+   "1795082009": {
+      "title": "繁中作者聯合推薦新手包",
+      "fullname": "unofficial-scp-starter-picks-zh",
+      "created_at": "1795082009",
+      "created_by": "6217438",
+      "tags": [
+         "中心",
+         "原創",
+         "合著"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1469994448",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
