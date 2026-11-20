@@ -121843,8 +121843,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "6",
-      "votes": "6",
+      "rating": "7",
+      "votes": "7",
       "parent": null,
       "id": "1447443769",
       "detailed_rating": {
@@ -121872,12 +121872,16 @@
             [
                "9443485",
                1748790283
+            ],
+            [
+               "10615169",
+               1795167928
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 6,
-      "justified_votes": 6
+      "justified_rating": 7,
+      "justified_votes": 7
    },
    "1682210994": {
       "title": "SCP-1853 - 表現增強劑",
