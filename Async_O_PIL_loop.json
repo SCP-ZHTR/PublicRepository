@@ -165046,5 +165046,27 @@
       "deleted": false,
       "justified_rating": 1,
       "justified_votes": 1
+   },
+   "1795276577": {
+      "title": "SCP-ZH-348 糖貓斑斑",
+      "fullname": "scp-zh-348",
+      "created_at": "1795276577",
+      "created_by": "4990678",
+      "tags": [
+         "26年越中瘋狂大戰",
+         "euclid",
+         "scp",
+         "原創"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1470043682",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
