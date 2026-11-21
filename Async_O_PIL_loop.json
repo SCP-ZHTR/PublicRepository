@@ -164930,8 +164930,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "7",
-      "votes": "7",
+      "rating": "8",
+      "votes": "8",
       "parent": null,
       "id": "1469970981",
       "detailed_rating": {
@@ -164963,12 +164963,16 @@
             [
                "6217438",
                1795014363
+            ],
+            [
+               "7612049",
+               1795246632
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 7,
-      "justified_votes": 7
+      "justified_rating": 8,
+      "justified_votes": 8
    },
    "1795082009": {
       "title": "繁中作者聯合推薦新手包",
