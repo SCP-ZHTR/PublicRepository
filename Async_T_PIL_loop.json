@@ -28546,8 +28546,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "20",
-      "votes": "20",
+      "rating": "21",
+      "votes": "21",
       "parent": null,
       "id": "1002179078",
       "detailed_rating": {
@@ -28631,12 +28631,16 @@
             [
                "DELETED",
                1724380617
+            ],
+            [
+               "9763414",
+               1795413579
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 19,
-      "justified_votes": 19
+      "justified_rating": 20,
+      "justified_votes": 20
    },
    "1584604929": {
       "title": "SCP-085 - 手繪的「Cassy」",
