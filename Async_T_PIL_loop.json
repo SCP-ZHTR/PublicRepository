@@ -59055,8 +59055,8 @@
          "_licensebox"
       ],
       "comments": "0",
-      "rating": "23",
-      "votes": "23",
+      "rating": "24",
+      "votes": "24",
       "parent": null,
       "id": "1306990867",
       "detailed_rating": {
@@ -59152,12 +59152,16 @@
             [
                "7571354",
                1752069144
+            ],
+            [
+               "9763414",
+               1795438179
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 22,
-      "justified_votes": 22
+      "justified_rating": 23,
+      "justified_votes": 23
    },
    "1614171758": {
       "title": "倒數",
