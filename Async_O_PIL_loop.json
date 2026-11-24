@@ -164903,8 +164903,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "7",
-      "votes": "7",
+      "rating": "8",
+      "votes": "8",
       "parent": null,
       "id": "1469943229",
       "detailed_rating": {
@@ -164936,12 +164936,16 @@
             [
                "5251681",
                1794954010
+            ],
+            [
+               "6152598",
+               1795515742
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 7,
-      "justified_votes": 7
+      "justified_rating": 8,
+      "justified_votes": 8
    },
    "1794989898": {
       "title": "SCP-ZH-746 - 燦金無人知曉",
@@ -165096,8 +165100,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "2",
-      "votes": "2",
+      "rating": "3",
+      "votes": "3",
       "parent": null,
       "id": "1470043682",
       "detailed_rating": {
@@ -165109,12 +165113,16 @@
             [
                "4206567",
                1795326198
+            ],
+            [
+               "6152598",
+               1795515742
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 2,
-      "justified_votes": 2
+      "justified_rating": 3,
+      "justified_votes": 3
    },
    "1795276698": {
       "title": "SCP-ZH-370 - 家興",
