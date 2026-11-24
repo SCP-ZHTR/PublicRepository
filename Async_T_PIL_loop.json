@@ -158203,8 +158203,8 @@
       ],
       "hidden_tags": [],
       "comments": "2",
-      "rating": "5",
-      "votes": "5",
+      "rating": "6",
+      "votes": "6",
       "parent": null,
       "id": "1469816269",
       "detailed_rating": {
@@ -158228,12 +158228,16 @@
             [
                "9523789",
                1795331196
+            ],
+            [
+               "4990678",
+               1795545678
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 5,
-      "justified_votes": 5
+      "justified_rating": 6,
+      "justified_votes": 6
    },
    "1795246474": {
       "title": "SCP-4184-JP - 來到浮橋的人，某日漂流至此的你",
