@@ -165018,8 +165018,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "2",
-      "votes": "2",
+      "rating": "3",
+      "votes": "3",
       "parent": null,
       "id": "1469994448",
       "detailed_rating": {
@@ -165031,12 +165031,16 @@
             [
                "7840542",
                1795114994
+            ],
+            [
+               "5565302",
+               1795498217
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 2,
-      "justified_votes": 2
+      "justified_rating": 3,
+      "justified_votes": 3
    },
    "1795230104": {
       "title": "SCP-ZH-963 - 人與草與虫",
