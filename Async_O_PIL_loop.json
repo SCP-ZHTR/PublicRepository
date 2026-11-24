@@ -164422,12 +164422,13 @@
          "原創",
          "巡禮之年",
          "機密分級",
-         "精神影響"
+         "精神影響",
+         "音樂性"
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "0",
-      "votes": "6",
+      "rating": "-1",
+      "votes": "7",
       "parent": null,
       "id": "1469532610",
       "detailed_rating": {
@@ -164457,12 +164458,16 @@
             [
                "4474355",
                1793452201
+            ],
+            [
+               "5370805",
+               1795561426
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 0,
-      "justified_votes": 6
+      "justified_rating": -1,
+      "justified_votes": 7
    },
    "1792853108": {
       "title": "SCP-ZH-318 - 狗螺",
@@ -165120,7 +165125,10 @@
          "26年越中瘋狂大戰",
          "euclid",
          "scp",
-         "原創"
+         "化學性",
+         "原創",
+         "反熵",
+         "貓類"
       ],
       "hidden_tags": [],
       "comments": "0",
