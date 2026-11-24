@@ -165063,8 +165063,8 @@
       ],
       "hidden_tags": [],
       "comments": "2",
-      "rating": "1",
-      "votes": "1",
+      "rating": "2",
+      "votes": "2",
       "parent": null,
       "id": "1470020029",
       "detailed_rating": {
@@ -165072,12 +165072,16 @@
             [
                "8543386",
                1795231742
+            ],
+            [
+               "6152598",
+               1795515620
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 1,
-      "justified_votes": 1
+      "justified_rating": 2,
+      "justified_votes": 2
    },
    "1795276577": {
       "title": "SCP-ZH-348 - 糖貓斑斑",
