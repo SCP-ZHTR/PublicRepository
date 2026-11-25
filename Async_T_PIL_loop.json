@@ -158271,5 +158271,28 @@
       "deleted": false,
       "justified_rating": 1,
       "justified_votes": 1
+   },
+   "1795587695": {
+      "title": "SCP-009-KZ-J - 這並不是瑞克搖",
+      "fullname": "scp-009-kz-j-bul-rikroll-emes",
+      "created_at": "1795587695",
+      "created_by": "4474355",
+      "tags": [
+         "kz",
+         "scp",
+         "thaumiel",
+         "搞笑",
+         "翻譯"
+      ],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1470072994",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
