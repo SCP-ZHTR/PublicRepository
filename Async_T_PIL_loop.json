@@ -158353,5 +158353,38 @@
       "deleted": false,
       "justified_rating": -1,
       "justified_votes": 1
+   },
+   "1795811394": {
+      "title": "SCP-123-VN - 星空刺蝟歷險記 第二章：你的夢境英雄之旅！",
+      "fullname": "scp-123-vn",
+      "created_at": "1795811394",
+      "created_by": "5370805",
+      "tags": [
+         "keter",
+         "site-zh-12",
+         "vn",
+         "二次翻譯",
+         "動物",
+         "夢境",
+         "奇幻",
+         "智能",
+         "活物",
+         "研究員lucifelle",
+         "翻譯",
+         "聖夜越夜耶"
+      ],
+      "hidden_tags": [
+         "_cc",
+         "_licensebox"
+      ],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1470096817",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
