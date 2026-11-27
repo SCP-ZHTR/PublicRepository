@@ -22626,5 +22626,22 @@
       "deleted": true,
       "justified_rating": 0,
       "justified_votes": 0
+   },
+   "1795811394": {
+      "title": "SCP-123-VN - 星空刺蝟歷險記 第二章：你的夢境英雄之旅！",
+      "fullname": "scp-123-vn",
+      "created_at": "1795811394",
+      "created_by": "5370805",
+      "tags": [],
+      "hidden_tags": [],
+      "comments": "0",
+      "rating": "0",
+      "votes": "0",
+      "parent": null,
+      "id": "1470096817",
+      "detailed_rating": {},
+      "deleted": false,
+      "justified_rating": 0,
+      "justified_votes": 0
    }
 }
