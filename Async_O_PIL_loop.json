@@ -164932,8 +164932,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "8",
-      "votes": "8",
+      "rating": "9",
+      "votes": "9",
       "parent": null,
       "id": "1469943229",
       "detailed_rating": {
@@ -164969,12 +164969,16 @@
             [
                "6152598",
                1795515742
+            ],
+            [
+               "4474355",
+               1795818340
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 8,
-      "justified_votes": 8
+      "justified_rating": 9,
+      "justified_votes": 9
    },
    "1794989898": {
       "title": "SCP-ZH-746 - 燦金無人知曉",
@@ -164995,8 +164999,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "8",
-      "votes": "8",
+      "rating": "9",
+      "votes": "9",
       "parent": null,
       "id": "1469970981",
       "detailed_rating": {
@@ -165032,12 +165036,16 @@
             [
                "7612049",
                1795246632
+            ],
+            [
+               "4474355",
+               1795818340
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 8,
-      "justified_votes": 8
+      "justified_rating": 9,
+      "justified_votes": 9
    },
    "1795082009": {
       "title": "繁中作者聯合推薦新手包",
