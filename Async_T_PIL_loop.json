@@ -3547,8 +3547,8 @@
          "_cc"
       ],
       "comments": "3",
-      "rating": "4",
-      "votes": "4",
+      "rating": "5",
+      "votes": "5",
       "parent": null,
       "id": "675061248",
       "detailed_rating": {
@@ -3568,12 +3568,16 @@
             [
                "5225164",
                1617120000
+            ],
+            [
+               "9832594",
+               1795769885
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 4,
-      "justified_votes": 4
+      "justified_rating": 5,
+      "justified_votes": 5
    },
    "1554649130": {
       "title": "SCP-1045 - 生命蠟燭",
