@@ -164881,8 +164881,8 @@
       ],
       "hidden_tags": [],
       "comments": "1",
-      "rating": "5",
-      "votes": "5",
+      "rating": "6",
+      "votes": "6",
       "parent": null,
       "id": "1469942698",
       "detailed_rating": {
@@ -164906,12 +164906,16 @@
             [
                "5370805",
                1795559331
+            ],
+            [
+               "4990678",
+               1795881284
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 5,
-      "justified_votes": 5
+      "justified_rating": 6,
+      "justified_votes": 6
    },
    "1794843044": {
       "title": "SCP-ZH-834 - 《刺糸胞生平錄》",
@@ -165104,8 +165108,8 @@
       ],
       "hidden_tags": [],
       "comments": "2",
-      "rating": "3",
-      "votes": "3",
+      "rating": "4",
+      "votes": "4",
       "parent": null,
       "id": "1470020029",
       "detailed_rating": {
@@ -165121,12 +165125,16 @@
             [
                "4474355",
                1795818210
+            ],
+            [
+               "4990678",
+               1795881284
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 3,
-      "justified_votes": 3
+      "justified_rating": 4,
+      "justified_votes": 4
    },
    "1795276577": {
       "title": "SCP-ZH-348 - 糖貓斑斑",
