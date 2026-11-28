@@ -165144,8 +165144,8 @@
       ],
       "hidden_tags": [],
       "comments": "0",
-      "rating": "4",
-      "votes": "4",
+      "rating": "5",
+      "votes": "5",
       "parent": null,
       "id": "1470043682",
       "detailed_rating": {
@@ -165165,12 +165165,16 @@
             [
                "4474355",
                1795818210
+            ],
+            [
+               "9523789",
+               1795833094
             ]
          ]
       },
       "deleted": false,
-      "justified_rating": 4,
-      "justified_votes": 4
+      "justified_rating": 5,
+      "justified_votes": 5
    },
    "1795276698": {
       "title": "SCP-ZH-370 - 家興",
